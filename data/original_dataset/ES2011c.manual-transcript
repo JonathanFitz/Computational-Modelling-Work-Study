@@ -1,0 +1,791 @@
+Observation: ES2011c; Result size: 788; atts: 2
+$d@nite:id	$d	
+ES2011c.A.dialog-act.dharshi.1	Hi everyone , hope you had a nice lunch . 	
+ES2011c.A.dialog-act.dharshi.2	Um . 	
+ES2011c.C.dialog-act.dharshi.1		
+ES2011c.A.dialog-act.dharshi.3	Alright we're moving on to conceptual design . 	
+ES2011c.C.dialog-act.dharshi.2	'Scuse me . 	
+ES2011c.A.dialog-act.dharshi.4		
+ES2011c.D.dialog-act.dharshi.1	Bless you . 	
+ES2011c.A.dialog-act.dharshi.5	Um , I'll just review what we did in our last meeting . 	
+ES2011c.A.dialog-act.dharshi.6	Um , under marketing we targeted our audience , 	
+ES2011c.A.dialog-act.dharshi.7	and Um , yeah . 	
+ES2011c.D.dialog-act.dharshi.2		
+ES2011c.A.dialog-act.dharshi.8	That was generally how helpful that was . 	
+ES2011c.B.dialog-act.dharshi.1		
+ES2011c.A.dialog-act.dharshi.9	Um , then we considered some design options with how it should look , 	
+ES2011c.A.dialog-act.dharshi.10	um , we discussed an iPod-like button system 	
+ES2011c.A.dialog-act.dharshi.11	which , uh , we haven't concluded but we're 	
+ES2011c.A.dialog-act.dharshi.12	Right , um 	
+ES2011c.A.dialog-act.dharshi.13	So , if you all have presentations to do , we can see what where you've come from our last time . 	
+ES2011c.A.dialog-act.dharshi.14	Does everyone have presentations ? 	
+ES2011c.B.dialog-act.dharshi.2	Hmm . 	
+ES2011c.D.dialog-act.dharshi.3	Yeah . 	
+ES2011c.C.dialog-act.dharshi.3	Yes . 	
+ES2011c.A.dialog-act.dharshi.15	Okay . 	
+ES2011c.B.dialog-act.dharshi.3	Yes . 	
+ES2011c.A.dialog-act.dharshi.16	Would anybody like to go first ? 	
+ES2011c.B.dialog-act.dharshi.4	Sure . 	
+ES2011c.A.dialog-act.dharshi.17	Okay . 	
+ES2011c.B.dialog-act.dharshi.5	So I've been looking at the components design . 	
+ES2011c.B.dialog-act.dharshi.6	Um . Mostly by consulting remote control diagrams from the internet 	
+ES2011c.B.dialog-act.dharshi.7	and also by incorporating design ideas from the last project meeting . 	
+ES2011c.B.dialog-act.dharshi.8	Um , so we need some custom design parts , and other parts we'll just use standard . 	
+ES2011c.B.dialog-act.dharshi.9	Um , I assume we'll be custom designing our case , 	
+ES2011c.B.dialog-act.dharshi.10	probably a hard plastic or some other material case , to protect the remote and the locator . 	
+ES2011c.B.dialog-act.dharshi.11	And we'll need to custom desi design a circuit board , 	
+ES2011c.B.dialog-act.dharshi.12	because the circuit board has to take the button input and send it to the output so you have to design that each time . 	
+ES2011c.B.dialog-act.dharshi.13	But once we come up with a design we'll send it to the circuit people and they'll just print it out . 	
+ES2011c.B.dialog-act.dharshi.14	Um , standard parts include the buttons and the wheels , um the iPod-style wheel . 	
+ES2011c.B.dialog-act.dharshi.15	The infrared L_E_D_ is actually gonna be included in the circuit board that comes with it . 	
+ES2011c.B.dialog-act.dharshi.16	Um , we need a radio sender and receiver , those are standard . 	
+ES2011c.B.dialog-act.dharshi.17	And al we also need a beeper or buzzer or other sort of noise thing for locating the remote . 	
+ES2011c.B.dialog-act.dharshi.18	So we have some material options . 	
+ES2011c.B.dialog-act.dharshi.19	Um , we can use rubber , plastic , wood or titanium . 	
+ES2011c.B.dialog-act.dharshi.20	Um , I'd recommend against titanium 	
+ES2011c.B.dialog-act.dharshi.21	because it can only be used in the flat cases and it's really heavy . 	
+ES2011c.B.dialog-act.dharshi.22	Um , and the rubber case requires rubber buttons , so if we definitely want plastic buttons , we shouldn't have a rubber case . 	
+ES2011c.A.dialog-act.dharshi.18	And why not wood ? 	
+ES2011c.B.dialog-act.dharshi.23	And , 	
+ES2011c.B.dialog-act.dharshi.24	hmm ? 	
+ES2011c.A.dialog-act.dharshi.19	And why not wood ? 	
+ES2011c.B.dialog-act.dharshi.25	Uh , well we can use wood . 	
+ES2011c.B.dialog-act.dharshi.26	I don't know why we'd want to . 	
+ES2011c.B.dialog-act.dharshi.27	Um and also we should note that if we want an iPod-style wheel button , it's gonna require a m qu slightly more expensive chip . 	
+ES2011c.B.dialog-act.dharshi.28	We can't use the minimal chip , we need the next higher grade , which is called regular . 	
+ES2011c.B.dialog-act.dharshi.29	I don't think it's much more expensive , but it is more expensive . 	
+ES2011c.B.dialog-act.dharshi.30	So that's what I've got on design . 	
+ES2011c.A.dialog-act.dharshi.20	'S good . 	
+ES2011c.D.dialog-act.dharshi.4	Um , can I do next ? 'Cause I have to say something about the material 	
+ES2011c.A.dialog-act.dharshi.21	Hmm . 	
+ES2011c.B.dialog-act.dharshi.31		
+ES2011c.C.dialog-act.dharshi.4	Yeah . 	
+ES2011c.D.dialog-act.dharshi.6	which is quite shocking . 	
+ES2011c.B.dialog-act.dharshi.32		
+ES2011c.D.dialog-act.dharshi.7	Ha . Mm . 	
+ES2011c.D.dialog-act.dharshi.8	Right , um , I have been searching the current trends , um , both on the web and via fashion-watchers , 	
+ES2011c.D.dialog-act.dharshi.9	and the findings are that the first thing to aim for is a fashion uh , fancy look and feel . 	
+ES2011c.D.dialog-act.dharshi.10	Um . Next comes technologic technology and the innovations to do with that . 	
+ES2011c.D.dialog-act.dharshi.11	And th last thing is the easy to use um factor . 	
+ES2011c.D.dialog-act.dharshi.12	Um , fancy look and feel goes far beyond the functionality of the thing , 	
+ES2011c.D.dialog-act.dharshi.13	but I suppose that is included in in the ease of use . 	
+ES2011c.D.dialog-act.dharshi.14	Um , our fashion-watchers in Milan and Paris have decided , well noticed , that f the fruit and vegetable theme is the is the current trend 	
+ES2011c.A.dialog-act.dharshi.23		
+ES2011c.C.dialog-act.dharshi.6		
+ES2011c.C.dialog-act.dharshi.5		
+ES2011c.A.dialog-act.dharshi.22		
+ES2011c.B.dialog-act.dharshi.33		
+ES2011c.D.dialog-act.dharshi.15	and and therefore um we need to go for that if we want , you know , wh whatever our motto is . Um . 	
+ES2011c.D.dialog-act.dharshi.16	For fashion , we go for fashion . 	
+ES2011c.A.dialog-act.dharshi.24	Mm . 	
+ES2011c.D.dialog-act.dharshi.17	The fashion in electronics . 	
+ES2011c.D.dialog-act.dharshi.18	So we want to put the fashion electronics , we need to go fruit and vegetables . 	
+ES2011c.D.dialog-act.dharshi.19	And also go for a spongy feel , 	
+ES2011c.D.dialog-act.dharshi.20	so the the question of our technology whate is Industrial Designer . 	
+ES2011c.D.dialog-act.dharshi.22	As to the material should be limited to 	
+ES2011c.D.dialog-act.dharshi.23	I don't know how spongy it can be , 	
+ES2011c.D.dialog-act.dharshi.24	should discuss this together , 	
+ES2011c.D.dialog-act.dharshi.25	I don't know how spongy can be achieved but apparently that's the way to go . 	
+ES2011c.D.dialog-act.dharshi.26	Um . I I have been thinking about this fruit and vegetable thing and I prefer fruits to vegetables , 	
+ES2011c.B.dialog-act.dharshi.34		
+ES2011c.D.dialog-act.dharshi.27	but that's just a personal opinion . 	
+ES2011c.C.dialog-act.dharshi.7		
+ES2011c.D.dialog-act.dharshi.28	I think 	
+ES2011c.A.dialog-act.dharshi.25		
+ES2011c.D.dialog-act.dharshi.29	I think people like to have a fruit instead of a vegetables in their sitting room . 	
+ES2011c.B.dialog-act.dharshi.35		
+ES2011c.D.dialog-act.dharshi.30	Uh those are just suggestions 	
+ES2011c.D.dialog-act.dharshi.31	and also we need to decide whether this should be printed , 	
+ES2011c.D.dialog-act.dharshi.32	so that still has to do with the material discuss 	
+ES2011c.D.dialog-act.dharshi.33	should we print the fruit stuff , or should the actual remote look like a fruit ? 	
+ES2011c.A.dialog-act.dharshi.26		
+ES2011c.B.dialog-act.dharshi.36		
+ES2011c.D.dialog-act.dharshi.34	Um , and finally again with the spongy . 	
+ES2011c.D.dialog-act.dharshi.35	It has to be technologically innovative so maybe again our Industrial Designer should look into that 	
+ES2011c.D.dialog-act.dharshi.36	or find come up with a solution that's better than mine . 	
+ES2011c.D.dialog-act.dharshi.37	Um , yeah , to summarise these are the points that need to be um , touched in order to get a good decision , 	
+ES2011c.D.dialog-act.dharshi.38	and hopefully our User Interface has more to say about the matter . 	
+ES2011c.C.dialog-act.dharshi.8	Mm-hmm . 	
+ES2011c.D.dialog-act.dharshi.39	Thank you for your attention . 	
+ES2011c.C.dialog-act.dharshi.9	So . 	
+ES2011c.A.dialog-act.dharshi.29	I think it's the next it's the blue one , yeah . 	
+ES2011c.C.dialog-act.dharshi.10	Oh , uh , there we go . 	
+ES2011c.C.dialog-act.dharshi.11	Uh . 	
+ES2011c.C.dialog-act.dharshi.12	Okay . Um . 	
+ES2011c.C.dialog-act.dharshi.13	Well so that fruit and vegetables thing huh . 	
+ES2011c.D.dialog-act.dharshi.40		
+ES2011c.A.dialog-act.dharshi.28		
+ES2011c.B.dialog-act.dharshi.38		
+ES2011c.C.dialog-act.dharshi.14	I actually wasn't aware of the new trends in electronics 	
+ES2011c.A.dialog-act.dharshi.27		
+ES2011c.B.dialog-act.dharshi.37		
+ES2011c.C.dialog-act.dharshi.15	and and uh 	
+ES2011c.D.dialog-act.dharshi.41	Neither was I . 	
+ES2011c.D.dialog-act.dharshi.42	Well it's a trend in fashion , in clothing and um fabrics . 	
+ES2011c.A.dialog-act.dharshi.30	Yeah but you're not gonna wear your remote control . 	
+ES2011c.B.dialog-act.dharshi.39		
+ES2011c.C.dialog-act.dharshi.16	So so okay , let me get this right . 	
+ES2011c.C.dialog-act.dharshi.17	Okay , uh 	
+ES2011c.C.dialog-act.dharshi.18	Okay , alright anyway . 	
+ES2011c.C.dialog-act.dharshi.20	Um here we go . 	
+ES2011c.C.dialog-act.dharshi.21	Conceptual User Interface . 	
+ES2011c.C.dialog-act.dharshi.22	Trying 	
+ES2011c.C.dialog-act.dharshi.23	we're gonna try to talk about , um what kind of uh how people are actually going to be using this iPod-ish remote control , based on fruit vegetable design . 	
+ES2011c.A.dialog-act.dharshi.31		
+ES2011c.C.dialog-act.dharshi.24	And , um , basically , so , this is a touched ba a touch-based graphical interface system . 	
+ES2011c.C.dialog-act.dharshi.25	Uh , so people are going to be looking at this little screen . 	
+ES2011c.C.dialog-act.dharshi.26	Um , kind of 	
+ES2011c.C.dialog-act.dharshi.27	I mean I assume , are we still on the screen idea ? 	
+ES2011c.A.dialog-act.dharshi.32	Oh we s hadn't discussed it last time . 	
+ES2011c.C.dialog-act.dharshi.28	'Cause if we're gonna have to ha if we have this it just seems like in order to have someone going around and using the um the wheel 	
+ES2011c.A.dialog-act.dharshi.33	You need a screen for it ? 	
+ES2011c.C.dialog-act.dharshi.29	you 	
+ES2011c.C.dialog-act.dharshi.30	it seems like you would need a screen . 	
+ES2011c.B.dialog-act.dharshi.41	You need a screen with music because you're looking for a specific song , 	
+ES2011c.B.dialog-act.dharshi.42	like you know that band or whatever . 	
+ES2011c.C.dialog-act.dharshi.31	But like if you think about it 	
+ES2011c.B.dialog-act.dharshi.43	With T_V_ channels it's , you know , one two three . So 	
+ES2011c.C.dialog-act.dharshi.32	yeah but if 	
+ES2011c.C.dialog-act.dharshi.33	so is it just okay . 	
+ES2011c.C.dialog-act.dharshi.34	So , b you you're gonna have to switch to like D_V_D_ and like other things like that , aren't you ? 	
+ES2011c.A.dialog-act.dharshi.34	We're , um , we're actually not having D_V_D_ , 	
+ES2011c.C.dialog-act.dharshi.35	Are we 	
+ES2011c.A.dialog-act.dharshi.35	that was one of th I I was 	
+ES2011c.B.dialog-act.dharshi.44	Yeah . 	
+ES2011c.C.dialog-act.dharshi.36	Okay . 	
+ES2011c.D.dialog-act.dharshi.43		
+ES2011c.A.dialog-act.dharshi.36	sorry , 	
+ES2011c.B.dialog-act.dharshi.40		
+ES2011c.A.dialog-act.dharshi.37	I I meant to update you on that . Um . 	
+ES2011c.C.dialog-act.dharshi.37	Alright . Okay . 	
+ES2011c.D.dialog-act.dharshi.44	But the screen can come up on the telly , the she said . 	
+ES2011c.C.dialog-act.dharshi.38	Okay . Okay . 	
+ES2011c.D.dialog-act.dharshi.45	That correct ? 	
+ES2011c.B.dialog-act.dharshi.45	Yeah . 	
+ES2011c.C.dialog-act.dharshi.39	So anyway if 	
+ES2011c.C.dialog-act.dharshi.40	well we just 	
+ES2011c.C.dialog-act.dharshi.41	we need to 	
+ES2011c.C.dialog-act.dharshi.42	Okay so if we're not gonna have a screen I think 	
+ES2011c.C.dialog-act.dharshi.43	I was thinking okay . 	
+ES2011c.C.dialog-act.dharshi.44	So basically it's just gonna be a wheel then ? 	
+ES2011c.C.dialog-act.dharshi.45	And you're just gonna 	
+ES2011c.C.dialog-act.dharshi.46	I mean I think you're gonna have to have some kind of a 	
+ES2011c.D.dialog-act.dharshi.46	Graphical interface ? 	
+ES2011c.C.dialog-act.dharshi.47	right . 	
+ES2011c.C.dialog-act.dharshi.48	Yeah 	
+ES2011c.D.dialog-act.dharshi.47	Uh on the 	
+ES2011c.C.dialog-act.dharshi.49	like you're g 	
+ES2011c.D.dialog-act.dharshi.48	you can have it on the telly though . 	
+ES2011c.C.dialog-act.dharshi.50	yeah 	
+ES2011c.A.dialog-act.dharshi.38	Yeah . 	
+ES2011c.C.dialog-act.dharshi.51	like you're gonna have to be able to switch to like a mode where you can 	
+ES2011c.C.dialog-act.dharshi.52	okay we're not choosing that , I guess . 	
+ES2011c.C.dialog-act.dharshi.53	But like choose channel control , 	
+ES2011c.C.dialog-act.dharshi.54	like if you wa 	
+ES2011c.C.dialog-act.dharshi.55	Because people aren't gonna be able to have like , um , you know , channels one two three four five six seven eight nine . 	
+ES2011c.A.dialog-act.dharshi.39	Yeah . 	
+ES2011c.C.dialog-act.dharshi.56	So that 	
+ES2011c.C.dialog-act.dharshi.57	people seems to be well 	
+ES2011c.A.dialog-act.dharshi.40	You've 	
+ES2011c.A.dialog-act.dharshi.41	Yeah , I know what you're saying , 	
+ES2011c.C.dialog-act.dharshi.58	You know . 	
+ES2011c.A.dialog-act.dharshi.42	you have to 	
+ES2011c.C.dialog-act.dharshi.59	But you're gonna have to scroll to get channels . 	
+ES2011c.C.dialog-act.dharshi.60	So um 	
+ES2011c.C.dialog-act.dharshi.61	I guess that's wh why I was thinking you may need to have some kind of a screen 	
+ES2011c.C.dialog-act.dharshi.62	because 	
+ES2011c.C.dialog-act.dharshi.63	So that people can go arou go back and forth and choose if 	
+ES2011c.C.dialog-act.dharshi.64	or or 	
+ES2011c.C.dialog-act.dharshi.65	then again if you just 	
+ES2011c.C.dialog-act.dharshi.66	I guess I c 	
+ES2011c.C.dialog-act.dharshi.67	I can see like some kind of a thing where like you sort of have like the number come up on the T_V_ like what channel you're on . 	
+ES2011c.D.dialog-act.dharshi.49	Yeah , yeah , yeah . 	
+ES2011c.C.dialog-act.dharshi.68	You can just scroll and you can just get to like five or like twelve or 	
+ES2011c.B.dialog-act.dharshi.46	Yeah . 	
+ES2011c.D.dialog-act.dharshi.50	Yeah , yeah . 	
+ES2011c.A.dialog-act.dharshi.43	But but imagine someone with s 	
+ES2011c.B.dialog-act.dharshi.47	My flatmates actually had one with a wheel , and it it did show up on the T_V_ . 	
+ES2011c.C.dialog-act.dharshi.69	I oh yeah ? 	
+ES2011c.A.dialog-act.dharshi.44	But i what if you have satellite and you have like two hundred channels . 	
+ES2011c.B.dialog-act.dharshi.48		
+ES2011c.A.dialog-act.dharshi.45	Then to get to channel one eighty nine you have to 	
+ES2011c.C.dialog-act.dharshi.70	'Cause you'll have to like 	
+ES2011c.D.dialog-act.dharshi.51	Yeah . 	
+ES2011c.B.dialog-act.dharshi.49	They have to r wheel really fast . 	
+ES2011c.C.dialog-act.dharshi.71	but you can quickly s you can 	
+ES2011c.A.dialog-act.dharshi.46	Yeah . 	
+ES2011c.B.dialog-act.dharshi.50	But I think the wheel goes through like a hundred channels , 	
+ES2011c.C.dialog-act.dharshi.72	Yeah . 	
+ES2011c.D.dialog-act.dharshi.52	Yeah , yeah , yeah . 	
+ES2011c.B.dialog-act.dharshi.51	at least on theirs . 	
+ES2011c.C.dialog-act.dharshi.73	Yeah if you do , it w so it would have to be you 	
+ES2011c.C.dialog-act.dharshi.74	I mean so you basically just kinda need to figure out like what kind of , you know , range we need to have on the wheel , 	
+ES2011c.C.dialog-act.dharshi.75	and um 	
+ES2011c.C.dialog-act.dharshi.76	So you're either you're you know , th you're either doing this motion to like control the channels or like once once you stop that , you know , you can like tap for , um , different 	
+ES2011c.A.dialog-act.dharshi.47	Yeah . 	
+ES2011c.C.dialog-act.dharshi.77	uh , whatchamacallits , different um , you know , functions like volume 	
+ES2011c.C.dialog-act.dharshi.78	or , like you can tap just to get to different channels . 	
+ES2011c.C.dialog-act.dharshi.79	Like if you just wanted to go to like from five to six you could tap or someth 	
+ES2011c.A.dialog-act.dharshi.48	Right . 	
+ES2011c.C.dialog-act.dharshi.80	And then there's also the concern about you know um how do you get to the menu if you wanna change the brightness of your television , 	
+ES2011c.C.dialog-act.dharshi.81	or if you want to um you know switch around , I don't know , like , these different modes 	
+ES2011c.C.dialog-act.dharshi.82	like turn on the timer or like something something like that , 	
+ES2011c.A.dialog-act.dharshi.49	Yeah 	
+ES2011c.C.dialog-act.dharshi.83	like 	
+ES2011c.A.dialog-act.dharshi.50	I mean with that many options , you'd uh I'd think that the screen would be better , 	
+ES2011c.A.dialog-act.dharshi.51	because you could have that menu option , sort of 	
+ES2011c.C.dialog-act.dharshi.84	I would think so too , like 	
+ES2011c.C.dialog-act.dharshi.85	So I mean 	
+ES2011c.C.dialog-act.dharshi.86	and it seems it w 	
+ES2011c.C.dialog-act.dharshi.88	it does seem a little silly to have this screen if you hardly are ever using it , you know , 	
+ES2011c.C.dialog-act.dharshi.89	because 	
+ES2011c.A.dialog-act.dharshi.52	Yeah . 	
+ES2011c.C.dialog-act.dharshi.90	but then again it would 	
+ES2011c.C.dialog-act.dharshi.91	it does make kind of 	
+ES2011c.C.dialog-act.dharshi.92	if the screen's sort of just like an option that , like , is just there and you're not really using it , that's kind of 	
+ES2011c.A.dialog-act.dharshi.53	Yeah . 	
+ES2011c.B.dialog-act.dharshi.52	It's more expensive according to the design people . 	
+ES2011c.C.dialog-act.dharshi.87	m yeah . 	
+ES2011c.A.dialog-act.dharshi.54	Uh . 	
+ES2011c.C.dialog-act.dharshi.93	Yeah , that's the only thing though . 	
+ES2011c.B.dialog-act.dharshi.53	You have to get a an advanced chip if you wanna have a screen in , 	
+ES2011c.B.dialog-act.dharshi.54	which is more expensive than the regular chip , which is more expensive than the minimal . 	
+ES2011c.C.dialog-act.dharshi.94	Yeah . 	
+ES2011c.C.dialog-act.dharshi.95	So then basically it has to have some way to get to get to a mode on the television where you're doing , um 	
+ES2011c.A.dialog-act.dharshi.55	Mm . 	
+ES2011c.C.dialog-act.dharshi.96	You can get to you know , you can 	
+ES2011c.C.dialog-act.dharshi.97	Like maybe it'll be that central button 	
+ES2011c.D.dialog-act.dharshi.53	Yeah , yeah , yeah . 	
+ES2011c.C.dialog-act.dharshi.98	that , like , then you hit that and then you can it brings up like the menu on the T_V_ 	
+ES2011c.B.dialog-act.dharshi.55	Mm-hmm . 	
+ES2011c.A.dialog-act.dharshi.56	Mm . 	
+ES2011c.D.dialog-act.dharshi.54	Yeah . 	
+ES2011c.C.dialog-act.dharshi.99	and you can just scroll around , like , to do the timer , to do the 	
+ES2011c.A.dialog-act.dharshi.57	Yeah . 	
+ES2011c.A.dialog-act.dharshi.58	So the T_V_ is the screen , that 	
+ES2011c.C.dialog-act.dharshi.100	yeah , yeah . 	
+ES2011c.A.dialog-act.dharshi.59	yeah 	
+ES2011c.A.dialog-act.dharshi.60	So it would have all these different options of changing 	
+ES2011c.C.dialog-act.dharshi.101	Yeah . 	
+ES2011c.C.dialog-act.dharshi.102	But the remote itself isn't really cluttered up . 	
+ES2011c.A.dialog-act.dharshi.61	to 	
+ES2011c.D.dialog-act.dharshi.55	Look it even has settings . 	
+ES2011c.A.dialog-act.dharshi.62	Okay . 	
+ES2011c.C.dialog-act.dharshi.103	Hmm ? 	
+ES2011c.D.dialog-act.dharshi.56	On the 	
+ES2011c.A.dialog-act.dharshi.63	Yeah . 	
+ES2011c.B.dialog-act.dharshi.57		
+ES2011c.D.dialog-act.dharshi.57	you can just take theirs and just 	
+ES2011c.C.dialog-act.dharshi.104	Yeah , well we don't want the screen I guess , 	
+ES2011c.A.dialog-act.dharshi.64	Yeah . 	
+ES2011c.C.dialog-act.dharshi.105	but um 	
+ES2011c.C.dialog-act.dharshi.106	'cause that just 	
+ES2011c.C.dialog-act.dharshi.107	it does seem like , it that would be , like , incredibly expensive , 	
+ES2011c.C.dialog-act.dharshi.108	but I dunno , 	
+ES2011c.C.dialog-act.dharshi.109	and then so , 	
+ES2011c.C.dialog-act.dharshi.110	it just im really all you need is , like , this little wheel then , and you can control everything . 	
+ES2011c.B.dialog-act.dharshi.56		
+ES2011c.C.dialog-act.dharshi.111	So 	
+ES2011c.A.dialog-act.dharshi.65	Um , right . 	
+ES2011c.A.dialog-act.dharshi.66	What if 	
+ES2011c.A.dialog-act.dharshi.67	I mean , if you're thinking of the design of it now , like the a you know , physical attributes , 	
+ES2011c.C.dialog-act.dharshi.112	Yeah . 	
+ES2011c.B.dialog-act.dharshi.58		
+ES2011c.A.dialog-act.dharshi.68	um , and you just have this , it's like just a long silver thing , 	
+ES2011c.A.dialog-act.dharshi.69	or whatever we're thinking . 	
+ES2011c.A.dialog-act.dharshi.70	I mean are you you gonna have any buttons on that besides power and this thing ? 	
+ES2011c.A.dialog-act.dharshi.71	Or 	
+ES2011c.C.dialog-act.dharshi.113	It doesn't seem that you would need anything besides pow 	
+ES2011c.C.dialog-act.dharshi.114	I mean and the power button could even be like hold down the menu button for like longer than one second and it turns on the T_V_ . 	
+ES2011c.A.dialog-act.dharshi.72	Yeah . 	
+ES2011c.A.dialog-act.dharshi.75	So can we imagine that this would be smaller than the remote controls that you showed us before . 	
+ES2011c.A.dialog-act.dharshi.73	I mean 	
+ES2011c.C.dialog-act.dharshi.115	Yeah . Yeah definitely . 	
+ES2011c.C.dialog-act.dharshi.116	Like , I think we're looking at something that could be , like like even maybe like a cir I'm f I'm seeing almost like a circular sort of like handheld like thing . 	
+ES2011c.A.dialog-act.dharshi.74	okay . 	
+ES2011c.D.dialog-act.dharshi.60	Yeah but should be comfortable . 	
+ES2011c.C.dialog-act.dharshi.118	I mean it it needs to be easy to 	
+ES2011c.A.dialog-act.dharshi.76	Yeah . 	
+ES2011c.B.dialog-act.dharshi.59	Yeah . 	
+ES2011c.A.dialog-act.dharshi.77	Yeah . 	
+ES2011c.C.dialog-act.dharshi.119	somehow it needs to be easy to like manipulate 	
+ES2011c.C.dialog-act.dharshi.117	and use your 	
+ES2011c.A.dialog-act.dharshi.78	Yeah . 	
+ES2011c.C.dialog-act.dharshi.120	I mean how do how do 	
+ES2011c.C.dialog-act.dharshi.121	I'm not really 	
+ES2011c.C.dialog-act.dharshi.122	Like when I use an iPod , I end up just kind of using my index finger to like control it . So 	
+ES2011c.A.dialog-act.dharshi.79	Yeah , 	
+ES2011c.A.dialog-act.dharshi.80	I've seen some people just going like that with their thumb , yeah . 	
+ES2011c.C.dialog-act.dharshi.123	Yeah . Or your thumb or something . So 	
+ES2011c.B.dialog-act.dharshi.60		
+ES2011c.D.dialog-act.dharshi.62	Yeah 	
+ES2011c.D.dialog-act.dharshi.63	I use it like that . 	
+ES2011c.B.dialog-act.dharshi.61	W when we had the wheely remote control , we it was on the top I think , if you held it like that . 	
+ES2011c.A.dialog-act.dharshi.81	Yeah . 	
+ES2011c.C.dialog-act.dharshi.124	Yeah . 	
+ES2011c.D.dialog-act.dharshi.64	Yeah . 	
+ES2011c.C.dialog-act.dharshi.125	Yeah , so 	
+ES2011c.A.dialog-act.dharshi.82	But , were there buttons on there as well ? 	
+ES2011c.B.dialog-act.dharshi.62	Yeah well it had the wheely thing and then it had those eighteen different buttons that I don't know what they do . 	
+ES2011c.A.dialog-act.dharshi.83	Mm . 	
+ES2011c.A.dialog-act.dharshi.84	Yeah . 	
+ES2011c.C.dialog-act.dharshi.126	Mm yeah . 	
+ES2011c.B.dialog-act.dharshi.63	So we just used the top part . 	
+ES2011c.A.dialog-act.dharshi.85	Yeah . 	
+ES2011c.C.dialog-act.dharshi.127	Yeah , 	
+ES2011c.D.dialog-act.dharshi.65	Uh . 	
+ES2011c.C.dialog-act.dharshi.128	so 	
+ES2011c.C.dialog-act.dharshi.129	but I mean I think it could be pretty small . 	
+ES2011c.C.dialog-act.dharshi.130	Like , I d I mean , you you want it to be large enough that 	
+ES2011c.C.dialog-act.dharshi.131	you can 	
+ES2011c.A.dialog-act.dharshi.86	What if , um , you had like a b a cover that went over buttons that you don't use very much ? 	
+ES2011c.A.dialog-act.dharshi.87	Like you 	
+ES2011c.A.dialog-act.dharshi.88	so you could slide it up if you needed to like change the contrast or something like that ? 	
+ES2011c.A.dialog-act.dharshi.89	So the options are there but they're not in interfering with the design and the practicality of it . 	
+ES2011c.C.dialog-act.dharshi.132	But can't you just get 	
+ES2011c.A.dialog-act.dharshi.90	Do 	
+ES2011c.A.dialog-act.dharshi.91	do you know what I'm talking about though ? 	
+ES2011c.B.dialog-act.dharshi.64	Yeah . 	
+ES2011c.A.dialog-act.dharshi.92	Like , uh , yeah just something 	
+ES2011c.B.dialog-act.dharshi.65	Yeah like maybe something on the side where you slip a panel down and it's got a whole bunch of 	
+ES2011c.C.dialog-act.dharshi.133	K 	
+ES2011c.D.dialog-act.dharshi.67	Well you can have it on the settings , 	
+ES2011c.A.dialog-act.dharshi.93	Yeah , that you can flip over , yeah , yeah . 	
+ES2011c.D.dialog-act.dharshi.68	no ? 	
+ES2011c.C.dialog-act.dharshi.135	Yeah , 	
+ES2011c.C.dialog-act.dharshi.136	But , I mean , do you need that ? 	
+ES2011c.C.dialog-act.dharshi.137	If if you can get to , you know if 	
+ES2011c.C.dialog-act.dharshi.138	so long as you're able to bring up the menu on the T_V_ screen . 	
+ES2011c.A.dialog-act.dharshi.94	Yeah I mean I guess that's the thing 	
+ES2011c.B.dialog-act.dharshi.66	Yeah . 	
+ES2011c.C.dialog-act.dharshi.139	That keeps it 	
+ES2011c.A.dialog-act.dharshi.95	is is if w I 	
+ES2011c.C.dialog-act.dharshi.140	really 	
+ES2011c.A.dialog-act.dharshi.96	if we can do this , that'd probably be 	
+ES2011c.C.dialog-act.dharshi.141	Yeah . 	
+ES2011c.C.dialog-act.dharshi.142	Uh you wouldn't 	
+ES2011c.C.dialog-act.dharshi.143	I don't 	
+ES2011c.C.dialog-act.dharshi.144	I just don't think you would even need it . 	
+ES2011c.A.dialog-act.dharshi.97	Yeah , yeah . 	
+ES2011c.C.dialog-act.dharshi.145	So 	
+ES2011c.A.dialog-act.dharshi.98	So I guess we have to look into the , um , like , the programming , how this how they actually programme these things , and if that's 	
+ES2011c.C.dialog-act.dharshi.146	Mean 	
+ES2011c.B.dialog-act.dharshi.67	Oh how they make the menu show up on the T_V_ ? 	
+ES2011c.A.dialog-act.dharshi.99	yeah . 	
+ES2011c.C.dialog-act.dharshi.147	I mean you can do it , 	
+ES2011c.B.dialog-act.dharshi.69	I don't know . 	
+ES2011c.A.dialog-act.dharshi.101	I mean it would y would that would be 	
+ES2011c.D.dialog-act.dharshi.70	They already do it . 	
+ES2011c.C.dialog-act.dharshi.148	you it's 	
+ES2011c.B.dialog-act.dharshi.70	I believe it's ins it's gotta be inside the T_V_ , not inside the remote . 	
+ES2011c.C.dialog-act.dharshi.149	it doesn't seem that hard . 	
+ES2011c.C.dialog-act.dharshi.150	I mean I've never bought a remote . 	
+ES2011c.B.dialog-act.dharshi.71	I'm not sure . 	
+ES2011c.C.dialog-act.dharshi.151	It sounds like this remote's going to be purchased separately from the television , 	
+ES2011c.B.dialog-act.dharshi.68		
+ES2011c.D.dialog-act.dharshi.69		
+ES2011c.A.dialog-act.dharshi.100		
+ES2011c.C.dialog-act.dharshi.152	which is a little 	
+ES2011c.B.dialog-act.dharshi.72	Well they usually are . 	
+ES2011c.B.dialog-act.dharshi.73	Well 	
+ES2011c.C.dialog-act.dharshi.153	My 	
+ES2011c.C.dialog-act.dharshi.154	I've never bought just a remote , like , so I don't I don't really know . 	
+ES2011c.D.dialog-act.dharshi.71	No . 	
+ES2011c.A.dialog-act.dharshi.102	Huh . 	
+ES2011c.C.dialog-act.dharshi.155	But um 	
+ES2011c.B.dialog-act.dharshi.74	I guess that's right . It always comes with the T_V_ . 	
+ES2011c.C.dialog-act.dharshi.156	So , um 	
+ES2011c.A.dialog-act.dharshi.103		
+ES2011c.C.dialog-act.dharshi.157	but I mean it's 	
+ES2011c.C.dialog-act.dharshi.158	I've never had a hard time with like my remotes , 	
+ES2011c.C.dialog-act.dharshi.159	like bringing up the menu screen if you need to like change the date or whatever , you know . 	
+ES2011c.C.dialog-act.dharshi.160	And I don't think that should uh that should be too hard . 	
+ES2011c.B.dialog-act.dharshi.75	Yeah , 	
+ES2011c.B.dialog-act.dharshi.76	it 	
+ES2011c.B.dialog-act.dharshi.77	most of the ones we've had have had the menu button , 	
+ES2011c.B.dialog-act.dharshi.78	'cause it's not like you need to have a button access to like change the contrast or something . 	
+ES2011c.C.dialog-act.dharshi.161	Yeah . 	
+ES2011c.B.dialog-act.dharshi.79	'Cause it just doesn't come up every day or something . 	
+ES2011c.C.dialog-act.dharshi.162	Yeah . 	
+ES2011c.C.dialog-act.dharshi.163	Well so 	
+ES2011c.C.dialog-act.dharshi.164	So , do we need 	
+ES2011c.C.dialog-act.dharshi.165	I dunno . 	
+ES2011c.C.dialog-act.dharshi.166	Well I guess we have to you know think about 	
+ES2011c.C.dialog-act.dharshi.167	But I mean you just basically need the output signal you know to be able to bring it up . 	
+ES2011c.B.dialog-act.dharshi.80	Mm-hmm . 	
+ES2011c.A.dialog-act.dharshi.104	Yeah . 	
+ES2011c.A.dialog-act.dharshi.105	Okay . 	
+ES2011c.C.dialog-act.dharshi.168	That's what it does anyway . 	
+ES2011c.B.dialog-act.dharshi.81		
+ES2011c.D.dialog-act.dharshi.72	But also if you have it on the screen you can actually write everything out , 	
+ES2011c.D.dialog-act.dharshi.73	because the problem with buttons is you like , they have these sort of abbreviations and codes that you're supposed to understand , 	
+ES2011c.C.dialog-act.dharshi.169	Yeah . 	
+ES2011c.B.dialog-act.dharshi.82	Yeah . 	
+ES2011c.A.dialog-act.dharshi.106	Yeah , 	
+ES2011c.A.dialog-act.dharshi.107	you don't know they mean , yeah , 	
+ES2011c.D.dialog-act.dharshi.74	and I never get it . 	
+ES2011c.B.dialog-act.dharshi.83		
+ES2011c.A.dialog-act.dharshi.108	it's like 	
+ES2011c.C.dialog-act.dharshi.170	Yeah . 	
+ES2011c.D.dialog-act.dharshi.75	Never ever . 	
+ES2011c.A.dialog-act.dharshi.109	yeah . 	
+ES2011c.D.dialog-act.dharshi.76	So 	
+ES2011c.C.dialog-act.dharshi.171	So , but 	
+ES2011c.C.dialog-act.dharshi.172	oh , you mean if we have this screen like the iPod screen ? 	
+ES2011c.D.dialog-act.dharshi.77	Well on the telly . 	
+ES2011c.B.dialog-act.dharshi.84	Or on the T_V_ too . 	
+ES2011c.C.dialog-act.dharshi.173	On the telly , okay , yeah . 	
+ES2011c.C.dialog-act.dharshi.174	So yeah I think , I mean , I think I think the touch-based graphical interface is a really uh cool idea 	
+ES2011c.B.dialog-act.dharshi.85		
+ES2011c.C.dialog-act.dharshi.175	because you know it is so obnoxious to like have to push those like okay now I hit this you know , you have your little guide out and you're like , hit this button twice , like to activate the date . 	
+ES2011c.A.dialog-act.dharshi.110	Mm . 	
+ES2011c.D.dialog-act.dharshi.78	Mm . 	
+ES2011c.A.dialog-act.dharshi.111	And it is technologically innovative in a way , 	
+ES2011c.A.dialog-act.dharshi.112	so that fits with the 	
+ES2011c.B.dialog-act.dharshi.86		
+ES2011c.C.dialog-act.dharshi.176	Yeah . I guess . 	
+ES2011c.C.dialog-act.dharshi.177	And it is trendy , the iPods are really hot right now , so 	
+ES2011c.A.dialog-act.dharshi.113	B 	
+ES2011c.A.dialog-act.dharshi.114	Yeah . 	
+ES2011c.D.dialog-act.dharshi.79	Did you did you get that pc picture on 	
+ES2011c.D.dialog-act.dharshi.80	did they provide you with that picture on the web ? 	
+ES2011c.C.dialog-act.dharshi.178	Um , yeah , by web research , yeah , 	
+ES2011c.C.dialog-act.dharshi.179	so 	
+ES2011c.D.dialog-act.dharshi.81	That's quite interesting . 	
+ES2011c.D.dialog-act.dharshi.82	What are we going to do about this vegetable thing that I'm dreading ? 	
+ES2011c.A.dialog-act.dharshi.115	Oh god . 	
+ES2011c.B.dialog-act.dharshi.87	Oh , I was gonna say . 	
+ES2011c.C.dialog-act.dharshi.180	Oh . 	
+ES2011c.B.dialog-act.dharshi.88	You said uh people want spongy . 	
+ES2011c.A.dialog-act.dharshi.116		
+ES2011c.B.dialog-act.dharshi.89	Um , one of your 	
+ES2011c.D.dialog-act.dharshi.83	Yeah . 	
+ES2011c.C.dialog-act.dharshi.181	Yeah . 	
+ES2011c.B.dialog-act.dharshi.90	one of the material options is a sort of rubber that's in like those stress ball things . 	
+ES2011c.B.dialog-act.dharshi.91	So , that would be spongy . 	
+ES2011c.C.dialog-act.dharshi.182	Oh , okay , that would be cool . 	
+ES2011c.D.dialog-act.dharshi.84	Yeah . 	
+ES2011c.A.dialog-act.dharshi.117	Ah . 	
+ES2011c.A.dialog-act.dharshi.118	Yeah . 	
+ES2011c.D.dialog-act.dharshi.85	Yeah . 	
+ES2011c.C.dialog-act.dharshi.183	Mm . 	
+ES2011c.D.dialog-act.dharshi.86	Just nice feel , but I hate spongy . 	
+ES2011c.B.dialog-act.dharshi.92		
+ES2011c.C.dialog-act.dharshi.184	Yeah , 	
+ES2011c.C.dialog-act.dharshi.185	c that's e that would be kind of oh , 	
+ES2011c.A.dialog-act.dharshi.121	Yeah . 	
+ES2011c.C.dialog-act.dharshi.186	you know , usually like the touch pad things are kind of a hard plastic typ mouse type , you know , thing . 	
+ES2011c.A.dialog-act.dharshi.122	Yeah . 	
+ES2011c.C.dialog-act.dharshi.187	But what if we ha what if we had like a spongy sort of like stress balley kinda 	
+ES2011c.A.dialog-act.dharshi.120	I mean definitely the area round it . 	
+ES2011c.B.dialog-act.dharshi.94		
+ES2011c.A.dialog-act.dharshi.119		
+ES2011c.D.dialog-act.dharshi.87		
+ES2011c.B.dialog-act.dharshi.93		
+ES2011c.C.dialog-act.dharshi.188	so you're like 	
+ES2011c.B.dialog-act.dharshi.95	Yeah I think it could work . 	
+ES2011c.C.dialog-act.dharshi.190	Or what if we integrated the the uh the f what if the whole thing about the fruit and vegetables 	
+ES2011c.A.dialog-act.dharshi.124	Yeah . 	
+ES2011c.D.dialog-act.dharshi.88		
+ES2011c.C.dialog-act.dharshi.191	we somehow made it tactilely fash you know , we c tapped into that , so like it feels like 	
+ES2011c.B.dialog-act.dharshi.97	Don't think I'd want it to feel like a banana . 	
+ES2011c.D.dialog-act.dharshi.89	Well it could be like mobiles that just you just put a cover . 	
+ES2011c.C.dialog-act.dharshi.192	a vegetable . 	
+ES2011c.A.dialog-act.dharshi.125	An orange . 	
+ES2011c.C.dialog-act.dharshi.193	Yeah . 	
+ES2011c.D.dialog-act.dharshi.90	If it's a small thing , you c instead of creating an object for it that looks like a banana , 	
+ES2011c.B.dialog-act.dharshi.96		
+ES2011c.D.dialog-act.dharshi.91	which frankly I'm not particularly fond of , 	
+ES2011c.A.dialog-act.dharshi.123		
+ES2011c.C.dialog-act.dharshi.189		
+ES2011c.D.dialog-act.dharshi.92	um you could just have covers and then your mobile f it's like a mobile phone thing . 	
+ES2011c.D.dialog-act.dharshi.93	You know you had there was a time when they had all these different covers for mobiles . 	
+ES2011c.C.dialog-act.dharshi.194	Yeah . 	
+ES2011c.A.dialog-act.dharshi.126	Yeah . 	
+ES2011c.C.dialog-act.dharshi.195	Yeah . 	
+ES2011c.B.dialog-act.dharshi.98	You could do like the computers where they have like the grapefruit , apple machine and they have like the blueberry , like all the colours are named after fruits . 	
+ES2011c.D.dialog-act.dharshi.94	Yeah , yeah , yeah . 	
+ES2011c.A.dialog-act.dharshi.127	Yeah . 	
+ES2011c.C.dialog-act.dharshi.196	Yeah . 	
+ES2011c.A.dialog-act.dharshi.128	Yeah . 	
+ES2011c.D.dialog-act.dharshi.95	Yeah . 	
+ES2011c.C.dialog-act.dharshi.197	You could name it after fruits and vegetables , or 	
+ES2011c.A.dialog-act.dharshi.129		
+ES2011c.D.dialog-act.dharshi.96	And it could the colour can fit your sitting room , 	
+ES2011c.D.dialog-act.dharshi.97	so if you have red sitting room you can have strawberry , and then if you have a green one you can have 	
+ES2011c.B.dialog-act.dharshi.99		
+ES2011c.D.dialog-act.dharshi.98	well I don't know . Um . 	
+ES2011c.C.dialog-act.dharshi.198	Yeah . 	
+ES2011c.B.dialog-act.dharshi.100		
+ES2011c.A.dialog-act.dharshi.130	So what if what 	
+ES2011c.C.dialog-act.dharshi.199	So I think 	
+ES2011c.C.dialog-act.dharshi.200	yeah , colours . 	
+ES2011c.A.dialog-act.dharshi.131	this is 	
+ES2011c.A.dialog-act.dharshi.132	I'm just forming this idea in my head of how this thing is looking . 	
+ES2011c.A.dialog-act.dharshi.133	If you have like that stress ball material kind of as what you're actually holding in your hand , 	
+ES2011c.A.dialog-act.dharshi.134	so like what you're feeling is comfortable , 	
+ES2011c.A.dialog-act.dharshi.135	and then there's more of a hard plastic thing where that thing is . 	
+ES2011c.D.dialog-act.dharshi.99	Yeah . 	
+ES2011c.C.dialog-act.dharshi.201	Yeah . 	
+ES2011c.A.dialog-act.dharshi.136	And on that hard plastic thing you can change either the colour or the fruit or vegetable that's on there . 	
+ES2011c.B.dialog-act.dharshi.101		
+ES2011c.C.dialog-act.dharshi.202	Yeah . 	
+ES2011c.A.dialog-act.dharshi.138	Is that kind of 	
+ES2011c.A.dialog-act.dharshi.139	I 'cause I I'm thinking of silver because those are our company colours . 	
+ES2011c.C.dialog-act.dharshi.203	Yeah . 	
+ES2011c.A.dialog-act.dharshi.137	Um 	
+ES2011c.C.dialog-act.dharshi.204	Unfortunately they don't have silver fruits and vegetables . 	
+ES2011c.B.dialog-act.dharshi.102		
+ES2011c.A.dialog-act.dharshi.140		
+ES2011c.C.dialog-act.dharshi.205	I do I dunno . 	
+ES2011c.B.dialog-act.dharshi.103		
+ES2011c.C.dialog-act.dharshi.206	Um 	
+ES2011c.A.dialog-act.dharshi.141	I mean how are you how are you all envisioning by what we've just the feedback we've just got about the 	
+ES2011c.D.dialog-act.dharshi.100	Maybe a ball . 	
+ES2011c.A.dialog-act.dharshi.142	A ball ? 	
+ES2011c.B.dialog-act.dharshi.104		
+ES2011c.D.dialog-act.dharshi.101	Know , a squashy ball . 	
+ES2011c.B.dialog-act.dharshi.105		
+ES2011c.A.dialog-act.dharshi.143		
+ES2011c.D.dialog-act.dharshi.102	A relaxing squashy ball . 	
+ES2011c.D.dialog-act.dharshi.103	That you can p 	
+ES2011c.C.dialog-act.dharshi.207	That's in the shape of a fruit , like a 	
+ES2011c.A.dialog-act.dharshi.144		
+ES2011c.B.dialog-act.dharshi.106		
+ES2011c.D.dialog-act.dharshi.104	well I 	
+ES2011c.D.dialog-act.dharshi.105	see you're thinking , it's weird , you're thinking the opposite of me 	
+ES2011c.D.dialog-act.dharshi.106	'cause you're thinking you change the the hard bit 	
+ES2011c.A.dialog-act.dharshi.145	Yeah . 	
+ES2011c.D.dialog-act.dharshi.107	and I'm thinking how do you change the hard 	
+ES2011c.D.dialog-act.dharshi.108	would you put a um 	
+ES2011c.D.dialog-act.dharshi.109	sticker sort of ? 	
+ES2011c.D.dialog-act.dharshi.110	Because I was thinking if you have a cover for the squashy bit , 	
+ES2011c.D.dialog-act.dharshi.111	like a 	
+ES2011c.A.dialog-act.dharshi.146	This is just 	
+ES2011c.A.dialog-act.dharshi.147	Okay . 	
+ES2011c.D.dialog-act.dharshi.112	Oh , okay , yeah . 	
+ES2011c.A.dialog-act.dharshi.148	Say that's the s say that's the squashy bit . Squashy . 	
+ES2011c.D.dialog-act.dharshi.113	Yeah 	
+ES2011c.D.dialog-act.dharshi.114	I was thinking of getting a cover for 	
+ES2011c.A.dialog-act.dharshi.149	That 	
+ES2011c.A.dialog-act.dharshi.150	see I was thinking this s 	
+ES2011c.D.dialog-act.dharshi.115	Which is cheaper . 	
+ES2011c.A.dialog-act.dharshi.151	sorry 	
+ES2011c.D.dialog-act.dharshi.116	Well I don't know if it's cheaper actually . 	
+ES2011c.A.dialog-act.dharshi.152	I was thinking this bit here would be the cover and like that's your actual thing . 	
+ES2011c.B.dialog-act.dharshi.107	Oh . Mm . 	
+ES2011c.C.dialog-act.dharshi.208	Yeah . 	
+ES2011c.A.dialog-act.dharshi.153	And like this you could have like you could have like cherries and things around there . 	
+ES2011c.C.dialog-act.dharshi.209	Oh I like that shape . 	
+ES2011c.B.dialog-act.dharshi.108		
+ES2011c.C.dialog-act.dharshi.210	Yeah . 	
+ES2011c.B.dialog-act.dharshi.109		
+ES2011c.A.dialog-act.dharshi.154	Um but 	
+ES2011c.B.dialog-act.dharshi.110	I was thinking sort of a single ball shape . 	
+ES2011c.C.dialog-act.dharshi.211	Yeah . 	
+ES2011c.A.dialog-act.dharshi.155	I was thinking if it was like this 	
+ES2011c.B.dialog-act.dharshi.111	So you're holding a squishy ball 	
+ES2011c.A.dialog-act.dharshi.156	'cause the way you were describing the the iPod and the thi the roll thingy 	
+ES2011c.B.dialog-act.dharshi.112	and then it has a 	
+ES2011c.C.dialog-act.dharshi.212	It's like it has to be s 	
+ES2011c.B.dialog-act.dharshi.113	Mm-hmm . 	
+ES2011c.C.dialog-act.dharshi.213	yeah . 	
+ES2011c.A.dialog-act.dharshi.157	It's almost like your thumb is farther up , 	
+ES2011c.A.dialog-act.dharshi.158	so if if you could squish it lower then 	
+ES2011c.B.dialog-act.dharshi.114	Yeah I guess so . 	
+ES2011c.C.dialog-act.dharshi.214	Yeah . 	
+ES2011c.D.dialog-act.dharshi.117	Yeah . 	
+ES2011c.D.dialog-act.dharshi.119	So it wouldn't be very big in either 	
+ES2011c.D.dialog-act.dharshi.120	like how big ? 	
+ES2011c.D.dialog-act.dharshi.121	This big , and then you just do that , I suppose . 	
+ES2011c.C.dialog-act.dharshi.215	What if , yeah , what if the squishy , 	
+ES2011c.A.dialog-act.dharshi.161	Yeah , I know what you meant , yeah . 	
+ES2011c.C.dialog-act.dharshi.216	oh so so you're saying the squishy part's like detachable , 	
+ES2011c.C.dialog-act.dharshi.217	and you can 	
+ES2011c.C.dialog-act.dharshi.218	so so maybe one you know you can have like the broccoli squishy thing , and then you could have like the banana squishy thing 	
+ES2011c.A.dialog-act.dharshi.159		
+ES2011c.D.dialog-act.dharshi.118		
+ES2011c.B.dialog-act.dharshi.115		
+ES2011c.C.dialog-act.dharshi.219	and you could get you could have your choice , you know ? 	
+ES2011c.D.dialog-act.dharshi.122	Well just a li I can't des like condom thingy , like a a cover . 	
+ES2011c.A.dialog-act.dharshi.160		
+ES2011c.B.dialog-act.dharshi.116		
+ES2011c.D.dialog-act.dharshi.123	But well the question is , which one's easiest to change 	
+ES2011c.D.dialog-act.dharshi.124	and we can just contact our relevant department for that , 	
+ES2011c.A.dialog-act.dharshi.162	Yeah . 	
+ES2011c.D.dialog-act.dharshi.125	and just see what the cost is for covering that or covering that , 	
+ES2011c.C.dialog-act.dharshi.220	Yeah . 	
+ES2011c.C.dialog-act.dharshi.221	Yeah , yeah . 	
+ES2011c.A.dialog-act.dharshi.163	Mm . 	
+ES2011c.D.dialog-act.dharshi.126	and for now we can do two prototypes maybe 	
+ES2011c.D.dialog-act.dharshi.127	and then hi try and ask users what the best is , 	
+ES2011c.C.dialog-act.dharshi.222	Yeah . 	
+ES2011c.A.dialog-act.dharshi.164	Okay . 	
+ES2011c.D.dialog-act.dharshi.128	and 	
+ES2011c.B.dialog-act.dharshi.117		
+ES2011c.A.dialog-act.dharshi.165	Yeah . 	
+ES2011c.C.dialog-act.dharshi.223	Yeah . 	
+ES2011c.D.dialog-act.dharshi.130	No . 	
+ES2011c.A.dialog-act.dharshi.166	Okay . 	
+ES2011c.C.dialog-act.dharshi.224	Oh . 	
+ES2011c.D.dialog-act.dharshi.129	Um . 	
+ES2011c.D.dialog-act.dharshi.131	That's nicer . 	
+ES2011c.D.dialog-act.dharshi.132	I think it's nicer to have a drawing 'cause it's neater . 	
+ES2011c.C.dialog-act.dharshi.225	Yeah . 	
+ES2011c.A.dialog-act.dharshi.167	Hmm . 	
+ES2011c.D.dialog-act.dharshi.134	Um . 	
+ES2011c.A.dialog-act.dharshi.168	Well that's not very neat , but 	
+ES2011c.D.dialog-act.dharshi.133		
+ES2011c.B.dialog-act.dharshi.118		
+ES2011c.C.dialog-act.dharshi.226	Yeah . 	
+ES2011c.C.dialog-act.dharshi.227	I mean I think uh 	
+ES2011c.C.dialog-act.dharshi.228	and I think the handhe I think the handheld part is definitely 	
+ES2011c.C.dialog-act.dharshi.229	So you could make that into the fruit and vegetable part . 	
+ES2011c.D.dialog-act.dharshi.135	If it's a bit like those juggling balls , you can change shape according to your to the way you hold it . 	
+ES2011c.B.dialog-act.dharshi.119	Yeah you could squish it . 	
+ES2011c.A.dialog-act.dharshi.169	Mm-hmm . 	
+ES2011c.D.dialog-act.dharshi.136	If it's got sand in it maybe , or something , you it it just moulds to your hand . 	
+ES2011c.A.dialog-act.dharshi.170	Yeah . 	
+ES2011c.C.dialog-act.dharshi.230	Yeah . 	
+ES2011c.C.dialog-act.dharshi.231	So where are the fruit and vegetables now ? 	
+ES2011c.A.dialog-act.dharshi.171		
+ES2011c.D.dialog-act.dharshi.137	We we don't know . 	
+ES2011c.C.dialog-act.dharshi.232	Fruits and veg . 	
+ES2011c.B.dialog-act.dharshi.120	I guess they would be either in the colour of that plastic face on the front , or in the colour of the squishy thing underneath . 	
+ES2011c.C.dialog-act.dharshi.233	Yeah . 	
+ES2011c.A.dialog-act.dharshi.172	Yeah . 	
+ES2011c.D.dialog-act.dharshi.138	Yeah . 	
+ES2011c.C.dialog-act.dharshi.234	Yeah . 	
+ES2011c.A.dialog-act.dharshi.173		
+ES2011c.D.dialog-act.dharshi.140	And the rest is the company 	
+ES2011c.D.dialog-act.dharshi.141	the company colour's silver ? 	
+ES2011c.A.dialog-act.dharshi.174	It was , yeah , silver and yellow . 	
+ES2011c.A.dialog-act.dharshi.175	It l it looks like 	
+ES2011c.B.dialog-act.dharshi.121		
+ES2011c.A.dialog-act.dharshi.176	I don't 	
+ES2011c.C.dialog-act.dharshi.235	We could promote the banana one . 	
+ES2011c.D.dialog-act.dharshi.142	Okay . 	
+ES2011c.B.dialog-act.dharshi.122		
+ES2011c.A.dialog-act.dharshi.177	Yeah . 	
+ES2011c.C.dialog-act.dharshi.236	Like mm . 	
+ES2011c.A.dialog-act.dharshi.178	I mean that's another question , 	
+ES2011c.A.dialog-act.dharshi.179	where are we gonna 	
+ES2011c.A.dialog-act.dharshi.180	we we should have the logo somewhere on it . 	
+ES2011c.C.dialog-act.dharshi.237	Mm . 	
+ES2011c.D.dialog-act.dharshi.143	Mm-hmm . 	
+ES2011c.D.dialog-act.dharshi.144	Should also fit the batteries , 	
+ES2011c.D.dialog-act.dharshi.145	which we haven't 	
+ES2011c.C.dialog-act.dharshi.238	Oh yeah . 	
+ES2011c.A.dialog-act.dharshi.181	Yeah . 	
+ES2011c.B.dialog-act.dharshi.123	I think the batteries would have to go right under the plastic case . 	
+ES2011c.A.dialog-act.dharshi.184	Yeah , 	
+ES2011c.C.dialog-act.dharshi.240	Yeah . 	
+ES2011c.A.dialog-act.dharshi.185	th and that would that 	
+ES2011c.D.dialog-act.dharshi.147	Okay . 	
+ES2011c.B.dialog-act.dharshi.125	Especially if you're switching out the squishy part . 	
+ES2011c.B.dialog-act.dharshi.126	Then you need to have the other part just be sort of a single unit that you can snap off . 	
+ES2011c.D.dialog-act.dharshi.146	Mm-hmm . 	
+ES2011c.A.dialog-act.dharshi.182	Mm-hmm . 	
+ES2011c.C.dialog-act.dharshi.241	Yeah , I think , um 	
+ES2011c.C.dialog-act.dharshi.242	it'd be interesting to have the b the squishy bit . 	
+ES2011c.C.dialog-act.dharshi.243	The part that you , yeah , can change into the different , you know , trendy vegetables and fruits . 	
+ES2011c.A.dialog-act.dharshi.183		
+ES2011c.C.dialog-act.dharshi.244	But uh it 	
+ES2011c.B.dialog-act.dharshi.127	Well I dunno . 	
+ES2011c.B.dialog-act.dharshi.128	You'd spend so much time like squishing it to your own personal hand . 	
+ES2011c.B.dialog-act.dharshi.129	Then you'd get a new one and you'd have to do it all over again . 	
+ES2011c.C.dialog-act.dharshi.245	Yeah . 	
+ES2011c.D.dialog-act.dharshi.148	No but it does it automatically . 	
+ES2011c.B.dialog-act.dharshi.124		
+ES2011c.C.dialog-act.dharshi.239		
+ES2011c.D.dialog-act.dharshi.150	Does it automatically ? 	
+ES2011c.C.dialog-act.dharshi.246	Yeah . 	
+ES2011c.D.dialog-act.dharshi.151	I don't know . 	
+ES2011c.A.dialog-act.dharshi.186	I don't know what the rest of my notes mean because they were made for me . 	
+ES2011c.B.dialog-act.dharshi.130		
+ES2011c.D.dialog-act.dharshi.152	Okay . 	
+ES2011c.A.dialog-act.dharshi.187	But if someone 	
+ES2011c.A.dialog-act.dharshi.188	components concept . Question mark . 	
+ES2011c.A.dialog-act.dharshi.189	Energy . Question mark . 	
+ES2011c.B.dialog-act.dharshi.131	That was me . 	
+ES2011c.A.dialog-act.dharshi.190	Was that you ? 	
+ES2011c.B.dialog-act.dharshi.132	Yes . 	
+ES2011c.A.dialog-act.dharshi.191	Okay . 	
+ES2011c.A.dialog-act.dharshi.192	Oh right right . Yeah . 	
+ES2011c.A.dialog-act.dharshi.193	Um , so what d but what do we know about 	
+ES2011c.A.dialog-act.dharshi.194	energy ? 	
+ES2011c.A.dialog-act.dharshi.198	I mean we're gonna use batteries right ? 	
+ES2011c.B.dialog-act.dharshi.133	Uh we actually had an option of batteries , solar power , and um a dynamo , 	
+ES2011c.A.dialog-act.dharshi.197	And 	
+ES2011c.A.dialog-act.dharshi.199		
+ES2011c.B.dialog-act.dharshi.134	which is something I don't know what it is . 	
+ES2011c.B.dialog-act.dharshi.135	Something to do with torches . 	
+ES2011c.D.dialog-act.dharshi.153	Oh , a dynamo is ah , it's a bicycle . It's a bicycle mechanism . 	
+ES2011c.D.dialog-act.dharshi.154	It's the en it's like if if something moves , when it moves , it stores energy . 	
+ES2011c.B.dialog-act.dharshi.136	Oh okay . 	
+ES2011c.B.dialog-act.dharshi.137	Yeah , the other one was the other one was a kinetic thing where you'd basically have to wind it yourself . 	
+ES2011c.A.dialog-act.dharshi.200		
+ES2011c.C.dialog-act.dharshi.247		
+ES2011c.B.dialog-act.dharshi.138	So I sort of picked battery . 	
+ES2011c.D.dialog-act.dharshi.155	It's quite sweet . 	
+ES2011c.B.dialog-act.dharshi.139	We could have talked about doing a wind-up or a dynamo or a solar power . 	
+ES2011c.B.dialog-act.dharshi.140	Um but I think solar power's not available with the rubber case anyways . 	
+ES2011c.A.dialog-act.dharshi.201	I think batteries sound good . 	
+ES2011c.B.dialog-act.dharshi.141	It it seems a little weird for a living room anyways . 	
+ES2011c.C.dialog-act.dharshi.249	The dynamo would be interesting . 	
+ES2011c.A.dialog-act.dharshi.202	What does everyone else think ? 	
+ES2011c.D.dialog-act.dharshi.157	No . But dynamo the the fact with dynamo is , the moment you move it , it c it creates energy on its own . 	
+ES2011c.C.dialog-act.dharshi.250	Oh . 	
+ES2011c.A.dialog-act.dharshi.203	What about Kryptonite ? 	
+ES2011c.D.dialog-act.dharshi.158	Which is quite cool . 	
+ES2011c.D.dialog-act.dharshi.159	So if you throw it , it's gonna store loads of energy , and you don't need to buy a battery 'cause they're quite f I find them annoying . 	
+ES2011c.D.dialog-act.dharshi.160	But we need to find cost . 	
+ES2011c.A.dialog-act.dharshi.204	Yeah . 	
+ES2011c.D.dialog-act.dharshi.161	Don't know the cost . 	
+ES2011c.B.dialog-act.dharshi.142	Didn't have enough data to actually 	
+ES2011c.D.dialog-act.dharshi.162	Does anyone have costs on the on the web ? 	
+ES2011c.B.dialog-act.dharshi.143	All it said was it gave sort of relative , some chips are more expensive than others , sort of things . 	
+ES2011c.B.dialog-act.dharshi.144	It didn't give me any actual cost . 	
+ES2011c.D.dialog-act.dharshi.163	Okay . Right . 	
+ES2011c.C.dialog-act.dharshi.248	Hmm . 	
+ES2011c.D.dialog-act.dharshi.156	Mm . 	
+ES2011c.B.dialog-act.dharshi.145	Most of the stuff is pretty cheap though bought in bulk . 	
+ES2011c.B.dialog-act.dharshi.146	So I don't think it's that much of a problem . 	
+ES2011c.B.dialog-act.dharshi.147	Like the chip is probably the most expensive part . 	
+ES2011c.A.dialog-act.dharshi.205	What does chip on print mean ? 	
+ES2011c.B.dialog-act.dharshi.148	Um , for things like remote controls , um , they stamp out a chip , 	
+ES2011c.D.dialog-act.dharshi.164		
+ES2011c.A.dialog-act.dharshi.206	Uh-huh . 	
+ES2011c.B.dialog-act.dharshi.149	calculators too I think . 	
+ES2011c.B.dialog-act.dharshi.150	Um , so you can mass produce 'em pretty cheap . 	
+ES2011c.A.dialog-act.dharshi.207	Okay . 	
+ES2011c.B.dialog-act.dharshi.151	But it's not like a computer , you can't like reprogramme your remo remote controls , it's like stamped onto the chip . 	
+ES2011c.A.dialog-act.dharshi.208	Right . 	
+ES2011c.A.dialog-act.dharshi.209	So , chip on print is just means like that they're mass-produced . 	
+ES2011c.B.dialog-act.dharshi.152	Yeah . 	
+ES2011c.A.dialog-act.dharshi.210	Okay . 	
+ES2011c.A.dialog-act.dharshi.211	And case ? 	
+ES2011c.A.dialog-act.dharshi.212	Uh I guess that's what we've been talking about , 	
+ES2011c.B.dialog-act.dharshi.153	Case is what we were discussing yeah . 	
+ES2011c.A.dialog-act.dharshi.213	yeah . Casing . Yeah . 	
+ES2011c.A.dialog-act.dharshi.214	thinking of like syntactic case and thi 	
+ES2011c.B.dialog-act.dharshi.154		
+ES2011c.B.dialog-act.dharshi.155		
+ES2011c.A.dialog-act.dharshi.215	um let's see . 	
+ES2011c.A.dialog-act.dharshi.216	Is there anything else we need to 	
+ES2011c.C.dialog-act.dharshi.251	Hmm . 	
+ES2011c.A.dialog-act.dharshi.217	talk about ? 	
+ES2011c.A.dialog-act.dharshi.218	Oh when we move on , you two are going to be playing with play-dough . 	
+ES2011c.B.dialog-act.dharshi.156		
+ES2011c.A.dialog-act.dharshi.219	Um , and working on the look and feel of the design and user interface design . 	
+ES2011c.A.dialog-act.dharshi.220	And you're gonna be doing protu product evaluation . 	
+ES2011c.A.dialog-act.dharshi.221	So you'll get mm m more instructions from your personal coach . 	
+ES2011c.D.dialog-act.dharshi.165	Oh , thank you . 	
+ES2011c.A.dialog-act.dharshi.222	Mm . 	
+ES2011c.C.dialog-act.dharshi.252	Cool . 	
+ES2011c.A.dialog-act.dharshi.223	See you soon . 	
+ES2011c.A.dialog-act.dharshi.224	Does it matter that I end early ? 	
+ES2011c.D.dialog-act.dharshi.166	I it's strange because 	
+ES2011c.A.dialog-act.dharshi.225	How how early is it ? 	
+ES2011c.A.dialog-act.dharshi.226	I didn't get a pop-up thing that said 	
+

@@ -1,0 +1,513 @@
+Observation: ES2006a; Result size: 510; atts: 2
+$d@nite:id	$d	
+ES2006a.D.dialog-act.s9553330.1	.. . 	
+ES2006a.C.dialog-act.s9553330.1	Okay . 	
+ES2006a.C.dialog-act.s9553330.2	So , this is uh first meeting of this design project . 	
+ES2006a.C.dialog-act.s9553330.3	Um and I um like to show you the agenda for the meeting , 	
+ES2006a.C.dialog-act.s9553330.4	I don't know if it was sent round to all of you . 	
+ES2006a.D.dialog-act.s9553330.2	Mm , yeah . 	
+ES2006a.C.dialog-act.s9553330.5	Maybe not . 	
+ES2006a.D.dialog-act.s9553330.3	I didn't receive it yet . 	
+ES2006a.C.dialog-act.s9553330.6	Anyway , 	
+ES2006a.C.dialog-act.s9553330.7	this is the the plan for today's meeting 	
+ES2006a.C.dialog-act.s9553330.8	is um firstly just to introduce the project briefly , 	
+ES2006a.C.dialog-act.s9553330.9	um although I'm sure you've actually got some of the information already . 	
+ES2006a.C.dialog-act.s9553330.10	Then the main purpose is to so that we get to know each other a little bit more . 	
+ES2006a.A.dialog-act.s9553330.1	Mm-hmm . 	
+ES2006a.C.dialog-act.s9553330.11	Um then we want to practice using some of the tools that we'll be using during the the course of the design project and the meetings , 	
+ES2006a.C.dialog-act.s9553330.12	um specifically the whiteboard over there . 	
+ES2006a.C.dialog-act.s9553330.13	Um then we need to go through the specifics of our project plan um 	
+ES2006a.C.dialog-act.s9553330.14	and discuss 	
+ES2006a.C.dialog-act.s9553330.15	come up with some preliminary ideas about it . 	
+ES2006a.C.dialog-act.s9553330.16	And then that's it . 	
+ES2006a.C.dialog-act.s9553330.17	So we've got twenty five minutes to do that , 	
+ES2006a.C.dialog-act.s9553330.18	that's until eleven twenty five . 	
+ES2006a.A.dialog-act.s9553330.2	so sh 	
+ES2006a.C.dialog-act.s9553330.19	S so any any questions ? 	
+ES2006a.C.dialog-act.s9553330.21	Is i 	
+ES2006a.A.dialog-act.s9553330.3	. 	
+ES2006a.D.dialog-act.s9553330.4	Not at this point . 	
+ES2006a.C.dialog-act.s9553330.20	not at this point . 	
+ES2006a.C.dialog-act.s9553330.22	So this is our project . 	
+ES2006a.C.dialog-act.s9553330.23	What we're aiming to do is to create a new remote control for a television . 	
+ES2006a.C.dialog-act.s9553330.24	Um we want it to be something original , something trendy and also something user friendly , 	
+ES2006a.C.dialog-act.s9553330.25	so it has to be quite intuitive that people are able to use this product . 	
+ES2006a.C.dialog-act.s9553330.26	The method that we're going to use to complete the project , that has three components as such . 	
+ES2006a.C.dialog-act.s9553330.27	There's the functional design of the the remote control . 	
+ES2006a.C.dialog-act.s9553330.28	We're going 	
+ES2006a.C.dialog-act.s9553330.29	the way we'll do that I think is to to work individually initially 	
+ES2006a.C.dialog-act.s9553330.30	and then come together for meetings to to work on that . 	
+ES2006a.C.dialog-act.s9553330.31	Um similarly with the conceptual design , 	
+ES2006a.C.dialog-act.s9553330.32	we'll start off by working individually with our own expertise on our own laptops 	
+ES2006a.C.dialog-act.s9553330.33	and then we'll bring what we've done together . 	
+ES2006a.C.dialog-act.s9553330.34	Um and then the detailed design will come after that . 	
+ES2006a.C.dialog-act.s9553330.35	We'll pull it all together . 	
+ES2006a.A.dialog-act.s9553330.4	I'm a bit confused about uh what's the difference between the functional design and conceptual design ? 	
+ES2006a.A.dialog-act.s9553330.5	Uh i is it just uh more detail , uh as I understand it ? 	
+ES2006a.C.dialog-act.s9553330.36	I think it th w we're talking the the functional design is more your um area of things where you'll be 	
+ES2006a.C.dialog-act.s9553330.37	we want to look at what functions we need in the remote control 	
+ES2006a.C.dialog-act.s9553330.38	and what what specific things it it has to do 	
+ES2006a.A.dialog-act.s9553330.6	Right . 	
+ES2006a.C.dialog-act.s9553330.39	but the conceptual design is um perhaps bigger than that 	
+ES2006a.A.dialog-act.s9553330.7		
+ES2006a.C.dialog-act.s9553330.40	and includes the how people are going to use it and and that kind of thing . 	
+ES2006a.A.dialog-act.s9553330.8	How how it will be done . 	
+ES2006a.A.dialog-act.s9553330.9	So 	
+ES2006a.A.dialog-act.s9553330.10	whe where do we identify the components of our uh product ? 	
+ES2006a.A.dialog-act.s9553330.11	Uh 	
+ES2006a.A.dialog-act.s9553330.12	I think it's it's in the conceptual design phase that we identify the 	
+ES2006a.A.dialog-act.s9553330.13	it's in the conceptual design phase that we identify the components of our product ? 	
+ES2006a.C.dialog-act.s9553330.41	Um I think we'll we'll start that initially with the functional design already but then 	
+ES2006a.A.dialog-act.s9553330.14	Okay . 	
+ES2006a.C.dialog-act.s9553330.42	yeah . 	
+ES2006a.C.dialog-act.s9553330.43	Okay , so that's just a brief overview of the p the the project itself . 	
+ES2006a.C.dialog-act.s9553330.44	Um what I'd like us to do now is simultaneously introduce ourselves and start using some of the tools that we're using for for the project , 	
+ES2006a.C.dialog-act.s9553330.45	specifically the whiteboard . 	
+ES2006a.A.dialog-act.s9553330.15	Hmm . 	
+ES2006a.C.dialog-act.s9553330.46	So 	
+ES2006a.C.dialog-act.s9553330.47	each person in turn , I'd like us to go up to the whiteboard , 	
+ES2006a.C.dialog-act.s9553330.48	the pen's just underneath it there 	
+ES2006a.C.dialog-act.s9553330.49	and draw your favourite animal 	
+ES2006a.C.dialog-act.s9553330.50	and then tell everyone what the f your favourite characteristics of that animal are 	
+ES2006a.C.dialog-act.s9553330.51	and while you're doing that tell us your name , what your role is and perhaps how your animal relates to the role that you're taking in this project . 	
+ES2006a.A.dialog-act.s9553330.16		
+ES2006a.B.dialog-act.s9553330.2	Why are you looking at me ? 	
+ES2006a.D.dialog-act.s9553330.5		
+ES2006a.B.dialog-act.s9553330.1		
+ES2006a.C.dialog-act.s9553330.52	Would you like to go first ? 	
+ES2006a.B.dialog-act.s9553330.3	Do I have a choice ? 	
+ES2006a.A.dialog-act.s9553330.17		
+ES2006a.B.dialog-act.s9553330.5	Okay . 	
+ES2006a.B.dialog-act.s9553330.4	Ooh ooh , things falling everywhere . 	
+ES2006a.C.dialog-act.s9553330.53	Oh , yeah , 	
+ES2006a.B.dialog-act.s9553330.6	Right , okay . 	
+ES2006a.C.dialog-act.s9553330.54	p put them in pockets . 	
+ES2006a.B.dialog-act.s9553330.7	Cool . 	
+ES2006a.C.dialog-act.s9553330.55	You don't have to hurry , 	
+ES2006a.B.dialog-act.s9553330.8	Okay . 	
+ES2006a.C.dialog-act.s9553330.56	we've got plenty of time . 	
+ES2006a.B.dialog-act.s9553330.9	So , my name's Cat 	
+ES2006a.B.dialog-act.s9553330.10	and I'm really not very good at this whole drawing malarkey 	
+ES2006a.C.dialog-act.s9553330.57		
+ES2006a.A.dialog-act.s9553330.18		
+ES2006a.B.dialog-act.s9553330.11	so um 	
+ES2006a.D.dialog-act.s9553330.6		
+ES2006a.B.dialog-act.s9553330.12	Okay . 	
+ES2006a.D.dialog-act.s9553330.7		
+ES2006a.A.dialog-act.s9553330.19		
+ES2006a.C.dialog-act.s9553330.59	It's got no eyes . 	
+ES2006a.B.dialog-act.s9553330.13	Oh , good point . 	
+ES2006a.B.dialog-act.s9553330.14	Ah , the eyes always ruin it . 	
+ES2006a.B.dialog-act.s9553330.15	Right . 	
+ES2006a.B.dialog-act.s9553330.16	Okay , what do it's eyes like ? 	
+ES2006a.B.dialog-act.s9553330.17	Okay , cool . 	
+ES2006a.B.dialog-act.s9553330.18	Um this is a rabbit . 	
+ES2006a.A.dialog-act.s9553330.20		
+ES2006a.C.dialog-act.s9553330.60	I thought it might be a cat . 	
+ES2006a.D.dialog-act.s9553330.8	Yeah 	
+ES2006a.D.dialog-act.s9553330.9	well origi uh 	
+ES2006a.D.dialog-act.s9553330.10	at first I thought it was going to be cat . 	
+ES2006a.A.dialog-act.s9553330.21		
+ES2006a.C.dialog-act.s9553330.58		
+ES2006a.B.dialog-act.s9553330.19	Yeah , 	
+ES2006a.B.dialog-act.s9553330.20	I don't think it's furry enough , 	
+ES2006a.B.dialog-act.s9553330.21	so we'll make it a fluffy rabbit . 	
+ES2006a.D.dialog-act.s9553330.11	Yeah now I now I understand now , yeah . 	
+ES2006a.A.dialog-act.s9553330.22		
+ES2006a.C.dialog-act.s9553330.61	Yeah 	
+ES2006a.C.dialog-act.s9553330.62	I can see by the ears . 	
+ES2006a.D.dialog-act.s9553330.12	Yeah . 	
+ES2006a.B.dialog-act.s9553330.22	Okay , right , 	
+ES2006a.B.dialog-act.s9553330.23	it's a fluffy rabbit , blue . 	
+ES2006a.A.dialog-act.s9553330.23		
+ES2006a.B.dialog-act.s9553330.24	Rabbits don't come in blue but you know . 	
+ES2006a.A.dialog-act.s9553330.24		
+ES2006a.C.dialog-act.s9553330.63		
+ES2006a.B.dialog-act.s9553330.25	Um okay and I like it because it's small and it's fluffy . 	
+ES2006a.A.dialog-act.s9553330.25		
+ES2006a.C.dialog-act.s9553330.64	Mm . 	
+ES2006a.D.dialog-act.s9553330.13		
+ES2006a.A.dialog-act.s9553330.26		
+ES2006a.B.dialog-act.s9553330.26	And one day you'll be able to getical genetically modify them and they will come in pink . 	
+ES2006a.C.dialog-act.s9553330.65		
+ES2006a.A.dialog-act.s9553330.27		
+ES2006a.D.dialog-act.s9553330.14	Ah . 	
+ES2006a.B.dialog-act.s9553330.27	Okay ? 	
+ES2006a.C.dialog-act.s9553330.66	Excellent , 	
+ES2006a.A.dialog-act.s9553330.28	Mm . 	
+ES2006a.C.dialog-act.s9553330.67	and what's your what's your role within the team ? 	
+ES2006a.B.dialog-act.s9553330.28	I am the um 	
+ES2006a.B.dialog-act.s9553330.29	I need my notebook , 	
+ES2006a.B.dialog-act.s9553330.30	mm ooh 	
+ES2006a.A.dialog-act.s9553330.29		
+ES2006a.B.dialog-act.s9553330.31	top banana . 	
+ES2006a.B.dialog-act.s9553330.32	Thank you . 	
+ES2006a.B.dialog-act.s9553330.33	Okay , cool , 	
+ES2006a.B.dialog-act.s9553330.34	I am the Marketing Expert 	
+ES2006a.B.dialog-act.s9553330.35	um so like 	
+ES2006a.B.dialog-act.s9553330.36	I'm gonna be doing the apparently according to the little guy in the computer that knows everything the user g requirements specification of the functional design , um trend watching in the conceptual design and product evad-valuation in the detailed design 	
+ES2006a.C.dialog-act.s9553330.68		
+ES2006a.A.dialog-act.s9553330.30	Mm-hmm . 	
+ES2006a.C.dialog-act.s9553330.69	Mm-hmm . 	
+ES2006a.A.dialog-act.s9553330.31	Okay . 	
+ES2006a.B.dialog-act.s9553330.37	um so yeah . 	
+ES2006a.C.dialog-act.s9553330.70	And more about yourself , 	
+ES2006a.A.dialog-act.s9553330.32	'Kay . 	
+ES2006a.C.dialog-act.s9553330.71	you're from ? 	
+ES2006a.B.dialog-act.s9553330.38	Um I'm from Leicester , 	
+ES2006a.C.dialog-act.s9553330.72	Mm-hmm . 	
+ES2006a.B.dialog-act.s9553330.39	um second year . 	
+ES2006a.B.dialog-act.s9553330.40	Um what else do you want to know ? 	
+ES2006a.A.dialog-act.s9553330.33		
+ES2006a.B.dialog-act.s9553330.41	I like sports um yeah , aerobics , kickboxing , spinning 	
+ES2006a.C.dialog-act.s9553330.73		
+ES2006a.B.dialog-act.s9553330.42	um and uh 	
+ES2006a.C.dialog-act.s9553330.74	But not with rabbits . 	
+ES2006a.B.dialog-act.s9553330.43	not with rabbits , no no . 	
+ES2006a.A.dialog-act.s9553330.34	Mm . 	
+ES2006a.B.dialog-act.s9553330.44	And vets , I like vets as well . 	
+ES2006a.A.dialog-act.s9553330.35		
+ES2006a.B.dialog-act.s9553330.45	And yeah um and I like cocktails , especially pink ones . 	
+ES2006a.A.dialog-act.s9553330.36	Cool . 	
+ES2006a.B.dialog-act.s9553330.46	Okay ? 	
+ES2006a.C.dialog-act.s9553330.75	Excellent , 	
+ES2006a.B.dialog-act.s9553330.47	Cool . 	
+ES2006a.C.dialog-act.s9553330.76	to match the rabbit . 	
+ES2006a.D.dialog-act.s9553330.15	Okay . 	
+ES2006a.D.dialog-act.s9553330.16	Um so my name is Maarika . 	
+ES2006a.D.dialog-act.s9553330.17	Where's the pen ? 	
+ES2006a.D.dialog-act.s9553330.18	Okay . 	
+ES2006a.C.dialog-act.s9553330.77	There's a an 	
+ES2006a.C.dialog-act.s9553330.78	if you have not enough room there's an eraser there 	
+ES2006a.C.dialog-act.s9553330.79	and you can rub it off . 	
+ES2006a.D.dialog-act.s9553330.19	Yeah , well , 	
+ES2006a.D.dialog-act.s9553330.20	or I can make it smaller . 	
+ES2006a.D.dialog-act.s9553330.21	Uh so um um 	
+ES2006a.D.dialog-act.s9553330.22	I'm the Interface Designer in this project 	
+ES2006a.D.dialog-act.s9553330.23	and my favourite animal , 	
+ES2006a.D.dialog-act.s9553330.24	I m I mean I'm not so sure because I'm not so so very um familiar with all kinds of animals , 	
+ES2006a.D.dialog-act.s9553330.25	but I do like dogs . 	
+ES2006a.C.dialog-act.s9553330.80		
+ES2006a.D.dialog-act.s9553330.26	Oh , sorry , 	
+ES2006a.D.dialog-act.s9553330.27	maybe I should have shouldn't have said it beforehand but 	
+ES2006a.A.dialog-act.s9553330.37	Mm . 	
+ES2006a.D.dialog-act.s9553330.28	mm hmm . 	
+ES2006a.C.dialog-act.s9553330.81		
+ES2006a.A.dialog-act.s9553330.38		
+ES2006a.B.dialog-act.s9553330.48		
+ES2006a.D.dialog-act.s9553330.29	Um well , there are different kinds of dogs , but okay um . 	
+ES2006a.A.dialog-act.s9553330.39		
+ES2006a.D.dialog-act.s9553330.30		
+ES2006a.A.dialog-act.s9553330.40	That's not bad at all . 	
+ES2006a.C.dialog-act.s9553330.82	Ah 	
+ES2006a.C.dialog-act.s9553330.83	it looks like a dog . 	
+ES2006a.A.dialog-act.s9553330.41	Yep . 	
+ES2006a.D.dialog-act.s9553330.31	Okay . 	
+ES2006a.B.dialog-act.s9553330.49	Is a bit more impressive than my rabbit . 	
+ES2006a.B.dialog-act.s9553330.50	I think it needs four legs if it's gonna walk though . 	
+ES2006a.A.dialog-act.s9553330.42		
+ES2006a.D.dialog-act.s9553330.32	Yeah , 	
+ES2006a.D.dialog-act.s9553330.33	maybe it has some colourful patches , yeah . 	
+ES2006a.C.dialog-act.s9553330.85	the other legs are on the other side . 	
+ES2006a.B.dialog-act.s9553330.51		
+ES2006a.D.dialog-act.s9553330.34	Um yeah and I do like dogs because they are good friends to people 	
+ES2006a.D.dialog-act.s9553330.35	and they are loyal . 	
+ES2006a.D.dialog-act.s9553330.36	Mm , 	
+ES2006a.D.dialog-act.s9553330.37	well that's compared to some other animals like cats . 	
+ES2006a.D.dialog-act.s9553330.38	Um they're really much more fun because they are not so independent . 	
+ES2006a.C.dialog-act.s9553330.84		
+ES2006a.D.dialog-act.s9553330.39	Um 	
+ES2006a.D.dialog-act.s9553330.40	yeah maybe maybe the fact that they protect their home as well , yeah . 	
+ES2006a.D.dialog-act.s9553330.41	Um what it has to do with with my role in the project is hard to say . 	
+ES2006a.C.dialog-act.s9553330.86		
+ES2006a.D.dialog-act.s9553330.42	Uh I hope to be loyal to the project 	
+ES2006a.D.dialog-act.s9553330.43	and not to n not to um let people doing similar projects know the details of our project or something , yeah . 	
+ES2006a.B.dialog-act.s9553330.52		
+ES2006a.A.dialog-act.s9553330.43		
+ES2006a.A.dialog-act.s9553330.44		
+ES2006a.C.dialog-act.s9553330.87	And where where are you from ? 	
+ES2006a.D.dialog-act.s9553330.44	I'm from Estonia 	
+ES2006a.D.dialog-act.s9553330.45	uh , yep . 	
+ES2006a.C.dialog-act.s9553330.88	Estonia . 	
+ES2006a.D.dialog-act.s9553330.46	Um so is there anything else you'd like to know ? 	
+ES2006a.D.dialog-act.s9553330.47	Oh , right , my roles , 	
+ES2006a.A.dialog-act.s9553330.45	. 	
+ES2006a.D.dialog-act.s9553330.48	um so um in the different um stages of the design , so at first I will be responsible for um for yeah , designing the technical functions of the um um of the remote control 	
+ES2006a.D.dialog-act.s9553330.49	uh then in the in the conceptual design stage I need to um come up with uh interface concept 	
+ES2006a.D.dialog-act.s9553330.50	and then in the last um stage I will be responsible for the int infa for the user interface design . 	
+ES2006a.A.dialog-act.s9553330.46	. 	
+ES2006a.D.dialog-act.s9553330.51	Okay , that's it . 	
+ES2006a.A.dialog-act.s9553330.47	Thank you . 	
+ES2006a.A.dialog-act.s9553330.48	Okay um I'll do some 	
+ES2006a.A.dialog-act.s9553330.49	I'll rub the features 	
+ES2006a.C.dialog-act.s9553330.89		
+ES2006a.A.dialog-act.s9553330.50	and let the drawing stay . 	
+ES2006a.A.dialog-act.s9553330.52	'Kay 	
+ES2006a.A.dialog-act.s9553330.53	um my name is Gaurav . 	
+ES2006a.A.dialog-act.s9553330.54	Um 	
+ES2006a.A.dialog-act.s9553330.55	my favourite animal 	
+ES2006a.A.dialog-act.s9553330.56	one of my favourite animals is a cow . 	
+ES2006a.A.dialog-act.s9553330.57	I've got no idea how to draw a cow . 	
+ES2006a.B.dialog-act.s9553330.53		
+ES2006a.C.dialog-act.s9553330.91	Good luck . 	
+ES2006a.D.dialog-act.s9553330.52		
+ES2006a.A.dialog-act.s9553330.51		
+ES2006a.A.dialog-act.s9553330.58	Uh this is going to be 	
+ES2006a.B.dialog-act.s9553330.58	They're not just like a big round body 	
+ES2006a.B.dialog-act.s9553330.59	and then some really skinny legs 	
+ES2006a.B.dialog-act.s9553330.60	and then just some horns . 	
+ES2006a.A.dialog-act.s9553330.59	Yeah , that'll do . 	
+ES2006a.A.dialog-act.s9553330.60	Okay , so let let me draw the body first . 	
+ES2006a.B.dialog-act.s9553330.54		
+ES2006a.C.dialog-act.s9553330.92	Mm . 	
+ES2006a.A.dialog-act.s9553330.61	Big , round body , really skinny legs 	
+ES2006a.B.dialog-act.s9553330.55		
+ES2006a.C.dialog-act.s9553330.90		
+ES2006a.A.dialog-act.s9553330.62	and they've got a long tail 	
+ES2006a.B.dialog-act.s9553330.56		
+ES2006a.A.dialog-act.s9553330.63	and a long face . 	
+ES2006a.B.dialog-act.s9553330.57		
+ES2006a.C.dialog-act.s9553330.93	It's eating . 	
+ES2006a.D.dialog-act.s9553330.53		
+ES2006a.B.dialog-act.s9553330.61	It looks like Eeyore . 	
+ES2006a.A.dialog-act.s9553330.64	And there is some grass there . 	
+ES2006a.B.dialog-act.s9553330.62		
+ES2006a.C.dialog-act.s9553330.94	Yeah . 	
+ES2006a.A.dialog-act.s9553330.65	So this is what I like about cows 	
+ES2006a.B.dialog-act.s9553330.64	Horns , 	
+ES2006a.D.dialog-act.s9553330.54		
+ES2006a.C.dialog-act.s9553330.95		
+ES2006a.A.dialog-act.s9553330.66	that they just keeps sitting there eating grass , 	
+ES2006a.B.dialog-act.s9553330.65	draw some horns . 	
+ES2006a.A.dialog-act.s9553330.67	they do not disturb anybody um 	
+ES2006a.B.dialog-act.s9553330.63		
+ES2006a.C.dialog-act.s9553330.96		
+ES2006a.A.dialog-act.s9553330.68	they're kind of Buddhist in a way . 	
+ES2006a.C.dialog-act.s9553330.97		
+ES2006a.A.dialog-act.s9553330.69	So yeah , I like cows . 	
+ES2006a.A.dialog-act.s9553330.70	Um 	
+ES2006a.A.dialog-act.s9553330.71	my my role in the project is um uh the industrial designer , 	
+ES2006a.A.dialog-act.s9553330.72	so I'm supposed to design all the details of of the product um 	
+ES2006a.A.dialog-act.s9553330.73	ho how it works 	
+ES2006a.A.dialog-act.s9553330.74	and whatever it'll mm take during the functional role , 	
+ES2006a.A.dialog-act.s9553330.75	what are the various functions that have to be performed by it uh during the um conceptual design , 	
+ES2006a.A.dialog-act.s9553330.76	what are the various components of it 	
+ES2006a.A.dialog-act.s9553330.77	and um finally , 	
+ES2006a.A.dialog-act.s9553330.78	I'm not too sure what was the last part . 	
+ES2006a.A.dialog-act.s9553330.79	Um the detailed design , 	
+ES2006a.A.dialog-act.s9553330.80	I I guess it will again be the identification of the components and how they integrate with each other . 	
+ES2006a.A.dialog-act.s9553330.81	Um I'm from India . 	
+ES2006a.A.dialog-act.s9553330.82	Uh I'm doing my P_H_D_ in Psycholinguistics , 	
+ES2006a.A.dialog-act.s9553330.83	I sit at the Department of Psychology . 	
+ES2006a.A.dialog-act.s9553330.84	Yeah . 	
+ES2006a.C.dialog-act.s9553330.98	Excellent . 	
+ES2006a.D.dialog-act.s9553330.55	Thanks . 	
+ES2006a.A.dialog-act.s9553330.85	Thank you . 	
+ES2006a.C.dialog-act.s9553330.99	Right , now now it's my turn obviously . 	
+ES2006a.C.dialog-act.s9553330.100	Okay , here's a space . 	
+ES2006a.A.dialog-act.s9553330.86	That doesn't look like a cow , does it ? 	
+ES2006a.D.dialog-act.s9553330.56	It looks very very cute . 	
+ES2006a.B.dialog-act.s9553330.66		
+ES2006a.C.dialog-act.s9553330.101	Yeah , 	
+ES2006a.C.dialog-act.s9553330.102	I like the cow . 	
+ES2006a.C.dialog-act.s9553330.103	I'm Jen . 	
+ES2006a.D.dialog-act.s9553330.57	Yeah . 	
+ES2006a.A.dialog-act.s9553330.87		
+ES2006a.D.dialog-act.s9553330.58	Mm-hmm . 	
+ES2006a.C.dialog-act.s9553330.104	Um I like dogs too , 	
+ES2006a.C.dialog-act.s9553330.105	but I can't do that already 	
+ES2006a.C.dialog-act.s9553330.106	because I can't draw a dog as well as you can . 	
+ES2006a.D.dialog-act.s9553330.59		
+ES2006a.C.dialog-act.s9553330.107	I like 	
+ES2006a.C.dialog-act.s9553330.108	Mm . 	
+ES2006a.B.dialog-act.s9553330.67	Is that a lizard ? 	
+ES2006a.A.dialog-act.s9553330.88	No way . 	
+ES2006a.D.dialog-act.s9553330.60		
+ES2006a.C.dialog-act.s9553330.109	Hmm . 	
+ES2006a.D.dialog-act.s9553330.61	Wow . 	
+ES2006a.C.dialog-act.s9553330.110	It's a gecko . 	
+ES2006a.D.dialog-act.s9553330.62	Ah , a gecko , okay . 	
+ES2006a.A.dialog-act.s9553330.89	Ah okay . 	
+ES2006a.C.dialog-act.s9553330.111	Yeah . 	
+ES2006a.B.dialog-act.s9553330.68	Is there a difference ? 	
+ES2006a.D.dialog-act.s9553330.63	Is a ar are they also like lizards or are they 	
+ES2006a.C.dialog-act.s9553330.112	They're 	
+ES2006a.C.dialog-act.s9553330.113	Yeah , they're 	
+ES2006a.D.dialog-act.s9553330.64	yeah , they are 	
+ES2006a.C.dialog-act.s9553330.114	l it's a kind of lizard . 	
+ES2006a.D.dialog-act.s9553330.65	mm-hmm . 	
+ES2006a.C.dialog-act.s9553330.115	And I I like geckos 	
+ES2006a.C.dialog-act.s9553330.116	because they remind me of warm places 	
+ES2006a.D.dialog-act.s9553330.66	Ah . 	
+ES2006a.C.dialog-act.s9553330.117	and , and where I was living in Cambodia they used to live in my house 	
+ES2006a.A.dialog-act.s9553330.90	Uh-huh . 	
+ES2006a.B.dialog-act.s9553330.69		
+ES2006a.C.dialog-act.s9553330.118	and they were on the ceiling 	
+ES2006a.C.dialog-act.s9553330.119	and they would make little gecko noises in the evening . 	
+ES2006a.D.dialog-act.s9553330.67	Mm-hmm . 	
+ES2006a.A.dialog-act.s9553330.91		
+ES2006a.D.dialog-act.s9553330.68	I hope you don't like snakes , 	
+ES2006a.D.dialog-act.s9553330.69	do you ? 	
+ES2006a.C.dialog-act.s9553330.120	I don't like snakes . 	
+ES2006a.C.dialog-act.s9553330.121	I come from Australia 	
+ES2006a.D.dialog-act.s9553330.70	Okay . 	
+ES2006a.C.dialog-act.s9553330.122	and we have nasty snakes . 	
+ES2006a.D.dialog-act.s9553330.72	Mm-hmm . 	
+ES2006a.C.dialog-act.s9553330.123	That's where I'm from , Australia . 	
+ES2006a.C.dialog-act.s9553330.124	I'm from Melbourne 	
+ES2006a.C.dialog-act.s9553330.125	and I'm your Project Manager for today 	
+ES2006a.C.dialog-act.s9553330.126	and my role is basically to keep things going 	
+ES2006a.A.dialog-act.s9553330.92	Mm . 	
+ES2006a.C.dialog-act.s9553330.127	and make sure that you all work together in a productive way , so that by the end of the day we come up with a great product . 	
+ES2006a.D.dialog-act.s9553330.71	Wonderful . 	
+ES2006a.C.dialog-act.s9553330.128	Okay . 	
+ES2006a.A.dialog-act.s9553330.93	Thank you . 	
+ES2006a.C.dialog-act.s9553330.129		
+ES2006a.C.dialog-act.s9553330.130	So , let's see what's next in the PowerPoint presentation . 	
+ES2006a.C.dialog-act.s9553330.131	So , I've just thought 	
+ES2006a.B.dialog-act.s9553330.70	If you right click on it you can 	
+ES2006a.C.dialog-act.s9553330.132	yeah 	
+ES2006a.C.dialog-act.s9553330.133	I've just thought about this that we could even put it much more professionally as 	
+ES2006a.B.dialog-act.s9553330.71		
+ES2006a.D.dialog-act.s9553330.73		
+ES2006a.A.dialog-act.s9553330.94	Mm-hmm . 	
+ES2006a.C.dialog-act.s9553330.134	there we go . 	
+ES2006a.C.dialog-act.s9553330.135	Okay , so this is the um overall budget for our project . 	
+ES2006a.C.dialog-act.s9553330.136	We've got 	
+ES2006a.C.dialog-act.s9553330.137	um we're planning to sell these remote controls for 	
+ES2006a.C.dialog-act.s9553330.138	let's make that go away , 	
+ES2006a.C.dialog-act.s9553330.139	that means we've got five minutes . 	
+ES2006a.C.dialog-act.s9553330.140	Um we're planning to sell the remote controls for twenty five Euros each . 	
+ES2006a.C.dialog-act.s9553330.141	Um and with that we're aiming for a profit of fifty million Euros . 	
+ES2006a.C.dialog-act.s9553330.142	And that's selling them on the international market , not just in the U_K_ . 	
+ES2006a.C.dialog-act.s9553330.143	Um so to do that our finance people estimate that we need production costs of maximum twelve and a half Euro so that we can reach that profit target . 	
+ES2006a.C.dialog-act.s9553330.144	So that's something to keep in mind while you're designing . 	
+ES2006a.C.dialog-act.s9553330.145	Okay . 	
+ES2006a.C.dialog-act.s9553330.146	Hmm . 	
+ES2006a.C.dialog-act.s9553330.147	This is 	
+ES2006a.C.dialog-act.s9553330.148	let me just skip ahead to see 	
+ES2006a.C.dialog-act.s9553330.149	that's the last thing , 	
+ES2006a.C.dialog-act.s9553330.150	okay . 	
+ES2006a.C.dialog-act.s9553330.151	We've only got a couple of minutes . 	
+ES2006a.C.dialog-act.s9553330.152	Does anyone have any first ideas to bounce around about um what we're thinking of this remote control ? 	
+ES2006a.D.dialog-act.s9553330.74	Yep . 	
+ES2006a.D.dialog-act.s9553330.75	I'm just wondering whether whether there is like any special feature that we want to have w want this remote control have as opposed to the already existing ones . 	
+ES2006a.C.dialog-act.s9553330.153	Mm-hmm . 	
+ES2006a.C.dialog-act.s9553330.154	I think that's probably something that w it's best if we take away with us , 	
+ES2006a.C.dialog-act.s9553330.155	but if we all have a think , when we go away from the meeting , what specific things could be um included in this remote control that that are out of the ordinary . 	
+ES2006a.A.dialog-act.s9553330.95	Mm-hmm . 	
+ES2006a.A.dialog-act.s9553330.96	I think uh i in the beginning uh one thing was that was mentioned was that it should be mm trendy , user friendly and original 	
+ES2006a.A.dialog-act.s9553330.97	so um I think your point is relevant as far as the originality is concerned , 	
+ES2006a.A.dialog-act.s9553330.98	that we should provide some features that are quite unique to this . 	
+ES2006a.C.dialog-act.s9553330.156	Something something new . 	
+ES2006a.B.dialog-act.s9553330.72	Yeah , I was looking at the website , 	
+ES2006a.A.dialog-act.s9553330.99	Mm . 	
+ES2006a.B.dialog-act.s9553330.73	and the other things that they've made 	
+ES2006a.B.dialog-act.s9553330.74	and I like put down some like inspirational words like that I got from looking at the pictures . 	
+ES2006a.C.dialog-act.s9553330.157	Mm-hmm . 	
+ES2006a.B.dialog-act.s9553330.75	So the motto is um we put the fashion in electronics 	
+ES2006a.B.dialog-act.s9553330.76	and um so it's something that is sleek and stylish but it's still functional , you know ? 	
+ES2006a.C.dialog-act.s9553330.159	Mm-hmm . 	
+ES2006a.B.dialog-act.s9553330.77	So I'm kind of thinking , you know like those phones that they have , the new generation ones , where they don't actually have any buttons on them and stuff like that . 	
+ES2006a.C.dialog-act.s9553330.160	Uh-huh . 	
+ES2006a.A.dialog-act.s9553330.100	Alright . 	
+ES2006a.B.dialog-act.s9553330.78	You know , so something heading towards that , 	
+ES2006a.B.dialog-act.s9553330.79	so it's not overly 	
+ES2006a.B.dialog-act.s9553330.80	I mean I don't know what h most of the buttons do on my remote controls , 	
+ES2006a.B.dialog-act.s9553330.81	so I figure how many do you need , you know ? 	
+ES2006a.C.dialog-act.s9553330.161	Mm-hmm . 	
+ES2006a.A.dialog-act.s9553330.101	Mm . 	
+ES2006a.B.dialog-act.s9553330.82	Okay . 	
+ES2006a.C.dialog-act.s9553330.162	So perhaps some sort of menu-based thing , or 	
+ES2006a.A.dialog-act.s9553330.102		
+ES2006a.B.dialog-act.s9553330.83	Something that's a little less crowded than this , 	
+ES2006a.B.dialog-act.s9553330.84	like I mean you know , theoretically you can do all kinds of things with your T_V_ , right ? 	
+ES2006a.C.dialog-act.s9553330.163	Mm-hmm . 	
+ES2006a.C.dialog-act.s9553330.165	Yeah . 	
+ES2006a.B.dialog-act.s9553330.85	But what do most people do ? 	
+ES2006a.B.dialog-act.s9553330.86	They turn it on , they watch certain specified channels , you know , and then they turn it off again . 	
+ES2006a.C.dialog-act.s9553330.166		
+ES2006a.A.dialog-act.s9553330.103	Yeah . 	
+ES2006a.C.dialog-act.s9553330.167	Yeah . 	
+ES2006a.A.dialog-act.s9553330.104	There is a lot of functionality in there that is not used ninety percent of the time , 	
+ES2006a.B.dialog-act.s9553330.87	Sometimes they play a movie . 	
+ES2006a.B.dialog-act.s9553330.88	Yeah , 	
+ES2006a.C.dialog-act.s9553330.168	Yeah . 	
+ES2006a.A.dialog-act.s9553330.105	but will be used ten percent of the time , yeah . 	
+ES2006a.B.dialog-act.s9553330.89	so 	
+ES2006a.B.dialog-act.s9553330.90	there's no need to have buttons on it to do that , 	
+ES2006a.C.dialog-act.s9553330.169	So , 	
+ES2006a.C.dialog-act.s9553330.170	no . 	
+ES2006a.B.dialog-act.s9553330.91	maybe to do 	
+ES2006a.A.dialog-act.s9553330.106	Yep . 	
+ES2006a.C.dialog-act.s9553330.171	It could be one button for a menu or something , if you really need to go and do that . 	
+ES2006a.B.dialog-act.s9553330.92	Yeah . 	
+ES2006a.D.dialog-act.s9553330.76	Mm-hmm . 	
+ES2006a.A.dialog-act.s9553330.107	And then use the 	
+ES2006a.B.dialog-act.s9553330.93	So , if you're the kind of sad case that knows how your remote control works , then you know that's fine 	
+ES2006a.C.dialog-act.s9553330.172		
+ES2006a.A.dialog-act.s9553330.108	Mm . 	
+ES2006a.B.dialog-act.s9553330.94	and you can do it on the screen rather than everybody else having to have those buttons , which just confuse them . 	
+ES2006a.C.dialog-act.s9553330.173	Mm-hmm . 	
+ES2006a.B.dialog-act.s9553330.95	Hmm . 	
+ES2006a.C.dialog-act.s9553330.174	Excellent . 	
+ES2006a.B.dialog-act.s9553330.96	'Cause like if you look at the train , it's just very like , there's no extra bits on it , 	
+ES2006a.B.dialog-act.s9553330.97	the train on the website 	
+ES2006a.B.dialog-act.s9553330.98	and I dunno if you can put it up on the thing 	
+ES2006a.C.dialog-act.s9553330.175	Oh I haven't had a look yet , 	
+ES2006a.C.dialog-act.s9553330.176	yep . 	
+ES2006a.B.dialog-act.s9553330.99	um but it is just like a long like thing used for mu moving people , 	
+ES2006a.B.dialog-act.s9553330.100	but it looks really pretty too . 	
+ES2006a.C.dialog-act.s9553330.177	Mm-hmm . 	
+ES2006a.A.dialog-act.s9553330.109		
+ES2006a.C.dialog-act.s9553330.178	Great . 	
+ES2006a.C.dialog-act.s9553330.179	Any other immediate thoughts before we move along ? 	
+ES2006a.A.dialog-act.s9553330.110	Mm . 	
+ES2006a.A.dialog-act.s9553330.111	Uh we can aim for 	
+ES2006a.A.dialog-act.s9553330.112	I mean we can think about all these little things , 	
+ES2006a.A.dialog-act.s9553330.113	but we can aim for something wi that gives a high battery life , 	
+ES2006a.A.dialog-act.s9553330.114	although I don't think that um it's a huge problem for remote controls anyway , battery life , 	
+ES2006a.C.dialog-act.s9553330.180	Mm-hmm . 	
+ES2006a.A.dialog-act.s9553330.115	uh every now and then you need to replace the batteries . 	
+ES2006a.C.dialog-act.s9553330.181	Yeah . 	
+ES2006a.A.dialog-act.s9553330.116	Um 	
+ES2006a.D.dialog-act.s9553330.77	Yeah but uh I mean e even though it has to be re original we shouldn't uh go like too far away from from the usual ones , 	
+ES2006a.A.dialog-act.s9553330.117	Hmm . 	
+ES2006a.D.dialog-act.s9553330.78	because otherwise the new users will just have a lot of problems 	
+ES2006a.A.dialog-act.s9553330.118	Yeah . 	
+ES2006a.A.dialog-act.s9553330.119	A big learning curve , yeah . 	
+ES2006a.D.dialog-act.s9553330.79	with l learning , yeah , yeah . 	
+ES2006a.C.dialog-act.s9553330.182	Mm-hmm . 	
+ES2006a.A.dialog-act.s9553330.121	Yeah . 	
+ES2006a.A.dialog-act.s9553330.122	So , i it should kind of fit in as well , 	
+ES2006a.A.dialog-act.s9553330.123	and the stereotype of a 	
+ES2006a.C.dialog-act.s9553330.183	It's like those fancy websites that you can't access 	
+ES2006a.D.dialog-act.s9553330.80	Hm-hmm . 	
+ES2006a.A.dialog-act.s9553330.124	yeah . 	
+ES2006a.C.dialog-act.s9553330.184	because you have no idea how to get in , 	
+ES2006a.C.dialog-act.s9553330.185	but the designers thought they were great . 	
+ES2006a.C.dialog-act.s9553330.186	Okay , 	
+ES2006a.C.dialog-act.s9553330.187	so we need to wrap it up now , 	
+ES2006a.C.dialog-act.s9553330.188	so that we can go away and get on with some of this . 	
+ES2006a.C.dialog-act.s9553330.189	Um we've got another meeting in thirty minutes , 	
+ES2006a.C.dialog-act.s9553330.190	so 	
+ES2006a.C.dialog-act.s9553330.191	you're 	
+ES2006a.C.dialog-act.s9553330.192	you'll be getting specific instructions once you go back to your workspace , 	
+ES2006a.C.dialog-act.s9553330.193	but im basically you're looking at the working design , 	
+ES2006a.A.dialog-act.s9553330.125	Alright . 	
+ES2006a.C.dialog-act.s9553330.194	you're looking at the technical functions design , 	
+ES2006a.C.dialog-act.s9553330.195	and for you it's the user requirements specification , 	
+ES2006a.B.dialog-act.s9553330.101	Mm-hmm . 	
+ES2006a.C.dialog-act.s9553330.196	like you said at the start . 	
+ES2006a.C.dialog-act.s9553330.197	Okay ? 	
+ES2006a.D.dialog-act.s9553330.81	Okay . 	
+ES2006a.C.dialog-act.s9553330.198	Thanks for that . 	
+ES2006a.D.dialog-act.s9553330.82	Thank you . 	
+ES2006a.C.dialog-act.s9553330.199	Uh I'll see you in half an hour . 	
+ES2006a.A.dialog-act.s9553330.126	. 	
+ES2006a.D.dialog-act.s9553330.83	See you . 	
+ES2006a.C.dialog-act.s9553330.200	Carry the laptops back again . 	
+ES2006a.A.dialog-act.s9553330.127	Hmm . 	
+ES2006a.C.dialog-act.s9553330.201	Do we need to unplug things ? 	
+ES2006a.C.dialog-act.s9553330.202	Probably . 	
+

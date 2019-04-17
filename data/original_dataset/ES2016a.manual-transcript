@@ -1,0 +1,524 @@
+Observation: ES2016a; Result size: 521; atts: 2
+$d@nite:id	$d	
+ES2016a.A.dialog-act.vkaraisk.1	Okay . 	
+ES2016a.A.dialog-act.vkaraisk.2	Oh , that's not gonna work . 	
+ES2016a.A.dialog-act.vkaraisk.3	Oh , alright . 	
+ES2016a.A.dialog-act.vkaraisk.4	Okay . 	
+ES2016a.A.dialog-act.vkaraisk.5	Okay . 	
+ES2016a.A.dialog-act.vkaraisk.6	Um alright . 	
+ES2016a.D.dialog-act.vkaraisk.1	Uh , uh , um . 	
+ES2016a.A.dialog-act.vkaraisk.7	I'll just put that there . 	
+ES2016a.A.dialog-act.vkaraisk.8	Uh as you all know we're here to create a brand new fantastic remote . 	
+ES2016a.A.dialog-act.vkaraisk.9	Uh I'm Nick Debusk , 	
+ES2016a.A.dialog-act.vkaraisk.10	I'm the Project Manager . 	
+ES2016a.A.dialog-act.vkaraisk.11	Uh we'll just get started with everyone kind of letting each other know who they are and what you're doing , what your what your role is um . 	
+ES2016a.A.dialog-act.vkaraisk.12	Go ahead . 	
+ES2016a.D.dialog-act.vkaraisk.2	Okay . 	
+ES2016a.D.dialog-act.vkaraisk.3	I am Corinne Whiting 	
+ES2016a.D.dialog-act.vkaraisk.4	and I will be the Marketing Expert 	
+ES2016a.D.dialog-act.vkaraisk.5	and in each of the three phases I will have a different role . 	
+ES2016a.D.dialog-act.vkaraisk.6	In the function design phase I will be talking about user requirement specification , 	
+ES2016a.D.dialog-act.vkaraisk.7	and this means what needs and desires are to be fulfilled , 	
+ES2016a.D.dialog-act.vkaraisk.8	and I'll be doing research to figure this out . 	
+ES2016a.D.dialog-act.vkaraisk.9	In the conceptual design phase I will be dealing with trend watching 	
+ES2016a.D.dialog-act.vkaraisk.10	and I'll be doing marketing research on the web . 	
+ES2016a.D.dialog-act.vkaraisk.11	And then finally in the um detailed design phase I will be doing product evaluation 	
+ES2016a.D.dialog-act.vkaraisk.12	and so I will be collecting the requirements 	
+ES2016a.D.dialog-act.vkaraisk.13	and ranking all the requirements to see how we did . 	
+ES2016a.A.dialog-act.vkaraisk.13	'Kay . 	
+ES2016a.C.dialog-act.vkaraisk.2	Hiya 	
+ES2016a.C.dialog-act.vkaraisk.1	, I'm Ryan . 	
+ES2016a.C.dialog-act.vkaraisk.3	Um I'm the User Interface Designer . 	
+ES2016a.C.dialog-act.vkaraisk.4	Um likewise I've three different roles for each stage of design . 	
+ES2016a.C.dialog-act.vkaraisk.5	Um the functional design is looking at the tex technical functions of a remote control . 	
+ES2016a.C.dialog-act.vkaraisk.6	Um in the concept design , the user interface , 	
+ES2016a.C.dialog-act.vkaraisk.7	how the user reacts with the the product . 	
+ES2016a.C.dialog-act.vkaraisk.8	And the detailed design um sort of like the user interface design , 	
+ES2016a.C.dialog-act.vkaraisk.9	what they might be looking for , uh things like fashions , 	
+ES2016a.C.dialog-act.vkaraisk.10	what makes wha 	
+ES2016a.C.dialog-act.vkaraisk.11	how we're gonna make it special . 	
+ES2016a.C.dialog-act.vkaraisk.12	That's about it . 	
+ES2016a.B.dialog-act.vkaraisk.1	Right . 	
+ES2016a.B.dialog-act.vkaraisk.2	I'm Manuel 	
+ES2016a.B.dialog-act.vkaraisk.3	and I'm the Industrial Designer in in this project um . 	
+ES2016a.B.dialog-act.vkaraisk.4	In the functional design phase I'm I'll be dealing mostly with the requirements , 	
+ES2016a.B.dialog-act.vkaraisk.5	um we'll discuss what the prog what functions the the product has to fulfil and so and so on . 	
+ES2016a.B.dialog-act.vkaraisk.6	Um I suppose we'll work pretty much together on that one . 	
+ES2016a.B.dialog-act.vkaraisk.7	Um um in the conceptual design um I'll be pro mostly dealing with properties and materials um of our product . 	
+ES2016a.C.dialog-act.vkaraisk.13	Yeah . 	
+ES2016a.B.dialog-act.vkaraisk.8	And uh the detailed design in the detailed design I'll be concerned with the look and feel of the product itself , 	
+ES2016a.B.dialog-act.vkaraisk.9	um so we're pretty much working together obviously on the design front here . Okay . 	
+ES2016a.A.dialog-act.vkaraisk.14	Okay . 	
+ES2016a.A.dialog-act.vkaraisk.15	Um so 	
+ES2016a.A.dialog-act.vkaraisk.16	we've got our opening , 	
+ES2016a.A.dialog-act.vkaraisk.17	our our agenda is the opening , uh acquaintance which we've kinda done . Uh tool training , project plan discussion and then closing . 	
+ES2016a.D.dialog-act.vkaraisk.14		
+ES2016a.C.dialog-act.vkaraisk.14		
+ES2016a.A.dialog-act.vkaraisk.18	Uh grand total of twenty five minutes we have here . 	
+ES2016a.A.dialog-act.vkaraisk.19	Um so 	
+ES2016a.A.dialog-act.vkaraisk.20	we are putting together a new remote control . 	
+ES2016a.A.dialog-act.vkaraisk.21	Um we want it to be something original . 	
+ES2016a.A.dialog-act.vkaraisk.22	Um of course we're a not only a electronics company but a 	
+ES2016a.A.dialog-act.vkaraisk.23	fashion um conscious electronics company , 	
+ES2016a.A.dialog-act.vkaraisk.24	so we want it to be trendy um 	
+ES2016a.A.dialog-act.vkaraisk.25	and we want it to be easy to use . 	
+ES2016a.A.dialog-act.vkaraisk.26	Um we've got the functional design , conceptual design and detailed design 	
+ES2016a.A.dialog-act.vkaraisk.27	um which basically is is the three of you um . 	
+ES2016a.A.dialog-act.vkaraisk.28	And w uh well um 	
+ES2016a.A.dialog-act.vkaraisk.29	functional design um . 	
+ES2016a.A.dialog-act.vkaraisk.30	Um do we have um any ideas of of maybe d 	
+ES2016a.A.dialog-act.vkaraisk.31	let's just throw out some ideas of what kind of remote control we want to have , 	
+ES2016a.A.dialog-act.vkaraisk.32	and then we can go into how we're gonna design it 	
+ES2016a.A.dialog-act.vkaraisk.33	and and how we're gonna do the detailing on it . 	
+ES2016a.C.dialog-act.vkaraisk.15	Yeah . Well uh 	
+ES2016a.C.dialog-act.vkaraisk.16	s 	
+ES2016a.C.dialog-act.vkaraisk.17	function of remote control is just just 	
+ES2016a.C.dialog-act.vkaraisk.18	you know , 	
+ES2016a.C.dialog-act.vkaraisk.19	change channels is its main function . 	
+ES2016a.A.dialog-act.vkaraisk.34	So 	
+ES2016a.A.dialog-act.vkaraisk.35	we want it to be um a T_V_ remote or 	
+ES2016a.A.dialog-act.vkaraisk.36	I I mean do we want it to to do other things besides just be a a television remote ? 	
+ES2016a.C.dialog-act.vkaraisk.20	Oh right . 	
+ES2016a.C.dialog-act.vkaraisk.21	I suppose you c try make it a universal remote 	
+ES2016a.A.dialog-act.vkaraisk.37	'Kay . 	
+ES2016a.C.dialog-act.vkaraisk.22	for 	
+ES2016a.C.dialog-act.vkaraisk.23	could work on all sort of electrical 	
+ES2016a.C.dialog-act.vkaraisk.24	products in in one person's house . 	
+ES2016a.D.dialog-act.vkaraisk.15	Mm . 	
+ES2016a.C.dialog-act.vkaraisk.26	But , you know , they all sorta have the same role changing channels , volumes and then programming . 	
+ES2016a.B.dialog-act.vkaraisk.10		
+ES2016a.A.dialog-act.vkaraisk.38	Mm-hmm . 'Kay . 	
+ES2016a.C.dialog-act.vkaraisk.27	I think they all work on the same prin principle as well 	
+ES2016a.B.dialog-act.vkaraisk.11	Mm . 	
+ES2016a.C.dialog-act.vkaraisk.28	sorta like 	
+ES2016a.C.dialog-act.vkaraisk.29	I don't actually know . 	
+ES2016a.C.dialog-act.vkaraisk.30	But is it just infra-red ? 	
+ES2016a.C.dialog-act.vkaraisk.31	Is that standard ? 	
+ES2016a.A.dialog-act.vkaraisk.39	I I think yeah , yeah , r universal remote . 	
+ES2016a.C.dialog-act.vkaraisk.32	Ye yeah . 	
+ES2016a.A.dialog-act.vkaraisk.40	Um this is my first uh go-round with creating a remote control , 	
+ES2016a.D.dialog-act.vkaraisk.17	Huh . 	
+ES2016a.D.dialog-act.vkaraisk.18		
+ES2016a.A.dialog-act.vkaraisk.41	so 	
+ES2016a.D.dialog-act.vkaraisk.16	Ours too . 	
+ES2016a.C.dialog-act.vkaraisk.33		
+ES2016a.A.dialog-act.vkaraisk.42	I think we're all in the same boat here . 	
+ES2016a.A.dialog-act.vkaraisk.43	Um 	
+ES2016a.C.dialog-act.vkaraisk.34	Um one thing I thought of with the remote control is you always lose 'em . 	
+ES2016a.A.dialog-act.vkaraisk.44	Okay . 	
+ES2016a.D.dialog-act.vkaraisk.19	Mm . 	
+ES2016a.C.dialog-act.vkaraisk.35	So if there's a g a way of finding it quite easily , I thought that'd be quite good quite a good feature . 	
+ES2016a.D.dialog-act.vkaraisk.20	Ch 	
+ES2016a.A.dialog-act.vkaraisk.45	So we should we should set our remote control up to where it has a uh 	
+ES2016a.D.dialog-act.vkaraisk.21	Like a tracking device ? 	
+ES2016a.A.dialog-act.vkaraisk.46	like a tracking device 	
+ES2016a.C.dialog-act.vkaraisk.36	Oh you can get those key 	
+ES2016a.A.dialog-act.vkaraisk.47	or or like a a 	
+ES2016a.C.dialog-act.vkaraisk.37	well 	
+ES2016a.C.dialog-act.vkaraisk.38	you could whistle 	
+ES2016a.C.dialog-act.vkaraisk.39	or make a noise 	
+ES2016a.A.dialog-act.vkaraisk.48	It makes a noise , 	
+ES2016a.C.dialog-act.vkaraisk.40	and it'd beep . 	
+ES2016a.A.dialog-act.vkaraisk.49	there's a button on the T_V_ that you press 	
+ES2016a.B.dialog-act.vkaraisk.12	Mm , mm . 	
+ES2016a.D.dialog-act.vkaraisk.22	Mm . 	
+ES2016a.C.dialog-act.vkaraisk.41	Yeah . 	
+ES2016a.A.dialog-act.vkaraisk.50	and 	
+ES2016a.B.dialog-act.vkaraisk.13	Right . 	
+ES2016a.A.dialog-act.vkaraisk.51	'Kay . 	
+ES2016a.D.dialog-act.vkaraisk.23	Be good . 	
+ES2016a.B.dialog-act.vkaraisk.14	So 	
+ES2016a.C.dialog-act.vkaraisk.42	Generally , all remotes are sort of quite similar in their appearance . 	
+ES2016a.A.dialog-act.vkaraisk.52	Yeah . 	
+ES2016a.C.dialog-act.vkaraisk.43	Just long . 	
+ES2016a.A.dialog-act.vkaraisk.53	Do we want 	
+ES2016a.A.dialog-act.vkaraisk.54	so they're kinda like long and rectangular . 	
+ES2016a.C.dialog-act.vkaraisk.44	Yeah . 	
+ES2016a.A.dialog-act.vkaraisk.55	Do we want something crazy ? 	
+ES2016a.C.dialog-act.vkaraisk.45	Black usually . 	
+ES2016a.A.dialog-act.vkaraisk.56	You know , 	
+ES2016a.C.dialog-act.vkaraisk.46	Yeah . 	
+ES2016a.A.dialog-act.vkaraisk.57	we want something new that's gonna stand out . 	
+ES2016a.D.dialog-act.vkaraisk.24	Lot more modern . 	
+ES2016a.C.dialog-act.vkaraisk.47	I think so . 	
+ES2016a.A.dialog-act.vkaraisk.58	A m a modern so our remote should be 	
+ES2016a.C.dialog-act.vkaraisk.48	Maybe sorta spherical or something . A ball . 	
+ES2016a.B.dialog-act.vkaraisk.15		
+ES2016a.D.dialog-act.vkaraisk.25	Maybe like user-friendly , 	
+ES2016a.D.dialog-act.vkaraisk.26	like a little 	
+ES2016a.C.dialog-act.vkaraisk.49	Yeah . 	
+ES2016a.D.dialog-act.vkaraisk.27	you know , 	
+ES2016a.D.dialog-act.vkaraisk.28	where you can use both hands , like a little keyboard type thing . 	
+ES2016a.C.dialog-act.vkaraisk.50	People 	
+ES2016a.B.dialog-act.vkaraisk.16	Mm . 	
+ES2016a.C.dialog-act.vkaraisk.51	I thought maybe , because people always tend to throw a remote control about the place to one another 	
+ES2016a.C.dialog-act.vkaraisk.52	if it was in a ball , 	
+ES2016a.C.dialog-act.vkaraisk.53	and maybe the actual controls are inside or something . 	
+ES2016a.A.dialog-act.vkaraisk.59	'Kay . 	
+ES2016a.D.dialog-act.vkaraisk.29	Mm . 	
+ES2016a.A.dialog-act.vkaraisk.60	Um . 	
+ES2016a.B.dialog-act.vkaraisk.17	Well 	
+ES2016a.B.dialog-act.vkaraisk.18	there are of course certain restrictions , 	
+ES2016a.B.dialog-act.vkaraisk.19	you can't have it be any form and fulfil all functions at the same time , 	
+ES2016a.C.dialog-act.vkaraisk.54	Yeah . 	
+ES2016a.B.dialog-act.vkaraisk.20	so there are always the some restrictions 	
+ES2016a.B.dialog-act.vkaraisk.21	we have to apply here . 	
+ES2016a.B.dialog-act.vkaraisk.22	Um however um one question is how stable is that thing supposed to be , 	
+ES2016a.B.dialog-act.vkaraisk.23	that refers to the material , pretty much um . 	
+ES2016a.D.dialog-act.vkaraisk.30	Mm . 	
+ES2016a.B.dialog-act.vkaraisk.24	What are we gonna build that thing out of ? 	
+ES2016a.B.dialog-act.vkaraisk.25	How sturdy is it gonna be ? 	
+ES2016a.B.dialog-act.vkaraisk.26	Do we want it to last longer 	
+ES2016a.B.dialog-act.vkaraisk.27	or rather have people 	
+ES2016a.B.dialog-act.vkaraisk.28	whatever , have to buy one every half a year ? 	
+ES2016a.A.dialog-act.vkaraisk.61	Okay so yeah , 	
+ES2016a.A.dialog-act.vkaraisk.62	so we want it to be sturdy , 	
+ES2016a.C.dialog-act.vkaraisk.55	Yeah . 	
+ES2016a.A.dialog-act.vkaraisk.63	we want it to to hold up to somebody's child , you know , throwing it across the room 	
+ES2016a.A.dialog-act.vkaraisk.64	or , as you said , 	
+ES2016a.A.dialog-act.vkaraisk.65	people kinda throw it , 	
+ES2016a.A.dialog-act.vkaraisk.66	so ball-shaped , uh you know , if it were ball-shaped maybe , 	
+ES2016a.C.dialog-act.vkaraisk.56	Yeah . 	
+ES2016a.C.dialog-act.vkaraisk.57	It could be cased on the outside 	
+ES2016a.A.dialog-act.vkaraisk.67	then it 	
+ES2016a.C.dialog-act.vkaraisk.58	and t everything could be inside . 	
+ES2016a.A.dialog-act.vkaraisk.68	'Kay . 	
+ES2016a.A.dialog-act.vkaraisk.69	Um so 	
+ES2016a.A.dialog-act.vkaraisk.70	we want it to be modern , fun , sturdy , 	
+ES2016a.A.dialog-act.vkaraisk.71	um 	
+ES2016a.A.dialog-act.vkaraisk.72	So our form and our function . 	
+ES2016a.A.dialog-act.vkaraisk.73	Um we want it to be um easy to find . 	
+ES2016a.A.dialog-act.vkaraisk.74	Um 	
+ES2016a.A.dialog-act.vkaraisk.75	What else it what else do we want it to to do ? 	
+ES2016a.A.dialog-act.vkaraisk.76	So we want it to be universal . 	
+ES2016a.A.dialog-act.vkaraisk.77	It's something that we're supposed to sell for about twenty five Euros 	
+ES2016a.A.dialog-act.vkaraisk.78	um and you know , 	
+ES2016a.A.dialog-act.vkaraisk.79	goals for profits are I think somewhere around uh fifty million Euros , what they wanna make on it , so . 	
+ES2016a.D.dialog-act.vkaraisk.31	Mm . 	
+ES2016a.D.dialog-act.vkaraisk.32	Also since we're partners of the International Remote Control Association , 	
+ES2016a.D.dialog-act.vkaraisk.33	maybe we wanna make it something that would globally appeal . 	
+ES2016a.A.dialog-act.vkaraisk.80	'Kay . 	
+ES2016a.D.dialog-act.vkaraisk.34	That's more on the research end , but the marketing . 	
+ES2016a.A.dialog-act.vkaraisk.81	So marketing , 	
+ES2016a.A.dialog-act.vkaraisk.82	you know , 	
+ES2016a.A.dialog-act.vkaraisk.83	how maybe uh 	
+ES2016a.A.dialog-act.vkaraisk.84	marketing , you could s find out what is the most universally um appealing remote control out there . 	
+ES2016a.D.dialog-act.vkaraisk.35	Yeah . 	
+ES2016a.B.dialog-act.vkaraisk.29		
+ES2016a.D.dialog-act.vkaraisk.36	And maybe as far as design goes , maybe we could have different ones for different target audiences , 	
+ES2016a.A.dialog-act.vkaraisk.85	'Kay . 	
+ES2016a.D.dialog-act.vkaraisk.37	'cause maybe one won't apply to all of the countries we're targeting . 	
+ES2016a.C.dialog-act.vkaraisk.59	Ye 	
+ES2016a.C.dialog-act.vkaraisk.60	Small . 	
+ES2016a.B.dialog-act.vkaraisk.30	Right . 	
+ES2016a.A.dialog-act.vkaraisk.86	Um 	
+ES2016a.A.dialog-act.vkaraisk.87	Do you guys have any ideas for what it should look like ? 	
+ES2016a.A.dialog-act.vkaraisk.88	Maybe we could draw it up on the on the board over there . 	
+ES2016a.A.dialog-act.vkaraisk.89	Some ideas ? 	
+ES2016a.A.dialog-act.vkaraisk.90	We want it to be a b a ball , 	
+ES2016a.C.dialog-act.vkaraisk.61	I'd 	
+ES2016a.C.dialog-act.vkaraisk.62	I could draw sorta the ball idea . 	
+ES2016a.A.dialog-act.vkaraisk.91	you know , 	
+ES2016a.A.dialog-act.vkaraisk.92	we'll draw up we'll draw up the ball 	
+ES2016a.A.dialog-act.vkaraisk.93	and maybe th um where the buttons are located . 	
+ES2016a.C.dialog-act.vkaraisk.63	My original idea was just simply sort of a sphere , 	
+ES2016a.C.dialog-act.vkaraisk.64	where maybe you 	
+ES2016a.C.dialog-act.vkaraisk.65	this is where it's connected together , 	
+ES2016a.C.dialog-act.vkaraisk.66	and then when you open it out , it could fol it could be maybe flip , like a flip phone , 	
+ES2016a.C.dialog-act.vkaraisk.67	and then when you fold it out the middle 	
+ES2016a.C.dialog-act.vkaraisk.68	Maybe a hinge that'll have to be the strongest part of it . 	
+ES2016a.C.dialog-act.vkaraisk.69	If that if we did use a hinge , or if it was just two parts , 	
+ES2016a.B.dialog-act.vkaraisk.31		
+ES2016a.C.dialog-act.vkaraisk.70	and then you'd have 	
+ES2016a.C.dialog-act.vkaraisk.71	just sorta you you you know , your buttons . 	
+ES2016a.C.dialog-act.vkaraisk.72	Thing is inside 	
+ES2016a.C.dialog-act.vkaraisk.73	I think , sometimes remotes have too many buttons , 	
+ES2016a.C.dialog-act.vkaraisk.74	so maybe as simple as possible , 	
+ES2016a.C.dialog-act.vkaraisk.75	um as few buttons inside as possible . 	
+ES2016a.C.dialog-act.vkaraisk.76	Um , I dunno , what's the idea for . 	
+ES2016a.C.dialog-act.vkaraisk.77	Just something maybe if you ha 	
+ES2016a.C.dialog-act.vkaraisk.78	if it had like if some kind of like light or something or lights around it . 	
+ES2016a.C.dialog-act.vkaraisk.79	It's looking a bit like something out of Star Wars at the moment though , to be fair . 	
+ES2016a.D.dialog-act.vkaraisk.38		
+ES2016a.A.dialog-act.vkaraisk.94		
+ES2016a.C.dialog-act.vkaraisk.80	But yeah . 	
+ES2016a.D.dialog-act.vkaraisk.39	Futuristic . 	
+ES2016a.D.dialog-act.vkaraisk.41		
+ES2016a.C.dialog-act.vkaraisk.81	That was that was a sorta simple idea I had 	
+ES2016a.B.dialog-act.vkaraisk.32		
+ES2016a.A.dialog-act.vkaraisk.95	Uh-huh . 	
+ES2016a.C.dialog-act.vkaraisk.82	and then you know you could about 	
+ES2016a.C.dialog-act.vkaraisk.83	Right , 	
+ES2016a.C.dialog-act.vkaraisk.84	it would almost be like a ball . 	
+ES2016a.C.dialog-act.vkaraisk.85	So that was just just an idea I had . 	
+ES2016a.C.dialog-act.vkaraisk.86	I don't know whether anybody else has other ideas ? 	
+ES2016a.B.dialog-act.vkaraisk.33	Right . 	
+ES2016a.B.dialog-act.vkaraisk.34	One problem you'd get with this design is 	
+ES2016a.B.dialog-act.vkaraisk.35	um the ball is a nice idea 	
+ES2016a.B.dialog-act.vkaraisk.36	because of it's stability really , 	
+ES2016a.C.dialog-act.vkaraisk.87	Yeah . 	
+ES2016a.B.dialog-act.vkaraisk.37	but of course , since it's a ball , 	
+ES2016a.B.dialog-act.vkaraisk.38	it'll roll , 	
+ES2016a.B.dialog-act.vkaraisk.39	so we'd have to have it flat on one side at least , down here somewhere , 	
+ES2016a.C.dialog-act.vkaraisk.88	Yeah . 	
+ES2016a.C.dialog-act.vkaraisk.89	Maybe f yeah . 	
+ES2016a.B.dialog-act.vkaraisk.40	take away that part . 	
+ES2016a.B.dialog-act.vkaraisk.41	That's one of the big issues . 	
+ES2016a.C.dialog-act.vkaraisk.90	Yeah , that's g that's a good idea . 	
+ES2016a.B.dialog-act.vkaraisk.42	Also also you risk the hinges here . That's that's um a problem . 	
+ES2016a.C.dialog-act.vkaraisk.91	Yeah . 	
+ES2016a.C.dialog-act.vkaraisk.92	The idea 	
+ES2016a.C.dialog-act.vkaraisk.93	it didn't have to necessarily be f a hinge , 	
+ES2016a.B.dialog-act.vkaraisk.43	That's that's interesting of course , 	
+ES2016a.C.dialog-act.vkaraisk.94	that was just one idea though . 	
+ES2016a.B.dialog-act.vkaraisk.44	but that's of course a weak point , yeah . 	
+ES2016a.C.dialog-act.vkaraisk.95	Yeah . 	
+ES2016a.D.dialog-act.vkaraisk.42		
+ES2016a.A.dialog-act.vkaraisk.96	How would we go about um making you know getting rid of our weak points ? 	
+ES2016a.A.dialog-act.vkaraisk.97	What 	
+ES2016a.A.dialog-act.vkaraisk.98	I mean would we just have a flat spot on the bottom of the ball ? 	
+ES2016a.D.dialog-act.vkaraisk.43		
+ES2016a.C.dialog-act.vkaraisk.96		
+ES2016a.A.dialog-act.vkaraisk.99	Not to put you on the spot , 	
+ES2016a.B.dialog-act.vkaraisk.45	E 	
+ES2016a.B.dialog-act.vkaraisk.46	No no , 	
+ES2016a.A.dialog-act.vkaraisk.100	but 	
+ES2016a.B.dialog-act.vkaraisk.47	uh uh . 	
+ES2016a.A.dialog-act.vkaraisk.101	What did you say your title was again ? 	
+ES2016a.B.dialog-act.vkaraisk.48	N n 	
+ES2016a.D.dialog-act.vkaraisk.44		
+ES2016a.B.dialog-act.vkaraisk.49	Uh , I'm your Industrial Designer , 	
+ES2016a.A.dialog-act.vkaraisk.102	You're the the Industrial Designer . 	
+ES2016a.D.dialog-act.vkaraisk.45		
+ES2016a.B.dialog-act.vkaraisk.50	so i b well , 	
+ES2016a.A.dialog-act.vkaraisk.103		
+ES2016a.B.dialog-act.vkaraisk.51	the point is 	
+ES2016a.B.dialog-act.vkaraisk.52	that 	
+ES2016a.B.dialog-act.vkaraisk.53	well 	
+ES2016a.B.dialog-act.vkaraisk.54	maybe I dunno . 	
+ES2016a.B.dialog-act.vkaraisk.55	The shape is perhaps not the most ideal . 	
+ES2016a.A.dialog-act.vkaraisk.104	Okay . 	
+ES2016a.B.dialog-act.vkaraisk.56	As as stable as it is , 	
+ES2016a.B.dialog-act.vkaraisk.57	there must be a compromise between um stability and design here , so . 	
+ES2016a.C.dialog-act.vkaraisk.97	Well 	
+ES2016a.C.dialog-act.vkaraisk.98	I I suppose that things become design . 	
+ES2016a.D.dialog-act.vkaraisk.46	Mm-hmm . 	
+ES2016a.C.dialog-act.vkaraisk.99	But I mean i 	
+ES2016a.C.dialog-act.vkaraisk.100	I was trying to think of like the design of others . 	
+ES2016a.C.dialog-act.vkaraisk.101	I can't think of anything other than a long rectangle for remote , 	
+ES2016a.A.dialog-act.vkaraisk.105	Yeah . 	
+ES2016a.C.dialog-act.vkaraisk.102	maybe small , sort of fatter ones , 	
+ES2016a.C.dialog-act.vkaraisk.103	but there's nothing being done sort of out of left field , yeah . 	
+ES2016a.A.dialog-act.vkaraisk.106	It's not new , 	
+ES2016a.A.dialog-act.vkaraisk.107	it's not innovative , 	
+ES2016a.A.dialog-act.vkaraisk.108	it's 	
+ES2016a.A.dialog-act.vkaraisk.109	you know , 	
+ES2016a.A.dialog-act.vkaraisk.110	everybody does long remote 	
+ES2016a.A.dialog-act.vkaraisk.111	because it's easy , 	
+ES2016a.C.dialog-act.vkaraisk.104	Yeah . 	
+ES2016a.A.dialog-act.vkaraisk.112	it's it's stable um . 	
+ES2016a.D.dialog-act.vkaraisk.47	'Kay , 	
+ES2016a.D.dialog-act.vkaraisk.48	I'll draw something . 	
+ES2016a.A.dialog-act.vkaraisk.113	So if 	
+ES2016a.D.dialog-act.vkaraisk.49	What ? 	
+ES2016a.A.dialog-act.vkaraisk.114	no , 	
+ES2016a.A.dialog-act.vkaraisk.115	go ahead . 	
+ES2016a.D.dialog-act.vkaraisk.50	My idea was just to have it be kind of like a 	
+ES2016a.D.dialog-act.vkaraisk.51	keyboard type shape , you know , like video games 	
+ES2016a.C.dialog-act.vkaraisk.105	Yeah . 	
+ES2016a.D.dialog-act.vkaraisk.52	l so . 	
+ES2016a.D.dialog-act.vkaraisk.53	But maybe 	
+ES2016a.D.dialog-act.vkaraisk.54	I mean that would be kinda big and bulky . 	
+ES2016a.D.dialog-act.vkaraisk.55	We could also try to do the hinge thing , 	
+ES2016a.D.dialog-act.vkaraisk.56	so it could like flip out that way . 	
+ES2016a.D.dialog-act.vkaraisk.57	I don't know . 	
+ES2016a.D.dialog-act.vkaraisk.58	That's my idea . 	
+ES2016a.C.dialog-act.vkaraisk.106	I think definitely doing something different 	
+ES2016a.D.dialog-act.vkaraisk.59	Yeah . 	
+ES2016a.C.dialog-act.vkaraisk.107	is a good idea . 	
+ES2016a.B.dialog-act.vkaraisk.58	Mm . 	
+ES2016a.C.dialog-act.vkaraisk.108	I mean maybe design something , that's sort of like 	
+ES2016a.C.dialog-act.vkaraisk.109	suppose not everybody's everybody's hand's the same , 	
+ES2016a.C.dialog-act.vkaraisk.110	but something that would maybe fit in the hand easier . 	
+ES2016a.A.dialog-act.vkaraisk.116	Something with a grip . 	
+ES2016a.D.dialog-act.vkaraisk.60	Mm . Yeah . 	
+ES2016a.C.dialog-act.vkaraisk.111	Yeah , with a grip . 	
+ES2016a.A.dialog-act.vkaraisk.117	Yeah . 	
+ES2016a.A.dialog-act.vkaraisk.118	Because even I suppose even with the ball 	
+ES2016a.C.dialog-act.vkaraisk.112	It still might be hard to 	
+ES2016a.A.dialog-act.vkaraisk.119	it's 	
+ES2016a.C.dialog-act.vkaraisk.113	it still not the ho easiest thing to hold , yeah . 	
+ES2016a.A.dialog-act.vkaraisk.120	it might not be the easiest to hold onto um . 	
+ES2016a.B.dialog-act.vkaraisk.59	Mm . 	
+ES2016a.A.dialog-act.vkaraisk.121	So perhaps the the joystick the the keyboard idea might work better . 	
+ES2016a.C.dialog-act.vkaraisk.114	Like 	
+ES2016a.C.dialog-act.vkaraisk.115	yeah . 	
+ES2016a.A.dialog-act.vkaraisk.122	But then again , people like to use one hand to flip 	
+ES2016a.A.dialog-act.vkaraisk.123	and one hand to hold their soda , 	
+ES2016a.D.dialog-act.vkaraisk.61	True . 	
+ES2016a.C.dialog-act.vkaraisk.116	Yeah . 	
+ES2016a.A.dialog-act.vkaraisk.124	so maybe maybe we 	
+ES2016a.C.dialog-act.vkaraisk.117	It's d 	
+ES2016a.C.dialog-act.vkaraisk.118	yeah . 	
+ES2016a.C.dialog-act.vkaraisk.119	I think it's definitely got to be a a one-handed a one-handed job . 	
+ES2016a.D.dialog-act.vkaraisk.62	Mm . 	
+ES2016a.A.dialog-act.vkaraisk.125	I feel like I'm just shooting everything down here . 	
+ES2016a.D.dialog-act.vkaraisk.63	That's fine . 	
+ES2016a.C.dialog-act.vkaraisk.120		
+ES2016a.A.dialog-act.vkaraisk.126	Uh um 	
+ES2016a.D.dialog-act.vkaraisk.64	You're the boss , 	
+ES2016a.D.dialog-act.vkaraisk.65	you're allowed to . 	
+ES2016a.B.dialog-act.vkaraisk.60	Well 	
+ES2016a.B.dialog-act.vkaraisk.61	with the one-handed design you also have the the problem of the size 	
+ES2016a.B.dialog-act.vkaraisk.62	w 	
+ES2016a.B.dialog-act.vkaraisk.63	'cause you know from cell phones , they can be too small . 	
+ES2016a.B.dialog-act.vkaraisk.64	So if the remote is too small it 	
+ES2016a.D.dialog-act.vkaraisk.66	Yeah . 	
+ES2016a.A.dialog-act.vkaraisk.127	Yeah . 	
+ES2016a.B.dialog-act.vkaraisk.65	if it's small it probably looks better , 	
+ES2016a.B.dialog-act.vkaraisk.66	but 	
+ES2016a.B.dialog-act.vkaraisk.67	may not be th as functional . 	
+ES2016a.B.dialog-act.vkaraisk.68	So for that there's 	
+ES2016a.A.dialog-act.vkaraisk.128	Okay , so 	
+ES2016a.B.dialog-act.vkaraisk.69	So 	
+ES2016a.A.dialog-act.vkaraisk.129	unfortunately we've got about five minutes here to come up with our um remote control idea and start rolling with it . 	
+ES2016a.A.dialog-act.vkaraisk.130	Um we've talked about our experiences with remote control 	
+ES2016a.A.dialog-act.vkaraisk.131	and um we've got a couple ideas um . 	
+ES2016a.A.dialog-act.vkaraisk.132	Let's see here . 	
+ES2016a.A.dialog-act.vkaraisk.133	What if we had what if we had not only um 	
+ES2016a.A.dialog-act.vkaraisk.134	say we went with the ball the ball function 	
+ES2016a.A.dialog-act.vkaraisk.135	um , but maybe we give it sort of grips along the side s um 	
+ES2016a.A.dialog-act.vkaraisk.136	to make it easier to hold on to . 	
+ES2016a.A.dialog-act.vkaraisk.137	So you know um s so 	
+ES2016a.C.dialog-act.vkaraisk.121	Yeah . 	
+ES2016a.A.dialog-act.vkaraisk.138	it's easier to hold onto that way . 	
+ES2016a.A.dialog-act.vkaraisk.139	Course that'll then remove some of our our ball . Unless this unless this part were raised , 	
+ES2016a.A.dialog-act.vkaraisk.140	so 	
+ES2016a.A.dialog-act.vkaraisk.141	say the cover flips over 	
+ES2016a.A.dialog-act.vkaraisk.142	and covers that part . 	
+ES2016a.A.dialog-act.vkaraisk.143	So the grip is 	
+ES2016a.A.dialog-act.vkaraisk.144	No , that wouldn't work either um . 	
+ES2016a.A.dialog-act.vkaraisk.145	But if we're gonna make it flat on the bottom , then that eliminates our ball anyways . 	
+ES2016a.A.dialog-act.vkaraisk.146	So if it were flat on the bottom 	
+ES2016a.A.dialog-act.vkaraisk.147	and then had the sorta grips on the side here I guess , 	
+ES2016a.A.dialog-act.vkaraisk.149	um 	
+ES2016a.A.dialog-act.vkaraisk.148	and then flat uh 	
+ES2016a.A.dialog-act.vkaraisk.150	And then we have the problem with the hinge . 	
+ES2016a.A.dialog-act.vkaraisk.151	So if we're flat on the bottom , it's not gonna roll away , 	
+ES2016a.A.dialog-act.vkaraisk.152	it'll stay where we want . 	
+ES2016a.B.dialog-act.vkaraisk.70	The question is also , I dunno , d do you really always want to open that thing when you have to use it ? 	
+ES2016a.A.dialog-act.vkaraisk.153	Mm , that's true . 	
+ES2016a.B.dialog-act.vkaraisk.71	It's probably going to lie around opened all the time anyway , 	
+ES2016a.B.dialog-act.vkaraisk.72	so I don't know if a lid is a good idea . 	
+ES2016a.B.dialog-act.vkaraisk.73	From stabil stability point of view uh it certainly is , 	
+ES2016a.B.dialog-act.vkaraisk.74	but also you have to face it and take into account the more of these things break by accident , uh the more we sell . 	
+ES2016a.B.dialog-act.vkaraisk.75	So 	
+ES2016a.B.dialog-act.vkaraisk.76	it's 	
+ES2016a.B.dialog-act.vkaraisk.77	don't make it too stable uh . 	
+ES2016a.A.dialog-act.vkaraisk.154	So 	
+ES2016a.A.dialog-act.vkaraisk.155	we don't have it flip open . 	
+ES2016a.A.dialog-act.vkaraisk.156	We just have a ball 	
+ES2016a.C.dialog-act.vkaraisk.122	But then maybe to go back to the to th s something along those things then . 	
+ES2016a.B.dialog-act.vkaraisk.78	To the other design . 	
+ES2016a.A.dialog-act.vkaraisk.157	Okay , 	
+ES2016a.A.dialog-act.vkaraisk.158	so then we forget the ball . 	
+ES2016a.B.dialog-act.vkaraisk.79	It looks cool . 	
+ES2016a.D.dialog-act.vkaraisk.67	Looks cool though . 	
+ES2016a.A.dialog-act.vkaraisk.159	It looks cool , 	
+ES2016a.D.dialog-act.vkaraisk.68	Yeah . 	
+ES2016a.A.dialog-act.vkaraisk.160	but it's really not it's not functional um . 	
+ES2016a.B.dialog-act.vkaraisk.80	Uh functional . 	
+ES2016a.A.dialog-act.vkaraisk.161	So we've got our sort of keyboard kind . 	
+ES2016a.A.dialog-act.vkaraisk.162	What if we flipped it around here , 	
+ES2016a.A.dialog-act.vkaraisk.163	so that it were um 	
+ES2016a.A.dialog-act.vkaraisk.164	Sorry , 	
+ES2016a.A.dialog-act.vkaraisk.165	that doesn't look anything like what you had there . 	
+ES2016a.A.dialog-act.vkaraisk.166	Um so 	
+ES2016a.A.dialog-act.vkaraisk.167	it's up and down , 	
+ES2016a.A.dialog-act.vkaraisk.168	you hold it this way . 	
+ES2016a.A.dialog-act.vkaraisk.169	Course then it's it's like the rectangular again , only with a couple of jutting out points . 	
+ES2016a.C.dialog-act.vkaraisk.123	Yeah . 	
+ES2016a.D.dialog-act.vkaraisk.69		
+ES2016a.B.dialog-act.vkaraisk.81	Right . Right . 	
+ES2016a.A.dialog-act.vkaraisk.171	But it's one-handed um . 	
+ES2016a.B.dialog-act.vkaraisk.82	Question is what makes those game pads functional ? 	
+ES2016a.B.dialog-act.vkaraisk.83	W 	
+ES2016a.B.dialog-act.vkaraisk.84	I think that's pretty much the form for full hand . 	
+ES2016a.B.dialog-act.vkaraisk.85	So it's a round shape underneath that makes it comfy , 	
+ES2016a.D.dialog-act.vkaraisk.70	Mm . 	
+ES2016a.A.dialog-act.vkaraisk.172	Yeah . 	
+ES2016a.B.dialog-act.vkaraisk.86	right , 	
+ES2016a.B.dialog-act.vkaraisk.87	makes it nice , 	
+ES2016a.B.dialog-act.vkaraisk.88	so that's the essential part . 	
+ES2016a.B.dialog-act.vkaraisk.89	Except for that I think we'll not probably not get a get away from some longer design . 	
+ES2016a.A.dialog-act.vkaraisk.173	Yeah . 	
+ES2016a.D.dialog-act.vkaraisk.71	Right . 	
+ES2016a.B.dialog-act.vkaraisk.90	'Cause you also have to know which way around to point this thing . 	
+ES2016a.A.dialog-act.vkaraisk.174	Yeah , 	
+ES2016a.B.dialog-act.vkaraisk.91	You know , all 	
+ES2016a.B.dialog-act.vkaraisk.92	that dif batteries 	
+ES2016a.A.dialog-act.vkaraisk.175	because it doesn't have a cord , like joysticks do . 	
+ES2016a.B.dialog-act.vkaraisk.93	right , 	
+ES2016a.B.dialog-act.vkaraisk.94	and Batteries go weak as well , 	
+ES2016a.B.dialog-act.vkaraisk.95	so um 	
+ES2016a.B.dialog-act.vkaraisk.96	after a while you have to point it towards the uh towards the equipment you wanna control with it , 	
+ES2016a.B.dialog-act.vkaraisk.97	right ? 	
+ES2016a.B.dialog-act.vkaraisk.98	So , have to m show which is the front , which is the back . 	
+ES2016a.A.dialog-act.vkaraisk.176	Is it possible to have it to where it would work with a like a sensor on either side ? 	
+ES2016a.A.dialog-act.vkaraisk.177	So that either way you're pointing it it would work . 	
+ES2016a.B.dialog-act.vkaraisk.99	I suppose you could do that . 	
+ES2016a.B.dialog-act.vkaraisk.100	O of course the more technology you stick in that , the more it'll cost , so . 	
+ES2016a.A.dialog-act.vkaraisk.179	More expensive and yeah . 	
+ES2016a.B.dialog-act.vkaraisk.101	Course you can do that . 	
+ES2016a.A.dialog-act.vkaraisk.180	'Kay . 	
+ES2016a.A.dialog-act.vkaraisk.181	Um 	
+ES2016a.B.dialog-act.vkaraisk.102	I mean of course it'll be evident after a while or 	
+ES2016a.B.dialog-act.vkaraisk.103	if you look at it , it'll it'll be evident which way around to point it , 	
+ES2016a.B.dialog-act.vkaraisk.104	since you have the the numbers and the and the the buttons and stuff , 	
+ES2016a.A.dialog-act.vkaraisk.182	True . 	
+ES2016a.B.dialog-act.vkaraisk.105	but um it's rather about an instinctual thing , 	
+ES2016a.C.dialog-act.vkaraisk.124	Put it 	
+ES2016a.B.dialog-act.vkaraisk.106	like you just grab it , 	
+ES2016a.B.dialog-act.vkaraisk.107	you don't have to s look at it , 	
+ES2016a.B.dialog-act.vkaraisk.108	you know , 	
+ES2016a.B.dialog-act.vkaraisk.109	which way around to point it . 	
+ES2016a.B.dialog-act.vkaraisk.110	Otherwise the design of or the the point of putting two sensors on both sides um would probably work . 	
+ES2016a.C.dialog-act.vkaraisk.125	Even if you designed it in some in a way that you know , isn't a rectangle , 	
+ES2016a.C.dialog-act.vkaraisk.126	but still pointed in a direction that had definite points . 	
+ES2016a.C.dialog-act.vkaraisk.127	So if that's your thing 	
+ES2016a.C.dialog-act.vkaraisk.128	and you got something like that instead , 	
+ES2016a.D.dialog-act.vkaraisk.72	Yeah . 	
+ES2016a.C.dialog-act.vkaraisk.129	and there's your s you kn 	
+ES2016a.C.dialog-act.vkaraisk.130	you know which way you're gonna pointing it . 	
+ES2016a.A.dialog-act.vkaraisk.183	'Kay . 	
+ES2016a.D.dialog-act.vkaraisk.73	Sorry to interrupt , 	
+ES2016a.C.dialog-act.vkaraisk.131	Um 	
+ES2016a.D.dialog-act.vkaraisk.74	but we have a warning to finish . 	
+ES2016a.A.dialog-act.vkaraisk.184	Are we out of time ? 	
+ES2016a.D.dialog-act.vkaraisk.75	Yeah . 	
+ES2016a.B.dialog-act.vkaraisk.111	Mm . 	
+ES2016a.A.dialog-act.vkaraisk.185	Okay , well , 	
+ES2016a.A.dialog-act.vkaraisk.186	just to finish up , 	
+ES2016a.A.dialog-act.vkaraisk.187	should we s go with this plan , 	
+ES2016a.A.dialog-act.vkaraisk.188	start making some 	
+ES2016a.A.dialog-act.vkaraisk.189	Are good ideas , what are not . 	
+ES2016a.B.dialog-act.vkaraisk.112	Let's . 	
+ES2016a.C.dialog-act.vkaraisk.132	Does it say what does it say for n 	
+ES2016a.B.dialog-act.vkaraisk.113	Obviously 	
+ES2016a.C.dialog-act.vkaraisk.133	it says on there what we need to do for the next meeting , I think . 	
+ES2016a.A.dialog-act.vkaraisk.190	Uh . 	
+ES2016a.A.dialog-act.vkaraisk.191	Must finish now , so . 	
+ES2016a.C.dialog-act.vkaraisk.134	T 	
+ES2016a.A.dialog-act.vkaraisk.192	And then marketing will look and see what uh what people want . 	
+ES2016a.D.dialog-act.vkaraisk.76	Mm . 	
+ES2016a.B.dialog-act.vkaraisk.114	Alright . 	
+ES2016a.D.dialog-act.vkaraisk.77	Great . 	
+ES2016a.A.dialog-act.vkaraisk.193	Okay . 	
+ES2016a.A.dialog-act.vkaraisk.194	And Project Manager will design a better meeting for next time around , 	
+ES2016a.D.dialog-act.vkaraisk.78		
+ES2016a.B.dialog-act.vkaraisk.115		
+ES2016a.A.dialog-act.vkaraisk.195	be a little bit more prepared . 	
+ES2016a.A.dialog-act.vkaraisk.196	And uh alright , 	
+ES2016a.A.dialog-act.vkaraisk.197	good meeting . 	
+ES2016a.D.dialog-act.vkaraisk.79		
+

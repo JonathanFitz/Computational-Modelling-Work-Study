@@ -1,0 +1,1384 @@
+Observation: TS3012d; Result size: 1381; atts: 2
+$d@nite:id	$d	
+TS3012d.A.dialog-act.vkaraisk.1	Can I close this ? 	
+TS3012d.B.dialog-act.vkaraisk.1	Uh we don't have any changes , 	
+TS3012d.B.dialog-act.vkaraisk.2	do we ? 	
+TS3012d.B.dialog-act.vkaraisk.3	So no . 	
+TS3012d.A.dialog-act.vkaraisk.2	Oh , okay . 	
+TS3012d.B.dialog-act.vkaraisk.4		
+TS3012d.A.dialog-act.vkaraisk.3		
+TS3012d.A.dialog-act.vkaraisk.4	There we go . 	
+TS3012d.A.dialog-act.vkaraisk.5	Okay , 	
+TS3012d.A.dialog-act.vkaraisk.6	here we are again . 	
+TS3012d.A.dialog-act.vkaraisk.7	Detailed design 	
+TS3012d.A.dialog-act.vkaraisk.8	oh , come on . 	
+TS3012d.A.dialog-act.vkaraisk.9	Well Ah 	
+TS3012d.A.dialog-act.vkaraisk.10	s 	
+TS3012d.A.dialog-act.vkaraisk.11	Forgot to insert the minutes , 	
+TS3012d.A.dialog-act.vkaraisk.12	but it's about the same thing we discussed before . Uh 	
+TS3012d.A.dialog-act.vkaraisk.13	Could open that anyway , think . 	
+TS3012d.A.dialog-act.vkaraisk.14	Other design 	
+TS3012d.A.dialog-act.vkaraisk.16	anyway , we took as we took w we took rubber as as the material last time . 	
+TS3012d.A.dialog-act.vkaraisk.17	We also that you're just busy with it . 	
+TS3012d.A.dialog-act.vkaraisk.18	Took the advanced chip to t uh implement the advanced features . 	
+TS3012d.A.dialog-act.vkaraisk.19	Well , 	
+TS3012d.A.dialog-act.vkaraisk.20	we discussed the design , 	
+TS3012d.A.dialog-act.vkaraisk.21	no sharp corners , we rounded it off , 	
+TS3012d.A.dialog-act.vkaraisk.22	like you see on the other screen , 	
+TS3012d.A.dialog-act.vkaraisk.23	which is fine . 	
+TS3012d.A.dialog-act.vkaraisk.24	Um we agreed that the colour should be b uh yellow and black . 	
+TS3012d.A.dialog-act.vkaraisk.25	Yellow in the back because it's m trendy , more trendy than black anyway . 	
+TS3012d.A.dialog-act.vkaraisk.26	So 	
+TS3012d.A.dialog-act.vkaraisk.27	then we ca 	
+TS3012d.A.dialog-act.vkaraisk.28	yeah . 	
+TS3012d.A.dialog-act.vkaraisk.29	We agreed that we would implement both the L_C_D_ and speech recognition , 	
+TS3012d.A.dialog-act.vkaraisk.30	but I'll get to that in a moment . 	
+TS3012d.A.dialog-act.vkaraisk.31	'Cause some changes in the finances have left us implications anyway . 	
+TS3012d.A.dialog-act.vkaraisk.32	So so , 	
+TS3012d.D.dialog-act.vkaraisk.1	Hmm . 	
+TS3012d.A.dialog-act.vkaraisk.33	like I said , we had no insight in finances , no prices , 	
+TS3012d.A.dialog-act.vkaraisk.34	but we have 'em now , 	
+TS3012d.A.dialog-act.vkaraisk.35	and it's bad . 	
+TS3012d.A.dialog-act.vkaraisk.36	Anyway . 	
+TS3012d.A.dialog-act.vkaraisk.37	We are 	
+TS3012d.A.dialog-act.vkaraisk.38	Oh . 	
+TS3012d.A.dialog-act.vkaraisk.39	Prototype presentation , well first 	
+TS3012d.A.dialog-act.vkaraisk.40	you guys built the prototype . 	
+TS3012d.A.dialog-act.vkaraisk.41	So 	
+TS3012d.A.dialog-act.vkaraisk.42	you could could present that . 	
+TS3012d.A.dialog-act.vkaraisk.43	But um let's see what be handy to do . 	
+TS3012d.A.dialog-act.vkaraisk.44	Nee no , 	
+TS3012d.A.dialog-act.vkaraisk.45	you just go ahead and present 	
+TS3012d.A.dialog-act.vkaraisk.46	the w 	
+TS3012d.A.dialog-act.vkaraisk.47	we'll scrap it later 	
+TS3012d.A.dialog-act.vkaraisk.48	because 	
+TS3012d.C.dialog-act.vkaraisk.1	I think it's more or less the same as we had . 	
+TS3012d.A.dialog-act.vkaraisk.49	What ? 	
+TS3012d.B.dialog-act.vkaraisk.5	It's basically what we agreed upon , 	
+TS3012d.D.dialog-act.vkaraisk.2	Hmm ? 	
+TS3012d.A.dialog-act.vkaraisk.50	Oh 	
+TS3012d.B.dialog-act.vkaraisk.6	but just a little bit more specified . 	
+TS3012d.A.dialog-act.vkaraisk.51	that's 	
+TS3012d.C.dialog-act.vkaraisk.2	No much s 	
+TS3012d.A.dialog-act.vkaraisk.52	hasn't changed that much , huh ? 	
+TS3012d.C.dialog-act.vkaraisk.3	No no no , not at all . 	
+TS3012d.A.dialog-act.vkaraisk.54	I didn't expect anyway . 	
+TS3012d.A.dialog-act.vkaraisk.55	You just coloured it . 	
+TS3012d.B.dialog-act.vkaraisk.7	Uh s 	
+TS3012d.B.dialog-act.vkaraisk.8	Final design . 	
+TS3012d.B.dialog-act.vkaraisk.9	Basically in what we discussed , cover and buttons will be made of rubber , yellow colour , black components , 	
+TS3012d.B.dialog-act.vkaraisk.10	as you can see right over here . 	
+TS3012d.A.dialog-act.vkaraisk.56	Mm-hmm . 	
+TS3012d.B.dialog-act.vkaraisk.11	We chose a different type of colour for the menu . A bit darker yellow 	
+TS3012d.A.dialog-act.vkaraisk.57	I like the menu . 	
+TS3012d.B.dialog-act.vkaraisk.12	so that it com really shows in this keypad . 	
+TS3012d.A.dialog-act.vkaraisk.58	Mm-hmm . 	
+TS3012d.B.dialog-act.vkaraisk.13	If you put them all black , it's not really that good a contrast . 	
+TS3012d.B.dialog-act.vkaraisk.14	So 	
+TS3012d.A.dialog-act.vkaraisk.59	And I suppose the the the yellow is not printed on the on the rubber . It's it's part of the rubber , I suppose . 	
+TS3012d.B.dialog-act.vkaraisk.15	Probab 	
+TS3012d.B.dialog-act.vkaraisk.16	Yeah . 	
+TS3012d.A.dialog-act.vkaraisk.61	I think that's more I think that's more durable anyway than printed on to 	
+TS3012d.B.dialog-act.vkaraisk.17	That's the be 	
+TS3012d.C.dialog-act.vkaraisk.4	Hmm . 	
+TS3012d.B.dialog-act.vkaraisk.18	And it I guess it's more easier to just paint it on the rubber 	
+TS3012d.C.dialog-act.vkaraisk.5	Yeah , of course . 	
+TS3012d.B.dialog-act.vkaraisk.19	than to uh 	
+TS3012d.D.dialog-act.vkaraisk.3	Mm yeah . 	
+TS3012d.C.dialog-act.vkaraisk.6	That's uh the integration story again . 	
+TS3012d.D.dialog-act.vkaraisk.4	Okay . 	
+TS3012d.B.dialog-act.vkaraisk.20	So we have it's a bit round shaped , 	
+TS3012d.A.dialog-act.vkaraisk.62	Oh yeah . 	
+TS3012d.B.dialog-act.vkaraisk.21	that's what we had 	
+TS3012d.B.dialog-act.vkaraisk.22	uh 	
+TS3012d.B.dialog-act.vkaraisk.23	We chose the buttons to be uh teletext , okay button , favourite channel and the mute . 	
+TS3012d.A.dialog-act.vkaraisk.63	Mm-hmm . 	
+TS3012d.B.dialog-act.vkaraisk.24	So that's basically what we chose there . 	
+TS3012d.A.dialog-act.vkaraisk.64	Okay . 	
+TS3012d.B.dialog-act.vkaraisk.25	If you have anything to add , please interrupt me . 	
+TS3012d.C.dialog-act.vkaraisk.7	No , uh 	
+TS3012d.C.dialog-act.vkaraisk.8	this is just a description of what we see there . 	
+TS3012d.C.dialog-act.vkaraisk.9	So 	
+TS3012d.A.dialog-act.vkaraisk.65	Yeah . 	
+TS3012d.B.dialog-act.vkaraisk.26	Oh . 	
+TS3012d.D.dialog-act.vkaraisk.5	Yeah . 	
+TS3012d.C.dialog-act.vkaraisk.10	Speaks for itself . 	
+TS3012d.B.dialog-act.vkaraisk.27	That's pretty much it . 	
+TS3012d.A.dialog-act.vkaraisk.66	Okay . 	
+TS3012d.A.dialog-act.vkaraisk.67	Now it's my time to ruin everything . 	
+TS3012d.A.dialog-act.vkaraisk.68	Well , 	
+TS3012d.A.dialog-act.vkaraisk.69	not ruin everything , 	
+TS3012d.A.dialog-act.vkaraisk.70	but 	
+TS3012d.B.dialog-act.vkaraisk.28	Oh sorry . 	
+TS3012d.A.dialog-act.vkaraisk.71	no , nah . 	
+TS3012d.A.dialog-act.vkaraisk.72	Finances , 	
+TS3012d.A.dialog-act.vkaraisk.73	that's what we have here , what you drew . 	
+TS3012d.A.dialog-act.vkaraisk.74	We have battery power , 	
+TS3012d.A.dialog-act.vkaraisk.75	we have advanced chips and the sam the sensor . The sample sensor and uh for speak recognition anyway . 	
+TS3012d.A.dialog-act.vkaraisk.77	So which you see the 	
+TS3012d.A.dialog-act.vkaraisk.76	which is de o one of the most expensive parts . 	
+TS3012d.A.dialog-act.vkaraisk.78	So well , 	
+TS3012d.A.dialog-act.vkaraisk.79	we have sin one curve , a design . Rubber design . 	
+TS3012d.A.dialog-act.vkaraisk.80	And we had a special colour . Suppose yellow is a special colour . 	
+TS3012d.A.dialog-act.vkaraisk.81	So just half a Euro for 	
+TS3012d.A.dialog-act.vkaraisk.82	You have pushbuttons and an L_C_D_ display . 	
+TS3012d.A.dialog-act.vkaraisk.83	You have the total of seventeen Euros in production cost , 	
+TS3012d.C.dialog-act.vkaraisk.11	Hmm . 	
+TS3012d.A.dialog-act.vkaraisk.84	which is higher than the twelve and a half that we are permitted to use . 	
+TS3012d.A.dialog-act.vkaraisk.85	So , 	
+TS3012d.D.dialog-act.vkaraisk.6	Hmm . 	
+TS3012d.A.dialog-act.vkaraisk.86	easy . 	
+TS3012d.A.dialog-act.vkaraisk.87	What do we scrap . 	
+TS3012d.A.dialog-act.vkaraisk.88	Well 	
+TS3012d.C.dialog-act.vkaraisk.12	I d 	
+TS3012d.A.dialog-act.vkaraisk.89	think I had the best solution that I came up with is just to s take out the speech recognition . 	
+TS3012d.C.dialog-act.vkaraisk.13	Yeah . 	
+TS3012d.B.dialog-act.vkaraisk.29	I'd say that too . 	
+TS3012d.A.dialog-act.vkaraisk.90	Because the L_C_D_ has more support on customer side . 	
+TS3012d.C.dialog-act.vkaraisk.14	Hmm . 	
+TS3012d.A.dialog-act.vkaraisk.91	There are ninety one percent of uh the people , or something like that . But ninety percent who favour an L_C_D_ display , 	
+TS3012d.A.dialog-act.vkaraisk.92	and only sixty percent that favour speech recognition . 	
+TS3012d.A.dialog-act.vkaraisk.93	I think it's also harder to 	
+TS3012d.B.dialog-act.vkaraisk.30	Uh we don't really have a extra function with the speech sample , 	
+TS3012d.D.dialog-act.vkaraisk.7	Yeah . 	
+TS3012d.B.dialog-act.vkaraisk.31	which you can't do with a normal remote control , 	
+TS3012d.C.dialog-act.vkaraisk.15	Hmm . 	
+TS3012d.B.dialog-act.vkaraisk.32	which people already do . 	
+TS3012d.A.dialog-act.vkaraisk.94	. So I ju 	
+TS3012d.B.dialog-act.vkaraisk.33	So 	
+TS3012d.A.dialog-act.vkaraisk.95	I took that out . 	
+TS3012d.A.dialog-act.vkaraisk.96	So 	
+TS3012d.A.dialog-act.vkaraisk.97	and so it's still stuck with thirteen , 	
+TS3012d.A.dialog-act.vkaraisk.98	so I had to take out the special colour I suppose . 	
+TS3012d.A.dialog-act.vkaraisk.100	And , yeah 	
+TS3012d.A.dialog-act.vkaraisk.99	, I didn't see anything else I could take out . 	
+TS3012d.A.dialog-act.vkaraisk.101	Yeah , 	
+TS3012d.D.dialog-act.vkaraisk.8	Pushbut 	
+TS3012d.A.dialog-act.vkaraisk.102	I could take out the push-buttons , 	
+TS3012d.A.dialog-act.vkaraisk.103	but we need those . 	
+TS3012d.C.dialog-act.vkaraisk.16	Huh . 	
+TS3012d.A.dialog-act.vkaraisk.104	So , generally what I came up with , in order to be cou to to have production cost of twelve and a half Euros , spe scrap speech recognition 	
+TS3012d.D.dialog-act.vkaraisk.9	Special colour , yeah . 	
+TS3012d.C.dialog-act.vkaraisk.17		
+TS3012d.A.dialog-act.vkaraisk.105	and the separate covers can account for the if people want it , 	
+TS3012d.A.dialog-act.vkaraisk.106	we'll just then we'll do it in black . 	
+TS3012d.A.dialog-act.vkaraisk.107	We'll just deliver it in black , 	
+TS3012d.A.dialog-act.vkaraisk.108	have the 	
+TS3012d.A.dialog-act.vkaraisk.109	it has all the function that it's supposed to have , 	
+TS3012d.A.dialog-act.vkaraisk.110	and if you want it if you want the custom design , then you can buy the separate covers . 	
+TS3012d.A.dialog-act.vkaraisk.111	You make it d orange or whatever you want . 	
+TS3012d.B.dialog-act.vkaraisk.34	Well , 	
+TS3012d.B.dialog-act.vkaraisk.35	I'd I tend to disagree with you on that , 	
+TS3012d.B.dialog-act.vkaraisk.36	because the trend issue was a big issue when we started designing this . 	
+TS3012d.A.dialog-act.vkaraisk.112	It was a big issue , but 	
+TS3012d.B.dialog-act.vkaraisk.37	So can't we just basically extend it to thirteen ? 	
+TS3012d.A.dialog-act.vkaraisk.113	I'll just go back . 	
+TS3012d.A.dialog-act.vkaraisk.114	Uh 	
+TS3012d.A.dialog-act.vkaraisk.115	let's just let's see what 	
+TS3012d.A.dialog-act.vkaraisk.116	okay , 	
+TS3012d.A.dialog-act.vkaraisk.117	let's just see what we 	
+TS3012d.A.dialog-act.vkaraisk.118	no , 	
+TS3012d.A.dialog-act.vkaraisk.119	we we have to be under twelve and a half . 	
+TS3012d.D.dialog-act.vkaraisk.10	Yeah , 	
+TS3012d.D.dialog-act.vkaraisk.11	it 	
+TS3012d.A.dialog-act.vkaraisk.120	It it's not 	
+TS3012d.D.dialog-act.vkaraisk.12	The p 	
+TS3012d.A.dialog-act.vkaraisk.121	uh the project is a no-go if we go over twelve and a half , 	
+TS3012d.C.dialog-act.vkaraisk.18	Okay , 	
+TS3012d.C.dialog-act.vkaraisk.19	but there's another problem . 	
+TS3012d.D.dialog-act.vkaraisk.13	And the p 	
+TS3012d.B.dialog-act.vkaraisk.38	Okay . 	
+TS3012d.A.dialog-act.vkaraisk.122	so . 	
+TS3012d.C.dialog-act.vkaraisk.20	But there's another problem . 	
+TS3012d.D.dialog-act.vkaraisk.14	What 	
+TS3012d.C.dialog-act.vkaraisk.21	If we take another cover , for instance black , then we also need another button frame , 	
+TS3012d.C.dialog-act.vkaraisk.22	'cause black and black doesn't work obviously . 	
+TS3012d.A.dialog-act.vkaraisk.123	I think you 	
+TS3012d.A.dialog-act.vkaraisk.124	that's what you were ass assigned to do really , to to see how b th both those work together . 	
+TS3012d.C.dialog-act.vkaraisk.23	Huh . 	
+TS3012d.C.dialog-act.vkaraisk.24	Huh . Yeah . 	
+TS3012d.A.dialog-act.vkaraisk.125	So I think yeah , it's I think it's y one of the 	
+TS3012d.A.dialog-act.vkaraisk.126	it's a good way to um to help people uh to make to keep the product trendy too . 	
+TS3012d.C.dialog-act.vkaraisk.26	Hmm . 	
+TS3012d.C.dialog-act.vkaraisk.27	Hmm . 	
+TS3012d.A.dialog-act.vkaraisk.127	Just keep you just make new covers for the for it , 	
+TS3012d.C.dialog-act.vkaraisk.28	Right . 	
+TS3012d.A.dialog-act.vkaraisk.128	like we agreed before . 	
+TS3012d.C.dialog-act.vkaraisk.25	I agree . 	
+TS3012d.A.dialog-act.vkaraisk.129	And everything that's left is is the basic function that uh that we want our product to have . 	
+TS3012d.A.dialog-act.vkaraisk.130	Because the expensive parts are in either the advanced chip . 	
+TS3012d.A.dialog-act.vkaraisk.131	But we need that for the L_C_D_ display . 	
+TS3012d.B.dialog-act.vkaraisk.39	Yeah . We do . 	
+TS3012d.C.dialog-act.vkaraisk.29	Mm-hmm . 	
+TS3012d.A.dialog-act.vkaraisk.132	Then again , we have the L_C_D_ display , which is also expensive . 	
+TS3012d.A.dialog-act.vkaraisk.133	B 	
+TS3012d.A.dialog-act.vkaraisk.134	yeah , 	
+TS3012d.A.dialog-act.vkaraisk.135	but those go together . 	
+TS3012d.A.dialog-act.vkaraisk.136	And yeah , 	
+TS3012d.A.dialog-act.vkaraisk.137	we could take out the curve . 	
+TS3012d.C.dialog-act.vkaraisk.30	Or say let's lose rubber , take plastic . 	
+TS3012d.B.dialog-act.vkaraisk.40	We could take out a curve indeed . 	
+TS3012d.A.dialog-act.vkaraisk.138	Could 	
+TS3012d.A.dialog-act.vkaraisk.139	we could take out the curve . 	
+TS3012d.A.dialog-act.vkaraisk.140	Is that an option ? 	
+TS3012d.D.dialog-act.vkaraisk.15	. 	
+TS3012d.C.dialog-act.vkaraisk.31	Yes . 	
+TS3012d.A.dialog-act.vkaraisk.141	For you ? 	
+TS3012d.C.dialog-act.vkaraisk.32	Although we are demolishing a little bit the style . 	
+TS3012d.D.dialog-act.vkaraisk.16	But uh the and 	
+TS3012d.B.dialog-act.vkaraisk.41	I think the colour is more important than the really the curve , 	
+TS3012d.C.dialog-act.vkaraisk.33	But 	
+TS3012d.A.dialog-act.vkaraisk.142	Yeah . 	
+TS3012d.B.dialog-act.vkaraisk.42	because if you just end up with an entirely black remote control 	
+TS3012d.A.dialog-act.vkaraisk.143		
+TS3012d.D.dialog-act.vkaraisk.17	Yeah . 	
+TS3012d.A.dialog-act.vkaraisk.144	I think it's it it does ruin it , 	
+TS3012d.D.dialog-act.vkaraisk.18	The people 	
+TS3012d.A.dialog-act.vkaraisk.145	but the fact that I t took that decision or t 	
+TS3012d.C.dialog-act.vkaraisk.34	Yeah . 	
+TS3012d.A.dialog-act.vkaraisk.146	Took this example actually , not really decision , 	
+TS3012d.A.dialog-act.vkaraisk.147	but the example is because we do offer the um the possibility of adding your own custom covers . 	
+TS3012d.A.dialog-act.vkaraisk.148	So you can change any colour you want . 	
+TS3012d.A.dialog-act.vkaraisk.149	So 	
+TS3012d.A.dialog-act.vkaraisk.150	it's just you deliver a basic remote control with a possibility to change you into whatever you want . 	
+TS3012d.C.dialog-act.vkaraisk.35	Can we then not also uh change the material ? 	
+TS3012d.C.dialog-act.vkaraisk.36	We take plastic for the basic cover 	
+TS3012d.A.dialog-act.vkaraisk.154	You can take plastic , 	
+TS3012d.C.dialog-act.vkaraisk.37	and 	
+TS3012d.A.dialog-act.vkaraisk.151	but I d it's 	
+TS3012d.A.dialog-act.vkaraisk.152	something that's stuck into my mind is that something that really came forward from the marketing research is that people like the the the the squishy feeling of the spongy feeling of the 	
+TS3012d.D.dialog-act.vkaraisk.19	Spongy , yeah . 	
+TS3012d.C.dialog-act.vkaraisk.38	We can put those to the to the other covers . 	
+TS3012d.D.dialog-act.vkaraisk.20	Yeah . 	
+TS3012d.A.dialog-act.vkaraisk.155	and it really makes it also makes it different from the existing remote controls , 	
+TS3012d.D.dialog-act.vkaraisk.21	And 	
+TS3012d.A.dialog-act.vkaraisk.156	because they're all plastic . 	
+TS3012d.C.dialog-act.vkaraisk.39	That's true . 	
+TS3012d.A.dialog-act.vkaraisk.157	So which in in turn 	
+TS3012d.A.dialog-act.vkaraisk.158	Rubber would increase durability 	
+TS3012d.C.dialog-act.vkaraisk.40	But 	
+TS3012d.C.dialog-act.vkaraisk.41	okay . 	
+TS3012d.A.dialog-act.vkaraisk.159	because it doesn't break . 	
+TS3012d.C.dialog-act.vkaraisk.42	But what do you then suggest we'd lose ? 	
+TS3012d.C.dialog-act.vkaraisk.43	Because we have to lose two things and I guess . 	
+TS3012d.A.dialog-act.vkaraisk.160	I al 	
+TS3012d.A.dialog-act.vkaraisk.161	like I said , I lost the speech recognition and I lost the special colour , 	
+TS3012d.D.dialog-act.vkaraisk.22	But 	
+TS3012d.C.dialog-act.vkaraisk.44	Yes . 	
+TS3012d.A.dialog-act.vkaraisk.162	which would make this black a black and grey . 	
+TS3012d.C.dialog-act.vkaraisk.45	Okay , 	
+TS3012d.C.dialog-act.vkaraisk.46	and that's enough ? 	
+TS3012d.A.dialog-act.vkaraisk.163	Yeah , that's that that that's enough , 	
+TS3012d.B.dialog-act.vkaraisk.43	So black and grey is okay . 	
+TS3012d.A.dialog-act.vkaraisk.164	because 	
+TS3012d.A.dialog-act.vkaraisk.165	I guess those are the basic colours . 	
+TS3012d.D.dialog-act.vkaraisk.23	But 	
+TS3012d.A.dialog-act.vkaraisk.166	So Oh . 	
+TS3012d.C.dialog-act.vkaraisk.47	Hmm . 	
+TS3012d.B.dialog-act.vkaraisk.44	Which we can fabricate , 	
+TS3012d.B.dialog-act.vkaraisk.45	okay . 	
+TS3012d.D.dialog-act.vkaraisk.24	The people want to pay for for it , 	
+TS3012d.A.dialog-act.vkaraisk.167	I think those are basic col They want to 	
+TS3012d.D.dialog-act.vkaraisk.25	so why why uh do we have to keep us uh uh um on the twelve and a half ? 	
+TS3012d.A.dialog-act.vkaraisk.168	To ensure the profit . 	
+TS3012d.A.dialog-act.vkaraisk.169	That that's th that's the order . 	
+TS3012d.A.dialog-act.vkaraisk.170	We're just uh we're the project team 	
+TS3012d.A.dialog-act.vkaraisk.171	and we got our our orders from the pro from the boss of our company 	
+TS3012d.D.dialog-act.vkaraisk.26	Yeah . 	
+TS3012d.A.dialog-act.vkaraisk.172	which say we don't wanna spend more than twelve fifty for this . 	
+TS3012d.D.dialog-act.vkaraisk.27	But we can take a risk . 	
+TS3012d.A.dialog-act.vkaraisk.173	But that's not for our 	
+TS3012d.A.dialog-act.vkaraisk.174	that's not our decision to take . 	
+TS3012d.B.dialog-act.vkaraisk.46	No , 	
+TS3012d.B.dialog-act.vkaraisk.47	we basically 	
+TS3012d.A.dialog-act.vkaraisk.175	We have a budget of twelve fifty per product . 	
+TS3012d.D.dialog-act.vkaraisk.28	Okay , yeah . 	
+TS3012d.C.dialog-act.vkaraisk.48	Hmm . 	
+TS3012d.B.dialog-act.vkaraisk.48	We need to stick to that . 	
+TS3012d.A.dialog-act.vkaraisk.176	So 	
+TS3012d.A.dialog-act.vkaraisk.177	Stick that . 	
+TS3012d.A.dialog-act.vkaraisk.178	I don't think it's really bad either . I mean if we we have the the backup of or the backup design thing 	
+TS3012d.D.dialog-act.vkaraisk.29	I hope the people will like it , 	
+TS3012d.D.dialog-act.vkaraisk.30	but 	
+TS3012d.A.dialog-act.vkaraisk.179	to have 	
+TS3012d.A.dialog-act.vkaraisk.180	I think they would do . Th I think they do like 	
+TS3012d.A.dialog-act.vkaraisk.181	because yo we you 	
+TS3012d.A.dialog-act.vkaraisk.182	we agree upon that the that the the the cover thing was a nice idea , 	
+TS3012d.D.dialog-act.vkaraisk.31		
+TS3012d.A.dialog-act.vkaraisk.183	because p you could have all sort of designs while at the same time just manufacturing one product , 	
+TS3012d.D.dialog-act.vkaraisk.32	Yeah . 	
+TS3012d.A.dialog-act.vkaraisk.184	one basic product which you could turn into any any taste you want . 	
+TS3012d.A.dialog-act.vkaraisk.185	So 	
+TS3012d.A.dialog-act.vkaraisk.186	I think it's the best solution to make those cu custom covers for the design aspect 	
+TS3012d.C.dialog-act.vkaraisk.49	Perhaps we should make m 	
+TS3012d.D.dialog-act.vkaraisk.33	Yeah . 	
+TS3012d.D.dialog-act.vkaraisk.34		
+TS3012d.C.dialog-act.vkaraisk.50	Huh . 	
+TS3012d.A.dialog-act.vkaraisk.187	and keep the functionality between of within the th the boundaries of the your f uh your budget . 	
+TS3012d.D.dialog-act.vkaraisk.35	The first sheet . 	
+TS3012d.A.dialog-act.vkaraisk.188	So 	
+TS3012d.C.dialog-act.vkaraisk.51	Perhaps we should make clear to our customer that we had to do this to stay under the cost . 	
+TS3012d.C.dialog-act.vkaraisk.52	And that's uh they know that this is an option and that we had to drop the option to stay under the cost , that they know that . 	
+TS3012d.A.dialog-act.vkaraisk.189	Well 	
+TS3012d.A.dialog-act.vkaraisk.190	I don't think 	
+TS3012d.A.dialog-act.vkaraisk.191	Yeah . 	
+TS3012d.C.dialog-act.vkaraisk.53	Perhaps they decide tha 	
+TS3012d.A.dialog-act.vkaraisk.192	Is it worth is it is it 	
+TS3012d.B.dialog-act.vkaraisk.49	But they don't 	
+TS3012d.A.dialog-act.vkaraisk.193	does it mean anything to the customer ? 	
+TS3012d.A.dialog-act.vkaraisk.194	Like , it like , we don't care we don't care that you had to 	
+TS3012d.C.dialog-act.vkaraisk.54	Of course . 	
+TS3012d.C.dialog-act.vkaraisk.55	Perhaps they uh 	
+TS3012d.C.dialog-act.vkaraisk.56	no , 	
+TS3012d.C.dialog-act.vkaraisk.57	but perhaps they think uh okay , the cover is such a nice idea , uh let's that that then they uh that allow us to make some more costs . 	
+TS3012d.C.dialog-act.vkaraisk.58	We ca we uh we can at least tell them that 	
+TS3012d.A.dialog-act.vkaraisk.195	True , 	
+TS3012d.A.dialog-act.vkaraisk.196	but we did we didn't get that . 	
+TS3012d.A.dialog-act.vkaraisk.197	So I think it's 	
+TS3012d.C.dialog-act.vkaraisk.59	You don't know that . 	
+TS3012d.A.dialog-act.vkaraisk.198	it should either be a pack , maybe we sh that should be sold in in the s in stores with with a standard cover or something . 	
+TS3012d.B.dialog-act.vkaraisk.50	Well 	
+TS3012d.C.dialog-act.vkaraisk.60	Huh . 	
+TS3012d.C.dialog-act.vkaraisk.61	No , I'm not uh talking about that cost 	
+TS3012d.A.dialog-act.vkaraisk.199	But 	
+TS3012d.C.dialog-act.vkaraisk.62	but the one that g has given us the order to design this . 	
+TS3012d.C.dialog-act.vkaraisk.63	We could at least m uh make it like this , like you said , 	
+TS3012d.A.dialog-act.vkaraisk.200	They could , but uh 	
+TS3012d.C.dialog-act.vkaraisk.64	and then tell them okay , we had to drop this and that , just that you know . It is an still an option , but not for this price . 	
+TS3012d.A.dialog-act.vkaraisk.201	It's an option , but 	
+TS3012d.A.dialog-act.vkaraisk.202	yeah , it's true . 	
+TS3012d.A.dialog-act.vkaraisk.204	So actually uh it's not that much of an increase , 	
+TS3012d.A.dialog-act.vkaraisk.205	but yeah . 	
+TS3012d.B.dialog-act.vkaraisk.51	And if we 	
+TS3012d.A.dialog-act.vkaraisk.206	We cannot contact them . 	
+TS3012d.A.dialog-act.vkaraisk.207	It's just the order that we got . 	
+TS3012d.C.dialog-act.vkaraisk.66	Exactly , 	
+TS3012d.D.dialog-act.vkaraisk.36	Yeah . 	
+TS3012d.C.dialog-act.vkaraisk.67	but 	
+TS3012d.A.dialog-act.vkaraisk.208	So that's what we gotta go with . 	
+TS3012d.A.dialog-act.vkaraisk.209	So it's either one fi just just to get it f 	
+TS3012d.A.dialog-act.vkaraisk.210	just to get it through final , 	
+TS3012d.A.dialog-act.vkaraisk.211	it's either turned into plastic , drop the squishy feel , make it make it more breakable , 	
+TS3012d.D.dialog-act.vkaraisk.37	Yeah . 	
+TS3012d.C.dialog-act.vkaraisk.68	Hmm . 	
+TS3012d.A.dialog-act.vkaraisk.212	um or turn it yellow . 	
+TS3012d.A.dialog-act.vkaraisk.213	So 	
+TS3012d.A.dialog-act.vkaraisk.214	It's uh something we have to decide on . 	
+TS3012d.C.dialog-act.vkaraisk.69	I'd say lose the curve and the colour 	
+TS3012d.A.dialog-act.vkaraisk.215	I say lose the curve . Oh that's true , 	
+TS3012d.C.dialog-act.vkaraisk.70	and 	
+TS3012d.A.dialog-act.vkaraisk.216	we could lose the c 	
+TS3012d.A.dialog-act.vkaraisk.219	yeah , 	
+TS3012d.A.dialog-act.vkaraisk.218	I forgot that , 	
+TS3012d.A.dialog-act.vkaraisk.217	sorry . 	
+TS3012d.A.dialog-act.vkaraisk.220	Uh the curve . 	
+TS3012d.A.dialog-act.vkaraisk.221	So 	
+TS3012d.B.dialog-act.vkaraisk.52	So which curve is that 	
+TS3012d.B.dialog-act.vkaraisk.53	ba 	
+TS3012d.B.dialog-act.vkaraisk.54	that's basically that curve . 	
+TS3012d.A.dialog-act.vkaraisk.222	That's just this one just d this is the banana curve . 	
+TS3012d.C.dialog-act.vkaraisk.71	Hmm . 	
+TS3012d.D.dialog-act.vkaraisk.38	Yeah , that's better . 	
+TS3012d.A.dialog-act.vkaraisk.223	So this would this would be straight . 	
+TS3012d.B.dialog-act.vkaraisk.55	So we could u still have the comfort . 	
+TS3012d.A.dialog-act.vkaraisk.224	No , uh no , 	
+TS3012d.A.dialog-act.vkaraisk.225	that would be a curve inside the thing , I guess . 	
+TS3012d.A.dialog-act.vkaraisk.226	No , 	
+TS3012d.A.dialog-act.vkaraisk.227	would ju then it would just be a straight remote . Just like like that . 	
+TS3012d.C.dialog-act.vkaraisk.72	Hmm . 	
+TS3012d.A.dialog-act.vkaraisk.228	Which would , yeah , turn it into something far more ordinary . 	
+TS3012d.A.dialog-act.vkaraisk.229	we could make it yellow then , 	
+TS3012d.B.dialog-act.vkaraisk.56	I second that . 	
+TS3012d.A.dialog-act.vkaraisk.230	but 	
+TS3012d.A.dialog-act.vkaraisk.231	You second that , you second that we lose the curve . 	
+TS3012d.B.dialog-act.vkaraisk.57	No , 	
+TS3012d.B.dialog-act.vkaraisk.58	that it would turn out to be a pretty straight-forward remote control . 	
+TS3012d.A.dialog-act.vkaraisk.232	Okay , yeah . 	
+TS3012d.B.dialog-act.vkaraisk.59	So that's not really that 	
+TS3012d.D.dialog-act.vkaraisk.39	Yeah . Yeah . 	
+TS3012d.A.dialog-act.vkaraisk.233	So I think it would be a good idea to keep the curve 	
+TS3012d.A.dialog-act.vkaraisk.234	to separate it from the rest of the remote control world , so to speak . 	
+TS3012d.C.dialog-act.vkaraisk.73	Hmm . 	
+TS3012d.A.dialog-act.vkaraisk.235	So we keep the curve . 	
+TS3012d.A.dialog-act.vkaraisk.236	So the only only solution is either to use the l y lose the yellow or lose the rubber . 	
+TS3012d.B.dialog-act.vkaraisk.60	I would 	
+TS3012d.A.dialog-act.vkaraisk.237	And I'm in favour of keeping the rubber , 	
+TS3012d.A.dialog-act.vkaraisk.238	because it has more more advantages than the colour yellow has . 	
+TS3012d.C.dialog-act.vkaraisk.74	Oh . 	
+TS3012d.C.dialog-act.vkaraisk.75	I agree . 	
+TS3012d.B.dialog-act.vkaraisk.61	Yeah . I would say I would agree with you on the colour , 	
+TS3012d.C.dialog-act.vkaraisk.76	No . 	
+TS3012d.D.dialog-act.vkaraisk.40	Yep . 	
+TS3012d.B.dialog-act.vkaraisk.62	because that's an extra option , an extra service we can deliver for a little bit of more money . 	
+TS3012d.A.dialog-act.vkaraisk.239	Mm-hmm . 	
+TS3012d.B.dialog-act.vkaraisk.63	So we can always do that . 	
+TS3012d.A.dialog-act.vkaraisk.240	Yeah , um 	
+TS3012d.A.dialog-act.vkaraisk.241	I guess people are willing to pay for that . 	
+TS3012d.A.dialog-act.vkaraisk.242	So I think we can take that option and just with uh with the idea in the back of our head that you can customise your remote control . 	
+TS3012d.D.dialog-act.vkaraisk.41	Yeah . 	
+TS3012d.C.dialog-act.vkaraisk.77	Hmm ? 	
+TS3012d.D.dialog-act.vkaraisk.42		
+TS3012d.A.dialog-act.vkaraisk.243	So I think that would still make it a nice product . 	
+TS3012d.C.dialog-act.vkaraisk.78	Yes . 	
+TS3012d.A.dialog-act.vkaraisk.244	Okay , 	
+TS3012d.A.dialog-act.vkaraisk.245	we're final on that . 	
+TS3012d.A.dialog-act.vkaraisk.246	So 	
+TS3012d.A.dialog-act.vkaraisk.247	it's too bad we can't make the whole super thing . 	
+TS3012d.A.dialog-act.vkaraisk.248	But anyways we're here . 	
+TS3012d.A.dialog-act.vkaraisk.249	Um yeah . 	
+TS3012d.B.dialog-act.vkaraisk.64	Which is basically what we discussed . 	
+TS3012d.A.dialog-act.vkaraisk.250	This we discussed just now . 	
+TS3012d.A.dialog-act.vkaraisk.251	That's just now just 	
+TS3012d.A.dialog-act.vkaraisk.252	we could just discuss how the project went . 	
+TS3012d.A.dialog-act.vkaraisk.253	I mean , was kind of 	
+TS3012d.D.dialog-act.vkaraisk.43	And I want to do that . 	
+TS3012d.A.dialog-act.vkaraisk.254	I sort of expected that everything would turn out this way , 	
+TS3012d.A.dialog-act.vkaraisk.255	but because you 	
+TS3012d.A.dialog-act.vkaraisk.256	yeah , 	
+TS3012d.A.dialog-act.vkaraisk.257	everything cannot be for free . 	
+TS3012d.A.dialog-act.vkaraisk.258	We didn't 	
+TS3012d.A.dialog-act.vkaraisk.259	I think it was too bad we didn't have the financial info the last time . 	
+TS3012d.A.dialog-act.vkaraisk.260	Because that was I th 	
+TS3012d.B.dialog-act.vkaraisk.65	Yes , 	
+TS3012d.C.dialog-act.vkaraisk.79	Huh . 	
+TS3012d.B.dialog-act.vkaraisk.66	we could have 	
+TS3012d.A.dialog-act.vkaraisk.261	it was really essential really 	
+TS3012d.A.dialog-act.vkaraisk.262	to ma 	
+TS3012d.A.dialog-act.vkaraisk.263	because we spent uh uh entire stage designing a product of which we had no idea what it would cost . 	
+TS3012d.C.dialog-act.vkaraisk.80	Hmm . 	
+TS3012d.A.dialog-act.vkaraisk.264	So we just put something 	
+TS3012d.D.dialog-act.vkaraisk.44	Yeah . 	
+TS3012d.A.dialog-act.vkaraisk.265	I think it's really nor not in stroke with reality actually . 	
+TS3012d.D.dialog-act.vkaraisk.45		
+TS3012d.A.dialog-act.vkaraisk.266	So 	
+TS3012d.C.dialog-act.vkaraisk.81	Me too , I felt a bit blind throughout the project , 	
+TS3012d.A.dialog-act.vkaraisk.267	Yeah . 	
+TS3012d.C.dialog-act.vkaraisk.82	because in the beginning I had no list of available materials , 	
+TS3012d.A.dialog-act.vkaraisk.268	Yeah , 	
+TS3012d.A.dialog-act.vkaraisk.269	I think would have been . 	
+TS3012d.D.dialog-act.vkaraisk.46	Yeah . 	
+TS3012d.C.dialog-act.vkaraisk.83	and then I d had not list of available c finances . 	
+TS3012d.D.dialog-act.vkaraisk.47	But 	
+TS3012d.A.dialog-act.vkaraisk.270	Materials would be ok 	
+TS3012d.A.dialog-act.vkaraisk.271	at least the last meeting I would have expected had to have that . 	
+TS3012d.C.dialog-act.vkaraisk.84	So 	
+TS3012d.A.dialog-act.vkaraisk.272	So I suppose 	
+TS3012d.D.dialog-act.vkaraisk.48	Let's um see um 	
+TS3012d.A.dialog-act.vkaraisk.273	Yeah , 	
+TS3012d.A.dialog-act.vkaraisk.274	let's see if it sells . 	
+TS3012d.A.dialog-act.vkaraisk.275	I mean I suppose this sells , 	
+TS3012d.D.dialog-act.vkaraisk.49	Um 	
+TS3012d.A.dialog-act.vkaraisk.276	because it's very very extended . 	
+TS3012d.A.dialog-act.vkaraisk.277	But 	
+TS3012d.B.dialog-act.vkaraisk.67	Well 	
+TS3012d.B.dialog-act.vkaraisk.68	I hope it sells . 	
+TS3012d.D.dialog-act.vkaraisk.51	Let's 	
+TS3012d.D.dialog-act.vkaraisk.52	Uh 	
+TS3012d.C.dialog-act.vkaraisk.85	Hmm . 	
+TS3012d.A.dialog-act.vkaraisk.278	I suppose it sells , 	
+TS3012d.A.dialog-act.vkaraisk.279	because it's good . 	
+TS3012d.D.dialog-act.vkaraisk.53	Oh . 	
+TS3012d.A.dialog-act.vkaraisk.280	I mean it's got everything for the for the reasonable price , 	
+TS3012d.A.dialog-act.vkaraisk.281	because we didn't know what it's gonna cost anyway . 	
+TS3012d.C.dialog-act.vkaraisk.86	Hmm . 	
+TS3012d.A.dialog-act.vkaraisk.282		
+TS3012d.D.dialog-act.vkaraisk.54	Hmm . Okay , 	
+TS3012d.D.dialog-act.vkaraisk.55	let's eval evaluate uh the product of us , our design . 	
+TS3012d.D.dialog-act.vkaraisk.56	Um I have some uh a method , a requirements and scale of . 	
+TS3012d.D.dialog-act.vkaraisk.57	I uh will pre present uh some statements 	
+TS3012d.D.dialog-act.vkaraisk.58	and we will decided together wha what if it's true or false 	
+TS3012d.D.dialog-act.vkaraisk.59	and uh then we see uh if the requirements of the user are fulfilled or not . 	
+TS3012d.A.dialog-act.vkaraisk.283	Okay . 	
+TS3012d.A.dialog-act.vkaraisk.284	Have been met , okay . 	
+TS3012d.D.dialog-act.vkaraisk.60	And I will uh make a new blank sheet 	
+TS3012d.A.dialog-act.vkaraisk.285	Yeah . 	
+TS3012d.D.dialog-act.vkaraisk.61	So so the buttons , the look and feel . 	
+TS3012d.D.dialog-act.vkaraisk.62	I thought it was okay , but the advanced uh settings , um screen , audio and channel 	
+TS3012d.A.dialog-act.vkaraisk.286		
+TS3012d.B.dialog-act.vkaraisk.69	Which are basically accessible through the menu button . 	
+TS3012d.A.dialog-act.vkaraisk.287	They're stuck under menu . 	
+TS3012d.D.dialog-act.vkaraisk.63	We are not 	
+TS3012d.A.dialog-act.vkaraisk.288	For the menu . 	
+TS3012d.C.dialog-act.vkaraisk.87	Hmm . 	
+TS3012d.A.dialog-act.vkaraisk.289	I think those are totally met , 	
+TS3012d.A.dialog-act.vkaraisk.290	because we we really took them for the they have the feel they want , 	
+TS3012d.D.dialog-act.vkaraisk.64	Oh 	
+TS3012d.D.dialog-act.vkaraisk.65	the menu button is it . 	
+TS3012d.B.dialog-act.vkaraisk.70	Yeah . 	
+TS3012d.D.dialog-act.vkaraisk.66	Hi 	
+TS3012d.D.dialog-act.vkaraisk.67	Oh , okay . 	
+TS3012d.A.dialog-act.vkaraisk.291	they have the simplicity they want . 	
+TS3012d.D.dialog-act.vkaraisk.68	Then it's all uh S 	
+TS3012d.A.dialog-act.vkaraisk.292	I think it's very uh very well met . 	
+TS3012d.A.dialog-act.vkaraisk.293	Either two or one maybe . 	
+TS3012d.C.dialog-act.vkaraisk.88	One . 	
+TS3012d.D.dialog-act.vkaraisk.69	it's true . 	
+TS3012d.A.dialog-act.vkaraisk.294	I think we took that everything they wanted into consideration . 	
+TS3012d.D.dialog-act.vkaraisk.70	Yeah . 	
+TS3012d.A.dialog-act.vkaraisk.295	So it could either be a two or a one . 	
+TS3012d.D.dialog-act.vkaraisk.71	So d 	
+TS3012d.D.dialog-act.vkaraisk.72	Oh wait . Uh pen . 	
+TS3012d.A.dialog-act.vkaraisk.296	One and a half . 	
+TS3012d.B.dialog-act.vkaraisk.71	Which is not an option . 	
+TS3012d.D.dialog-act.vkaraisk.73	The p 	
+TS3012d.D.dialog-act.vkaraisk.74	Oh yeah , 	
+TS3012d.D.dialog-act.vkaraisk.75	it's red , 	
+TS3012d.A.dialog-act.vkaraisk.297	Just create our own option . 	
+TS3012d.D.dialog-act.vkaraisk.76	okay , 	
+TS3012d.D.dialog-act.vkaraisk.77	but 	
+TS3012d.D.dialog-act.vkaraisk.78	Look and feel is everybo it's true . 	
+TS3012d.A.dialog-act.vkaraisk.298	Yeah . 	
+TS3012d.D.dialog-act.vkaraisk.79	So 	
+TS3012d.D.dialog-act.vkaraisk.80	Anyone ? 	
+TS3012d.D.dialog-act.vkaraisk.81	And the next one uh yeah , when it's lost uh you can find it . 	
+TS3012d.A.dialog-act.vkaraisk.299	It's perfect . Even for deaf people , 	
+TS3012d.D.dialog-act.vkaraisk.82	It's 	
+TS3012d.A.dialog-act.vkaraisk.300	yeah . 	
+TS3012d.C.dialog-act.vkaraisk.89	Hmm . 	
+TS3012d.A.dialog-act.vkaraisk.301	It's 	
+TS3012d.A.dialog-act.vkaraisk.302	I don't think it's perfect , but we did everything possible to to get it back . 	
+TS3012d.B.dialog-act.vkaraisk.72	To make it that way , yeah . 	
+TS3012d.A.dialog-act.vkaraisk.303	Because if it's stuck in you couch , you can see the light . 	
+TS3012d.A.dialog-act.vkaraisk.304	Maybe you can hear it . 	
+TS3012d.A.dialog-act.vkaraisk.305	But I mean we tried , 	
+TS3012d.D.dialog-act.vkaraisk.83	Yeah . 	
+TS3012d.A.dialog-act.vkaraisk.306	so I think it that's that deserves a one . Definitely . 	
+TS3012d.D.dialog-act.vkaraisk.84	And it's and it's 	
+TS3012d.D.dialog-act.vkaraisk.85	yeah . 	
+TS3012d.D.dialog-act.vkaraisk.86	To . 	
+TS3012d.D.dialog-act.vkaraisk.87	That's okay then . 	
+TS3012d.D.dialog-act.vkaraisk.88	And the next one . 	
+TS3012d.D.dialog-act.vkaraisk.89	How is that ? Uh w we had we don't have an uh manual , 	
+TS3012d.C.dialog-act.vkaraisk.90	Manual . 	
+TS3012d.D.dialog-act.vkaraisk.90	yeah . 	
+TS3012d.A.dialog-act.vkaraisk.307		
+TS3012d.D.dialog-act.vkaraisk.91	But I think that's a part of it . 	
+TS3012d.C.dialog-act.vkaraisk.91	I think the L_C_D_ display could be a little bit more difficult then a normal remote control , 	
+TS3012d.D.dialog-act.vkaraisk.92	But 	
+TS3012d.A.dialog-act.vkaraisk.308	I'd use an remote control . 	
+TS3012d.B.dialog-act.vkaraisk.73	Mm yeah . 	
+TS3012d.C.dialog-act.vkaraisk.92	but then again , it's for young people . 	
+TS3012d.C.dialog-act.vkaraisk.93	So 	
+TS3012d.D.dialog-act.vkaraisk.93	Yeah , 	
+TS3012d.D.dialog-act.vkaraisk.94	an L_C_D_ , it tells a lot about uh 	
+TS3012d.C.dialog-act.vkaraisk.94	Yeah , 	
+TS3012d.C.dialog-act.vkaraisk.95	I th 	
+TS3012d.B.dialog-act.vkaraisk.74	And it's pretty straight-forward , 	
+TS3012d.B.dialog-act.vkaraisk.75	you have a navigation no keys to navigate through the L_C_D_ menus . 	
+TS3012d.C.dialog-act.vkaraisk.96	Exactly . 	
+TS3012d.A.dialog-act.vkaraisk.309	It's pretty straight-forward , uh-huh . 	
+TS3012d.C.dialog-act.vkaraisk.97	No , that's true . 	
+TS3012d.C.dialog-act.vkaraisk.98	I think it won't be a big problem . 	
+TS3012d.D.dialog-act.vkaraisk.95	Yeah . 	
+TS3012d.B.dialog-act.vkaraisk.76	So 	
+TS3012d.D.dialog-act.vkaraisk.96	So it's a one 	
+TS3012d.D.dialog-act.vkaraisk.97	or a 	
+TS3012d.B.dialog-act.vkaraisk.77	One I d no , 	
+TS3012d.D.dialog-act.vkaraisk.98	I don't know . 	
+TS3012d.B.dialog-act.vkaraisk.78	actu 	
+TS3012d.A.dialog-act.vkaraisk.310	I think but we didn't even 	
+TS3012d.D.dialog-act.vkaraisk.99	For the advanced uh settings . 	
+TS3012d.A.dialog-act.vkaraisk.311	there was no issue on making a manual actually . 	
+TS3012d.A.dialog-act.vkaraisk.312	We didn't really discuss it , 	
+TS3012d.D.dialog-act.vkaraisk.100	No okay , that uh that's true . 	
+TS3012d.A.dialog-act.vkaraisk.313	but 	
+TS3012d.A.dialog-act.vkaraisk.314	I don't think it takes 	
+TS3012d.A.dialog-act.vkaraisk.315	no , it really does doesn't take time to learn , I think . 	
+TS3012d.A.dialog-act.vkaraisk.316	We took it s it's so easy , 	
+TS3012d.B.dialog-act.vkaraisk.79	No , 	
+TS3012d.D.dialog-act.vkaraisk.101	Oh , 	
+TS3012d.B.dialog-act.vkaraisk.80	it it is pretty straight-forward . 	
+TS3012d.D.dialog-act.vkaraisk.102	so it 	
+TS3012d.A.dialog-act.vkaraisk.317	we have so little button , 	
+TS3012d.A.dialog-act.vkaraisk.318	everything speaks for itself really . 	
+TS3012d.A.dialog-act.vkaraisk.319	So I think that's 	
+TS3012d.C.dialog-act.vkaraisk.99	Ah . Um 	
+TS3012d.A.dialog-act.vkaraisk.320	yeah , 	
+TS3012d.A.dialog-act.vkaraisk.321	we didn't 	
+TS3012d.A.dialog-act.vkaraisk.322	it's either two or one , I guess . 	
+TS3012d.D.dialog-act.vkaraisk.103	Takes no ti 	
+TS3012d.A.dialog-act.vkaraisk.323	Maybe it's a two , 	
+TS3012d.A.dialog-act.vkaraisk.324	because d uh the L_C_D_ is a little is a little new 	
+TS3012d.A.dialog-act.vkaraisk.325	and there is there are some option hidden under the menu button . 	
+TS3012d.C.dialog-act.vkaraisk.100	With the more important functions on . 	
+TS3012d.D.dialog-act.vkaraisk.104	Yeah . 	
+TS3012d.A.dialog-act.vkaraisk.326	So I might make this a two instead of a one , I guess . 	
+TS3012d.B.dialog-act.vkaraisk.81	Yeah . 	
+TS3012d.B.dialog-act.vkaraisk.82	Yeah . 	
+TS3012d.D.dialog-act.vkaraisk.105	And the L_C_D_ , you have to see it . 	
+TS3012d.A.dialog-act.vkaraisk.327	So just make that a two . 	
+TS3012d.D.dialog-act.vkaraisk.106	Um mm 	
+TS3012d.D.dialog-act.vkaraisk.107	Oh , 	
+TS3012d.D.dialog-act.vkaraisk.108	it's a little bit learning . 	
+TS3012d.D.dialog-act.vkaraisk.109	Okay . Uh yeah 	
+TS3012d.D.dialog-act.vkaraisk.110	it's uh a little bit same . 	
+TS3012d.D.dialog-act.vkaraisk.111	But it tells you or not ? 	
+TS3012d.C.dialog-act.vkaraisk.101	Mm-hmm . 	
+TS3012d.A.dialog-act.vkaraisk.328	You can use the L_C_D_ in a good way . 	
+TS3012d.A.dialog-act.vkaraisk.329	I think so . 	
+TS3012d.A.dialog-act.vkaraisk.330	I think it's perfect , the w where it is , what it can do , if it useful . 	
+TS3012d.A.dialog-act.vkaraisk.332	I think so . 	
+TS3012d.D.dialog-act.vkaraisk.112	But wha w 	
+TS3012d.C.dialog-act.vkaraisk.102	Mm-hmm . 	
+TS3012d.D.dialog-act.vkaraisk.113	oh , yeah . 	
+TS3012d.D.dialog-act.vkaraisk.114	What are we uh displaying on the L_C_D_ screen ? 	
+TS3012d.D.dialog-act.vkaraisk.115	Just uh only the channels and or 	
+TS3012d.C.dialog-act.vkaraisk.103	the menus uh 	
+TS3012d.D.dialog-act.vkaraisk.116	What uh ? 	
+TS3012d.C.dialog-act.vkaraisk.104	Things like brightness and uh those kind of things we've put in the menu , 	
+TS3012d.C.dialog-act.vkaraisk.105	because we have no buttons for those . 	
+TS3012d.B.dialog-act.vkaraisk.83	Well , 	
+TS3012d.B.dialog-act.vkaraisk.84	basically the menu options indeed . 	
+TS3012d.B.dialog-act.vkaraisk.85	But 	
+TS3012d.D.dialog-act.vkaraisk.117	Oh , in the L_C_D_ screen . 	
+TS3012d.A.dialog-act.vkaraisk.333	No , 	
+TS3012d.A.dialog-act.vkaraisk.334	y 	
+TS3012d.A.dialog-act.vkaraisk.335	I mean in the L_C_D_ screen , the small screen . What does it display ? 	
+TS3012d.C.dialog-act.vkaraisk.106	Yes . 	
+TS3012d.D.dialog-act.vkaraisk.118	And for a channel selection , uh or that's not 	
+TS3012d.A.dialog-act.vkaraisk.336	Well 	
+TS3012d.A.dialog-act.vkaraisk.337	I thought it was I thought it was 	
+TS3012d.A.dialog-act.vkaraisk.338	I thought that people wanted previews on their 	
+TS3012d.A.dialog-act.vkaraisk.339	I'm not sure if that even possible , 	
+TS3012d.D.dialog-act.vkaraisk.119	Yeah , I thought I thought too 	
+TS3012d.A.dialog-act.vkaraisk.340	but 	
+TS3012d.D.dialog-act.vkaraisk.120	but 	
+TS3012d.D.dialog-act.vkaraisk.121	yeah . 	
+TS3012d.A.dialog-act.vkaraisk.341	'cause it's this requires a quite quite a bit of band-width . 	
+TS3012d.A.dialog-act.vkaraisk.342	I don't think it's possible really . 	
+TS3012d.A.dialog-act.vkaraisk.344	But the 	
+TS3012d.A.dialog-act.vkaraisk.343	they didn't really define in what should be used for . 	
+TS3012d.D.dialog-act.vkaraisk.122	Maybe a T_V_ guide or something in your L_C_D_ uh 	
+TS3012d.B.dialog-act.vkaraisk.86	No . 	
+TS3012d.A.dialog-act.vkaraisk.345	But I think in for example like T_V_ guides , I think that's that th that you can transmit through it and everything . Just for extra information on your programmes . 	
+TS3012d.C.dialog-act.vkaraisk.107	Mm . 	
+TS3012d.D.dialog-act.vkaraisk.123	Yeah . 	
+TS3012d.D.dialog-act.vkaraisk.124	Yeah , 	
+TS3012d.D.dialog-act.vkaraisk.125	it must be clear then what what what for we use it . 	
+TS3012d.A.dialog-act.vkaraisk.347	But also things like like like menus or p how about preferences of your 	
+TS3012d.A.dialog-act.vkaraisk.346	uh with configuring your remote control for favourite your favourite channel for example , how do you configure that . 	
+TS3012d.B.dialog-act.vkaraisk.87	Yeah . 	
+TS3012d.D.dialog-act.vkaraisk.126	Yeah . 	
+TS3012d.A.dialog-act.vkaraisk.348	So that could be done by L_C_D_ display . 	
+TS3012d.A.dialog-act.vkaraisk.349	I think it's good . 	
+TS3012d.A.dialog-act.vkaraisk.350	No , maybe it's not a one 	
+TS3012d.A.dialog-act.vkaraisk.351	because it's we're not using it perfectly . 	
+TS3012d.A.dialog-act.vkaraisk.352	We didn't give it I don't thing over-discussing . 	
+TS3012d.A.dialog-act.vkaraisk.353	Now we gave it enough thought though . 	
+TS3012d.D.dialog-act.vkaraisk.127	Yeah . 	
+TS3012d.A.dialog-act.vkaraisk.354	I think we d should just lower this . 	
+TS3012d.A.dialog-act.vkaraisk.355	Maybe maybe it's a three though . 	
+TS3012d.A.dialog-act.vkaraisk.356	We could've used it more effectively probably . 	
+TS3012d.D.dialog-act.vkaraisk.128	Yeah , indeed . 	
+TS3012d.A.dialog-act.vkaraisk.357		
+TS3012d.D.dialog-act.vkaraisk.129	So 	
+TS3012d.D.dialog-act.vkaraisk.130	everybody's agree with an uh three on it , 	
+TS3012d.D.dialog-act.vkaraisk.131	it's 	
+TS3012d.C.dialog-act.vkaraisk.108	Yes . 	
+TS3012d.B.dialog-act.vkaraisk.88	Yeah . Two or three . 	
+TS3012d.A.dialog-act.vkaraisk.358	Yeah , 	
+TS3012d.A.dialog-act.vkaraisk.359	we are using it , 	
+TS3012d.D.dialog-act.vkaraisk.132	W 	
+TS3012d.A.dialog-act.vkaraisk.360	but it's not 	
+TS3012d.D.dialog-act.vkaraisk.133	Yeah . 	
+TS3012d.B.dialog-act.vkaraisk.89	So 	
+TS3012d.A.dialog-act.vkaraisk.361	it's not poorly used , but it's not efficiently used , I think . 	
+TS3012d.A.dialog-act.vkaraisk.362	We could have ev even lost the selection button and uh done everything via L_C_D_ selection . 	
+TS3012d.D.dialog-act.vkaraisk.134	Yeah . 	
+TS3012d.A.dialog-act.vkaraisk.363	It's 	
+TS3012d.A.dialog-act.vkaraisk.364	now it's just extra to illustrate im uh extra features , 	
+TS3012d.D.dialog-act.vkaraisk.136	Yeah , 	
+TS3012d.D.dialog-act.vkaraisk.137	I 	
+TS3012d.A.dialog-act.vkaraisk.365	but okay . 	
+TS3012d.D.dialog-act.vkaraisk.138	A three . 	
+TS3012d.C.dialog-act.vkaraisk.109	Nah , it's not really only an extra . 	
+TS3012d.B.dialog-act.vkaraisk.90	You can seven . 	
+TS3012d.D.dialog-act.vkaraisk.139	Ah , nothing , that's A seven . Uh that's uh 	
+TS3012d.C.dialog-act.vkaraisk.110	No menus . 	
+TS3012d.C.dialog-act.vkaraisk.111	Think about 	
+TS3012d.A.dialog-act.vkaraisk.366	Can you talk to remote control ? 	
+TS3012d.B.dialog-act.vkaraisk.91	Or we could say it 	
+TS3012d.A.dialog-act.vkaraisk.367	Well , 	
+TS3012d.A.dialog-act.vkaraisk.368	it can't talk anymore . 	
+TS3012d.D.dialog-act.vkaraisk.140	Yeah . 	
+TS3012d.A.dialog-act.vkaraisk.369	So we scrap that . 	
+TS3012d.B.dialog-act.vkaraisk.92	Or we could say neutral , 	
+TS3012d.B.dialog-act.vkaraisk.93	we 'cause we scratched the 	
+TS3012d.A.dialog-act.vkaraisk.370	Oh yeah 	
+TS3012d.A.dialog-act.vkaraisk.371	Just to be a prick , 	
+TS3012d.B.dialog-act.vkaraisk.94	C 	
+TS3012d.A.dialog-act.vkaraisk.372	but of course you can talk to your remote control , it doesn't do anything . 	
+TS3012d.D.dialog-act.vkaraisk.141	Yeah yeah yeah yeah . 	
+TS3012d.A.dialog-act.vkaraisk.373	But you c you can talk to it . 	
+TS3012d.D.dialog-act.vkaraisk.142	Not with the speech recognition . 	
+TS3012d.D.dialog-act.vkaraisk.143	Uh yeah , 	
+TS3012d.D.dialog-act.vkaraisk.144	all the trends and no colours uh anymore . 	
+TS3012d.D.dialog-act.vkaraisk.145	So 	
+TS3012d.A.dialog-act.vkaraisk.374	Well , 	
+TS3012d.A.dialog-act.vkaraisk.375	we did take everything into consideration of course . 	
+TS3012d.A.dialog-act.vkaraisk.376	Uh the shape i shape is i 	
+TS3012d.D.dialog-act.vkaraisk.146	Yeah , 	
+TS3012d.D.dialog-act.vkaraisk.147	uh um only in the curves . 	
+TS3012d.A.dialog-act.vkaraisk.377	I think we 	
+TS3012d.A.dialog-act.vkaraisk.378	yeah , 	
+TS3012d.A.dialog-act.vkaraisk.379	I think that's okay . 	
+TS3012d.D.dialog-act.vkaraisk.148	But the colours , we don't have special colours on it . 	
+TS3012d.B.dialog-act.vkaraisk.95	No , we don't have the colour . 	
+TS3012d.A.dialog-act.vkaraisk.380	Yeah , 	
+TS3012d.B.dialog-act.vkaraisk.96	So I 	
+TS3012d.A.dialog-act.vkaraisk.381	special co 	
+TS3012d.A.dialog-act.vkaraisk.382	but we took into consideration the fact that it's customisable 	
+TS3012d.D.dialog-act.vkaraisk.149	Yeah , 	
+TS3012d.D.dialog-act.vkaraisk.150	but we 	
+TS3012d.A.dialog-act.vkaraisk.383	to the fashi 	
+TS3012d.B.dialog-act.vkaraisk.97	Yes , 	
+TS3012d.B.dialog-act.vkaraisk.98	but the end product So 	
+TS3012d.D.dialog-act.vkaraisk.151	yeah , 	
+TS3012d.C.dialog-act.vkaraisk.112	Hmm . 	
+TS3012d.D.dialog-act.vkaraisk.152	we don't have it , 	
+TS3012d.D.dialog-act.vkaraisk.153	so d 	
+TS3012d.A.dialog-act.vkaraisk.384	We don't have it 	
+TS3012d.A.dialog-act.vkaraisk.385	we do have it , 	
+TS3012d.D.dialog-act.vkaraisk.154	In the end product . 	
+TS3012d.A.dialog-act.vkaraisk.386	it's just sold as a package . 	
+TS3012d.C.dialog-act.vkaraisk.113	But M 	
+TS3012d.A.dialog-act.vkaraisk.387	It does 	
+TS3012d.A.dialog-act.vkaraisk.388	it's not part of the basic product . 	
+TS3012d.C.dialog-act.vkaraisk.114	Changing covers is also trend that we followed . 	
+TS3012d.A.dialog-act.vkaraisk.389	It that 	
+TS3012d.A.dialog-act.vkaraisk.390	that's what I call trendy . 	
+TS3012d.B.dialog-act.vkaraisk.99		
+TS3012d.A.dialog-act.vkaraisk.391	I mean the shape is trendy . 	
+TS3012d.A.dialog-act.vkaraisk.392	The the sh the the functions are trendy . 	
+TS3012d.A.dialog-act.vkaraisk.393	It's just the colours that are not supporting the basic model . 	
+TS3012d.D.dialog-act.vkaraisk.155	Now 	
+TS3012d.A.dialog-act.vkaraisk.394	Because you ha 	
+TS3012d.A.dialog-act.vkaraisk.395	it's just not affordable at the moment . 	
+TS3012d.D.dialog-act.vkaraisk.156	But it's not a one . 	
+TS3012d.B.dialog-act.vkaraisk.100	Maybe we should go with a two then , 	
+TS3012d.B.dialog-act.vkaraisk.101	because it's not perfect , 	
+TS3012d.D.dialog-act.vkaraisk.157	Yeah . 	
+TS3012d.B.dialog-act.vkaraisk.102	because we can't do it initially , 	
+TS3012d.B.dialog-act.vkaraisk.103	but we 	
+TS3012d.D.dialog-act.vkaraisk.158	Oh . 	
+TS3012d.C.dialog-act.vkaraisk.115	Mm-hmm . 	
+TS3012d.A.dialog-act.vkaraisk.396	It's possible , 	
+TS3012d.A.dialog-act.vkaraisk.397	but you have to pay extra for the for the possibility of having it in a f a different colour . 	
+TS3012d.D.dialog-act.vkaraisk.159	Oh well Oops . 	
+TS3012d.A.dialog-act.vkaraisk.398		
+TS3012d.D.dialog-act.vkaraisk.160	Oh it's a two , 	
+TS3012d.D.dialog-act.vkaraisk.161	right ? 	
+TS3012d.B.dialog-act.vkaraisk.104	Yeah . 	
+TS3012d.C.dialog-act.vkaraisk.116	Mm-hmm . 	
+TS3012d.D.dialog-act.vkaraisk.162	On the last one . 	
+TS3012d.D.dialog-act.vkaraisk.163	Uh that n that's all . 	
+TS3012d.B.dialog-act.vkaraisk.105	Overall score . 	
+TS3012d.A.dialog-act.vkaraisk.399	Overall score . 	
+TS3012d.D.dialog-act.vkaraisk.164	Overall . 	
+TS3012d.D.dialog-act.vkaraisk.165	It's um 	
+TS3012d.A.dialog-act.vkaraisk.400	One two three . sixteen . 	
+TS3012d.D.dialog-act.vkaraisk.166	ten , sixteen three uh two 	
+TS3012d.A.dialog-act.vkaraisk.401	Two two point some two point something . 	
+TS3012d.D.dialog-act.vkaraisk.167	two point seven or something like that . 	
+TS3012d.C.dialog-act.vkaraisk.117	Hmm . 	
+TS3012d.D.dialog-act.vkaraisk.168	I don't know why . 	
+TS3012d.B.dialog-act.vkaraisk.106	Ten , sixteen , divided by 	
+TS3012d.A.dialog-act.vkaraisk.402	. 	
+TS3012d.C.dialog-act.vkaraisk.118	Six . 	
+TS3012d.D.dialog-act.vkaraisk.169	Six . 	
+TS3012d.B.dialog-act.vkaraisk.107	Is two two third . 	
+TS3012d.A.dialog-act.vkaraisk.403	Two and two thirds . 	
+TS3012d.D.dialog-act.vkaraisk.170	Um So 	
+TS3012d.D.dialog-act.vkaraisk.171	we can say it's it's the product is it's okay . 	
+TS3012d.A.dialog-act.vkaraisk.404		
+TS3012d.A.dialog-act.vkaraisk.405	It's okay , 	
+TS3012d.D.dialog-act.vkaraisk.172	Y not 	
+TS3012d.A.dialog-act.vkaraisk.406	but that's yo m 	
+TS3012d.C.dialog-act.vkaraisk.119	Mm-hmm . 	
+TS3012d.A.dialog-act.vkaraisk.407	mostly it's it's influenced by the fact that we didn't have enough resources to implement speech recognition . 	
+TS3012d.B.dialog-act.vkaraisk.108	There's 	
+TS3012d.C.dialog-act.vkaraisk.120	Mm-hmm . 	
+TS3012d.A.dialog-act.vkaraisk.408	'Cause yeah , that gives you a seven , 	
+TS3012d.A.dialog-act.vkaraisk.409	which ruins your your average . 	
+TS3012d.D.dialog-act.vkaraisk.173	Yeah . 	
+TS3012d.A.dialog-act.vkaraisk.410	Without that it would be like under it wouldn't yeah , it would be under two . 	
+TS3012d.A.dialog-act.vkaraisk.411	So I think we have even with this it's reasonable . 	
+TS3012d.D.dialog-act.vkaraisk.174	Woah . 	
+TS3012d.B.dialog-act.vkaraisk.109	Yeah , 	
+TS3012d.B.dialog-act.vkaraisk.110	if we make it into a four , as in neutral , because we didn't implement it , so we can't say that we that it's really not well implemented . We come out on a average of two one eighth . 	
+TS3012d.D.dialog-act.vkaraisk.175	Yeah . 	
+TS3012d.A.dialog-act.vkaraisk.412	Well 	
+TS3012d.A.dialog-act.vkaraisk.413	I think it's 	
+TS3012d.A.dialog-act.vkaraisk.414	two is okay . 	
+TS3012d.B.dialog-act.vkaraisk.111	So 	
+TS3012d.B.dialog-act.vkaraisk.112	which is pretty w good . 	
+TS3012d.C.dialog-act.vkaraisk.121	Mm-hmm . 	
+TS3012d.A.dialog-act.vkaraisk.415	Yeah , two is pretty good . 	
+TS3012d.B.dialog-act.vkaraisk.113	It's at least on the positive side . 	
+TS3012d.B.dialog-act.vkaraisk.114	So 	
+TS3012d.C.dialog-act.vkaraisk.122	Hmm , of course . 	
+TS3012d.A.dialog-act.vkaraisk.416	Definitely . 	
+TS3012d.B.dialog-act.vkaraisk.115	We could definitely have done better if we've had more resources , 	
+TS3012d.D.dialog-act.vkaraisk.176	Yeah . 	
+TS3012d.B.dialog-act.vkaraisk.116	but 	
+TS3012d.A.dialog-act.vkaraisk.417	Yeah , 	
+TS3012d.A.dialog-act.vkaraisk.418	I think it's probably I 	
+TS3012d.C.dialog-act.vkaraisk.123	Mm-hmm . 	
+TS3012d.D.dialog-act.vkaraisk.177	Yeah . 	
+TS3012d.A.dialog-act.vkaraisk.419	I do admit that we d did miss a little or didn't sp didn't talk talk enough about the possibility of the L_C_D_ display . 	
+TS3012d.A.dialog-act.vkaraisk.420	We could have used it more efficiently , 	
+TS3012d.D.dialog-act.vkaraisk.178	Yeah . 	
+TS3012d.A.dialog-act.vkaraisk.421	we just didn't think of it that way . 	
+TS3012d.B.dialog-act.vkaraisk.117	Yeah . 	
+TS3012d.D.dialog-act.vkaraisk.179	Yeah , 	
+TS3012d.D.dialog-act.vkaraisk.181	..# 	
+TS3012d.D.dialog-act.vkaraisk.180	with . 	
+TS3012d.B.dialog-act.vkaraisk.118	True . 	
+TS3012d.A.dialog-act.vkaraisk.422	So 	
+TS3012d.A.dialog-act.vkaraisk.423	like I said , changing channels , everything hidden in your L_C_D_ display , so you just need the navigation buttons to do everything . 	
+TS3012d.D.dialog-act.vkaraisk.182	The scale . 	
+TS3012d.C.dialog-act.vkaraisk.124	But I think for this price , this is it's really a reasonable product . 	
+TS3012d.A.dialog-act.vkaraisk.424	I think we div I think we did very well , 	
+TS3012d.C.dialog-act.vkaraisk.125	It's a good product . 	
+TS3012d.A.dialog-act.vkaraisk.425	uh ev even if you look at this score , we did quite well . 	
+TS3012d.D.dialog-act.vkaraisk.183	Yeah . 	
+TS3012d.D.dialog-act.vkaraisk.184	With an L_C_D_ screen . 	
+TS3012d.C.dialog-act.vkaraisk.126	Oh . Oh . Yeah . 	
+TS3012d.A.dialog-act.vkaraisk.426	It just looking for improvements what what you could have improved . 	
+TS3012d.A.dialog-act.vkaraisk.427	So . 	
+TS3012d.C.dialog-act.vkaraisk.127	But if pep people really want speech recognition , then they must be prepared to pu to pay more , 	
+TS3012d.C.dialog-act.vkaraisk.128	because it's cannot be done for this . 	
+TS3012d.A.dialog-act.vkaraisk.428	They sh they should get kids , and just stick 'em in T_V_ and say change the channel . 	
+TS3012d.D.dialog-act.vkaraisk.185	Yeah , 	
+TS3012d.D.dialog-act.vkaraisk.186	you can make 'em another one . 	
+TS3012d.B.dialog-act.vkaraisk.119		
+TS3012d.C.dialog-act.vkaraisk.129	Hmm yeah . 	
+TS3012d.D.dialog-act.vkaraisk.187		
+TS3012d.B.dialog-act.vkaraisk.120		
+TS3012d.C.dialog-act.vkaraisk.130	Ah 	
+TS3012d.C.dialog-act.vkaraisk.131	but for this price uh you cannot ask that . 	
+TS3012d.A.dialog-act.vkaraisk.429	I don' think so . 	
+TS3012d.C.dialog-act.vkaraisk.132	You cannot th think of that 	
+TS3012d.A.dialog-act.vkaraisk.430	Uh it's just not it it's not affordable . 	
+TS3012d.C.dialog-act.vkaraisk.133	No , it's not . 	
+TS3012d.A.dialog-act.vkaraisk.431	Or your sh you should lose the L_C_D_ screen probably , 	
+TS3012d.A.dialog-act.vkaraisk.432	but I think that's I think the L_C_D_ screen is more worth than speech recognition . 	
+TS3012d.C.dialog-act.vkaraisk.134	Mm-hmm . 	
+TS3012d.C.dialog-act.vkaraisk.135	Oh It's also more attractive . 	
+TS3012d.A.dialog-act.vkaraisk.433	Definitely . 	
+TS3012d.A.dialog-act.vkaraisk.434	Okay , 	
+TS3012d.A.dialog-act.vkaraisk.435	that was that . 	
+TS3012d.D.dialog-act.vkaraisk.188	Yeah . Yeah . 	
+TS3012d.A.dialog-act.vkaraisk.436	So that's the final product without the speakers , I guess . 	
+TS3012d.B.dialog-act.vkaraisk.121	So did you 	
+TS3012d.A.dialog-act.vkaraisk.438	Let's see , 	
+TS3012d.A.dialog-act.vkaraisk.439	what was left in the the Another one . 	
+TS3012d.A.dialog-act.vkaraisk.437		
+TS3012d.A.dialog-act.vkaraisk.440	Hmm . Yeah , 	
+TS3012d.D.dialog-act.vkaraisk.189		
+TS3012d.A.dialog-act.vkaraisk.441	we evaluate the product . 	
+TS3012d.A.dialog-act.vkaraisk.442	General project , what's i in 	
+TS3012d.A.dialog-act.vkaraisk.443	For example , I thou I thought we were pretty creative in what we created . 	
+TS3012d.A.dialog-act.vkaraisk.444	We took the whole new approach of making exchangeable cover for example , 	
+TS3012d.A.dialog-act.vkaraisk.445	which I thought was pretty creative , 	
+TS3012d.A.dialog-act.vkaraisk.446	because it was never never ever listed somewhere . 	
+TS3012d.C.dialog-act.vkaraisk.136	Hmm . 	
+TS3012d.D.dialog-act.vkaraisk.190	Favourite channel . 	
+TS3012d.A.dialog-act.vkaraisk.447	Well Anyways . Yeah , 	
+TS3012d.A.dialog-act.vkaraisk.448	leadership is up to you . 	
+TS3012d.A.dialog-act.vkaraisk.449	I mean perhaps I screwed up 	
+TS3012d.A.dialog-act.vkaraisk.450	because I d put a put a speech recognition into it . 	
+TS3012d.A.dialog-act.vkaraisk.451	But that's not for me to decide . 	
+TS3012d.D.dialog-act.vkaraisk.191	Yeah , I know . Yeah . 	
+TS3012d.A.dialog-act.vkaraisk.452	I think we did pretty well as team-work though . 	
+TS3012d.A.dialog-act.vkaraisk.453	Because , yeah was very hard to work with one another if you cannot communicate in the meantime , 	
+TS3012d.C.dialog-act.vkaraisk.137	Yes . 	
+TS3012d.C.dialog-act.vkaraisk.138	Hmm . 	
+TS3012d.A.dialog-act.vkaraisk.454	because when I got the when I got the input for the financial results , initially of course I wanted to contact you . 	
+TS3012d.C.dialog-act.vkaraisk.139	Hmm . 	
+TS3012d.D.dialog-act.vkaraisk.192	Yeah , you're working separate . 	
+TS3012d.C.dialog-act.vkaraisk.140	Yeah . 	
+TS3012d.A.dialog-act.vkaraisk.455	Say , look , this is you're doing the wrong thing , 	
+TS3012d.D.dialog-act.vkaraisk.193	Yeah . 	
+TS3012d.C.dialog-act.vkaraisk.141	Huh . 	
+TS3012d.A.dialog-act.vkaraisk.456	you're s you're wasting your time now , 	
+TS3012d.A.dialog-act.vkaraisk.457	because we're implementing stuff that we cannot afford . 	
+TS3012d.B.dialog-act.vkaraisk.122	Yeah . 	
+TS3012d.D.dialog-act.vkaraisk.194	Yeah , yeah yeah . 	
+TS3012d.C.dialog-act.vkaraisk.142	Hmm . 	
+TS3012d.A.dialog-act.vkaraisk.458	So it would be better if y if there was more communication between uh 	
+TS3012d.C.dialog-act.vkaraisk.143	Hmm . 	
+TS3012d.D.dialog-act.vkaraisk.195	Yeah yeah yeah . Direct uh communication with yeah . 	
+TS3012d.B.dialog-act.vkaraisk.123	And we could share information which we received . 	
+TS3012d.A.dialog-act.vkaraisk.459	because that's that's what would w you what you would normally do , either call or email someone . 	
+TS3012d.A.dialog-act.vkaraisk.460	So that was too bad 	
+TS3012d.C.dialog-act.vkaraisk.144	Hmm . 	
+TS3012d.A.dialog-act.vkaraisk.461	con 	
+TS3012d.A.dialog-act.vkaraisk.462	was impossible here anyways . . 	
+TS3012d.C.dialog-act.vkaraisk.145	That's the same thing that I had in the beginning . 	
+TS3012d.C.dialog-act.vkaraisk.146	Everybody was using materials that s I didn't have . 	
+TS3012d.C.dialog-act.vkaraisk.147	So 	
+TS3012d.A.dialog-act.vkaraisk.463	It didn't have 	
+TS3012d.D.dialog-act.vkaraisk.196	Yeah . 	
+TS3012d.A.dialog-act.vkaraisk.464	or didn't knew what they costs or whatever . 	
+TS3012d.C.dialog-act.vkaraisk.148	Oh . 	
+TS3012d.A.dialog-act.vkaraisk.465	There was just too little information about what things actually cost and if you could use them . 	
+TS3012d.B.dialog-act.vkaraisk.124	Yeah . 	
+TS3012d.C.dialog-act.vkaraisk.149	Hmm . 	
+TS3012d.A.dialog-act.vkaraisk.466	So that was a little unclear I suppose . 	
+TS3012d.A.dialog-act.vkaraisk.467	I think a SMARTboard SMARTboard is pretty cool . 	
+TS3012d.A.dialog-act.vkaraisk.468	I think uh s especially for design issues , it's very easy just to give your give your thoughts a little it's easier to share them . 	
+TS3012d.D.dialog-act.vkaraisk.197	My handwriting is little bit 	
+TS3012d.D.dialog-act.vkaraisk.198	yeah . 	
+TS3012d.D.dialog-act.vkaraisk.199	Yeah . 	
+TS3012d.C.dialog-act.vkaraisk.150	Hmm . 	
+TS3012d.B.dialog-act.vkaraisk.125	Although for actual design I'd say the response time should be a little bit higher , 	
+TS3012d.A.dialog-act.vkaraisk.469	It's a little less it 	
+TS3012d.A.dialog-act.vkaraisk.470	the response time is le it's very bad . 	
+TS3012d.C.dialog-act.vkaraisk.151	Hmm . 	
+TS3012d.B.dialog-act.vkaraisk.126	because 	
+TS3012d.A.dialog-act.vkaraisk.471	It's good to visualise everything , 	
+TS3012d.A.dialog-act.vkaraisk.472	but I think the response time should could be a lot better . 	
+TS3012d.B.dialog-act.vkaraisk.127	The digital pen was definitely better to draw my ideas and to further elaborate on that . 	
+TS3012d.D.dialog-act.vkaraisk.200	But th that's 	
+TS3012d.A.dialog-act.vkaraisk.473	Definitely . 	
+TS3012d.C.dialog-act.vkaraisk.152	Mm-hmm . 	
+TS3012d.A.dialog-act.vkaraisk.474	Yeah , it's true . 	
+TS3012d.D.dialog-act.vkaraisk.201	Yeah , okay . 	
+TS3012d.B.dialog-act.vkaraisk.128	So 	
+TS3012d.C.dialog-act.vkaraisk.153	But there's uh also one problem with this I noticed . 	
+TS3012d.C.dialog-act.vkaraisk.154	Uh you have to finish a page before going to a n 	
+TS3012d.A.dialog-act.vkaraisk.475	No , you don't have to . No , you don't . 	
+TS3012d.D.dialog-act.vkaraisk.202	No . 	
+TS3012d.A.dialog-act.vkaraisk.476	I jin 	
+TS3012d.D.dialog-act.vkaraisk.203	You can 	
+TS3012d.C.dialog-act.vkaraisk.155	Oh . 	
+TS3012d.A.dialog-act.vkaraisk.477	I didn't check the finish button . 	
+TS3012d.A.dialog-act.vkaraisk.478	I just 	
+TS3012d.A.dialog-act.vkaraisk.479	you just ditch it 	
+TS3012d.D.dialog-act.vkaraisk.204	Done and then it's okay . 	
+TS3012d.A.dialog-act.vkaraisk.480	and you can copy it or whatever . 	
+TS3012d.C.dialog-act.vkaraisk.156	Okay , 	
+TS3012d.C.dialog-act.vkaraisk.157	I saw that uh 	
+TS3012d.A.dialog-act.vkaraisk.481	Uh only if you uh check the notes or press done . Then it um then you can then it exports to Word automatically . 	
+TS3012d.C.dialog-act.vkaraisk.158	Hmm . 	
+TS3012d.A.dialog-act.vkaraisk.482	But it's not necessary to check either one of those two . 	
+TS3012d.A.dialog-act.vkaraisk.483	You can just preview your p you can just preview your page in the in the programme . 	
+TS3012d.C.dialog-act.vkaraisk.159	Yeah , 	
+TS3012d.C.dialog-act.vkaraisk.160	but I made 	
+TS3012d.D.dialog-act.vkaraisk.205	Oh , okay . 	
+TS3012d.C.dialog-act.vkaraisk.161	Okay , 	
+TS3012d.D.dialog-act.vkaraisk.206	Okay , yeah . 	
+TS3012d.C.dialog-act.vkaraisk.162	but I made three pages 	
+TS3012d.C.dialog-act.vkaraisk.163	and they were not finished . 	
+TS3012d.C.dialog-act.vkaraisk.164	And when the third one was finished , I wanted to download it 	
+TS3012d.C.dialog-act.vkaraisk.165	and then it was not possible anymore , 	
+TS3012d.C.dialog-act.vkaraisk.166	because you have to close all the pinnits uh the pages before going further . 	
+TS3012d.A.dialog-act.vkaraisk.484	Okay , 	
+TS3012d.A.dialog-act.vkaraisk.485	before starting a ne a new page . 	
+TS3012d.D.dialog-act.vkaraisk.207	Okay . 	
+TS3012d.A.dialog-act.vkaraisk.486	Okay , that could be b . 	
+TS3012d.C.dialog-act.vkaraisk.167	Exactly . 	
+TS3012d.C.dialog-act.vkaraisk.168	So we cannot work on more than one page at same time . That's not possible . 	
+TS3012d.D.dialog-act.vkaraisk.208	Oh . 	
+TS3012d.D.dialog-act.vkaraisk.209	Hmm . 	
+TS3012d.C.dialog-act.vkaraisk.169	You have to finish it completely , 	
+TS3012d.A.dialog-act.vkaraisk.487	Okay . 	
+TS3012d.B.dialog-act.vkaraisk.129	Oh can you ? Okay . 	
+TS3012d.C.dialog-act.vkaraisk.170	then download it , 	
+TS3012d.C.dialog-act.vkaraisk.171	it's 	
+TS3012d.C.dialog-act.vkaraisk.172	then start a new one . 	
+TS3012d.A.dialog-act.vkaraisk.488	Yeah , okay . 	
+TS3012d.C.dialog-act.vkaraisk.173	That's not very uh handy , 	
+TS3012d.C.dialog-act.vkaraisk.174	but if you know that , then it's not a problem . 	
+TS3012d.A.dialog-act.vkaraisk.489	That's 	
+TS3012d.A.dialog-act.vkaraisk.490	Yeah , 	
+TS3012d.A.dialog-act.vkaraisk.491	it's understandable , okay . 	
+TS3012d.A.dialog-act.vkaraisk.492	Any new ideas ? 	
+TS3012d.A.dialog-act.vkaraisk.493	Yeah , 	
+TS3012d.A.dialog-act.vkaraisk.494	more communication between between uh 	
+TS3012d.A.dialog-act.vkaraisk.495	that's the thing I noticed , that communication is very um very important , 	
+TS3012d.C.dialog-act.vkaraisk.175		
+TS3012d.D.dialog-act.vkaraisk.210	Important to mm 	
+TS3012d.A.dialog-act.vkaraisk.496	because if you get new information , it's essential f for the other team-mates to know that as soon as possible , 	
+TS3012d.A.dialog-act.vkaraisk.497	because you would avoid making doing extra work , 	
+TS3012d.A.dialog-act.vkaraisk.498	because you were doing extra work now uh m working on the on the speech recognition , 	
+TS3012d.D.dialog-act.vkaraisk.211	Yeah . 	
+TS3012d.A.dialog-act.vkaraisk.499	you have limitation both on the technical on the d on the design side . 	
+TS3012d.A.dialog-act.vkaraisk.500	So I think that could have been better . 	
+TS3012d.A.dialog-act.vkaraisk.501	But that's I think it's more of a a setting here that you cannot communicate than uh than somewhere else . 	
+TS3012d.C.dialog-act.vkaraisk.176	Hmm . 	
+TS3012d.A.dialog-act.vkaraisk.502	So 	
+TS3012d.B.dialog-act.vkaraisk.130	Yeah , well 	
+TS3012d.B.dialog-act.vkaraisk.131	it could also possibly be well , is it a more real-time information base , 	
+TS3012d.B.dialog-act.vkaraisk.132	so we can all see which information is available to one another . 	
+TS3012d.A.dialog-act.vkaraisk.503	Yeah , I think so . 	
+TS3012d.A.dialog-act.vkaraisk.504	And l less p less spam probably . 	
+TS3012d.A.dialog-act.vkaraisk.505	I'm not sure i I'm not sure you got spammed as well , 	
+TS3012d.C.dialog-act.vkaraisk.177	Mm-hmm . 	
+TS3012d.A.dialog-act.vkaraisk.506	but I get spammed like every t every two minutes there was a there was another email about master classes or something . 	
+TS3012d.C.dialog-act.vkaraisk.178	Ah . 	
+TS3012d.C.dialog-act.vkaraisk.179	Well 	
+TS3012d.A.dialog-act.vkaraisk.507	So 	
+TS3012d.C.dialog-act.vkaraisk.180	Hmm . 	
+TS3012d.A.dialog-act.vkaraisk.508	which were totally useless actually . 	
+TS3012d.A.dialog-act.vkaraisk.509	I thought I should probably look into them , 	
+TS3012d.A.dialog-act.vkaraisk.510	but they were all useless . 	
+TS3012d.A.dialog-act.vkaraisk.511	So I just 	
+TS3012d.B.dialog-act.vkaraisk.133	Well , 	
+TS3012d.B.dialog-act.vkaraisk.134	I personally did not have that , 	
+TS3012d.D.dialog-act.vkaraisk.212	Mm 	
+TS3012d.B.dialog-act.vkaraisk.135	but 	
+TS3012d.A.dialog-act.vkaraisk.512	Oh okay . 	
+TS3012d.B.dialog-act.vkaraisk.136	That's probably your l description . 	
+TS3012d.A.dialog-act.vkaraisk.513		
+TS3012d.B.dialog-act.vkaraisk.138	But I also didn't not really . But still , 	
+TS3012d.B.dialog-act.vkaraisk.137	you had that as well . 	
+TS3012d.C.dialog-act.vkaraisk.181	Huh . 	
+TS3012d.B.dialog-act.vkaraisk.139	Is that we finished up the design 	
+TS3012d.B.dialog-act.vkaraisk.140	and then we checked the website , 	
+TS3012d.B.dialog-act.vkaraisk.141	and then there was just extra information . 	
+TS3012d.C.dialog-act.vkaraisk.182	Yeah . 	
+TS3012d.D.dialog-act.vkaraisk.213	Yeah , 	
+TS3012d.D.dialog-act.vkaraisk.215	after After five minutes , uh 	
+TS3012d.C.dialog-act.vkaraisk.183	. 	
+TS3012d.C.dialog-act.vkaraisk.184	Yeah , 	
+TS3012d.B.dialog-act.vkaraisk.142	There was a little delay in the bit of a c crucial delay . 	
+TS3012d.D.dialog-act.vkaraisk.216	Yeah . 	
+TS3012d.A.dialog-act.vkaraisk.514	I didn't have any uh more information , 	
+TS3012d.A.dialog-act.vkaraisk.515	it's just always the same here . 	
+TS3012d.C.dialog-act.vkaraisk.185	Mm . 	
+TS3012d.A.dialog-act.vkaraisk.516	So that's that's kind of a 	
+TS3012d.D.dialog-act.vkaraisk.217	Email uh 	
+TS3012d.A.dialog-act.vkaraisk.517	It would change , but not for me . 	
+TS3012d.A.dialog-act.vkaraisk.518	So I'd I had no extra information to go on that one than what you give me actually . 	
+TS3012d.C.dialog-act.vkaraisk.186	Hmm . 	
+TS3012d.C.dialog-act.vkaraisk.187	Hmm . 	
+TS3012d.A.dialog-act.vkaraisk.519	I couldn't do any research myself 	
+TS3012d.A.dialog-act.vkaraisk.520	or I see , that's 	
+TS3012d.C.dialog-act.vkaraisk.188	Hmm . 	
+TS3012d.A.dialog-act.vkaraisk.521	yeah , 	
+TS3012d.A.dialog-act.vkaraisk.522	w 	
+TS3012d.A.dialog-act.vkaraisk.523	I could have done a little extra work probably , 	
+TS3012d.A.dialog-act.vkaraisk.524	then 	
+TS3012d.D.dialog-act.vkaraisk.218	it's 	
+TS3012d.A.dialog-act.vkaraisk.525	But I was busy enough anyway . 	
+TS3012d.A.dialog-act.vkaraisk.526	So 	
+TS3012d.C.dialog-act.vkaraisk.189	Hmm . 	
+TS3012d.D.dialog-act.vkaraisk.219	Yeah . 	
+TS3012d.A.dialog-act.vkaraisk.527	Any new ideas found ? 	
+TS3012d.A.dialog-act.vkaraisk.528	Or is that a 'cause 	
+TS3012d.C.dialog-act.vkaraisk.190	No . 	
+TS3012d.A.dialog-act.vkaraisk.529	uh yeah , it's well , 	
+TS3012d.A.dialog-act.vkaraisk.530	probably is . 	
+TS3012d.B.dialog-act.vkaraisk.143	How much time do we have for this anyway ? 	
+TS3012d.A.dialog-act.vkaraisk.531	I have no clue . 	
+TS3012d.A.dialog-act.vkaraisk.532	That's like oh,but it 	
+TS3012d.C.dialog-act.vkaraisk.191	. 	
+TS3012d.A.dialog-act.vkaraisk.533	Should i 	
+TS3012d.A.dialog-act.vkaraisk.534	if the project is evaluated and it was it was in b within budget , we should celebrate . 	
+TS3012d.A.dialog-act.vkaraisk.535	So 	
+TS3012d.C.dialog-act.vkaraisk.192	Okay , 	
+TS3012d.B.dialog-act.vkaraisk.145	Yeah . 	
+TS3012d.D.dialog-act.vkaraisk.220		
+TS3012d.C.dialog-act.vkaraisk.193	bring out the beer . 	
+TS3012d.B.dialog-act.vkaraisk.144	Champagne . 	
+TS3012d.A.dialog-act.vkaraisk.536	Uh okay , 	
+TS3012d.D.dialog-act.vkaraisk.221	I want one for my own . 	
+TS3012d.A.dialog-act.vkaraisk.537	think that's about it . Uh 	
+TS3012d.A.dialog-act.vkaraisk.538	I'm not sure what we should still do though 	
+TS3012d.A.dialog-act.vkaraisk.539	uh t let's see 	
+TS3012d.A.dialog-act.vkaraisk.540	what 	
+TS3012d.A.dialog-act.vkaraisk.541	all your tasks were finished , 	
+TS3012d.A.dialog-act.vkaraisk.542	right ? 	
+TS3012d.D.dialog-act.vkaraisk.222	Yeah . 	
+TS3012d.A.dialog-act.vkaraisk.543	What you ha from your assistant . So let's 	
+TS3012d.C.dialog-act.vkaraisk.194	I have no more email . 	
+TS3012d.C.dialog-act.vkaraisk.195	My coach is uh being very silent now . 	
+TS3012d.D.dialog-act.vkaraisk.223	Yeah , 	
+TS3012d.A.dialog-act.vkaraisk.544	Okay , 	
+TS3012d.D.dialog-act.vkaraisk.224	my personal coach i 	
+TS3012d.A.dialog-act.vkaraisk.545	I should I think I sh 	
+TS3012d.A.dialog-act.vkaraisk.546	I still have the the total report to finish up . 	
+TS3012d.A.dialog-act.vkaraisk.547	I think we took very little time now , 	
+TS3012d.A.dialog-act.vkaraisk.548	because 	
+TS3012d.A.dialog-act.vkaraisk.549	Yeah , 	
+TS3012d.A.dialog-act.vkaraisk.550	we're in agreement , 	
+TS3012d.A.dialog-act.vkaraisk.551	everything 	
+TS3012d.A.dialog-act.vkaraisk.552	the design is okay . 	
+TS3012d.A.dialog-act.vkaraisk.553	The one thing we missed though , we don't have a product name . 	
+TS3012d.D.dialog-act.vkaraisk.225	What 	
+TS3012d.C.dialog-act.vkaraisk.196	No , 	
+TS3012d.A.dialog-act.vkaraisk.554	How about you cook a how about you cook up a product name ? 	
+TS3012d.C.dialog-act.vkaraisk.197	we haven't think above about that . 	
+TS3012d.B.dialog-act.vkaraisk.146	Product name . 	
+TS3012d.D.dialog-act.vkaraisk.226	Yeah , name . 	
+TS3012d.C.dialog-act.vkaraisk.198	Huh . It's better than thi I think than a serial number . 	
+TS3012d.C.dialog-act.vkaraisk.199	Sony uh T_R_ something uh f means nothing to me . Uh 	
+TS3012d.D.dialog-act.vkaraisk.227	Or fruit name . 	
+TS3012d.A.dialog-act.vkaraisk.555	Just 	
+TS3012d.A.dialog-act.vkaraisk.556	oh , think of a catchy name . 	
+TS3012d.A.dialog-act.vkaraisk.557	I'll be working on this until the beep until it beeps . 	
+TS3012d.A.dialog-act.vkaraisk.558	So 	
+TS3012d.C.dialog-act.vkaraisk.200	Like fruit names . 	
+TS3012d.D.dialog-act.vkaraisk.228	Fruit name or something like that . 	
+TS3012d.D.dialog-act.vkaraisk.229	The banana remote or something . 	
+TS3012d.A.dialog-act.vkaraisk.559	What ? Fruit ? 	
+TS3012d.A.dialog-act.vkaraisk.560	You don't want it to resemble a banana . 	
+TS3012d.D.dialog-act.vkaraisk.230	I don't know . 	
+TS3012d.D.dialog-act.vkaraisk.231	Yeah , it's the form of it . 	
+TS3012d.B.dialog-act.vkaraisk.147	The bana 	
+TS3012d.A.dialog-act.vkaraisk.561	It's not yellow anyway . 	
+TS3012d.B.dialog-act.vkaraisk.148	'cause it's not yellow anymore . 	
+TS3012d.D.dialog-act.vkaraisk.232	Yeah oh , yeah . 	
+TS3012d.A.dialog-act.vkaraisk.562	It's not yellow anymore . 	
+TS3012d.A.dialog-act.vkaraisk.563	It is curved , 	
+TS3012d.A.dialog-act.vkaraisk.564	but 	
+TS3012d.D.dialog-act.vkaraisk.233	Uh yeah . Uh 	
+TS3012d.B.dialog-act.vkaraisk.149	Well , uh 	
+TS3012d.B.dialog-act.vkaraisk.150	I was going for the R_C_ deluxe , 	
+TS3012d.B.dialog-act.vkaraisk.151	but it's not really a catchy name or anything , 	
+TS3012d.B.dialog-act.vkaraisk.152	it's more 	
+TS3012d.A.dialog-act.vkaraisk.565	No , 	
+TS3012d.A.dialog-act.vkaraisk.566	it's 	
+TS3012d.C.dialog-act.vkaraisk.201	Uh at least it's not something with numbers . 	
+TS3012d.A.dialog-act.vkaraisk.567	Hmm . 	
+TS3012d.C.dialog-act.vkaraisk.202	Numbers are so meaningless to the people . 	
+TS3012d.D.dialog-act.vkaraisk.234	Yeah . 	
+TS3012d.C.dialog-act.vkaraisk.203	I mean 	
+TS3012d.B.dialog-act.vkaraisk.153	Something with our company name , 	
+TS3012d.D.dialog-act.vkaraisk.235	That's true . 	
+TS3012d.B.dialog-act.vkaraisk.154	can we do anything with that ? 	
+TS3012d.C.dialog-act.vkaraisk.204	. 	
+TS3012d.D.dialog-act.vkaraisk.236	Reaction , Real Reaction . 	
+TS3012d.B.dialog-act.vkaraisk.155	Maybe there's something on the website which will help us out . 	
+TS3012d.A.dialog-act.vkaraisk.568		
+TS3012d.C.dialog-act.vkaraisk.205	Real Reaction . 	
+TS3012d.B.dialog-act.vkaraisk.156	The reaction deluxe . 	
+TS3012d.A.dialog-act.vkaraisk.569	Real Reaction future R_C_ . 	
+TS3012d.A.dialog-act.vkaraisk.570	Step into the future of of remote controlling your T_V_ . 	
+TS3012d.B.dialog-act.vkaraisk.157	Is that a name or a c campaign ? 	
+TS3012d.D.dialog-act.vkaraisk.237		
+TS3012d.A.dialog-act.vkaraisk.571	No 	
+TS3012d.A.dialog-act.vkaraisk.572	that's a that's a catchy slogan . 	
+TS3012d.B.dialog-act.vkaraisk.158	Yeah . 	
+TS3012d.B.dialog-act.vkaraisk.159	Or the 	
+TS3012d.A.dialog-act.vkaraisk.573	Control your remote control . 	
+TS3012d.B.dialog-act.vkaraisk.160	The real reactor . 	
+TS3012d.C.dialog-act.vkaraisk.206	Real react . 	
+TS3012d.A.dialog-act.vkaraisk.574	I go for future R_C_ probably . 	
+TS3012d.A.dialog-act.vkaraisk.575	Something like It's short f 	
+TS3012d.C.dialog-act.vkaraisk.207	The Real Reactor , I don't find that uh that bad at all . 	
+TS3012d.D.dialog-act.vkaraisk.238	. 	
+TS3012d.A.dialog-act.vkaraisk.576	Real reactor ? 	
+TS3012d.C.dialog-act.vkaraisk.208	Yeah . 	
+TS3012d.B.dialog-act.vkaraisk.161	You should write it down as a an option . 	
+TS3012d.C.dialog-act.vkaraisk.209	Because our name is Real Reaction . 	
+TS3012d.A.dialog-act.vkaraisk.577	Uh that that's 	
+TS3012d.D.dialog-act.vkaraisk.239	. 	
+TS3012d.A.dialog-act.vkaraisk.578	That makes me think of different products than a remote control really . 	
+TS3012d.B.dialog-act.vkaraisk.162		
+TS3012d.A.dialog-act.vkaraisk.579	I'm not sure . 	
+TS3012d.A.dialog-act.vkaraisk.580	Real reaction in a real 	
+TS3012d.D.dialog-act.vkaraisk.240	Zapping . The 	
+TS3012d.B.dialog-act.vkaraisk.163	So that's one option . 	
+TS3012d.A.dialog-act.vkaraisk.581	Real reactor . 	
+TS3012d.A.dialog-act.vkaraisk.582	Didn't notice . 	
+TS3012d.C.dialog-act.vkaraisk.210	I'm looking for things in the name . 	
+TS3012d.A.dialog-act.vkaraisk.583	Mm . 	
+TS3012d.C.dialog-act.vkaraisk.211	So that the first three letters are s the same . R_E_A_ R_E_A_ . 	
+TS3012d.B.dialog-act.vkaraisk.164	Should I write the banana down or 	
+TS3012d.D.dialog-act.vkaraisk.241	Yeah , sure . 	
+TS3012d.A.dialog-act.vkaraisk.584	I take f 	
+TS3012d.A.dialog-act.vkaraisk.585	yeah , 	
+TS3012d.B.dialog-act.vkaraisk.165	Sure ? 	
+TS3012d.A.dialog-act.vkaraisk.586	take a banana . 	
+TS3012d.D.dialog-act.vkaraisk.242	The banana . 	
+TS3012d.A.dialog-act.vkaraisk.587	Hmm . 	
+TS3012d.D.dialog-act.vkaraisk.244	Remote . Banana recei R_C_ . 	
+TS3012d.C.dialog-act.vkaraisk.212	The triple R_ . Real Reaction remotes control . Triple R_ . 	
+TS3012d.D.dialog-act.vkaraisk.245	Remote . 	
+TS3012d.B.dialog-act.vkaraisk.166	Well 	
+TS3012d.B.dialog-act.vkaraisk.167	I 	
+TS3012d.D.dialog-act.vkaraisk.246	R_ three C_ . 	
+TS3012d.B.dialog-act.vkaraisk.168	Uh do you mean it like 	
+TS3012d.C.dialog-act.vkaraisk.213	? 	
+TS3012d.D.dialog-act.vkaraisk.247	R_ three C_ . 	
+TS3012d.C.dialog-act.vkaraisk.214	yeah . 	
+TS3012d.B.dialog-act.vkaraisk.169	You mean it like this ? 	
+TS3012d.C.dialog-act.vkaraisk.215	Yeah , 	
+TS3012d.C.dialog-act.vkaraisk.216	that 	
+TS3012d.D.dialog-act.vkaraisk.248	Real Reaction Remote Control . R_ three C_ . Oh yeah . 	
+TS3012d.C.dialog-act.vkaraisk.217	. . 	
+TS3012d.A.dialog-act.vkaraisk.588	No , not like that . 	
+TS3012d.A.dialog-act.vkaraisk.589	It should be it should be longer , 	
+TS3012d.A.dialog-act.vkaraisk.590	because it's not a product name that you f print on a box . 	
+TS3012d.C.dialog-act.vkaraisk.218	I think triple R_ . 	
+TS3012d.C.dialog-act.vkaraisk.219	Doesn't sound ? 	
+TS3012d.A.dialog-act.vkaraisk.591	Just write out triple , like a word triple R_C_ , triple stripe Oh . Triple dash R_ dash s s C_ . 	
+TS3012d.D.dialog-act.vkaraisk.249	Yeah , triple R_ . 	
+TS3012d.C.dialog-act.vkaraisk.220	Yeah . 	
+TS3012d.D.dialog-act.vkaraisk.250	Triple R_C_ . 	
+TS3012d.C.dialog-act.vkaraisk.221	Ah . 	
+TS3012d.D.dialog-act.vkaraisk.251	The triple R_C_ , yeah . 	
+TS3012d.A.dialog-act.vkaraisk.592	Yeah . 	
+TS3012d.D.dialog-act.vkaraisk.252	R_ s R_ three C_ . . 	
+TS3012d.A.dialog-act.vkaraisk.593		
+TS3012d.A.dialog-act.vkaraisk.594	R_ dash C_ . 	
+TS3012d.B.dialog-act.vkaraisk.170	Dash C_ ? 	
+TS3012d.C.dialog-act.vkaraisk.222	I think I like it like this more . 	
+TS3012d.A.dialog-act.vkaraisk.595	Dash . 	
+TS3012d.A.dialog-act.vkaraisk.596	Triple R_ or triple R_C_ ? 	
+TS3012d.B.dialog-act.vkaraisk.171	Like a C_ right now or a dash in a C_ ? 	
+TS3012d.D.dialog-act.vkaraisk.253	Triple R_ dash . 	
+TS3012d.A.dialog-act.vkaraisk.597	How about do both ? 	
+TS3012d.B.dialog-act.vkaraisk.172		
+TS3012d.A.dialog-act.vkaraisk.598	Sure if it looks stupid . 	
+TS3012d.A.dialog-act.vkaraisk.599	Uh I think that the the R_C_ together takes away the the the image of it's a triple 	
+TS3012d.C.dialog-act.vkaraisk.223	Hmm . 	
+TS3012d.A.dialog-act.vkaraisk.600	Uh the first the first one looks like it's a triple remote control , 	
+TS3012d.C.dialog-act.vkaraisk.224	Mm . 	
+TS3012d.D.dialog-act.vkaraisk.254	That 	
+TS3012d.A.dialog-act.vkaraisk.601	but it's only a single remote control . 	
+TS3012d.A.dialog-act.vkaraisk.602	And it's especially on the triple R_ that's important . The Real Reaction Remote . 	
+TS3012d.D.dialog-act.vkaraisk.255	Yeah , 	
+TS3012d.C.dialog-act.vkaraisk.226	I would huh . I would lose the C_ 	
+TS3012d.D.dialog-act.vkaraisk.256	this 	
+TS3012d.D.dialog-act.vkaraisk.257	yeah . 	
+TS3012d.C.dialog-act.vkaraisk.227	and just name it triple R_ . 	
+TS3012d.B.dialog-act.vkaraisk.173	Is it triple R_C_s ? No . 	
+TS3012d.A.dialog-act.vkaraisk.603		
+TS3012d.C.dialog-act.vkaraisk.228	It sounds like uh thinking about two different things and combining it . 	
+TS3012d.D.dialog-act.vkaraisk.258	Triple remote . 	
+TS3012d.C.dialog-act.vkaraisk.229	I would just say triple R_s triple R_ 	
+TS3012d.D.dialog-act.vkaraisk.259	Yeah . 	
+TS3012d.A.dialog-act.vkaraisk.604	Yeah , triple R_ yeah , you can 	
+TS3012d.B.dialog-act.vkaraisk.174	Well , 	
+TS3012d.B.dialog-act.vkaraisk.175	that's another option . 	
+TS3012d.C.dialog-act.vkaraisk.230	That's also short , catchy . 	
+TS3012d.D.dialog-act.vkaraisk.260	It's okay . 	
+TS3012d.A.dialog-act.vkaraisk.605	Yeah , triple R_ . 	
+TS3012d.B.dialog-act.vkaraisk.176	Okay , so 	
+TS3012d.B.dialog-act.vkaraisk.177	which ones are we going to scratch definitely ? 	
+TS3012d.D.dialog-act.vkaraisk.261	The banana . Banana . 	
+TS3012d.C.dialog-act.vkaraisk.231	Banana . 	
+TS3012d.A.dialog-act.vkaraisk.606	Banana remote . 	
+TS3012d.B.dialog-act.vkaraisk.178	I say this one as well . 	
+TS3012d.D.dialog-act.vkaraisk.262	Yeah , 	
+TS3012d.D.dialog-act.vkaraisk.263	the deluxe . 	
+TS3012d.C.dialog-act.vkaraisk.232	. 	
+TS3012d.A.dialog-act.vkaraisk.607	I think we're all in agreement about the triple R_ . 	
+TS3012d.A.dialog-act.vkaraisk.608	I think triple R_ is cool . 	
+TS3012d.C.dialog-act.vkaraisk.233	Yes . 	
+TS3012d.D.dialog-act.vkaraisk.264	The r triple R_ . 	
+TS3012d.B.dialog-act.vkaraisk.179	Triple R_ ? 	
+TS3012d.B.dialog-act.vkaraisk.180	Triple R_ it is . 	
+TS3012d.A.dialog-act.vkaraisk.609	And it looks cool when you print it in font , looks pretty cool . 	
+TS3012d.D.dialog-act.vkaraisk.265	Yeah . 	
+TS3012d.C.dialog-act.vkaraisk.234	did you do now ? 	
+TS3012d.A.dialog-act.vkaraisk.611	Just like this just and you just print triple R_ , 	
+TS3012d.C.dialog-act.vkaraisk.235	Yeah . 	
+TS3012d.A.dialog-act.vkaraisk.612	it looks 	
+TS3012d.A.dialog-act.vkaraisk.613	doesn't look bad , 	
+TS3012d.A.dialog-act.vkaraisk.614	it's short , 	
+TS3012d.A.dialog-act.vkaraisk.615	it's okay . 	
+TS3012d.C.dialog-act.vkaraisk.236	Yeah . 	
+TS3012d.A.dialog-act.vkaraisk.616	So 	
+TS3012d.A.dialog-act.vkaraisk.617	have to write my report now , I guess . 	
+TS3012d.A.dialog-act.vkaraisk.618	Um Um Yeah , so 	
+TS3012d.A.dialog-act.vkaraisk.619	we have everything . 	
+TS3012d.A.dialog-act.vkaraisk.620	We have the product , 	
+TS3012d.A.dialog-act.vkaraisk.621	we have the costs , 	
+TS3012d.C.dialog-act.vkaraisk.237	Yep . 	
+TS3012d.A.dialog-act.vkaraisk.622	we have the possibility of everything . 	
+TS3012d.D.dialog-act.vkaraisk.266	It can't work . 	
+TS3012d.D.dialog-act.vkaraisk.267	That will not 	
+TS3012d.A.dialog-act.vkaraisk.623	Okay . 	
+TS3012d.A.dialog-act.vkaraisk.624	I think it's adjourned . 	
+TS3012d.A.dialog-act.vkaraisk.626	Retire to my lair and finish the report . 	
+TS3012d.A.dialog-act.vkaraisk.625	That was a short meeting . But efficient though . 	
+TS3012d.C.dialog-act.vkaraisk.238	Mm-hmm . 	
+TS3012d.C.dialog-act.vkaraisk.239	The boss is always the last one to go home . 	
+TS3012d.C.dialog-act.vkaraisk.240	So 	
+TS3012d.A.dialog-act.vkaraisk.627	Probably . 	
+TS3012d.B.dialog-act.vkaraisk.181		
+TS3012d.A.dialog-act.vkaraisk.628	See . Okay , 	
+TS3012d.D.dialog-act.vkaraisk.268	Okay . 	
+TS3012d.A.dialog-act.vkaraisk.629	goodbye . 	
+TS3012d.C.dialog-act.vkaraisk.241	See you in a minute . 	
+TS3012d.D.dialog-act.vkaraisk.269	Damn . 	
+TS3012d.D.dialog-act.vkaraisk.270	I will write that one in a Word uh document . 	
+TS3012d.C.dialog-act.vkaraisk.242	Okay . 	
+TS3012d.A.dialog-act.vkaraisk.630	Could you guys draw me a picture of the final design to put on the cover of the report ? 	
+TS3012d.B.dialog-act.vkaraisk.182	Yeah , sure . 	
+TS3012d.D.dialog-act.vkaraisk.271		
+TS3012d.C.dialog-act.vkaraisk.243	Can't we take this one ? 	
+TS3012d.D.dialog-act.vkaraisk.272	Oh sh 	
+TS3012d.C.dialog-act.vkaraisk.244	Otherwise we have to do it all over again . 	
+TS3012d.D.dialog-act.vkaraisk.273	Um 	
+TS3012d.B.dialog-act.vkaraisk.183	I don't really know whether we can save it as a picture or no . 	
+TS3012d.C.dialog-act.vkaraisk.245	Is it okay if I try ? Is that okay with you ? 	
+TS3012d.B.dialog-act.vkaraisk.184	Sure . 	
+TS3012d.D.dialog-act.vkaraisk.274	Yeah , okay , 	
+TS3012d.D.dialog-act.vkaraisk.275	I will ask you when uh I need the information . 	
+TS3012d.C.dialog-act.vkaraisk.246	I'll put it back in a minute . 	
+TS3012d.D.dialog-act.vkaraisk.276	So it's 	
+TS3012d.D.dialog-act.vkaraisk.277	oh . 	
+TS3012d.C.dialog-act.vkaraisk.247	Okay , 	
+TS3012d.C.dialog-act.vkaraisk.248	it has been saving something , 	
+TS3012d.C.dialog-act.vkaraisk.249	but where to I don't know . 	
+TS3012d.D.dialog-act.vkaraisk.278	Uh Oh . Merge . 	
+TS3012d.C.dialog-act.vkaraisk.250	Oh , can I say exp 	
+TS3012d.C.dialog-act.vkaraisk.251	yes , I can . 	
+TS3012d.D.dialog-act.vkaraisk.279	Sucks . 	
+TS3012d.C.dialog-act.vkaraisk.252	Export as J_ PEG . 	
+TS3012d.C.dialog-act.vkaraisk.253	. 	
+TS3012d.C.dialog-act.vkaraisk.254	Okay , 	
+TS3012d.C.dialog-act.vkaraisk.255	can I not put this wherever I wants . 	
+TS3012d.C.dialog-act.vkaraisk.256	My document is the wrong one , huh . 	
+TS3012d.D.dialog-act.vkaraisk.280	Yeah , 	
+TS3012d.D.dialog-act.vkaraisk.281	but 	
+TS3012d.B.dialog-act.vkaraisk.185	Network places . 	
+TS3012d.D.dialog-act.vkaraisk.282	I don't know . 	
+TS3012d.D.dialog-act.vkaraisk.283	Smart 	
+TS3012d.D.dialog-act.vkaraisk.284	no . 	
+TS3012d.C.dialog-act.vkaraisk.258	. 	
+TS3012d.D.dialog-act.vkaraisk.285	Ma it's maybe it's not on the network of uh the rest . 	
+TS3012d.B.dialog-act.vkaraisk.186		
+TS3012d.C.dialog-act.vkaraisk.259	I don't think so . 	
+TS3012d.D.dialog-act.vkaraisk.286	That one is . . 	
+TS3012d.C.dialog-act.vkaraisk.260	Document and settings . 	
+TS3012d.B.dialog-act.vkaraisk.187	I wouldn't pick that one , no . 	
+TS3012d.D.dialog-act.vkaraisk.287		
+TS3012d.C.dialog-act.vkaraisk.261	That's a pity . 	
+TS3012d.C.dialog-act.vkaraisk.262	That means that we have to gonna draw it again . 	
+TS3012d.C.dialog-act.vkaraisk.263	Are you gonna do that ? 	
+TS3012d.B.dialog-act.vkaraisk.188	Sure . 	
+TS3012d.C.dialog-act.vkaraisk.264	Okay . 	
+TS3012d.B.dialog-act.vkaraisk.189	Oh . 	
+TS3012d.C.dialog-act.vkaraisk.265	That 	
+TS3012d.C.dialog-act.vkaraisk.266	Yes . 	
+TS3012d.C.dialog-act.vkaraisk.267	Okay . 	
+TS3012d.C.dialog-act.vkaraisk.268	Okay . 	
+TS3012d.C.dialog-act.vkaraisk.269	Okay . 	
+TS3012d.C.dialog-act.vkaraisk.270	Yes , that's correct . 	
+TS3012d.D.dialog-act.vkaraisk.288	Yeah . 	
+TS3012d.D.dialog-act.vkaraisk.289	Okay . 	
+TS3012d.C.dialog-act.vkaraisk.271	Okay . 	
+TS3012d.C.dialog-act.vkaraisk.272	No . 	
+TS3012d.C.dialog-act.vkaraisk.273	Oh , it's export . 	
+TS3012d.D.dialog-act.vkaraisk.290	Oh yeah , . 	
+TS3012d.C.dialog-act.vkaraisk.274	Okay . 	
+TS3012d.D.dialog-act.vkaraisk.291	Can I see scores ? 	
+TS3012d.D.dialog-act.vkaraisk.292	Uh , one one , two threes , two 	
+TS3012d.C.dialog-act.vkaraisk.276	Oh , of course . 	
+TS3012d.C.dialog-act.vkaraisk.277	Sorry . 	
+TS3012d.D.dialog-act.vkaraisk.293	Okay , 	
+TS3012d.D.dialog-act.vkaraisk.294	then we'll 	
+TS3012d.D.dialog-act.vkaraisk.295	overall , two points . 	
+TS3012d.D.dialog-act.vkaraisk.296	Yes . 	
+TS3012d.B.dialog-act.vkaraisk.190	I see you later . 	
+TS3012d.D.dialog-act.vkaraisk.297	Yeah . 	
+TS3012d.A.dialog-act.vkaraisk.631		
+TS3012d.D.dialog-act.vkaraisk.298	Mm . 	
+

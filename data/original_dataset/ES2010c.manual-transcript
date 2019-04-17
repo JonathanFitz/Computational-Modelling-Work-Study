@@ -1,0 +1,791 @@
+Observation: ES2010c; Result size: 788; atts: 2
+$d@nite:id	$d	
+ES2010c.A.dialog-act.dharshi.1	Okay . 	
+ES2010c.A.dialog-act.dharshi.2	Hi Team . 	
+ES2010c.D.dialog-act.dharshi.1		
+ES2010c.A.dialog-act.dharshi.3	Hope you had a good lunch . 	
+ES2010c.A.dialog-act.dharshi.4	Okay we're back for the conceptual design meeting . 	
+ES2010c.A.dialog-act.dharshi.5	Um let's get started . 	
+ES2010c.A.dialog-act.dharshi.6	'Kay , here is the agenda for today's meeting . 	
+ES2010c.A.dialog-act.dharshi.7	Um we're gonna open it and I'm gonna keep the minutes as Project Manager . 	
+ES2010c.A.dialog-act.dharshi.8	We're gonna have three presentations , 	
+ES2010c.A.dialog-act.dharshi.16	one from each of you again . 	
+ES2010c.A.dialog-act.dharshi.9	And then we are going to come to decision on the remote control concepts 	
+ES2010c.A.dialog-act.dharshi.10	and then we're gonna close it up . 	
+ES2010c.A.dialog-act.dharshi.11	And we have forty minutes again . 	
+ES2010c.A.dialog-act.dharshi.12	'Kay , and just to reiterate um after this meeting the team will reach a decision on the concepts of the remote control . 	
+ES2010c.A.dialog-act.dharshi.13	Okay . 	
+ES2010c.A.dialog-act.dharshi.14	Let's go ahead and start off with your presentations . 	
+ES2010c.A.dialog-act.dharshi.15	Who would like to go first ? 	
+ES2010c.B.dialog-act.dharshi.1	Just trying to move mine right now . 	
+ES2010c.A.dialog-act.dharshi.17	Okay . 	
+ES2010c.A.dialog-act.dharshi.18	Um Courtney would you mind starting us off ? 	
+ES2010c.D.dialog-act.dharshi.2	Yeah . 	
+ES2010c.A.dialog-act.dharshi.19	Okay . 	
+ES2010c.A.dialog-act.dharshi.20	Trend watching ? 	
+ES2010c.D.dialog-act.dharshi.3	Yeah . 	
+ES2010c.A.dialog-act.dharshi.21	'Kay . 	
+ES2010c.D.dialog-act.dharshi.4	Okay , so trend watching . 	
+ES2010c.D.dialog-act.dharshi.5	Uh since we do put the fashion in electronics , it is kind of important how our product looks . 	
+ES2010c.D.dialog-act.dharshi.6	So I guess we can go ahead and go to the next . 	
+ES2010c.D.dialog-act.dharshi.7	So what they want . 	
+ES2010c.D.dialog-act.dharshi.8	Right now customers want fancy versus functional . 	
+ES2010c.D.dialog-act.dharshi.9	Um basically about fifty eight percent of what they 	
+ES2010c.D.dialog-act.dharshi.10	like of the product that they want , describing like the in order of how much they want , 	
+ES2010c.D.dialog-act.dharshi.11	fifty eight per cent of the decision of what it should look like , fancy versus functional , 	
+ES2010c.D.dialog-act.dharshi.12	and then it has to also be technologically innovative , and yet easy to use . 	
+ES2010c.D.dialog-act.dharshi.13	So the customer basically is confused . 	
+ES2010c.D.dialog-act.dharshi.14	They don't know exactly what they want . 	
+ES2010c.D.dialog-act.dharshi.15	They want us to tell them . 	
+ES2010c.B.dialog-act.dharshi.2	They want everything , but simply . 	
+ES2010c.D.dialog-act.dharshi.16	Yes . Exactly . 	
+ES2010c.B.dialog-act.dharshi.3	Okay . 	
+ES2010c.D.dialog-act.dharshi.17	So we can go to next . 	
+ES2010c.A.dialog-act.dharshi.22	Mm 'kay . 	
+ES2010c.D.dialog-act.dharshi.18	Okay . 	
+ES2010c.D.dialog-act.dharshi.19	So in Milan and Paris recently the trends have been showing that clothing , shoes and furniture are basically just covered with fruits and vegetable patterns . 	
+ES2010c.A.dialog-act.dharshi.23		
+ES2010c.B.dialog-act.dharshi.4		
+ES2010c.D.dialog-act.dharshi.20	So I don't know if we want to go with that 	
+ES2010c.D.dialog-act.dharshi.21	um and also the spongy feel is in in contrast to last year . 	
+ES2010c.D.dialog-act.dharshi.22	I don't know really , 	
+ES2010c.D.dialog-act.dharshi.23	I mean I guess the spongy could relate to the buttons if we want to 	
+ES2010c.A.dialog-act.dharshi.24	Mm . Mm . 	
+ES2010c.D.dialog-act.dharshi.24	rather than like a hard clicky button that you find on like some mobiles and stuff , you'd want like a softer touch . 	
+ES2010c.D.dialog-act.dharshi.25	I mean do you guys know what I mean . 	
+ES2010c.B.dialog-act.dharshi.5	Yeah th 	
+ES2010c.A.dialog-act.dharshi.25	Right . Yes . 	
+ES2010c.D.dialog-act.dharshi.26	Yeah . 	
+ES2010c.D.dialog-act.dharshi.27	Um . But as for the fruits and vegetable patterns , I don't know if we really want to go with that , 	
+ES2010c.D.dialog-act.dharshi.28	because it is just a trend , 	
+ES2010c.D.dialog-act.dharshi.29	and our product we want to stay around for much longer than just a few months , 	
+ES2010c.A.dialog-act.dharshi.26	Right . 	
+ES2010c.B.dialog-act.dharshi.6	I I can 	
+ES2010c.A.dialog-act.dharshi.27	Right . 	
+ES2010c.D.dialog-act.dharshi.30	because 	
+ES2010c.A.dialog-act.dharshi.28	People don't buy a new remote every so often . 	
+ES2010c.D.dialog-act.dharshi.31	Yeah . 	
+ES2010c.D.dialog-act.dharshi.32	I mean that could just be a Spring thing right now . 	
+ES2010c.B.dialog-act.dharshi.7	I can address some of that issue , I think , with uh my presentation . 	
+ES2010c.D.dialog-act.dharshi.33	Okay . Awesome . 	
+ES2010c.A.dialog-act.dharshi.29	Okay . 	
+ES2010c.D.dialog-act.dharshi.34	Um so design preferences , 	
+ES2010c.D.dialog-act.dharshi.35	um we need easy to read like large buttons , clearly labelled 	
+ES2010c.D.dialog-act.dharshi.36	so that , I mean 'cause we talked about that being a problem . 	
+ES2010c.D.dialog-act.dharshi.37	Um and then also buttons illuminating upon touch , 	
+ES2010c.D.dialog-act.dharshi.38	you said that in your design , 	
+ES2010c.D.dialog-act.dharshi.39	with the bulb . 	
+ES2010c.D.dialog-act.dharshi.40	Um and that could also tie in with the colour scheme . 	
+ES2010c.D.dialog-act.dharshi.41	Uh we need the Real Reaction logo and colour scheme obviously . 	
+ES2010c.D.dialog-act.dharshi.42	That's one of our key goals , we wanna promote our product . 	
+ES2010c.C.dialog-act.dharshi.1		
+ES2010c.D.dialog-act.dharshi.43	And I was thinking about different types of designs and I came up with something . 	
+ES2010c.D.dialog-act.dharshi.44	Actually right here . 	
+ES2010c.D.dialog-act.dharshi.45	So what we could do is something like an old-fashioned telephone 	
+ES2010c.D.dialog-act.dharshi.46	like this , 	
+ES2010c.D.dialog-act.dharshi.47	where we put the buttons around , like we'd put a big on-off button or something else in the middle , 	
+ES2010c.D.dialog-act.dharshi.48	I mean it could be the arrows or whatever for channel up and down , 	
+ES2010c.D.dialog-act.dharshi.49	and then put the numbers around in like an old-fashioned dial shape . 	
+ES2010c.D.dialog-act.dharshi.50	'Cause then it'll appeal to older generation 	
+ES2010c.D.dialog-act.dharshi.51	and like said retro's cool . 	
+ES2010c.D.dialog-act.dharshi.52	So it's classically retro . 	
+ES2010c.A.dialog-act.dharshi.30	Hmm . 	
+ES2010c.D.dialog-act.dharshi.53	So I mean that's just an idea if you guys like it . 	
+ES2010c.A.dialog-act.dharshi.31	Very good . I like it . 	
+ES2010c.A.dialog-act.dharshi.32	Okay , ready for the next slide ? 	
+ES2010c.D.dialog-act.dharshi.56	And , 	
+ES2010c.D.dialog-act.dharshi.57	yep . 	
+ES2010c.D.dialog-act.dharshi.55	And that's it . 	
+ES2010c.A.dialog-act.dharshi.33	Op mm 'kay . 	
+ES2010c.B.dialog-act.dharshi.8	Okay . 	
+ES2010c.A.dialog-act.dharshi.34	Great . Great presentation . 	
+ES2010c.A.dialog-act.dharshi.35	Ready ? 	
+ES2010c.C.dialog-act.dharshi.3	Okay 	
+ES2010c.C.dialog-act.dharshi.4	hang on . 	
+ES2010c.A.dialog-act.dharshi.36	'Kay . 	
+ES2010c.C.dialog-act.dharshi.5	See if it's there . 	
+ES2010c.C.dialog-act.dharshi.6		
+ES2010c.A.dialog-act.dharshi.37	Which one is it ? 	
+ES2010c.C.dialog-act.dharshi.7	I don't know . 	
+ES2010c.C.dialog-act.dharshi.8	Hang on . 	
+ES2010c.A.dialog-act.dharshi.38		
+ES2010c.C.dialog-act.dharshi.9	Interface concepts , 	
+ES2010c.C.dialog-act.dharshi.10	no ? 	
+ES2010c.A.dialog-act.dharshi.39	Interface concepts new . 	
+ES2010c.C.dialog-act.dharshi.11	Either refresh it , 	
+ES2010c.C.dialog-act.dharshi.12	or it sh 	
+ES2010c.C.dialog-act.dharshi.13	Oh wait , 	
+ES2010c.A.dialog-act.dharshi.40	Y 	
+ES2010c.C.dialog-act.dharshi.14	maybe I didn't put it there . 	
+ES2010c.C.dialog-act.dharshi.15	Hang on . 	
+ES2010c.A.dialog-act.dharshi.41	'Kay . 	
+ES2010c.B.dialog-act.dharshi.9	Mine will always read copy of something or other . 	
+ES2010c.A.dialog-act.dharshi.42	Sorry ? 	
+ES2010c.B.dialog-act.dharshi.10	I I copied mine before I sent it over . 	
+ES2010c.A.dialog-act.dharshi.43	Oh okay . 	
+ES2010c.C.dialog-act.dharshi.16	Sorry , 	
+ES2010c.C.dialog-act.dharshi.17	hang on . 	
+ES2010c.C.dialog-act.dharshi.18	Don't know . 	
+ES2010c.A.dialog-act.dharshi.44	Oh there we go . 	
+ES2010c.C.dialog-act.dharshi.19	Okay . 	
+ES2010c.C.dialog-act.dharshi.20	Okay , um 	
+ES2010c.A.dialog-act.dharshi.45		
+ES2010c.C.dialog-act.dharshi.21	looking at the interface concept , it's gonna be mostly examples of possibilities of where we can go with this . 	
+ES2010c.C.dialog-act.dharshi.22	Uh if you wanna start the next slide . 	
+ES2010c.A.dialog-act.dharshi.46	Sure . 	
+ES2010c.C.dialog-act.dharshi.23	Um uh can't really see , but there's two possible ways , 	
+ES2010c.C.dialog-act.dharshi.24	on the r left , if you see on th on the sides of of the remote , you have the sort of scroll down , 	
+ES2010c.C.dialog-act.dharshi.25	so you have that option right there . 	
+ES2010c.C.dialog-act.dharshi.26	And then also there's the idea of the base . 	
+ES2010c.C.dialog-act.dharshi.27	That's sort of like an idea there . 	
+ES2010c.C.dialog-act.dharshi.28	And then on the right , we have what's really big trend right now , it's the iPod . 	
+ES2010c.C.dialog-act.dharshi.29	It's becoming really 	
+ES2010c.C.dialog-act.dharshi.30	and so you have this sort of very very simplistic menu section uh with the round buttons , 	
+ES2010c.C.dialog-act.dharshi.31	and it's sort of like you have the both kind of trendy and hip , but also very sleek and um and very simple , but technologically advanced . 	
+ES2010c.C.dialog-act.dharshi.32	So if you wanted to do that th if we could find a way of sort of like using that idea in a remote control 	
+ES2010c.C.dialog-act.dharshi.33	then sort of look into it , 	
+ES2010c.C.dialog-act.dharshi.34	but Anyway , next . 	
+ES2010c.A.dialog-act.dharshi.47	Mm 'kay . 	
+ES2010c.C.dialog-act.dharshi.35	Um there's the idea of like being able to do it by feel as well as by um by sight . 	
+ES2010c.C.dialog-act.dharshi.36	You'd you know you're in the dark , you don't wanna be looking at the remote control . 	
+ES2010c.C.dialog-act.dharshi.37	And the picture particularly is pointing out if you look at the top volume button it's a V_ , 	
+ES2010c.C.dialog-act.dharshi.38	and so yo you're kind of feeling a V_ like volume up . 	
+ES2010c.C.dialog-act.dharshi.39	What it really is is a V_ and what it you think it is is down , because the down arrow . 	
+ES2010c.A.dialog-act.dharshi.48	Mm . 	
+ES2010c.C.dialog-act.dharshi.40	And so it's like a sort of a criticism you'd probably turn that o the other way up . 	
+ES2010c.C.dialog-act.dharshi.41	Um but then you have you could either do it by raised type , 	
+ES2010c.C.dialog-act.dharshi.42	which could be you know , iffy , 	
+ES2010c.C.dialog-act.dharshi.43	um sort of old-fashioned in a way . 	
+ES2010c.A.dialog-act.dharshi.51	Mm . 	
+ES2010c.C.dialog-act.dharshi.44	Either that or just have it by shape , 	
+ES2010c.C.dialog-act.dharshi.45	for example you have a specific triangular shape that you know you're looking at the up and down arrow . 	
+ES2010c.C.dialog-act.dharshi.46	And then the round ones you sort of feel by , you know , that's the second one down , that sort of thing . 	
+ES2010c.C.dialog-act.dharshi.47	So it's sort of looking into how we wanted t to do it by feel . 	
+ES2010c.A.dialog-act.dharshi.52	Okay . 	
+ES2010c.C.dialog-act.dharshi.48	Okay . 	
+ES2010c.C.dialog-act.dharshi.49	Um this is sort of an example of going for a s certain demographic . 	
+ES2010c.C.dialog-act.dharshi.50	Um this is particularly geared towards children . 	
+ES2010c.D.dialog-act.dharshi.58	That's cute . 	
+ES2010c.C.dialog-act.dharshi.51	Um it's very cute , 	
+ES2010c.A.dialog-act.dharshi.49		
+ES2010c.C.dialog-act.dharshi.52	and we could probably change it to yellow , bright yellow for like a the for the company logo . 	
+ES2010c.C.dialog-act.dharshi.53	Um and you have the shapes and it's very simplistic and friendly looking . 	
+ES2010c.C.dialog-act.dharshi.54	Um and then the other thing that it would be able to do is just to pro be ab you program certain 	
+ES2010c.C.dialog-act.dharshi.55	channels that only these children would watch , 	
+ES2010c.C.dialog-act.dharshi.56	so it's like they ch watch , you know , the C_ Beebies or something like that , 	
+ES2010c.A.dialog-act.dharshi.50		
+ES2010c.C.dialog-act.dharshi.57	uh keep them away from other channels . 	
+ES2010c.C.dialog-act.dharshi.58	So that's like another ar Um , 	
+ES2010c.A.dialog-act.dharshi.53	Okay . 	
+ES2010c.C.dialog-act.dharshi.59	I mean , these are three examples sort of looking at it . 	
+ES2010c.C.dialog-act.dharshi.60	You have the wider section for the main controls there . 	
+ES2010c.C.dialog-act.dharshi.61	Uh you could see how many buttons there are . 	
+ES2010c.C.dialog-act.dharshi.62	And then on the left you have an example of the round buttons , and a simpler design . 	
+ES2010c.C.dialog-act.dharshi.63	On the bottom we probably wouldn't need that , 	
+ES2010c.C.dialog-act.dharshi.64	because it's more for like a D_V_D_ function which we are not gonna be using . Um . 	
+ES2010c.C.dialog-act.dharshi.65	So again it's sort of like just give you ideas 	
+ES2010c.C.dialog-act.dharshi.66	and then down at the bottom you have the logos 	
+ES2010c.C.dialog-act.dharshi.67	and that's where you could put the R_R_ , Real Reaction . 	
+ES2010c.A.dialog-act.dharshi.54	'Kay . 	
+ES2010c.C.dialog-act.dharshi.68	And then finally these are like the sort of same examples , 	
+ES2010c.C.dialog-act.dharshi.69	but also some more , just possibilities that we could go with . 	
+ES2010c.C.dialog-act.dharshi.70	None of them I'm particularly keen on by the way . 	
+ES2010c.D.dialog-act.dharshi.60	Yeah . 	
+ES2010c.B.dialog-act.dharshi.11	Hmm . 	
+ES2010c.A.dialog-act.dharshi.55	No . 	
+ES2010c.C.dialog-act.dharshi.71	But it's sort of like just taking aspects out of that and saying , well out of this one we like , you know the round section of um , b or we'd like the the button size on this . 	
+ES2010c.A.dialog-act.dharshi.56	Mm . 	
+ES2010c.A.dialog-act.dharshi.57	Or I like , you know , the black finish or the silver finish or whatever . 	
+ES2010c.D.dialog-act.dharshi.61		
+ES2010c.C.dialog-act.dharshi.72	Right . 	
+ES2010c.D.dialog-act.dharshi.62	I have four of those remotes . 	
+ES2010c.C.dialog-act.dharshi.73		
+ES2010c.A.dialog-act.dharshi.58	Good lord . 	
+ES2010c.D.dialog-act.dharshi.63		
+ES2010c.A.dialog-act.dharshi.59	Okay . Ready ? 	
+ES2010c.C.dialog-act.dharshi.74	That's it . 	
+ES2010c.A.dialog-act.dharshi.60	Oh , yeah . Okay . 	
+ES2010c.A.dialog-act.dharshi.61	Great job . 	
+ES2010c.B.dialog-act.dharshi.12	Okay , my turn . 	
+ES2010c.D.dialog-act.dharshi.64	Okay . 	
+ES2010c.A.dialog-act.dharshi.62	Okay . 	
+ES2010c.B.dialog-act.dharshi.13	Whoo . 	
+ES2010c.A.dialog-act.dharshi.63	What's the title ? 	
+ES2010c.B.dialog-act.dharshi.14	It'll be copy of component design . 	
+ES2010c.A.dialog-act.dharshi.64	Got it . 	
+ES2010c.B.dialog-act.dharshi.15	Yeah . Th that looks like it . 	
+ES2010c.B.dialog-act.dharshi.16	'Kay . 	
+ES2010c.B.dialog-act.dharshi.17	So basic remote operation runs as follows , 	
+ES2010c.B.dialog-act.dharshi.18	press button makes connection with the power source and the rest of the circuit , 	
+ES2010c.B.dialog-act.dharshi.19	chip senses the connection , 	
+ES2010c.B.dialog-act.dharshi.20	chip produces a morse code infra-red signal , specific to that button . 	
+ES2010c.B.dialog-act.dharshi.21	So you press the button , it produces uh a signal that's encoded specifically for that button . 	
+ES2010c.B.dialog-act.dharshi.22	Transistors amplify that signal and it goes to the T_V_'s centre , which interprets the signal response accordingly , changes channel etcetera . 	
+ES2010c.B.dialog-act.dharshi.23	So that being said 	
+ES2010c.B.dialog-act.dharshi.24	Next slide , please . 	
+ES2010c.B.dialog-act.dharshi.25	Findings oh which were the required materials for the basic internal construction , 	
+ES2010c.B.dialog-act.dharshi.26	so all the really simplistic functions that we just discussed , 	
+ES2010c.B.dialog-act.dharshi.27	we need rubber for buttons , aluminium for battery y contacts , integrated circuit which consists of a diode , transistor , resonator , resistors , and a capacitator , 	
+ES2010c.B.dialog-act.dharshi.28	all those basic things that make a circuit function . 	
+ES2010c.B.dialog-act.dharshi.29	Um fibreglass and thin copper wire to create the actual circuit board itself . 	
+ES2010c.B.dialog-act.dharshi.30	An L_E_D_ , which is a light emitting diode , 	
+ES2010c.B.dialog-act.dharshi.31	um contact discs for the buttons , plastic for the casing , and a power-source , 	
+ES2010c.B.dialog-act.dharshi.32	whatever power-source we've actually determined we want . 	
+ES2010c.B.dialog-act.dharshi.33	Next slide , please . 	
+ES2010c.B.dialog-act.dharshi.34	Thank you . 	
+ES2010c.B.dialog-act.dharshi.35	Uh personal preferences , 	
+ES2010c.B.dialog-act.dharshi.36	uh to save money for the components , the remote should be mass-produced and basic materials should be bought en masse . 	
+ES2010c.B.dialog-act.dharshi.37	Um if we find another company who can produce the required chips , casing , L_E_D_ , any additional materials we decide we require at a less expensive rate than we ourselves are producing , we should go for it . 	
+ES2010c.B.dialog-act.dharshi.38	Next slide , please . 	
+ES2010c.B.dialog-act.dharshi.39	Um just talking to the um manufacturing division . 	
+ES2010c.B.dialog-act.dharshi.41	They suggested power options , solar cells , hand dynamo , and kinetic power , 	
+ES2010c.B.dialog-act.dharshi.42	so you shake it and it increases the power . 	
+ES2010c.B.dialog-act.dharshi.43	Um I'm not sure how the hand dynamo works , 	
+ES2010c.B.dialog-act.dharshi.44	they have yet to get back to me on that . 	
+ES2010c.B.dialog-act.dharshi.45	So next slide , please . 	
+ES2010c.A.dialog-act.dharshi.65	Hmm . 	
+ES2010c.A.dialog-act.dharshi.67	Interesting . 	
+ES2010c.B.dialog-act.dharshi.46	Suggested casing options . 	
+ES2010c.B.dialog-act.dharshi.47	Okay . 	
+ES2010c.B.dialog-act.dharshi.49	We can offer options for casing such as straight , curved , double-curved , you know , 	
+ES2010c.B.dialog-act.dharshi.50	very specific to the customer . 	
+ES2010c.B.dialog-act.dharshi.51	Options for materials , plastic , rubber , titanium , wood . 	
+ES2010c.B.dialog-act.dharshi.52	I don't think anyone's gonna go for a wood one , because splinters 	
+ES2010c.A.dialog-act.dharshi.66		
+ES2010c.D.dialog-act.dharshi.65	That would be amazing , though , yeah . 	
+ES2010c.A.dialog-act.dharshi.68		
+ES2010c.C.dialog-act.dharshi.75		
+ES2010c.D.dialog-act.dharshi.66	No , splinters would 	
+ES2010c.B.dialog-act.dharshi.53	Yeah . 	
+ES2010c.B.dialog-act.dharshi.54	Um certain restrictions do apply here though . 	
+ES2010c.B.dialog-act.dharshi.55	Uh latex , you can't do solar power with a latex one . 	
+ES2010c.B.dialog-act.dharshi.56	So , if they want some a soft squishy rubber , they can't have the solar powered option . 	
+ES2010c.B.dialog-act.dharshi.57	Double-curved , you can't do titanium . 	
+ES2010c.D.dialog-act.dharshi.67	What is that ? 	
+ES2010c.B.dialog-act.dharshi.58	Um that would be two curvatures , 	
+ES2010c.B.dialog-act.dharshi.59	so it would actually , if you the shape of your hand , you curve here and you curve here , so you could have two curves that match the shape of your hand to make it more comfortable to hold . 	
+ES2010c.A.dialog-act.dharshi.69	Mm . 	
+ES2010c.D.dialog-act.dharshi.68	Mm . 	
+ES2010c.B.dialog-act.dharshi.60	Now if you wanted that , you can't do titanium . 	
+ES2010c.B.dialog-act.dharshi.61	And uh so you functions what for the buttons , scrolling function could be very beneficial to us instead of actual buttons themselves . 	
+ES2010c.C.dialog-act.dharshi.76	Right . 	
+ES2010c.B.dialog-act.dharshi.62	I think I have one more slide . 	
+ES2010c.A.dialog-act.dharshi.70	'Kay . 	
+ES2010c.B.dialog-act.dharshi.63	No , I didn't . 	
+ES2010c.A.dialog-act.dharshi.71	No , okay . 	
+ES2010c.B.dialog-act.dharshi.64	Um the manufacturing division also has said that um they have several types of chips 	
+ES2010c.B.dialog-act.dharshi.65	and they've just developed a sample sensor or sample speaker chip , which we could utilise . 	
+ES2010c.B.dialog-act.dharshi.66	Um push button requires a simple chip and scroll requires more complicated chip . 	
+ES2010c.B.dialog-act.dharshi.67	So depends on what we decide we wanna do . 	
+ES2010c.B.dialog-act.dharshi.68	In addition to that if we're offering all those different options to the customer for producing their remote , we're going to have to have multiples of each type , 	
+ES2010c.B.dialog-act.dharshi.69	like a double-curved in rubber , um you know , each option should have a certain select number produced with all those options . 	
+ES2010c.B.dialog-act.dharshi.70	So we'll have to mix it up , make sure we produce enough of everyone . 	
+ES2010c.B.dialog-act.dharshi.71	But that could also drive up the price of the actual remote itself if they know that we only produced five thousand , you know , double-curved wooden remotes . 	
+ES2010c.A.dialog-act.dharshi.72	Mm . 	
+ES2010c.D.dialog-act.dharshi.69	Right . 	
+ES2010c.D.dialog-act.dharshi.70	Okay . 	
+ES2010c.A.dialog-act.dharshi.73	Hmm . 	
+ES2010c.B.dialog-act.dharshi.72	And that's all I got . 	
+ES2010c.A.dialog-act.dharshi.74	Okay . Alright , 	
+ES2010c.A.dialog-act.dharshi.75	well thank you for those informative presentations . 	
+ES2010c.A.dialog-act.dharshi.76	Let's go back to um 	
+ES2010c.A.dialog-act.dharshi.77	Now we have to make some decisions . 	
+ES2010c.A.dialog-act.dharshi.78	Where were we ? 	
+ES2010c.C.dialog-act.dharshi.77	Let me just add one more thing that I couldn't say before , 	
+ES2010c.A.dialog-act.dharshi.79	Sure . 	
+ES2010c.C.dialog-act.dharshi.78	and that's just that there's the new technology that they've developed on the voice recognition . 	
+ES2010c.C.dialog-act.dharshi.79	Um . 	
+ES2010c.D.dialog-act.dharshi.71	Oh this the thing we were talking about earlier . 	
+ES2010c.C.dialog-act.dharshi.80	Right 	
+ES2010c.C.dialog-act.dharshi.81	except that it's sort of odd , 	
+ES2010c.C.dialog-act.dharshi.82	and I'm no not exactly sure why they are explaining it in the way they are , 	
+ES2010c.C.dialog-act.dharshi.83	um there's a sample sensor and there's a sample speaker unit for 	
+ES2010c.C.dialog-act.dharshi.84	So , you would say like , good morning , coffeemaker , and it would respond , good morning , Jill , 	
+ES2010c.A.dialog-act.dharshi.80		
+ES2010c.C.dialog-act.dharshi.85	but 	
+ES2010c.C.dialog-act.dharshi.89	I'm not sure exactly how it's gonna work , 'cause do you programme do we program the responses and the questions . 	
+ES2010c.C.dialog-act.dharshi.90	So does that mean that the user then has to ask the specific question , and can't change it in order for it to be recognised , 	
+ES2010c.A.dialog-act.dharshi.81	Mm . 	
+ES2010c.C.dialog-act.dharshi.91	or can it be altered in a certain way , 	
+ES2010c.C.dialog-act.dharshi.92	or does the actually user program it , to say a channel means this . 	
+ES2010c.A.dialog-act.dharshi.82	Right . 	
+ES2010c.D.dialog-act.dharshi.72	Yeah , 	
+ES2010c.D.dialog-act.dharshi.73	like using the menu to be like , enter your name into the screen like on the menu options . 	
+ES2010c.A.dialog-act.dharshi.83	Right . 	
+ES2010c.D.dialog-act.dharshi.74	So that way the remote reads it . 	
+ES2010c.C.dialog-act.dharshi.93	Right , 	
+ES2010c.C.dialog-act.dharshi.94	so it's got like a limited memory and programme it . 	
+ES2010c.C.dialog-act.dharshi.96	So it's sort of iffy , 	
+ES2010c.C.dialog-act.dharshi.97	but that's kind of what you'd say . 	
+ES2010c.A.dialog-act.dharshi.84	Mm . 	
+ES2010c.D.dialog-act.dharshi.75	I feel like voice recognition would be , I don't know , w it would be too hard to really 	
+ES2010c.A.dialog-act.dharshi.85	Hmm . 	
+ES2010c.A.dialog-act.dharshi.86	Programme . 	
+ES2010c.D.dialog-act.dharshi.76	I mean we could do it , but 	
+ES2010c.A.dialog-act.dharshi.88	If it's within our price to get that kind of chip that would , you know , technology 	
+ES2010c.D.dialog-act.dharshi.77	Technology . 	
+ES2010c.B.dialog-act.dharshi.74	Well , we are making the chip . 	
+ES2010c.A.dialog-act.dharshi.87	Hmm . 	
+ES2010c.B.dialog-act.dharshi.73	So , I mean 	
+ES2010c.B.dialog-act.dharshi.76	But , I guess , we have to look at w what our production cost is for the chip itself anyway . 	
+ES2010c.D.dialog-act.dharshi.78	And it is a growing trend , the higher technological , like 	
+ES2010c.B.dialog-act.dharshi.75	Yeah . 	
+ES2010c.A.dialog-act.dharshi.89	Mm . 	
+ES2010c.D.dialog-act.dharshi.79	the , I mean just like the more advanced it is , 	
+ES2010c.B.dialog-act.dharshi.77	Yeah . 	
+ES2010c.D.dialog-act.dharshi.80	the better it'll sell . 	
+ES2010c.B.dialog-act.dharshi.78	I I thought offering some of those options for different materials that it could be made of different , you know 	
+ES2010c.B.dialog-act.dharshi.79	I think we'd have to decide on the power options , maybe . 	
+ES2010c.A.dialog-act.dharshi.90	Hmm . 	
+ES2010c.B.dialog-act.dharshi.80	So that we could reduce cost . 	
+ES2010c.D.dialog-act.dharshi.81	Yeah , 	
+ES2010c.D.dialog-act.dharshi.82	'cause we need to know how big it's gonna be and how heavy . 	
+ES2010c.B.dialog-act.dharshi.81	Yeah . 	
+ES2010c.A.dialog-act.dharshi.91	Okay , that kind of brings us to this , 	
+ES2010c.A.dialog-act.dharshi.92	let's let's see if we can decide what kind of energy source we want to have first and foremost . Um . 	
+ES2010c.B.dialog-act.dharshi.82	Okay . 	
+ES2010c.A.dialog-act.dharshi.93	Do we wanna go for batteries or a stand like the one that we saw illustrated earlier ? 	
+ES2010c.D.dialog-act.dharshi.83	Oh the base , yeah . 	
+ES2010c.A.dialog-act.dharshi.94	The base , the charging base with rechargeable batteries ? 	
+ES2010c.B.dialog-act.dharshi.83	I think the p 	
+ES2010c.C.dialog-act.dharshi.98	I always feel like first I wanna know what it looks like , before 	
+ES2010c.C.dialog-act.dharshi.99	'Cause if it's something really really small , then it's sort of harder to imagine a base for it , 	
+ES2010c.A.dialog-act.dharshi.95	Hmm . 	
+ES2010c.C.dialog-act.dharshi.100	that was p quite a s substantial size sort of standing up 	
+ES2010c.A.dialog-act.dharshi.96	Yeah , 	
+ES2010c.D.dialog-act.dharshi.84	W 	
+ES2010c.A.dialog-act.dharshi.97	and we don't have multiple things that it has to control , it just has to control the T_V_ . 	
+ES2010c.A.dialog-act.dharshi.98	It's not gonna be a huge universal remote . 	
+ES2010c.D.dialog-act.dharshi.85	We need to decide , well so we can figure how big it's gonna be , like exactly what buttons we want 	
+ES2010c.C.dialog-act.dharshi.101	Right . 	
+ES2010c.A.dialog-act.dharshi.99	What size battery and 	
+ES2010c.D.dialog-act.dharshi.86	and exactly 	
+ES2010c.C.dialog-act.dharshi.102	Well , the other thing is like even if it's got a few buttons , so we want it to be bigger than this , 	
+ES2010c.D.dialog-act.dharshi.87	It could be like this . 	
+ES2010c.D.dialog-act.dharshi.88	Yes . 	
+ES2010c.D.dialog-act.dharshi.89	I'd , well uh 	
+ES2010c.C.dialog-act.dharshi.103	'cause it still fits in your hand , so you still wanted something that's comfortable and substantial , but not necessarily full of buttons . 	
+ES2010c.D.dialog-act.dharshi.90	This one is really comfortable , 	
+ES2010c.D.dialog-act.dharshi.91	like I like the sides whatever , 	
+ES2010c.C.dialog-act.dharshi.104	Are you gonna lose it easier ? 	
+ES2010c.D.dialog-act.dharshi.92	because 	
+ES2010c.D.dialog-act.dharshi.93	But if we have the um , the locator , then we don't have to worry about that . 	
+ES2010c.B.dialog-act.dharshi.84	That's true . 	
+ES2010c.D.dialog-act.dharshi.94	So we can make it small if we have a l locating device . 	
+ES2010c.B.dialog-act.dharshi.85	If we do a voice-activated locator , though , we're gonna be looking at a more substantial chip . 	
+ES2010c.C.dialog-act.dharshi.105	Yeah . 	
+ES2010c.B.dialog-act.dharshi.86	So 	
+ES2010c.D.dialog-act.dharshi.95	Hmm . 	
+ES2010c.C.dialog-act.dharshi.107	So i That's the other thing , 	
+ES2010c.C.dialog-act.dharshi.108	it's like You know 	
+ES2010c.C.dialog-act.dharshi.109	Are we gonna have certain chips that are gonna require bigger size period ? 	
+ES2010c.D.dialog-act.dharshi.96	Two double A_s , for this size . 	
+ES2010c.C.dialog-act.dharshi.110	But like , you know , if we get more complicated then it's gonna v be have to be bigger to just accommodate the chip size . 	
+ES2010c.D.dialog-act.dharshi.97	Right . 	
+ES2010c.B.dialog-act.dharshi.87	Honestly , I think the customer would be kind of irritated by the fact that it has a base 	
+ES2010c.B.dialog-act.dharshi.88	if we did do a nice small , compact 	
+ES2010c.A.dialog-act.dharshi.100	Right . I agree , 	
+ES2010c.D.dialog-act.dharshi.98	Yeah . 	
+ES2010c.A.dialog-act.dharshi.101	it's either gonna be bigger with a base or smaller with just 	
+ES2010c.C.dialog-act.dharshi.111	So we sh 	
+ES2010c.D.dialog-act.dharshi.100	Smaller , without 	
+ES2010c.D.dialog-act.dharshi.99	Yeah . 	
+ES2010c.A.dialog-act.dharshi.102	A battery like this guy . 	
+ES2010c.C.dialog-act.dharshi.112	Yeah . 	
+ES2010c.B.dialog-act.dharshi.89	Mm yeah . 	
+ES2010c.A.dialog-act.dharshi.103	Alright , so what direction do you want to go in ? 	
+ES2010c.A.dialog-act.dharshi.104	You wanna vote ? 	
+ES2010c.D.dialog-act.dharshi.101	I think if we had a a locating device with the small one , I think that seems way more advanced . 	
+ES2010c.A.dialog-act.dharshi.105	I'm kind of I'm kind of leaning in the direction of this kind of 	
+ES2010c.B.dialog-act.dharshi.90	Yeah . 	
+ES2010c.C.dialog-act.dharshi.114	I'm a away from the base . 	
+ES2010c.A.dialog-act.dharshi.106	bigger and the base . 	
+ES2010c.C.dialog-act.dharshi.115	Yeah . 	
+ES2010c.D.dialog-act.dharshi.102	Yeah . 	
+ES2010c.B.dialog-act.dharshi.91	'Kay so 	
+ES2010c.A.dialog-act.dharshi.107	That just seems so clunky and 	
+ES2010c.D.dialog-act.dharshi.103	Yeah , 	
+ES2010c.D.dialog-act.dharshi.104	because I mean if even looking at cellphones right now , those trends the smaller the hotter it is , 	
+ES2010c.C.dialog-act.dharshi.113	Smaller and smaller , yeah , yeah , yeah . 	
+ES2010c.D.dialog-act.dharshi.105	yeah 	
+ES2010c.A.dialog-act.dharshi.108	Okay . 	
+ES2010c.B.dialog-act.dharshi.92	The only problem with that is if you forget to take it out of your pocket and it goes in wash . 	
+ES2010c.D.dialog-act.dharshi.106	Oh . 	
+ES2010c.C.dialog-act.dharshi.116	You're kidding . 	
+ES2010c.A.dialog-act.dharshi.109		
+ES2010c.B.dialog-act.dharshi.93	You know it happens . 	
+ES2010c.A.dialog-act.dharshi.111	Hmm . 	
+ES2010c.C.dialog-act.dharshi.117		
+ES2010c.D.dialog-act.dharshi.107	Yeah . 	
+ES2010c.B.dialog-act.dharshi.94	I've had three watches go that way too . 	
+ES2010c.A.dialog-act.dharshi.110		
+ES2010c.C.dialog-act.dharshi.118	Oh watches I've but I've never washed a cell phone . 	
+ES2010c.D.dialog-act.dharshi.108	Ouch . 	
+ES2010c.D.dialog-act.dharshi.109	A phone , whoa , that would wow , that would hurt . 	
+ES2010c.A.dialog-act.dharshi.112	Okay , so what kind of material do we want to be made out of ? 	
+ES2010c.B.dialog-act.dharshi.95	Pieces everywhere . 	
+ES2010c.B.dialog-act.dharshi.96	Well , we have lots of options . 	
+ES2010c.B.dialog-act.dharshi.97	I don't think wood is a viable option . 	
+ES2010c.D.dialog-act.dharshi.110	Yeah wood . 	
+ES2010c.A.dialog-act.dharshi.113	No . 	
+ES2010c.C.dialog-act.dharshi.119	Well , titanium s 	
+ES2010c.A.dialog-act.dharshi.114	Oh what did you 	
+ES2010c.A.dialog-act.dharshi.115	Oh sorry , 	
+ES2010c.A.dialog-act.dharshi.116	go ahead . 	
+ES2010c.C.dialog-act.dharshi.120	I was saying that titanium , if we're being restricted then I would probably lean away from that . 	
+ES2010c.D.dialog-act.dharshi.111	Yeah , 	
+ES2010c.D.dialog-act.dharshi.112	'cause if it's gonna cost us more to produce a chip , titanium will be more expensive . 	
+ES2010c.A.dialog-act.dharshi.117	Right . 	
+ES2010c.B.dialog-act.dharshi.98	However , 	
+ES2010c.A.dialog-act.dharshi.118	What would you recommend ? 	
+ES2010c.B.dialog-act.dharshi.100	well , we only wanna sell it for twenty five Euro 	
+ES2010c.D.dialog-act.dharshi.113	Yeah . 	
+ES2010c.B.dialog-act.dharshi.101	right ? 	
+ES2010c.C.dialog-act.dharshi.121	Yeah . 	
+ES2010c.B.dialog-act.dharshi.102	'Cause I was thinking if we wanted to get the high in market then you could produce a few in titanium , 	
+ES2010c.C.dialog-act.dharshi.122	That'll 	
+ES2010c.C.dialog-act.dharshi.123	Yeah , exactly . 	
+ES2010c.A.dialog-act.dharshi.119	Mm . 	
+ES2010c.B.dialog-act.dharshi.103	make them a rarity so to speak . 	
+ES2010c.C.dialog-act.dharshi.124	The selling point , yeah . 	
+ES2010c.D.dialog-act.dharshi.114	We could do that , 	
+ES2010c.D.dialog-act.dharshi.115	because all our research shows that people are definitely willing to spend more if 	
+ES2010c.C.dialog-act.dharshi.125	Are we restricted by this ? 	
+ES2010c.B.dialog-act.dharshi.104	Yeah . 	
+ES2010c.B.dialog-act.dharshi.105	Well the original 	
+ES2010c.A.dialog-act.dharshi.120	I I think we should just focus on one design and one concept right now.I'm 	
+ES2010c.C.dialog-act.dharshi.127	Twenty five Euros 	
+ES2010c.B.dialog-act.dharshi.106	Okay . 	
+ES2010c.A.dialog-act.dharshi.121	not sure that we'll have the time and money to produce a whole array of 	
+ES2010c.C.dialog-act.dharshi.126		
+ES2010c.A.dialog-act.dharshi.122	remotes . 	
+ES2010c.A.dialog-act.dharshi.123	If this was a successful remote , we might then produce a higher end version of it , I think . 	
+ES2010c.B.dialog-act.dharshi.107	Yeah . Good plan . 	
+ES2010c.D.dialog-act.dharshi.116	Good plan . 	
+ES2010c.A.dialog-act.dharshi.124	Okay , so we wanna go for plastic , 	
+ES2010c.A.dialog-act.dharshi.125	or what would you recommend for materials ? 	
+ES2010c.B.dialog-act.dharshi.108	Honestly I'd recommend like um 	
+ES2010c.A.dialog-act.dharshi.127	Hmm . 	
+ES2010c.B.dialog-act.dharshi.109	uh since we're going with batteries instead of solar power , I'd recommend maybe a uh soft like latex , 	
+ES2010c.A.dialog-act.dharshi.126		
+ES2010c.B.dialog-act.dharshi.110	because we could produce , you know how cellphones have those overlays that you can change the colour . 	
+ES2010c.B.dialog-act.dharshi.111	We could do uh one that fits in with the trends of the year so , 	
+ES2010c.D.dialog-act.dharshi.117	Oh . 	
+ES2010c.A.dialog-act.dharshi.128	Mm-hmm . 	
+ES2010c.A.dialog-act.dharshi.129	Mm . 	
+ES2010c.B.dialog-act.dharshi.112	because this year is all fruit , 	
+ES2010c.C.dialog-act.dharshi.128		
+ES2010c.B.dialog-act.dharshi.113	God only knows why , 	
+ES2010c.D.dialog-act.dharshi.120	Yeah , who knows . 	
+ES2010c.B.dialog-act.dharshi.114	um we could do f a cherry cover for this year 	
+ES2010c.B.dialog-act.dharshi.115	and then i if next year is stripes or solids , you know 	
+ES2010c.A.dialog-act.dharshi.130	Okay . 	
+ES2010c.C.dialog-act.dharshi.129	So you're talking about like when it leaves our salesroom then it's all gonna be cherry-coloured 	
+ES2010c.C.dialog-act.dharshi.130	or is it gonna be the kinda thing where people come back and swap it ? 	
+ES2010c.D.dialog-act.dharshi.121	O or we could like take off this . 	
+ES2010c.A.dialog-act.dharshi.131	They could buy cases , maybe , 	
+ES2010c.B.dialog-act.dharshi.116	They could come back . And buy the extra case . 	
+ES2010c.C.dialog-act.dharshi.131	Okay . 	
+ES2010c.A.dialog-act.dharshi.132	if they wanted . 	
+ES2010c.A.dialog-act.dharshi.133	I think it's good to sell a basic thing and then sell options . 	
+ES2010c.B.dialog-act.dharshi.117	So we could do like a b a hard base plastic , and then we could give two latex covers to start . 	
+ES2010c.D.dialog-act.dharshi.122	Yeah . 	
+ES2010c.C.dialog-act.dharshi.132	The 	
+ES2010c.D.dialog-act.dharshi.123	Yeah . 	
+ES2010c.C.dialog-act.dharshi.133	what the top face , right ? 	
+ES2010c.A.dialog-act.dharshi.134	Okay . 	
+ES2010c.A.dialog-act.dharshi.135	Okay . 	
+ES2010c.D.dialog-act.dharshi.125	Yeah , 	
+ES2010c.D.dialog-act.dharshi.126	because the soft latex definitely is squishy . 	
+ES2010c.D.dialog-act.dharshi.127	That's in . 	
+ES2010c.D.dialog-act.dharshi.128	Well I mean squishier than like , yeah , just a hard plastic . 	
+ES2010c.A.dialog-act.dharshi.136	Right . Right . 	
+ES2010c.A.dialog-act.dharshi.137	Okay , and what kind of chip would we need for this guy ? 	
+ES2010c.B.dialog-act.dharshi.119	How complicated 	
+ES2010c.B.dialog-act.dharshi.120	Are we gonna go with the voice activated 	
+ES2010c.C.dialog-act.dharshi.134	Yeah . 	
+ES2010c.A.dialog-act.dharshi.138	I don't think we should do voice , 	
+ES2010c.A.dialog-act.dharshi.139	I think we should just do um the recognition for when it's lost , you know . 	
+ES2010c.C.dialog-act.dharshi.135	A tracker , yeah . 	
+ES2010c.A.dialog-act.dharshi.140	could we 	
+ES2010c.A.dialog-act.dharshi.141	Yeah . 	
+ES2010c.D.dialog-act.dharshi.129	'Cause that uh what it type of , yeah , 	
+ES2010c.D.dialog-act.dharshi.130	for voice activation would it be like a certain term what we would say like , 	
+ES2010c.A.dialog-act.dharshi.142	Hmm . 	
+ES2010c.D.dialog-act.dharshi.131	because people could just be talking and we don't want it going off all the time . 	
+ES2010c.A.dialog-act.dharshi.143	Right . 	
+ES2010c.D.dialog-act.dharshi.132	So uh 	
+ES2010c.B.dialog-act.dharshi.121	Well , we could give it a specific code , you know , remote missing . 	
+ES2010c.D.dialog-act.dharshi.133	Ooh . 	
+ES2010c.A.dialog-act.dharshi.144		
+ES2010c.D.dialog-act.dharshi.134	Uh see I'm uh I'm strangely attracted to it , 	
+ES2010c.D.dialog-act.dharshi.135	because I know that's it's definitely gonna be big , 	
+ES2010c.D.dialog-act.dharshi.136	because it's , I don't know , it's just so high-tech . 	
+ES2010c.C.dialog-act.dharshi.136	Well , my little sister got for Christmas she got one of those key finders that's like a key-ring , and you have to whistle in a certain frequency for it to work . 	
+ES2010c.B.dialog-act.dharshi.122	Yeah , see that would just irritate me . 	
+ES2010c.C.dialog-act.dharshi.137	And then she would laugh and it would start going off in her purse , and you couldn't turn it off . 	
+ES2010c.A.dialog-act.dharshi.145	Oh dear . 	
+ES2010c.D.dialog-act.dharshi.137	Oh , 	
+ES2010c.C.dialog-act.dharshi.138	So it became highly irritating . 	
+ES2010c.D.dialog-act.dharshi.138	then maybe voice 	
+ES2010c.A.dialog-act.dharshi.146	Okay . 	
+ES2010c.D.dialog-act.dharshi.139	maybe voice activation won't be good . 	
+ES2010c.B.dialog-act.dharshi.123	So I think having a key-phrase is much better . 	
+ES2010c.A.dialog-act.dharshi.147	Okay . 	
+ES2010c.A.dialog-act.dharshi.148	Alright . But it's not gonna be voice activated in the fact that you would say , channel up , and it would work , 	
+ES2010c.A.dialog-act.dharshi.149	right ? 	
+ES2010c.D.dialog-act.dharshi.140	Yeah , n n no , we just want it to be a finder . 	
+ES2010c.C.dialog-act.dharshi.139	But then it 	
+ES2010c.A.dialog-act.dharshi.150	Just a 	
+ES2010c.B.dialog-act.dharshi.124	No . 	
+ES2010c.A.dialog-act.dharshi.151	Okay , alright . 	
+ES2010c.C.dialog-act.dharshi.140	Hmm . 	
+ES2010c.C.dialog-act.dharshi.141	Okay . 	
+ES2010c.D.dialog-act.dharshi.141	But do can your 	
+ES2010c.D.dialog-act.dharshi.142	can the department make 	
+ES2010c.B.dialog-act.dharshi.125	That would be like a mid-class um Yeah . 	
+ES2010c.D.dialog-act.dharshi.143	Oh , brilliant then . 	
+ES2010c.B.dialog-act.dharshi.126	So we don't actually have to go for 	
+ES2010c.B.dialog-act.dharshi.127	Well , if they've just developed the sample sensor , sample speaker , it's a brand new chip . 	
+ES2010c.B.dialog-act.dharshi.128	Why not introduce it in this way ? 	
+ES2010c.A.dialog-act.dharshi.152	No . 	
+ES2010c.D.dialog-act.dharshi.144	Yeah , good point . 	
+ES2010c.A.dialog-act.dharshi.153	Mm 'kay . 	
+ES2010c.A.dialog-act.dharshi.154	Uh and what size batteries , double A_ , triple A_ ? 	
+ES2010c.D.dialog-act.dharshi.146	I think triple A_ , it'll be lighter . 	
+ES2010c.A.dialog-act.dharshi.155	Two ? 	
+ES2010c.A.dialog-act.dharshi.156	Could it run off of two 	
+ES2010c.D.dialog-act.dharshi.148	I mean more more come in a package . 	
+ES2010c.C.dialog-act.dharshi.142	Well , that depends on what the energy is needed . 	
+ES2010c.D.dialog-act.dharshi.147	Yeah . 	
+ES2010c.B.dialog-act.dharshi.130	I think , well , we could d r do two 	
+ES2010c.B.dialog-act.dharshi.131	or we could do one small lithium , 	
+ES2010c.B.dialog-act.dharshi.132	'cause you know the lithium batteries are doing quite well in most other electronic products , right ? 	
+ES2010c.B.dialog-act.dharshi.133	So they're more widely available now . 	
+ES2010c.B.dialog-act.dharshi.134	And they also have a longer battery life than most batteries . 	
+ES2010c.A.dialog-act.dharshi.158	They're more expensive though , too . 	
+ES2010c.B.dialog-act.dharshi.135	But if you only have to replace it every five years . 	
+ES2010c.A.dialog-act.dharshi.157	Mm . 	
+ES2010c.D.dialog-act.dharshi.149	That's a good point . 	
+ES2010c.A.dialog-act.dharshi.159	Thoughts anybody ? 	
+ES2010c.C.dialog-act.dharshi.143	As long as we sell it with it . 	
+ES2010c.B.dialog-act.dharshi.136	Well , how about a initial , you get one battery when you buy it , 	
+ES2010c.B.dialog-act.dharshi.137	'cause I'm pretty sure we can get them pretty cheap on bulk . 	
+ES2010c.C.dialog-act.dharshi.144	Right , that's what I meant . 	
+ES2010c.D.dialog-act.dharshi.150	We could think about it and come back to it next meeting . 	
+ES2010c.A.dialog-act.dharshi.160	Okay . 	
+ES2010c.A.dialog-act.dharshi.161	Yeah . Alright . 	
+ES2010c.B.dialog-act.dharshi.138	Yeah . 	
+ES2010c.D.dialog-act.dharshi.151	We still have one more meeting . 	
+ES2010c.A.dialog-act.dharshi.162	Okay . 	
+ES2010c.A.dialog-act.dharshi.163	So we've covered that first category , 	
+ES2010c.A.dialog-act.dharshi.164	User Interface Concept , 	
+ES2010c.A.dialog-act.dharshi.165	meaning design . 	
+ES2010c.C.dialog-act.dharshi.146	What's it gonna 	
+ES2010c.C.dialog-act.dharshi.147	Yeah , what's it gonna look like . 	
+ES2010c.A.dialog-act.dharshi.166	Okay . 	
+ES2010c.C.dialog-act.dharshi.148	Um . 	
+ES2010c.A.dialog-act.dharshi.167	I ki I kind of like your idea about the retro phone dial , 	
+ES2010c.A.dialog-act.dharshi.168	and that the central button could have , maybe our logo on it ? 	
+ES2010c.A.dialog-act.dharshi.169	It might be the four way scroll , too . 	
+ES2010c.D.dialog-act.dharshi.152	Yeah , it could be whatever , 	
+ES2010c.A.dialog-act.dharshi.170	I mean if 	
+ES2010c.A.dialog-act.dharshi.171	Yeah . 	
+ES2010c.D.dialog-act.dharshi.153	as long as there's something big in the middle , 	
+ES2010c.D.dialog-act.dharshi.154	because like the old phones , there's like that just like piece of metal or like a picture or something in the middle . 	
+ES2010c.A.dialog-act.dharshi.172	Yeah . 	
+ES2010c.A.dialog-act.dharshi.173	Mm-hmm . 	
+ES2010c.C.dialog-act.dharshi.149	Well , my issue with that is if it got too big though , 	
+ES2010c.C.dialog-act.dharshi.150	'cause if you have the circle and the button in the middle , then is it gonna get wider than your your hands are , 	
+ES2010c.A.dialog-act.dharshi.174	Mm . 	
+ES2010c.D.dialog-act.dharshi.155	Oh , that's true . 	
+ES2010c.C.dialog-act.dharshi.151	because w And then would the buttons be too small if it was enough to fit on it ? 	
+ES2010c.D.dialog-act.dharshi.156	Good point . 	
+ES2010c.B.dialog-act.dharshi.139	In the sample ones that you showed us there was one that had the scroll buttons on the side , 	
+ES2010c.A.dialog-act.dharshi.175	Yeah . 	
+ES2010c.C.dialog-act.dharshi.152	Yeah . 	
+ES2010c.B.dialog-act.dharshi.141	which I think if we make it curved like a hand like a hand-shape like if we put the the scroll-button on the side , 	
+ES2010c.A.dialog-act.dharshi.176	Oh , I see what you mean . 	
+ES2010c.B.dialog-act.dharshi.142	that could be particularly useful . 	
+ES2010c.A.dialog-act.dharshi.177	I think so . 	
+ES2010c.D.dialog-act.dharshi.157	So scroll buttons on the side and then buttons on top ? 	
+ES2010c.A.dialog-act.dharshi.178	Yeah , I like that . 	
+ES2010c.A.dialog-act.dharshi.179	'Kay . 	
+ES2010c.D.dialog-act.dharshi.158	But we definitely 	
+ES2010c.D.dialog-act.dharshi.159	If we have scroll things on the side , we definitely have to have 'em labelled . 	
+ES2010c.A.dialog-act.dharshi.180	Mm . 	
+ES2010c.D.dialog-act.dharshi.160	Yeah , 	
+ES2010c.D.dialog-act.dharshi.161	like on the side of it . 	
+ES2010c.B.dialog-act.dharshi.143	Well , if it's just up and down 	
+ES2010c.D.dialog-act.dharshi.162	Oh if it's just up and down . 	
+ES2010c.C.dialog-act.dharshi.153	But is that for 	
+ES2010c.B.dialog-act.dharshi.144	Volume or channel . 	
+ES2010c.C.dialog-act.dharshi.154	Which ? 	
+ES2010c.B.dialog-act.dharshi.145	I don't know . 	
+ES2010c.D.dialog-act.dharshi.163	Well , you could do some on both sides . 	
+ES2010c.C.dialog-act.dharshi.155	Do we have both sides ? 	
+ES2010c.A.dialog-act.dharshi.181	Can we ? 	
+ES2010c.B.dialog-act.dharshi.146	Mm yeah . 	
+ES2010c.B.dialog-act.dharshi.147	We should probably make it that you have to depress it to activate it then , 	
+ES2010c.D.dialog-act.dharshi.164	Yeah . 	
+ES2010c.A.dialog-act.dharshi.184	So that you're just not holding it and it changes the chan 	
+ES2010c.B.dialog-act.dharshi.149	'cause oth otherwise you're not just holding it and going like this , you know . 	
+ES2010c.D.dialog-act.dharshi.165	That's squishy . That's squishy . 	
+ES2010c.C.dialog-act.dharshi.158	Well , the other option is in instead of a scroll you just have the buttons up on the side which are on the side . 	
+ES2010c.D.dialog-act.dharshi.166	have buttons . 	
+ES2010c.A.dialog-act.dharshi.185	Mm . 	
+ES2010c.B.dialog-act.dharshi.150	Okay . 	
+ES2010c.A.dialog-act.dharshi.186	Yeah . 	
+ES2010c.D.dialog-act.dharshi.167	Yeah , that . 	
+ES2010c.A.dialog-act.dharshi.183	Hmm . 	
+ES2010c.A.dialog-act.dharshi.187	'Kay any other ideas ? 	
+ES2010c.C.dialog-act.dharshi.159	Um what colour ? 	
+ES2010c.A.dialog-act.dharshi.188	Oh , yeah . Latex covers . W 	
+ES2010c.B.dialog-act.dharshi.151	We have to make sure that logo always sticks out when we put the latex covers on , 	
+ES2010c.B.dialog-act.dharshi.152	so we'll have to like have a little square or something , so that the our logo's available . 	
+ES2010c.C.dialog-act.dharshi.156	Well I sort of like having the a yellow strip at the bottom with the R_R_ like that . 	
+ES2010c.D.dialog-act.dharshi.168	Yeah . 	
+ES2010c.C.dialog-act.dharshi.157	And that's at the bottom of it . 	
+ES2010c.A.dialog-act.dharshi.189	I think maybe we should do it on a b button itself though , 	
+ES2010c.A.dialog-act.dharshi.190	because if people are able to change the covers , 	
+ES2010c.C.dialog-act.dharshi.160	Which button ? 	
+ES2010c.A.dialog-act.dharshi.191	I don't know , 	
+ES2010c.A.dialog-act.dharshi.192	maybe the on-off button , something , some the menu button , 	
+ES2010c.A.dialog-act.dharshi.193	I don't know , 	
+ES2010c.A.dialog-act.dharshi.194	but you know if we're gonna put our company logo on there and somebody could just get 	
+ES2010c.A.dialog-act.dharshi.195	another one . 	
+ES2010c.A.dialog-act.dharshi.196	Are they all gonna have our company logo on them ? 	
+ES2010c.A.dialog-act.dharshi.197	Every cover ? 	
+ES2010c.B.dialog-act.dharshi.157	Yeah , I don't think we should do that , because that would just be icky . 	
+ES2010c.A.dialog-act.dharshi.198	Yeah . 	
+ES2010c.B.dialog-act.dharshi.158	So I think maybe putting it on a button is probably a good idea . 	
+ES2010c.A.dialog-act.dharshi.199	If we want it to be visible and 	
+ES2010c.A.dialog-act.dharshi.200	Um are all those those one that you showed where they were um s met silver-metallic looking ? 	
+ES2010c.C.dialog-act.dharshi.161	Yeah . 	
+ES2010c.A.dialog-act.dharshi.201	But those are plastic , right ? 	
+ES2010c.C.dialog-act.dharshi.162	Yeah . 	
+ES2010c.A.dialog-act.dharshi.202	They're not titanium . 	
+ES2010c.A.dialog-act.dharshi.203	I kind of like that look . 	
+ES2010c.A.dialog-act.dharshi.204	Uh but , or if it was really 	
+ES2010c.B.dialog-act.dharshi.159	For our base one ? 	
+ES2010c.A.dialog-act.dharshi.205	Yeah , for the base 	
+ES2010c.A.dialog-act.dharshi.206	or if we're going for the retro look , I think , like a really shiny black would be cool . 	
+ES2010c.D.dialog-act.dharshi.169	Yeah , 	
+ES2010c.A.dialog-act.dharshi.207	What are your thoughts ? 	
+ES2010c.D.dialog-act.dharshi.170	or like a gun-metal grey , 	
+ES2010c.A.dialog-act.dharshi.208	Gun-metal gray . 	
+ES2010c.D.dialog-act.dharshi.171	'cause then it combines the silver and the black . 	
+ES2010c.A.dialog-act.dharshi.209	There you go , gun-metal gray . 	
+ES2010c.C.dialog-act.dharshi.163		
+ES2010c.C.dialog-act.dharshi.164	I'm just really wary of the putting anything on a button . 	
+ES2010c.A.dialog-act.dharshi.210	Why ? 	
+ES2010c.B.dialog-act.dharshi.160	It'll wear off . 	
+ES2010c.C.dialog-act.dharshi.165	What's the button 	
+ES2010c.D.dialog-act.dharshi.172	Yeah , buttons wear off . 	
+ES2010c.C.dialog-act.dharshi.166	Well , w w then what's the button do , 	
+ES2010c.A.dialog-act.dharshi.211	Mm . 	
+ES2010c.C.dialog-act.dharshi.167	and how do you know that that is what the button does ? 	
+ES2010c.C.dialog-act.dharshi.168	I guess . Just looking at examples , y you just don't ever see the logo on a button , it's always on the actual casing . 	
+ES2010c.A.dialog-act.dharshi.212	Right . 	
+ES2010c.D.dialog-act.dharshi.173	Hmm . 	
+ES2010c.B.dialog-act.dharshi.161	There's nothing saying that we have to put the logo on the front of the actual 	
+ES2010c.C.dialog-act.dharshi.169		
+ES2010c.D.dialog-act.dharshi.174	But we want it to be seen . 	
+ES2010c.A.dialog-act.dharshi.214	On the back ? 	
+ES2010c.C.dialog-act.dharshi.172	But you don't 	
+ES2010c.A.dialog-act.dharshi.215	It d visible 	
+ES2010c.C.dialog-act.dharshi.173	But uh , yeah , you don't see it . 	
+ES2010c.D.dialog-act.dharshi.175	We need it to be seen . 	
+ES2010c.A.dialog-act.dharshi.216	Visibility though 	
+ES2010c.A.dialog-act.dharshi.217	'Cause if it was only on the back really the only time you're gonna see it is when you drop it or when you're changing the battery . 	
+ES2010c.C.dialog-act.dharshi.171	Well , hang on . 	
+ES2010c.C.dialog-act.dharshi.175	The other option is , I don't know if you can see it but it's like if 	
+ES2010c.A.dialog-act.dharshi.213	I can find it again . 	
+ES2010c.C.dialog-act.dharshi.176	Yeah , 	
+ES2010c.C.dialog-act.dharshi.177	it's like the second to last slide . 	
+ES2010c.A.dialog-act.dharshi.219	Okay . 	
+ES2010c.A.dialog-act.dharshi.218	And yours was called Interface Concept ? 	
+ES2010c.C.dialog-act.dharshi.174	Interface , yeah . 	
+ES2010c.A.dialog-act.dharshi.220	This one ? 	
+ES2010c.C.dialog-act.dharshi.178	Yeah . Um . 	
+ES2010c.A.dialog-act.dharshi.221	Well , for some reason I can't get it to just go to that slide directly . 	
+ES2010c.C.dialog-act.dharshi.170		
+ES2010c.C.dialog-act.dharshi.179	Okay , it's the very right one . 	
+ES2010c.C.dialog-act.dharshi.180	You see at the bottom , 	
+ES2010c.C.dialog-act.dharshi.181	it's kind of difficult to see , but you have like a d sort of s division between the bottom like , where the logo is , 	
+ES2010c.C.dialog-act.dharshi.182	and if we have the replaceable section , it's like the top . 	
+ES2010c.C.dialog-act.dharshi.183	It doesn't necessarily replace the entire top . 	
+ES2010c.A.dialog-act.dharshi.222	Mm 	
+ES2010c.C.dialog-act.dharshi.184	And so you have that one piece that stays and the rest just sort of clips in . 	
+ES2010c.A.dialog-act.dharshi.223	Okay , yes 	
+ES2010c.C.dialog-act.dharshi.185	If c you envisioning it ? 	
+ES2010c.C.dialog-act.dharshi.186	And so that stays the same when you have the logo , 	
+ES2010c.A.dialog-act.dharshi.224	yes . 	
+ES2010c.C.dialog-act.dharshi.187	and then you have this s slip that kinda clips in and that's the bit that changes . 	
+ES2010c.A.dialog-act.dharshi.225	Okay . 	
+ES2010c.B.dialog-act.dharshi.162	The only problem is we're using a latex overlay so it actually would go over top of everything and have holes for the buttons , 	
+ES2010c.C.dialog-act.dharshi.188	Hmm . 	
+ES2010c.B.dialog-act.dharshi.163	so I was thinking maybe instead of doing that what we could do is leave a space for where the logo should be . 	
+ES2010c.C.dialog-act.dharshi.189	Yeah . Yeah , yeah . 	
+ES2010c.A.dialog-act.dharshi.228	Like a little cut-out kind of 	
+ES2010c.B.dialog-act.dharshi.164	Yeah . 	
+ES2010c.C.dialog-act.dharshi.190	Right . 	
+ES2010c.C.dialog-act.dharshi.191	That's like , you know , a a cellphone it's like the the screen is always just left opened . 	
+ES2010c.A.dialog-act.dharshi.229	Okay . 	
+ES2010c.D.dialog-act.dharshi.176	Right . 	
+ES2010c.C.dialog-act.dharshi.192	And so , what we are gonna do it like bright yellow with the R_R_ ? 	
+ES2010c.D.dialog-act.dharshi.177	Yeah . 	
+ES2010c.D.dialog-act.dharshi.178	Some of tho 	
+ES2010c.A.dialog-act.dharshi.230	Anybody see anything that they liked in these ones ? 	
+ES2010c.D.dialog-act.dharshi.179	Well , some of those buttons though are blue-based . 	
+ES2010c.D.dialog-act.dharshi.180	Um well , a lot of those buttons are blue-based . 	
+ES2010c.A.dialog-act.dharshi.226	Mm . 	
+ES2010c.D.dialog-act.dharshi.181	Well , kind of . 	
+ES2010c.A.dialog-act.dharshi.227	Mm . 	
+ES2010c.D.dialog-act.dharshi.182	Um and then if v we do have them illuminate upon contact , they could illuminate yellow . 	
+ES2010c.C.dialog-act.dharshi.193	Yellow . 	
+ES2010c.A.dialog-act.dharshi.231	Yellow , I like that idea . 	
+ES2010c.C.dialog-act.dharshi.194	Yeah . 	
+ES2010c.D.dialog-act.dharshi.183	Like if we 	
+ES2010c.D.dialog-act.dharshi.184	like the one all the way on the left , 	
+ES2010c.D.dialog-act.dharshi.185	uh you ca you can see it on your computer better . 	
+ES2010c.A.dialog-act.dharshi.232	Mm . 	
+ES2010c.D.dialog-act.dharshi.186	Um where the button is actually blue , but the number itself is clear or white or whatever so if you pressed it would illuminate yellow . 	
+ES2010c.A.dialog-act.dharshi.233	Mm . 	
+ES2010c.D.dialog-act.dharshi.187	So we'd have blue and yellow for the touch buttons . 	
+ES2010c.C.dialog-act.dharshi.195	Oh , that one . 	
+ES2010c.A.dialog-act.dharshi.234	I like the yellow illumination idea , very good . 	
+ES2010c.D.dialog-act.dharshi.188	Yeah . 	
+ES2010c.A.dialog-act.dharshi.235	Okay . 	
+ES2010c.A.dialog-act.dharshi.236	Any other ideas or thoughts ? 	
+ES2010c.A.dialog-act.dharshi.237	We all seem to be fairly in agreement about what we wanna do with this project so 	
+ES2010c.C.dialog-act.dharshi.196	Um . Ha hang on 	
+ES2010c.C.dialog-act.dharshi.197	Let me catch up . 	
+ES2010c.D.dialog-act.dharshi.189	Mm yeah . 	
+ES2010c.A.dialog-act.dharshi.238	'Kay . 	
+ES2010c.C.dialog-act.dharshi.198	Did we finalise what buttons we're including 	
+ES2010c.C.dialog-act.dharshi.199	or we just everything that we said before ? 	
+ES2010c.A.dialog-act.dharshi.239	I think there will be time for that later . 	
+ES2010c.A.dialog-act.dharshi.240	I'm guessing . 	
+ES2010c.A.dialog-act.dharshi.241	'Kay , well we're gonna wrap this up . 	
+ES2010c.A.dialog-act.dharshi.242	Um next meeting is gonna start in thirty minutes , 	
+ES2010c.A.dialog-act.dharshi.243	and here's what we're each of us going to do . 	
+ES2010c.A.dialog-act.dharshi.244	The I_D_ is going to do the look and feel design , 	
+ES2010c.A.dialog-act.dharshi.245	the U_I_D_ the user interface design . 	
+ES2010c.A.dialog-act.dharshi.246	I think you're going to get a lot of , I mean , the final say on what buttons get put 	
+ES2010c.A.dialog-act.dharshi.247	We'll all talk about it , 	
+ES2010c.A.dialog-act.dharshi.248	but I think , that's pretty much what you're gonna do , 	
+ES2010c.A.dialog-act.dharshi.249	right ? 	
+ES2010c.C.dialog-act.dharshi.200	Yeah . 	
+ES2010c.A.dialog-act.dharshi.250	I guess . 	
+ES2010c.A.dialog-act.dharshi.251	'Kay . And you're gonna do some product evaluation . 	
+ES2010c.A.dialog-act.dharshi.252	Okay , and right now , the I_D_ and U_I_D_ , you two are going to work together on a prototype using modelling clay . 	
+ES2010c.B.dialog-act.dharshi.165	Great . Play Doh . 	
+ES2010c.A.dialog-act.dharshi.253	Yeah . 	
+ES2010c.C.dialog-act.dharshi.201	Fun . 	
+ES2010c.A.dialog-act.dharshi.254	Okay , and you should all be getting an email pretty soon . 	
+ES2010c.A.dialog-act.dharshi.255	Alright . 	
+ES2010c.A.dialog-act.dharshi.256	Well , thank you for a very productive meeting . 	
+ES2010c.B.dialog-act.dharshi.167	Wonderful 	
+ES2010c.B.dialog-act.dharshi.166	Ooh . 	
+

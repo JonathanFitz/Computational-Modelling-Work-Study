@@ -1,0 +1,709 @@
+Observation: IS1005b; Result size: 706; atts: 2
+$d@nite:id	$d	
+IS1005b.A.dialog-act.dharshi.1		
+IS1005b.A.dialog-act.dharshi.2	So um nice to see you again . 	
+IS1005b.A.dialog-act.dharshi.3	Uh . So , uh . 	
+IS1005b.A.dialog-act.dharshi.4	Tod uh for this meeting I will take the notes and do the minutes . 	
+IS1005b.A.dialog-act.dharshi.5	Uh so we will see our three presentations . 	
+IS1005b.A.dialog-act.dharshi.7	Um we will start with the uh Manager Expert wi who will talk about uh user re requirements , whats user needs and what it desire for this devi device . 	
+IS1005b.D.dialog-act.dharshi.1	Okay , 	
+IS1005b.D.dialog-act.dharshi.2	can I have the laptop over here , or ? 	
+IS1005b.A.dialog-act.dharshi.9	Yep . 	
+IS1005b.A.dialog-act.dharshi.10	Oh , I don't think so . 	
+IS1005b.A.dialog-act.dharshi.11	I think you have to come here . 	
+IS1005b.D.dialog-act.dharshi.6	Okay 	
+IS1005b.D.dialog-act.dharshi.3	. Have to get up . 	
+IS1005b.A.dialog-act.dharshi.12	I dunno . 	
+IS1005b.A.dialog-act.dharshi.13	I think it should stay . 	
+IS1005b.D.dialog-act.dharshi.7	Excuse me . 	
+IS1005b.B.dialog-act.dharshi.1	Yeah , that's it . 	
+IS1005b.A.dialog-act.dharshi.14		
+IS1005b.D.dialog-act.dharshi.8	Okay . 	
+IS1005b.A.dialog-act.dharshi.15	Should stay in the square here . 	
+IS1005b.D.dialog-act.dharshi.9	Okay . 	
+IS1005b.A.dialog-act.dharshi.16	Oh , maybe . 	
+IS1005b.D.dialog-act.dharshi.10	Okay , so basically I'm gonna present some findings of a study we conducted uh into uh what users want in this remote control . 	
+IS1005b.A.dialog-act.dharshi.17	Oh , you can put it here . 	
+IS1005b.A.dialog-act.dharshi.18	Oh that's okay , it's jus 	
+IS1005b.D.dialog-act.dharshi.11	Um so first of all we what we did is we um conducted a an experiment with a hundred test subjects . 	
+IS1005b.D.dialog-act.dharshi.12	Um we put them in a in our um usability laboratory and got them to , you know , um play with remote controls , 	
+IS1005b.D.dialog-act.dharshi.13	and also to complete , after they'd done that , to complete a questionnaire uh to tell us what they like and what they don't like in remote controls . 	
+IS1005b.D.dialog-act.dharshi.14		
+IS1005b.D.dialog-act.dharshi.15	So basically um the major things we found out was that um basically users don't like the look and feel of of most remote controls that are currently on the market . 	
+IS1005b.D.dialog-act.dharshi.16	Um they , you know , 	
+IS1005b.D.dialog-act.dharshi.17	seventy five percent of the people we we uh did the experiments on , found that rem remote the remote controls that they'd used in the past were ugly . 	
+IS1005b.D.dialog-act.dharshi.18	Completely ugly . 	
+IS1005b.D.dialog-act.dharshi.19	Um they they didn't match the operating behaviour of the user , 	
+IS1005b.D.dialog-act.dharshi.20	that is , you know , the the way users use remote controls when they're watching T_V_ . 	
+IS1005b.D.dialog-act.dharshi.21	Um , that the layout of the remote controls didn't match they way that they used it . 	
+IS1005b.D.dialog-act.dharshi.22	Um and thirdly they say that w half of the users that we um tested said that they only used ten percent of the buttons that uh are on remote controls . 	
+IS1005b.D.dialog-act.dharshi.23	Um so we collect 	
+IS1005b.D.dialog-act.dharshi.24	we also some collected some usage statistics uh based on how these test subjects were using their remote control . 	
+IS1005b.D.dialog-act.dharshi.25	And from this we basically came up with the figure that the channel buttons , the channel selection buttons are the most by far the most used buttons on the remote control . 	
+IS1005b.D.dialog-act.dharshi.26	Um and you can see they're used a hundred and sixty eight times per hour on average , um , while the user's watching T_V_ . 	
+IS1005b.B.dialog-act.dharshi.2		
+IS1005b.A.dialog-act.dharshi.19		
+IS1005b.D.dialog-act.dharshi.27	Um the closest button that was used , 	
+IS1005b.D.dialog-act.dharshi.28	well the cl the button that was used that was closest to the channel button was the teletext button , 	
+IS1005b.D.dialog-act.dharshi.29	um which was used fourteen times per hour , 	
+IS1005b.D.dialog-act.dharshi.30	followed by the volume button , which was four times per hour , um , 	
+IS1005b.D.dialog-act.dharshi.31	all the other , all the other um buttons , such as ch um audio and picture selection um configuration buttons and things were used , you know , l approx well less than or equal to one times per hour . 	
+IS1005b.D.dialog-act.dharshi.33	Um we also asked users um which buttons had the most importance to them , 	
+IS1005b.D.dialog-act.dharshi.34	you know , which which buttons they felt were the most important buttons on on the remote control . 	
+IS1005b.D.dialog-act.dharshi.35	And basically they came they said the channel , volume , and power buttons had the highest relevance to users , 	
+IS1005b.D.dialog-act.dharshi.36	um note that only power was very infrequently used , it only had a b a a fr usage frequency of about one times per hour , but users ranked it as having a very very high relevance . 	
+IS1005b.D.dialog-act.dharshi.37	Um and the audio and picture settings had a very 	
+IS1005b.D.dialog-act.dharshi.38	that well the users thought that um w the audio and picture settings were very uh weren't very important to them um , 	
+IS1005b.D.dialog-act.dharshi.39	and they used them very infrequently a as well . 	
+IS1005b.D.dialog-act.dharshi.40	So we asked users what what um frustrates them the most about um current remote controls . 	
+IS1005b.D.dialog-act.dharshi.41	And fifty percent of the users said that uh what frustrates them is losing the remote control um somewhere in the room and not being able to find it . 	
+IS1005b.D.dialog-act.dharshi.42	Um they also said that it um it takes a lot of time to learn a new remote control , 	
+IS1005b.D.dialog-act.dharshi.43	especially when there's many buttons and it's a , you know , a c a a unintuitive interface . 	
+IS1005b.D.dialog-act.dharshi.44	Um and then thirdly , they some users commented on the fact that the the you know the way that you have to hold and press buttons on a remote control ar are bad and um cause u repetitive strain injury . 	
+IS1005b.D.dialog-act.dharshi.45	We also asked some users about some specific features that they'd like to see in the on the remote control . 	
+IS1005b.D.dialog-act.dharshi.46	In particular , do they want an L_C_D_ d display , 	
+IS1005b.D.dialog-act.dharshi.47	and secondly , do they think speech recognition uh is a useful feature to have on a remote control . 	
+IS1005b.A.dialog-act.dharshi.20		
+IS1005b.D.dialog-act.dharshi.48	Um basically our findings are that um amongst a younger age groups uh the answer is umv overwhelmingly yes . 	
+IS1005b.D.dialog-act.dharshi.49	They want these features , 	
+IS1005b.D.dialog-act.dharshi.50	they want these high technology features . 	
+IS1005b.B.dialog-act.dharshi.3		
+IS1005b.D.dialog-act.dharshi.51	Um for instance , ninety one percent of pe of people aged between fifteen and twenty five said yes , they want these features . 	
+IS1005b.D.dialog-act.dharshi.52	Whereas um the the trend was as users as users um became older and older uh they were less likely to want these sort of features in a um in a remote control . 	
+IS1005b.D.dialog-act.dharshi.53	So I guess it depends on where we're focusing our our market . 	
+IS1005b.D.dialog-act.dharshi.54	Um and as our company motto is putting fashion in electronics , um I think we're focusing on the younger younger um target demographic , 	
+IS1005b.D.dialog-act.dharshi.55	and so maybe we should think about adding these sort of high technology features into our remote control . 	
+IS1005b.A.dialog-act.dharshi.21	Hmm . 	
+IS1005b.D.dialog-act.dharshi.56	That's my dic that's my presentation . 	
+IS1005b.D.dialog-act.dharshi.57	Thank you . 	
+IS1005b.A.dialog-act.dharshi.22	Thank you . 	
+IS1005b.B.dialog-act.dharshi.4		
+IS1005b.C.dialog-act.dharshi.1	Okay . 	
+IS1005b.A.dialog-act.dharshi.23	So , um 	
+IS1005b.A.dialog-act.dharshi.24	maybe now we can talk about a user interface and uh about the technical function of this device . 	
+IS1005b.A.dialog-act.dharshi.25	So uh Pet Peter , can you talk say something about that ? 	
+IS1005b.B.dialog-act.dharshi.6	Well , okay , yeah . 	
+IS1005b.B.dialog-act.dharshi.7	Yeah , but the user user interface is responsible . 	
+IS1005b.A.dialog-act.dharshi.26	No . 	
+IS1005b.C.dialog-act.dharshi.2	B you think uh 	
+IS1005b.C.dialog-act.dharshi.3	I I'm User Interface Manager . 	
+IS1005b.A.dialog-act.dharshi.27	Ah . 	
+IS1005b.D.dialog-act.dharshi.58		
+IS1005b.B.dialog-act.dharshi.8	Okay , so . 	
+IS1005b.A.dialog-act.dharshi.28	Sorry , I'm Sorry . Sorry . 	
+IS1005b.C.dialog-act.dharshi.4	Okay . Okay . 	
+IS1005b.A.dialog-act.dharshi.29		
+IS1005b.C.dialog-act.dharshi.5	If I could go there with this cable . 	
+IS1005b.B.dialog-act.dharshi.9	You're scaring me with L_C_D_ man . 	
+IS1005b.B.dialog-act.dharshi.10	And speech recognition in remote unit , it will be very e expensive . 	
+IS1005b.D.dialog-act.dharshi.59	Yeah , it's true , 	
+IS1005b.D.dialog-act.dharshi.60	but , you know , they're features that users want , 	
+IS1005b.B.dialog-act.dharshi.11		
+IS1005b.D.dialog-act.dharshi.61	so it's 	
+IS1005b.B.dialog-act.dharshi.12	Yeah . 	
+IS1005b.D.dialog-act.dharshi.62	And our production cost of twelve fifty Euros per per unit is fairly high I think , 	
+IS1005b.C.dialog-act.dharshi.6		
+IS1005b.D.dialog-act.dharshi.63	so I think we can afford to to add these sort of features into our remote . 	
+IS1005b.B.dialog-act.dharshi.13	Yeah . 	
+IS1005b.B.dialog-act.dharshi.14	At least we have couple of months t to work on it so so it will be cheaper finally . 	
+IS1005b.C.dialog-act.dharshi.7		
+IS1005b.C.dialog-act.dharshi.8	Sh okay . 	
+IS1005b.D.dialog-act.dharshi.64	It is true . 	
+IS1005b.C.dialog-act.dharshi.9	Where's delete button ? 	
+IS1005b.C.dialog-act.dharshi.10	Okay . 	
+IS1005b.C.dialog-act.dharshi.11	Oh I'm sorry . 	
+IS1005b.B.dialog-act.dharshi.15		
+IS1005b.C.dialog-act.dharshi.12		
+IS1005b.A.dialog-act.dharshi.30		
+IS1005b.C.dialog-act.dharshi.13	Okay . 	
+IS1005b.D.dialog-act.dharshi.65	That's the wrong one , I think . 	
+IS1005b.A.dialog-act.dharshi.31	Yeah , 	
+IS1005b.A.dialog-act.dharshi.32	it's still Bob Morris . 	
+IS1005b.C.dialog-act.dharshi.14	Oh . 	
+IS1005b.C.dialog-act.dharshi.15	Presentation three ? 	
+IS1005b.B.dialog-act.dharshi.16	Because you cancelled it . 	
+IS1005b.A.dialog-act.dharshi.33	Yeah you should have put yes . 	
+IS1005b.B.dialog-act.dharshi.17	Yeah . 	
+IS1005b.C.dialog-act.dharshi.16	Oh . 	
+IS1005b.A.dialog-act.dharshi.34	Click on yes . 	
+IS1005b.A.dialog-act.dharshi.35	yeah . 	
+IS1005b.B.dialog-act.dharshi.18	Yep . 	
+IS1005b.C.dialog-act.dharshi.17	Okay , so here is my presentation about technical function design . 	
+IS1005b.C.dialog-act.dharshi.18	I will talk about different components and s of system and how they react together . 	
+IS1005b.C.dialog-act.dharshi.20	Okay , uh , first what is a remote control ? Simply it's a device , as you know , for uh , for sending some commands by some waves to uh another device to to tell different commands uh with this device . 	
+IS1005b.C.dialog-act.dharshi.21	And the main idea we don't use any cable and we can rec react simpler with the device . 	
+IS1005b.C.dialog-act.dharshi.22	Uh i it has different blocks , different blocks . 	
+IS1005b.C.dialog-act.dharshi.23	Uh first is remote control have sh ha should have some electric circuits uh making interface with uh keyboard and uh r reading uh keyboard and reading the keyboard uh commands . 	
+IS1005b.C.dialog-act.dharshi.24	And then inter then make uh these keyboard commands , 	
+IS1005b.C.dialog-act.dharshi.25	uh in interpret these int uh keyboard commands . 	
+IS1005b.C.dialog-act.dharshi.26	And then there should be uh an electronic circuit making uh electronic signals according to these commands 	
+IS1005b.C.dialog-act.dharshi.27	and uh finally there is a transmitter which is a cord or a a diode making uh making uh waves to transmit through the air 	
+IS1005b.C.dialog-act.dharshi.28	and uh uh this air this uh wave uh will be received by the by the other device like a television or whatever , to uh r to realise the command . 	
+IS1005b.C.dialog-act.dharshi.29	Okay , uh about what I found about uh different uh these different blocks are uh , usually there are two different methods uh to for designing a remote control . 	
+IS1005b.C.dialog-act.dharshi.30	They are based on infra-red uh waves or uh uh radio waves . 	
+IS1005b.B.dialog-act.dharshi.19	You still want me the presentation . 	
+IS1005b.C.dialog-act.dharshi.31	There are two different uh uh solutions I mean . 	
+IS1005b.C.dialog-act.dharshi.32	This is uh this can be uh uh the the differences the th between different kind of waves , infra-red or radio waves . 	
+IS1005b.C.dialog-act.dharshi.33	And uh also as uh I understood , and uh I think it was a part of uh Bob , uh uh presentation , people prefer to have uh to have uh the remote control with less button . 	
+IS1005b.C.dialog-act.dharshi.34	So for the electronic part , working and interfacing , with button , we should we should try to t try to design a remote control having uh some some simpler buttons 	
+IS1005b.C.dialog-act.dharshi.35	or some rolling buttons to just to just to search between different options , 	
+IS1005b.C.dialog-act.dharshi.36	and showing o something on T_V_ and putting less lesser stuff on the uh on the remote control . 	
+IS1005b.C.dialog-act.dharshi.40	And uh personal preferences , 	
+IS1005b.C.dialog-act.dharshi.41	uh uh uh uh certainly a remote control with uh working with radio waves is uh preferred because uh you can pr you can take it in any direction and you don't need to tune it any way . 	
+IS1005b.C.dialog-act.dharshi.38	And uh uh again , using bigger buttons and less number of buttons are also preferred , as I see . 	
+IS1005b.C.dialog-act.dharshi.39	Okay . That was my presentation . 	
+IS1005b.D.dialog-act.dharshi.66	Okay . 	
+IS1005b.D.dialog-act.dharshi.67	I have a question . 	
+IS1005b.C.dialog-act.dharshi.42	Uh-huh . 	
+IS1005b.D.dialog-act.dharshi.68	Do you think radio waves um will interfere with other appliances in the home ? 	
+IS1005b.C.dialog-act.dharshi.43	Uh , I don't think so , 	
+IS1005b.C.dialog-act.dharshi.44	because uh we can make uh we ca we can make this wave in a specific frequency . 	
+IS1005b.C.dialog-act.dharshi.45	So they can be in a range which is not inter interfering with the with other devices inside the home . 	
+IS1005b.D.dialog-act.dharshi.69	Okay . 	
+IS1005b.A.dialog-act.dharshi.36	So can we use any any frequency ? 	
+IS1005b.B.dialog-act.dharshi.20	Yeah , it should be okay . 	
+IS1005b.A.dialog-act.dharshi.37	We have the right to use any frequency ? 	
+IS1005b.C.dialog-act.dharshi.46	Uh no 	
+IS1005b.C.dialog-act.dharshi.47	but as I know , there is a range for uh for this uh f for for uh for this stuff , for designing this circuit . 	
+IS1005b.C.dialog-act.dharshi.48	We can we can we can tune our uh transmitter to work in this range , 	
+IS1005b.C.dialog-act.dharshi.49	and for this range we don't need to ask any permission . 	
+IS1005b.A.dialog-act.dharshi.38	Okay . 	
+IS1005b.A.dialog-act.dharshi.39	And what happen with uh radio waves when two neighbours have the same have our remote control , for example ? 	
+IS1005b.A.dialog-act.dharshi.40	And so do they have the same frequency , or ? 	
+IS1005b.C.dialog-act.dharshi.50	Uh for this I'm not uh I I don't know the solution , 	
+IS1005b.C.dialog-act.dharshi.51	but one solution can be something like putting uh p password or something inside the wave , so the only your T_V_ can understand it 	
+IS1005b.A.dialog-act.dharshi.41	Okay . A kind of identification , 	
+IS1005b.C.dialog-act.dharshi.53	Yeah , identification code inside the 	
+IS1005b.B.dialog-act.dharshi.21	Yeah f uh I know about this , since it's my it's exactly my field , so . 	
+IS1005b.A.dialog-act.dharshi.42	okay . 	
+IS1005b.A.dialog-act.dharshi.45	So 	
+IS1005b.B.dialog-act.dharshi.22	It's uh kind of handshaking , uh , 	
+IS1005b.B.dialog-act.dharshi.23	when starting to uh when you start to communicate with the your T_V_ then then it's like an handshaking protocol with your your remote . 	
+IS1005b.A.dialog-act.dharshi.44	Yeah . 	
+IS1005b.A.dialog-act.dharshi.46	So 	
+IS1005b.B.dialog-act.dharshi.24	So so if two two devices are trying to go to communicate with the T_V_ set then the the the one which has the more energy in the wave is chosen . 	
+IS1005b.B.dialog-act.dharshi.25	Well it can be a problem sometimes , but most of the time it works okay . 	
+IS1005b.A.dialog-act.dharshi.43	Okay . 	
+IS1005b.C.dialog-act.dharshi.54	The password may simply uh or uh i identification code may simply solve this problem . 	
+IS1005b.C.dialog-act.dharshi.55	A specific uh remote control has a specific f 	
+IS1005b.B.dialog-act.dharshi.26		
+IS1005b.B.dialog-act.dharshi.27	Yeah but we we don't have to think uh about this 	
+IS1005b.B.dialog-act.dharshi.28	because I think as a function designer that we will use the already made uh circuits which we probably bu buy . 	
+IS1005b.B.dialog-act.dharshi.29	It's worth to buy . 	
+IS1005b.A.dialog-act.dharshi.47	Hmm . 	
+IS1005b.B.dialog-act.dharshi.30	And they have these problems solved so . 	
+IS1005b.D.dialog-act.dharshi.70	Okay . 	
+IS1005b.B.dialog-act.dharshi.31	So we don't have to think about these . 	
+IS1005b.C.dialog-act.dharshi.56	Mm . 	
+IS1005b.C.dialog-act.dharshi.57	Mm-hmm . 	
+IS1005b.A.dialog-act.dharshi.48	Okay . 	
+IS1005b.D.dialog-act.dharshi.71	Okay . 	
+IS1005b.A.dialog-act.dharshi.49	So , maybe you can talk about the function , and 	
+IS1005b.B.dialog-act.dharshi.32	Yes . 	
+IS1005b.B.dialog-act.dharshi.34	I have only a couple of things because I had I struggled a bit with the software that I'm supposed to use in this uh uh in this company . 	
+IS1005b.B.dialog-act.dharshi.37	I was used to use Linux before , so . 	
+IS1005b.B.dialog-act.dharshi.38	But I tried to tried to break through this too , I guess . 	
+IS1005b.B.dialog-act.dharshi.39	Mm . Ah . 	
+IS1005b.A.dialog-act.dharshi.50	Open . 	
+IS1005b.C.dialog-act.dharshi.58		
+IS1005b.B.dialog-act.dharshi.40	Okay . 	
+IS1005b.B.dialog-act.dharshi.41	How to make it big ? 	
+IS1005b.A.dialog-act.dharshi.51	Slide show . 	
+IS1005b.C.dialog-act.dharshi.59	Five . 	
+IS1005b.B.dialog-act.dharshi.42	Slide show . Okay , 	
+IS1005b.B.dialog-act.dharshi.43	thanks . 	
+IS1005b.A.dialog-act.dharshi.52	It should work , 	
+IS1005b.A.dialog-act.dharshi.53	so you can . 	
+IS1005b.B.dialog-act.dharshi.44	Okay . 	
+IS1005b.B.dialog-act.dharshi.45	Oh so I will speak about working design . 	
+IS1005b.B.dialog-act.dharshi.46	That's the first slide . 	
+IS1005b.B.dialog-act.dharshi.47	Uh what uh I have to do ? 	
+IS1005b.B.dialog-act.dharshi.48	A look at what the other company 	
+IS1005b.B.dialog-act.dharshi.49	Okay so uh presently I am looking what is possible to use , 	
+IS1005b.B.dialog-act.dharshi.50	what circuits to use and stuff like that 	
+IS1005b.B.dialog-act.dharshi.51	because uh I didn't work uh with these uh circuits so far 	
+IS1005b.B.dialog-act.dharshi.52	so I have to look what what is a v a v available on the market for for the communication for the I_R_ circuits and so on , 	
+IS1005b.B.dialog-act.dharshi.53	so I'm currently looking what is available on the web . 	
+IS1005b.B.dialog-act.dharshi.54	And uh I wanted to ask you m maybe afterwards , after after our discussion , if we have some contacts in some companies , so , which can report on what is going on there , 	
+IS1005b.B.dialog-act.dharshi.55	so , I would be glad if you can tell me about them . 	
+IS1005b.A.dialog-act.dharshi.54	Mm . 	
+IS1005b.A.dialog-act.dharshi.55	Yeah . 	
+IS1005b.B.dialog-act.dharshi.56	So , you know . 	
+IS1005b.B.dialog-act.dharshi.57	Uh , okay findings , that's the point that I'm working on currently 	
+IS1005b.B.dialog-act.dharshi.58	but uh so far I I was uh looking what what are the blue circuit , I mean radio wave radio frequency circuits are available now , 	
+IS1005b.D.dialog-act.dharshi.72	Mm-hmm . 	
+IS1005b.B.dialog-act.dharshi.59	but the prices I read are high . 	
+IS1005b.B.dialog-act.dharshi.60	So , I know that uh the user interface people and these speak about radio frequency waves 	
+IS1005b.B.dialog-act.dharshi.61	because you can you can uh you can make the T_V_ do what you want even if you are in the bathroom or so on , 	
+IS1005b.C.dialog-act.dharshi.60	Mm-hmm . 	
+IS1005b.A.dialog-act.dharshi.56	Hmm . 	
+IS1005b.B.dialog-act.dharshi.62	but you know , when you are not close to the T_V_ you probably won't need to to change the program and so on 	
+IS1005b.B.dialog-act.dharshi.63	and so I am I am voting for s to stick to the um infra-red control instead of R_W_ 	
+IS1005b.B.dialog-act.dharshi.64	but we will discuss it later maybe . 	
+IS1005b.B.dialog-act.dharshi.65	Uh . Components to use , 	
+IS1005b.B.dialog-act.dharshi.66	I'm not exactly sure what I will use for the design of the circuit . 	
+IS1005b.B.dialog-act.dharshi.67	It depends uh on whether we will use the L_C_D_ and mainly the speech recognition , 	
+IS1005b.C.dialog-act.dharshi.61		
+IS1005b.B.dialog-act.dharshi.68	because the speech rec 	
+IS1005b.B.dialog-act.dharshi.69	Yeah ? 	
+IS1005b.D.dialog-act.dharshi.73	Are we um are we planning to take an off the shelf an O_E_M_ component for the radio wave circuit , or are we planning to construct our own circuit board ? 	
+IS1005b.B.dialog-act.dharshi.70	No no no no no . 	
+IS1005b.B.dialog-act.dharshi.71	This we this we buy I think , because it's rather cheap nowadays 	
+IS1005b.B.dialog-act.dharshi.72	and it's not worth to construct ourselves . 	
+IS1005b.D.dialog-act.dharshi.74	Okay s 	
+IS1005b.D.dialog-act.dharshi.75	So we just buy a circuit board and 	
+IS1005b.B.dialog-act.dharshi.73	Exactly . 	
+IS1005b.D.dialog-act.dharshi.76	Okay . 	
+IS1005b.B.dialog-act.dharshi.74	But I'm not sure about the circuit which is responsible for speech recognition . 	
+IS1005b.B.dialog-act.dharshi.75	This I prefer that we should make ourselves . 	
+IS1005b.D.dialog-act.dharshi.77	Okay . 	
+IS1005b.B.dialog-act.dharshi.76	But it depends whether we take a decision to use it . 	
+IS1005b.B.dialog-act.dharshi.77	Same thing . 	
+IS1005b.B.dialog-act.dharshi.78	It's fairly expensive to use these circuits . 	
+IS1005b.B.dialog-act.dharshi.79	So , speech recognition 	
+IS1005b.B.dialog-act.dharshi.80	well , L_C_D_ it's okay because it's common nowadays to use L_C_D_ , 	
+IS1005b.A.dialog-act.dharshi.57		
+IS1005b.B.dialog-act.dharshi.81	so I agree on using any kind of L_C_D_ , 	
+IS1005b.B.dialog-act.dharshi.82	less buttons good for me as a as a designer of the circuit . 	
+IS1005b.A.dialog-act.dharshi.58	Yeah . 	
+IS1005b.B.dialog-act.dharshi.83	But the speech recognition we have to compare whether the price and the what does it offer , you know . 	
+IS1005b.C.dialog-act.dharshi.62	Mm . 	
+IS1005b.A.dialog-act.dharshi.59	Yeah . 	
+IS1005b.A.dialog-act.dharshi.60	So what do you think would be the price , it would be out of range ? 	
+IS1005b.B.dialog-act.dharshi.84	Yeah , I'm 	
+IS1005b.A.dialog-act.dharshi.61	Or it would be maybe feasible ? 	
+IS1005b.B.dialog-act.dharshi.85	Oh . 	
+IS1005b.B.dialog-act.dharshi.86	I was not thinking too much about the price . 	
+IS1005b.B.dialog-act.dharshi.87	But if we use the L_C_D_ uh even the radio frequency communication with the T_V_ set and the backlight and uh related things like the photo diodes and stuff , it should be okay . 	
+IS1005b.B.dialog-act.dharshi.88	If we decide to use the speech recognition , then we probably could struggle 	
+IS1005b.B.dialog-act.dharshi.89	but we'll see afterwards . 	
+IS1005b.A.dialog-act.dharshi.62	Okay . 	
+IS1005b.B.dialog-act.dharshi.90	It depends of you if if the M_E_ or U_I_D_ , 	
+IS1005b.B.dialog-act.dharshi.91	I'm sorry about the names , 	
+IS1005b.A.dialog-act.dharshi.63	Mm . 	
+IS1005b.B.dialog-act.dharshi.92	I don't really know , 	
+IS1005b.B.dialog-act.dharshi.93	uh want to have it like in metal or in plastic , these things , 	
+IS1005b.B.dialog-act.dharshi.94	it it depends on you not 	
+IS1005b.B.dialog-act.dharshi.95	Because the the the electronic device's price is not not so big in comparison to to the overall shape and stuff like that , so . 	
+IS1005b.D.dialog-act.dharshi.78	Okay . 	
+IS1005b.B.dialog-act.dharshi.96	We will discuss it afterwards . 	
+IS1005b.B.dialog-act.dharshi.97	Oh , this is nothing . 	
+IS1005b.B.dialog-act.dharshi.98	This is just my notes on what to use . 	
+IS1005b.B.dialog-act.dharshi.99	And uh my personal preference is yes , I would like also preferably to use R_W_ circuit , 	
+IS1005b.B.dialog-act.dharshi.100	but from the point of view uh of the design and price , I would stick to I_R_s . 	
+IS1005b.B.dialog-act.dharshi.101	That's my opinion . 	
+IS1005b.B.dialog-act.dharshi.102	Uh I mean if infra-red uh circuit not not the radio frequency . 	
+IS1005b.A.dialog-act.dharshi.64	Why ? 	
+IS1005b.A.dialog-act.dharshi.65	Because it's simpler ? 	
+IS1005b.B.dialog-act.dharshi.103	Because because the the range where you can use it is fair . 	
+IS1005b.A.dialog-act.dharshi.68	Yeah . 	
+IS1005b.A.dialog-act.dharshi.69	Mm . 	
+IS1005b.B.dialog-act.dharshi.104	It's okay I think . 	
+IS1005b.B.dialog-act.dharshi.105	And the price is fairly cheap for this . 	
+IS1005b.A.dialog-act.dharshi.66	Okay . It's a a price matter . 	
+IS1005b.B.dialog-act.dharshi.106	Well , depends . 	
+IS1005b.A.dialog-act.dharshi.70	Yeah . 	
+IS1005b.B.dialog-act.dharshi.107	Jus just the price . 	
+IS1005b.A.dialog-act.dharshi.71	Mm . 	
+IS1005b.B.dialog-act.dharshi.108	Otherwise I don't care what I put there because it's the chip which I buy or which we buy . 	
+IS1005b.A.dialog-act.dharshi.72	Okay . 	
+IS1005b.B.dialog-act.dharshi.109	So I I I think it's o y o . 	
+IS1005b.D.dialog-act.dharshi.79	What how much more expensive ? 	
+IS1005b.D.dialog-act.dharshi.80	Are we talking three times more expensive ? 	
+IS1005b.A.dialog-act.dharshi.73		
+IS1005b.D.dialog-act.dharshi.81	Or ten times more expensive ? 	
+IS1005b.B.dialog-act.dharshi.110	Well , three to three to five . 	
+IS1005b.D.dialog-act.dharshi.82	Or 	
+IS1005b.D.dialog-act.dharshi.83	Okay . 	
+IS1005b.B.dialog-act.dharshi.111	N not ten times , 	
+IS1005b.B.dialog-act.dharshi.112	but it depends what what we 	
+IS1005b.D.dialog-act.dharshi.84	Yeah 	
+IS1005b.D.dialog-act.dharshi.85	yeah . 	
+IS1005b.D.dialog-act.dharshi.86	That's still a lot . 	
+IS1005b.D.dialog-act.dharshi.87	I think it's it's probably not worth spending the extra money , 	
+IS1005b.A.dialog-act.dharshi.74	Hmm . 	
+IS1005b.D.dialog-act.dharshi.88	because I mean all the other remote controls on the market have infra-red , so people don't expect anything other than infra-red . 	
+IS1005b.A.dialog-act.dharshi.75	Yeah . 	
+IS1005b.B.dialog-act.dharshi.113		
+IS1005b.A.dialog-act.dharshi.76	Yeah . 	
+IS1005b.D.dialog-act.dharshi.89	So it's not worth spending the extra money . 	
+IS1005b.B.dialog-act.dharshi.114	Yeah . 	
+IS1005b.A.dialog-act.dharshi.77	Well I , oh 	
+IS1005b.B.dialog-act.dharshi.115	Th they are used to use it when they can see the T_V_ 	
+IS1005b.B.dialog-act.dharshi.116	so , I don't know . 	
+IS1005b.D.dialog-act.dharshi.90	Yeah . 	
+IS1005b.A.dialog-act.dharshi.78	On the other side , we want to have something new . 	
+IS1005b.A.dialog-act.dharshi.79	You know , 	
+IS1005b.D.dialog-act.dharshi.91	Yeah . 	
+IS1005b.A.dialog-act.dharshi.80	where 	
+IS1005b.A.dialog-act.dharshi.81	we want to to have something new 	
+IS1005b.A.dialog-act.dharshi.82	and So we I think we should still thinking about it . 	
+IS1005b.A.dialog-act.dharshi.83	But maybe . 	
+IS1005b.D.dialog-act.dharshi.92	But I think , based on my usability studies I th I feel that users are prioritise the look and the feel and the trendiness above , you know , the difference between infra-red or radio waves . 	
+IS1005b.A.dialog-act.dharshi.84	Okay . 	
+IS1005b.D.dialog-act.dharshi.93	So I think we're better off spending money in the usability phase . 	
+IS1005b.B.dialog-act.dharshi.117	You the user interface , and management man , uh 	
+IS1005b.A.dialog-act.dharshi.85	Okay . 	
+IS1005b.C.dialog-act.dharshi.63	Mm . 	
+IS1005b.A.dialog-act.dharshi.86	Yeah . 	
+IS1005b.D.dialog-act.dharshi.94	Okay . 	
+IS1005b.B.dialog-act.dharshi.118	Uh okay , that's it for me . 	
+IS1005b.A.dialog-act.dharshi.87	Okay , thank you Peter . 	
+IS1005b.B.dialog-act.dharshi.119	'Kay . 	
+IS1005b.A.dialog-act.dharshi.88	So um I have to inform you I receive an email from the management bon board today and they have new requirements for the for the remote control . Um 	
+IS1005b.D.dialog-act.dharshi.95	Mm . 	
+IS1005b.A.dialog-act.dharshi.89	first um , they say that's uh about something about t teletext . 	
+IS1005b.A.dialog-act.dharshi.90	Uh apparently it becomes from according to them it becomes out of date . Out-dated . 	
+IS1005b.A.dialog-act.dharshi.91	And uh 	
+IS1005b.A.dialog-act.dharshi.92	Because of the internet popularity and everybody has internet at home , and actually it's not useful to have teletext . 	
+IS1005b.A.dialog-act.dharshi.93	Um . 	
+IS1005b.A.dialog-act.dharshi.94	So I think we can avoid the teletext . 	
+IS1005b.A.dialog-act.dharshi.95	Um the second thing is uh they suggest that that we should uh use the remote control only for T_V_ , not for D_V_D_ and other devices , 	
+IS1005b.A.dialog-act.dharshi.96	because it make it it makes it's too complex 	
+IS1005b.A.dialog-act.dharshi.97	and uh because we have not much time for this project we should stay on T_V_ on the only specific T_V_ remote control . 	
+IS1005b.B.dialog-act.dharshi.120	I agree . 	
+IS1005b.A.dialog-act.dharshi.98	The third 	
+IS1005b.A.dialog-act.dharshi.99	the third one is uh about the the the image of the company . 	
+IS1005b.A.dialog-act.dharshi.100	So um uh we should we should keep uh The the product should be recognisable . 	
+IS1005b.A.dialog-act.dharshi.101	Uh , uh 	
+IS1005b.A.dialog-act.dharshi.102	It's That mean we should use the colour of our company 	
+IS1005b.A.dialog-act.dharshi.103	and maybe put somewhere the s the slogan of the company , which is uh , we put fashion of in electronics . 	
+IS1005b.A.dialog-act.dharshi.104	So , when people see the the remote control , they should say oh it's from Real Reaction and he s they should recognise the company . 	
+IS1005b.A.dialog-act.dharshi.105	So , um 	
+IS1005b.A.dialog-act.dharshi.106	So now we we should take the decision what we are going to what function we will have on this uh on this remote control . 	
+IS1005b.A.dialog-act.dharshi.107	So , mm , are we going to use L_C_D_ , speech recognition ? 	
+IS1005b.A.dialog-act.dharshi.108	Uh . 	
+IS1005b.D.dialog-act.dharshi.96	Well , should we start with just the core , the basic functions that we need . 	
+IS1005b.D.dialog-act.dharshi.97	And then we can move on to the more advanced features . 	
+IS1005b.A.dialog-act.dharshi.109	Yeah . 	
+IS1005b.C.dialog-act.dharshi.64	Mm . Yes . 	
+IS1005b.A.dialog-act.dharshi.110	Maybe , maybe . 	
+IS1005b.B.dialog-act.dharshi.121	Okay , so the available things are L_C_D_ , the buttons and everything . 	
+IS1005b.B.dialog-act.dharshi.122	Uh radio frequency depends . 	
+IS1005b.B.dialog-act.dharshi.123	And , well the recognition it depends on you guys . 	
+IS1005b.A.dialog-act.dharshi.112	Yeah 	
+IS1005b.B.dialog-act.dharshi.124	You should probably speak . 	
+IS1005b.A.dialog-act.dharshi.113	but first maybe what is what are the usual function of a standard remote control ? 	
+IS1005b.A.dialog-act.dharshi.114	I mean 	
+IS1005b.B.dialog-act.dharshi.125	Okay . 	
+IS1005b.A.dialog-act.dharshi.115	what do 	
+IS1005b.D.dialog-act.dharshi.98	Okay , well , I mean the obvious one is changing channels . 	
+IS1005b.A.dialog-act.dharshi.116	Yeah . 	
+IS1005b.A.dialog-act.dharshi.117	Yeah . 	
+IS1005b.C.dialog-act.dharshi.65	Yeah . 	
+IS1005b.A.dialog-act.dharshi.118	I think we should stick on very useful functions , because we want less button . 	
+IS1005b.D.dialog-act.dharshi.99	Yeah . 	
+IS1005b.A.dialog-act.dharshi.119	So , yeah . 	
+IS1005b.D.dialog-act.dharshi.100	Yeah , okay . 	
+IS1005b.A.dialog-act.dharshi.120	So , turning channel , of course . Volume setting . 	
+IS1005b.D.dialog-act.dharshi.101		
+IS1005b.B.dialog-act.dharshi.126	Uh just one note to the chan channel changing . 	
+IS1005b.B.dialog-act.dharshi.127	Do we 	
+IS1005b.B.dialog-act.dharshi.128	will we use only two buttons , or or like numbered buttons ? 	
+IS1005b.B.dialog-act.dharshi.129	I mean those nine plus one or two ? 	
+IS1005b.A.dialog-act.dharshi.121	Yeah . 	
+IS1005b.C.dialog-act.dharshi.66	Mm-hmm . 	
+IS1005b.A.dialog-act.dharshi.122	I think it would be a b 	
+IS1005b.B.dialog-act.dharshi.130	Because it's many buttons and we were speaking about lowering the number . 	
+IS1005b.C.dialog-act.dharshi.67	Mm . 	
+IS1005b.A.dialog-act.dharshi.123	Yeah . 	
+IS1005b.D.dialog-act.dharshi.102	Yeah , 	
+IS1005b.D.dialog-act.dharshi.103	I 	
+IS1005b.A.dialog-act.dharshi.124	On the other side we have more and more channels , and if you want to pass through all the channels to get the channel you want , it's 	
+IS1005b.C.dialog-act.dharshi.68	Yeah . 	
+IS1005b.B.dialog-act.dharshi.132	Okay 	
+IS1005b.B.dialog-act.dharshi.133	so so we keep all these all these buttons . 	
+IS1005b.C.dialog-act.dharshi.69	Yeah yeah , at least nine , ten button . 	
+IS1005b.A.dialog-act.dharshi.125	Maybe maybe we could think of something more betweens , like 	
+IS1005b.A.dialog-act.dharshi.126	uh 	
+IS1005b.B.dialog-act.dharshi.134	Like ten plus , five plus , one plus , one minus or something . 	
+IS1005b.A.dialog-act.dharshi.127	Yeah . Maybe something like that . 	
+IS1005b.B.dialog-act.dharshi.135	Or using the names and the keyboard 	
+IS1005b.D.dialog-act.dharshi.104	Ah yeah . 	
+IS1005b.B.dialog-act.dharshi.136	I dunno . 	
+IS1005b.A.dialog-act.dharshi.128	Uh . 	
+IS1005b.C.dialog-act.dharshi.70	Or 	
+IS1005b.A.dialog-act.dharshi.129	Maybe 	
+IS1005b.C.dialog-act.dharshi.71	Or something . 	
+IS1005b.A.dialog-act.dharshi.130	Oh I don't know . 	
+IS1005b.A.dialog-act.dharshi.131	Oh . 	
+IS1005b.A.dialog-act.dharshi.132	Maybe we could have key buttons , like uh discovery channe like documentary channel , and movies channel and 	
+IS1005b.B.dialog-act.dharshi.137	You mean like hierarchical structure . 	
+IS1005b.C.dialog-act.dharshi.72	Mm-hmm . 	
+IS1005b.A.dialog-act.dharshi.133	And inside this this thing you can move , maybe switch . 	
+IS1005b.C.dialog-act.dharshi.75	Okay . Like categorising channels . 	
+IS1005b.A.dialog-act.dharshi.134	If you want to see a movie you click on the movie button so you have all the movie channels and after you've you plus plus plus . 	
+IS1005b.C.dialog-act.dharshi.73	Mm-hmm . 	
+IS1005b.B.dialog-act.dharshi.139	Okay , so s 	
+IS1005b.B.dialog-act.dharshi.140	Oh sorry . 	
+IS1005b.C.dialog-act.dharshi.76	Okay . 	
+IS1005b.A.dialog-act.dharshi.135	I It just an idea . 	
+IS1005b.A.dialog-act.dharshi.136	I don't know what you think about that but . 	
+IS1005b.B.dialog-act.dharshi.141	So it requires the use of L_C_D_ probably , to to tell you 	
+IS1005b.D.dialog-act.dharshi.105	To have some feedback . Yeah . 	
+IS1005b.A.dialog-act.dharshi.137	Yeah , probably , yeah , yeah . 	
+IS1005b.B.dialog-act.dharshi.142	Okay , 	
+IS1005b.C.dialog-act.dharshi.74	Mm-hmm . 	
+IS1005b.B.dialog-act.dharshi.143	so I'll make a note on L_C_D_ . 	
+IS1005b.D.dialog-act.dharshi.106	We could maybe also c um incorporate Petre's idea of the um slider for the volume , with the channel . 	
+IS1005b.C.dialog-act.dharshi.77	Okay . 	
+IS1005b.A.dialog-act.dharshi.138	Okay . 	
+IS1005b.D.dialog-act.dharshi.107	So we c you could quickly just through many channels . 	
+IS1005b.B.dialog-act.dharshi.144	Yeah . Like roller for the 	
+IS1005b.D.dialog-act.dharshi.108	For the channels , perhaps . 	
+IS1005b.B.dialog-act.dharshi.145	Yeah . Okay . 	
+IS1005b.A.dialog-act.dharshi.139	Anything else ? 	
+IS1005b.D.dialog-act.dharshi.109	So we've got channel and volume . Um . 	
+IS1005b.A.dialog-act.dharshi.140	Yeah . 	
+IS1005b.B.dialog-act.dharshi.146	So we are still s speaking about the common devices 	
+IS1005b.C.dialog-act.dharshi.78		
+IS1005b.B.dialog-act.dharshi.147	or we are inviting the new one ? 	
+IS1005b.D.dialog-act.dharshi.110	I think so . 	
+IS1005b.D.dialog-act.dharshi.111	I think basically the core functions we want , and then more advanced ones . 	
+IS1005b.A.dialog-act.dharshi.141	Yeah . 	
+IS1005b.A.dialog-act.dharshi.142	What about the settings of the T_V_ ? 	
+IS1005b.A.dialog-act.dharshi.145	Because it's button we don't use very often , but it's we need it anyway . 	
+IS1005b.C.dialog-act.dharshi.79	So uh we don't have any uh we don't have uh 	
+IS1005b.A.dialog-act.dharshi.144	So 	
+IS1005b.D.dialog-act.dharshi.112	Yeah . 	
+IS1005b.C.dialog-act.dharshi.80	we should just design the remote control and we sh we don't have any access to the to the T_V_ design or we can change some design . 	
+IS1005b.C.dialog-act.dharshi.81	Because one solution for this um uh uh ch changing channels is to see a summary of all channels , some some preview of all channels 	
+IS1005b.C.dialog-act.dharshi.82	and then you can 	
+IS1005b.B.dialog-act.dharshi.148	On the screen , you mean ? 	
+IS1005b.C.dialog-act.dharshi.83	Yeah . Yeah b 	
+IS1005b.B.dialog-act.dharshi.149	Not on the control , but on the screen . 	
+IS1005b.C.dialog-act.dharshi.84	Not on the control , on the screen , on the T_V_ screen . 	
+IS1005b.B.dialog-act.dharshi.150	Well , this would avoid L_C_D_ , then . 	
+IS1005b.D.dialog-act.dharshi.113	I don't 	
+IS1005b.C.dialog-act.dharshi.85	And then 	
+IS1005b.D.dialog-act.dharshi.114	Oh , I don't but I don't think we're we're the ones . 	
+IS1005b.D.dialog-act.dharshi.115	I mean this remote control we're developing is a generic control for all T_V_s , I think . 	
+IS1005b.A.dialog-act.dharshi.146	Yeah , 	
+IS1005b.A.dialog-act.dharshi.147	yeah . 	
+IS1005b.C.dialog-act.dharshi.86	Mm-hmm . 	
+IS1005b.A.dialog-act.dharshi.148	I don't know if it's possible to to watch something on T_V_ 	
+IS1005b.B.dialog-act.dharshi.151	Oh . 	
+IS1005b.B.dialog-act.dharshi.152	W I I think it it would be better to to stick to the remote control and not to bother the T_V_ to to to print these things . 	
+IS1005b.A.dialog-act.dharshi.149	Yeah . 	
+IS1005b.A.dialog-act.dharshi.150	Yeah . 	
+IS1005b.C.dialog-act.dharshi.87	Mm-hmm . 	
+IS1005b.C.dialog-act.dharshi.88		
+IS1005b.B.dialog-act.dharshi.153	Well it wi it will be still more expensive , but for the L_C_D_ and this stuff is no problem in the price . 	
+IS1005b.C.dialog-act.dharshi.89	Mm-hmm . 	
+IS1005b.D.dialog-act.dharshi.116	Okay . 	
+IS1005b.A.dialog-act.dharshi.151	So , what are we doing with the settings ? 	
+IS1005b.A.dialog-act.dharshi.152	Because settings 	
+IS1005b.A.dialog-act.dharshi.153	if we want to do settings we need buttons for that 	
+IS1005b.A.dialog-act.dharshi.154	and we want less buttons , so . 	
+IS1005b.A.dialog-act.dharshi.155	Maybe with the L_C_D_ we can do something with less buttons , but 	
+IS1005b.C.dialog-act.dharshi.90	Yeah . 	
+IS1005b.D.dialog-act.dharshi.117	But then you don't want to make the L_C_D_ display too complicated at the same time . 	
+IS1005b.A.dialog-act.dharshi.156	Mm . 	
+IS1005b.B.dialog-act.dharshi.154	Two T_V_s . 	
+IS1005b.D.dialog-act.dharshi.118		
+IS1005b.D.dialog-act.dharshi.120	I mean there's always we can always have these l less often used functions hidden somewhere , 	
+IS1005b.D.dialog-act.dharshi.121	under a cover or at the back of under a slide or some 	
+IS1005b.A.dialog-act.dharshi.157	Yeah . 	
+IS1005b.A.dialog-act.dharshi.158	Oh yeah . 	
+IS1005b.B.dialog-act.dharshi.155	Like ma 	
+IS1005b.A.dialog-act.dharshi.159	Oh , the . 	
+IS1005b.B.dialog-act.dharshi.156	We we could have for example two buttons like simple mode and advanced mode . 	
+IS1005b.C.dialog-act.dharshi.91		
+IS1005b.B.dialog-act.dharshi.157	Or I dunno . 	
+IS1005b.C.dialog-act.dharshi.92		
+IS1005b.A.dialog-act.dharshi.160		
+IS1005b.D.dialog-act.dharshi.122	Yeah . 	
+IS1005b.B.dialog-act.dharshi.158	Or like children and grandfather's mode , 	
+IS1005b.D.dialog-act.dharshi.123	Yeah . 	
+IS1005b.A.dialog-act.dharshi.161		
+IS1005b.B.dialog-act.dharshi.161	and the , well the the user 	
+IS1005b.C.dialog-act.dharshi.93	Mm . 	
+IS1005b.A.dialog-act.dharshi.162		
+IS1005b.B.dialog-act.dharshi.162	not the user , 	
+IS1005b.B.dialog-act.dharshi.163	the man mana T_V_ manager mode . 	
+IS1005b.D.dialog-act.dharshi.124	Okay . 	
+IS1005b.B.dialog-act.dharshi.160	Ah , I dunno . 	
+IS1005b.C.dialog-act.dharshi.94	Mm-hmm . 	
+IS1005b.D.dialog-act.dharshi.125	So we have five minutes left . Um . 	
+IS1005b.A.dialog-act.dharshi.163	Yeah . 	
+IS1005b.B.dialog-act.dharshi.164	Uh . 	
+IS1005b.D.dialog-act.dharshi.126	So I think s the settings we th we are agreeing are agreed that they're required . 	
+IS1005b.A.dialog-act.dharshi.164	Yeah . 	
+IS1005b.C.dialog-act.dharshi.95	Mm-hmm . 	
+IS1005b.D.dialog-act.dharshi.127	It's just how to a 	
+IS1005b.B.dialog-act.dharshi.165	Yeah . 	
+IS1005b.A.dialog-act.dharshi.165	We should hide them somewhere . 	
+IS1005b.B.dialog-act.dharshi.166	Hide them , okay . 	
+IS1005b.D.dialog-act.dharshi.128	Yeah . 	
+IS1005b.A.dialog-act.dharshi.166	In the menus of the L_C_D_ or in the back of the remote control , or something like that . 	
+IS1005b.D.dialog-act.dharshi.129	Okay . 	
+IS1005b.D.dialog-act.dharshi.130	Yeah . 	
+IS1005b.D.dialog-act.dharshi.131	Uh , okay , what else ? 	
+IS1005b.B.dialog-act.dharshi.167	Um . 	
+IS1005b.D.dialog-act.dharshi.132	I mean a power button's obviously 	
+IS1005b.B.dialog-act.dharshi.168	Yes . 	
+IS1005b.D.dialog-act.dharshi.133	uh required . 	
+IS1005b.B.dialog-act.dharshi.170	This I was thinking . Do we need a power button at all ? 	
+IS1005b.B.dialog-act.dharshi.171	Should should shouldn't we do it like sleep mode after five minutes of not using it ? 	
+IS1005b.B.dialog-act.dharshi.172	Because generally 	
+IS1005b.A.dialog-act.dharshi.167	It's it's a kind of setting , I think . 	
+IS1005b.A.dialog-act.dharshi.168	It should fit in those settings functions . 	
+IS1005b.C.dialog-act.dharshi.96	Mm . 	
+IS1005b.C.dialog-act.dharshi.97	Settings . 	
+IS1005b.A.dialog-act.dharshi.169	Because it's not a very current useful function . 	
+IS1005b.D.dialog-act.dharshi.134	Uh , well I think when they say power button they mean to turn the T_V_ on and off . 	
+IS1005b.A.dialog-act.dharshi.170	No , I think it's after after five minutes or something a timer 	
+IS1005b.B.dialog-act.dharshi.173	Yes . 	
+IS1005b.B.dialog-act.dharshi.174	Well I I uh 	
+IS1005b.A.dialog-act.dharshi.171	I I think , no ? 	
+IS1005b.D.dialog-act.dharshi.135	But if you're watching T_V_ for two hours , you don't want your T_V_ to turn off after five five minute 	
+IS1005b.B.dialog-act.dharshi.175		
+IS1005b.B.dialog-act.dharshi.176		
+IS1005b.C.dialog-act.dharshi.98		
+IS1005b.B.dialog-act.dharshi.177	You don't need to every five minutes to keep it alive . 	
+IS1005b.A.dialog-act.dharshi.172		
+IS1005b.C.dialog-act.dharshi.99		
+IS1005b.D.dialog-act.dharshi.136		
+IS1005b.B.dialog-act.dharshi.178	Uh probably . 	
+IS1005b.B.dialog-act.dharshi.179	Okay , so we should keep this button . 	
+IS1005b.D.dialog-act.dharshi.137	I mean based on our usability studies again , um pe um people said that the power button was v a very relevant button . 	
+IS1005b.C.dialog-act.dharshi.100	Yeah . 	
+IS1005b.A.dialog-act.dharshi.173	Oh okay , yeah . 	
+IS1005b.C.dialog-act.dharshi.101	Mm-hmm . 	
+IS1005b.D.dialog-act.dharshi.138	Um , you know , it was nine out of ten 	
+IS1005b.B.dialog-act.dharshi.180	Okay , 	
+IS1005b.B.dialog-act.dharshi.181	so we we could p what we could probably do is to keep also to keep uh keep the L_C_D_ and all the buttons and stuff , 	
+IS1005b.D.dialog-act.dharshi.139	re relevance . 	
+IS1005b.B.dialog-act.dharshi.182	we could make it like a opening opening style that if you open it you are you just turn on the T_V_ and if you close it , it will 	
+IS1005b.A.dialog-act.dharshi.174	Yeah . 	
+IS1005b.A.dialog-act.dharshi.175	Yeah . 	
+IS1005b.D.dialog-act.dharshi.140		
+IS1005b.B.dialog-act.dharshi.183	turn off the T_V_ . 	
+IS1005b.B.dialog-act.dharshi.184	If if you like this , 	
+IS1005b.D.dialog-act.dharshi.142	Okay . B Okay . 	
+IS1005b.B.dialog-act.dharshi.185	Because , well it's maybe question for you t 	
+IS1005b.D.dialog-act.dharshi.143	I think we need to concentrate on the , you know , the major usage of the th of the control , 	
+IS1005b.C.dialog-act.dharshi.102	Mm-hmm . 	
+IS1005b.A.dialog-act.dharshi.176	Yeah . 	
+IS1005b.D.dialog-act.dharshi.144	which is you sit down , you turn on your T_V_ , you change channels , you change the volume , you turn the T_V_ off . 	
+IS1005b.A.dialog-act.dharshi.177	Yeah . 	
+IS1005b.D.dialog-act.dharshi.145	Um and all the other f functionality is 	
+IS1005b.A.dialog-act.dharshi.178	So s yeah . 	
+IS1005b.B.dialog-act.dharshi.186		
+IS1005b.C.dialog-act.dharshi.104	Yeah 	
+IS1005b.C.dialog-act.dharshi.103	, they can yeah they can be hide somewhere by a cover or something like this . 	
+IS1005b.D.dialog-act.dharshi.146	not used very often . 	
+IS1005b.A.dialog-act.dharshi.179	Yeah . 	
+IS1005b.D.dialog-act.dharshi.147	Yeah . 	
+IS1005b.C.dialog-act.dharshi.105	Like covering cu . 	
+IS1005b.A.dialog-act.dharshi.180	On the back , or 	
+IS1005b.B.dialog-act.dharshi.187	Yeah . 	
+IS1005b.B.dialog-act.dharshi.188	I mean like the 	
+IS1005b.C.dialog-act.dharshi.108	Yeah , like mobile phone covering . 	
+IS1005b.B.dialog-act.dharshi.189	Yeah but since we have the L_C_D_ , we didn't need too much button too many buttons . 	
+IS1005b.C.dialog-act.dharshi.109		
+IS1005b.B.dialog-act.dharshi.190	Um , okay , just um the decision of the power button . 	
+IS1005b.B.dialog-act.dharshi.191	Should we make it a button , or some some something which would be 	
+IS1005b.A.dialog-act.dharshi.181	For what ? 	
+IS1005b.B.dialog-act.dharshi.192	Uh power button . 	
+IS1005b.D.dialog-act.dharshi.148	I think a button . 	
+IS1005b.C.dialog-act.dharshi.110	A button is better . 	
+IS1005b.D.dialog-act.dharshi.149	I think it should be a bu 	
+IS1005b.A.dialog-act.dharshi.184	Ah oh yeah , yeah . 	
+IS1005b.B.dialog-act.dharshi.195	If it if it's a button or 	
+IS1005b.C.dialog-act.dharshi.114	Yeah . 	
+IS1005b.A.dialog-act.dharshi.185	Yeah a button , yeah I guess so . 	
+IS1005b.D.dialog-act.dharshi.152	Its own button on the front . 	
+IS1005b.B.dialog-act.dharshi.196	Okay . 	
+IS1005b.C.dialog-act.dharshi.113	Mm . 	
+IS1005b.B.dialog-act.dharshi.193	Okay , one nice big button . 	
+IS1005b.D.dialog-act.dharshi.151		
+IS1005b.B.dialog-act.dharshi.194	Old fashioned button , to satisfy the grandmothers . 	
+IS1005b.A.dialog-act.dharshi.183		
+IS1005b.C.dialog-act.dharshi.112		
+IS1005b.D.dialog-act.dharshi.150		
+IS1005b.C.dialog-act.dharshi.111		
+IS1005b.A.dialog-act.dharshi.182		
+IS1005b.B.dialog-act.dharshi.197	Hmm . 	
+IS1005b.D.dialog-act.dharshi.153	Okay . 	
+IS1005b.A.dialog-act.dharshi.186	So , any other suggestions or functions ? 	
+IS1005b.B.dialog-act.dharshi.198	Mm . 	
+IS1005b.D.dialog-act.dharshi.154	S 	
+IS1005b.D.dialog-act.dharshi.155	What about things like the clock and um timers ? 	
+IS1005b.B.dialog-act.dharshi.199	Do we still have the time ? 	
+IS1005b.B.dialog-act.dharshi.200	I I just wonder . 	
+IS1005b.A.dialog-act.dharshi.187	Yeah , we have still one or two minutes to talk , yeah . 	
+IS1005b.B.dialog-act.dharshi.201	Okay . 	
+IS1005b.B.dialog-act.dharshi.202	Oh . Well what w what was the question ? 	
+IS1005b.C.dialog-act.dharshi.115	Clock or 	
+IS1005b.D.dialog-act.dharshi.156	Uh um , you know , some func some features on the control to display a time , or t to display 	
+IS1005b.A.dialog-act.dharshi.188	Usually it's already on T_V_ or something like that . 	
+IS1005b.C.dialog-act.dharshi.116	Yes . 	
+IS1005b.B.dialog-act.dharshi.203	Yeah but since we want to control all the televisions , and and it would probably be worth to to set the timing on the remote , 	
+IS1005b.A.dialog-act.dharshi.189	Yeah . 	
+IS1005b.B.dialog-act.dharshi.204	no ? 	
+IS1005b.B.dialog-act.dharshi.205	Because if if the T_V_ turns on itself , it well you know , if the time The timer should be there . 	
+IS1005b.C.dialog-act.dharshi.117	Mm . 	
+IS1005b.A.dialog-act.dharshi.190	Yeah . 	
+IS1005b.A.dialog-act.dharshi.191	Yeah . 	
+IS1005b.A.dialog-act.dharshi.192	If we if we add the time , we have to have maybe a bigger display or something like that , 	
+IS1005b.A.dialog-act.dharshi.193	and is it very useful ? 	
+IS1005b.A.dialog-act.dharshi.194	I mean , are users wants to have the time on the on the remote ? 	
+IS1005b.C.dialog-act.dharshi.118	Mm . 	
+IS1005b.A.dialog-act.dharshi.195	This is the question . 	
+IS1005b.D.dialog-act.dharshi.157	Probably not . 	
+IS1005b.A.dialog-act.dharshi.196	Is it useful ? 	
+IS1005b.C.dialog-act.dharshi.119	Yes . 	
+IS1005b.D.dialog-act.dharshi.158	It's a questi yeah , it's a trade-off . 	
+IS1005b.A.dialog-act.dharshi.197	W In my opinion we should have only useful thing 	
+IS1005b.A.dialog-act.dharshi.198	and Because apparently they want The simpler it's is better . 	
+IS1005b.D.dialog-act.dharshi.159	'Kay . 	
+IS1005b.B.dialog-act.dharshi.206	Ah , yeah . 	
+IS1005b.D.dialog-act.dharshi.160	Okay simple . 	
+IS1005b.B.dialog-act.dharshi.207	Did you did you ever use the like the timing of turning on the T_V_ , 	
+IS1005b.C.dialog-act.dharshi.120		
+IS1005b.A.dialog-act.dharshi.199		
+IS1005b.C.dialog-act.dharshi.121		
+IS1005b.B.dialog-act.dharshi.208	well And based on your 	
+IS1005b.D.dialog-act.dharshi.161	Very , yeah okay , very occasionally . 	
+IS1005b.D.dialog-act.dharshi.162	But I do use the I do use the display of the time quite often , but 	
+IS1005b.B.dialog-act.dharshi.209		
+IS1005b.C.dialog-act.dharshi.122	Mm . 	
+IS1005b.B.dialog-act.dharshi.212	Yeah 	
+IS1005b.B.dialog-act.dharshi.213	but it can be on the display in in a corner all the time on the remote . 	
+IS1005b.D.dialog-act.dharshi.163	Yeah . 	
+IS1005b.A.dialog-act.dharshi.200		
+IS1005b.D.dialog-act.dharshi.164	Yeah that's okay , that's true . 	
+IS1005b.D.dialog-act.dharshi.165	Okay , so no time button . Okay . 	
+IS1005b.A.dialog-act.dharshi.201	No time on . 	
+IS1005b.B.dialog-act.dharshi.214		
+IS1005b.C.dialog-act.dharshi.123	And uh do we need to include anything about the speech recognition and the speech commands , or ? 	
+IS1005b.B.dialog-act.dharshi.215	Yes yes . 	
+IS1005b.A.dialog-act.dharshi.202	I think 	
+IS1005b.C.dialog-act.dharshi.124	I I thin I think it will not take lots of place , we just need a microphone and the software , 	
+IS1005b.C.dialog-act.dharshi.125	so , and it sh and it will be a little bit new and interesting , 	
+IS1005b.C.dialog-act.dharshi.126	so people may be attracted to buy this stuff 	
+IS1005b.C.dialog-act.dharshi.127	and it's not very difficult to uh put a software inside the the electronic device and put a microphone . 	
+IS1005b.C.dialog-act.dharshi.128	It doesn't take that much place and also that much It doesn't cost that much . 	
+IS1005b.A.dialog-act.dharshi.203	Yeah . 	
+IS1005b.B.dialog-act.dharshi.219	Yeah but we we should be careful about the battery life , then . If we use the speech recognition . 	
+IS1005b.A.dialog-act.dharshi.204	So maybe we think we can think more about that , 	
+IS1005b.A.dialog-act.dharshi.205	and discuss that maybe last time next time . 	
+IS1005b.C.dialog-act.dharshi.129	Mm-hmm . 	
+IS1005b.B.dialog-act.dharshi.220	Yeah . 	
+IS1005b.A.dialog-act.dharshi.206	And uh yeah , now the meeting room is busy . 	
+IS1005b.A.dialog-act.dharshi.207	Somebody booked the meeting room just for at one P_M_ , 	
+IS1005b.A.dialog-act.dharshi.208	and so we should leave . 	
+IS1005b.A.dialog-act.dharshi.209	Uh . 	
+IS1005b.A.dialog-act.dharshi.210	So , um . So now we are going for for a small lunch . 	
+IS1005b.A.dialog-act.dharshi.211	It's uh funded by the company . 	
+IS1005b.A.dialog-act.dharshi.212	And uh after we have uh thirteen minutes to to do indevel individual works . 	
+IS1005b.A.dialog-act.dharshi.213	And uh I will do the minutes . 	
+IS1005b.A.dialog-act.dharshi.214	And uh you are going to work on your individual works . 	
+IS1005b.A.dialog-act.dharshi.215	And uh you will receive as usual your specific instruction and so on . 	
+IS1005b.D.dialog-act.dharshi.167	Okay , 	
+IS1005b.A.dialog-act.dharshi.216	Thank you everybody . 	
+IS1005b.D.dialog-act.dharshi.168	cool . Okay 	
+IS1005b.C.dialog-act.dharshi.130	Thanks . 	
+IS1005b.D.dialog-act.dharshi.169	Thank you . 	
+

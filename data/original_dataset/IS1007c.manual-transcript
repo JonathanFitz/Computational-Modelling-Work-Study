@@ -1,0 +1,754 @@
+Observation: IS1007c; Result size: 751; atts: 2
+$d@nite:id	$d	
+IS1007c.A.dialog-act.s9553330.1	So we come to the third meetings . 	
+IS1007c.A.dialog-act.s9553330.2	I have 	
+IS1007c.A.dialog-act.s9553330.3	good . 	
+IS1007c.C.dialog-act.s9553330.1		
+IS1007c.A.dialog-act.s9553330.4	Um so in the last meeting we have discussed the functional design 	
+IS1007c.A.dialog-act.s9553330.5	and now we will talk about the conceptual design . 	
+IS1007c.A.dialog-act.s9553330.6	So we will talk about some specific details . 	
+IS1007c.C.dialog-act.s9553330.2	Okay so I think I will do my presentation on the components concept 	
+IS1007c.C.dialog-act.s9553330.3	so can you please uh open uh 	
+IS1007c.C.dialog-act.s9553330.4	I'm participant two . 	
+IS1007c.C.dialog-act.s9553330.5	Components design . 	
+IS1007c.A.dialog-act.s9553330.7	This 	
+IS1007c.A.dialog-act.s9553330.8		
+IS1007c.C.dialog-act.s9553330.6	Okay so uh 	
+IS1007c.C.dialog-act.s9553330.7	the first thing uh I have done is to to made a review together with the uh manufactural uh department 	
+IS1007c.C.dialog-act.s9553330.8	and have which components was uh available to build a remote control . 	
+IS1007c.C.dialog-act.s9553330.9	So for energy sources we have we have to choose between the solar energy , hand dynamo and uh kinetic um well uh kinetic uh technique to to store the energy . 	
+IS1007c.B.dialog-act.s9553330.1		
+IS1007c.D.dialog-act.s9553330.1		
+IS1007c.C.dialog-act.s9553330.10	We also um we also can put a regular battery in the in the remote control . 	
+IS1007c.A.dialog-act.s9553330.9	Uh this is what we have decided in the last meeting . 	
+IS1007c.C.dialog-act.s9553330.11	Now 	
+IS1007c.A.dialog-act.s9553330.10	But if we use battery 	
+IS1007c.C.dialog-act.s9553330.12	Yeah 	
+IS1007c.C.dialog-act.s9553330.13	b uh f well uh I meant uh by by battery I meant uh I will not have a uh a wire between the remote control and the energy source 	
+IS1007c.C.dialog-act.s9553330.14	but uh I didn't fou 	
+IS1007c.C.dialog-act.s9553330.15	we didn't decide yet which kind of battery we will put inside the the remote . 	
+IS1007c.C.dialog-act.s9553330.16	So uh it's a point to discuss . 	
+IS1007c.C.dialog-act.s9553330.17	Then uh the case material we have uh uh also several choices , like wood , rubber , titanium or latex . 	
+IS1007c.C.dialog-act.s9553330.18	But uh well it's not a a re uh well a real issue for the from the technical uh point of view . 	
+IS1007c.C.dialog-act.s9553330.19	Concerning the interface uh we can we can put mm just simple buttons or scrolls or buttons uh much more complicated , 	
+IS1007c.C.dialog-act.s9553330.20	but it also requires that the chip to process the button is more complicated so . 	
+IS1007c.B.dialog-act.s9553330.2	Mm . 	
+IS1007c.C.dialog-act.s9553330.21	And uh this is the last point , the choice of chips . 	
+IS1007c.C.dialog-act.s9553330.22	So what I have f found is that I think basic battery or kinetic uh energy uh collection is the is the better way to provide energy 	
+IS1007c.C.dialog-act.s9553330.23	because I think solar energy wi won't work in a cluttered uh uh environment . 	
+IS1007c.B.dialog-act.s9553330.3	Mm . 	
+IS1007c.C.dialog-act.s9553330.24	So um so I think we can start with these two main things . 	
+IS1007c.C.dialog-act.s9553330.25	For the case uh well uh I think that uh titanium is um is a good choice 	
+IS1007c.C.dialog-act.s9553330.26	because it's trendy 	
+IS1007c.C.dialog-act.s9553330.27	and it's uh it's uh well it's modern 	
+IS1007c.C.dialog-act.s9553330.28	and uh user are are are mm will be uh very happy to have a a a nice remote . 	
+IS1007c.C.dialog-act.s9553330.29	For the interface uh I think that we can ach achieve uh all the desired functionalities by s just uh using uh rubber buttons , simple buttons 	
+IS1007c.C.dialog-act.s9553330.30	and th thus this allow to use a regular chip that are uh well cheaper . 	
+IS1007c.B.dialog-act.s9553330.4	Mm . 	
+IS1007c.C.dialog-act.s9553330.31	And s so uh we can move to the next slide . 	
+IS1007c.B.dialog-act.s9553330.5	Sorry . 	
+IS1007c.C.dialog-act.s9553330.32	Yeah . 	
+IS1007c.B.dialog-act.s9553330.6	What is this single curved 	
+IS1007c.B.dialog-act.s9553330.7	what does it mean ? 	
+IS1007c.C.dialog-act.s9553330.33	Well uh uh i i it's uh it's the the shape of the um of the remote . 	
+IS1007c.B.dialog-act.s9553330.8	So it's it's not 	
+IS1007c.C.dialog-act.s9553330.34	You you will have the well um the the curve will fit into your hand when you grab the 	
+IS1007c.B.dialog-act.s9553330.9	Yo l yeah . 	
+IS1007c.B.dialog-act.s9553330.10	When you hold on it , it is comfortable to hold . 	
+IS1007c.C.dialog-act.s9553330.35	Yeah . 	
+IS1007c.C.dialog-act.s9553330.36	It's more confog f comfortable that if these uh it's completely flat . 	
+IS1007c.B.dialog-act.s9553330.11	Okay . 	
+IS1007c.B.dialog-act.s9553330.12	Yeah . 	
+IS1007c.B.dialog-act.s9553330.13	And the battery , is it kind of a rechargeable or it doesn't matter ? 	
+IS1007c.C.dialog-act.s9553330.37	Yeah the um that's the point . 	
+IS1007c.C.dialog-act.s9553330.38	The kinetic one is uh y you can recharge uh by the um 	
+IS1007c.B.dialog-act.s9553330.14	That that's what it means by kinetic . 	
+IS1007c.C.dialog-act.s9553330.39	Yeah 	
+IS1007c.C.dialog-act.s9553330.40	and by well by just by moving the ar uh your arm the mm well the remote will uh accumulate energy . 	
+IS1007c.B.dialog-act.s9553330.15	Okay . 	
+IS1007c.B.dialog-act.s9553330.16	Mm-hmm . 	
+IS1007c.B.dialog-act.s9553330.17	Okay . 	
+IS1007c.C.dialog-act.s9553330.41	But I d I don't know it's if it is feasible 	
+IS1007c.C.dialog-act.s9553330.42	because I don't know if yet if if the user will move enough to provide the remote um all the necessary energy . 	
+IS1007c.B.dialog-act.s9553330.18	Mm . 	
+IS1007c.B.dialog-act.s9553330.19	Mm . 	
+IS1007c.B.dialog-act.s9553330.20	Okay . 	
+IS1007c.B.dialog-act.s9553330.21	Yeah . 	
+IS1007c.B.dialog-act.s9553330.22	Yeah . 	
+IS1007c.B.dialog-act.s9553330.23	We we might check with our R_ and D_ department to see if they have this product ready for market . 	
+IS1007c.C.dialog-act.s9553330.43	Yeah . 	
+IS1007c.C.dialog-act.s9553330.44	And yeah and 	
+IS1007c.C.dialog-act.s9553330.45	so can you go to the next slide please . 	
+IS1007c.C.dialog-act.s9553330.46	So and uh that's uh that summarize well what I have said . 	
+IS1007c.B.dialog-act.s9553330.24	Mm mm . Wha 	
+IS1007c.C.dialog-act.s9553330.47	So uh you're right 	
+IS1007c.C.dialog-act.s9553330.48	we can uh see in our uh R_ and D_ uh if the kinetic metal is sufficient to provide enough energy . 	
+IS1007c.B.dialog-act.s9553330.25	Ah the department . 	
+IS1007c.B.dialog-act.s9553330.26	Mm . 	
+IS1007c.C.dialog-act.s9553330.49	That's it . 	
+IS1007c.B.dialog-act.s9553330.27	Uh 	
+IS1007c.B.dialog-act.s9553330.28	So I um keep in touch with the R_ and D_ department . 	
+IS1007c.C.dialog-act.s9553330.50	Oh yeah 	
+IS1007c.C.dialog-act.s9553330.51	I take care , 	
+IS1007c.B.dialog-act.s9553330.29		
+IS1007c.C.dialog-act.s9553330.52	it's all right . 	
+IS1007c.B.dialog-act.s9553330.30		
+IS1007c.B.dialog-act.s9553330.33	So the titanium case is the normal case that 	
+IS1007c.B.dialog-act.s9553330.34	I'll show you some pictures that I have 	
+IS1007c.B.dialog-act.s9553330.35	and you tell me whether they are titanium case or not . 	
+IS1007c.C.dialog-act.s9553330.54	All right . Yeah . 	
+IS1007c.B.dialog-act.s9553330.36	'Cause I am not very sure , plastic , titanium or whatever . 	
+IS1007c.B.dialog-act.s9553330.37	There's another point I want to make , 	
+IS1007c.B.dialog-act.s9553330.38	is that the uh well you've seen them I le na my presentation that um I point out some why buttons are not the mm not the only ways you can use 	
+IS1007c.B.dialog-act.s9553330.39	Yeah . 	
+IS1007c.B.dialog-act.s9553330.40	Yeah , 	
+IS1007c.C.dialog-act.s9553330.53		
+IS1007c.B.dialog-act.s9553330.41	maybe n 	
+IS1007c.A.dialog-act.s9553330.12	We will , okay . 	
+IS1007c.B.dialog-act.s9553330.31		
+IS1007c.A.dialog-act.s9553330.13	Three . 	
+IS1007c.B.dialog-act.s9553330.42	Yeah . 	
+IS1007c.B.dialog-act.s9553330.32		
+IS1007c.B.dialog-act.s9553330.43	So the user interface is uh i it uses the aspect uh of a computer system , 	
+IS1007c.B.dialog-act.s9553330.44	a programme which can be seen or heard or otherwise perceived by the human user 	
+IS1007c.A.dialog-act.s9553330.11		
+IS1007c.B.dialog-act.s9553330.45	and the commands and mechanism the user uses to control its operation and input data . 	
+IS1007c.B.dialog-act.s9553330.46	So you s this gives you the ways to input data 	
+IS1007c.B.dialog-act.s9553330.47	and we have uh we are more 	
+IS1007c.B.dialog-act.s9553330.48	we emphasise more on the graphical user interface here . 	
+IS1007c.B.dialog-act.s9553330.49	The idea is to represent buttons as figures , diagrams , symbols and on 	
+IS1007c.B.dialog-act.s9553330.50	so you you can easily when you look at the symbols you understand what it is doing . 	
+IS1007c.A.dialog-act.s9553330.14	What's the function of this button . 	
+IS1007c.B.dialog-act.s9553330.51	Yeah . Yeah . So . 	
+IS1007c.A.dialog-act.s9553330.15	I think it makes the the interface really 	
+IS1007c.B.dialog-act.s9553330.52	Ea easy to use . 	
+IS1007c.B.dialog-act.s9553330.53	So next one . 	
+IS1007c.A.dialog-act.s9553330.16	Graphical user interface . 	
+IS1007c.B.dialog-act.s9553330.54	function five . 	
+IS1007c.B.dialog-act.s9553330.55	So I can use the button , the mouse maybe . 	
+IS1007c.A.dialog-act.s9553330.17	A graphical user interface emphasise the use of pictures . 	
+IS1007c.B.dialog-act.s9553330.56	Yeah . 	
+IS1007c.B.dialog-act.s9553330.57	So next line . 	
+IS1007c.B.dialog-act.s9553330.58	So the here are some examples . 	
+IS1007c.B.dialog-act.s9553330.59	So they cluster the buttons together . 	
+IS1007c.B.dialog-act.s9553330.60	They group them into col they colour them 	
+IS1007c.B.dialog-act.s9553330.61	and uh they have different forms as well . 	
+IS1007c.B.dialog-act.s9553330.62	Mm 	
+IS1007c.B.dialog-act.s9553330.63	but this interface are kind of confusing . 	
+IS1007c.B.dialog-act.s9553330.64	Uh basically there are too many buttons . 	
+IS1007c.B.dialog-act.s9553330.65	Right . Next one . 	
+IS1007c.C.dialog-act.s9553330.55	Yeah . 	
+IS1007c.B.dialog-act.s9553330.66	So some people are propose voice recognition 	
+IS1007c.B.dialog-act.s9553330.67	and so 	
+IS1007c.B.dialog-act.s9553330.68	ah by the way I receive an email from the from one our departments saying that the voice recognition has been used in the coffee machine for this by a company 	
+IS1007c.C.dialog-act.s9553330.56		
+IS1007c.B.dialog-act.s9553330.69	when you tell the you say good morning coffee machine 	
+IS1007c.B.dialog-act.s9553330.70	and the machine are reply to you . 	
+IS1007c.C.dialog-act.s9553330.57	Mm-hmm mm mm . 	
+IS1007c.B.dialog-act.s9553330.71	So I just got an email saying that . 	
+IS1007c.B.dialog-act.s9553330.72	And it seems like this voice recognition technology is ready to be used 	
+IS1007c.B.dialog-act.s9553330.73	so we might consider that , supposedly . 	
+IS1007c.C.dialog-act.s9553330.58	Yeah fine . 	
+IS1007c.B.dialog-act.s9553330.74	The next one . 	
+IS1007c.B.dialog-act.s9553330.75	Mm so somebody some people use uh some people use a spinning wheel th with the L_C_ display 	
+IS1007c.B.dialog-act.s9553330.76	so instead of using the mm buttons you have a L_C_D_ screen 	
+IS1007c.B.dialog-act.s9553330.77	and then there you can u you can use that as buttons , 	
+IS1007c.B.dialog-act.s9553330.78	you can use that as real 	
+IS1007c.B.dialog-act.s9553330.79	so so that could be an option as well . 	
+IS1007c.B.dialog-act.s9553330.80	Touch screen , I mean . 	
+IS1007c.A.dialog-act.s9553330.18	Yeah . 	
+IS1007c.B.dialog-act.s9553330.81	Next one . 	
+IS1007c.B.dialog-act.s9553330.82	And some people propose a scroll button . Integrated with push buttons 	
+IS1007c.B.dialog-act.s9553330.83	or you may have scroll button instead of p just the push button . 	
+IS1007c.B.dialog-act.s9553330.84	Like the one we have here . 	
+IS1007c.B.dialog-act.s9553330.85	Uh , next one . 	
+IS1007c.B.dialog-act.s9553330.86	So 	
+IS1007c.B.dialog-act.s9553330.87	mm 	
+IS1007c.A.dialog-act.s9553330.19	Mm-hmm . 	
+IS1007c.B.dialog-act.s9553330.88	so there are a few aspects that I collected here . 	
+IS1007c.B.dialog-act.s9553330.89	So s basically this deals with special users , children , handicapped people , old people , 	
+IS1007c.B.dialog-act.s9553330.90	and uh mm and prog 	
+IS1007c.B.dialog-act.s9553330.91	basically they are programmable , 	
+IS1007c.B.dialog-act.s9553330.92	specially for children . 	
+IS1007c.B.dialog-act.s9553330.93	And uh mm yeah yeah . 	
+IS1007c.B.dialog-act.s9553330.94	And then they also secure uh covers , to protect 	
+IS1007c.B.dialog-act.s9553330.95	uh secure and hidden programming and battery covers that will protect your settings . 	
+IS1007c.B.dialog-act.s9553330.96	So 	
+IS1007c.B.dialog-act.s9553330.97	But we don't have to integrate all these complicated features . 	
+IS1007c.B.dialog-act.s9553330.98	I'm just saying that the currently in the market there are there are control there are remote controllers f customisable for different people . 	
+IS1007c.B.dialog-act.s9553330.99	Yeah , so that's the point . 	
+IS1007c.B.dialog-act.s9553330.100	The next one . 	
+IS1007c.B.dialog-act.s9553330.102	And uh you see this is the one where you have the protection cover . 	
+IS1007c.B.dialog-act.s9553330.103	Mm maybe useful for children , 	
+IS1007c.B.dialog-act.s9553330.104	they migh you you they only see the buttons outside . 	
+IS1007c.B.dialog-act.s9553330.105	And for adults wh where you have more control you can see the one inside . 	
+IS1007c.B.dialog-act.s9553330.106	So the adults might wanna have a key to lock that to pr so children will not touch the button inside . 	
+IS1007c.C.dialog-act.s9553330.62	Yeah . 	
+IS1007c.B.dialog-act.s9553330.107	Yeah . 	
+IS1007c.C.dialog-act.s9553330.63	S a good idea . 	
+IS1007c.B.dialog-act.s9553330.101	The next one . 	
+IS1007c.C.dialog-act.s9553330.59		
+IS1007c.B.dialog-act.s9553330.108	So this guy 	
+IS1007c.B.dialog-act.s9553330.109	this is another company that provides big buttons . 	
+IS1007c.B.dialog-act.s9553330.110	At 	
+IS1007c.B.dialog-act.s9553330.111	I see that that is useful for old people 	
+IS1007c.B.dialog-act.s9553330.112	and then you don't get it lost . 	
+IS1007c.B.dialog-act.s9553330.113	But for our product we don't need a big one 	
+IS1007c.B.dialog-act.s9553330.114	because you have voice recognition e eventually with use . 	
+IS1007c.C.dialog-act.s9553330.64	Yeah . 	
+IS1007c.B.dialog-act.s9553330.115	And you can call your remote controller if you don't know where it is . 	
+IS1007c.C.dialog-act.s9553330.60		
+IS1007c.B.dialog-act.s9553330.116	T_V_ remote controller where are you ? 	
+IS1007c.A.dialog-act.s9553330.20		
+IS1007c.C.dialog-act.s9553330.61		
+IS1007c.B.dialog-act.s9553330.117	And then , he will beeps and to say that I am here , for example . 	
+IS1007c.A.dialog-act.s9553330.21	We should include speech synthesis in this case , no ? 	
+IS1007c.B.dialog-act.s9553330.118	Is it possible ? 	
+IS1007c.D.dialog-act.s9553330.2	Yeah . 	
+IS1007c.C.dialog-act.s9553330.65	Yeah . 	
+IS1007c.B.dialog-act.s9553330.119	Uh ? 	
+IS1007c.C.dialog-act.s9553330.66	Yeah 	
+IS1007c.D.dialog-act.s9553330.3	Yeah . 	
+IS1007c.C.dialog-act.s9553330.67	but uh as Norman say if uh there is uh already a commercial product available who t who do this we we can check uh to integrate it i into our uh new remote control . 	
+IS1007c.B.dialog-act.s9553330.120	Yeah . 	
+IS1007c.B.dialog-act.s9553330.121	Yeah . 	
+IS1007c.B.dialog-act.s9553330.122	Yeah . 	
+IS1007c.B.dialog-act.s9553330.123	Yeah . 	
+IS1007c.B.dialog-act.s9553330.124	And uh , this is another one 	
+IS1007c.B.dialog-act.s9553330.125	where you can uh 	
+IS1007c.B.dialog-act.s9553330.126	the the the part that's a V_ standing for the volume . 	
+IS1007c.B.dialog-act.s9553330.127	So there's a up arrow and a down arrow . 	
+IS1007c.B.dialog-act.s9553330.128	But you the see that in the V_ , the V_ appears to be the down arrow on the top 	
+IS1007c.B.dialog-act.s9553330.129	on the top up arrow if you 	
+IS1007c.A.dialog-act.s9553330.22	Mm-hmm . 	
+IS1007c.B.dialog-act.s9553330.130	up arrow there's a V_ like as as if it's turning down 	
+IS1007c.B.dialog-act.s9553330.131	so it's confusing interface , 	
+IS1007c.B.dialog-act.s9553330.132	so I wanna avoid this kind of thing in the design . 	
+IS1007c.C.dialog-act.s9553330.68	Yeah yeah . 	
+IS1007c.B.dialog-act.s9553330.133	And here are is uh here is a s short summary that I summary that I compiled after the findings I found . 	
+IS1007c.B.dialog-act.s9553330.134	Big buttons are convenient , 	
+IS1007c.B.dialog-act.s9553330.135	voice recognition helps , 	
+IS1007c.B.dialog-act.s9553330.136	push buttons , scroll buttons , spinning wheels can be used as navigation tools . 	
+IS1007c.B.dialog-act.s9553330.137	And uh user customisable is important 	
+IS1007c.B.dialog-act.s9553330.138	and finally simplicity simplicity is the key . 	
+IS1007c.B.dialog-act.s9553330.139	Yeah . So 	
+IS1007c.B.dialog-act.s9553330.140	we have many concepts there 	
+IS1007c.C.dialog-act.s9553330.69	Hmm . 	
+IS1007c.B.dialog-act.s9553330.141	but we have to choose later on which ones are important to be used . 	
+IS1007c.C.dialog-act.s9553330.70	Yeah . 	
+IS1007c.B.dialog-act.s9553330.142	And basically uh 	
+IS1007c.C.dialog-act.s9553330.71	Well I I think you it's it's it's fine you have uh reviewed all all the possibilities 	
+IS1007c.B.dialog-act.s9553330.143	Yeah . 	
+IS1007c.C.dialog-act.s9553330.72	but uh uh well uh i if we consider that uh the user interface is displayed on the T_V_ screen I don't think we nee uh we need much buttons in the remote 	
+IS1007c.A.dialog-act.s9553330.23		
+IS1007c.B.dialog-act.s9553330.144	Mm-hmm . 	
+IS1007c.C.dialog-act.s9553330.73	since we we just have to navigate and to have a okay or enter key or things like that , 	
+IS1007c.B.dialog-act.s9553330.145	Yeah . 	
+IS1007c.B.dialog-act.s9553330.146	Mm . 	
+IS1007c.C.dialog-act.s9553330.74	because uh adding wheels or scrolls uh makes the thing more complicated and more expensive also , so . 	
+IS1007c.B.dialog-act.s9553330.147	Mm . 	
+IS1007c.B.dialog-act.s9553330.148	Okay . 	
+IS1007c.A.dialog-act.s9553330.24	Or maybe we can include the user manual in the in the remote control 	
+IS1007c.A.dialog-act.s9553330.25	and we should have just a button like help 	
+IS1007c.A.dialog-act.s9553330.26	and you say uh and you ik you press the button help 	
+IS1007c.A.dialog-act.s9553330.27	and maybe you see the the user m might in the in the T_V_ . 	
+IS1007c.C.dialog-act.s9553330.75	Yeah . That's a good idea . 	
+IS1007c.D.dialog-act.s9553330.4		
+IS1007c.C.dialog-act.s9553330.76	To have a help button . 	
+IS1007c.B.dialog-act.s9553330.149	A help button . 	
+IS1007c.C.dialog-act.s9553330.77	Yeah . 	
+IS1007c.A.dialog-act.s9553330.28	Yeah . 	
+IS1007c.B.dialog-act.s9553330.150	So you are display on the screen . 	
+IS1007c.C.dialog-act.s9553330.78	On the T_V_ screen . 	
+IS1007c.A.dialog-act.s9553330.29	On T_V_ T_V_ screen . 	
+IS1007c.B.dialog-act.s9553330.151	So on the T_V_ screen . 	
+IS1007c.C.dialog-act.s9553330.79	On the T_V_ screen the uh how to use your remote . 	
+IS1007c.A.dialog-act.s9553330.30	So just you push the button 	
+IS1007c.B.dialog-act.s9553330.152	Okay . Okay . Okay . 	
+IS1007c.A.dialog-act.s9553330.31	and we will 	
+IS1007c.D.dialog-act.s9553330.5	Oh . 	
+IS1007c.B.dialog-act.s9553330.153	So that eliminates all the complicated documentation , 	
+IS1007c.A.dialog-act.s9553330.32	Yeah . 	
+IS1007c.B.dialog-act.s9553330.154	okay . 	
+IS1007c.B.dialog-act.s9553330.155	So wi 	
+IS1007c.D.dialog-act.s9553330.6	But people are often enough looking at the help , 	
+IS1007c.D.dialog-act.s9553330.7	once they see the help button they say oh this is a complicated stuff . 	
+IS1007c.A.dialog-act.s9553330.33	If the if 	
+IS1007c.A.dialog-act.s9553330.34	No 	
+IS1007c.A.dialog-act.s9553330.35	In the case where they need help , in the case where they need help . 	
+IS1007c.C.dialog-act.s9553330.80	Uh yeah . 	
+IS1007c.D.dialog-act.s9553330.8	It's a psychology . 	
+IS1007c.C.dialog-act.s9553330.81	In a marketing point of view . 	
+IS1007c.D.dialog-act.s9553330.9	Okay . 	
+IS1007c.D.dialog-act.s9553330.10	And let us see what the market demands . 	
+IS1007c.B.dialog-act.s9553330.156	Yeah . 	
+IS1007c.D.dialog-act.s9553330.11	We could just go to my presentation . 	
+IS1007c.A.dialog-act.s9553330.36	Yeah . 	
+IS1007c.C.dialog-act.s9553330.82	But uh wel well I think 	
+IS1007c.A.dialog-act.s9553330.37	It's just for user customizable , for kids or old people . 	
+IS1007c.D.dialog-act.s9553330.12	Yeah that's right . 	
+IS1007c.B.dialog-act.s9553330.157	Mm . 	
+IS1007c.D.dialog-act.s9553330.13	I mean it just showed us the remote with an cap which could be used for kids 	
+IS1007c.A.dialog-act.s9553330.38	So 	
+IS1007c.D.dialog-act.s9553330.14	and if you remove the 	
+IS1007c.A.dialog-act.s9553330.39	So it's the same 	
+IS1007c.D.dialog-act.s9553330.15	Same remote with some 	
+IS1007c.A.dialog-act.s9553330.40	Can be used by both kids and old people . 	
+IS1007c.D.dialog-act.s9553330.16	Both yeah . 	
+IS1007c.B.dialog-act.s9553330.158	Mm . 	
+IS1007c.B.dialog-act.s9553330.159	Well uh what I s propose is that uh you know a remote controller , i it could be a cube , 	
+IS1007c.C.dialog-act.s9553330.83		
+IS1007c.B.dialog-act.s9553330.160	is uh a small device that uh looks like a cube 	
+IS1007c.B.dialog-act.s9553330.161	and maybe you can just change the um the buttons , 	
+IS1007c.B.dialog-act.s9553330.162	if you ch turn one side you get one one buttons , 	
+IS1007c.B.dialog-act.s9553330.163	you turn the other side you get the other buttons , 	
+IS1007c.B.dialog-act.s9553330.164	so for maybe new generation people who get used to the computer they want lots of controls . 	
+IS1007c.A.dialog-act.s9553330.42	Maybe for kids , 	
+IS1007c.A.dialog-act.s9553330.43	kids they like uh t no l they like to 	
+IS1007c.B.dialog-act.s9553330.165	Small 	
+IS1007c.C.dialog-act.s9553330.84	Uh well . 	
+IS1007c.C.dialog-act.s9553330.85	So le le let's see what uh what people want . 	
+IS1007c.B.dialog-act.s9553330.167	Yeah . 	
+IS1007c.B.dialog-act.s9553330.166	Let's see the market demand . 	
+IS1007c.A.dialog-act.s9553330.41		
+IS1007c.D.dialog-act.s9553330.17	And then we can decide what what we can yeah . 	
+IS1007c.B.dialog-act.s9553330.168	What what market yes yes . 	
+IS1007c.A.dialog-act.s9553330.44		
+IS1007c.D.dialog-act.s9553330.18	So we just made an marketing survey of what people need from our remotes 	
+IS1007c.D.dialog-act.s9553330.19	and how it could be special from the other remotes . 	
+IS1007c.D.dialog-act.s9553330.20	And we got the best on the responses from the questionnaires . 	
+IS1007c.D.dialog-act.s9553330.21	Uh we also have some prizes for the most creative solutions . 	
+IS1007c.D.dialog-act.s9553330.22	And we found the following solutions which we could which would be helpful for our design . 	
+IS1007c.D.dialog-act.s9553330.23	So seventy percent of the users , they find their remote controls very ugly , 	
+IS1007c.D.dialog-act.s9553330.24	they don't find it pleasant to use in the size or usage or anything . 	
+IS1007c.D.dialog-act.s9553330.25	And eighty percent of the people they are always l I mean they are willing to spend more money if the remote control would look fancy . 	
+IS1007c.D.dialog-act.s9553330.26	And the current remote controls do not match well the operating behaviour of the user . 	
+IS1007c.D.dialog-act.s9553330.27	And seventy five percent of the users said they zap a lot . 	
+IS1007c.D.dialog-act.s9553330.28	And fifty percent say they use only ten percent of the buttons , 	
+IS1007c.A.dialog-act.s9553330.45	Yeah . 	
+IS1007c.C.dialog-act.s9553330.86	Yeah . 	
+IS1007c.D.dialog-act.s9553330.29	so the rest of the ninety percent of the buttons they're not used most of the times . 	
+IS1007c.A.dialog-act.s9553330.46	Mm-hmm . 	
+IS1007c.B.dialog-act.s9553330.169	Yeah . Yes . 	
+IS1007c.D.dialog-act.s9553330.30	So this were the findings which we found . 	
+IS1007c.D.dialog-act.s9553330.31	And also they cited frustrations with the present remote controls . 	
+IS1007c.D.dialog-act.s9553330.32	Most of 	
+IS1007c.D.dialog-act.s9553330.33	fifty percent of the time the remote controls are lost somewhere in the room 	
+IS1007c.D.dialog-act.s9553330.34	and people are always searching for them rather than watching the T_V_ . 	
+IS1007c.B.dialog-act.s9553330.170	Yeah . 	
+IS1007c.D.dialog-act.s9553330.35	And by the time they found the remote control the program is finished . 	
+IS1007c.D.dialog-act.s9553330.36	So they're frustrated a lot 	
+IS1007c.C.dialog-act.s9553330.87	Yeah . 	
+IS1007c.B.dialog-act.s9553330.171		
+IS1007c.D.dialog-act.s9553330.37	And um if the remote control is too complicated it takes much time to learn the functionality of it . 	
+IS1007c.B.dialog-act.s9553330.172	Mm . 	
+IS1007c.C.dialog-act.s9553330.88	Mm , the functionalities yeah . 	
+IS1007c.D.dialog-act.s9553330.38	So you can just see the percentage , 	
+IS1007c.D.dialog-act.s9553330.39	fifty percent people they responded that they always lose their remotes 	
+IS1007c.D.dialog-act.s9553330.40	and thirty four percent they say that it's quite difficult to learn if it's too complex . 	
+IS1007c.C.dialog-act.s9553330.89	Yeah . 	
+IS1007c.D.dialog-act.s9553330.41	So keeping in view all these findings and the frustrations I think this should be the solution for them . 	
+IS1007c.D.dialog-act.s9553330.42	We should have an L_C_D_ on the rem remote control . 	
+IS1007c.B.dialog-act.s9553330.173	Oh . 	
+IS1007c.C.dialog-act.s9553330.90	Well mm w well I I I don't really see the advantage of having uh L_C_D_ on the on the remote control if we have a a a big screen and uh display on the screen . 	
+IS1007c.B.dialog-act.s9553330.174	Big screen . 	
+IS1007c.C.dialog-act.s9553330.91	It's 	
+IS1007c.D.dialog-act.s9553330.43	Mm-hmm ? 	
+IS1007c.C.dialog-act.s9553330.92	yeah of course it's fancy trendy and so on 	
+IS1007c.C.dialog-act.s9553330.93	but it's it's expensive to produce 	
+IS1007c.C.dialog-act.s9553330.94	and it's not really 	
+IS1007c.D.dialog-act.s9553330.44	I mean as our survey says that people are willing to pay more if their remotes are fancy . 	
+IS1007c.C.dialog-act.s9553330.95	Yeah . 	
+IS1007c.D.dialog-act.s9553330.45	So if we have a L_C_D_ on the remote , rather than looking onto the T_V_ you just look into a remote and navigate it . 	
+IS1007c.D.dialog-act.s9553330.46	It's the same menu as we have saw that iPod remote control . 	
+IS1007c.B.dialog-act.s9553330.175	Mm yeah . 	
+IS1007c.C.dialog-act.s9553330.96	Yeah yeah . 	
+IS1007c.B.dialog-act.s9553330.176	Mm . The thing 	
+IS1007c.D.dialog-act.s9553330.47	We just play around 	
+IS1007c.C.dialog-act.s9553330.97	Yeah but when you play with the iPod you don't have a big screen in front of you , s 	
+IS1007c.B.dialog-act.s9553330.177	Yeah . Yeah . 	
+IS1007c.D.dialog-act.s9553330.48	Yeah . 	
+IS1007c.A.dialog-act.s9553330.47	You can use this screen instead of the big se screen , 	
+IS1007c.B.dialog-act.s9553330.178	Yeah . 	
+IS1007c.B.dialog-act.s9553330.179	If you re-use the existing screen , we element eliminate the L_C_D_ , 	
+IS1007c.A.dialog-act.s9553330.48	instead of use the yeah . 	
+IS1007c.B.dialog-act.s9553330.180	after all the L_C_D_ just to display 	
+IS1007c.A.dialog-act.s9553330.49	Hmm . 	
+IS1007c.B.dialog-act.s9553330.181	and if you have the colourful screen you can make the display colourful , fancy , 	
+IS1007c.D.dialog-act.s9553330.49	Yeah . 	
+IS1007c.B.dialog-act.s9553330.182	as fancy as the one on the L_C_D_ , 	
+IS1007c.C.dialog-act.s9553330.98	Yeah . 	
+IS1007c.B.dialog-act.s9553330.183	maybe even better . 	
+IS1007c.B.dialog-act.s9553330.184	So 	
+IS1007c.D.dialog-act.s9553330.50	I mean this were the points which we got from the market demands . 	
+IS1007c.B.dialog-act.s9553330.185	Yeah . 	
+IS1007c.C.dialog-act.s9553330.99	Yeah . Yeah yeah . 	
+IS1007c.D.dialog-act.s9553330.51	So 	
+IS1007c.B.dialog-act.s9553330.186	Yeah . 	
+IS1007c.C.dialog-act.s9553330.100	So I th I I 	
+IS1007c.C.dialog-act.s9553330.101	well I think we we can focus on the uh on the fancy look 	
+IS1007c.C.dialog-act.s9553330.102	on the uh 	
+IS1007c.B.dialog-act.s9553330.187	Yeah . 	
+IS1007c.B.dialog-act.s9553330.188	More on a fancy design . 	
+IS1007c.D.dialog-act.s9553330.52	Yeah that's fine . 	
+IS1007c.D.dialog-act.s9553330.53	Yeah . 	
+IS1007c.C.dialog-act.s9553330.103	on the speech recognition if the technology is available 	
+IS1007c.D.dialog-act.s9553330.54	I mean that's 	
+IS1007c.B.dialog-act.s9553330.189	Yeah . 	
+IS1007c.C.dialog-act.s9553330.104	but well I think L_C_D_ will uh will uh make us spend a lot of money for not so big results . 	
+IS1007c.B.dialog-act.s9553330.190	Mm . 	
+IS1007c.B.dialog-act.s9553330.191	Remember we have a s budget for the cost of producing the remote controller . 	
+IS1007c.D.dialog-act.s9553330.55	Mm-hmm . 	
+IS1007c.A.dialog-act.s9553330.50	But 	
+IS1007c.A.dialog-act.s9553330.51	Yeah . 	
+IS1007c.B.dialog-act.s9553330.192	Yeah . So i is 	
+IS1007c.D.dialog-act.s9553330.56	Uh yeah we have uh 	
+IS1007c.A.dialog-act.s9553330.52		
+IS1007c.B.dialog-act.s9553330.193	so the thing is you can find out how much an L_C_D_ will cost 	
+IS1007c.B.dialog-act.s9553330.194	and then we'll decide again . 	
+IS1007c.D.dialog-act.s9553330.57	I mean that should be found out by the Industrial Designers . 	
+IS1007c.C.dialog-act.s9553330.105		
+IS1007c.A.dialog-act.s9553330.53		
+IS1007c.B.dialog-act.s9553330.195	Uh maybe you can find out the price and tell us next time . 	
+IS1007c.C.dialog-act.s9553330.106	So price of uh L_C_D_ display . 	
+IS1007c.B.dialog-act.s9553330.196	Is i if i 	
+IS1007c.B.dialog-act.s9553330.197	Yeah . 	
+IS1007c.D.dialog-act.s9553330.58	And it's always good to have an voice recognition for the remote controls . 	
+IS1007c.C.dialog-act.s9553330.107	And 	
+IS1007c.B.dialog-act.s9553330.198	Yeah . 	
+IS1007c.B.dialog-act.s9553330.199	And also the cost for the speech recognition . 	
+IS1007c.A.dialog-act.s9553330.54	Mm . It's for 	
+IS1007c.C.dialog-act.s9553330.108	Yeah . 	
+IS1007c.B.dialog-act.s9553330.200	Ask our R_ and D_ department . 	
+IS1007c.A.dialog-act.s9553330.55	it's just for small vocabulary . 	
+IS1007c.B.dialog-act.s9553330.201	Yeah . 	
+IS1007c.D.dialog-act.s9553330.59	Yeah it's o only for a limited vocabulary , 	
+IS1007c.A.dialog-act.s9553330.56	We it's not 	
+IS1007c.B.dialog-act.s9553330.202	Yeah . 	
+IS1007c.A.dialog-act.s9553330.57	yeah . 	
+IS1007c.D.dialog-act.s9553330.60	say eighty commands or so . 	
+IS1007c.B.dialog-act.s9553330.204	And ho 	
+IS1007c.A.dialog-act.s9553330.58	Yeah . 	
+IS1007c.B.dialog-act.s9553330.203	Yeah . 	
+IS1007c.C.dialog-act.s9553330.109	Yeah okay . 	
+IS1007c.B.dialog-act.s9553330.205	And also the scroller button , how much will it cost . 	
+IS1007c.C.dialog-act.s9553330.110	And 	
+IS1007c.C.dialog-act.s9553330.111	Well uh compared to the to s the simpl simpler simplest button . 	
+IS1007c.A.dialog-act.s9553330.59	Yeah . Push push . 	
+IS1007c.D.dialog-act.s9553330.61	Mm , the scroll button , 	
+IS1007c.D.dialog-act.s9553330.62	from the survey we never see that people would like to have some scrolling button . 	
+IS1007c.C.dialog-act.s9553330.112	Yeah . Yeah I think that 	
+IS1007c.D.dialog-act.s9553330.63	Because they they just they're just frightened to use the scrollings or help button . 	
+IS1007c.B.dialog-act.s9553330.206	Yeah . 	
+IS1007c.C.dialog-act.s9553330.113	Yeah I I I think that uh well uh as we have seen in the in the presentation uh well uh about uh uh fifty percent of the of the percent n choose the button 	
+IS1007c.B.dialog-act.s9553330.207	Don't use the buttons . 	
+IS1007c.C.dialog-act.s9553330.114	so uh I think to have uh five uh simple button is sufficient for our functionality . 	
+IS1007c.B.dialog-act.s9553330.208	Yeah . 	
+IS1007c.B.dialog-act.s9553330.209	Yeah . Yeah . 	
+IS1007c.B.dialog-act.s9553330.210	Yeah . 	
+IS1007c.D.dialog-act.s9553330.64	Yeah . 	
+IS1007c.A.dialog-act.s9553330.60	It doesn't mean that the other buttons are not necessary or important . 	
+IS1007c.D.dialog-act.s9553330.65		
+IS1007c.B.dialog-act.s9553330.211	Important . 	
+IS1007c.C.dialog-act.s9553330.115	Yeah . But 	
+IS1007c.A.dialog-act.s9553330.61	But they are just less used compar 	
+IS1007c.D.dialog-act.s9553330.66	They're not used much . 	
+IS1007c.A.dialog-act.s9553330.62	yeah . 	
+IS1007c.C.dialog-act.s9553330.116	But the uh the thing is is i is that we can add a functionality on the on the T_V_ screen 	
+IS1007c.C.dialog-act.s9553330.117	like uh a a list of function 	
+IS1007c.B.dialog-act.s9553330.212	Yeah . 	
+IS1007c.B.dialog-act.s9553330.213	Yeah . Mm . 	
+IS1007c.C.dialog-act.s9553330.118	and then you choose with the with the button to well you navigate 	
+IS1007c.B.dialog-act.s9553330.214	Yeah , yeah . 	
+IS1007c.C.dialog-act.s9553330.119	and you 	
+IS1007c.B.dialog-act.s9553330.215	So so the at most more power uh . 	
+IS1007c.A.dialog-act.s9553330.63	Or maybe we can u uh or maybe we can uh make this the ten percent of button more bigger than the others . 	
+IS1007c.C.dialog-act.s9553330.120	Yeah . 	
+IS1007c.A.dialog-act.s9553330.64	So . 	
+IS1007c.D.dialog-act.s9553330.67		
+IS1007c.C.dialog-act.s9553330.121	But if i i if we if we could have a a a display uh g a user interface that is very complete on the T_V_ screen I think that just five buttons are sufficient , 	
+IS1007c.B.dialog-act.s9553330.216	Yep . 	
+IS1007c.C.dialog-act.s9553330.122	one to go up left right down and uh enter 	
+IS1007c.B.dialog-act.s9553330.217	Yeah . 	
+IS1007c.C.dialog-act.s9553330.123	and you you you just select the functionality you want to access or things like that . 	
+IS1007c.B.dialog-act.s9553330.218	Mm . Mm . Yeah . 	
+IS1007c.C.dialog-act.s9553330.124	You don't have to to switch to a channel to another uh 	
+IS1007c.B.dialog-act.s9553330.219	Yeah . 	
+IS1007c.A.dialog-act.s9553330.65	Mm . 	
+IS1007c.D.dialog-act.s9553330.68	Or it could be like this , as the people say , if they have a L_C_D_ on the remote not on the television . 	
+IS1007c.D.dialog-act.s9553330.69	Because when you have the L_C_D_ onto the television screen you miss the picture in the background , 	
+IS1007c.D.dialog-act.s9553330.70	we are most focused on the commands . 	
+IS1007c.D.dialog-act.s9553330.71	So if you have then L_C_D_ in the remote , you just have a menu , 	
+IS1007c.C.dialog-act.s9553330.125	Yeah but 	
+IS1007c.D.dialog-act.s9553330.72	and increasing and lower these signs here to change the programs 	
+IS1007c.D.dialog-act.s9553330.73	and this menu when you press the menu , in the L_C_D_ displays as you go on pressing the menu it faster displays volume , then the program , then the brightness , contrast and all the stuff . 	
+IS1007c.B.dialog-act.s9553330.220	Mm . 	
+IS1007c.C.dialog-act.s9553330.126	Yeah but if you look at the L_C_D_ you you don't look at the T_V_ screen 	
+IS1007c.D.dialog-act.s9553330.74	And accordingly you can just increase or decrease . 	
+IS1007c.B.dialog-act.s9553330.221	Mm . 	
+IS1007c.A.dialog-act.s9553330.66	It's 	
+IS1007c.C.dialog-act.s9553330.127	so i i it's not really worth to get to have the image if you don't look at , so . 	
+IS1007c.B.dialog-act.s9553330.223	Mm . 	
+IS1007c.B.dialog-act.s9553330.224	I if 	
+IS1007c.B.dialog-act.s9553330.225	Mm . Mm . 	
+IS1007c.B.dialog-act.s9553330.222	Yeah . 	
+IS1007c.A.dialog-act.s9553330.67	And I think it's increases the cost of the the remote control if you use L_C_D_ . I 	
+IS1007c.C.dialog-act.s9553330.128	Yeah . 	
+IS1007c.D.dialog-act.s9553330.75	Yeah 	
+IS1007c.D.dialog-act.s9553330.76	that has to be checked out . 	
+IS1007c.B.dialog-act.s9553330.226	I think that there's no contradiction here , 	
+IS1007c.B.dialog-act.s9553330.227	because if there are few buttons , you don't have to look at your your controller any more 	
+IS1007c.B.dialog-act.s9553330.228	because you know where the buttons are , 	
+IS1007c.C.dialog-act.s9553330.129	Yeah . 	
+IS1007c.B.dialog-act.s9553330.229	so if you wanna control the screen d sh sharpness you just say sharpness 	
+IS1007c.B.dialog-act.s9553330.230	and then you t turn you just press lef increase or decrease button 	
+IS1007c.C.dialog-act.s9553330.130		
+IS1007c.B.dialog-act.s9553330.231	and the same for the volume and the channel , 	
+IS1007c.D.dialog-act.s9553330.77	Yeah . 	
+IS1007c.B.dialog-act.s9553330.232	if you had the speech recognition there you just shout your channel , 	
+IS1007c.B.dialog-act.s9553330.233	just tell your channel 	
+IS1007c.B.dialog-act.s9553330.234	and then you don't even have to look at the butto at the controller 	
+IS1007c.B.dialog-act.s9553330.235	so finally that wil eliminates the the need for L_C_D_ , 	
+IS1007c.D.dialog-act.s9553330.78	Okay . 	
+IS1007c.B.dialog-act.s9553330.236	with the help of speech recogniser you can 	
+IS1007c.D.dialog-act.s9553330.79	I mean , better if we could just check all the cost with L_C_D_ 	
+IS1007c.B.dialog-act.s9553330.237	Yeah . 	
+IS1007c.D.dialog-act.s9553330.80	and also with the speech recognition . 	
+IS1007c.B.dialog-act.s9553330.238	Mm . 	
+IS1007c.C.dialog-act.s9553330.131	Yeah . 	
+IS1007c.D.dialog-act.s9553330.81	And then we could find which would would be a more suitable in this case . 	
+IS1007c.B.dialog-act.s9553330.239	Mm . Mm . Yeah . 	
+IS1007c.B.dialog-act.s9553330.240	A and 	
+IS1007c.D.dialog-act.s9553330.82	And the third problem was to find the remote control . 	
+IS1007c.D.dialog-act.s9553330.83	Always , so fifty percent of the people say they lose the remotes . 	
+IS1007c.C.dialog-act.s9553330.132	Well so we we can think about a well a a vocal command like uh find 	
+IS1007c.B.dialog-act.s9553330.241	Mm . 	
+IS1007c.C.dialog-act.s9553330.133	and when the remote control uh hears fine well yeah just uh to make him beep or t 	
+IS1007c.B.dialog-act.s9553330.242	Where , 	
+IS1007c.A.dialog-act.s9553330.68	You will listen to a peep , special peep . 	
+IS1007c.B.dialog-act.s9553330.244	yeah . 	
+IS1007c.D.dialog-act.s9553330.84	Yeah that's right , 	
+IS1007c.D.dialog-act.s9553330.85	that's exactly what I mean by voice commander . 	
+IS1007c.D.dialog-act.s9553330.86	Or it could be also something like this , 	
+IS1007c.C.dialog-act.s9553330.134	Yeah . 	
+IS1007c.B.dialog-act.s9553330.246	Yeah . 	
+IS1007c.D.dialog-act.s9553330.87	uh it's always boring to change the batteries of the remotes control , 	
+IS1007c.B.dialog-act.s9553330.247	Mm . 	
+IS1007c.C.dialog-act.s9553330.135	Yeah . 	
+IS1007c.D.dialog-act.s9553330.88	so we have some one charger there 	
+IS1007c.D.dialog-act.s9553330.89	and whenever we don't use the remote control we put it in the charger . 	
+IS1007c.B.dialog-act.s9553330.245	Put it back at the charge . 	
+IS1007c.C.dialog-act.s9553330.136	Put 	
+IS1007c.B.dialog-act.s9553330.248	Yeah . 	
+IS1007c.D.dialog-act.s9553330.90	And when we're using that t remote and if we misplace somewhere , in the charger we have a small button , and just by pressing the button in the charger the uh remote control beeps , wherever it is . 	
+IS1007c.C.dialog-act.s9553330.137	Yeah . 	
+IS1007c.B.dialog-act.s9553330.249	Yeah . 	
+IS1007c.A.dialog-act.s9553330.69	Okay . 	
+IS1007c.C.dialog-act.s9553330.138	And that's a good idea , 	
+IS1007c.C.dialog-act.s9553330.139	that's simple , like in phones . 	
+IS1007c.A.dialog-act.s9553330.70	Yeah . 	
+IS1007c.B.dialog-act.s9553330.250	Mm . 	
+IS1007c.D.dialog-act.s9553330.91	I mean it doe it also doesn't require a voice command , 	
+IS1007c.D.dialog-act.s9553330.92	because there are problems with a voice command . 	
+IS1007c.C.dialog-act.s9553330.140	Yeah . 	
+IS1007c.A.dialog-act.s9553330.71	But you don't you don't have to move the the charger . 	
+IS1007c.B.dialog-act.s9553330.251	Hmm . Mm . Th yeah . Mm yeah . Yeah . Mm . 	
+IS1007c.D.dialog-act.s9553330.93	Yeah , yeah , yeah . 	
+IS1007c.D.dialog-act.s9553330.94	I mean charger would be fixed 	
+IS1007c.A.dialog-act.s9553330.72	You have to keep it . 	
+IS1007c.D.dialog-act.s9553330.95	because it's always with electricity plugged . 	
+IS1007c.C.dialog-act.s9553330.141	Yeah . 	
+IS1007c.C.dialog-act.s9553330.142	Yeah if there if there uh there is nuff not enough battery . Also and uh uh the remote is lost . 	
+IS1007c.A.dialog-act.s9553330.73	Okay . 	
+IS1007c.B.dialog-act.s9553330.252	Mm . There's mm . Mm . 	
+IS1007c.D.dialog-act.s9553330.96		
+IS1007c.B.dialog-act.s9553330.253	Yeah . 	
+IS1007c.D.dialog-act.s9553330.97	Yeah that's right . 	
+IS1007c.B.dialog-act.s9553330.254	That we can 	
+IS1007c.B.dialog-act.s9553330.255	what we can do is we can program a function whereby when you press the switch off T_V_ button , the off button , the remote there be s uh instruction on the screen , please charge charge me . 	
+IS1007c.C.dialog-act.s9553330.143	Yeah . 	
+IS1007c.B.dialog-act.s9553330.256	You never get it lost 	
+IS1007c.B.dialog-act.s9553330.257	because uh every time you're off the computer the T_V_ you are asked the the command the T_V_ com remote controller would tell you to put it back to where to the charger . 	
+IS1007c.D.dialog-act.s9553330.98	It's an good reminder , 	
+IS1007c.D.dialog-act.s9553330.99	yeah that's right . 	
+IS1007c.B.dialog-act.s9553330.258	Yeah . So you will never get lost yeah . 	
+IS1007c.C.dialog-act.s9553330.144	Okay . 	
+IS1007c.A.dialog-act.s9553330.74	Maybe for some people lazy people . 	
+IS1007c.B.dialog-act.s9553330.259	Yeah . Yeah 	
+IS1007c.B.dialog-act.s9553330.260	because everything is programmed inside . 	
+IS1007c.A.dialog-act.s9553330.75	Yeah yeah . 	
+IS1007c.B.dialog-act.s9553330.261	So it's it's uh it's all about strategy , y 	
+IS1007c.D.dialog-act.s9553330.100	And of course the final point is a fancy look . 	
+IS1007c.B.dialog-act.s9553330.262	Mm . 	
+IS1007c.D.dialog-act.s9553330.101	As we have seen earlier the remotes which were displayed by Norman they weren't fancy , 	
+IS1007c.B.dialog-act.s9553330.265	Mm . 	
+IS1007c.C.dialog-act.s9553330.145	They were ugly . 	
+IS1007c.B.dialog-act.s9553330.263	Yeah , yeah . 	
+IS1007c.D.dialog-act.s9553330.102	I mean mm very big or something with lot of buttons . 	
+IS1007c.C.dialog-act.s9553330.146	They 	
+IS1007c.A.dialog-act.s9553330.76	Mm . 	
+IS1007c.D.dialog-act.s9553330.103	I think we should have something it 	
+IS1007c.C.dialog-act.s9553330.147	Well the last one with the um yeah with the two parts was uh original , so 	
+IS1007c.B.dialog-act.s9553330.264	With uh two two two parts controller . 	
+IS1007c.D.dialog-act.s9553330.104	I mean uh I mean uh I mean uh you see if it's like that even a kid who wants to have a control he could just plug it and use it , you can't avoid him . 	
+IS1007c.C.dialog-act.s9553330.148	Yeah . 	
+IS1007c.D.dialog-act.s9553330.105	But you can have an button for child lock . 	
+IS1007c.B.dialog-act.s9553330.266	Yeah . 	
+IS1007c.C.dialog-act.s9553330.149	Yeah . 	
+IS1007c.B.dialog-act.s9553330.267	Mm . 	
+IS1007c.D.dialog-act.s9553330.106	So just by pressing the button with some code , you t you put a lock onto the remote , so that he can't use even 	
+IS1007c.B.dialog-act.s9553330.268	Mm . 	
+IS1007c.B.dialog-act.s9553330.269	Mm . Mm . 	
+IS1007c.C.dialog-act.s9553330.150	Well we can think about uh having uh on the on the on the user interface when you switch on the T_V_ you can uh well write a code or choose a category , if it is kids , uh things like that . 	
+IS1007c.B.dialog-act.s9553330.270	Mm . 	
+IS1007c.D.dialog-act.s9553330.107	Mm uh 	
+IS1007c.B.dialog-act.s9553330.271	Mm . 	
+IS1007c.A.dialog-act.s9553330.77	Or 	
+IS1007c.B.dialog-act.s9553330.272	Mm . 	
+IS1007c.B.dialog-act.s9553330.273	Yeah . Mm . 	
+IS1007c.D.dialog-act.s9553330.108	That's right . 	
+IS1007c.A.dialog-act.s9553330.78	Or maybe you have to to show some specific programmes for kids 	
+IS1007c.A.dialog-act.s9553330.79	and then just just yeah just push uh kids button so it's automatically 	
+IS1007c.B.dialog-act.s9553330.274	Mm . 	
+IS1007c.B.dialog-act.s9553330.275	these are probl 	
+IS1007c.B.dialog-act.s9553330.276	yeah . 	
+IS1007c.B.dialog-act.s9553330.277	Mm . Mm . 	
+IS1007c.B.dialog-act.s9553330.278	Mm . 	
+IS1007c.A.dialog-act.s9553330.80	. 	
+IS1007c.A.dialog-act.s9553330.81	So if he . 	
+IS1007c.D.dialog-act.s9553330.109	I think these other four points they're the market demands 	
+IS1007c.D.dialog-act.s9553330.110	and so it's for the user interface design and industrial design to just think 	
+IS1007c.C.dialog-act.s9553330.151	So for mm 	
+IS1007c.B.dialog-act.s9553330.279	Mm . 	
+IS1007c.A.dialog-act.s9553330.82	Yeah . 	
+IS1007c.C.dialog-act.s9553330.152	yeah . 	
+IS1007c.C.dialog-act.s9553330.153	So for my part I will check the prices the um the prices difference uh of what to use , where to use , and s uh and so on . 	
+IS1007c.D.dialog-act.s9553330.111	Yeah I think it should be clearer for us in the next meeting that th uh these could be included . 	
+IS1007c.C.dialog-act.s9553330.154	Yeah . 	
+IS1007c.B.dialog-act.s9553330.281	Mm . 	
+IS1007c.B.dialog-act.s9553330.280	I think we need to define also a s the set of vocabularies for the speech recogniser 	
+IS1007c.C.dialog-act.s9553330.155	Yeah . 	
+IS1007c.B.dialog-act.s9553330.282	because uh if you want uh say we can sort by channels or sort by T_V_ programs , you have to decide a category of vocabularies for them . 	
+IS1007c.B.dialog-act.s9553330.283	If numbers , they're easy , 	
+IS1007c.A.dialog-act.s9553330.83	Mm-hmm . 	
+IS1007c.B.dialog-act.s9553330.284	but if name the channel by by name 	
+IS1007c.C.dialog-act.s9553330.156	Well I think we can we can have just numbers for channels 	
+IS1007c.C.dialog-act.s9553330.157	and you can say to your remote control like uh sports 	
+IS1007c.C.dialog-act.s9553330.158	and then on the T_V_ you have a list with with uh uh well with sports program playing now 	
+IS1007c.B.dialog-act.s9553330.285	Mm . 	
+IS1007c.C.dialog-act.s9553330.159	and and uh 	
+IS1007c.D.dialog-act.s9553330.112	No , 	
+IS1007c.D.dialog-act.s9553330.113	we have a problem there . 	
+IS1007c.D.dialog-act.s9553330.114	You see uh if you have a voice commands and you are s you are watching a score on uh basketball score or something , and if the score comes twenty four thirty five , you've just say twenty five 	
+IS1007c.D.dialog-act.s9553330.115	and suddenly the screen the channel goes to twenty five . 	
+IS1007c.A.dialog-act.s9553330.84	Yeah it's yeah . 	
+IS1007c.D.dialog-act.s9553330.116	So I think there should be a prefix to some numbers 	
+IS1007c.C.dialog-act.s9553330.160	That's right , yeah , yeah . 	
+IS1007c.B.dialog-act.s9553330.286	Mm . 	
+IS1007c.C.dialog-act.s9553330.161	Well but well e every possible word uh has a probability to come about of the T_V_ so . 	
+IS1007c.B.dialog-act.s9553330.287	Yeah . 	
+IS1007c.D.dialog-act.s9553330.117	I mean the the you just check all the probability that saying T_V_ twenty five and just ordinary twenty five . 	
+IS1007c.B.dialog-act.s9553330.288	Mm . 	
+IS1007c.C.dialog-act.s9553330.162	Yeah yeah . 	
+IS1007c.D.dialog-act.s9553330.118	Ordinary twenty five you almost there's a probability of being said around sixty seventy percent 	
+IS1007c.C.dialog-act.s9553330.163	Yeah but well 	
+IS1007c.B.dialog-act.s9553330.289	Mm . 	
+IS1007c.C.dialog-act.s9553330.164	okay . 	
+IS1007c.D.dialog-act.s9553330.119	and T_V_ twenty five I dunno it will be round about one or two percent . 	
+IS1007c.B.dialog-act.s9553330.290	Mm . 	
+IS1007c.A.dialog-act.s9553330.85	Mm-hmm . 	
+IS1007c.B.dialog-act.s9553330.291	Mm . 	
+IS1007c.D.dialog-act.s9553330.120	So it's better to have some prefix before the number . 	
+IS1007c.B.dialog-act.s9553330.292	But I I I think that the user would like wou would like to associate the channel or call the channel rather than than the numbers . 	
+IS1007c.D.dialog-act.s9553330.123	Yeah something , some code . 	
+IS1007c.B.dialog-act.s9553330.293	You say numbe channel number five of the T_V_ correspond to something else in the channel . 	
+IS1007c.C.dialog-act.s9553330.165	Yeah yeah . 	
+IS1007c.B.dialog-act.s9553330.294	So some people may want to say , I want to see this channel . 	
+IS1007c.C.dialog-act.s9553330.166	Mm mm . 	
+IS1007c.C.dialog-act.s9553330.167	Well I 	
+IS1007c.D.dialog-act.s9553330.124	That will be too big . 	
+IS1007c.D.dialog-act.s9553330.125	And it will be difficult for the vocabulary also . 	
+IS1007c.A.dialog-act.s9553330.86	Or just 	
+IS1007c.B.dialog-act.s9553330.295	Yeah . 	
+IS1007c.B.dialog-act.s9553330.296	Check with the v R_ and D_ department the capability of recogniser . 	
+IS1007c.A.dialog-act.s9553330.87	It's difficult to to just say the the name of the channel . 	
+IS1007c.B.dialog-act.s9553330.297	Uh ? 	
+IS1007c.A.dialog-act.s9553330.88	It will be difficult to say just the name of the channel . 	
+IS1007c.A.dialog-act.s9553330.89	Because you have to s t uh a ch 	
+IS1007c.B.dialog-act.s9553330.298	Well , it's convenient for the user . 	
+IS1007c.A.dialog-act.s9553330.90	yeah 	
+IS1007c.A.dialog-act.s9553330.91	but you have to to have all the name of the channel in your vocabulary . 	
+IS1007c.D.dialog-act.s9553330.126	Als might be you just forgot the channel name , you kno only know the number . 	
+IS1007c.A.dialog-act.s9553330.92	Or maybe 	
+IS1007c.C.dialog-act.s9553330.168	Yeah . 	
+IS1007c.D.dialog-act.s9553330.127	Then 	
+IS1007c.B.dialog-act.s9553330.300	The uh uh mm . 	
+IS1007c.A.dialog-act.s9553330.93	Or maybe the user can create his own vocabulary , 	
+IS1007c.B.dialog-act.s9553330.301	Mm . 	
+IS1007c.A.dialog-act.s9553330.94	just pronouncing the the name of channels and include in the vocabulary . 	
+IS1007c.B.dialog-act.s9553330.299	I I think that I have mm mm 	
+IS1007c.B.dialog-act.s9553330.302	I think there's another way you can do is that uh you can uh if when the user ch press a button to choose the channel for example , then what you can do is that the you can make the T_V_ screen to split them into small little little squares of images where you you you have a snapshot of every channel , 	
+IS1007c.B.dialog-act.s9553330.303	so let's say it's a four by four matrix of the images , so now what you do is f looking at the all the sixteen channels available at one time , 	
+IS1007c.B.dialog-act.s9553330.304	you just use the control button uh , 	
+IS1007c.B.dialog-act.s9553330.305	you just you you just choose the the option you want 	
+IS1007c.D.dialog-act.s9553330.128	Yeah , the . 	
+IS1007c.B.dialog-act.s9553330.306	and then you just hit the button 	
+IS1007c.B.dialog-act.s9553330.307	and then you go to that channel . 	
+IS1007c.B.dialog-act.s9553330.308	So 	
+IS1007c.A.dialog-act.s9553330.95	Or lets the user create his own vocabulary of channel . 	
+IS1007c.B.dialog-act.s9553330.309	Mm . 	
+IS1007c.B.dialog-act.s9553330.310	So you you don't use the speech recogniser in that way . 	
+IS1007c.A.dialog-act.s9553330.96	No . 	
+IS1007c.A.dialog-act.s9553330.97	Just you have uh in the beginning you have uh t you have to train 	
+IS1007c.A.dialog-act.s9553330.98	you have to create the vocabulary by yourself . 	
+IS1007c.B.dialog-act.s9553330.311	Oh , okay . Yeah . 	
+IS1007c.C.dialog-act.s9553330.169	Well I uh I also 	
+IS1007c.A.dialog-act.s9553330.99	By associating each channel with the name or 	
+IS1007c.C.dialog-act.s9553330.170	I I also think about uh another problem , 	
+IS1007c.C.dialog-act.s9553330.171	if if there is uh more than one person who is watching T_V_ 	
+IS1007c.B.dialog-act.s9553330.312		
+IS1007c.D.dialog-act.s9553330.129	Yeah yeah , 	
+IS1007c.C.dialog-act.s9553330.172	the s well the the speech uh r recogniser should be able to distinguish between the two . 	
+IS1007c.A.dialog-act.s9553330.100	And for each one has his own . 	
+IS1007c.D.dialog-act.s9553330.130	. 	
+IS1007c.C.dialog-act.s9553330.173	Because uh I remember when I was a young child with my sister we yeah we always want to w to watch different emission at the at the same time 	
+IS1007c.B.dialog-act.s9553330.314	Mm . 	
+IS1007c.A.dialog-act.s9553330.101	Or you have to s 	
+IS1007c.B.dialog-act.s9553330.313	Yeah , I wanna watch this , I wanna watch that . 	
+IS1007c.D.dialog-act.s9553330.131	Yeah . 	
+IS1007c.C.dialog-act.s9553330.174	so it's a pr it could be a problem if uh if well if someone passes by when you are watching T_V_ and say oh T_V_ thirty and just run , s 	
+IS1007c.B.dialog-act.s9553330.315	Mm . 	
+IS1007c.D.dialog-act.s9553330.132	A and in the same lines we would have a one more problem . 	
+IS1007c.D.dialog-act.s9553330.133	If we are using the television in the different environments , say in the factories or in the shops where there is a lot of noise and this voice commands if they fail to work , that would bring a bad name bad uh reputation for our company . 	
+IS1007c.C.dialog-act.s9553330.175	Yeah , yeah . 	
+IS1007c.A.dialog-act.s9553330.102	Yeah . 	
+IS1007c.B.dialog-act.s9553330.316	Mm . 	
+IS1007c.D.dialog-act.s9553330.134	So I think we should specify some pre-requirements if we want to use a voice commands , 	
+IS1007c.A.dialog-act.s9553330.103	Mm . 	
+IS1007c.D.dialog-act.s9553330.135	say that it should be used in an silent homely environment or s something . 	
+IS1007c.C.dialog-act.s9553330.176	Yeah . 	
+IS1007c.A.dialog-act.s9553330.104	Or we can switch on or switch off the the special , yeah . 	
+IS1007c.D.dialog-act.s9553330.136	Yeah that's right 	
+IS1007c.D.dialog-act.s9553330.137	that should be an option . 	
+IS1007c.B.dialog-act.s9553330.317	Mm . 	
+IS1007c.C.dialog-act.s9553330.177	Yeah that's 	
+IS1007c.C.dialog-act.s9553330.178	well I think that's a good uh a good option 	
+IS1007c.C.dialog-act.s9553330.179	because it's simple and uh simple to implement also , so . 	
+IS1007c.B.dialog-act.s9553330.318	Hmm . 	
+IS1007c.D.dialog-act.s9553330.138	I think these are the practical problems . 	
+IS1007c.D.dialog-act.s9553330.139	So we need to take care of them in the design . 	
+IS1007c.C.dialog-act.s9553330.181		
+IS1007c.A.dialog-act.s9553330.105	Maybe we'll discuss them in next meeting . 	
+IS1007c.A.dialog-act.s9553330.106	It's time to close this meeting . 	
+IS1007c.C.dialog-act.s9553330.182	Okay . 	
+IS1007c.B.dialog-act.s9553330.319	Well , you you stay a five minutes . 	
+IS1007c.D.dialog-act.s9553330.141	Okay . 	
+IS1007c.C.dialog-act.s9553330.180		
+IS1007c.D.dialog-act.s9553330.140	Oh it came there on three minutes back so we are 	
+IS1007c.A.dialog-act.s9553330.107	Yeah . Okay . 	
+IS1007c.D.dialog-act.s9553330.142	I think we can just press the okay . 	
+IS1007c.C.dialog-act.s9553330.183	Okay . 	
+IS1007c.C.dialog-act.s9553330.184	So I see ya . 	
+IS1007c.A.dialog-act.s9553330.108	Thanks for your collaborations . 	
+IS1007c.D.dialog-act.s9553330.143	Okay . See you another thirty minutes . 	
+

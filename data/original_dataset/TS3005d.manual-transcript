@@ -1,0 +1,2283 @@
+Observation: TS3005d; Result size: 2280; atts: 2
+$d@nite:id	$d	
+TS3005d.A.dialog-act.vkaraisk.3	Good . 	
+TS3005d.C.dialog-act.vkaraisk.9	Beep . 	
+TS3005d.C.dialog-act.vkaraisk.10	Oh . 	
+TS3005d.B.dialog-act.vkaraisk.8	What ? 	
+TS3005d.A.dialog-act.vkaraisk.4	So well uh 	
+TS3005d.A.dialog-act.vkaraisk.5	welcome everyone . 	
+TS3005d.B.dialog-act.vkaraisk.9	Yeah . 	
+TS3005d.A.dialog-act.vkaraisk.6	Um as you may have noticed I uh 	
+TS3005d.C.dialog-act.vkaraisk.11		
+TS3005d.B.dialog-act.vkaraisk.10		
+TS3005d.A.dialog-act.vkaraisk.7	created separate folders 	
+TS3005d.A.dialog-act.vkaraisk.8	because it was uh tending to get a little busy in our uh shared project documents uh folder . 	
+TS3005d.B.dialog-act.vkaraisk.11	Yeah . 	
+TS3005d.A.dialog-act.vkaraisk.9	I don't know if everybody uh put their own uh documents in the right folder , 	
+TS3005d.A.dialog-act.vkaraisk.10	which is for now the detailed design meeting . 	
+TS3005d.D.dialog-act.vkaraisk.6	That's new one ? 	
+TS3005d.B.dialog-act.vkaraisk.12	We didn't make any uh 	
+TS3005d.A.dialog-act.vkaraisk.11	Yeah . 	
+TS3005d.C.dialog-act.vkaraisk.12	Uh , 	
+TS3005d.C.dialog-act.vkaraisk.13	we should save that one . 	
+TS3005d.B.dialog-act.vkaraisk.13	Oh 	
+TS3005d.B.dialog-act.vkaraisk.14	in 	
+TS3005d.A.dialog-act.vkaraisk.12	Then I'll move this one . 	
+TS3005d.B.dialog-act.vkaraisk.15	Didn't we just do that ? 	
+TS3005d.C.dialog-act.vkaraisk.14	Yeah , 	
+TS3005d.C.dialog-act.vkaraisk.15	save in the folder . Save as project . 	
+TS3005d.B.dialog-act.vkaraisk.16	Oh . 	
+TS3005d.A.dialog-act.vkaraisk.13	Oh 	
+TS3005d.A.dialog-act.vkaraisk.14	no , 	
+TS3005d.A.dialog-act.vkaraisk.15	this is just one big document , 	
+TS3005d.A.dialog-act.vkaraisk.16	so you can leave that wherever it is . 	
+TS3005d.C.dialog-act.vkaraisk.16	Oh , 	
+TS3005d.C.dialog-act.vkaraisk.17	okay . 	
+TS3005d.C.dialog-act.vkaraisk.18	Hmm hmm . 	
+TS3005d.B.dialog-act.vkaraisk.17		
+TS3005d.A.dialog-act.vkaraisk.17	And we have a evaluation left here . 	
+TS3005d.A.dialog-act.vkaraisk.18	Okay . 	
+TS3005d.C.dialog-act.vkaraisk.19	Agenda . 	
+TS3005d.A.dialog-act.vkaraisk.19	Well 	
+TS3005d.A.dialog-act.vkaraisk.20	not main documents this time . 	
+TS3005d.B.dialog-act.vkaraisk.18	Hmm ? 	
+TS3005d.A.dialog-act.vkaraisk.21	Oh uh yes . 	
+TS3005d.A.dialog-act.vkaraisk.22	I have it open myself I guess . 	
+TS3005d.A.dialog-act.vkaraisk.23	Um well 	
+TS3005d.A.dialog-act.vkaraisk.24	the detailed design meeting Huh ? 	
+TS3005d.A.dialog-act.vkaraisk.25	We're finally getting somewhere hopefully . 	
+TS3005d.C.dialog-act.vkaraisk.20		
+TS3005d.B.dialog-act.vkaraisk.19		
+TS3005d.A.dialog-act.vkaraisk.26	Um what are we going to do ? 	
+TS3005d.A.dialog-act.vkaraisk.27	I've opened it already . 	
+TS3005d.A.dialog-act.vkaraisk.28	Um I'm still going to take some minutes , 	
+TS3005d.C.dialog-act.vkaraisk.21	Oh , sorry . 	
+TS3005d.A.dialog-act.vkaraisk.29	and if I'm right , you two are going to give a prototype presentation ? 	
+TS3005d.D.dialog-act.vkaraisk.7		
+TS3005d.C.dialog-act.vkaraisk.22		
+TS3005d.B.dialog-act.vkaraisk.20	We could . 	
+TS3005d.A.dialog-act.vkaraisk.30	Aren't you ? 	
+TS3005d.A.dialog-act.vkaraisk.31	Yes , you are . 	
+TS3005d.C.dialog-act.vkaraisk.23		
+TS3005d.A.dialog-act.vkaraisk.32	And uh m did you do something with evaluation criteria ? 	
+TS3005d.D.dialog-act.vkaraisk.8	Yep . Yep . 	
+TS3005d.A.dialog-act.vkaraisk.33	Good . 	
+TS3005d.A.dialog-act.vkaraisk.34	And we have a correct agenda . 	
+TS3005d.A.dialog-act.vkaraisk.35	And uh then we have to look at something which is less nice , 	
+TS3005d.A.dialog-act.vkaraisk.36	the finance uh aspect , whether we can afford what we have designed , 	
+TS3005d.A.dialog-act.vkaraisk.37	and if we can we can uh commence the final part which is the production or project evaluation , 	
+TS3005d.B.dialog-act.vkaraisk.21	Oops . 	
+TS3005d.A.dialog-act.vkaraisk.38	how did we work together 	
+TS3005d.A.dialog-act.vkaraisk.39	and what are the results , 	
+TS3005d.A.dialog-act.vkaraisk.40	and how happy are we with those . 	
+TS3005d.A.dialog-act.vkaraisk.41	Okay , well 	
+TS3005d.A.dialog-act.vkaraisk.42	finance uh will be later . 	
+TS3005d.A.dialog-act.vkaraisk.43	Now I'd like to give the word to you two . 	
+TS3005d.B.dialog-act.vkaraisk.22	Yeah . 	
+TS3005d.C.dialog-act.vkaraisk.24	Okay . 	
+TS3005d.C.dialog-act.vkaraisk.25	Get up stand up . 	
+TS3005d.B.dialog-act.vkaraisk.23	Well uh 	
+TS3005d.C.dialog-act.vkaraisk.26	just 	
+TS3005d.B.dialog-act.vkaraisk.24	we made a prototype . 	
+TS3005d.C.dialog-act.vkaraisk.27	'Kay . 	
+TS3005d.B.dialog-act.vkaraisk.25	We first start with the overall uh 	
+TS3005d.B.dialog-act.vkaraisk.26	This is about the total remote control . 	
+TS3005d.C.dialog-act.vkaraisk.28	View . 	
+TS3005d.B.dialog-act.vkaraisk.27	We made it green . 	
+TS3005d.C.dialog-act.vkaraisk.29	Just example colour , 	
+TS3005d.C.dialog-act.vkaraisk.30	so uh 	
+TS3005d.B.dialog-act.vkaraisk.28	Yeah . 	
+TS3005d.C.dialog-act.vkaraisk.31	there's one of the colours we would like to uh see in our prototype . 	
+TS3005d.B.dialog-act.vkaraisk.29	It's a fresh colour . 	
+TS3005d.B.dialog-act.vkaraisk.30	And uh the screen light blue . 	
+TS3005d.B.dialog-act.vkaraisk.31	Oh uh 	
+TS3005d.B.dialog-act.vkaraisk.32	this the scroll button and the microphone on the on the sides here under . 	
+TS3005d.B.dialog-act.vkaraisk.33	And the R_ and R_ logo , 	
+TS3005d.B.dialog-act.vkaraisk.34	it just says R_ and R_ now , 	
+TS3005d.B.dialog-act.vkaraisk.35	but uh 	
+TS3005d.C.dialog-act.vkaraisk.32	Okay ? 	
+TS3005d.B.dialog-act.vkaraisk.36	Any questions so far ? 	
+TS3005d.D.dialog-act.vkaraisk.9	Big microphone . 	
+TS3005d.C.dialog-act.vkaraisk.33	yeah , 	
+TS3005d.C.dialog-act.vkaraisk.34	just uh just an idea about how to m th that could also be possible . 	
+TS3005d.B.dialog-act.vkaraisk.37	Yeah . 	
+TS3005d.D.dialog-act.vkaraisk.10	Oh okay . 	
+TS3005d.D.dialog-act.vkaraisk.11	That's the place where it's going to be , not the size . 	
+TS3005d.C.dialog-act.vkaraisk.35	Uh well , 	
+TS3005d.B.dialog-act.vkaraisk.38	Yeah . 	
+TS3005d.C.dialog-act.vkaraisk.36	it's an idea 	
+TS3005d.C.dialog-act.vkaraisk.37	in a so . 	
+TS3005d.B.dialog-act.vkaraisk.39	Oh 	
+TS3005d.B.dialog-act.vkaraisk.40	y you 	
+TS3005d.B.dialog-act.vkaraisk.41	perhaps you should make it a bit big , 	
+TS3005d.B.dialog-act.vkaraisk.42	so people know it's there 	
+TS3005d.B.dialog-act.vkaraisk.43	and uh 	
+TS3005d.C.dialog-act.vkaraisk.38	Do not forget it . 	
+TS3005d.B.dialog-act.vkaraisk.44	Uh 	
+TS3005d.D.dialog-act.vkaraisk.12	Mm-hmm . 	
+TS3005d.C.dialog-act.vkaraisk.39	To function it it doesn't really have to be sm uh big of course . 	
+TS3005d.D.dialog-act.vkaraisk.13	Yeah , okay . Of course . 	
+TS3005d.B.dialog-act.vkaraisk.45	Hmm . 	
+TS3005d.C.dialog-act.vkaraisk.40	The microphone could be just a minor uh hole uh on the left uh button . 	
+TS3005d.D.dialog-act.vkaraisk.14	Mm . Mm , th yeah . 	
+TS3005d.D.dialog-act.vkaraisk.15	Small . 	
+TS3005d.C.dialog-act.vkaraisk.41	Okay um 	
+TS3005d.C.dialog-act.vkaraisk.42	we also made some uh ideas about how uh the options menu would work . 	
+TS3005d.C.dialog-act.vkaraisk.43	Uh using the scroll button on sides uh y uh I uh um 	
+TS3005d.B.dialog-act.vkaraisk.46	You push the scroll button 	
+TS3005d.C.dialog-act.vkaraisk.44	Yeah , you push the scroll button 	
+TS3005d.B.dialog-act.vkaraisk.47	and it's claps out 	
+TS3005d.B.dialog-act.vkaraisk.48	if there's a 	
+TS3005d.C.dialog-act.vkaraisk.45	and a drop down menu or a pull out menu comes out 	
+TS3005d.C.dialog-act.vkaraisk.46	and uh you get uh you get the options uh becoming available . For example uh T_V_ settings , uh remote settings , et cetera . 	
+TS3005d.B.dialog-act.vkaraisk.49	Remote settings , et cetera . 	
+TS3005d.B.dialog-act.vkaraisk.50	Yeah . 	
+TS3005d.C.dialog-act.vkaraisk.47	So uh you can scroll down too with the scroll uh button , 	
+TS3005d.C.dialog-act.vkaraisk.48	uh as you can see 	
+TS3005d.C.dialog-act.vkaraisk.49	oh , 	
+TS3005d.C.dialog-act.vkaraisk.50	it's here , 	
+TS3005d.C.dialog-act.vkaraisk.51	just push it in , 	
+TS3005d.C.dialog-act.vkaraisk.52	uh the menu comes out like this 	
+TS3005d.C.dialog-act.vkaraisk.53	and uh i it all becomes visible . Um 	
+TS3005d.B.dialog-act.vkaraisk.51	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.52	And you could also touch it 	
+TS3005d.B.dialog-act.vkaraisk.53	so that it comes out , 	
+TS3005d.C.dialog-act.vkaraisk.54	Yeah , 	
+TS3005d.B.dialog-act.vkaraisk.54	and and use the the the scroll thing as a with your fingers . 	
+TS3005d.C.dialog-act.vkaraisk.55	that's c 	
+TS3005d.C.dialog-act.vkaraisk.56	Yeah . 	
+TS3005d.C.dialog-act.vkaraisk.57	Indeed . 	
+TS3005d.B.dialog-act.vkaraisk.55	Yes . 	
+TS3005d.C.dialog-act.vkaraisk.58	Okay , um 	
+TS3005d.C.dialog-act.vkaraisk.59	it's also uh nice to see that um we made a small uh menu , uh the options menu uh becoming available when pressing the uh scroll uh button , 	
+TS3005d.C.dialog-act.vkaraisk.60	and the opportunity to use the teletext , 	
+TS3005d.C.dialog-act.vkaraisk.61	whi which is used uh which should still be used 	
+TS3005d.C.dialog-act.vkaraisk.62	and we think that it's uh very handy to put it uh not uh under the options menu , but in uh Yes . In an apart uh 	
+TS3005d.B.dialog-act.vkaraisk.56	Yeah . 	
+TS3005d.A.dialog-act.vkaraisk.44	So 	
+TS3005d.A.dialog-act.vkaraisk.45	a separate button for for text , 	
+TS3005d.C.dialog-act.vkaraisk.64	In a separate button , yeah . 	
+TS3005d.B.dialog-act.vkaraisk.57	Yeah . 	
+TS3005d.A.dialog-act.vkaraisk.46	okay . 	
+TS3005d.B.dialog-act.vkaraisk.58	Perhaps we should use the teletext sign 	
+TS3005d.B.dialog-act.vkaraisk.59	in p yeah . 	
+TS3005d.C.dialog-act.vkaraisk.65	A sign , yeah , 	
+TS3005d.C.dialog-act.vkaraisk.66	just like 	
+TS3005d.C.dialog-act.vkaraisk.67	Okay , indeed . 	
+TS3005d.B.dialog-act.vkaraisk.62	Yeah . 	
+TS3005d.C.dialog-act.vkaraisk.68	Okay , 	
+TS3005d.C.dialog-act.vkaraisk.69	we can uh modify that later . 	
+TS3005d.B.dialog-act.vkaraisk.60	Forgot . 	
+TS3005d.C.dialog-act.vkaraisk.70	Okay . 	
+TS3005d.C.dialog-act.vkaraisk.71	Would you like to make any comments about next uh 	
+TS3005d.B.dialog-act.vkaraisk.61	Uh well , 	
+TS3005d.B.dialog-act.vkaraisk.63	this is the total interface uh that f of the L_C_D_ screen . 	
+TS3005d.B.dialog-act.vkaraisk.64	Uh the numbers , which is pretty straight forward . 	
+TS3005d.B.dialog-act.vkaraisk.66	We put ano an an extra button in . 	
+TS3005d.B.dialog-act.vkaraisk.67	We can erase it , 	
+TS3005d.B.dialog-act.vkaraisk.65	but It's the button where you can switch channels . 	
+TS3005d.B.dialog-act.vkaraisk.68	just when you are one and you go to two , you can or if you go to five , you can go back to one with that button . 	
+TS3005d.B.dialog-act.vkaraisk.69	Yeah , that one , yeah . 	
+TS3005d.C.dialog-act.vkaraisk.72	Previous page , yeah , indeed . 	
+TS3005d.B.dialog-act.vkaraisk.70	It has a name . 	
+TS3005d.B.dialog-act.vkaraisk.71	And uh uh we put that in , 	
+TS3005d.C.dialog-act.vkaraisk.73	Oh my God . 	
+TS3005d.B.dialog-act.vkaraisk.72	I thought it would be handy there . 	
+TS3005d.B.dialog-act.vkaraisk.73	Uh this the one number or two numbers button . 	
+TS3005d.B.dialog-act.vkaraisk.74	Below that , the page and the sound . 	
+TS3005d.B.dialog-act.vkaraisk.75	And uh in the middle the the mute . 	
+TS3005d.B.dialog-act.vkaraisk.76	Uh battery indicator . 	
+TS3005d.C.dialog-act.vkaraisk.74	It's quite large . 	
+TS3005d.D.dialog-act.vkaraisk.16		
+TS3005d.B.dialog-act.vkaraisk.77	It's it's a bit big . 	
+TS3005d.B.dialog-act.vkaraisk.78	And this is the uh the on off uh knop , the stand by uh knop . 	
+TS3005d.B.dialog-act.vkaraisk.79	Or at least it should look like it . 	
+TS3005d.B.dialog-act.vkaraisk.80	And the options uh of teletext . 	
+TS3005d.C.dialog-act.vkaraisk.75	Okay . 	
+TS3005d.C.dialog-act.vkaraisk.76	You can see very clearly now that the uh teletext and options menu isn't uh taking uh much uh uh it's taking much part of the screen , 	
+TS3005d.C.dialog-act.vkaraisk.77	so it's very uh 	
+TS3005d.C.dialog-act.vkaraisk.78	when you uh when you use it , doesn't uh become irritating to see . 	
+TS3005d.C.dialog-act.vkaraisk.79	'Cause if you put it on the top you always get see the the options menu . 	
+TS3005d.B.dialog-act.vkaraisk.81	Huh . 	
+TS3005d.C.dialog-act.vkaraisk.80	'Cause people regularly uh read from left top to right down , 	
+TS3005d.C.dialog-act.vkaraisk.81	so 	
+TS3005d.A.dialog-act.vkaraisk.47	Mm-hmm . 	
+TS3005d.B.dialog-act.vkaraisk.82	Yeah . Well 	
+TS3005d.B.dialog-act.vkaraisk.83	this about it , I think . 	
+TS3005d.C.dialog-act.vkaraisk.82	Okay . Huh . 	
+TS3005d.B.dialog-act.vkaraisk.84	Yeah . 	
+TS3005d.A.dialog-act.vkaraisk.48	Thank you . 	
+TS3005d.B.dialog-act.vkaraisk.85	I will put it back on the on the nice green . 	
+TS3005d.A.dialog-act.vkaraisk.49	Looks good . 	
+TS3005d.C.dialog-act.vkaraisk.83		
+TS3005d.A.dialog-act.vkaraisk.50	And I just missed when I was typing The R_R_ stands for ? 	
+TS3005d.C.dialog-act.vkaraisk.84		
+TS3005d.B.dialog-act.vkaraisk.86	That's the logo of the 	
+TS3005d.A.dialog-act.vkaraisk.51	Logo , okay . 	
+TS3005d.B.dialog-act.vkaraisk.87	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.88	It's th th right now it's only R_ R_ , but uh 	
+TS3005d.D.dialog-act.vkaraisk.17		
+TS3005d.A.dialog-act.vkaraisk.52	Okay well 	
+TS3005d.C.dialog-act.vkaraisk.85	Full screen . 	
+TS3005d.A.dialog-act.vkaraisk.53	I would have recognised it if it were the right colours of course . 	
+TS3005d.D.dialog-act.vkaraisk.18	Shit . 	
+TS3005d.B.dialog-act.vkaraisk.89	Yeah . 	
+TS3005d.C.dialog-act.vkaraisk.86	Alright . 	
+TS3005d.B.dialog-act.vkaraisk.90	Sorry . 	
+TS3005d.D.dialog-act.vkaraisk.19	'Kay . 	
+TS3005d.A.dialog-act.vkaraisk.54	Okay , 	
+TS3005d.A.dialog-act.vkaraisk.55	the evaluation criteria , 	
+TS3005d.B.dialog-act.vkaraisk.91	Oh full screen , yeah . 	
+TS3005d.C.dialog-act.vkaraisk.87	Huh . 	
+TS3005d.A.dialog-act.vkaraisk.56	huh ? 	
+TS3005d.D.dialog-act.vkaraisk.20	Evaluation . 	
+TS3005d.D.dialog-act.vkaraisk.21	'Kay , 	
+TS3005d.D.dialog-act.vkaraisk.22	my task was this time to put up a questionnaire 	
+TS3005d.D.dialog-act.vkaraisk.23	by which we can evaluate the design of the remote control by the questions we requirements from the of the users . 	
+TS3005d.D.dialog-act.vkaraisk.24	My name , my job , 	
+TS3005d.D.dialog-act.vkaraisk.25	okay . 	
+TS3005d.C.dialog-act.vkaraisk.89	My name , my job . 	
+TS3005d.D.dialog-act.vkaraisk.26	The methods . 	
+TS3005d.B.dialog-act.vkaraisk.92		
+TS3005d.D.dialog-act.vkaraisk.27	Questionnaire with seven point scale from one to seven , from true to false , 	
+TS3005d.D.dialog-act.vkaraisk.28	like question , is remote big enough , we can say it's true or it's false by steps . 	
+TS3005d.B.dialog-act.vkaraisk.93	Right . 	
+TS3005d.D.dialog-act.vkaraisk.29	One means absolutely not true , 	
+TS3005d.D.dialog-act.vkaraisk.30	seven means true . 	
+TS3005d.B.dialog-act.vkaraisk.94	Yeah . 	
+TS3005d.D.dialog-act.vkaraisk.31	The three important things of refa are uh from th of this year is are , 	
+TS3005d.C.dialog-act.vkaraisk.90	Sorry , 	
+TS3005d.B.dialog-act.vkaraisk.95		
+TS3005d.C.dialog-act.vkaraisk.91	you used the PowerPoint 	
+TS3005d.D.dialog-act.vkaraisk.32	is the remote control fancy enough , 	
+TS3005d.B.dialog-act.vkaraisk.96	Yeah . 	
+TS3005d.D.dialog-act.vkaraisk.33	is it in innovative enough , 	
+TS3005d.D.dialog-act.vkaraisk.34	and is it easy enough to use . 	
+TS3005d.D.dialog-act.vkaraisk.35	And then evaluation itself . Uh . 	
+TS3005d.C.dialog-act.vkaraisk.92	What ? 	
+TS3005d.D.dialog-act.vkaraisk.36	So . 	
+TS3005d.B.dialog-act.vkaraisk.97		
+TS3005d.C.dialog-act.vkaraisk.93	Bling . 	
+TS3005d.D.dialog-act.vkaraisk.37	Okay . 	
+TS3005d.B.dialog-act.vkaraisk.98	Yeah . 	
+TS3005d.D.dialog-act.vkaraisk.38	First question . 	
+TS3005d.D.dialog-act.vkaraisk.39	Is the design fancy enough ? 	
+TS3005d.B.dialog-act.vkaraisk.99	Well 	
+TS3005d.D.dialog-act.vkaraisk.40	Project Manager , what do you think ? 	
+TS3005d.A.dialog-act.vkaraisk.57	Well 	
+TS3005d.A.dialog-act.vkaraisk.58	it's looks fancy , especially with the green colour . And the the curves which we decided , 	
+TS3005d.B.dialog-act.vkaraisk.100	Yeah . 	
+TS3005d.D.dialog-act.vkaraisk.41	But does it 	
+TS3005d.A.dialog-act.vkaraisk.59	huh ? 	
+TS3005d.D.dialog-act.vkaraisk.42	Yeah . 	
+TS3005d.A.dialog-act.vkaraisk.60	Only what happened to the single curve we spoke about last meeting ? 	
+TS3005d.C.dialog-act.vkaraisk.94	Now uh 	
+TS3005d.B.dialog-act.vkaraisk.101	It uh oh it's in the background . Oh . 	
+TS3005d.C.dialog-act.vkaraisk.95	the single curved idea was uh 	
+TS3005d.C.dialog-act.vkaraisk.96	Yeah , okay , 	
+TS3005d.C.dialog-act.vkaraisk.97	you ge um 	
+TS3005d.B.dialog-act.vkaraisk.102	Y you should make uh a sideways uh view . 	
+TS3005d.C.dialog-act.vkaraisk.98	Yeah . The sideways view , 	
+TS3005d.C.dialog-act.vkaraisk.99	uh that that that ma 	
+TS3005d.B.dialog-act.vkaraisk.103	It will be , I guess . Oh , we can 	
+TS3005d.C.dialog-act.vkaraisk.100	Ho 	
+TS3005d.C.dialog-act.vkaraisk.101	not that pen . Not that pen . 	
+TS3005d.D.dialog-act.vkaraisk.43		
+TS3005d.B.dialog-act.vkaraisk.104	Oh 	
+TS3005d.A.dialog-act.vkaraisk.61	Well 	
+TS3005d.B.dialog-act.vkaraisk.105	g I would smart board . 	
+TS3005d.A.dialog-act.vkaraisk.62	it might work one time , huh . 	
+TS3005d.C.dialog-act.vkaraisk.102	Suppose so . 	
+TS3005d.B.dialog-act.vkaraisk.106	Uh can I draw here or uh 	
+TS3005d.D.dialog-act.vkaraisk.44	Think . 	
+TS3005d.B.dialog-act.vkaraisk.107	Ooh . 	
+TS3005d.C.dialog-act.vkaraisk.103	Ah . Oh my God , 	
+TS3005d.D.dialog-act.vkaraisk.45	Yeah , yeah , you can . 	
+TS3005d.B.dialog-act.vkaraisk.108	So 	
+TS3005d.C.dialog-act.vkaraisk.104	it works . 	
+TS3005d.B.dialog-act.vkaraisk.109	it would be uh something like this from the side , but with a bit of uh curve here , 	
+TS3005d.B.dialog-act.vkaraisk.110	right ? 	
+TS3005d.C.dialog-act.vkaraisk.105	Yeah , that's the single curve indeed . 	
+TS3005d.B.dialog-act.vkaraisk.111	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.112	So 	
+TS3005d.B.dialog-act.vkaraisk.113	if you v flip it like this . 	
+TS3005d.C.dialog-act.vkaraisk.106	Yep . 	
+TS3005d.A.dialog-act.vkaraisk.63	Okay . 	
+TS3005d.B.dialog-act.vkaraisk.114	Here's yeah . 	
+TS3005d.C.dialog-act.vkaraisk.107	That's not very i 	
+TS3005d.C.dialog-act.vkaraisk.108	it's also uh very handy if you make a side curve way to make the the remote control very thin at the bottom uh at a bottom at a bottom . 	
+TS3005d.C.dialog-act.vkaraisk.109	Uh make it uh rather thick on the top , 	
+TS3005d.C.dialog-act.vkaraisk.110	because uh on the top it has uh the screen , 	
+TS3005d.C.dialog-act.vkaraisk.111	which takes uh in some uh space , 	
+TS3005d.C.dialog-act.vkaraisk.112	and the batteries can be located over there , 	
+TS3005d.B.dialog-act.vkaraisk.115	Yeah . So 	
+TS3005d.C.dialog-act.vkaraisk.113	so uh 	
+TS3005d.B.dialog-act.vkaraisk.116	you just make the back of this part a bit bigger , 	
+TS3005d.B.dialog-act.vkaraisk.117	so that it lays a bit o 	
+TS3005d.C.dialog-act.vkaraisk.114	Yeah . 	
+TS3005d.D.dialog-act.vkaraisk.46	Isn't going to be a little bit heavy at the top ? 	
+TS3005d.C.dialog-act.vkaraisk.115		
+TS3005d.D.dialog-act.vkaraisk.47		
+TS3005d.B.dialog-act.vkaraisk.118	Yeah , that's a bit of problem maybe . 	
+TS3005d.C.dialog-act.vkaraisk.116	No . 	
+TS3005d.D.dialog-act.vkaraisk.48	With two batteries , the whole print plate and t and top , and if you're holding it quite a lot I think 	
+TS3005d.B.dialog-act.vkaraisk.119	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.120	I think yeah , the battery should be in here , 	
+TS3005d.B.dialog-act.vkaraisk.121	because it's just nothing , 	
+TS3005d.C.dialog-act.vkaraisk.117	Yeah . 	
+TS3005d.D.dialog-act.vkaraisk.49	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.122	so if you could 	
+TS3005d.C.dialog-act.vkaraisk.118	Okay , indeed . Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.123	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.124	'Cause otherwise I think i 	
+TS3005d.A.dialog-act.vkaraisk.64	Okay , 	
+TS3005d.A.dialog-act.vkaraisk.65	but we have to rate uh these things now ? 	
+TS3005d.D.dialog-act.vkaraisk.50	Yeah , we have to rate . 	
+TS3005d.D.dialog-act.vkaraisk.51	Is it fancy enough ? 	
+TS3005d.A.dialog-act.vkaraisk.66	Okay . 	
+TS3005d.D.dialog-act.vkaraisk.52	True is one , 	
+TS3005d.D.dialog-act.vkaraisk.53	false is seven . 	
+TS3005d.D.dialog-act.vkaraisk.54	So 	
+TS3005d.D.dialog-act.vkaraisk.55	fancy enough means , does it comes to the younger people and the elder people . 	
+TS3005d.B.dialog-act.vkaraisk.125	I think it does . 	
+TS3005d.C.dialog-act.vkaraisk.119	I think so . 	
+TS3005d.D.dialog-act.vkaraisk.56	I think 	
+TS3005d.B.dialog-act.vkaraisk.126	I if you don't make it green , then the elder people won't won't like it . 	
+TS3005d.C.dialog-act.vkaraisk.120	It's pretty fancy . 	
+TS3005d.D.dialog-act.vkaraisk.57	Yeah , I have to agree , 	
+TS3005d.D.dialog-act.vkaraisk.58	all the colour colours don don doesn't matter that m that much now , 	
+TS3005d.C.dialog-act.vkaraisk.121	you get th 	
+TS3005d.B.dialog-act.vkaraisk.127	Yeah . 	
+TS3005d.D.dialog-act.vkaraisk.59	it's only design . 	
+TS3005d.A.dialog-act.vkaraisk.67	Mm-hmm . 	
+TS3005d.B.dialog-act.vkaraisk.128	I think it does . 	
+TS3005d.A.dialog-act.vkaraisk.68	Yeah . 	
+TS3005d.D.dialog-act.vkaraisk.60	And the design . 	
+TS3005d.A.dialog-act.vkaraisk.69	Well 	
+TS3005d.A.dialog-act.vkaraisk.70	I think uh especially because of the microphone and the L_C_D_ screen also . 	
+TS3005d.C.dialog-act.vkaraisk.122	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.129	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.130	I don't know whether older people will use it , but 	
+TS3005d.A.dialog-act.vkaraisk.71	Very new thing . 	
+TS3005d.A.dialog-act.vkaraisk.72	Well 	
+TS3005d.D.dialog-act.vkaraisk.61	So 	
+TS3005d.A.dialog-act.vkaraisk.73	Fancy the old people will . 	
+TS3005d.B.dialog-act.vkaraisk.132	I would make it a two or something . 	
+TS3005d.C.dialog-act.vkaraisk.123		
+TS3005d.D.dialog-act.vkaraisk.62	A two ? 	
+TS3005d.B.dialog-act.vkaraisk.133	Yeah . 	
+TS3005d.C.dialog-act.vkaraisk.124	It's true , it's a one . Very fancy . 	
+TS3005d.B.dialog-act.vkaraisk.134	Huh ? 	
+TS3005d.B.dialog-act.vkaraisk.135	Alright , it's a one . Oh it's a one . 	
+TS3005d.A.dialog-act.vkaraisk.74	No , 	
+TS3005d.A.dialog-act.vkaraisk.77	it's a two . 	
+TS3005d.A.dialog-act.vkaraisk.78	Little bit strange we have to judge that ourselves , 	
+TS3005d.A.dialog-act.vkaraisk.80	huh ? 	
+TS3005d.D.dialog-act.vkaraisk.63	Yeah , 	
+TS3005d.B.dialog-act.vkaraisk.136	Yeah . 	
+TS3005d.D.dialog-act.vkaraisk.64	I n used I wouldn I should use that one , but it doesn't 	
+TS3005d.C.dialog-act.vkaraisk.125		
+TS3005d.B.dialog-act.vkaraisk.138	But it's a one uh 	
+TS3005d.D.dialog-act.vkaraisk.65	Okay , no 	
+TS3005d.B.dialog-act.vkaraisk.137	Maybe uh 	
+TS3005d.D.dialog-act.vkaraisk.66	it's two ? 	
+TS3005d.D.dialog-act.vkaraisk.67	True is a one . 	
+TS3005d.B.dialog-act.vkaraisk.139	Yeah . 	
+TS3005d.D.dialog-act.vkaraisk.68	Very true , is it very true 	
+TS3005d.D.dialog-act.vkaraisk.69	or isn't that true ? 	
+TS3005d.A.dialog-act.vkaraisk.81	Well 	
+TS3005d.B.dialog-act.vkaraisk.140	Well 	
+TS3005d.A.dialog-act.vkaraisk.82	I'd say two on a scale 	
+TS3005d.B.dialog-act.vkaraisk.141	they think it's very true , 	
+TS3005d.B.dialog-act.vkaraisk.142	but uh 	
+TS3005d.C.dialog-act.vkaraisk.126	It's very true , 	
+TS3005d.D.dialog-act.vkaraisk.70	Yeah , I think two . 	
+TS3005d.C.dialog-act.vkaraisk.127	because we designed it to be very fancy , 	
+TS3005d.B.dialog-act.vkaraisk.143	Yeah , 	
+TS3005d.C.dialog-act.vkaraisk.128	so 	
+TS3005d.B.dialog-act.vkaraisk.144	but 	
+TS3005d.C.dialog-act.vkaraisk.129	It's very fancy , I think . 	
+TS3005d.B.dialog-act.vkaraisk.145	We should perhaps 	
+TS3005d.C.dialog-act.vkaraisk.130	Have you ever seen a remote control like this ? 	
+TS3005d.A.dialog-act.vkaraisk.83	No , 	
+TS3005d.A.dialog-act.vkaraisk.84	okay well , 	
+TS3005d.C.dialog-act.vkaraisk.131	No , okay , 	
+TS3005d.A.dialog-act.vkaraisk.85	that's true . 	
+TS3005d.C.dialog-act.vkaraisk.132	so so it's fancy . 	
+TS3005d.D.dialog-act.vkaraisk.71	That's fancy enough . 	
+TS3005d.B.dialog-act.vkaraisk.146	That not . 	
+TS3005d.B.dialog-act.vkaraisk.147	Yeah . 	
+TS3005d.D.dialog-act.vkaraisk.72	Then ? 	
+TS3005d.A.dialog-act.vkaraisk.86	Okay , one two . 	
+TS3005d.A.dialog-act.vkaraisk.87	That doesn't matter that much , 	
+TS3005d.D.dialog-act.vkaraisk.73	Okay . 	
+TS3005d.A.dialog-act.vkaraisk.88	so make it a one . 	
+TS3005d.B.dialog-act.vkaraisk.148		
+TS3005d.C.dialog-act.vkaraisk.133	Yeah . 	
+TS3005d.D.dialog-act.vkaraisk.74	Let's give it a two . 	
+TS3005d.D.dialog-act.vkaraisk.75	Is it innovative ? 	
+TS3005d.B.dialog-act.vkaraisk.149	I think it is , 	
+TS3005d.D.dialog-act.vkaraisk.76	Enough . 	
+TS3005d.B.dialog-act.vkaraisk.150	because it has an L_C_D_ screen , a mi microphone . 	
+TS3005d.A.dialog-act.vkaraisk.89	Yeah 	
+TS3005d.A.dialog-act.vkaraisk.90	m 	
+TS3005d.C.dialog-act.vkaraisk.134	And uh uh the scroll is rubber , 	
+TS3005d.D.dialog-act.vkaraisk.77	We have for the search function . 	
+TS3005d.B.dialog-act.vkaraisk.151	It's from rubber . 	
+TS3005d.B.dialog-act.vkaraisk.152	Yeah . 	
+TS3005d.C.dialog-act.vkaraisk.135	so s 	
+TS3005d.D.dialog-act.vkaraisk.78	The scroller a bit 	
+TS3005d.C.dialog-act.vkaraisk.136	Eno enough to I think . 	
+TS3005d.D.dialog-act.vkaraisk.79	I think it's it's a one yeah . 	
+TS3005d.B.dialog-act.vkaraisk.153	It's a one I think . 	
+TS3005d.C.dialog-act.vkaraisk.137		
+TS3005d.D.dialog-act.vkaraisk.80	True . 	
+TS3005d.D.dialog-act.vkaraisk.81	Also huh uh-huh the buttons , are they easy to find ? 	
+TS3005d.D.dialog-act.vkaraisk.82	That was a big requirement of the old people . 	
+TS3005d.C.dialog-act.vkaraisk.138		
+TS3005d.B.dialog-act.vkaraisk.154	Yeah , 	
+TS3005d.B.dialog-act.vkaraisk.155	because they're right on your screen . 	
+TS3005d.B.dialog-act.vkaraisk.156	So you can use the b the the arrows . 	
+TS3005d.C.dialog-act.vkaraisk.139	Huh . 	
+TS3005d.B.dialog-act.vkaraisk.157	They're right on your screen , 	
+TS3005d.B.dialog-act.vkaraisk.158	so I don't know where you'd search . 	
+TS3005d.C.dialog-act.vkaraisk.140	With the ones 	
+TS3005d.D.dialog-act.vkaraisk.83	Are all the buttons easy to find ? Not only this buttons , all the buttons . 	
+TS3005d.B.dialog-act.vkaraisk.159	Yeah . 	
+TS3005d.C.dialog-act.vkaraisk.141		
+TS3005d.B.dialog-act.vkaraisk.160	Well , 	
+TS3005d.B.dialog-act.vkaraisk.161	I think they are . 	
+TS3005d.B.dialog-act.vkaraisk.162	The options are it uh little bit harder , 	
+TS3005d.C.dialog-act.vkaraisk.142	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.163	but if you touch the options then it's uh 	
+TS3005d.C.dialog-act.vkaraisk.143	Take a harder look , 	
+TS3005d.C.dialog-act.vkaraisk.144	yeah , sure . 	
+TS3005d.D.dialog-act.vkaraisk.84	I think th it's 	
+TS3005d.C.dialog-act.vkaraisk.145	It's easier than the regular uh remote control . 	
+TS3005d.D.dialog-act.vkaraisk.85	easy t 	
+TS3005d.D.dialog-act.vkaraisk.86	Yeah , 	
+TS3005d.A.dialog-act.vkaraisk.91	Yeah , 	
+TS3005d.D.dialog-act.vkaraisk.87	I think this is easy now . 	
+TS3005d.A.dialog-act.vkaraisk.92	and you use these buttons the most , 	
+TS3005d.D.dialog-act.vkaraisk.88	I think th I think the options buttons are not the the easiest way to to 	
+TS3005d.A.dialog-act.vkaraisk.93	huh ? 	
+TS3005d.C.dialog-act.vkaraisk.146	Yeah . 	
+TS3005d.A.dialog-act.vkaraisk.94	So 	
+TS3005d.B.dialog-act.vkaraisk.164	No they're not , 	
+TS3005d.B.dialog-act.vkaraisk.165	but they're they're they are easy to find . 	
+TS3005d.D.dialog-act.vkaraisk.89	to handle . 	
+TS3005d.D.dialog-act.vkaraisk.90	True . 	
+TS3005d.D.dialog-act.vkaraisk.91	I would rate it a 	
+TS3005d.C.dialog-act.vkaraisk.147	Yeah , they are a lot easier to find than uh th than on the regular remote controls 	
+TS3005d.C.dialog-act.vkaraisk.148	where you have to uh find out what which sign or icon means on uh every button . 	
+TS3005d.B.dialog-act.vkaraisk.166	Oh . 	
+TS3005d.D.dialog-act.vkaraisk.92	Yeah , okay , that's true , that's true . 	
+TS3005d.B.dialog-act.vkaraisk.167	Yeah . 	
+TS3005d.C.dialog-act.vkaraisk.149	So you have t you have to use the the the manual to understand most 	
+TS3005d.A.dialog-act.vkaraisk.95	So 	
+TS3005d.A.dialog-act.vkaraisk.96	which 	
+TS3005d.D.dialog-act.vkaraisk.94	But that's that's vantage of L_C_D_ screen , 	
+TS3005d.D.dialog-act.vkaraisk.93	you can have text . 	
+TS3005d.A.dialog-act.vkaraisk.97	So 	
+TS3005d.C.dialog-act.vkaraisk.150	Yeah . 	
+TS3005d.A.dialog-act.vkaraisk.98	which number are we going to fill in ? 	
+TS3005d.B.dialog-act.vkaraisk.168	I would say yeah . 	
+TS3005d.C.dialog-act.vkaraisk.151	I think it's uh it's a two , at least . 	
+TS3005d.B.dialog-act.vkaraisk.169	Yeah . Yeah , 	
+TS3005d.A.dialog-act.vkaraisk.99	A two , yeah ? 	
+TS3005d.B.dialog-act.vkaraisk.170	you can make it a two . 	
+TS3005d.A.dialog-act.vkaraisk.100	Two , three and 	
+TS3005d.D.dialog-act.vkaraisk.95	Yeah . 	
+TS3005d.C.dialog-act.vkaraisk.152	It's not perfect , but 	
+TS3005d.A.dialog-act.vkaraisk.101	what do you think ? 	
+TS3005d.D.dialog-act.vkaraisk.96	I think it's a three . 	
+TS3005d.C.dialog-act.vkaraisk.153	A three ? 	
+TS3005d.A.dialog-act.vkaraisk.102	Okay , so 	
+TS3005d.C.dialog-act.vkaraisk.154	And why is that ? 	
+TS3005d.A.dialog-act.vkaraisk.103	we have two , two , three . 	
+TS3005d.D.dialog-act.vkaraisk.97	I personally think , because I d I don't think i maybe it's easy to use , 	
+TS3005d.D.dialog-act.vkaraisk.98	it has to be easy to find right away . 	
+TS3005d.D.dialog-act.vkaraisk.99	I I think if you have the button at the right , I don't think you can find the option button that easy . 	
+TS3005d.B.dialog-act.vkaraisk.171	Yeah , 	
+TS3005d.B.dialog-act.vkaraisk.172	but you don't have t have to use the button on the right . 	
+TS3005d.D.dialog-act.vkaraisk.100	You can touch it . 	
+TS3005d.B.dialog-act.vkaraisk.173	You can touch it . 	
+TS3005d.B.dialog-act.vkaraisk.174	Yeah . 	
+TS3005d.C.dialog-act.vkaraisk.155	It said bo both the options . 	
+TS3005d.B.dialog-act.vkaraisk.175	You you can touch options . 	
+TS3005d.D.dialog-act.vkaraisk.101	Yeah , okay , 	
+TS3005d.D.dialog-act.vkaraisk.102	but you have y then you have here s written option on here , the teletext button , 	
+TS3005d.D.dialog-act.vkaraisk.103	right ? 	
+TS3005d.B.dialog-act.vkaraisk.176	Yeah . 	
+TS3005d.C.dialog-act.vkaraisk.156	Yeah . 	
+TS3005d.D.dialog-act.vkaraisk.104	Okay , then okay , good . 	
+TS3005d.D.dialog-act.vkaraisk.105	Then I think also two , yeah . 	
+TS3005d.B.dialog-act.vkaraisk.177	You can touch options 	
+TS3005d.B.dialog-act.vkaraisk.178	and it's comes out . 	
+TS3005d.A.dialog-act.vkaraisk.105	A two , okay , 	
+TS3005d.D.dialog-act.vkaraisk.106	Yep . 	
+TS3005d.C.dialog-act.vkaraisk.157	A two , a two . 	
+TS3005d.A.dialog-act.vkaraisk.104	because we have to 	
+TS3005d.B.dialog-act.vkaraisk.179	The uh the um Below . 	
+TS3005d.A.dialog-act.vkaraisk.106	It's the box below it , 	
+TS3005d.C.dialog-act.vkaraisk.158	Uh the next question the next question . 	
+TS3005d.A.dialog-act.vkaraisk.107	huh ? 	
+TS3005d.D.dialog-act.vkaraisk.107		
+TS3005d.C.dialog-act.vkaraisk.159	Oh my God . 	
+TS3005d.B.dialog-act.vkaraisk.180		
+TS3005d.A.dialog-act.vkaraisk.108	Otherwise we have two results in one question . 	
+TS3005d.B.dialog-act.vkaraisk.181	It's different . 	
+TS3005d.C.dialog-act.vkaraisk.160		
+TS3005d.A.dialog-act.vkaraisk.109	Okay , 	
+TS3005d.A.dialog-act.vkaraisk.110	next question . 	
+TS3005d.D.dialog-act.vkaraisk.108	It's easy to use , as well for younger as elderl elderly people . 	
+TS3005d.B.dialog-act.vkaraisk.182	For young people I think it's easy to use . 	
+TS3005d.A.dialog-act.vkaraisk.111		
+TS3005d.D.dialog-act.vkaraisk.109	Young means sixteen to forty years . 	
+TS3005d.C.dialog-act.vkaraisk.161	Yeah , 	
+TS3005d.C.dialog-act.vkaraisk.162	I was uh 	
+TS3005d.B.dialog-act.vkaraisk.183	Yeah . 	
+TS3005d.D.dialog-act.vkaraisk.110	And elderly from forty eight to their death . 	
+TS3005d.C.dialog-act.vkaraisk.163	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.184	I think it's 	
+TS3005d.C.dialog-act.vkaraisk.164	I think it's the most useful uh remote control ever to be manufactured . 	
+TS3005d.B.dialog-act.vkaraisk.185	In the entire mankind . 	
+TS3005d.A.dialog-act.vkaraisk.112	Okay , 	
+TS3005d.A.dialog-act.vkaraisk.113	you're very enthusiastic about your own design , 	
+TS3005d.D.dialog-act.vkaraisk.111	Also if you're sixty years old 	
+TS3005d.C.dialog-act.vkaraisk.165	Yeah , 	
+TS3005d.C.dialog-act.vkaraisk.166	but because it has the regular uh controls , 	
+TS3005d.A.dialog-act.vkaraisk.114	huh ? 	
+TS3005d.C.dialog-act.vkaraisk.167	li 	
+TS3005d.C.dialog-act.vkaraisk.168	uh as you can see in the screen now , 	
+TS3005d.C.dialog-act.vkaraisk.169	and uh 	
+TS3005d.C.dialog-act.vkaraisk.170	you don't have all the other options uh always uh on your screen . 	
+TS3005d.C.dialog-act.vkaraisk.171	So it's t I think it's really easy to use . 	
+TS3005d.B.dialog-act.vkaraisk.186	Yeah . 	
+TS3005d.C.dialog-act.vkaraisk.172	You want these options to 	
+TS3005d.D.dialog-act.vkaraisk.112	Also 	
+TS3005d.A.dialog-act.vkaraisk.115	As well for the for the older people ? 	
+TS3005d.D.dialog-act.vkaraisk.113	Yeah , as well 	
+TS3005d.C.dialog-act.vkaraisk.173	Uh sure . 	
+TS3005d.D.dialog-act.vkaraisk.114	as your 	
+TS3005d.D.dialog-act.vkaraisk.115	if you're fif sixty years old , you're holding one of those things in your hand 	
+TS3005d.B.dialog-act.vkaraisk.187	Yeah , 	
+TS3005d.B.dialog-act.vkaraisk.188	but uh 	
+TS3005d.B.dialog-act.vkaraisk.189	Yeah , 	
+TS3005d.B.dialog-act.vkaraisk.190	but they they don't want the uh extra options , 	
+TS3005d.D.dialog-act.vkaraisk.116	No , 	
+TS3005d.B.dialog-act.vkaraisk.191	right ? 	
+TS3005d.D.dialog-act.vkaraisk.117	but we're going to th make this f for a all kind of people , 	
+TS3005d.B.dialog-act.vkaraisk.192	So 	
+TS3005d.A.dialog-act.vkaraisk.116	And would it be easy for them to use the speech recognition ? 	
+TS3005d.D.dialog-act.vkaraisk.118	so it it it has to be 	
+TS3005d.B.dialog-act.vkaraisk.193	Yeah , okay , 	
+TS3005d.B.dialog-act.vkaraisk.194	but so they could 	
+TS3005d.B.dialog-act.vkaraisk.195	Uh I think it is . If they read a manual . 	
+TS3005d.A.dialog-act.vkaraisk.117	Because that might 	
+TS3005d.D.dialog-act.vkaraisk.119	If you read the manual , 	
+TS3005d.C.dialog-act.vkaraisk.174	Perhaps that is one of the most uh 	
+TS3005d.B.dialog-act.vkaraisk.196	Yeah , alright . 	
+TS3005d.D.dialog-act.vkaraisk.120	always . 	
+TS3005d.A.dialog-act.vkaraisk.118	M maybe that's the most user friendly and easy to use . 	
+TS3005d.B.dialog-act.vkaraisk.197	Because it it's not it's not it's it's not uh difficult . 	
+TS3005d.C.dialog-act.vkaraisk.175	Uh because a lot of 	
+TS3005d.B.dialog-act.vkaraisk.198	You say you say uh record to to the to the speech recognition , 	
+TS3005d.C.dialog-act.vkaraisk.176	Channel one , channel four , 	
+TS3005d.C.dialog-act.vkaraisk.177	yeah . 	
+TS3005d.B.dialog-act.vkaraisk.199	then you say the question and the answer . 	
+TS3005d.C.dialog-act.vkaraisk.178		
+TS3005d.B.dialog-act.vkaraisk.200	And that's everything it does , the speech recognition . 	
+TS3005d.A.dialog-act.vkaraisk.119	Yeah , well 	
+TS3005d.A.dialog-act.vkaraisk.120	maybe that would make it even more easy to use for them . 	
+TS3005d.B.dialog-act.vkaraisk.201	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.202	I think it would make it uh 	
+TS3005d.C.dialog-act.vkaraisk.179	Yeah , I think it does . 	
+TS3005d.D.dialog-act.vkaraisk.121	So 	
+TS3005d.C.dialog-act.vkaraisk.180	Because all the people who can't uh 	
+TS3005d.B.dialog-act.vkaraisk.203	I would make it two . 	
+TS3005d.D.dialog-act.vkaraisk.122	Also two ? 	
+TS3005d.B.dialog-act.vkaraisk.204	Yeah . 	
+TS3005d.C.dialog-act.vkaraisk.181	Uh a two . Sure , two . 	
+TS3005d.D.dialog-act.vkaraisk.123	Not a seven for this ? 	
+TS3005d.B.dialog-act.vkaraisk.205	Three ? 	
+TS3005d.C.dialog-act.vkaraisk.182	Oh . 	
+TS3005d.A.dialog-act.vkaraisk.121	I'd say three . 	
+TS3005d.D.dialog-act.vkaraisk.124	I would also say three . 	
+TS3005d.C.dialog-act.vkaraisk.183		
+TS3005d.B.dialog-act.vkaraisk.206	Oh . 	
+TS3005d.A.dialog-act.vkaraisk.122	Okay , so 	
+TS3005d.B.dialog-act.vkaraisk.207	You ? 	
+TS3005d.A.dialog-act.vkaraisk.123	we have three three two two 	
+TS3005d.A.dialog-act.vkaraisk.124	or 	
+TS3005d.C.dialog-act.vkaraisk.184	Two . 	
+TS3005d.B.dialog-act.vkaraisk.208	Oh . 	
+TS3005d.B.dialog-act.vkaraisk.209	Well 	
+TS3005d.A.dialog-act.vkaraisk.125	So what are we going to do ? 	
+TS3005d.B.dialog-act.vkaraisk.210	Two and a half . 	
+TS3005d.A.dialog-act.vkaraisk.126	Okay , 	
+TS3005d.A.dialog-act.vkaraisk.127	a three , 	
+TS3005d.A.dialog-act.vkaraisk.128	I see . Uh 	
+TS3005d.D.dialog-act.vkaraisk.125		
+TS3005d.C.dialog-act.vkaraisk.185	Give me more . 	
+TS3005d.B.dialog-act.vkaraisk.211	Three ? No . 	
+TS3005d.A.dialog-act.vkaraisk.129	Another question . 	
+TS3005d.D.dialog-act.vkaraisk.126	Remotes overwhelmed with buttons . 	
+TS3005d.B.dialog-act.vkaraisk.213	No . 	
+TS3005d.C.dialog-act.vkaraisk.186	No . 	
+TS3005d.A.dialog-act.vkaraisk.130	No . 	
+TS3005d.D.dialog-act.vkaraisk.127	No , 	
+TS3005d.D.dialog-act.vkaraisk.128	that that's that's 	
+TS3005d.B.dialog-act.vkaraisk.214	But um I mean , 	
+TS3005d.D.dialog-act.vkaraisk.129	yeah . 	
+TS3005d.D.dialog-act.vkaraisk.130	Tha that's a one , I think , that's definitely a one . 	
+TS3005d.B.dialog-act.vkaraisk.215	that's definitely one . 	
+TS3005d.C.dialog-act.vkaraisk.187	That's definitely our uh 	
+TS3005d.B.dialog-act.vkaraisk.216	Oh nee , oh 	
+TS3005d.B.dialog-act.vkaraisk.217	seven is it ? 	
+TS3005d.B.dialog-act.vkaraisk.218	It is . 	
+TS3005d.D.dialog-act.vkaraisk.132	No ? 	
+TS3005d.D.dialog-act.vkaraisk.131	Oh yeah . 	
+TS3005d.B.dialog-act.vkaraisk.219	Yeah , uh 	
+TS3005d.B.dialog-act.vkaraisk.220	the remote score . 	
+TS3005d.C.dialog-act.vkaraisk.188	A false , yeah . 	
+TS3005d.A.dialog-act.vkaraisk.131	Yeah . Yeah , 	
+TS3005d.A.dialog-act.vkaraisk.132	but I think you should make it one scale with with one being good and seven being bad , 	
+TS3005d.D.dialog-act.vkaraisk.133	Yeah , 	
+TS3005d.D.dialog-act.vkaraisk.134	I think isn't , this has to be something like isn't overwhelmed . 	
+TS3005d.A.dialog-act.vkaraisk.133	because otherwise we can't uh calculate anything from the results , 	
+TS3005d.B.dialog-act.vkaraisk.221	It's not overwhelmed . 	
+TS3005d.B.dialog-act.vkaraisk.222	Yeah . 	
+TS3005d.A.dialog-act.vkaraisk.134	so 	
+TS3005d.C.dialog-act.vkaraisk.189	Yeah , indeed . 	
+TS3005d.D.dialog-act.vkaraisk.135	True . 	
+TS3005d.A.dialog-act.vkaraisk.135	Okay , 	
+TS3005d.B.dialog-act.vkaraisk.223	Yep . 	
+TS3005d.A.dialog-act.vkaraisk.136	a one , 	
+TS3005d.A.dialog-act.vkaraisk.137	because we designed for that , 	
+TS3005d.D.dialog-act.vkaraisk.136	Remote control has uh colours that different that meet different target groups . 	
+TS3005d.A.dialog-act.vkaraisk.138	huh ? 	
+TS3005d.B.dialog-act.vkaraisk.224	Yes . 	
+TS3005d.C.dialog-act.vkaraisk.190		
+TS3005d.B.dialog-act.vkaraisk.225	'Cause we make them in different colours , 	
+TS3005d.B.dialog-act.vkaraisk.226	so that they uh 	
+TS3005d.D.dialog-act.vkaraisk.137	Yeah . 	
+TS3005d.C.dialog-act.vkaraisk.191	Yeah , 	
+TS3005d.A.dialog-act.vkaraisk.139	Yeah . 	
+TS3005d.C.dialog-act.vkaraisk.192	is optional . 	
+TS3005d.D.dialog-act.vkaraisk.138	That's true . 	
+TS3005d.A.dialog-act.vkaraisk.140	Yeah , 	
+TS3005d.A.dialog-act.vkaraisk.141	and I though w we had about single colours , 	
+TS3005d.A.dialog-act.vkaraisk.142	but you can also make uh a wood colour , not just one single colour but a wood-like thing , 	
+TS3005d.B.dialog-act.vkaraisk.227	Yeah . That it that it looks like wood , like something , yeah . 	
+TS3005d.C.dialog-act.vkaraisk.193	Huh . 	
+TS3005d.A.dialog-act.vkaraisk.143	can't you ? 	
+TS3005d.D.dialog-act.vkaraisk.139	Also with rubber ? 	
+TS3005d.B.dialog-act.vkaraisk.228	Uh I think you can . 	
+TS3005d.A.dialog-act.vkaraisk.144	Whether it looks like wood , 	
+TS3005d.A.dialog-act.vkaraisk.145	it isn't w it isn't wood 	
+TS3005d.D.dialog-act.vkaraisk.140	Yeah , okay . 	
+TS3005d.A.dialog-act.vkaraisk.146	but 	
+TS3005d.B.dialog-act.vkaraisk.229	It it feels like rubber , 	
+TS3005d.A.dialog-act.vkaraisk.147	You can make a print on rubber , 	
+TS3005d.B.dialog-act.vkaraisk.230	but 	
+TS3005d.A.dialog-act.vkaraisk.148	can't you ? 	
+TS3005d.C.dialog-act.vkaraisk.194	Yeah . 	
+TS3005d.A.dialog-act.vkaraisk.149	Yeah . 	
+TS3005d.D.dialog-act.vkaraisk.141	Yeah ? 	
+TS3005d.B.dialog-act.vkaraisk.231	Well 	
+TS3005d.A.dialog-act.vkaraisk.150	So that's a one then , 	
+TS3005d.B.dialog-act.vkaraisk.232	but then when you scratch it it does come off . 	
+TS3005d.A.dialog-act.vkaraisk.151	huh ? 	
+TS3005d.D.dialog-act.vkaraisk.142	That's a one ? 	
+TS3005d.D.dialog-act.vkaraisk.143	Okay . 	
+TS3005d.C.dialog-act.vkaraisk.195	Yeah , 	
+TS3005d.C.dialog-act.vkaraisk.196	it is it is harder to 	
+TS3005d.B.dialog-act.vkaraisk.233	So that's a bit 	
+TS3005d.A.dialog-act.vkaraisk.152	Do you have many questions ? 	
+TS3005d.D.dialog-act.vkaraisk.144	Uh I have 	
+TS3005d.C.dialog-act.vkaraisk.197	to like 	
+TS3005d.A.dialog-act.vkaraisk.154	Oh , 	
+TS3005d.A.dialog-act.vkaraisk.155	okay well 	
+TS3005d.D.dialog-act.vkaraisk.145		
+TS3005d.B.dialog-act.vkaraisk.234	Oh 	
+TS3005d.B.dialog-act.vkaraisk.235	we have time . 	
+TS3005d.C.dialog-act.vkaraisk.198	Geez . 	
+TS3005d.A.dialog-act.vkaraisk.156	Yeah , 	
+TS3005d.A.dialog-act.vkaraisk.157	but we have We also We have to get to the money . 	
+TS3005d.C.dialog-act.vkaraisk.199	We're getting paid . We're getting paid . 	
+TS3005d.D.dialog-act.vkaraisk.146	The material used is spongy , 	
+TS3005d.B.dialog-act.vkaraisk.236	What ? 	
+TS3005d.D.dialog-act.vkaraisk.147	that that's uh that's a one , 	
+TS3005d.D.dialog-act.vkaraisk.148	that's m rubber . 	
+TS3005d.A.dialog-act.vkaraisk.158	What spongy . 	
+TS3005d.B.dialog-act.vkaraisk.237	Yeah , yeah , it's very spongy . 	
+TS3005d.C.dialog-act.vkaraisk.200	Uh . 	
+TS3005d.D.dialog-act.vkaraisk.149	Yeah , 	
+TS3005d.D.dialog-act.vkaraisk.150	I th think it's not the most spongy thing . 	
+TS3005d.B.dialog-act.vkaraisk.238	Oh 	
+TS3005d.B.dialog-act.vkaraisk.239	but not it's not very spongy , 	
+TS3005d.B.dialog-act.vkaraisk.240	because it's hard rubber . 	
+TS3005d.B.dialog-act.vkaraisk.241	I think it's a three . 	
+TS3005d.C.dialog-act.vkaraisk.201	Yeah , it's a three , 	
+TS3005d.D.dialog-act.vkaraisk.151	Yeah . 	
+TS3005d.A.dialog-act.vkaraisk.159	Uh-huh , yeah . 	
+TS3005d.C.dialog-act.vkaraisk.202	because you want to make it uh rather flexible but not too flexible , 	
+TS3005d.B.dialog-act.vkaraisk.242	Hard but 	
+TS3005d.B.dialog-act.vkaraisk.243	Yeah . 	
+TS3005d.C.dialog-act.vkaraisk.203	because it has a L_C_D_ screen . 	
+TS3005d.B.dialog-act.vkaraisk.244	You can break it . 	
+TS3005d.B.dialog-act.vkaraisk.245	Yeah . 	
+TS3005d.D.dialog-act.vkaraisk.152	Remote control is hard to lose . 	
+TS3005d.C.dialog-act.vkaraisk.204	Hard to lose , 	
+TS3005d.C.dialog-act.vkaraisk.205	yeah it sh and it's easy to find . 	
+TS3005d.B.dialog-act.vkaraisk.247	Y yeah , 	
+TS3005d.B.dialog-act.vkaraisk.246	you could you could call it . 	
+TS3005d.D.dialog-act.vkaraisk.153	Y you can't you can't lose it if you're sixty years old . 	
+TS3005d.D.dialog-act.vkaraisk.154	If first time see the thing you didn didn't adjust uh set the microphone , and then you lose it , then you have lost it . 	
+TS3005d.B.dialog-act.vkaraisk.248	Yeah , y you can lose it , 	
+TS3005d.B.dialog-act.vkaraisk.249	but it isn't hard to lose . 	
+TS3005d.D.dialog-act.vkaraisk.155	It isn't hard , no . 	
+TS3005d.D.dialog-act.vkaraisk.156	I think I think this is a two , personally . 	
+TS3005d.B.dialog-act.vkaraisk.250	Two . 	
+TS3005d.B.dialog-act.vkaraisk.251	That it's hard to lose ? 	
+TS3005d.D.dialog-act.vkaraisk.157	No . 	
+TS3005d.B.dialog-act.vkaraisk.252	Yeah , 	
+TS3005d.B.dialog-act.vkaraisk.253	it it is there's the 	
+TS3005d.C.dialog-act.vkaraisk.206	Isn't hard to lose . 	
+TS3005d.A.dialog-act.vkaraisk.160	Yeah , 	
+TS3005d.B.dialog-act.vkaraisk.254	it's a six , you think ? 	
+TS3005d.A.dialog-act.vkaraisk.162	so isn't hard to lose you . 	
+TS3005d.C.dialog-act.vkaraisk.207	Isn't hard to lose , 	
+TS3005d.C.dialog-act.vkaraisk.208	yeah . 	
+TS3005d.D.dialog-act.vkaraisk.158	Isn't hard to lose . 	
+TS3005d.B.dialog-act.vkaraisk.255	So it's a two . 	
+TS3005d.B.dialog-act.vkaraisk.256	Yeah , you can lose it , 	
+TS3005d.B.dialog-act.vkaraisk.257	so I don't 	
+TS3005d.D.dialog-act.vkaraisk.159	Yeah . You can't lose it . 	
+TS3005d.B.dialog-act.vkaraisk.258	you can make it a three I 	
+TS3005d.B.dialog-act.vkaraisk.259	It does have an a built in function . 	
+TS3005d.D.dialog-act.vkaraisk.160	Or if you're you're sixty years old , your demands 	
+TS3005d.A.dialog-act.vkaraisk.163	Yeah , 	
+TS3005d.A.dialog-act.vkaraisk.164	but a har A hard to lose is good . 	
+TS3005d.A.dialog-act.vkaraisk.165	So it should this question should be hard to lose . It's difficult to lose it . 	
+TS3005d.B.dialog-act.vkaraisk.260	Nee . 	
+TS3005d.B.dialog-act.vkaraisk.261	Hard to lose . Oh right . 	
+TS3005d.C.dialog-act.vkaraisk.209	Yeah , 	
+TS3005d.C.dialog-act.vkaraisk.210	this this is hard to lose . 	
+TS3005d.B.dialog-act.vkaraisk.262	It is hard to lose . Yeah , 	
+TS3005d.A.dialog-act.vkaraisk.166		
+TS3005d.B.dialog-act.vkaraisk.263	so then this is it is almost true , 	
+TS3005d.C.dialog-act.vkaraisk.211	This 	
+TS3005d.D.dialog-act.vkaraisk.161	I think yeah , I think also . 	
+TS3005d.A.dialog-act.vkaraisk.167	A two . 	
+TS3005d.B.dialog-act.vkaraisk.264	so a two . 	
+TS3005d.A.dialog-act.vkaraisk.168	A two . 	
+TS3005d.C.dialog-act.vkaraisk.212	Two , yeah . 	
+TS3005d.A.dialog-act.vkaraisk.169	Okay . 	
+TS3005d.B.dialog-act.vkaraisk.265		
+TS3005d.C.dialog-act.vkaraisk.213	And most all because of the option to 	
+TS3005d.D.dialog-act.vkaraisk.162	Huh ? 	
+TS3005d.C.dialog-act.vkaraisk.214	Whoa . 	
+TS3005d.B.dialog-act.vkaraisk.266	Ooh . 	
+TS3005d.A.dialog-act.vkaraisk.170	Yeah , 	
+TS3005d.A.dialog-act.vkaraisk.171	it's okay . 	
+TS3005d.A.dialog-act.vkaraisk.172	That happens above also . 	
+TS3005d.B.dialog-act.vkaraisk.267	Oh . 	
+TS3005d.C.dialog-act.vkaraisk.215	Uh . 	
+TS3005d.A.dialog-act.vkaraisk.173	But maybe when you scroll away and back it will be normal , 	
+TS3005d.D.dialog-act.vkaraisk.163	Yeah ? 	
+TS3005d.D.dialog-act.vkaraisk.164	Oh , okay . 	
+TS3005d.A.dialog-act.vkaraisk.174	but 	
+TS3005d.A.dialog-act.vkaraisk.175	Yep . 	
+TS3005d.D.dialog-act.vkaraisk.165	No . 	
+TS3005d.A.dialog-act.vkaraisk.176	Oh , 	
+TS3005d.B.dialog-act.vkaraisk.268	Oh well , 	
+TS3005d.A.dialog-act.vkaraisk.177	it isn't , 	
+TS3005d.B.dialog-act.vkaraisk.269	it doesn't . 	
+TS3005d.A.dialog-act.vkaraisk.178	well okay . 	
+TS3005d.C.dialog-act.vkaraisk.216	put the cor cursor on the . 	
+TS3005d.A.dialog-act.vkaraisk.179	Remember . 	
+TS3005d.D.dialog-act.vkaraisk.166	Okay okay okay . 	
+TS3005d.D.dialog-act.vkaraisk.167	Remote control mainly be sold to younger people . 	
+TS3005d.C.dialog-act.vkaraisk.217	Click . 	
+TS3005d.C.dialog-act.vkaraisk.218	True . 	
+TS3005d.B.dialog-act.vkaraisk.270	I think it will , 	
+TS3005d.D.dialog-act.vkaraisk.168	Yeah ? 	
+TS3005d.C.dialog-act.vkaraisk.219	True . 	
+TS3005d.B.dialog-act.vkaraisk.271	yeah . 	
+TS3005d.D.dialog-act.vkaraisk.169	True ? 	
+TS3005d.D.dialog-act.vkaraisk.170	Very true ? 	
+TS3005d.C.dialog-act.vkaraisk.220	Uh yeah . Uh 	
+TS3005d.B.dialog-act.vkaraisk.272	Uh well 	
+TS3005d.D.dialog-act.vkaraisk.171	No , I don't think very true because the colours . 	
+TS3005d.A.dialog-act.vkaraisk.180	There . 	
+TS3005d.B.dialog-act.vkaraisk.273	I a 	
+TS3005d.B.dialog-act.vkaraisk.274	a two . 	
+TS3005d.D.dialog-act.vkaraisk.172	We have the colours . 	
+TS3005d.D.dialog-act.vkaraisk.173	Um we have the buttons is aren't that that much . 	
+TS3005d.C.dialog-act.vkaraisk.221	Materials , 	
+TS3005d.C.dialog-act.vkaraisk.222	yeah . 	
+TS3005d.D.dialog-act.vkaraisk.174	Nah , 	
+TS3005d.D.dialog-act.vkaraisk.175	the material isn't that 	
+TS3005d.B.dialog-act.vkaraisk.275	It's it's much more younger . 	
+TS3005d.C.dialog-act.vkaraisk.223	Uh okay . 	
+TS3005d.D.dialog-act.vkaraisk.176	So 	
+TS3005d.D.dialog-act.vkaraisk.177	I don I think 	
+TS3005d.C.dialog-act.vkaraisk.224	So ma uh make it make it a two . 	
+TS3005d.D.dialog-act.vkaraisk.178	I think it's a three . 	
+TS3005d.A.dialog-act.vkaraisk.181	Well 	
+TS3005d.A.dialog-act.vkaraisk.182	I think it's it's uh a lower number , 	
+TS3005d.A.dialog-act.vkaraisk.183	so better 	
+TS3005d.A.dialog-act.vkaraisk.184	because w we designed it for young people especially , 	
+TS3005d.B.dialog-act.vkaraisk.276	Yeah . 	
+TS3005d.D.dialog-act.vkaraisk.179	Yeah , 	
+TS3005d.B.dialog-act.vkaraisk.277	I think it's a two 	
+TS3005d.D.dialog-act.vkaraisk.180	but I uh 	
+TS3005d.A.dialog-act.vkaraisk.185	didn't we ? 	
+TS3005d.B.dialog-act.vkaraisk.278	but 	
+TS3005d.D.dialog-act.vkaraisk.181	Okay , okay . 	
+TS3005d.A.dialog-act.vkaraisk.186	What do you think ? 	
+TS3005d.D.dialog-act.vkaraisk.182	I think because 	
+TS3005d.A.dialog-act.vkaraisk.187	Questions ? 	
+TS3005d.C.dialog-act.vkaraisk.225	A two ? I think it's two . I think it's two too , two too too . 	
+TS3005d.A.dialog-act.vkaraisk.188	Two . Uh-huh . 	
+TS3005d.D.dialog-act.vkaraisk.183	yeah ? 	
+TS3005d.B.dialog-act.vkaraisk.279	Two two two . 	
+TS3005d.B.dialog-act.vkaraisk.280	Let's make everything a two . 	
+TS3005d.D.dialog-act.vkaraisk.184	In the features ? 	
+TS3005d.A.dialog-act.vkaraisk.190	Dissatisfy younger people . Um 	
+TS3005d.B.dialog-act.vkaraisk.281	Younger people . 	
+TS3005d.B.dialog-act.vkaraisk.282	It has 	
+TS3005d.C.dialog-act.vkaraisk.226	Well 	
+TS3005d.C.dialog-act.vkaraisk.227	perhaps not . 	
+TS3005d.B.dialog-act.vkaraisk.283	What did 	
+TS3005d.D.dialog-act.vkaraisk.185	Because younger peoples are cr critical 	
+TS3005d.D.dialog-act.vkaraisk.186	and they wanted a lot of features on this thing . 	
+TS3005d.B.dialog-act.vkaraisk.284	Yeah . Well 	
+TS3005d.C.dialog-act.vkaraisk.228	Well , 	
+TS3005d.B.dialog-act.vkaraisk.285	that it doesn't . 	
+TS3005d.C.dialog-act.vkaraisk.229	n not exactly but uh uh if it had some games on it or something like that , 	
+TS3005d.B.dialog-act.vkaraisk.286	Yeah 	
+TS3005d.B.dialog-act.vkaraisk.287	bu but 	
+TS3005d.C.dialog-act.vkaraisk.230	but it's for a remote control I think it i it would satisfy those needs . 	
+TS3005d.B.dialog-act.vkaraisk.288	I think they like the speech . 	
+TS3005d.C.dialog-act.vkaraisk.231	Yeah , the speech possibility , 	
+TS3005d.B.dialog-act.vkaraisk.289	You could call to your uh 	
+TS3005d.D.dialog-act.vkaraisk.187	L_C_D_ screen and scroll . 	
+TS3005d.B.dialog-act.vkaraisk.290	yeah , and the screen , 	
+TS3005d.C.dialog-act.vkaraisk.232	the colours . 	
+TS3005d.C.dialog-act.vkaraisk.233	Scroll options , yeah . 	
+TS3005d.B.dialog-act.vkaraisk.291	yeah . 	
+TS3005d.D.dialog-act.vkaraisk.188	I I think they'll be quite met with their expectations . 	
+TS3005d.A.dialog-act.vkaraisk.191	Yeah , 	
+TS3005d.A.dialog-act.vkaraisk.192	but those are more fancy functions , not not really many features or something . 	
+TS3005d.B.dialog-act.vkaraisk.292	Right , 	
+TS3005d.D.dialog-act.vkaraisk.189	No . 	
+TS3005d.B.dialog-act.vkaraisk.294	that that that 	
+TS3005d.A.dialog-act.vkaraisk.193	It has relatively few features , 	
+TS3005d.B.dialog-act.vkaraisk.295	those are features . 	
+TS3005d.D.dialog-act.vkaraisk.190	It's three features , basically , 	
+TS3005d.A.dialog-act.vkaraisk.194	with 	
+TS3005d.D.dialog-act.vkaraisk.191	the L_C_D_ touch screen is feature . 	
+TS3005d.C.dialog-act.vkaraisk.234	Yeah . 	
+TS3005d.D.dialog-act.vkaraisk.192	The microphone is a feature . 	
+TS3005d.B.dialog-act.vkaraisk.296	No , 	
+TS3005d.B.dialog-act.vkaraisk.297	aren't the features 	
+TS3005d.B.dialog-act.vkaraisk.298	the microphone's feature 	
+TS3005d.B.dialog-act.vkaraisk.299	and that you can change the channel's feature , 	
+TS3005d.B.dialog-act.vkaraisk.300	and that you can change the volume is feature , 	
+TS3005d.A.dialog-act.vkaraisk.195	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.301	and that you can change the options of the remote , uh uh something like that . Yeah . 	
+TS3005d.D.dialog-act.vkaraisk.193	Yeah , okay . 	
+TS3005d.A.dialog-act.vkaraisk.196	Ours had other features with 	
+TS3005d.D.dialog-act.vkaraisk.194	I think 	
+TS3005d.D.dialog-act.vkaraisk.195	yeah , 	
+TS3005d.D.dialog-act.vkaraisk.196	and then you have the audio settings , channel setting , video settings . 	
+TS3005d.C.dialog-act.vkaraisk.235	The easy volume up button . 	
+TS3005d.B.dialog-act.vkaraisk.302	Those are features . 	
+TS3005d.C.dialog-act.vkaraisk.236	Remote 	
+TS3005d.C.dialog-act.vkaraisk.237	younger people usually use the remote control to put on the volume . Turn uh turn up the volume . 	
+TS3005d.D.dialog-act.vkaraisk.197	Yeah yeah . 	
+TS3005d.B.dialog-act.vkaraisk.303	Enough features ? 	
+TS3005d.D.dialog-act.vkaraisk.199	So I've chos I shou 	
+TS3005d.D.dialog-act.vkaraisk.200	I think it's it's it's a one . 	
+TS3005d.D.dialog-act.vkaraisk.201	Personally , 	
+TS3005d.D.dialog-act.vkaraisk.202	yeah . 	
+TS3005d.D.dialog-act.vkaraisk.203	I think once you've 	
+TS3005d.D.dialog-act.vkaraisk.204	'cause you have the channel features 	
+TS3005d.D.dialog-act.vkaraisk.205	b 	
+TS3005d.D.dialog-act.vkaraisk.206	uh you have the uh screen features , audio features , 	
+TS3005d.D.dialog-act.vkaraisk.207	the 	
+TS3005d.D.dialog-act.vkaraisk.208	you have all buttons on it which you'd like , microphone extra , L_C_D_ screen extra , scroll thing extra . 	
+TS3005d.B.dialog-act.vkaraisk.304	Yeah . 	
+TS3005d.A.dialog-act.vkaraisk.197	Okay , 	
+TS3005d.A.dialog-act.vkaraisk.198	you think one , 	
+TS3005d.A.dialog-act.vkaraisk.199	what do you think ? 	
+TS3005d.B.dialog-act.vkaraisk.305	I think two or three . 	
+TS3005d.A.dialog-act.vkaraisk.200	You . 	
+TS3005d.A.dialog-act.vkaraisk.202	three , yeah . 	
+TS3005d.C.dialog-act.vkaraisk.238	Two . 	
+TS3005d.A.dialog-act.vkaraisk.203	I'd say three , 	
+TS3005d.A.dialog-act.vkaraisk.204	so two it is then 	
+TS3005d.B.dialog-act.vkaraisk.306	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.307	Yeah uh 	
+TS3005d.D.dialog-act.vkaraisk.209	Make it make it a two . 	
+TS3005d.B.dialog-act.vkaraisk.308	a two a two . Just another two . 	
+TS3005d.A.dialog-act.vkaraisk.205	or 	
+TS3005d.C.dialog-act.vkaraisk.239	One two three . 	
+TS3005d.D.dialog-act.vkaraisk.210	Or make it uh a fucking two . 	
+TS3005d.B.dialog-act.vkaraisk.309	We like two . 	
+TS3005d.C.dialog-act.vkaraisk.240	Right . 	
+TS3005d.D.dialog-act.vkaraisk.211	You can see the remote control is R_ and R_ . 	
+TS3005d.B.dialog-act.vkaraisk.310	Yeah , there's R_ and R_ in front . 	
+TS3005d.C.dialog-act.vkaraisk.241	Uh . 	
+TS3005d.A.dialog-act.vkaraisk.206	Yeah . 	
+TS3005d.A.dialog-act.vkaraisk.207	Yep . 	
+TS3005d.D.dialog-act.vkaraisk.212	Has 	
+TS3005d.B.dialog-act.vkaraisk.311	Uh it's not the colour , 	
+TS3005d.B.dialog-act.vkaraisk.312	so maybe you should make two , 	
+TS3005d.B.dialog-act.vkaraisk.313	but it has R_ and R_ . 	
+TS3005d.D.dialog-act.vkaraisk.213	oh yeah , 	
+TS3005d.D.dialog-act.vkaraisk.214	do did have nah y 	
+TS3005d.D.dialog-act.vkaraisk.215	you have the black one . 	
+TS3005d.B.dialog-act.vkaraisk.314	Yeah . 	
+TS3005d.D.dialog-act.vkaraisk.216	And we'll probably make also a yellow one . 	
+TS3005d.B.dialog-act.vkaraisk.315	Yeah , 	
+TS3005d.A.dialog-act.vkaraisk.208	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.316	but not R_ and R_ yellow I think . 	
+TS3005d.A.dialog-act.vkaraisk.209	Yeah , 	
+TS3005d.A.dialog-act.vkaraisk.210	maybe maybe two . 	
+TS3005d.A.dialog-act.vkaraisk.211	Well 	
+TS3005d.A.dialog-act.vkaraisk.212	m th 	
+TS3005d.D.dialog-act.vkaraisk.217	Maybe two . 	
+TS3005d.A.dialog-act.vkaraisk.213	but the logo is on on the front , 	
+TS3005d.C.dialog-act.vkaraisk.242	Okay , true , yeah . 	
+TS3005d.A.dialog-act.vkaraisk.214	so a two , yeah , 	
+TS3005d.B.dialog-act.vkaraisk.317	One d on i it's the colours and the 	
+TS3005d.D.dialog-act.vkaraisk.218	X_ marks spot . 	
+TS3005d.A.dialog-act.vkaraisk.215	that's 	
+TS3005d.D.dialog-act.vkaraisk.219	And the menu is avail that is available is easy to use . 	
+TS3005d.B.dialog-act.vkaraisk.318	I think it is , 	
+TS3005d.B.dialog-act.vkaraisk.319	but I don't know what you think . 	
+TS3005d.C.dialog-act.vkaraisk.243	I think it's easier to use than a regular remote control , 	
+TS3005d.D.dialog-act.vkaraisk.220	Yeah , tha that's so true . 	
+TS3005d.C.dialog-act.vkaraisk.244	because when you push on the options menu , you get the the the various options uh entirely explained . Entirely explained . 	
+TS3005d.D.dialog-act.vkaraisk.221	Mm-hmm . 	
+TS3005d.A.dialog-act.vkaraisk.216		
+TS3005d.B.dialog-act.vkaraisk.320		
+TS3005d.C.dialog-act.vkaraisk.245	Instead of uh just finding out what an icon means on a button . 	
+TS3005d.D.dialog-act.vkaraisk.222	Mm-hmm . 	
+TS3005d.D.dialog-act.vkaraisk.223	Yeah , uh 	
+TS3005d.B.dialog-act.vkaraisk.321	And you can navigate easier , 	
+TS3005d.C.dialog-act.vkaraisk.246	Yeah , you can navigate . Uh . 	
+TS3005d.B.dialog-act.vkaraisk.322	because wi with the you have to push the the the arrows and with a normal T_V_ uh remote . 	
+TS3005d.D.dialog-act.vkaraisk.224	I think that wou that would be quite hard to learn to use it . 	
+TS3005d.C.dialog-act.vkaraisk.247	You're not satisfied , 	
+TS3005d.C.dialog-act.vkaraisk.248	okay . 	
+TS3005d.D.dialog-act.vkaraisk.226	No 	
+TS3005d.D.dialog-act.vkaraisk.225	, I'm not not convinc . 	
+TS3005d.C.dialog-act.vkaraisk.249	Let's start over again then . 	
+TS3005d.B.dialog-act.vkaraisk.323	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.324	Let's make a different remote . Well 	
+TS3005d.D.dialog-act.vkaraisk.227	Let's go th for inhalation of air] 	
+TS3005d.C.dialog-act.vkaraisk.250		
+TS3005d.B.dialog-act.vkaraisk.325	Menu . 	
+TS3005d.D.dialog-act.vkaraisk.228	I think it would be a t yeah , two . 	
+TS3005d.C.dialog-act.vkaraisk.251		
+TS3005d.B.dialog-act.vkaraisk.326	A two ? 	
+TS3005d.D.dialog-act.vkaraisk.229	Now lower . 	
+TS3005d.C.dialog-act.vkaraisk.252	A two . 	
+TS3005d.A.dialog-act.vkaraisk.217	Oh , well 	
+TS3005d.B.dialog-act.vkaraisk.327	We only have twos . 	
+TS3005d.A.dialog-act.vkaraisk.218	that's that's pretty good , 	
+TS3005d.A.dialog-act.vkaraisk.219	huh ? 	
+TS3005d.C.dialog-act.vkaraisk.253	Oh yeah , I think so . Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.328	Uh just twos . One three and a few ones . 	
+TS3005d.D.dialog-act.vkaraisk.230	So okay , 	
+TS3005d.C.dialog-act.vkaraisk.254	And three . 	
+TS3005d.D.dialog-act.vkaraisk.231	we have one three , a one , that that have to got up . 	
+TS3005d.B.dialog-act.vkaraisk.329	Two threes . 	
+TS3005d.D.dialog-act.vkaraisk.232	Two two two two two . 	
+TS3005d.B.dialog-act.vkaraisk.330	We m mostly have twos , 	
+TS3005d.D.dialog-act.vkaraisk.233	So two , yeah . The average is a two . 	
+TS3005d.B.dialog-act.vkaraisk.331	so it's pretty good . 	
+TS3005d.B.dialog-act.vkaraisk.332	Yeah . 	
+TS3005d.D.dialog-act.vkaraisk.234	That is quite good 	
+TS3005d.C.dialog-act.vkaraisk.255	The average . 	
+TS3005d.B.dialog-act.vkaraisk.333	Yeah . I think so too . 	
+TS3005d.D.dialog-act.vkaraisk.235	in my opinion . 	
+TS3005d.C.dialog-act.vkaraisk.256	Yeah , I think so . 	
+TS3005d.D.dialog-act.vkaraisk.236	That 	
+TS3005d.B.dialog-act.vkaraisk.334	We can be happy . 	
+TS3005d.D.dialog-act.vkaraisk.237	Ooh . 	
+TS3005d.C.dialog-act.vkaraisk.257	Save . 	
+TS3005d.D.dialog-act.vkaraisk.238	Ooh . 	
+TS3005d.B.dialog-act.vkaraisk.335	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.336	What is it ? 	
+TS3005d.B.dialog-act.vkaraisk.337	It's like a bug or something . 	
+TS3005d.C.dialog-act.vkaraisk.258	It's a fly . 	
+TS3005d.B.dialog-act.vkaraisk.338	A fly , yeah . 	
+TS3005d.C.dialog-act.vkaraisk.259	Oh m 	
+TS3005d.B.dialog-act.vkaraisk.339	A f butterfly . 	
+TS3005d.D.dialog-act.vkaraisk.239	Top . 	
+TS3005d.B.dialog-act.vkaraisk.340	Yeah . That's it . 	
+TS3005d.D.dialog-act.vkaraisk.240	Okay . 	
+TS3005d.A.dialog-act.vkaraisk.220	That was your evaluation uh show , 	
+TS3005d.D.dialog-act.vkaraisk.241	Yes . 	
+TS3005d.A.dialog-act.vkaraisk.221	okay , so 	
+TS3005d.B.dialog-act.vkaraisk.341	Sure . 	
+TS3005d.A.dialog-act.vkaraisk.222	we don't have to calculate anything because of um these results . 	
+TS3005d.D.dialog-act.vkaraisk.242	No , 	
+TS3005d.D.dialog-act.vkaraisk.243	it's two . The average is two . 	
+TS3005d.A.dialog-act.vkaraisk.223	Okay , good . 	
+TS3005d.B.dialog-act.vkaraisk.342	It's good . Yeah . 	
+TS3005d.A.dialog-act.vkaraisk.224	Um let's see 	
+TS3005d.A.dialog-act.vkaraisk.225	oh , 	
+TS3005d.A.dialog-act.vkaraisk.226	it isn't asked to save 	
+TS3005d.A.dialog-act.vkaraisk.227	but it did already 	
+TS3005d.C.dialog-act.vkaraisk.260	Yeah . Exactly . 	
+TS3005d.D.dialog-act.vkaraisk.244	Yeah , 	
+TS3005d.D.dialog-act.vkaraisk.245	I uh uh I uh saved it . 	
+TS3005d.A.dialog-act.vkaraisk.228	And this 	
+TS3005d.A.dialog-act.vkaraisk.229	Everything okay . 	
+TS3005d.A.dialog-act.vkaraisk.230	Well , 	
+TS3005d.A.dialog-act.vkaraisk.231	the next part uh might be a little bit difficult to do in a group , 	
+TS3005d.A.dialog-act.vkaraisk.232	but I am willing to try it . 	
+TS3005d.D.dialog-act.vkaraisk.246		
+TS3005d.A.dialog-act.vkaraisk.233	Because we are going to look at the finance 	
+TS3005d.A.dialog-act.vkaraisk.234	and I have a nice Excel sheet to do that . 	
+TS3005d.B.dialog-act.vkaraisk.343	Yeah . 	
+TS3005d.D.dialog-act.vkaraisk.247		
+TS3005d.B.dialog-act.vkaraisk.344	Redesign . No . 	
+TS3005d.A.dialog-act.vkaraisk.235	And um I'm not sure if I put it in the project folder . 	
+TS3005d.C.dialog-act.vkaraisk.261		
+TS3005d.A.dialog-act.vkaraisk.236	look on that . 	
+TS3005d.A.dialog-act.vkaraisk.237	Um and we're going to calculate the production costs , 	
+TS3005d.B.dialog-act.vkaraisk.345	Yeah . 	
+TS3005d.A.dialog-act.vkaraisk.238	and if they are uh under or at twelve Euro fifty , 	
+TS3005d.A.dialog-act.vkaraisk.239	we're good , 	
+TS3005d.B.dialog-act.vkaraisk.346	Yeah . 	
+TS3005d.A.dialog-act.vkaraisk.241	and if they're not we're going to uh re-design , 	
+TS3005d.B.dialog-act.vkaraisk.347	So we're going to erase features or something . 	
+TS3005d.A.dialog-act.vkaraisk.243	but we have to do that uh very very quick I think , 	
+TS3005d.A.dialog-act.vkaraisk.242	yes . 	
+TS3005d.A.dialog-act.vkaraisk.244	Um I don't know if I 	
+TS3005d.B.dialog-act.vkaraisk.348	Do you have the cost 	
+TS3005d.B.dialog-act.vkaraisk.349	or uh 	
+TS3005d.A.dialog-act.vkaraisk.245	put the Excel sheet in the 	
+TS3005d.B.dialog-act.vkaraisk.350	Let's hope . 	
+TS3005d.A.dialog-act.vkaraisk.246	n not in the 	
+TS3005d.C.dialog-act.vkaraisk.262		
+TS3005d.D.dialog-act.vkaraisk.248	f fifty five Euros . 	
+TS3005d.B.dialog-act.vkaraisk.351	We're going to be here at eight o'clock . 	
+TS3005d.A.dialog-act.vkaraisk.247	folder . I think it's 	
+TS3005d.A.dialog-act.vkaraisk.248	I think it's still in my own documents folder . 	
+TS3005d.C.dialog-act.vkaraisk.263		
+TS3005d.B.dialog-act.vkaraisk.352	We're goin still going to be here at eight o'clock . 	
+TS3005d.C.dialog-act.vkaraisk.264		
+TS3005d.D.dialog-act.vkaraisk.249	No . 	
+TS3005d.B.dialog-act.vkaraisk.353	I doubt it . 	
+TS3005d.A.dialog-act.vkaraisk.249	Oh shit . 	
+TS3005d.B.dialog-act.vkaraisk.354	Perhaps we've got features that don't exist in the Excel sheet . 	
+TS3005d.D.dialog-act.vkaraisk.250	Yeah mm yeah , maybe . 	
+TS3005d.A.dialog-act.vkaraisk.250	So 	
+TS3005d.B.dialog-act.vkaraisk.355	No , 	
+TS3005d.D.dialog-act.vkaraisk.251	The microphone . 	
+TS3005d.C.dialog-act.vkaraisk.265	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.356	it was in my uh my information , 	
+TS3005d.C.dialog-act.vkaraisk.266	It i It wasn't too much . 	
+TS3005d.B.dialog-act.vkaraisk.357	so uh 	
+TS3005d.D.dialog-act.vkaraisk.252	Yeah ? 	
+TS3005d.B.dialog-act.vkaraisk.358	Yeah . 	
+TS3005d.D.dialog-act.vkaraisk.253	maybe you're going scrap scrap it . 	
+TS3005d.C.dialog-act.vkaraisk.267	As well as the L_C_D_ screen . 	
+TS3005d.C.dialog-act.vkaraisk.268	Whoa . 	
+TS3005d.A.dialog-act.vkaraisk.251	Okay , well 	
+TS3005d.B.dialog-act.vkaraisk.359	Well , 	
+TS3005d.B.dialog-act.vkaraisk.360	if it doesn't work 	
+TS3005d.A.dialog-act.vkaraisk.252	this is it . 	
+TS3005d.A.dialog-act.vkaraisk.253	Um maybe I could ask one of you to uh fill it in , 	
+TS3005d.A.dialog-act.vkaraisk.254	so that I can also uh take minutes , 	
+TS3005d.B.dialog-act.vkaraisk.361	I want to fill it in , but uh 	
+TS3005d.D.dialog-act.vkaraisk.254	No prob . 	
+TS3005d.A.dialog-act.vkaraisk.255	and uh maybe the other can uh use that thing to count uh numerous functions . 	
+TS3005d.D.dialog-act.vkaraisk.255	Ah . 	
+TS3005d.B.dialog-act.vkaraisk.362	But you should uh direct 	
+TS3005d.D.dialog-act.vkaraisk.256	Count it ? 	
+TS3005d.D.dialog-act.vkaraisk.257	Li like write it be 	
+TS3005d.A.dialog-act.vkaraisk.256	Well 	
+TS3005d.A.dialog-act.vkaraisk.257	we have to count some things 	
+TS3005d.A.dialog-act.vkaraisk.258	and we have to think about some things . 	
+TS3005d.C.dialog-act.vkaraisk.269	Count it . 	
+TS3005d.A.dialog-act.vkaraisk.259	But you have to fill in this column , huh ? 	
+TS3005d.C.dialog-act.vkaraisk.270	You got Excel to count . 	
+TS3005d.D.dialog-act.vkaraisk.258		
+TS3005d.B.dialog-act.vkaraisk.363	The number of 	
+TS3005d.A.dialog-act.vkaraisk.260	No , 	
+TS3005d.A.dialog-act.vkaraisk.261	uh count uh number of functions , 	
+TS3005d.A.dialog-act.vkaraisk.262	because for every button you have to pay 	
+TS3005d.C.dialog-act.vkaraisk.271	Oh okay . 	
+TS3005d.C.dialog-act.vkaraisk.272	Well 	
+TS3005d.D.dialog-act.vkaraisk.259	Ah , okay , cool . 	
+TS3005d.A.dialog-act.vkaraisk.263	and there are different screen shots , so or different different screens , 	
+TS3005d.C.dialog-act.vkaraisk.273	I dra 	
+TS3005d.C.dialog-act.vkaraisk.274	uh Danny , Danny , I'll do that , 	
+TS3005d.D.dialog-act.vkaraisk.260	Huh ? Yeah ? Oh , yea yeah , you design it . Um 	
+TS3005d.C.dialog-act.vkaraisk.275	because I draw the uh 	
+TS3005d.A.dialog-act.vkaraisk.264	so 	
+TS3005d.B.dialog-act.vkaraisk.365	We've got a battery , 	
+TS3005d.B.dialog-act.vkaraisk.364	one or t two batteries , or not ? 	
+TS3005d.B.dialog-act.vkaraisk.366	nee 	
+TS3005d.B.dialog-act.vkaraisk.367	one battery , with two small batteries . 	
+TS3005d.D.dialog-act.vkaraisk.261	Yeah . 	
+TS3005d.A.dialog-act.vkaraisk.265	Yeah , 	
+TS3005d.A.dialog-act.vkaraisk.266	but it's it's more about the energy source , 	
+TS3005d.A.dialog-act.vkaraisk.267	huh ? 	
+TS3005d.A.dialog-act.vkaraisk.268	Do you use a hand dynamo , a battery , kinetic or solar cells ? 	
+TS3005d.B.dialog-act.vkaraisk.368	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.369	I would do a battery we do . 	
+TS3005d.D.dialog-act.vkaraisk.262	Solar cell . 	
+TS3005d.B.dialog-act.vkaraisk.370	Right ? 	
+TS3005d.D.dialog-act.vkaraisk.263	No 	
+TS3005d.D.dialog-act.vkaraisk.264	it took a battery ? 	
+TS3005d.B.dialog-act.vkaraisk.371	A battery . One battery , 	
+TS3005d.A.dialog-act.vkaraisk.269	We'll wait . 	
+TS3005d.C.dialog-act.vkaraisk.276	No , no solar cell , no no no no . 	
+TS3005d.B.dialog-act.vkaraisk.372	right ? 	
+TS3005d.A.dialog-act.vkaraisk.270	Yeah . 	
+TS3005d.C.dialog-act.vkaraisk.277	No hand dynamo . 	
+TS3005d.D.dialog-act.vkaraisk.265	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.373	Electronics , simple chip 	
+TS3005d.C.dialog-act.vkaraisk.278	Hand 	
+TS3005d.D.dialog-act.vkaraisk.266	We have 	
+TS3005d.B.dialog-act.vkaraisk.374	advanced chip , 	
+TS3005d.B.dialog-act.vkaraisk.375	right ? 	
+TS3005d.D.dialog-act.vkaraisk.267	No , 	
+TS3005d.D.dialog-act.vkaraisk.268	we have sample speaker . 	
+TS3005d.C.dialog-act.vkaraisk.279	On advanced chip . 	
+TS3005d.D.dialog-act.vkaraisk.269	But b al but we also have sample speaker , do 	
+TS3005d.C.dialog-act.vkaraisk.280	Yeah , yeah . 	
+TS3005d.B.dialog-act.vkaraisk.376	Yeah , 	
+TS3005d.B.dialog-act.vkaraisk.377	so this one and this one . 	
+TS3005d.B.dialog-act.vkaraisk.378	Uh we ha we have um single 	
+TS3005d.D.dialog-act.vkaraisk.270	Oh , 	
+TS3005d.D.dialog-act.vkaraisk.271	we already on nine . 	
+TS3005d.B.dialog-act.vkaraisk.379	what ? Are we ? 	
+TS3005d.B.dialog-act.vkaraisk.380	Oh yay . 	
+TS3005d.D.dialog-act.vkaraisk.272	We have double curved . 	
+TS3005d.B.dialog-act.vkaraisk.381	The single . 	
+TS3005d.C.dialog-act.vkaraisk.281	Single nee single curved . 	
+TS3005d.D.dialog-act.vkaraisk.273	Single . 	
+TS3005d.C.dialog-act.vkaraisk.282	Double curved was uh uh see uh ju three dimensional . 	
+TS3005d.C.dialog-act.vkaraisk.283	But it isn't three dimensional , 	
+TS3005d.D.dialog-act.vkaraisk.274	This one is 	
+TS3005d.B.dialog-act.vkaraisk.382	Oh 	
+TS3005d.C.dialog-act.vkaraisk.284	it isn't curved in a l 	
+TS3005d.B.dialog-act.vkaraisk.383	the the 	
+TS3005d.B.dialog-act.vkaraisk.384	it's not going to work uh people . 	
+TS3005d.B.dialog-act.vkaraisk.385	We have rubber . 	
+TS3005d.D.dialog-act.vkaraisk.275	This one is curved like this , 	
+TS3005d.D.dialog-act.vkaraisk.276	right . 	
+TS3005d.A.dialog-act.vkaraisk.271	I'll just fill it in . 	
+TS3005d.D.dialog-act.vkaraisk.277	It's curved like this . 	
+TS3005d.C.dialog-act.vkaraisk.285	No no no , 	
+TS3005d.C.dialog-act.vkaraisk.286	single curved is like this . 	
+TS3005d.A.dialog-act.vkaraisk.272	Um rubber indeed ? 	
+TS3005d.D.dialog-act.vkaraisk.278	Yeah , 	
+TS3005d.C.dialog-act.vkaraisk.287	Uh that's the only curve you made , 	
+TS3005d.D.dialog-act.vkaraisk.279	bu what 	
+TS3005d.C.dialog-act.vkaraisk.288	not th uh curved like that . 	
+TS3005d.C.dialog-act.vkaraisk.289	That's uh 	
+TS3005d.D.dialog-act.vkaraisk.280	Oh , 	
+TS3005d.D.dialog-act.vkaraisk.281	but we have curves like it and it . 	
+TS3005d.D.dialog-act.vkaraisk.282	There are two curves , 	
+TS3005d.B.dialog-act.vkaraisk.386	Thirteen ? 	
+TS3005d.D.dialog-act.vkaraisk.283	right ? 	
+TS3005d.D.dialog-act.vkaraisk.284	Oh , okay I understand , I understand . 	
+TS3005d.C.dialog-act.vkaraisk.290	Huh ? 	
+TS3005d.B.dialog-act.vkaraisk.387	With a scroll wheel , 	
+TS3005d.B.dialog-act.vkaraisk.388	right ? 	
+TS3005d.D.dialog-act.vkaraisk.285	Rubber . 	
+TS3005d.C.dialog-act.vkaraisk.291	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.389	Is he integrated ? 	
+TS3005d.B.dialog-act.vkaraisk.390	No , 	
+TS3005d.B.dialog-act.vkaraisk.391	eh ? 	
+TS3005d.B.dialog-act.vkaraisk.392	I don't know . 	
+TS3005d.D.dialog-act.vkaraisk.286	Push button . 	
+TS3005d.C.dialog-act.vkaraisk.292	Yeah , 	
+TS3005d.D.dialog-act.vkaraisk.287	No , we don't have push button . 	
+TS3005d.C.dialog-act.vkaraisk.293	we gotta integrate scroll wheel and push button , 	
+TS3005d.C.dialog-act.vkaraisk.294	because when you push it and you w it won't just pu uh makes possible to s 	
+TS3005d.B.dialog-act.vkaraisk.393	Oh yeah , right , 	
+TS3005d.B.dialog-act.vkaraisk.394	we want it to it's not it's not no . 	
+TS3005d.D.dialog-act.vkaraisk.288	L_C_D_ display . 	
+TS3005d.C.dialog-act.vkaraisk.295	Not going to work ? 	
+TS3005d.C.dialog-act.vkaraisk.296	Okay . Okay um 	
+TS3005d.B.dialog-act.vkaraisk.395	Yep . 	
+TS3005d.B.dialog-act.vkaraisk.396	Fifteen , 	
+TS3005d.B.dialog-act.vkaraisk.397	oh , too bad . 	
+TS3005d.B.dialog-act.vkaraisk.398	Oh 	
+TS3005d.B.dialog-act.vkaraisk.399	but with special colour we have . 	
+TS3005d.B.dialog-act.vkaraisk.400	A special form , 	
+TS3005d.B.dialog-act.vkaraisk.401	right ? 	
+TS3005d.C.dialog-act.vkaraisk.297	But now button supplements . 	
+TS3005d.C.dialog-act.vkaraisk.298	We don't got the button supplements . 	
+TS3005d.B.dialog-act.vkaraisk.402	Oh , 	
+TS3005d.B.dialog-act.vkaraisk.403	we don't have any buttons , 	
+TS3005d.B.dialog-act.vkaraisk.404	so 	
+TS3005d.D.dialog-act.vkaraisk.289	Eighteen and a half , 	
+TS3005d.B.dialog-act.vkaraisk.405	Yeah , 	
+TS3005d.D.dialog-act.vkaraisk.290	damn . 	
+TS3005d.B.dialog-act.vkaraisk.406	we need to uh 	
+TS3005d.D.dialog-act.vkaraisk.291	We have to lower it with six points . 	
+TS3005d.C.dialog-act.vkaraisk.299	Damn . 	
+TS3005d.B.dialog-act.vkaraisk.407	No , 	
+TS3005d.C.dialog-act.vkaraisk.300	Okay . 	
+TS3005d.B.dialog-act.vkaraisk.408	uh we have fifteen and 	
+TS3005d.D.dialog-act.vkaraisk.292	Twelve and half . 	
+TS3005d.B.dialog-act.vkaraisk.409	oh , right . 	
+TS3005d.C.dialog-act.vkaraisk.301		
+TS3005d.B.dialog-act.vkaraisk.410	We could lose the curve . 	
+TS3005d.C.dialog-act.vkaraisk.302	Nah . 	
+TS3005d.D.dialog-act.vkaraisk.293	We could use 	
+TS3005d.B.dialog-act.vkaraisk.411	Yeah , I would lose the curve . 	
+TS3005d.C.dialog-act.vkaraisk.303	We could lose the scroll wheel . 	
+TS3005d.C.dialog-act.vkaraisk.304	You could make it just a regular scroll wheel . 	
+TS3005d.B.dialog-act.vkaraisk.412	But you can't push it , 	
+TS3005d.B.dialog-act.vkaraisk.413	so you have to tap . 	
+TS3005d.C.dialog-act.vkaraisk.305	Yeah , 	
+TS3005d.C.dialog-act.vkaraisk.306	if you can't push it you have to tap the the options window uh button here and then uh scroll down with the d with uh with uh the button . 	
+TS3005d.B.dialog-act.vkaraisk.414	Yeah , alright . 	
+TS3005d.A.dialog-act.vkaraisk.273	Yeah , 	
+TS3005d.A.dialog-act.vkaraisk.274	I think that will be our best bet . 	
+TS3005d.B.dialog-act.vkaraisk.415	So normal scroll wheel ? 	
+TS3005d.C.dialog-act.vkaraisk.307	Normal scroll wheel . 	
+TS3005d.B.dialog-act.vkaraisk.416	And I think we should lose the curve . 	
+TS3005d.D.dialog-act.vkaraisk.294	I think we should scrap the sample speaker . 	
+TS3005d.C.dialog-act.vkaraisk.308	Lose 	
+TS3005d.D.dialog-act.vkaraisk.295	It's four pri it four units . 	
+TS3005d.B.dialog-act.vkaraisk.417	Yeah , 	
+TS3005d.B.dialog-act.vkaraisk.418	but if you would i 	
+TS3005d.B.dialog-act.vkaraisk.419	it is a new feature , 	
+TS3005d.B.dialog-act.vkaraisk.420	it it's something special . 	
+TS3005d.C.dialog-act.vkaraisk.309	Okay , so 	
+TS3005d.C.dialog-act.vkaraisk.310	we don't exactly need the single We don't need a curve . 	
+TS3005d.D.dialog-act.vkaraisk.296	But w d wha 	
+TS3005d.B.dialog-act.vkaraisk.421	No , 	
+TS3005d.C.dialog-act.vkaraisk.311	'S possible to lose curve . 	
+TS3005d.B.dialog-act.vkaraisk.422	the curve doesn't really 	
+TS3005d.D.dialog-act.vkaraisk.297	Curved 	
+TS3005d.D.dialog-act.vkaraisk.298	then it will be square . 	
+TS3005d.B.dialog-act.vkaraisk.423	No , 	
+TS3005d.B.dialog-act.vkaraisk.424	then it will won't uh stand up from the table . 	
+TS3005d.B.dialog-act.vkaraisk.425	Then it would just 	
+TS3005d.C.dialog-act.vkaraisk.312	Okay . 	
+TS3005d.D.dialog-act.vkaraisk.299	Was that 	
+TS3005d.D.dialog-act.vkaraisk.300	does that mean to it , single curve ? 	
+TS3005d.C.dialog-act.vkaraisk.313	Yeah , that's meant with scr uh with s curve . 	
+TS3005d.B.dialog-act.vkaraisk.426	Yeah . 	
+TS3005d.C.dialog-act.vkaraisk.314	The curve is uh in a dimension . 	
+TS3005d.D.dialog-act.vkaraisk.301	Okay . 	
+TS3005d.C.dialog-act.vkaraisk.315	If you make it a flat one , s n it's no curve , you got no curves . 	
+TS3005d.B.dialog-act.vkaraisk.427	So 	
+TS3005d.B.dialog-act.vkaraisk.428	We would lose this one ? 	
+TS3005d.D.dialog-act.vkaraisk.302	Yeah , 	
+TS3005d.D.dialog-act.vkaraisk.303	but tha that that only is one . 	
+TS3005d.C.dialog-act.vkaraisk.316	Yeah , okay . 	
+TS3005d.B.dialog-act.vkaraisk.429	Yeah , 	
+TS3005d.B.dialog-act.vkaraisk.430	we could s yeah , a bit . 	
+TS3005d.C.dialog-act.vkaraisk.317	No , 	
+TS3005d.C.dialog-act.vkaraisk.318	two . 	
+TS3005d.D.dialog-act.vkaraisk.304	No , 	
+TS3005d.D.dialog-act.vkaraisk.305	one . 	
+TS3005d.B.dialog-act.vkaraisk.431	Sixteen point three . 	
+TS3005d.C.dialog-act.vkaraisk.319	Oh , 	
+TS3005d.C.dialog-act.vkaraisk.320	okay , indeed . 	
+TS3005d.D.dialog-act.vkaraisk.306	So 	
+TS3005d.D.dialog-act.vkaraisk.307	we don't 	
+TS3005d.B.dialog-act.vkaraisk.432	So 	
+TS3005d.B.dialog-act.vkaraisk.433	we still 	
+TS3005d.D.dialog-act.vkaraisk.308	Yeah , 	
+TS3005d.D.dialog-act.vkaraisk.309	we also have to 	
+TS3005d.C.dialog-act.vkaraisk.321	Is it possible to make 	
+TS3005d.B.dialog-act.vkaraisk.434	Could could we do it on a regular chip on print or something ? 	
+TS3005d.D.dialog-act.vkaraisk.310	No , 	
+TS3005d.D.dialog-act.vkaraisk.311	otherwise we don't have an L_C_D_ screen . 	
+TS3005d.B.dialog-act.vkaraisk.435	No ? 	
+TS3005d.B.dialog-act.vkaraisk.436	Ma y you just can't do that , or uh 	
+TS3005d.C.dialog-act.vkaraisk.322	No . 	
+TS3005d.A.dialog-act.vkaraisk.275	And what did you change ? 	
+TS3005d.A.dialog-act.vkaraisk.276	You changed the uh scroll wheel 	
+TS3005d.B.dialog-act.vkaraisk.437	We changed th 	
+TS3005d.A.dialog-act.vkaraisk.277	and 	
+TS3005d.B.dialog-act.vkaraisk.438	Yeah , 	
+TS3005d.B.dialog-act.vkaraisk.439	and the single curved to uncurved . 	
+TS3005d.D.dialog-act.vkaraisk.312	Single curved . 	
+TS3005d.A.dialog-act.vkaraisk.278	Oh , 	
+TS3005d.D.dialog-act.vkaraisk.313	Flat . 	
+TS3005d.A.dialog-act.vkaraisk.279	but it's just one 	
+TS3005d.D.dialog-act.vkaraisk.314	Yeah , 	
+TS3005d.D.dialog-act.vkaraisk.315	so that does doesn't doesn't that mu I think 	
+TS3005d.A.dialog-act.vkaraisk.280	point , 	
+TS3005d.B.dialog-act.vkaraisk.440	No . 	
+TS3005d.A.dialog-act.vkaraisk.281	so maybe you should should uh 	
+TS3005d.D.dialog-act.vkaraisk.316	Scrap sample speaker ? 	
+TS3005d.A.dialog-act.vkaraisk.282	Yeah , 	
+TS3005d.D.dialog-act.vkaraisk.317	That that's uh 	
+TS3005d.A.dialog-act.vkaraisk.283	you should you should drop the speech recognition . 	
+TS3005d.C.dialog-act.vkaraisk.323	The sample speaker is two d wait , f s four points . 	
+TS3005d.B.dialog-act.vkaraisk.441	Yeah , 	
+TS3005d.B.dialog-act.vkaraisk.442	but it's t 	
+TS3005d.D.dialog-act.vkaraisk.318	Yes , four points . 	
+TS3005d.B.dialog-act.vkaraisk.443	Yeah , 	
+TS3005d.B.dialog-act.vkaraisk.444	but it is uh it it is a new feature , 	
+TS3005d.A.dialog-act.vkaraisk.284	And then you can keep the curve . 	
+TS3005d.B.dialog-act.vkaraisk.445	it is something special . 	
+TS3005d.A.dialog-act.vkaraisk.285	Or can't you ? 	
+TS3005d.C.dialog-act.vkaraisk.324	Yeah , 	
+TS3005d.C.dialog-act.vkaraisk.327	uh becau uh when you lose the 	
+TS3005d.D.dialog-act.vkaraisk.319	Yeah , 	
+TS3005d.D.dialog-act.vkaraisk.320	but what what else what else uh do you want to scrap ? 	
+TS3005d.D.dialog-act.vkaraisk.321	F 	
+TS3005d.D.dialog-act.vkaraisk.322	You have to we have to scrap four points . 	
+TS3005d.C.dialog-act.vkaraisk.328		
+TS3005d.B.dialog-act.vkaraisk.446	I don't know . 	
+TS3005d.B.dialog-act.vkaraisk.447	Yeah , 	
+TS3005d.B.dialog-act.vkaraisk.448	that's difficult . 	
+TS3005d.C.dialog-act.vkaraisk.329	Yeah . 	
+TS3005d.A.dialog-act.vkaraisk.286	Or make it on a hand dynamo , 	
+TS3005d.A.dialog-act.vkaraisk.287	but I don't think that will work . 	
+TS3005d.B.dialog-act.vkaraisk.449	Yeah . 	
+TS3005d.C.dialog-act.vkaraisk.330		
+TS3005d.D.dialog-act.vkaraisk.323	Ma make it with wood instead of rubber ? 	
+TS3005d.C.dialog-act.vkaraisk.331	No , 	
+TS3005d.C.dialog-act.vkaraisk.332	that's 	
+TS3005d.C.dialog-act.vkaraisk.333	no . 	
+TS3005d.C.dialog-act.vkaraisk.334	Make it w uh 	
+TS3005d.B.dialog-act.vkaraisk.450	Uh . 	
+TS3005d.C.dialog-act.vkaraisk.335	when you made it uh uh uh a remote control of wood ? 	
+TS3005d.B.dialog-act.vkaraisk.451	We could make it titanium instead of rubber . 	
+TS3005d.C.dialog-act.vkaraisk.336	You don't make a remote control of Ah . 	
+TS3005d.D.dialog-act.vkaraisk.324	Yeah , 	
+TS3005d.D.dialog-act.vkaraisk.325	it it i 	
+TS3005d.A.dialog-act.vkaraisk.288	Yeah , 	
+TS3005d.A.dialog-act.vkaraisk.289	mm-hmm . 	
+TS3005d.D.dialog-act.vkaraisk.326	Yeah , 	
+TS3005d.D.dialog-act.vkaraisk.327	it also uh it also takes one point less . 	
+TS3005d.A.dialog-act.vkaraisk.290	Yeah , 	
+TS3005d.A.dialog-act.vkaraisk.291	but uh a wooden remote control only helps for uh old people we discussed , 	
+TS3005d.B.dialog-act.vkaraisk.452	Oh . Oh 	
+TS3005d.B.dialog-act.vkaraisk.453	can I ask something ? 	
+TS3005d.B.dialog-act.vkaraisk.454	What is special colour ? 	
+TS3005d.A.dialog-act.vkaraisk.292	yes ? 	
+TS3005d.D.dialog-act.vkaraisk.328	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.455	Is that the wood uh wood uh 	
+TS3005d.D.dialog-act.vkaraisk.329	I think it is . 	
+TS3005d.B.dialog-act.vkaraisk.456	this , we have to have that one too ? 	
+TS3005d.C.dialog-act.vkaraisk.337	It isn't . 	
+TS3005d.C.dialog-act.vkaraisk.338	What ? 	
+TS3005d.D.dialog-act.vkaraisk.330	Yeah . 	
+TS3005d.A.dialog-act.vkaraisk.293	Yeah , 	
+TS3005d.A.dialog-act.vkaraisk.294	but it's only a half . 	
+TS3005d.A.dialog-act.vkaraisk.295	But I think the only option is to drop the uh sample speaker . 	
+TS3005d.D.dialog-act.vkaraisk.331	Yeah . Sample speaker . 	
+TS3005d.C.dialog-act.vkaraisk.339	To knock the sample speaker , yeah . 	
+TS3005d.C.dialog-act.vkaraisk.340	And sample sensor . 	
+TS3005d.B.dialog-act.vkaraisk.457	Th then we still have too much 	
+TS3005d.D.dialog-act.vkaraisk.332	Yeah , okay , 	
+TS3005d.B.dialog-act.vkaraisk.458	if we use the uh 	
+TS3005d.D.dialog-act.vkaraisk.333	three . Point three . 	
+TS3005d.C.dialog-act.vkaraisk.342	But m yeah , course , 	
+TS3005d.C.dialog-act.vkaraisk.343	but 	
+TS3005d.B.dialog-act.vkaraisk.459	Yeah , 	
+TS3005d.B.dialog-act.vkaraisk.460	we we scrap that one ? 	
+TS3005d.C.dialog-act.vkaraisk.344	What we'll have . 	
+TS3005d.D.dialog-act.vkaraisk.334	Huh ? 	
+TS3005d.C.dialog-act.vkaraisk.345	Let's make it thirteen or fourteen . 	
+TS3005d.D.dialog-act.vkaraisk.335	Point twelve . 	
+TS3005d.B.dialog-act.vkaraisk.461	See , a po 	
+TS3005d.B.dialog-act.vkaraisk.462	three . We need point three . 	
+TS3005d.D.dialog-act.vkaraisk.336	That's a scroll wheel . 	
+TS3005d.B.dialog-act.vkaraisk.463	Uh it's a colour . 	
+TS3005d.B.dialog-act.vkaraisk.464	Don't make it wood . 	
+TS3005d.C.dialog-act.vkaraisk.346	A colour . 	
+TS3005d.D.dialog-act.vkaraisk.337	Yeah , 	
+TS3005d.D.dialog-act.vkaraisk.338	but a wood 	
+TS3005d.B.dialog-act.vkaraisk.465	Make it uh 	
+TS3005d.D.dialog-act.vkaraisk.339	we can make it brown , dark brown , not wood . 	
+TS3005d.B.dialog-act.vkaraisk.466	Yeah , 	
+TS3005d.B.dialog-act.vkaraisk.467	but it's it's special colour , 	
+TS3005d.B.dialog-act.vkaraisk.468	is it 	
+TS3005d.C.dialog-act.vkaraisk.347	Yeah , 	
+TS3005d.B.dialog-act.vkaraisk.469	a all kind of colours ? 	
+TS3005d.C.dialog-act.vkaraisk.348	special colours , fruity colours . 	
+TS3005d.B.dialog-act.vkaraisk.470	It's also green 	
+TS3005d.D.dialog-act.vkaraisk.340	Is it also 	
+TS3005d.B.dialog-act.vkaraisk.471	or uh 	
+TS3005d.D.dialog-act.vkaraisk.341	no that that's just normal colour fruit colours . 	
+TS3005d.C.dialog-act.vkaraisk.349	Yeah . 	
+TS3005d.D.dialog-act.vkaraisk.342	Normal colours , yellow 	
+TS3005d.B.dialog-act.vkaraisk.472	Yeah , 	
+TS3005d.B.dialog-act.vkaraisk.473	but it's a special colour than just rubber colour . 	
+TS3005d.B.dialog-act.vkaraisk.474	You have to add something to the rubber to make it green . 	
+TS3005d.C.dialog-act.vkaraisk.350	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.475	You don't say here's green rubber . 	
+TS3005d.C.dialog-act.vkaraisk.351	They don't sell green rubber plants . 	
+TS3005d.D.dialog-act.vkaraisk.343	Yeah , 	
+TS3005d.D.dialog-act.vkaraisk.344	but then I d I don't think we can ever make to a twelve and half . 	
+TS3005d.C.dialog-act.vkaraisk.352	Alright . 	
+TS3005d.B.dialog-act.vkaraisk.476	Yeah , you can , 	
+TS3005d.B.dialog-act.vkaraisk.477	you should you have to lose 	
+TS3005d.D.dialog-act.vkaraisk.345	But then we have to scrap L_C_D_ display , 	
+TS3005d.D.dialog-act.vkaraisk.346	we have to scrap uh 	
+TS3005d.B.dialog-act.vkaraisk.478	No , 	
+TS3005d.B.dialog-act.vkaraisk.479	it is the scroll wheel , I guess . 	
+TS3005d.C.dialog-act.vkaraisk.353	No no no . 	
+TS3005d.D.dialog-act.vkaraisk.347	s advanced chip . 	
+TS3005d.D.dialog-act.vkaraisk.348	No 	
+TS3005d.D.dialog-act.vkaraisk.349	then we have to scrap everything we got 	
+TS3005d.D.dialog-act.vkaraisk.350	because how many colours we gonna make ? 	
+TS3005d.D.dialog-act.vkaraisk.351	Five ? 	
+TS3005d.C.dialog-act.vkaraisk.354	If we lose the scroll wheel and make it totally uh depending uh dependent on uh the touch screen 	
+TS3005d.D.dialog-act.vkaraisk.352	Then we have two . 	
+TS3005d.D.dialog-act.vkaraisk.353	S 	
+TS3005d.B.dialog-act.vkaraisk.480	A push , 	
+TS3005d.D.dialog-act.vkaraisk.354	touch . 	
+TS3005d.B.dialog-act.vkaraisk.481	yeah . 	
+TS3005d.C.dialog-act.vkaraisk.355	then it's possible to make . 	
+TS3005d.D.dialog-act.vkaraisk.355	Then we can make add two colours on it . 	
+TS3005d.C.dialog-act.vkaraisk.356	And then you can and then you can add to the colours . 	
+TS3005d.D.dialog-act.vkaraisk.356	Yeah , 	
+TS3005d.D.dialog-act.vkaraisk.357	two colours it . 	
+TS3005d.C.dialog-act.vkaraisk.357	Special c 	
+TS3005d.B.dialog-act.vkaraisk.482	Switch colours . 	
+TS3005d.C.dialog-act.vkaraisk.358	Okay , 	
+TS3005d.C.dialog-act.vkaraisk.359	if you lose uh if you lose the 	
+TS3005d.B.dialog-act.vkaraisk.483	It was such a great idea . 	
+TS3005d.C.dialog-act.vkaraisk.360	You lose this one , you got eleven point five 	
+TS3005d.D.dialog-act.vkaraisk.358	They can add two colours . 	
+TS3005d.C.dialog-act.vkaraisk.361	and you make i and then you can make uh the spec single curve , for example . 	
+TS3005d.D.dialog-act.vkaraisk.359	But the colours . Um how ma uh the colours like l she told , is that all the colours we add 	
+TS3005d.D.dialog-act.vkaraisk.360	or 	
+TS3005d.C.dialog-act.vkaraisk.362	How d uh uh how many colours ? 	
+TS3005d.B.dialog-act.vkaraisk.484	What do you mean ? 	
+TS3005d.C.dialog-act.vkaraisk.363	Special colours , all the colours you want , 	
+TS3005d.C.dialog-act.vkaraisk.364	because you want to make p 	
+TS3005d.D.dialog-act.vkaraisk.361	Yeah , 	
+TS3005d.D.dialog-act.vkaraisk.362	but we we we are we have yellow , red , uh black , titanium . 	
+TS3005d.C.dialog-act.vkaraisk.365	Yeah , 	
+TS3005d.C.dialog-act.vkaraisk.366	but uh when you use more than one colour , it's a special colour . 	
+TS3005d.D.dialog-act.vkaraisk.363	Ah okay . 	
+TS3005d.B.dialog-act.vkaraisk.485	Oh . 	
+TS3005d.B.dialog-act.vkaraisk.486	But I think when you use the colour that's not originally the rubber then you use special colour , 	
+TS3005d.C.dialog-act.vkaraisk.367	I suppose . 	
+TS3005d.B.dialog-act.vkaraisk.487	'cause you have to add it . 	
+TS3005d.C.dialog-act.vkaraisk.368	Yeah . 	
+TS3005d.D.dialog-act.vkaraisk.364	Yeah , 	
+TS3005d.D.dialog-act.vkaraisk.365	but the rubbers alls original black . 	
+TS3005d.B.dialog-act.vkaraisk.488	Yeah , 	
+TS3005d.B.dialog-act.vkaraisk.489	so you always lose the special colour . 	
+TS3005d.B.dialog-act.vkaraisk.490	You co you could make it always black , like normal remote . 	
+TS3005d.D.dialog-act.vkaraisk.366	Yeah 	
+TS3005d.D.dialog-act.vkaraisk.367	b 	
+TS3005d.D.dialog-act.vkaraisk.368	Yeah , 	
+TS3005d.D.dialog-act.vkaraisk.369	but we're gonna make it yellow uh red , 	
+TS3005d.D.dialog-act.vkaraisk.370	and then you add you have two special colours on top of the one we have now . 	
+TS3005d.C.dialog-act.vkaraisk.369	Nee 	
+TS3005d.C.dialog-act.vkaraisk.370	we we also want to make ano another colour . 	
+TS3005d.B.dialog-act.vkaraisk.491	Oh right , yeah . 	
+TS3005d.B.dialog-act.vkaraisk.492	Yeah , 	
+TS3005d.D.dialog-act.vkaraisk.371	Yeah , 	
+TS3005d.B.dialog-act.vkaraisk.493	we should u 	
+TS3005d.D.dialog-act.vkaraisk.372	but m 	
+TS3005d.B.dialog-act.vkaraisk.494	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.495	We have to make this like four or five or something . 	
+TS3005d.D.dialog-act.vkaraisk.373	Yeah , 	
+TS3005d.D.dialog-act.vkaraisk.374	because we have more colours than only black . 	
+TS3005d.B.dialog-act.vkaraisk.496	That's what it means . 	
+TS3005d.A.dialog-act.vkaraisk.296	Yeah , 	
+TS3005d.B.dialog-act.vkaraisk.497	Yeah . 	
+TS3005d.A.dialog-act.vkaraisk.297	but isn't it per remote that you pay ? 	
+TS3005d.D.dialog-act.vkaraisk.375	I then I think I p I don I don't think they me mean they're special 	
+TS3005d.B.dialog-act.vkaraisk.498	Oh right , yeah . 	
+TS3005d.A.dialog-act.vkaraisk.298	Half ? 	
+TS3005d.B.dialog-act.vkaraisk.499	Is it per remote ? 	
+TS3005d.A.dialog-act.vkaraisk.299	I think you pay half per remote . 	
+TS3005d.B.dialog-act.vkaraisk.500	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.501	Yeah , that's right , 	
+TS3005d.A.dialog-act.vkaraisk.300	So each remote with a special colour . 	
+TS3005d.B.dialog-act.vkaraisk.502	and you 	
+TS3005d.B.dialog-act.vkaraisk.503	one colour per remote . 	
+TS3005d.C.dialog-act.vkaraisk.371	Yeah , indeed , yeah . 	
+TS3005d.B.dialog-act.vkaraisk.504	So then it is one . 	
+TS3005d.C.dialog-act.vkaraisk.372	You don't need four of those uh four of those special colours in one in one remote . 	
+TS3005d.D.dialog-act.vkaraisk.376	Yeah , okay okay , true . True , true . 	
+TS3005d.B.dialog-act.vkaraisk.505	No . 	
+TS3005d.A.dialog-act.vkaraisk.301	I hope . 	
+TS3005d.D.dialog-act.vkaraisk.377	We have two points spare . 	
+TS3005d.A.dialog-act.vkaraisk.302	So 	
+TS3005d.A.dialog-act.vkaraisk.303	the battery , 	
+TS3005d.D.dialog-act.vkaraisk.378	Nee 	
+TS3005d.D.dialog-act.vkaraisk.379	one point . 	
+TS3005d.A.dialog-act.vkaraisk.304	we have um advanced chip on print . 	
+TS3005d.B.dialog-act.vkaraisk.506	One . 	
+TS3005d.C.dialog-act.vkaraisk.373		
+TS3005d.B.dialog-act.vkaraisk.507	So it would be curved , single curve . 	
+TS3005d.A.dialog-act.vkaraisk.305	Because of thing 	
+TS3005d.B.dialog-act.vkaraisk.508	Or not ? 	
+TS3005d.A.dialog-act.vkaraisk.306	Yeah , well you can at least make it curved again . 	
+TS3005d.C.dialog-act.vkaraisk.374	Hmm . 	
+TS3005d.B.dialog-act.vkaraisk.509	So 	
+TS3005d.C.dialog-act.vkaraisk.375	Yeah , single curve . 	
+TS3005d.B.dialog-act.vkaraisk.510	y you just can't make a nice remote . 	
+TS3005d.A.dialog-act.vkaraisk.309	Because that was very important , 	
+TS3005d.B.dialog-act.vkaraisk.511	It's too bad for the speaker . 	
+TS3005d.A.dialog-act.vkaraisk.310	huh ? 	
+TS3005d.A.dialog-act.vkaraisk.311	So 	
+TS3005d.A.dialog-act.vkaraisk.312	it's curved , 	
+TS3005d.A.dialog-act.vkaraisk.313	it's still that 	
+TS3005d.A.dialog-act.vkaraisk.314	so 	
+TS3005d.A.dialog-act.vkaraisk.315	we we dropped the speech recognition together with the speaker . 	
+TS3005d.B.dialog-act.vkaraisk.512	Should we change that tha that that's a one if not , 	
+TS3005d.D.dialog-act.vkaraisk.380	Mm yep . 	
+TS3005d.B.dialog-act.vkaraisk.513	or not ? 	
+TS3005d.A.dialog-act.vkaraisk.316	We dropped the scroll wheel . 	
+TS3005d.B.dialog-act.vkaraisk.514	Could you copy it ? 	
+TS3005d.B.dialog-act.vkaraisk.515	And make it uh 	
+TS3005d.A.dialog-act.vkaraisk.317	And the rest is the same , 	
+TS3005d.A.dialog-act.vkaraisk.318	huh ? 	
+TS3005d.D.dialog-act.vkaraisk.381	Y yea the scroll wheel is dropped . 	
+TS3005d.A.dialog-act.vkaraisk.319	Am I right ? 	
+TS3005d.A.dialog-act.vkaraisk.320	Yes . 	
+TS3005d.B.dialog-act.vkaraisk.516	The entire uh 	
+TS3005d.C.dialog-act.vkaraisk.376	Uh . Huh . 	
+TS3005d.D.dialog-act.vkaraisk.382	Yep . 	
+TS3005d.B.dialog-act.vkaraisk.517	Perhaps you can then copy page or so . 	
+TS3005d.B.dialog-act.vkaraisk.518	Ooh . 	
+TS3005d.B.dialog-act.vkaraisk.519	No . 	
+TS3005d.C.dialog-act.vkaraisk.377	Okay . 	
+TS3005d.B.dialog-act.vkaraisk.520	Oh 	
+TS3005d.B.dialog-act.vkaraisk.521	you you made the entire could you 	
+TS3005d.C.dialog-act.vkaraisk.378	Undo , 	
+TS3005d.C.dialog-act.vkaraisk.379	undo . 	
+TS3005d.B.dialog-act.vkaraisk.522	Oh 	
+TS3005d.C.dialog-act.vkaraisk.380	Undo . 	
+TS3005d.B.dialog-act.vkaraisk.523	not 	
+TS3005d.B.dialog-act.vkaraisk.524	Well 	
+TS3005d.B.dialog-act.vkaraisk.525	. 	
+TS3005d.C.dialog-act.vkaraisk.381	So , 'kay . 	
+TS3005d.C.dialog-act.vkaraisk.382	Twenty minutes ? 	
+TS3005d.B.dialog-act.vkaraisk.526	Would you ? 	
+TS3005d.B.dialog-act.vkaraisk.527	By the 	
+TS3005d.B.dialog-act.vkaraisk.528	Perhaps you can save this one , 	
+TS3005d.B.dialog-act.vkaraisk.529	and then copy or something . 	
+TS3005d.B.dialog-act.vkaraisk.530	Add it copy page . 	
+TS3005d.B.dialog-act.vkaraisk.531	Select all . 	
+TS3005d.A.dialog-act.vkaraisk.321	No , 	
+TS3005d.A.dialog-act.vkaraisk.322	but you c 	
+TS3005d.A.dialog-act.vkaraisk.323	yeah . 	
+TS3005d.B.dialog-act.vkaraisk.532	Alright , 	
+TS3005d.B.dialog-act.vkaraisk.533	something went wrong . 	
+TS3005d.D.dialog-act.vkaraisk.383	Tap . 	
+TS3005d.A.dialog-act.vkaraisk.324	Okay , 	
+TS3005d.A.dialog-act.vkaraisk.325	but this this new remote we can afford . 	
+TS3005d.B.dialog-act.vkaraisk.534	It doesn't work . 	
+TS3005d.B.dialog-act.vkaraisk.535	Let's forget . 	
+TS3005d.D.dialog-act.vkaraisk.384	It should've work . 	
+TS3005d.C.dialog-act.vkaraisk.383	Okay , so 	
+TS3005d.C.dialog-act.vkaraisk.384	you had this list at start ? 	
+TS3005d.A.dialog-act.vkaraisk.326	Hmm ? 	
+TS3005d.C.dialog-act.vkaraisk.385	Alright . 	
+TS3005d.A.dialog-act.vkaraisk.327	No , I hadn't . 	
+TS3005d.C.dialog-act.vkaraisk.386	When did you receive this list ? 	
+TS3005d.A.dialog-act.vkaraisk.328	I just received it . 	
+TS3005d.C.dialog-act.vkaraisk.387	Ah okay . 	
+TS3005d.B.dialog-act.vkaraisk.536	Yeah . Oh 	
+TS3005d.B.dialog-act.vkaraisk.537	ignore that . 	
+TS3005d.A.dialog-act.vkaraisk.329	They don't work so hard at the finance department . 	
+TS3005d.C.dialog-act.vkaraisk.388	Ah okay . 	
+TS3005d.B.dialog-act.vkaraisk.538	Well , so 	
+TS3005d.C.dialog-act.vkaraisk.389	I suppose this is a 	
+TS3005d.C.dialog-act.vkaraisk.390	Okay , so 	
+TS3005d.B.dialog-act.vkaraisk.539	Too bad . 	
+TS3005d.C.dialog-act.vkaraisk.391	we lose the scroll wheel , 	
+TS3005d.B.dialog-act.vkaraisk.540	Yeah . 	
+TS3005d.C.dialog-act.vkaraisk.392	the s 	
+TS3005d.B.dialog-act.vkaraisk.541	The microphone . 	
+TS3005d.A.dialog-act.vkaraisk.330	Yeah , 	
+TS3005d.A.dialog-act.vkaraisk.331	and that's it . 	
+TS3005d.B.dialog-act.vkaraisk.542	Yeah . 	
+TS3005d.C.dialog-act.vkaraisk.393	And the microphone . 	
+TS3005d.B.dialog-act.vkaraisk.543	A and we changed something , I guess , 	
+TS3005d.B.dialog-act.vkaraisk.544	or not ? 	
+TS3005d.B.dialog-act.vkaraisk.545	We 	
+TS3005d.B.dialog-act.vkaraisk.546	Oh no . 	
+TS3005d.D.dialog-act.vkaraisk.385	Yep . 	
+TS3005d.C.dialog-act.vkaraisk.394	Okay . 	
+TS3005d.A.dialog-act.vkaraisk.332	Twelve Euro fifty . 	
+TS3005d.A.dialog-act.vkaraisk.333	Um and did you try to make a new design , 	
+TS3005d.A.dialog-act.vkaraisk.334	or what were you trying to do ? 	
+TS3005d.B.dialog-act.vkaraisk.547	Yeah , 	
+TS3005d.B.dialog-act.vkaraisk.548	I tried to copy that one , 	
+TS3005d.B.dialog-act.vkaraisk.549	but it didn't work . 	
+TS3005d.A.dialog-act.vkaraisk.335	It didn't work . 	
+TS3005d.B.dialog-act.vkaraisk.550	So we could fix it like tha that it's like this . 	
+TS3005d.A.dialog-act.vkaraisk.336	Hmm . Strange . 	
+TS3005d.B.dialog-act.vkaraisk.551	You could select it all , 	
+TS3005d.B.dialog-act.vkaraisk.552	but then you can't erase . 	
+TS3005d.C.dialog-act.vkaraisk.395	Strange . 	
+TS3005d.A.dialog-act.vkaraisk.337	Oh , you can arrange 	
+TS3005d.C.dialog-act.vkaraisk.396	You can only re erase ? 	
+TS3005d.B.dialog-act.vkaraisk.553	Erase . 	
+TS3005d.C.dialog-act.vkaraisk.397	Oh . 	
+TS3005d.B.dialog-act.vkaraisk.554	When you saw th li uh 	
+TS3005d.B.dialog-act.vkaraisk.555	Earlier when we selected it , w I couldn't erase anything . 	
+TS3005d.C.dialog-act.vkaraisk.398	Uh , 	
+TS3005d.C.dialog-act.vkaraisk.399	no . 	
+TS3005d.A.dialog-act.vkaraisk.338	Hmm , can't you then just say copy ? 	
+TS3005d.C.dialog-act.vkaraisk.400	Bling . 	
+TS3005d.A.dialog-act.vkaraisk.339	New page . 	
+TS3005d.A.dialog-act.vkaraisk.340	Paste . 	
+TS3005d.A.dialog-act.vkaraisk.341	Yes . 	
+TS3005d.C.dialog-act.vkaraisk.401	Ah . 	
+TS3005d.A.dialog-act.vkaraisk.342	Select none . 	
+TS3005d.D.dialog-act.vkaraisk.386	just tap somewhere . 	
+TS3005d.B.dialog-act.vkaraisk.556	Just tap somewhere . 	
+TS3005d.C.dialog-act.vkaraisk.402	just up somewhere b uh besides it , 	
+TS3005d.C.dialog-act.vkaraisk.403	right . 	
+TS3005d.A.dialog-act.vkaraisk.343	Okay , 	
+TS3005d.B.dialog-act.vkaraisk.557	Yeah . 	
+TS3005d.A.dialog-act.vkaraisk.344	and now you can erase . 	
+TS3005d.B.dialog-act.vkaraisk.558	I don't think I can , 	
+TS3005d.B.dialog-act.vkaraisk.559	but uh we can try . 	
+TS3005d.C.dialog-act.vkaraisk.404	Uh , we already try . 	
+TS3005d.A.dialog-act.vkaraisk.345	Well 	
+TS3005d.A.dialog-act.vkaraisk.346	it should be possible . 	
+TS3005d.B.dialog-act.vkaraisk.560	Oh , yeah , 	
+TS3005d.B.dialog-act.vkaraisk.561	no , 	
+TS3005d.A.dialog-act.vkaraisk.347	Oh no . 	
+TS3005d.B.dialog-act.vkaraisk.562	ha-ha . 	
+TS3005d.A.dialog-act.vkaraisk.348	Well 	
+TS3005d.D.dialog-act.vkaraisk.387	No ? 	
+TS3005d.A.dialog-act.vkaraisk.349	you can draw over it with white uh pen . 	
+TS3005d.B.dialog-act.vkaraisk.563	Yeah , 	
+TS3005d.B.dialog-act.vkaraisk.564	we tried it earlier . 	
+TS3005d.A.dialog-act.vkaraisk.350	Oh . 	
+TS3005d.B.dialog-act.vkaraisk.565	It's very much work . 	
+TS3005d.A.dialog-act.vkaraisk.351	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.566		
+TS3005d.A.dialog-act.vkaraisk.352	Sorry . 	
+TS3005d.A.dialog-act.vkaraisk.353	Well 	
+TS3005d.A.dialog-act.vkaraisk.354	but that's also useful for the evaluation , 	
+TS3005d.A.dialog-act.vkaraisk.355	because I think uh we have a prototype now 	
+TS3005d.D.dialog-act.vkaraisk.388	Evaluation drops . 	
+TS3005d.A.dialog-act.vkaraisk.356	which we can afford 	
+TS3005d.A.dialog-act.vkaraisk.357	and uh we only need to draw a little bit to get a good uh 	
+TS3005d.A.dialog-act.vkaraisk.358	design . Doodle . 	
+TS3005d.A.dialog-act.vkaraisk.359	And I think we should then move on to the production evaluation because of the time . 	
+TS3005d.D.dialog-act.vkaraisk.389	And erase the mic . 	
+TS3005d.B.dialog-act.vkaraisk.567	Yeah , 	
+TS3005d.B.dialog-act.vkaraisk.568	goodbye mic . 	
+TS3005d.C.dialog-act.vkaraisk.405	All I need is no mic . 	
+TS3005d.D.dialog-act.vkaraisk.390		
+TS3005d.B.dialog-act.vkaraisk.569		
+TS3005d.C.dialog-act.vkaraisk.406		
+TS3005d.A.dialog-act.vkaraisk.360	Let's see , 	
+TS3005d.B.dialog-act.vkaraisk.570	Oh , 	
+TS3005d.B.dialog-act.vkaraisk.571	I already erased half of the line . 	
+TS3005d.A.dialog-act.vkaraisk.361	we can save this now . 	
+TS3005d.C.dialog-act.vkaraisk.407	Bon chance 	
+TS3005d.A.dialog-act.vkaraisk.362	And move back to here . 	
+TS3005d.B.dialog-act.vkaraisk.572	Too bad , oh . 	
+TS3005d.A.dialog-act.vkaraisk.363		
+TS3005d.C.dialog-act.vkaraisk.408		
+TS3005d.D.dialog-act.vkaraisk.391		
+TS3005d.B.dialog-act.vkaraisk.573	Like this ? 	
+TS3005d.A.dialog-act.vkaraisk.364	Mm-hmm . 	
+TS3005d.B.dialog-act.vkaraisk.574	Still looks nice . 	
+TS3005d.A.dialog-act.vkaraisk.365	And then all green . 	
+TS3005d.A.dialog-act.vkaraisk.366	Okay , well 	
+TS3005d.A.dialog-act.vkaraisk.367	thank you . 	
+TS3005d.B.dialog-act.vkaraisk.575	Oh , 	
+TS3005d.D.dialog-act.vkaraisk.392	Looks like a iPod . 	
+TS3005d.B.dialog-act.vkaraisk.576	that's erase . 	
+TS3005d.A.dialog-act.vkaraisk.368	Oh , 	
+TS3005d.A.dialog-act.vkaraisk.369	no . 	
+TS3005d.C.dialog-act.vkaraisk.409	No , 	
+TS3005d.A.dialog-act.vkaraisk.370	Hey , 	
+TS3005d.C.dialog-act.vkaraisk.410	add 	
+TS3005d.A.dialog-act.vkaraisk.371	but you can erase that . 	
+TS3005d.B.dialog-act.vkaraisk.577	Yeah , 	
+TS3005d.B.dialog-act.vkaraisk.578	that's a bit weird . 	
+TS3005d.C.dialog-act.vkaraisk.411	Yeah . 	
+TS3005d.A.dialog-act.vkaraisk.372	Uh-oh . 	
+TS3005d.B.dialog-act.vkaraisk.579	Oh , 	
+TS3005d.C.dialog-act.vkaraisk.413	S Difference between lines and text and the pen . 	
+TS3005d.B.dialog-act.vkaraisk.580	now I'm line . 	
+TS3005d.B.dialog-act.vkaraisk.581	Yeah . 	
+TS3005d.D.dialog-act.vkaraisk.393	Oh . 	
+TS3005d.A.dialog-act.vkaraisk.373	Right . 	
+TS3005d.D.dialog-act.vkaraisk.394	All I need is mic . 	
+TS3005d.A.dialog-act.vkaraisk.374	And you can't erase this ? 	
+TS3005d.D.dialog-act.vkaraisk.395		
+TS3005d.A.dialog-act.vkaraisk.375	Hmm , strange . 	
+TS3005d.B.dialog-act.vkaraisk.582	No , 	
+TS3005d.D.dialog-act.vkaraisk.396		
+TS3005d.B.dialog-act.vkaraisk.583	it's weird . 	
+TS3005d.C.dialog-act.vkaraisk.414		
+TS3005d.A.dialog-act.vkaraisk.376	Okay , well uh 	
+TS3005d.A.dialog-act.vkaraisk.377	just leave it at this 	
+TS3005d.A.dialog-act.vkaraisk.378	and quickly save . 	
+TS3005d.D.dialog-act.vkaraisk.397	Station page . 	
+TS3005d.A.dialog-act.vkaraisk.379	Um and then we are going to the project or product evaluation . 	
+TS3005d.C.dialog-act.vkaraisk.415	Huh , 	
+TS3005d.C.dialog-act.vkaraisk.416	looks fucking boring now . 	
+TS3005d.A.dialog-act.vkaraisk.380	We just did our project evaluation . 	
+TS3005d.A.dialog-act.vkaraisk.381	Um well , 	
+TS3005d.A.dialog-act.vkaraisk.382	I think I can sit for that 	
+TS3005d.A.dialog-act.vkaraisk.383	since it's almost my final slide . Um 	
+TS3005d.A.dialog-act.vkaraisk.384	what did you think about uh the process ? 	
+TS3005d.A.dialog-act.vkaraisk.385	How satisfied are we ? 	
+TS3005d.C.dialog-act.vkaraisk.417	Deadlines were sometimes very short . 	
+TS3005d.B.dialog-act.vkaraisk.584	Yeah . 	
+TS3005d.A.dialog-act.vkaraisk.386	Mm-hmm . 	
+TS3005d.B.dialog-act.vkaraisk.585	Bu but stressful . 	
+TS3005d.C.dialog-act.vkaraisk.418	But 	
+TS3005d.B.dialog-act.vkaraisk.586	You think , no , my presentation isn't ready . 	
+TS3005d.C.dialog-act.vkaraisk.419	And stressful . 	
+TS3005d.A.dialog-act.vkaraisk.387	Yeah . 	
+TS3005d.D.dialog-act.vkaraisk.398	I think we it should be b it would be better if we worked a little bit together . 	
+TS3005d.B.dialog-act.vkaraisk.587	Yeah . 	
+TS3005d.D.dialog-act.vkaraisk.399	Now we worked through each other , 	
+TS3005d.A.dialog-act.vkaraisk.388	Yeah . 	
+TS3005d.A.dialog-act.vkaraisk.389	And you could ask things . 	
+TS3005d.B.dialog-act.vkaraisk.588	Yeah , 	
+TS3005d.D.dialog-act.vkaraisk.400	something he said 	
+TS3005d.B.dialog-act.vkaraisk.589	you had information I didn't have 	
+TS3005d.D.dialog-act.vkaraisk.401	yeah , 	
+TS3005d.B.dialog-act.vkaraisk.590	and then uh 	
+TS3005d.D.dialog-act.vkaraisk.402	and you had information I also had , 	
+TS3005d.B.dialog-act.vkaraisk.591	Oh right . 	
+TS3005d.D.dialog-act.vkaraisk.403	so some some things I had in my presentation , they already told , 	
+TS3005d.C.dialog-act.vkaraisk.420	Yeah . 	
+TS3005d.C.dialog-act.vkaraisk.421	Yeah . 	
+TS3005d.D.dialog-act.vkaraisk.404	so 	
+TS3005d.B.dialog-act.vkaraisk.592	Yeah . 	
+TS3005d.A.dialog-act.vkaraisk.390	And for me it sometimes was a surprise who was going to present what , huh ? 	
+TS3005d.B.dialog-act.vkaraisk.593	Yeah . 	
+TS3005d.A.dialog-act.vkaraisk.391	And uh 	
+TS3005d.D.dialog-act.vkaraisk.405	So yeah , 	
+TS3005d.D.dialog-act.vkaraisk.406	that 	
+TS3005d.D.dialog-act.vkaraisk.407	I don't think that is the best way to work at for such project . 	
+TS3005d.A.dialog-act.vkaraisk.392	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.594	No . 	
+TS3005d.A.dialog-act.vkaraisk.393	So you would say uh communicate during our individual uh work . 	
+TS3005d.C.dialog-act.vkaraisk.422		
+TS3005d.D.dialog-act.vkaraisk.409		
+TS3005d.D.dialog-act.vkaraisk.410	Yeah , 	
+TS3005d.D.dialog-act.vkaraisk.411	no , 	
+TS3005d.D.dialog-act.vkaraisk.412	or maybe session of five minutes together or something , 	
+TS3005d.D.dialog-act.vkaraisk.413	and then work separate . 	
+TS3005d.C.dialog-act.vkaraisk.423	Yeah , 	
+TS3005d.C.dialog-act.vkaraisk.424	but but why not work here together , for example ? 	
+TS3005d.A.dialog-act.vkaraisk.394	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.595	Yeah , you could 	
+TS3005d.C.dialog-act.vkaraisk.425	Why should we be separated from each other in those difference uh different rooms ? 	
+TS3005d.D.dialog-act.vkaraisk.414	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.596	Yeah . 	
+TS3005d.D.dialog-act.vkaraisk.415	Yeah . 	
+TS3005d.A.dialog-act.vkaraisk.395	Mm-hmm . Well , 	
+TS3005d.B.dialog-act.vkaraisk.597	I think so too . 	
+TS3005d.A.dialog-act.vkaraisk.396	probably to simulate the whole working uh process , 	
+TS3005d.C.dialog-act.vkaraisk.426	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.598	Yeah , 	
+TS3005d.B.dialog-act.vkaraisk.599	but then you can work together too 	
+TS3005d.A.dialog-act.vkaraisk.397	huh , 	
+TS3005d.A.dialog-act.vkaraisk.398	th 	
+TS3005d.A.dialog-act.vkaraisk.399	you can't have a meeting uh for several weeks . 	
+TS3005d.B.dialog-act.vkaraisk.600	when 	
+TS3005d.D.dialog-act.vkaraisk.416	Yeah m yeah , 	
+TS3005d.D.dialog-act.vkaraisk.417	like she told . Then you can work together too by mail or by , I dunno , chat , something , 	
+TS3005d.C.dialog-act.vkaraisk.427	Huh , oh right . 	
+TS3005d.D.dialog-act.vkaraisk.418	but now we're completely separated from each other . 	
+TS3005d.A.dialog-act.vkaraisk.400	No . 	
+TS3005d.B.dialog-act.vkaraisk.601	A chat would also be uh 	
+TS3005d.D.dialog-act.vkaraisk.419	I don't think that was the best way , 	
+TS3005d.D.dialog-act.vkaraisk.420	but 	
+TS3005d.C.dialog-act.vkaraisk.428	But the technology was uh fantastic . 	
+TS3005d.D.dialog-act.vkaraisk.421	Yeah , the technology's okay . 	
+TS3005d.B.dialog-act.vkaraisk.602	Well , 	
+TS3005d.B.dialog-act.vkaraisk.603	I I don't really like the board , 	
+TS3005d.B.dialog-act.vkaraisk.604	it doesn't really work great . Sometimes I think . 	
+TS3005d.C.dialog-act.vkaraisk.429	Work now ? 	
+TS3005d.D.dialog-act.vkaraisk.422	Yeah okay , 	
+TS3005d.D.dialog-act.vkaraisk.423	but I don I do I think becau that's because 	
+TS3005d.C.dialog-act.vkaraisk.430	Perhaps it is e 	
+TS3005d.B.dialog-act.vkaraisk.605	It does work , 	
+TS3005d.B.dialog-act.vkaraisk.606	but sometimes it doesn't erase 	
+TS3005d.C.dialog-act.vkaraisk.431	Yeah , 	
+TS3005d.B.dialog-act.vkaraisk.607	or it doesn't uh 	
+TS3005d.C.dialog-act.vkaraisk.432	perhaps it is easier to get one of those uh dig digital pens or so 	
+TS3005d.C.dialog-act.vkaraisk.433	and to uh and lay it next to that keyboard over there . 	
+TS3005d.D.dialog-act.vkaraisk.424	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.608	Yeah . 	
+TS3005d.C.dialog-act.vkaraisk.434	So you can draw uh see it over th on the screen . 	
+TS3005d.D.dialog-act.vkaraisk.425	Yeah , 	
+TS3005d.D.dialog-act.vkaraisk.426	like the f like a plotters or something , 	
+TS3005d.B.dialog-act.vkaraisk.609	Yeah . 	
+TS3005d.C.dialog-act.vkaraisk.435	Yeah . 	
+TS3005d.D.dialog-act.vkaraisk.427	yeah . 	
+TS3005d.D.dialog-act.vkaraisk.428	Yep yep yep yep yep . 	
+TS3005d.A.dialog-act.vkaraisk.401	So 	
+TS3005d.B.dialog-act.vkaraisk.610	But 	
+TS3005d.A.dialog-act.vkaraisk.402	you don't think the SMARTboard is is really useful 	
+TS3005d.C.dialog-act.vkaraisk.436	It's useful , but not m 	
+TS3005d.A.dialog-act.vkaraisk.403	or 	
+TS3005d.B.dialog-act.vkaraisk.611	Well 	
+TS3005d.D.dialog-act.vkaraisk.429	Yeah , it is useful , but 	
+TS3005d.B.dialog-act.vkaraisk.612	it is useful , 	
+TS3005d.B.dialog-act.vkaraisk.613	but it doesn't really work all the time . 	
+TS3005d.D.dialog-act.vkaraisk.430	No . 	
+TS3005d.C.dialog-act.vkaraisk.437	Because when you put this pen on the screen uh uh for exam and line is d being drawn at at two or three centimetres uh below . 	
+TS3005d.B.dialog-act.vkaraisk.614	Th the pen doesn't 	
+TS3005d.B.dialog-act.vkaraisk.615	The line is a bit off . 	
+TS3005d.A.dialog-act.vkaraisk.404	Yeah , 	
+TS3005d.A.dialog-act.vkaraisk.405	so it's maybe a bit unnatural also . 	
+TS3005d.D.dialog-act.vkaraisk.431	Yep . 	
+TS3005d.C.dialog-act.vkaraisk.438	Alright . 	
+TS3005d.B.dialog-act.vkaraisk.616	Yeah , 	
+TS3005d.B.dialog-act.vkaraisk.617	you can point to where you want the line to be . 	
+TS3005d.B.dialog-act.vkaraisk.618	But 	
+TS3005d.C.dialog-act.vkaraisk.439	The project uh because of the deadlines you didn't had the time to uh have , you didn't have time to uh to make a very uh qualitati qualitative uh presentation . 	
+TS3005d.B.dialog-act.vkaraisk.619	Yeah . 	
+TS3005d.C.dialog-act.vkaraisk.440	So you used uh this uh the different PowerPoint presentations 	
+TS3005d.C.dialog-act.vkaraisk.441	uh in which you put your uh material in the 	
+TS3005d.C.dialog-act.vkaraisk.442	Oh . 	
+TS3005d.B.dialog-act.vkaraisk.620		
+TS3005d.A.dialog-act.vkaraisk.406	That wasn't me . 	
+TS3005d.C.dialog-act.vkaraisk.443	Wasn't me . 	
+TS3005d.B.dialog-act.vkaraisk.621	Yeah . 	
+TS3005d.A.dialog-act.vkaraisk.407	Uh so um 	
+TS3005d.A.dialog-act.vkaraisk.408	the means , we discussed the smart board , 	
+TS3005d.A.dialog-act.vkaraisk.409	and what about uh this digital pen ? 	
+TS3005d.B.dialog-act.vkaraisk.622	I 	
+TS3005d.D.dialog-act.vkaraisk.432	I didn't use it at all . 	
+TS3005d.B.dialog-act.vkaraisk.623	I I used it , 	
+TS3005d.B.dialog-act.vkaraisk.624	it it was 	
+TS3005d.B.dialog-act.vkaraisk.625	you can use it , 	
+TS3005d.B.dialog-act.vkaraisk.626	it's quite handy I think . 	
+TS3005d.A.dialog-act.vkaraisk.410	Yeah , well 	
+TS3005d.C.dialog-act.vkaraisk.444	But I didn't I uh 	
+TS3005d.A.dialog-act.vkaraisk.411	I use it as a a normal pen 	
+TS3005d.A.dialog-act.vkaraisk.412	and and and only you use it to uh get it on the computer , 	
+TS3005d.B.dialog-act.vkaraisk.627	Yeah , 	
+TS3005d.B.dialog-act.vkaraisk.628	I used it to y to 	
+TS3005d.A.dialog-act.vkaraisk.413	huh ? 	
+TS3005d.B.dialog-act.vkaraisk.629	Yeah , 	
+TS3005d.B.dialog-act.vkaraisk.630	it did work pretty well . 	
+TS3005d.C.dialog-act.vkaraisk.445	I used it too , 	
+TS3005d.C.dialog-act.vkaraisk.446	but 	
+TS3005d.C.dialog-act.vkaraisk.447	oh well . 	
+TS3005d.D.dialog-act.vkaraisk.433	I didn't use . 	
+TS3005d.C.dialog-act.vkaraisk.448	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.631	I don't think why you would want to use it actually , 	
+TS3005d.C.dialog-act.vkaraisk.449	Yeah , 	
+TS3005d.D.dialog-act.vkaraisk.434	No 	
+TS3005d.C.dialog-act.vkaraisk.450	because it shou 	
+TS3005d.D.dialog-act.vkaraisk.435	yeah . 	
+TS3005d.B.dialog-act.vkaraisk.632	but it it does work . 	
+TS3005d.C.dialog-act.vkaraisk.452	To make some designs , 	
+TS3005d.A.dialog-act.vkaraisk.414	Yeah . 	
+TS3005d.D.dialog-act.vkaraisk.436	It is it is 	
+TS3005d.C.dialog-act.vkaraisk.451	it is very easy . 	
+TS3005d.D.dialog-act.vkaraisk.437	yeah , 	
+TS3005d.D.dialog-act.vkaraisk.438	it is easy for to design something and then load it in your computer . 	
+TS3005d.C.dialog-act.vkaraisk.453	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.633	Yeah , 	
+TS3005d.B.dialog-act.vkaraisk.634	and then you can show it to everybody . 	
+TS3005d.D.dialog-act.vkaraisk.439	Yeah . 	
+TS3005d.C.dialog-act.vkaraisk.454	But to write it th yeah . 	
+TS3005d.D.dialog-act.vkaraisk.440	Yeah . 	
+TS3005d.D.dialog-act.vkaraisk.441	It's b bi little bit too big to write . 	
+TS3005d.B.dialog-act.vkaraisk.635	It doesn't really write normally . 	
+TS3005d.B.dialog-act.vkaraisk.636	It's a bit 	
+TS3005d.C.dialog-act.vkaraisk.455	Yeah , it's too big , it's too fat . 	
+TS3005d.D.dialog-act.vkaraisk.442	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.637	Yeah . 	
+TS3005d.A.dialog-act.vkaraisk.415	Yeah . 	
+TS3005d.D.dialog-act.vkaraisk.443	Fat document , those . 	
+TS3005d.C.dialog-act.vkaraisk.456		
+TS3005d.A.dialog-act.vkaraisk.416	Okay , um 	
+TS3005d.A.dialog-act.vkaraisk.417	and what about the teamwork ? 	
+TS3005d.D.dialog-act.vkaraisk.444	Team work was okay . 	
+TS3005d.B.dialog-act.vkaraisk.638	I think it was great , 	
+TS3005d.C.dialog-act.vkaraisk.457	Yeah . 	
+TS3005d.A.dialog-act.vkaraisk.418	Yeah , well I think so too . 	
+TS3005d.B.dialog-act.vkaraisk.639	yeah . 	
+TS3005d.D.dialog-act.vkaraisk.445	Only thing that we worked through , past each other . 	
+TS3005d.A.dialog-act.vkaraisk.419	we 	
+TS3005d.C.dialog-act.vkaraisk.458	Right . 	
+TS3005d.A.dialog-act.vkaraisk.420	Yeah , 	
+TS3005d.D.dialog-act.vkaraisk.446	With some things that was only problem , 	
+TS3005d.A.dialog-act.vkaraisk.421	but that was it was our assignment , 	
+TS3005d.B.dialog-act.vkaraisk.640	Yeah , 	
+TS3005d.D.dialog-act.vkaraisk.447	but 	
+TS3005d.B.dialog-act.vkaraisk.641	but it was because we didn't uh 	
+TS3005d.A.dialog-act.vkaraisk.422	huh ? 	
+TS3005d.B.dialog-act.vkaraisk.642	Yeah . 	
+TS3005d.D.dialog-act.vkaraisk.448	Yeah yeah yeah , 	
+TS3005d.D.dialog-act.vkaraisk.449	but furthermore better . 	
+TS3005d.A.dialog-act.vkaraisk.423	Okay , 	
+TS3005d.A.dialog-act.vkaraisk.424	and maybe I should walk out of the room when you discuss uh this point , 	
+TS3005d.A.dialog-act.vkaraisk.425	the leadership . 	
+TS3005d.B.dialog-act.vkaraisk.643		
+TS3005d.D.dialog-act.vkaraisk.450	That's 	
+TS3005d.B.dialog-act.vkaraisk.644	I thought it was good , 	
+TS3005d.B.dialog-act.vkaraisk.646	but uh Yeah . 	
+TS3005d.C.dialog-act.vkaraisk.459	Yeah . 	
+TS3005d.D.dialog-act.vkaraisk.451	yeah , no prob . Ah . 	
+TS3005d.A.dialog-act.vkaraisk.426	Yeah 	
+TS3005d.A.dialog-act.vkaraisk.427	well , 	
+TS3005d.B.dialog-act.vkaraisk.645	Yeah . 	
+TS3005d.A.dialog-act.vkaraisk.428	okay . 	
+TS3005d.C.dialog-act.vkaraisk.460	Not too much , not too too too too . 	
+TS3005d.D.dialog-act.vkaraisk.452	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.647	Yeah . 	
+TS3005d.D.dialog-act.vkaraisk.453	Okay . 	
+TS3005d.A.dialog-act.vkaraisk.429	And creativity ? 	
+TS3005d.A.dialog-act.vkaraisk.430	Well , 	
+TS3005d.A.dialog-act.vkaraisk.431	when we look at this I'd say we have been creative , 	
+TS3005d.B.dialog-act.vkaraisk.648		
+TS3005d.C.dialog-act.vkaraisk.461		
+TS3005d.A.dialog-act.vkaraisk.432	huh ? 	
+TS3005d.A.dialog-act.vkaraisk.433	But 	
+TS3005d.B.dialog-act.vkaraisk.649	Well . 	
+TS3005d.C.dialog-act.vkaraisk.462	Yeah , 	
+TS3005d.C.dialog-act.vkaraisk.463	or the room for 	
+TS3005d.C.dialog-act.vkaraisk.464	it was the idea to be creative , 	
+TS3005d.A.dialog-act.vkaraisk.434	There was room for 	
+TS3005d.C.dialog-act.vkaraisk.465	so 	
+TS3005d.B.dialog-act.vkaraisk.650	Yeah . 	
+TS3005d.C.dialog-act.vkaraisk.466	You got some standard ideas in your head 	
+TS3005d.D.dialog-act.vkaraisk.454	Mm-hmm . 	
+TS3005d.C.dialog-act.vkaraisk.467	and this what came out . 	
+TS3005d.B.dialog-act.vkaraisk.651	And you get get stuff from the from the computer , 	
+TS3005d.C.dialog-act.vkaraisk.468	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.652	but 	
+TS3005d.C.dialog-act.vkaraisk.469	The information uh was sometimes uh a little bit too late 	
+TS3005d.D.dialog-act.vkaraisk.455	Little bit uh lo yeah . Too late 	
+TS3005d.C.dialog-act.vkaraisk.470	or 	
+TS3005d.B.dialog-act.vkaraisk.653	Yeah . 	
+TS3005d.D.dialog-act.vkaraisk.456	it it it took a lot of time before you got your ema 	
+TS3005d.B.dialog-act.vkaraisk.654	You just sit there for ten minutes . 	
+TS3005d.C.dialog-act.vkaraisk.471	Yeah . 	
+TS3005d.D.dialog-act.vkaraisk.457	yeah . 	
+TS3005d.B.dialog-act.vkaraisk.655	Yeah , 	
+TS3005d.B.dialog-act.vkaraisk.656	where is that email ? 	
+TS3005d.D.dialog-act.vkaraisk.458	I played I think seven times Solitaire something . 	
+TS3005d.B.dialog-act.vkaraisk.657		
+TS3005d.C.dialog-act.vkaraisk.472		
+TS3005d.B.dialog-act.vkaraisk.658	Oh 	
+TS3005d.A.dialog-act.vkaraisk.435	You did ? 	
+TS3005d.A.dialog-act.vkaraisk.436	Well , 	
+TS3005d.A.dialog-act.vkaraisk.437	I didn't have time for that . 	
+TS3005d.B.dialog-act.vkaraisk.659	did you ? 	
+TS3005d.B.dialog-act.vkaraisk.660	Is it on there ? 	
+TS3005d.D.dialog-act.vkaraisk.459	Wha 	
+TS3005d.B.dialog-act.vkaraisk.661	Is it on there ? 	
+TS3005d.B.dialog-act.vkaraisk.662	I didn't find the didn't look but uh 	
+TS3005d.A.dialog-act.vkaraisk.438	At some times I Sometimes I received like like five emails at at one moment , 	
+TS3005d.D.dialog-act.vkaraisk.460	Oh right , 	
+TS3005d.C.dialog-act.vkaraisk.473	Was searching and searching . 	
+TS3005d.D.dialog-act.vkaraisk.461	it is there . 	
+TS3005d.B.dialog-act.vkaraisk.663	I didn't look , 	
+TS3005d.B.dialog-act.vkaraisk.664	but 	
+TS3005d.D.dialog-act.vkaraisk.462	No , I I never got that . 	
+TS3005d.A.dialog-act.vkaraisk.439	and then 	
+TS3005d.C.dialog-act.vkaraisk.474		
+TS3005d.B.dialog-act.vkaraisk.665	I got like one email after ten minutes or something . 	
+TS3005d.D.dialog-act.vkaraisk.463	I always 	
+TS3005d.A.dialog-act.vkaraisk.440		
+TS3005d.D.dialog-act.vkaraisk.464	N 	
+TS3005d.D.dialog-act.vkaraisk.465	yeah . 	
+TS3005d.A.dialog-act.vkaraisk.441	I even got spam . Or something like that . 	
+TS3005d.B.dialog-act.vkaraisk.666		
+TS3005d.C.dialog-act.vkaraisk.475		
+TS3005d.D.dialog-act.vkaraisk.466		
+TS3005d.B.dialog-act.vkaraisk.667	That's what we said . 	
+TS3005d.D.dialog-act.vkaraisk.467	So does this 	
+TS3005d.D.dialog-act.vkaraisk.468	I think lik oh and information was a bit low I think , sometimes , 	
+TS3005d.B.dialog-act.vkaraisk.668	And it not a lot uh 	
+TS3005d.D.dialog-act.vkaraisk.469	in in in in the beginning I didn't understand what what to do . 	
+TS3005d.B.dialog-act.vkaraisk.669	No , the first one . 	
+TS3005d.C.dialog-act.vkaraisk.476	No , 	
+TS3005d.C.dialog-act.vkaraisk.477	w I didn't know 	
+TS3005d.D.dialog-act.vkaraisk.470	Yeah , 	
+TS3005d.B.dialog-act.vkaraisk.670	I didn't know uh 	
+TS3005d.D.dialog-act.vkaraisk.471	like I with with the remote 	
+TS3005d.D.dialog-act.vkaraisk.472	and I never new we have t we had to uh yeah made a made a rec a remote control . 	
+TS3005d.C.dialog-act.vkaraisk.478	Make a r 	
+TS3005d.C.dialog-act.vkaraisk.479	yeah . 	
+TS3005d.B.dialog-act.vkaraisk.671	nee . 	
+TS3005d.B.dialog-act.vkaraisk.672	And I didn't know what to do for the first ten minutes before we got here , 	
+TS3005d.D.dialog-act.vkaraisk.473	Yeah , so 	
+TS3005d.C.dialog-act.vkaraisk.480	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.673	so I went , right . 	
+TS3005d.C.dialog-act.vkaraisk.481	No stepping on the table 	
+TS3005d.C.dialog-act.vkaraisk.482	and then looking at the internet page . 	
+TS3005d.B.dialog-act.vkaraisk.674	Yeah . 	
+TS3005d.A.dialog-act.vkaraisk.442	And I was working and working and work 	
+TS3005d.B.dialog-act.vkaraisk.675	Just looking at the screen 	
+TS3005d.B.dialog-act.vkaraisk.676	and uh 	
+TS3005d.C.dialog-act.vkaraisk.484	No . 	
+TS3005d.A.dialog-act.vkaraisk.443	Okay , well um 	
+TS3005d.D.dialog-act.vkaraisk.474	So , 	
+TS3005d.D.dialog-act.vkaraisk.475	yeah . 	
+TS3005d.A.dialog-act.vkaraisk.444	but after all we can say uh we are satisfied , 	
+TS3005d.A.dialog-act.vkaraisk.445	but it it could've been uh better . 	
+TS3005d.D.dialog-act.vkaraisk.476	Yeah . 	
+TS3005d.A.dialog-act.vkaraisk.446	When we get uh when we have 	
+TS3005d.A.dialog-act.vkaraisk.447	we would have gotten uh more information . 	
+TS3005d.D.dialog-act.vkaraisk.477	Mm-hmm . 	
+TS3005d.B.dialog-act.vkaraisk.677	Yeah , 	
+TS3005d.C.dialog-act.vkaraisk.485	Yeah , 	
+TS3005d.C.dialog-act.vkaraisk.486	more information about the costs . 	
+TS3005d.D.dialog-act.vkaraisk.478	Faster . 	
+TS3005d.B.dialog-act.vkaraisk.678	an 	
+TS3005d.D.dialog-act.vkaraisk.479	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.679	Yeah , that will be handy . 	
+TS3005d.C.dialog-act.vkaraisk.487	First of all I didn't think uh that we were able to make an L_C_D_ screen uh first point , 	
+TS3005d.C.dialog-act.vkaraisk.488	but uh it was possible 	
+TS3005d.B.dialog-act.vkaraisk.680	Yeah . 	
+TS3005d.C.dialog-act.vkaraisk.489	uh uh , yeah . 	
+TS3005d.D.dialog-act.vkaraisk.480	Yeah , 	
+TS3005d.D.dialog-act.vkaraisk.481	it only costs four units . Uh yeah . 	
+TS3005d.B.dialog-act.vkaraisk.681	Yea uh so 	
+TS3005d.A.dialog-act.vkaraisk.448	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.682	tha 	
+TS3005d.B.dialog-act.vkaraisk.683	actually you could make an L_C_D_ screen but no mic , or it could make mic but no L_C_D_ screen , when you look at that . 	
+TS3005d.A.dialog-act.vkaraisk.449	Yeah , 	
+TS3005d.A.dialog-act.vkaraisk.450	that was a bit mean to put it in the end . 	
+TS3005d.C.dialog-act.vkaraisk.490	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.684	Yeah . 	
+TS3005d.A.dialog-act.vkaraisk.451	And uh what were the other points to to improve this whole process ? 	
+TS3005d.D.dialog-act.vkaraisk.482		
+TS3005d.B.dialog-act.vkaraisk.685	Uh , I dunno . 	
+TS3005d.D.dialog-act.vkaraisk.483	Um Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.686	Think that's about it . 	
+TS3005d.D.dialog-act.vkaraisk.484	Nothing . 	
+TS3005d.B.dialog-act.vkaraisk.687	Hmm . 	
+TS3005d.D.dialog-act.vkaraisk.485	I think we got it already . 	
+TS3005d.B.dialog-act.vkaraisk.688	Heavier 	
+TS3005d.B.dialog-act.vkaraisk.689	um less heavy laptops . 	
+TS3005d.A.dialog-act.vkaraisk.452	Yeah , 	
+TS3005d.D.dialog-act.vkaraisk.486	Yeah . 	
+TS3005d.C.dialog-act.vkaraisk.491	Uh . Faster laptop . 	
+TS3005d.A.dialog-act.vkaraisk.453	they're pretty heavy . 	
+TS3005d.B.dialog-act.vkaraisk.690	Yeah . 	
+TS3005d.C.dialog-act.vkaraisk.492	Uh . They were they were just fine . 	
+TS3005d.B.dialog-act.vkaraisk.691	But that's not really uh 	
+TS3005d.D.dialog-act.vkaraisk.487	And furthermore the the the network was okay . 	
+TS3005d.B.dialog-act.vkaraisk.692	Yeah . 	
+TS3005d.D.dialog-act.vkaraisk.488	Everything you loaded was also 	
+TS3005d.C.dialog-act.vkaraisk.493	Uh . 	
+TS3005d.B.dialog-act.vkaraisk.693	Yeah , 	
+TS3005d.B.dialog-act.vkaraisk.694	everything worked . 	
+TS3005d.D.dialog-act.vkaraisk.489	av available there . 	
+TS3005d.C.dialog-act.vkaraisk.494	Right . 	
+TS3005d.A.dialog-act.vkaraisk.456	And so more time uh w might have improved the the quality of work , 	
+TS3005d.D.dialog-act.vkaraisk.490	So 	
+TS3005d.C.dialog-act.vkaraisk.495	Yeah . 	
+TS3005d.A.dialog-act.vkaraisk.454	is what you say . 	
+TS3005d.D.dialog-act.vkaraisk.491	Yeah . Yeah , but that 	
+TS3005d.A.dialog-act.vkaraisk.455	Okay . 	
+TS3005d.D.dialog-act.vkaraisk.493	It's now half past four half past three , 	
+TS3005d.D.dialog-act.vkaraisk.494	so 	
+TS3005d.B.dialog-act.vkaraisk.695	Yeah , 	
+TS3005d.B.dialog-act.vkaraisk.696	but it's just the the off hours between that you will work alone . 	
+TS3005d.D.dialog-act.vkaraisk.495	Yeah , okay . Yeah , okay . 	
+TS3005d.B.dialog-act.vkaraisk.697	Then it pops up pop up screen came . 	
+TS3005d.D.dialog-act.vkaraisk.496	Mm-hm . Mm . 	
+TS3005d.B.dialog-act.vkaraisk.698	Five minutes in the meeting . 	
+TS3005d.D.dialog-act.vkaraisk.497	Yeah . 	
+TS3005d.C.dialog-act.vkaraisk.496	Mm . 	
+TS3005d.B.dialog-act.vkaraisk.699	No . 	
+TS3005d.A.dialog-act.vkaraisk.457	Okay , so 	
+TS3005d.A.dialog-act.vkaraisk.458	more time during the individual work phases . 	
+TS3005d.B.dialog-act.vkaraisk.700	Huh . 	
+TS3005d.A.dialog-act.vkaraisk.459	Um okay well uh 	
+TS3005d.A.dialog-act.vkaraisk.460	I just got my warning for the last five minutes , 	
+TS3005d.B.dialog-act.vkaraisk.701	You did ? 	
+TS3005d.A.dialog-act.vkaraisk.461	so I'll move on to I guess my last slide , 	
+TS3005d.B.dialog-act.vkaraisk.702	Well 	
+TS3005d.D.dialog-act.vkaraisk.498		
+TS3005d.A.dialog-act.vkaraisk.462	yes , 	
+TS3005d.A.dialog-act.vkaraisk.463	which is the closing . 	
+TS3005d.A.dialog-act.vkaraisk.464	Well uh , 	
+TS3005d.A.dialog-act.vkaraisk.465	we managed , 	
+TS3005d.A.dialog-act.vkaraisk.466	but we did it very quickly . 	
+TS3005d.A.dialog-act.vkaraisk.467	I don't know if that's the best way to when it isn't is it when it is too expensive to quickly re-arrange it and say , okay , this is it , 	
+TS3005d.B.dialog-act.vkaraisk.703	Oh , right . 	
+TS3005d.A.dialog-act.vkaraisk.468	but we had to do it , 	
+TS3005d.B.dialog-act.vkaraisk.704	Well 	
+TS3005d.A.dialog-act.vkaraisk.469	huh , 	
+TS3005d.A.dialog-act.vkaraisk.470	because we have to have a design , 	
+TS3005d.A.dialog-act.vkaraisk.471	and that is within the budget . 	
+TS3005d.A.dialog-act.vkaraisk.472	And we evaluated . 	
+TS3005d.A.dialog-act.vkaraisk.473	Maybe we should re-evaluate uh the product , 	
+TS3005d.A.dialog-act.vkaraisk.474	but we did that before , 	
+TS3005d.A.dialog-act.vkaraisk.475	and we also evaluated the project . 	
+TS3005d.A.dialog-act.vkaraisk.476	And I think uh everybody's uh very happy . At least I am , with the results , 	
+TS3005d.B.dialog-act.vkaraisk.705		
+TS3005d.A.dialog-act.vkaraisk.477	so uh 	
+TS3005d.D.dialog-act.vkaraisk.499	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.706	Yeah . 	
+TS3005d.A.dialog-act.vkaraisk.478	celebration , well , for the three of you , 	
+TS3005d.B.dialog-act.vkaraisk.707	Champagne . 	
+TS3005d.A.dialog-act.vkaraisk.479	because uh I have to write the final report now . 	
+TS3005d.D.dialog-act.vkaraisk.500		
+TS3005d.B.dialog-act.vkaraisk.708	Yeah . 	
+TS3005d.A.dialog-act.vkaraisk.480	But uh well , 	
+TS3005d.A.dialog-act.vkaraisk.481	thank you very much for your co-operation , 	
+TS3005d.D.dialog-act.vkaraisk.501		
+TS3005d.A.dialog-act.vkaraisk.482	and I had a very nice day so far . 	
+TS3005d.C.dialog-act.vkaraisk.497	Yeah , sure . 	
+TS3005d.D.dialog-act.vkaraisk.502	No prob . 	
+TS3005d.C.dialog-act.vkaraisk.498	Oh thank you . 	
+TS3005d.D.dialog-act.vkaraisk.503	Mm-hmm . 	
+TS3005d.A.dialog-act.vkaraisk.483	Okay . 	
+TS3005d.B.dialog-act.vkaraisk.709	Do we get another email ? 	
+TS3005d.C.dialog-act.vkaraisk.499	Bling . You're fired . 	
+TS3005d.A.dialog-act.vkaraisk.484	Um 	
+TS3005d.D.dialog-act.vkaraisk.504	I think you do . 	
+TS3005d.B.dialog-act.vkaraisk.710	I I think we have to fill in a questionnaire again , 	
+TS3005d.B.dialog-act.vkaraisk.711	but 	
+TS3005d.A.dialog-act.vkaraisk.485	Yeah 	
+TS3005d.A.dialog-act.vkaraisk.486	I have t 	
+TS3005d.A.dialog-act.vkaraisk.487	I think we also have to go to our own rooms again , 	
+TS3005d.A.dialog-act.vkaraisk.488	but um well 	
+TS3005d.B.dialog-act.vkaraisk.712	We do ? 	
+TS3005d.C.dialog-act.vkaraisk.500	Mm . 	
+TS3005d.A.dialog-act.vkaraisk.489	I at least . 	
+TS3005d.A.dialog-act.vkaraisk.490	But maybe you can try uh to make a screen shot of this , 	
+TS3005d.A.dialog-act.vkaraisk.491	so I can try to include it in the final report . 	
+TS3005d.B.dialog-act.vkaraisk.713	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.714	Uh th that that one ? 	
+TS3005d.C.dialog-act.vkaraisk.501	You cannot 	
+TS3005d.C.dialog-act.vkaraisk.502	you can save it . 	
+TS3005d.A.dialog-act.vkaraisk.492	Yeah , maybe . 	
+TS3005d.B.dialog-act.vkaraisk.715	You can just 	
+TS3005d.A.dialog-act.vkaraisk.493	wants to , but at least this one . 	
+TS3005d.B.dialog-act.vkaraisk.716	Yeah , 	
+TS3005d.B.dialog-act.vkaraisk.717	but it's it isn't a picture 	
+TS3005d.B.dialog-act.vkaraisk.718	or , well , is it ? 	
+TS3005d.A.dialog-act.vkaraisk.494	I know , we should remove this , 	
+TS3005d.C.dialog-act.vkaraisk.503	You s 	
+TS3005d.C.dialog-act.vkaraisk.504	uh file save as the J_ PEG J_ PEG . 	
+TS3005d.A.dialog-act.vkaraisk.495	but it won't h 	
+TS3005d.A.dialog-act.vkaraisk.496	Okay . 	
+TS3005d.A.dialog-act.vkaraisk.497	And uh please put it in the project folder then , huh . 	
+TS3005d.D.dialog-act.vkaraisk.505	Can you find it as a J_ PEG ? 	
+TS3005d.C.dialog-act.vkaraisk.505	No . 	
+TS3005d.B.dialog-act.vkaraisk.719	No , 	
+TS3005d.B.dialog-act.vkaraisk.720	isn't possible . 	
+TS3005d.B.dialog-act.vkaraisk.721	But you can make a screen shot , I think . 	
+TS3005d.B.dialog-act.vkaraisk.722		
+TS3005d.A.dialog-act.vkaraisk.498	Okay , well I uh 	
+TS3005d.D.dialog-act.vkaraisk.506	No . 	
+TS3005d.B.dialog-act.vkaraisk.723		
+TS3005d.C.dialog-act.vkaraisk.506	No . 	
+TS3005d.A.dialog-act.vkaraisk.499	I hereby officially close the meeting 	
+TS3005d.B.dialog-act.vkaraisk.724	Yeah . 	
+TS3005d.C.dialog-act.vkaraisk.507	Okay . 	
+TS3005d.A.dialog-act.vkaraisk.500	and uh I hope to see you uh soon . 	
+TS3005d.D.dialog-act.vkaraisk.507		
+TS3005d.D.dialog-act.vkaraisk.508	In uh 	
+TS3005d.C.dialog-act.vkaraisk.509	In about five minutes . 	
+TS3005d.B.dialog-act.vkaraisk.725	Uh oh , 	
+TS3005d.A.dialog-act.vkaraisk.501	Well , 	
+TS3005d.B.dialog-act.vkaraisk.726	export . 	
+TS3005d.A.dialog-act.vkaraisk.502	I think we'll be a bit a bit longer , 	
+TS3005d.C.dialog-act.vkaraisk.510	Ah . 	
+TS3005d.A.dialog-act.vkaraisk.504	but 	
+TS3005d.A.dialog-act.vkaraisk.505	okay . Well , 	
+TS3005d.B.dialog-act.vkaraisk.727		
+TS3005d.A.dialog-act.vkaraisk.506	happy celebration , huh ? 	
+TS3005d.C.dialog-act.vkaraisk.511	Oh thank you . 	
+TS3005d.B.dialog-act.vkaraisk.728	Images . 	
+TS3005d.C.dialog-act.vkaraisk.512	Whoo-hoo . 	
+TS3005d.D.dialog-act.vkaraisk.509	Celebra 	
+TS3005d.C.dialog-act.vkaraisk.513	Let's let's have party . 	
+TS3005d.D.dialog-act.vkaraisk.510	Or shouldn't I ? 	
+TS3005d.B.dialog-act.vkaraisk.729	How big do you want the images ? 	
+TS3005d.C.dialog-act.vkaraisk.514	Let's have some fun . 	
+TS3005d.A.dialog-act.vkaraisk.507	How big ? Uh 	
+TS3005d.C.dialog-act.vkaraisk.516	Huh ? 	
+TS3005d.B.dialog-act.vkaraisk.730	Yeah . 	
+TS3005d.C.dialog-act.vkaraisk.515		
+TS3005d.A.dialog-act.vkaraisk.508	not too big . 	
+TS3005d.B.dialog-act.vkaraisk.731	This one ? 	
+TS3005d.D.dialog-act.vkaraisk.511	Six hundred . No , 	
+TS3005d.A.dialog-act.vkaraisk.509	Whatever you think is good . 	
+TS3005d.D.dialog-act.vkaraisk.512	I yeah . 	
+TS3005d.C.dialog-act.vkaraisk.517	No 	
+TS3005d.C.dialog-act.vkaraisk.518	that uh is one thousand twenty four . 	
+TS3005d.D.dialog-act.vkaraisk.513	I think eight hundred six hundred is better . 	
+TS3005d.A.dialog-act.vkaraisk.510		
+TS3005d.B.dialog-act.vkaraisk.732	This one ? 	
+TS3005d.D.dialog-act.vkaraisk.514	Yeah . 	
+TS3005d.C.dialog-act.vkaraisk.519	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.733		
+TS3005d.C.dialog-act.vkaraisk.520	If it browse . 	
+TS3005d.D.dialog-act.vkaraisk.515	Nah , name . 	
+TS3005d.B.dialog-act.vkaraisk.734	Um 	
+TS3005d.C.dialog-act.vkaraisk.521	Desktop . 	
+TS3005d.D.dialog-act.vkaraisk.516		
+TS3005d.B.dialog-act.vkaraisk.735	Well 	
+TS3005d.B.dialog-act.vkaraisk.736	it isn't on the desktop . 	
+TS3005d.D.dialog-act.vkaraisk.517	Hey . 	
+TS3005d.C.dialog-act.vkaraisk.522	Mm ? 	
+TS3005d.D.dialog-act.vkaraisk.518		
+TS3005d.C.dialog-act.vkaraisk.523	I do not know . 	
+TS3005d.B.dialog-act.vkaraisk.737	You can only save it in my documents . 	
+TS3005d.D.dialog-act.vkaraisk.519		
+TS3005d.C.dialog-act.vkaraisk.524	Oh ? 	
+TS3005d.A.dialog-act.vkaraisk.511		
+TS3005d.D.dialog-act.vkaraisk.520	Oh my God . 	
+TS3005d.C.dialog-act.vkaraisk.525	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.738	Oh . 	
+TS3005d.A.dialog-act.vkaraisk.512		
+TS3005d.B.dialog-act.vkaraisk.739	Oh , alright . 	
+TS3005d.B.dialog-act.vkaraisk.740	Yeah . 	
+TS3005d.C.dialog-act.vkaraisk.526	Okay . 	
+TS3005d.B.dialog-act.vkaraisk.741	Yeah . 	
+TS3005d.C.dialog-act.vkaraisk.527		
+TS3005d.A.dialog-act.vkaraisk.513		
+TS3005d.B.dialog-act.vkaraisk.742	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.743	Three . 	
+TS3005d.D.dialog-act.vkaraisk.521	Ten . 	
+TS3005d.B.dialog-act.vkaraisk.744	Can we stay here ? 	
+TS3005d.C.dialog-act.vkaraisk.528		
+TS3005d.D.dialog-act.vkaraisk.522	Yeah . 	
+TS3005d.B.dialog-act.vkaraisk.745		
+TS3005d.D.dialog-act.vkaraisk.523	Ten . 	
+TS3005d.B.dialog-act.vkaraisk.746	Yeah . 	
+TS3005d.D.dialog-act.vkaraisk.524	Uh . 	
+TS3005d.C.dialog-act.vkaraisk.529	Okay . 	
+TS3005d.B.dialog-act.vkaraisk.747	Yeah , alright . 	
+TS3005d.B.dialog-act.vkaraisk.748	Why can't we stay here ? 	
+TS3005d.D.dialog-act.vkaraisk.525		
+TS3005d.C.dialog-act.vkaraisk.530	Alright . 	
+TS3005d.B.dialog-act.vkaraisk.749	Yeah . 	
+TS3005d.D.dialog-act.vkaraisk.526	Celebration time , come on . 	
+TS3005d.C.dialog-act.vkaraisk.531	Oh . 	
+TS3005d.B.dialog-act.vkaraisk.750		
+TS3005d.C.dialog-act.vkaraisk.532		
+TS3005d.C.dialog-act.vkaraisk.533	Oh . 	
+TS3005d.D.dialog-act.vkaraisk.527	Peace out nigger . 	
+TS3005d.B.dialog-act.vkaraisk.751		
+TS3005d.D.dialog-act.vkaraisk.528	Entree 	
+TS3005d.B.dialog-act.vkaraisk.752		
+TS3005d.D.dialog-act.vkaraisk.529		
+

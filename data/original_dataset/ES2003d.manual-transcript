@@ -1,0 +1,964 @@
+Observation: ES2003d; Result size: 961; atts: 2
+$d@nite:id	$d	
+ES2003d.B.dialog-act.vkaraisk.1	That should hopefully do the trick , um . 	
+ES2003d.B.dialog-act.vkaraisk.2	'Kay . 	
+ES2003d.B.dialog-act.vkaraisk.3	Sorry about the small delay . 	
+ES2003d.B.dialog-act.vkaraisk.4	Falling a little bit behind schedule . 	
+ES2003d.B.dialog-act.vkaraisk.5	And that's uh fifteen twenty five . 	
+ES2003d.B.dialog-act.vkaraisk.6	Okay . So 	
+ES2003d.B.dialog-act.vkaraisk.7	just to try and roughly go over what we agreed in the last one , um 	
+ES2003d.B.dialog-act.vkaraisk.9	we're gonna go for something uh uh how was it ? 	
+ES2003d.B.dialog-act.vkaraisk.10	Uh The new black , I believe . 	
+ES2003d.C.dialog-act.vkaraisk.1	. 	
+ES2003d.B.dialog-act.vkaraisk.11	Um something that looks good 	
+ES2003d.B.dialog-act.vkaraisk.12	'cause that seems to be in preference to actual functionality in the end , 	
+ES2003d.B.dialog-act.vkaraisk.13	though we should never avoid functionality , of course . 	
+ES2003d.B.dialog-act.vkaraisk.14	Uh many of our components are gonna be standard , off the shelf , 	
+ES2003d.B.dialog-act.vkaraisk.15	but it seemed like we were gonna require at least an advanced chip 	
+ES2003d.B.dialog-act.vkaraisk.16	and we were still very much for the idea of using an L_C_D_ display . 	
+ES2003d.B.dialog-act.vkaraisk.17	Um other things were we were hoping to use rubber , 	
+ES2003d.B.dialog-act.vkaraisk.18	most likely gonna be double curved , etcetera . 	
+ES2003d.B.dialog-act.vkaraisk.19	Okay . So um 	
+ES2003d.B.dialog-act.vkaraisk.20	due to your hard work , we might as well let the uh two designers go first , 	
+ES2003d.B.dialog-act.vkaraisk.21	and uh show us the prototype . 	
+ES2003d.A.dialog-act.vkaraisk.1	Okay , 	
+ES2003d.A.dialog-act.vkaraisk.2	it's a 	
+ES2003d.B.dialog-act.vkaraisk.22	Quite how the best way to do this is , I'm not sure , 	
+ES2003d.D.dialog-act.vkaraisk.1		
+ES2003d.A.dialog-act.vkaraisk.3	I think if we both step up 	
+ES2003d.B.dialog-act.vkaraisk.23	but 	
+ES2003d.A.dialog-act.vkaraisk.4	and uh outline our ideas . 	
+ES2003d.A.dialog-act.vkaraisk.5	Okay . Now 	
+ES2003d.A.dialog-act.vkaraisk.6	do uh doing the prototype gave us a bit more insight into the ergonomics of the design . 	
+ES2003d.A.dialog-act.vkaraisk.7	Um for one thing , it turned out that the only point at which it needs to be articulated for handedness is um is h i is down here for the uh L_E_D_ . 	
+ES2003d.A.dialog-act.vkaraisk.8	As it turned out , the whole thing transfers from the right to left hand fairly well from the point of view of operating the uh function buttons and joystick , 	
+ES2003d.A.dialog-act.vkaraisk.9	though it might be an idea to be able to a adjust the positions for the base of the joystick just a little bit 	
+ES2003d.A.dialog-act.vkaraisk.10	for uh 	
+ES2003d.B.dialog-act.vkaraisk.24	Okay . 	
+ES2003d.A.dialog-act.vkaraisk.11	ju just a thought . 	
+ES2003d.A.dialog-act.vkaraisk.12	You could simply have a slightly ovoid shaped joystick 	
+ES2003d.A.dialog-act.vkaraisk.13	that could then just be turn uh twisted round , 	
+ES2003d.A.dialog-act.vkaraisk.14	so that the uh sticky uh so that the bit that sticks out a bit more is on one side or the other . 	
+ES2003d.A.dialog-act.vkaraisk.15	But as you as you see with the uh with holding it in the left hand , the L_ uh the L_C_D_ is nowhere useful , 	
+ES2003d.A.dialog-act.vkaraisk.16	so that would need to be articulated uh if we're going to retain ergonomic design . 	
+ES2003d.A.dialog-act.vkaraisk.17	Um now 	
+ES2003d.A.dialog-act.vkaraisk.18	I I got your note about uh keeping the cost down . 	
+ES2003d.B.dialog-act.vkaraisk.25	I'm afraid yeah . 	
+ES2003d.A.dialog-act.vkaraisk.19	Yeah . 	
+ES2003d.B.dialog-act.vkaraisk.26	We'll go into that a bit more , 	
+ES2003d.B.dialog-act.vkaraisk.27	but please go on . 	
+ES2003d.A.dialog-act.vkaraisk.20	this design could be done with um with uh plastic casing . 	
+ES2003d.A.dialog-act.vkaraisk.21	Though I would recommend around the grip part here in the middle , having maybe just a rubber grip over that 	
+ES2003d.A.dialog-act.vkaraisk.22	which would allow for a slightly more sort of bio-morphic form , and a bit more ergonomic as well . 	
+ES2003d.A.dialog-act.vkaraisk.23	As for the um as for the single curve , um well this edge and this edge , like I say it would be nice to have some curvature to it , 	
+ES2003d.A.dialog-act.vkaraisk.24	but it's not absolutely necessary . 	
+ES2003d.A.dialog-act.vkaraisk.25	Really the curve that's most needed is the underside 	
+ES2003d.A.dialog-act.vkaraisk.26	so that the jo so that the joystick rests over the the edge of the hand like this . 	
+ES2003d.A.dialog-act.vkaraisk.27	Um and you have the uh transmitter here and a wee speaker for the uh for the uh for the uh fi uh for the remote control finder . 	
+ES2003d.B.dialog-act.vkaraisk.28		
+ES2003d.A.dialog-act.vkaraisk.28	So . 	
+ES2003d.A.dialog-act.vkaraisk.29	Any further comments ? 	
+ES2003d.D.dialog-act.vkaraisk.2	Um obviously it's gonna be bulkier than how it looks , 	
+ES2003d.D.dialog-act.vkaraisk.3	because it's gonna be flat on one side , 	
+ES2003d.D.dialog-act.vkaraisk.4	so the L_C_D_ will be s sticking down like this , 	
+ES2003d.D.dialog-act.vkaraisk.5	won't it ? 	
+ES2003d.A.dialog-act.vkaraisk.30	Mm-hmm . Yeah . 	
+ES2003d.D.dialog-act.vkaraisk.6	'Cause it you can't get it curved . 	
+ES2003d.D.dialog-act.vkaraisk.7	Uh because of costs . 	
+ES2003d.A.dialog-act.vkaraisk.31	Yeah , I mean 	
+ES2003d.A.dialog-act.vkaraisk.32	the 	
+ES2003d.A.dialog-act.vkaraisk.33	uh Yeah . 	
+ES2003d.D.dialog-act.vkaraisk.8	And it's plastic as well , 	
+ES2003d.D.dialog-act.vkaraisk.9	so it won't be as comfortable on the hand . 	
+ES2003d.B.dialog-act.vkaraisk.29	Mm . 	
+ES2003d.A.dialog-act.vkaraisk.34	Yeah . 	
+ES2003d.A.dialog-act.vkaraisk.35	I mean with the with the rubber design it could i you know it could pretty much mould very much to the to the user's hand . 	
+ES2003d.A.dialog-act.vkaraisk.37	One nice wee feature 	
+ES2003d.A.dialog-act.vkaraisk.36	if we could if we could still do the rubber , I though of was to have the uh rubber extend beyond the end of the uh of the rigid substructure . 	
+ES2003d.A.dialog-act.vkaraisk.38	So it has a wee sort of tail 	
+ES2003d.A.dialog-act.vkaraisk.39	that you just drape over your wrist 	
+ES2003d.A.dialog-act.vkaraisk.40	so it stays in position nicely . 	
+ES2003d.B.dialog-act.vkaraisk.30		
+ES2003d.A.dialog-act.vkaraisk.41	Mm . Lovely . Um . 	
+ES2003d.D.dialog-act.vkaraisk.10	Yeah , . 	
+ES2003d.B.dialog-act.vkaraisk.31	Okay , 	
+ES2003d.B.dialog-act.vkaraisk.32	yeah . Great . Um . 	
+ES2003d.C.dialog-act.vkaraisk.2	Right . 	
+ES2003d.C.dialog-act.vkaraisk.3	Yeah 	
+ES2003d.C.dialog-act.vkaraisk.4	I've got a 	
+ES2003d.C.dialog-act.vkaraisk.5	if you load up my evaluation document . 	
+ES2003d.B.dialog-act.vkaraisk.33	Yeah , okay . 	
+ES2003d.A.dialog-act.vkaraisk.42	Okay . 	
+ES2003d.B.dialog-act.vkaraisk.34	Excellent work . 	
+ES2003d.C.dialog-act.vkaraisk.6	Mm . 	
+ES2003d.B.dialog-act.vkaraisk.35	Um . 	
+ES2003d.C.dialog-act.vkaraisk.7	Uh evaluation . 	
+ES2003d.C.dialog-act.vkaraisk.8	Basic point uh have a list of criteria that we need to rate the prototype by . 	
+ES2003d.C.dialog-act.vkaraisk.9	Um then we will 	
+ES2003d.C.dialog-act.vkaraisk.10	it's a seven s um seven seven step kinda evaluation process . 	
+ES2003d.C.dialog-act.vkaraisk.11	So um 	
+ES2003d.C.dialog-act.vkaraisk.12	not seven steps , 	
+ES2003d.C.dialog-act.vkaraisk.13	seven scale . 	
+ES2003d.C.dialog-act.vkaraisk.14	So 	
+ES2003d.C.dialog-act.vkaraisk.15	after we've finished doing all the ratings for each criteria , 	
+ES2003d.C.dialog-act.vkaraisk.16	we average that 	
+ES2003d.C.dialog-act.vkaraisk.17	and that will give us some type of uh confidence in our prototype . 	
+ES2003d.C.dialog-act.vkaraisk.18	And uh the criteria based on Real Reactions' kinda goals and policies , marketing strategies , and also those I put together from the user requirements phase . 	
+ES2003d.C.dialog-act.vkaraisk.19	'Kay . Um 	
+ES2003d.C.dialog-act.vkaraisk.20	if you flip the 	
+ES2003d.C.dialog-act.vkaraisk.21	So , 	
+ES2003d.C.dialog-act.vkaraisk.22	those are the criteria . 	
+ES2003d.C.dialog-act.vkaraisk.23	And uh perhaps I could have put 'em a bit better , 	
+ES2003d.C.dialog-act.vkaraisk.24	but you notice a few things that we've totally abandoned , 	
+ES2003d.C.dialog-act.vkaraisk.25	which means that uh the product will score very badly on some of those points . 	
+ES2003d.B.dialog-act.vkaraisk.36		
+ES2003d.C.dialog-act.vkaraisk.26	Put it mildly . 	
+ES2003d.C.dialog-act.vkaraisk.27	So 	
+ES2003d.C.dialog-act.vkaraisk.28	we have um true ? 	
+ES2003d.C.dialog-act.vkaraisk.29	One , t Seven , eight , oh . Fourth . 	
+ES2003d.C.dialog-act.vkaraisk.30	Okay , so 	
+ES2003d.C.dialog-act.vkaraisk.31	we have to go through each point . 	
+ES2003d.C.dialog-act.vkaraisk.32	If we imagine it's actually straight , 	
+ES2003d.C.dialog-act.vkaraisk.33	and just give it a a score . 	
+ES2003d.C.dialog-act.vkaraisk.34	So um 	
+ES2003d.C.dialog-act.vkaraisk.35	how well would you say the prototype is 	
+ES2003d.C.dialog-act.vkaraisk.36	uh how well have we realised the dream of being able to stop remotes from from being lost , or to be able to find them once they are lost . 	
+ES2003d.C.dialog-act.vkaraisk.37	I mean , uh is the homing thing still the locator , is that still 	
+ES2003d.A.dialog-act.vkaraisk.43	Yeah , that's still part of the design . 	
+ES2003d.C.dialog-act.vkaraisk.38	Sure . 	
+ES2003d.C.dialog-act.vkaraisk.39	And Adam , we can keep that in ? 	
+ES2003d.B.dialog-act.vkaraisk.37	Yeah , I believe so . 	
+ES2003d.B.dialog-act.vkaraisk.38	So 	
+ES2003d.C.dialog-act.vkaraisk.40	Okay . 	
+ES2003d.B.dialog-act.vkaraisk.39	I mean I don't think anybody could actually stop a remote being lost , 	
+ES2003d.B.dialog-act.vkaraisk.40	'cause that would mean doing something about the human element , 	
+ES2003d.C.dialog-act.vkaraisk.41	Sure . 	
+ES2003d.B.dialog-act.vkaraisk.41	but I'd like to think that we've done something about finding the damn thing once we have . 	
+ES2003d.C.dialog-act.vkaraisk.42	T 	
+ES2003d.A.dialog-act.vkaraisk.44	Mm . 	
+ES2003d.C.dialog-act.vkaraisk.43	Sure . 	
+ES2003d.A.dialog-act.vkaraisk.45	Mm . And making it a bright colour helps 	
+ES2003d.A.dialog-act.vkaraisk.46	with the 	
+ES2003d.A.dialog-act.vkaraisk.47	personally I would have gone for purple . 	
+ES2003d.C.dialog-act.vkaraisk.44	Mm . Bright colour . 	
+ES2003d.B.dialog-act.vkaraisk.42		
+ES2003d.A.dialog-act.vkaraisk.49		
+ES2003d.C.dialog-act.vkaraisk.45	So 	
+ES2003d.C.dialog-act.vkaraisk.46	we still have that noise thing , 	
+ES2003d.C.dialog-act.vkaraisk.47	yeah ? 	
+ES2003d.A.dialog-act.vkaraisk.48	Mm-hmm . 	
+ES2003d.C.dialog-act.vkaraisk.48	Os 	
+ES2003d.C.dialog-act.vkaraisk.49	on a scale of one to seven , how would you guys rate it for finding finding it once it's lost ? 	
+ES2003d.A.dialog-act.vkaraisk.50	I'd say number one . 	
+ES2003d.C.dialog-act.vkaraisk.50	Number one ? 	
+ES2003d.D.dialog-act.vkaraisk.11	One . Yeah . 	
+ES2003d.C.dialog-act.vkaraisk.51	Okay . 	
+ES2003d.C.dialog-act.vkaraisk.52	Number number one for the first criteria . 	
+ES2003d.A.dialog-act.vkaraisk.51	I think w if it was just the sounder then th I mean something I've found with uh w w 	
+ES2003d.A.dialog-act.vkaraisk.52	with say tr trying to find uh a cordless phone or a m mobile , you can hear it , 	
+ES2003d.A.dialog-act.vkaraisk.53	but you can't quite pin it dow pin down where it is . 	
+ES2003d.C.dialog-act.vkaraisk.53	Yeah 	
+ES2003d.C.dialog-act.vkaraisk.54	you can tell what room the mobile is 	
+ES2003d.D.dialog-act.vkaraisk.12	What about what if the the volume on the T_V_'s turned up massively and uh you just wanna turn down the volume can't find remote . 	
+ES2003d.A.dialog-act.vkaraisk.54	Bu 	
+ES2003d.D.dialog-act.vkaraisk.13	Suppose you have to go to the T_V_ and do it manually . Mm . 	
+ES2003d.C.dialog-act.vkaraisk.55	Yeah . 	
+ES2003d.A.dialog-act.vkaraisk.55	Yeah . 	
+ES2003d.B.dialog-act.vkaraisk.43	Mm . Um 	
+ES2003d.C.dialog-act.vkaraisk.56	Yeah . 	
+ES2003d.D.dialog-act.vkaraisk.14	Like y you wouldn't hear the speaker . 	
+ES2003d.C.dialog-act.vkaraisk.57	Mm-hmm . 	
+ES2003d.B.dialog-act.vkaraisk.44	just before we go through all of the steps here , um well what we'll do is 	
+ES2003d.C.dialog-act.vkaraisk.58	You wanna say something ? 	
+ES2003d.B.dialog-act.vkaraisk.45	um if we can look at the criteria you're gonna evaluate , 	
+ES2003d.B.dialog-act.vkaraisk.46	and then we'll come back to the product evaluation 	
+ES2003d.B.dialog-act.vkaraisk.47	if that's alright . 	
+ES2003d.C.dialog-act.vkaraisk.59	That's fine . 	
+ES2003d.B.dialog-act.vkaraisk.48	Yeah , is that 	
+ES2003d.C.dialog-act.vkaraisk.60	Oh that's that's fine . 	
+ES2003d.B.dialog-act.vkaraisk.49	Um so 	
+ES2003d.B.dialog-act.vkaraisk.50	is there anything here that you that you wanted to cover as in the criteria that you've covered ? 	
+ES2003d.B.dialog-act.vkaraisk.51	And then we'll come back pretty much promptly to this . 	
+ES2003d.C.dialog-act.vkaraisk.61	What do you mean cr is there anything I wanna 	
+ES2003d.B.dialog-act.vkaraisk.52	I is there any of these criteria that need any explaining ? 	
+ES2003d.B.dialog-act.vkaraisk.53	Or is there anything that yous thought tha really would stand out compared to the others ? 	
+ES2003d.C.dialog-act.vkaraisk.62	Um , a few . 	
+ES2003d.C.dialog-act.vkaraisk.63	Something I neglected from my initial research 	
+ES2003d.C.dialog-act.vkaraisk.64	is that Real Reactions has a a goal strategy that all of the products be inspired by material fashion , and clothing fashion . 	
+ES2003d.C.dialog-act.vkaraisk.65	That is why fruit and veg being popular in the home and in clothing was important 	
+ES2003d.C.dialog-act.vkaraisk.66	and they want all their products to be somehow inspired by current trends in fashion . 	
+ES2003d.C.dialog-act.vkaraisk.67	So they say we put the fashion in electronics , 	
+ES2003d.C.dialog-act.vkaraisk.68	well 	
+ES2003d.C.dialog-act.vkaraisk.69	they really mean it they they're very big on fashion , 	
+ES2003d.C.dialog-act.vkaraisk.70	so . 	
+ES2003d.B.dialog-act.vkaraisk.54	Okay . 	
+ES2003d.C.dialog-act.vkaraisk.71	That's this bit right here . 	
+ES2003d.C.dialog-act.vkaraisk.72	And uh this bit is this one easy to use for visitors or for anybody ? 	
+ES2003d.C.dialog-act.vkaraisk.73	I guess it's just the same as saying easy to use interface , 	
+ES2003d.C.dialog-act.vkaraisk.74	so it's kinda condensed into one . 	
+ES2003d.C.dialog-act.vkaraisk.75	And we can come back to it , you said . 	
+ES2003d.C.dialog-act.vkaraisk.76	So . 	
+ES2003d.B.dialog-act.vkaraisk.55	Okay . 	
+ES2003d.B.dialog-act.vkaraisk.56	No 	
+ES2003d.B.dialog-act.vkaraisk.57	and which we will do very very shortly . 	
+ES2003d.B.dialog-act.vkaraisk.58	Um . Okay . 	
+ES2003d.B.dialog-act.vkaraisk.59	Slight problem we had 	
+ES2003d.B.dialog-act.vkaraisk.60	was that we have an amazing four Euros over budget for what we were hoping to do . 	
+ES2003d.B.dialog-act.vkaraisk.61	Um most of it stems from the use of the L_C_D_ 	
+ES2003d.B.dialog-act.vkaraisk.62	which I think in the end accounted for about half of our expenditure 	
+ES2003d.B.dialog-act.vkaraisk.63	because of course we required a chip as well . 	
+ES2003d.B.dialog-act.vkaraisk.64	Um the only way to get this down was either to ditch the a L_C_D_ , 	
+ES2003d.B.dialog-act.vkaraisk.65	at which point we've removed a large part of how we were gonna interface , 	
+ES2003d.B.dialog-act.vkaraisk.66	require more buttons , etcetera . 	
+ES2003d.B.dialog-act.vkaraisk.67	Or what we did was that we um we as in I as I was quickly going over it was altering the actual structure . 	
+ES2003d.B.dialog-act.vkaraisk.68	Um changing it to plastic and a solid unit with a single curve design would allow us to come back into the um proposed costs 	
+ES2003d.B.dialog-act.vkaraisk.69	and we're just scraping it in , 	
+ES2003d.B.dialog-act.vkaraisk.70	we've got point two of a Euro left over there . 	
+ES2003d.B.dialog-act.vkaraisk.71	So we're just managing it really . 	
+ES2003d.B.dialog-act.vkaraisk.72	Even then as well , um there was no criteria technically defined for a joystick 	
+ES2003d.B.dialog-act.vkaraisk.73	so I've used what I think's appropriate . 	
+ES2003d.B.dialog-act.vkaraisk.74	With any luck that won't mean that we've incurred more cost than we can actually afford to . 	
+ES2003d.B.dialog-act.vkaraisk.75	It blows a lot of our really good ideas kind of slightly to one side , 	
+ES2003d.B.dialog-act.vkaraisk.76	for example the possibility of having a U_S_B_ connection is definitely not viable now . Um . 	
+ES2003d.C.dialog-act.vkaraisk.77	Different languages ? 	
+ES2003d.B.dialog-act.vkaraisk.77	That should still be viable . 	
+ES2003d.B.dialog-act.vkaraisk.78	We've got an advanced chip , 	
+ES2003d.B.dialog-act.vkaraisk.79	we've got the use of the L_C_D_ . 	
+ES2003d.B.dialog-act.vkaraisk.80	So being able to communicate in multiple languages is still very much a possibility . 	
+ES2003d.C.dialog-act.vkaraisk.78	Yeah . 	
+ES2003d.B.dialog-act.vkaraisk.81	Um but what's something we need to decide on is how we're gonna go from here . 	
+ES2003d.B.dialog-act.vkaraisk.82	We do need to try and come up with an idea 	
+ES2003d.B.dialog-act.vkaraisk.83	which could be continued with other people if need be . Um . 	
+ES2003d.B.dialog-act.vkaraisk.84	We can 	
+ES2003d.B.dialog-act.vkaraisk.85	I can bring the excel up sheet up 	
+ES2003d.B.dialog-act.vkaraisk.86	and uh show you if you wish um . 	
+ES2003d.B.dialog-act.vkaraisk.87	I really think as m much as it pains me 	
+ES2003d.B.dialog-act.vkaraisk.88	is that we might have to go with plastic and some kind of solid design , 	
+ES2003d.B.dialog-act.vkaraisk.89	possibly meaning that the L_C_D_ wouldn't be in this perfect place . 	
+ES2003d.B.dialog-act.vkaraisk.90	It might be s stuck like slightly between what would be good for left handed and what would be good for a right handed person . 	
+ES2003d.A.dialog-act.vkaraisk.56	Mm-hmm I suppose o one thing that could be done is h is have it um circular 	
+ES2003d.A.dialog-act.vkaraisk.57	and have it s so that the uh the pink actually goes a bit over the pinkie finger . Mm . 	
+ES2003d.B.dialog-act.vkaraisk.91	Okay . 	
+ES2003d.C.dialog-act.vkaraisk.79	Mm . 	
+ES2003d.A.dialog-act.vkaraisk.58	So that uh th 	
+ES2003d.B.dialog-act.vkaraisk.92	It very much is about making concessions , unfortunately . Um . 	
+ES2003d.A.dialog-act.vkaraisk.59	Mm . 	
+ES2003d.C.dialog-act.vkaraisk.80	Do you have any data on how much um different prints cost ? 	
+ES2003d.C.dialog-act.vkaraisk.81	I mean can you get the entire thing printed with a design um ? 	
+ES2003d.B.dialog-act.vkaraisk.93	Um b b b da is you mean on the plastic , or ? 	
+ES2003d.C.dialog-act.vkaraisk.82	. 	
+ES2003d.B.dialog-act.vkaraisk.94	Let's have a look . 	
+ES2003d.B.dialog-act.vkaraisk.95	You now have as much information as I do . Um . 	
+ES2003d.C.dialog-act.vkaraisk.83	Yeah , yeah . 	
+ES2003d.B.dialog-act.vkaraisk.96	So 	
+ES2003d.B.dialog-act.vkaraisk.97	as you can see here , for example , the battery really not very little choice in that one . 	
+ES2003d.B.dialog-act.vkaraisk.98	We've gone for one of the cheaper options as well . 	
+ES2003d.B.dialog-act.vkaraisk.99	Unfortunately we require the advanced chip if we're gonna do what we're needing to . 	
+ES2003d.B.dialog-act.vkaraisk.100	I've said single curved . 	
+ES2003d.B.dialog-act.vkaraisk.101	We really do need it to be that way for the ergonomics of it . 	
+ES2003d.B.dialog-act.vkaraisk.102	Um plastic for some reason incurs no cost , 	
+ES2003d.B.dialog-act.vkaraisk.103	which I've had to very much make advantage of , 	
+ES2003d.B.dialog-act.vkaraisk.104	despite the fact that rubber's only got a value of two Euros per unit . 	
+ES2003d.B.dialog-act.vkaraisk.105	Problem comes here as you can see in the interface . Um 	
+ES2003d.B.dialog-act.vkaraisk.106	if I've read this thing correctly , then we can save point five of a Euro here in that it's not per push button . 	
+ES2003d.B.dialog-act.vkaraisk.107	That might make sense , 	
+ES2003d.B.dialog-act.vkaraisk.108	because then a numeric keypad would come in at um what , four point five Euros , 	
+ES2003d.B.dialog-act.vkaraisk.109	which is an awful lot , 	
+ES2003d.B.dialog-act.vkaraisk.110	so that could well be wrong . 	
+ES2003d.B.dialog-act.vkaraisk.111	Even if we save point five there , it would just mean that we're most likely placing it in actually just gaining a colour for the unit , 	
+ES2003d.B.dialog-act.vkaraisk.112	which has had to be put to one side . 	
+ES2003d.B.dialog-act.vkaraisk.113	As you can see , the use of an L_C_ display um advanced chip and what would determine the scroll wheel here as well 	
+ES2003d.B.dialog-act.vkaraisk.114	because it's an integrated scroll scroll wheel push button that wasn't quite what I think they had in mind with a joystick . 	
+ES2003d.C.dialog-act.vkaraisk.84	Why would why would that be more expensive than an individual push button and scroll wheel together ? 	
+ES2003d.C.dialog-act.vkaraisk.85	That's quite significantly expensive . 	
+ES2003d.B.dialog-act.vkaraisk.115	I 	
+ES2003d.B.dialog-act.vkaraisk.116	that's something you'll have to take up with the bean counters . Um 	
+ES2003d.D.dialog-act.vkaraisk.15		
+ES2003d.C.dialog-act.vkaraisk.86	. 	
+ES2003d.A.dialog-act.vkaraisk.60	Mm . yeah . 	
+ES2003d.B.dialog-act.vkaraisk.117	as you can see I mean that's taken up well over half of the price . 	
+ES2003d.C.dialog-act.vkaraisk.87	Yeah . 	
+ES2003d.B.dialog-act.vkaraisk.118	So um 	
+ES2003d.B.dialog-act.vkaraisk.119	I'm very much open to suggestions of where we go , 	
+ES2003d.B.dialog-act.vkaraisk.120	but because we need to shed what was four Euros off of the um the price of for what we really desired , 	
+ES2003d.B.dialog-act.vkaraisk.121	this one comes in under price as you can see , 	
+ES2003d.B.dialog-act.vkaraisk.122	but this was the one that sacrificed the material for the case and for the actual case design . 	
+ES2003d.C.dialog-act.vkaraisk.88	We don't even have uh speakers here . 	
+ES2003d.C.dialog-act.vkaraisk.89	The 	
+ES2003d.C.dialog-act.vkaraisk.90	like uh 	
+ES2003d.C.dialog-act.vkaraisk.91	we 	
+ES2003d.C.dialog-act.vkaraisk.92	uh what about speakers and transmitters and stuff like that ? Have we factored that in ? 	
+ES2003d.D.dialog-act.vkaraisk.16	Mm . 	
+ES2003d.B.dialog-act.vkaraisk.123	Uh no , we haven't , not 	
+ES2003d.C.dialog-act.vkaraisk.93	Transmitter , receiver , speakers . Plus the extra device itself that's gonna be on a T_V_ . 	
+ES2003d.D.dialog-act.vkaraisk.17		
+ES2003d.C.dialog-act.vkaraisk.94	Is that gonna be a button , or 	
+ES2003d.B.dialog-act.vkaraisk.124	That'll it literally would just be a button . 	
+ES2003d.C.dialog-act.vkaraisk.95	Yeah . 	
+ES2003d.D.dialog-act.vkaraisk.18	That's too expensive 	
+ES2003d.B.dialog-act.vkaraisk.125	We might have to 	
+ES2003d.D.dialog-act.vkaraisk.19	isn't it ? 	
+ES2003d.B.dialog-act.vkaraisk.126	It looks like almost nothing 	
+ES2003d.B.dialog-act.vkaraisk.127	Mm . Oh 	
+ES2003d.B.dialog-act.vkaraisk.128	good call , 	
+ES2003d.B.dialog-act.vkaraisk.129	I missed that . 	
+ES2003d.C.dialog-act.vkaraisk.96	I I mean it's not on here , 	
+ES2003d.C.dialog-act.vkaraisk.97	but um . 	
+ES2003d.B.dialog-act.vkaraisk.130	that's a very valid point . 	
+ES2003d.C.dialog-act.vkaraisk.98	Did they s 	
+ES2003d.C.dialog-act.vkaraisk.99	do we have to use an advanced chip for the L_C_D_ ? 	
+ES2003d.D.dialog-act.vkaraisk.20	Yeah . 	
+ES2003d.C.dialog-act.vkaraisk.100	Okay . 	
+ES2003d.C.dialog-act.vkaraisk.101	Well 	
+ES2003d.C.dialog-act.vkaraisk.102	that's yeah . 	
+ES2003d.B.dialog-act.vkaraisk.131	So if we're gonna go with the L_C_ display , then that's 	
+ES2003d.C.dialog-act.vkaraisk.103	What's a hand dyna dynamo ? 	
+ES2003d.C.dialog-act.vkaraisk.104	You have to wind it up ? 	
+ES2003d.B.dialog-act.vkaraisk.132	I believe so , yeah . 	
+ES2003d.C.dialog-act.vkaraisk.105		
+ES2003d.D.dialog-act.vkaraisk.21		
+ES2003d.B.dialog-act.vkaraisk.133	That would probably not be in keeping with the um the fashion statement and such , 	
+ES2003d.C.dialog-act.vkaraisk.106	Technology . Yeah . 	
+ES2003d.D.dialog-act.vkaraisk.22	Fashion . 	
+ES2003d.B.dialog-act.vkaraisk.134	yeah . 	
+ES2003d.C.dialog-act.vkaraisk.107	Okay . 	
+ES2003d.D.dialog-act.vkaraisk.23	So basically 	
+ES2003d.D.dialog-act.vkaraisk.24	the only new thing is the L_C_D_ on the remote now . 	
+ES2003d.B.dialog-act.vkaraisk.135	Being manipulated by the joystick , 	
+ES2003d.B.dialog-act.vkaraisk.136	yeah . 	
+ES2003d.D.dialog-act.vkaraisk.25	Oh , and joystick , 	
+ES2003d.D.dialog-act.vkaraisk.26	yeah . 	
+ES2003d.B.dialog-act.vkaraisk.137	Which I'm defining as scroll wheel . Um . 	
+ES2003d.C.dialog-act.vkaraisk.108	And we couldn't replace the joystick , 	
+ES2003d.C.dialog-act.vkaraisk.109	right ? 	
+ES2003d.C.dialog-act.vkaraisk.110	Because we would need four extra buttons to replace it , up down left and right , 	
+ES2003d.C.dialog-act.vkaraisk.111	and that would be more expensive 	
+ES2003d.C.dialog-act.vkaraisk.112	than a 	
+ES2003d.C.dialog-act.vkaraisk.113	but is a scroll wheel not just back and forward ? 	
+ES2003d.A.dialog-act.vkaraisk.61	Mm . 	
+ES2003d.B.dialog-act.vkaraisk.138	Yeah 	
+ES2003d.B.dialog-act.vkaraisk.139	it's just because there was no actual definition for what a joystick might be , 	
+ES2003d.B.dialog-act.vkaraisk.140	that that's what I've labelled it for the purposes of this evaluation . 	
+ES2003d.D.dialog-act.vkaraisk.27	So 	
+ES2003d.D.dialog-act.vkaraisk.28	The L_C_D_ basically is the big selling point of 	
+ES2003d.B.dialog-act.vkaraisk.141	If we remove the L_C_ display , we could save ourselves 	
+ES2003d.D.dialog-act.vkaraisk.29	the remote . 	
+ES2003d.B.dialog-act.vkaraisk.142	a fair amount . 	
+ES2003d.B.dialog-act.vkaraisk.143	Which you could 	
+ES2003d.D.dialog-act.vkaraisk.30	But that's what makes it uh original though , 	
+ES2003d.D.dialog-act.vkaraisk.31	isn't it ? 	
+ES2003d.A.dialog-act.vkaraisk.62	Mm . I think if we remove the the L_C_ display then there was absolutely no point to any of these meetings 	
+ES2003d.C.dialog-act.vkaraisk.114	Yeah . 	
+ES2003d.A.dialog-act.vkaraisk.63	and we just we could just put our branding on any other remote control . 	
+ES2003d.C.dialog-act.vkaraisk.115	Yeah . Yeah . 	
+ES2003d.C.dialog-act.vkaraisk.116	Um . Uh 	
+ES2003d.C.dialog-act.vkaraisk.117	k 	
+ES2003d.B.dialog-act.vkaraisk.145	It's a shame . 	
+ES2003d.B.dialog-act.vkaraisk.144	We should possibly have 	
+ES2003d.B.dialog-act.vkaraisk.146	If we could've increased the price we could've manufactured that and we could've got something far closer to what we were hoping to . 	
+ES2003d.C.dialog-act.vkaraisk.119	Does this does this bear in mind that 	
+ES2003d.C.dialog-act.vkaraisk.118	I mean it's a bit ridiculous 	
+ES2003d.C.dialog-act.vkaraisk.120	that they're gonna charge us what is it , like this much money for three million if we're gonna buy three million components , 	
+ES2003d.C.dialog-act.vkaraisk.121	you know . 	
+ES2003d.B.dialog-act.vkaraisk.147	Again , you'll have to argue with the accountants on that one . 	
+ES2003d.C.dialog-act.vkaraisk.122	Mm . 	
+ES2003d.B.dialog-act.vkaraisk.148	Um but for the purposes of this meeting , I'm we're gonna have to stick with these figures . 	
+ES2003d.C.dialog-act.vkaraisk.123	'Kay . 	
+ES2003d.B.dialog-act.vkaraisk.149	So , 	
+ES2003d.B.dialog-act.vkaraisk.150	I would say that it would seem like the general opinion is we're gonna keep the L_C_ display 	
+ES2003d.B.dialog-act.vkaraisk.151	'cause it's about what really separates us , 	
+ES2003d.C.dialog-act.vkaraisk.124	I think so . 	
+ES2003d.B.dialog-act.vkaraisk.152	despite the cost it's gonna incur . Um 	
+ES2003d.B.dialog-act.vkaraisk.153	are people maybe not happy with , but are willing to go ahead with this in going for a plastic solid case , to keep the L_C_D_ ? 	
+ES2003d.A.dialog-act.vkaraisk.64	Mm-hmm . Um yeah I mean 	
+ES2003d.A.dialog-act.vkaraisk.65	one thing , 	
+ES2003d.A.dialog-act.vkaraisk.66	I mean ho uh how much extra would it be to to keep I mean keep the um the articulation ? 	
+ES2003d.B.dialog-act.vkaraisk.154	It's hard to tell . 	
+ES2003d.B.dialog-act.vkaraisk.155	Um I would say that you're at least gonna take double curved , 	
+ES2003d.A.dialog-act.vkaraisk.67	This is what I'm wondering . 	
+ES2003d.B.dialog-act.vkaraisk.156	and even then I'm not quite sure if that's incorporating the idea of articulation . 	
+ES2003d.C.dialog-act.vkaraisk.125	Yeah . 	
+ES2003d.A.dialog-act.vkaraisk.68	Oh 	
+ES2003d.A.dialog-act.vkaraisk.69	no , I think I I it d that it needn't require it to be double curved . 	
+ES2003d.D.dialog-act.vkaraisk.32	It can be s 	
+ES2003d.D.dialog-act.vkaraisk.33	yeah , 	
+ES2003d.D.dialog-act.vkaraisk.34	it can still be single curved , 	
+ES2003d.D.dialog-act.vkaraisk.35	but 	
+ES2003d.A.dialog-act.vkaraisk.70	It's uh it's just it's just it's just that the case would come in t would be made in two parts and then joined together with an articulation . 	
+ES2003d.D.dialog-act.vkaraisk.36	You just . 	
+ES2003d.B.dialog-act.vkaraisk.157	Single curved with articulation ? 	
+ES2003d.C.dialog-act.vkaraisk.126	Could we could we not get rid of the curvy the curvous the curvaceousness 	
+ES2003d.C.dialog-act.vkaraisk.127	and focus on the menu being the best interface ? 	
+ES2003d.C.dialog-act.vkaraisk.128	'Cause like we 	
+ES2003d.C.dialog-act.vkaraisk.129	do we have re restrictions on software ? 	
+ES2003d.D.dialog-act.vkaraisk.37	That's what we need for the joystick I think though . 	
+ES2003d.C.dialog-act.vkaraisk.130	Oh 	
+ES2003d.C.dialog-act.vkaraisk.131	but there has to be 	
+ES2003d.A.dialog-act.vkaraisk.71	Mm . Yeah , I mean 	
+ES2003d.A.dialog-act.vkaraisk.72	and I mean the uh 	
+ES2003d.A.dialog-act.vkaraisk.73	I mean if you look uh if you look closer at the uh at the prototype here , 	
+ES2003d.A.dialog-act.vkaraisk.74	the lines here along the grip are actually quite straight . 	
+ES2003d.A.dialog-act.vkaraisk.75	Um I mean 	
+ES2003d.B.dialog-act.vkaraisk.158	But the curves all o over hand , 	
+ES2003d.A.dialog-act.vkaraisk.76	yeah , 	
+ES2003d.A.dialog-act.vkaraisk.77	on the on the L_C_D_ I mean although we've done it with a curve it 	
+ES2003d.B.dialog-act.vkaraisk.159	is it ? 	
+ES2003d.A.dialog-act.vkaraisk.78	could just as easily be done um without curves . 	
+ES2003d.A.dialog-act.vkaraisk.79	The curve that's really needed is up here , 	
+ES2003d.C.dialog-act.vkaraisk.132	joystick . 	
+ES2003d.A.dialog-act.vkaraisk.80	to put uh to keep the joystick in a good ergonomic position for it 	
+ES2003d.A.dialog-act.vkaraisk.81	to have it rest on the top of the hand . 	
+ES2003d.C.dialog-act.vkaraisk.133	Okay . Sure . 	
+ES2003d.C.dialog-act.vkaraisk.135	Okay , 	
+ES2003d.C.dialog-act.vkaraisk.136	my bad . 	
+ES2003d.B.dialog-act.vkaraisk.160	We wouldn't actually save a lot by reducing it anyway , 	
+ES2003d.B.dialog-act.vkaraisk.161	so I mean for the purposes of this meeting maybe we can state that single curve still allows articulation . 	
+ES2003d.A.dialog-act.vkaraisk.82	Mm . 	
+ES2003d.B.dialog-act.vkaraisk.162	Um unless we hear otherwise we could go ahead with that proposal . 	
+ES2003d.C.dialog-act.vkaraisk.137	So 	
+ES2003d.C.dialog-act.vkaraisk.138	I think the product is not gonna perform so well for my criteria . 	
+ES2003d.B.dialog-act.vkaraisk.163	Which is what we can get onto now . 	
+ES2003d.B.dialog-act.vkaraisk.164	As long as so are we gonna say w 	
+ES2003d.B.dialog-act.vkaraisk.165	we have to keep an eye on the time as well , 	
+ES2003d.B.dialog-act.vkaraisk.166	but we're gonna say um single curved design 	
+ES2003d.C.dialog-act.vkaraisk.139	Oh , 	
+ES2003d.C.dialog-act.vkaraisk.140	wait a minute . 	
+ES2003d.C.dialog-act.vkaraisk.141	Sample speaker ? What is a sample speaker ? 	
+ES2003d.C.dialog-act.vkaraisk.142	Is that somewhat similar to what we want ? 	
+ES2003d.B.dialog-act.vkaraisk.167	It could well be , 	
+ES2003d.A.dialog-act.vkaraisk.83	Mm no 	
+ES2003d.B.dialog-act.vkaraisk.168	but at a cost of 	
+ES2003d.A.dialog-act.vkaraisk.84	that's that voice response thing that we got the email about . 	
+ES2003d.D.dialog-act.vkaraisk.38	Costs four . 	
+ES2003d.C.dialog-act.vkaraisk.143	Yeah . 	
+ES2003d.A.dialog-act.vkaraisk.85	But I thought it was just completely pointless . 	
+ES2003d.C.dialog-act.vkaraisk.145	You got a email about voice response ? 	
+ES2003d.A.dialog-act.vkaraisk.86	Yeah . 	
+ES2003d.C.dialog-act.vkaraisk.146	I did not , 	
+ES2003d.C.dialog-act.vkaraisk.147	so . 	
+ES2003d.A.dialog-act.vkaraisk.87	Alright . 	
+ES2003d.A.dialog-act.vkaraisk.88	B i basically it was saying that our labs had come up with a chip 	
+ES2003d.A.dialog-act.vkaraisk.89	that you could , you know , say hello to , 	
+ES2003d.A.dialog-act.vkaraisk.90	and it would say hello back in a friendly female voice . 	
+ES2003d.B.dialog-act.vkaraisk.169	Okay , 	
+ES2003d.B.dialog-act.vkaraisk.170	yeah 	
+ES2003d.B.dialog-act.vkaraisk.171	we'll definitely won't go with that one . 	
+ES2003d.C.dialog-act.vkaraisk.148	We won't go with that one , did you say ? 	
+ES2003d.C.dialog-act.vkaraisk.149	I mean I we 	
+ES2003d.B.dialog-act.vkaraisk.172	Yeah , 	
+ES2003d.B.dialog-act.vkaraisk.173	that's voice recognition , so . 	
+ES2003d.C.dialog-act.vkaraisk.150	Okay , okay . 	
+ES2003d.B.dialog-act.vkaraisk.174	Um . So , okay yeah , 	
+ES2003d.B.dialog-act.vkaraisk.175	battery definitely , 	
+ES2003d.C.dialog-act.vkaraisk.151	So 	
+ES2003d.C.dialog-act.vkaraisk.152	it looks like we're gonna get rid of the whole loca locator thing . 	
+ES2003d.B.dialog-act.vkaraisk.176	It looks like it unless we can manage to put it in under point two Euros , um . 	
+ES2003d.D.dialog-act.vkaraisk.39	Yeah . 	
+ES2003d.C.dialog-act.vkaraisk.153	Okay . Okay . 	
+ES2003d.B.dialog-act.vkaraisk.177	Maybe even slight 	
+ES2003d.A.dialog-act.vkaraisk.91	Mm-hmm . 	
+ES2003d.B.dialog-act.vkaraisk.178	well 	
+ES2003d.B.dialog-act.vkaraisk.179	oh yeah , pretty much point two Euros , I'd say . 	
+ES2003d.B.dialog-act.vkaraisk.180	So we'll leave that one for now . 	
+ES2003d.B.dialog-act.vkaraisk.181	we'll just have 	
+ES2003d.D.dialog-act.vkaraisk.40	Are we going for a special colour at all ? 	
+ES2003d.B.dialog-act.vkaraisk.182	It's uh a case of um 	
+ES2003d.B.dialog-act.vkaraisk.183	I'm uh slightly unsure . 	
+ES2003d.B.dialog-act.vkaraisk.184	One point five of a Euro for one push button doesn't sound quite right . 	
+ES2003d.B.dialog-act.vkaraisk.185	So maybe it's a case of a push button is maybe one or more . Um . 	
+ES2003d.A.dialog-act.vkaraisk.92	Mm . 	
+ES2003d.D.dialog-act.vkaraisk.41	Well 	
+ES2003d.D.dialog-act.vkaraisk.42	I was for a case . 	
+ES2003d.B.dialog-act.vkaraisk.186	At which point if 	
+ES2003d.D.dialog-act.vkaraisk.43	Or had you already incorporated that ? 	
+ES2003d.C.dialog-act.vkaraisk.154	Oh , special colour for the case . 	
+ES2003d.B.dialog-act.vkaraisk.187	Well 	
+ES2003d.B.dialog-act.vkaraisk.188	you got point five there . 	
+ES2003d.B.dialog-act.vkaraisk.189	It's literally a case of whether or not this is correct . 	
+ES2003d.B.dialog-act.vkaraisk.190	I'm not quite sure if they're 	
+ES2003d.B.dialog-act.vkaraisk.191	I don't think they mean point five Euros per button . 	
+ES2003d.C.dialog-act.vkaraisk.155	Mm-hmm . 	
+ES2003d.A.dialog-act.vkaraisk.93	Okay , well 	
+ES2003d.A.dialog-act.vkaraisk.94	l let's say that and then we can have our special coloured case 	
+ES2003d.B.dialog-act.vkaraisk.192	So 	
+ES2003d.A.dialog-act.vkaraisk.95	and then we at least have make it a little harder to lose . 	
+ES2003d.B.dialog-act.vkaraisk.193	There we go . 	
+ES2003d.A.dialog-act.vkaraisk.96	Because most m most remotes are a fairly dingy colour 	
+ES2003d.A.dialog-act.vkaraisk.97	that gets camouflaged under any pile of crap in a living room . 	
+ES2003d.C.dialog-act.vkaraisk.156	W what's the default colour ? 	
+ES2003d.C.dialog-act.vkaraisk.157	White or black ? 	
+ES2003d.B.dialog-act.vkaraisk.194	Black's probably the normal colour you'd say , 	
+ES2003d.A.dialog-act.vkaraisk.98	Or grey . 	
+ES2003d.B.dialog-act.vkaraisk.195	yeah . 	
+ES2003d.C.dialog-act.vkaraisk.158	Right . 	
+ES2003d.B.dialog-act.vkaraisk.196	I quite like that colour that you're fetching there , 	
+ES2003d.A.dialog-act.vkaraisk.99	Yellow . 	
+ES2003d.B.dialog-act.vkaraisk.199	it's uh definitely for 	
+ES2003d.B.dialog-act.vkaraisk.197	make it glow in the dark even better . 	
+ES2003d.C.dialog-act.vkaraisk.159	Yeah . 	
+ES2003d.B.dialog-act.vkaraisk.198	So 	
+ES2003d.B.dialog-act.vkaraisk.200	will we go with that then ? 	
+ES2003d.A.dialog-act.vkaraisk.100	Okay . 	
+ES2003d.C.dialog-act.vkaraisk.160	Yeah . 	
+ES2003d.B.dialog-act.vkaraisk.201	It's not and we can see 	
+ES2003d.C.dialog-act.vkaraisk.161	Sure . 	
+ES2003d.B.dialog-act.vkaraisk.202	we'll come back to uh your evaluation 	
+ES2003d.B.dialog-act.vkaraisk.203	which you're probably now going to pan us 	
+ES2003d.B.dialog-act.vkaraisk.204	but there we go . 	
+ES2003d.C.dialog-act.vkaraisk.162	Okay . Okay . 	
+ES2003d.D.dialog-act.vkaraisk.44		
+ES2003d.C.dialog-act.vkaraisk.163	So uh 	
+ES2003d.B.dialog-act.vkaraisk.205	Just to give you an idea , um you want to go maybe a bit quickly as well , 	
+ES2003d.B.dialog-act.vkaraisk.206	I'm not sure how much time . 	
+ES2003d.B.dialog-act.vkaraisk.207	We've not hit the five minute mark warning yet , 	
+ES2003d.C.dialog-act.vkaraisk.164	Right okay . Okay . 	
+ES2003d.B.dialog-act.vkaraisk.208	but . 	
+ES2003d.D.dialog-act.vkaraisk.45	Think it's ten minutes left . 	
+ES2003d.B.dialog-act.vkaraisk.209	Ten . 	
+ES2003d.C.dialog-act.vkaraisk.165	'Kay . 	
+ES2003d.C.dialog-act.vkaraisk.166	Ability to stop remotes from being lost or to find them once they are lost . 	
+ES2003d.C.dialog-act.vkaraisk.167	Um . Okay . 	
+ES2003d.D.dialog-act.vkaraisk.46	Special colour . 	
+ES2003d.C.dialog-act.vkaraisk.168	Special colour . 	
+ES2003d.B.dialog-act.vkaraisk.210	Mm mm four ? 	
+ES2003d.C.dialog-act.vkaraisk.169	Uh uh four . 	
+ES2003d.B.dialog-act.vkaraisk.211	Three ? Mm . 	
+ES2003d.C.dialog-act.vkaraisk.170	Three if we're being generous , I feel . 	
+ES2003d.A.dialog-act.vkaraisk.101	Three . I think we can do three . 	
+ES2003d.B.dialog-act.vkaraisk.212		
+ES2003d.D.dialog-act.vkaraisk.47	Three . 	
+ES2003d.A.dialog-act.vkaraisk.102	Th the special colour doesn't would I think make a difference . 	
+ES2003d.C.dialog-act.vkaraisk.171	Think we're being generous here with three . 	
+ES2003d.A.dialog-act.vkaraisk.103	It makes it stand out 	
+ES2003d.A.dialog-act.vkaraisk.104	from 	
+ES2003d.A.dialog-act.vkaraisk.105	you know 	
+ES2003d.A.dialog-act.vkaraisk.106	it's lost in a big pile of crap , it stands out from the rest of the crap . 	
+ES2003d.C.dialog-act.vkaraisk.172	Mm . 	
+ES2003d.C.dialog-act.vkaraisk.173	Yeah . Okay . 	
+ES2003d.B.dialog-act.vkaraisk.213	Okay . 	
+ES2003d.C.dialog-act.vkaraisk.174	Reduce the number of unused buttons . 	
+ES2003d.C.dialog-act.vkaraisk.175	We're down to t two buttons , 	
+ES2003d.C.dialog-act.vkaraisk.176	is it ? 	
+ES2003d.B.dialog-act.vkaraisk.214	Two buttons . 	
+ES2003d.A.dialog-act.vkaraisk.107	Two buttons and a joystick . 	
+ES2003d.C.dialog-act.vkaraisk.177	Okay , 	
+ES2003d.C.dialog-act.vkaraisk.178	so that's a one . 	
+ES2003d.C.dialog-act.vkaraisk.179	You know , 	
+ES2003d.C.dialog-act.vkaraisk.180	where that's 	
+ES2003d.A.dialog-act.vkaraisk.108	Totally . 	
+ES2003d.B.dialog-act.vkaraisk.215	Yeah . 	
+ES2003d.B.dialog-act.vkaraisk.216	I'd say we're doing well there . 	
+ES2003d.C.dialog-act.vkaraisk.181	Okay , 	
+ES2003d.C.dialog-act.vkaraisk.182	that was good . 	
+ES2003d.C.dialog-act.vkaraisk.183	Easy to use interface , buttons menu , menus 	
+ES2003d.C.dialog-act.vkaraisk.184	that's 	
+ES2003d.C.dialog-act.vkaraisk.185	yeah 	
+ES2003d.B.dialog-act.vkaraisk.217	Mm-hmm . 	
+ES2003d.C.dialog-act.vkaraisk.186	that's good . 	
+ES2003d.C.dialog-act.vkaraisk.187	'Kay 	
+ES2003d.C.dialog-act.vkaraisk.188	that's 	
+ES2003d.C.dialog-act.vkaraisk.189	we're not doing so badly . 	
+ES2003d.C.dialog-act.vkaraisk.190	Um easy to use 	
+ES2003d.C.dialog-act.vkaraisk.191	oh okay , 	
+ES2003d.C.dialog-act.vkaraisk.192	let's forget that one . 	
+ES2003d.C.dialog-act.vkaraisk.193	Fancy looking . 	
+ES2003d.B.dialog-act.vkaraisk.218	As he models the 	
+ES2003d.A.dialog-act.vkaraisk.109	It doesn't get much fancier . 	
+ES2003d.C.dialog-act.vkaraisk.194	Sure . 	
+ES2003d.C.dialog-act.vkaraisk.195	And we could do whatever we like with the L_ L_C_D_ . 	
+ES2003d.C.dialog-act.vkaraisk.197	Yeah 	
+ES2003d.C.dialog-act.vkaraisk.196	let's just assume it's a good L_C_D_ display . 	
+ES2003d.B.dialog-act.vkaraisk.219		
+ES2003d.C.dialog-act.vkaraisk.198	Maybe I was panicking for no reason . 	
+ES2003d.D.dialog-act.vkaraisk.48	Are we going one on ? 	
+ES2003d.C.dialog-act.vkaraisk.199	Yeah , 	
+ES2003d.D.dialog-act.vkaraisk.49	I'd say we go two , 	
+ES2003d.D.dialog-act.vkaraisk.50	'cause like f the fanciest would be the double curved . 	
+ES2003d.D.dialog-act.vkaraisk.51	Wouldn't it ? 	
+ES2003d.B.dialog-act.vkaraisk.220	I'd 	
+ES2003d.A.dialog-act.vkaraisk.110	Mm . 	
+ES2003d.C.dialog-act.vkaraisk.200	w 	
+ES2003d.C.dialog-act.vkaraisk.201	maybe you'd be a bit too 	
+ES2003d.B.dialog-act.vkaraisk.221	Yeah . 	
+ES2003d.C.dialog-act.vkaraisk.202	yeah . There we go . Yeah , 	
+ES2003d.D.dialog-act.vkaraisk.52	With the articulators . With bells on it . 	
+ES2003d.C.dialog-act.vkaraisk.203	that's m 	
+ES2003d.C.dialog-act.vkaraisk.204	that's that's better too . More accurate numbers . 	
+ES2003d.C.dialog-act.vkaraisk.205	Technologically innovative . 	
+ES2003d.C.dialog-act.vkaraisk.206	Well , 	
+ES2003d.C.dialog-act.vkaraisk.207	we're getting rid of the locator thing 	
+ES2003d.C.dialog-act.vkaraisk.208	which which 	
+ES2003d.B.dialog-act.vkaraisk.222	Which is a shame . 	
+ES2003d.C.dialog-act.vkaraisk.209	yeah 	
+ES2003d.A.dialog-act.vkaraisk.111	Mm . I'd give it a three for this for that . 	
+ES2003d.D.dialog-act.vkaraisk.53	No need for teletext . 	
+ES2003d.C.dialog-act.vkaraisk.210	. 	
+ES2003d.A.dialog-act.vkaraisk.112	Yeah . 	
+ES2003d.A.dialog-act.vkaraisk.113	I mean the menus thing is something you don't normally see on um on a remote , 	
+ES2003d.C.dialog-act.vkaraisk.211	'Kay . 	
+ES2003d.A.dialog-act.vkaraisk.114	but you see it in a lot of other places . 	
+ES2003d.C.dialog-act.vkaraisk.212	Yeah , 	
+ES2003d.C.dialog-act.vkaraisk.213	mobile phones . 	
+ES2003d.B.dialog-act.vkaraisk.223	Mm . 	
+ES2003d.C.dialog-act.vkaraisk.214	And y what you're doing is moving the menu from the television to the remote control , 	
+ES2003d.C.dialog-act.vkaraisk.215	so it's 	
+ES2003d.A.dialog-act.vkaraisk.115	Mm-hmm . 	
+ES2003d.C.dialog-act.vkaraisk.216	You say three ? 	
+ES2003d.C.dialog-act.vkaraisk.217	I might go as far as two on that . 	
+ES2003d.C.dialog-act.vkaraisk.218	Three . 	
+ES2003d.A.dialog-act.vkaraisk.116	I'd give it a three . 	
+ES2003d.B.dialog-act.vkaraisk.224	I'd be tempted with three , yeah . 	
+ES2003d.C.dialog-act.vkaraisk.219	Three . 	
+ES2003d.C.dialog-act.vkaraisk.220	Okay . 	
+ES2003d.C.dialog-act.vkaraisk.221	Okay . 	
+ES2003d.B.dialog-act.vkaraisk.225	We'll get panned on the next one , anyway . 	
+ES2003d.D.dialog-act.vkaraisk.54		
+ES2003d.C.dialog-act.vkaraisk.222	Materials that people find pleasing . 	
+ES2003d.C.dialog-act.vkaraisk.223	Sponginess is what they really would have wanted , apparently . 	
+ES2003d.B.dialog-act.vkaraisk.226	Yeah , 	
+ES2003d.B.dialog-act.vkaraisk.227	w 	
+ES2003d.B.dialog-act.vkaraisk.228	It is , yeah . 	
+ES2003d.B.dialog-act.vkaraisk.229	Don't blame them . 	
+ES2003d.C.dialog-act.vkaraisk.224		
+ES2003d.B.dialog-act.vkaraisk.230	Um because of the way that we've minimalised the number of buttons and such . 	
+ES2003d.C.dialog-act.vkaraisk.225	Yeah . 	
+ES2003d.B.dialog-act.vkaraisk.231	Plastic , it sucks . 	
+ES2003d.B.dialog-act.vkaraisk.232	But it's no worse than any of the other pl remote controls we have . 	
+ES2003d.C.dialog-act.vkaraisk.226	That's true . 	
+ES2003d.C.dialog-act.vkaraisk.227	It's not a step backwards . 	
+ES2003d.D.dialog-act.vkaraisk.55	five ? 	
+ES2003d.A.dialog-act.vkaraisk.118	Mm-hmm . I'd s I I'd give it a six , to be honest . 	
+ES2003d.D.dialog-act.vkaraisk.56	Six ? 	
+ES2003d.D.dialog-act.vkaraisk.57	Six , . 	
+ES2003d.C.dialog-act.vkaraisk.228	Yeah , okay let's give it a six . 	
+ES2003d.B.dialog-act.vkaraisk.233		
+ES2003d.C.dialog-act.vkaraisk.229	Okay , 	
+ES2003d.C.dialog-act.vkaraisk.230	that's totally thrown everything off balance . 	
+ES2003d.C.dialog-act.vkaraisk.231	Inspired by the latest interior and clothing fashion . 	
+ES2003d.C.dialog-act.vkaraisk.232	W we could . 	
+ES2003d.C.dialog-act.vkaraisk.233	What colour were we gonna make it ? 	
+ES2003d.D.dialog-act.vkaraisk.58	Put a leopard print on it . 	
+ES2003d.A.dialog-act.vkaraisk.119	Well 	
+ES2003d.A.dialog-act.vkaraisk.120	I I I would sa I would say give a s give a selection of colours . 	
+ES2003d.C.dialog-act.vkaraisk.234	I know , 	
+ES2003d.A.dialog-act.vkaraisk.121	Um we went with yellow we went with yellow for the prototype 	
+ES2003d.C.dialog-act.vkaraisk.235	but 	
+ES2003d.A.dialog-act.vkaraisk.122	'cause we had yellow . 	
+ES2003d.A.dialog-act.vkaraisk.123	If I were buying one , I'd go for purple . 	
+ES2003d.A.dialog-act.vkaraisk.124	Leopard print would be cool . 	
+ES2003d.C.dialog-act.vkaraisk.236	But um by this I think it's more a case of fruit and veg , 	
+ES2003d.D.dialog-act.vkaraisk.59	Yeah 	
+ES2003d.D.dialog-act.vkaraisk.60	we gotta . 	
+ES2003d.D.dialog-act.vkaraisk.61	I'd say the colour of the border there world you'd find that , that's that'd stand out . 	
+ES2003d.C.dialog-act.vkaraisk.237	Yeah . 	
+ES2003d.B.dialog-act.vkaraisk.234	Like yellow , 	
+ES2003d.B.dialog-act.vkaraisk.235	yeah . 	
+ES2003d.B.dialog-act.vkaraisk.236	It would also help keep the the product placement 	
+ES2003d.D.dialog-act.vkaraisk.62	Logo , brand . 	
+ES2003d.B.dialog-act.vkaraisk.237	s 	
+ES2003d.B.dialog-act.vkaraisk.238	yeah . 	
+ES2003d.C.dialog-act.vkaraisk.238	Mm . 	
+ES2003d.D.dialog-act.vkaraisk.63	Mm 'kay . 	
+ES2003d.C.dialog-act.vkaraisk.239	But Th th they're referring to the fruit and veg thing . 	
+ES2003d.B.dialog-act.vkaraisk.239	Is it inspired by clothing fashion ? 	
+ES2003d.C.dialog-act.vkaraisk.240	Is this like a banana type colour ? 	
+ES2003d.B.dialog-act.vkaraisk.240	Yes . 	
+ES2003d.C.dialog-act.vkaraisk.241	Could we stretch 	
+ES2003d.C.dialog-act.vkaraisk.242	no still , 	
+ES2003d.C.dialog-act.vkaraisk.243	it's not shaped like a banana is 	
+ES2003d.B.dialog-act.vkaraisk.241	It's kind o it 	
+ES2003d.A.dialog-act.vkaraisk.125	That's kinda i 	
+ES2003d.B.dialog-act.vkaraisk.242	probably 	
+ES2003d.A.dialog-act.vkaraisk.126	it won't be when it's been 	
+ES2003d.C.dialog-act.vkaraisk.244	Oh 	
+ES2003d.C.dialog-act.vkaraisk.245	is that 'cause it's flat ? 	
+ES2003d.A.dialog-act.vkaraisk.127	budgeted . 	
+ES2003d.C.dialog-act.vkaraisk.246	What is what fruit or veg is flat ? 	
+ES2003d.A.dialog-act.vkaraisk.128	I I think s I I think this isn't not particularly fruit and veggie . Um . 	
+ES2003d.C.dialog-act.vkaraisk.247	Yeah . 	
+ES2003d.C.dialog-act.vkaraisk.248	Or we might have to suffer badly for this one as well . 	
+ES2003d.D.dialog-act.vkaraisk.64	Yellow courgette . 	
+ES2003d.B.dialog-act.vkaraisk.243	Well 	
+ES2003d.A.dialog-act.vkaraisk.129		
+ES2003d.D.dialog-act.vkaraisk.65		
+ES2003d.B.dialog-act.vkaraisk.244	I mean it's probably more fruit and veg than most other things out there bar fruit and veg , 	
+ES2003d.B.dialog-act.vkaraisk.245	so , what , four ? 	
+ES2003d.C.dialog-act.vkaraisk.249	Four ? 	
+ES2003d.C.dialog-act.vkaraisk.250	Oh that's it's very ambitious , 	
+ES2003d.B.dialog-act.vkaraisk.246	Is that being too generous ? 	
+ES2003d.A.dialog-act.vkaraisk.130	Mm . I'd I'd I don't think fruit and veg is the sole criterion . Is the sole criterion for being um fashion fashionable or inspired by current fashions . 	
+ES2003d.C.dialog-act.vkaraisk.251	yeah , um . 	
+ES2003d.B.dialog-act.vkaraisk.247	Oh dear , . 	
+ES2003d.C.dialog-act.vkaraisk.252	Sure . 	
+ES2003d.C.dialog-act.vkaraisk.253	Inspired by . 	
+ES2003d.A.dialog-act.vkaraisk.131	Um I'd g I'd rate I'd rate this fairly highly from that point of view actually . 	
+ES2003d.D.dialog-act.vkaraisk.66	Well 	
+ES2003d.D.dialog-act.vkaraisk.67	this this what we're gonna t this is their motto , like . 	
+ES2003d.C.dialog-act.vkaraisk.254	Yeah . 	
+ES2003d.D.dialog-act.vkaraisk.68	And we're we're not doing well on it . 	
+ES2003d.C.dialog-act.vkaraisk.255	This is their strategy . 	
+ES2003d.C.dialog-act.vkaraisk.256	I m imagine we actually had some money invested in this 	
+ES2003d.C.dialog-act.vkaraisk.257	and the amount that we invest is gonna be proportional to the marks . 	
+ES2003d.C.dialog-act.vkaraisk.258	Might we might wanna be a bit more skepible sceptical about this one . 	
+ES2003d.B.dialog-act.vkaraisk.248	What would you think yourself ? 	
+ES2003d.C.dialog-act.vkaraisk.259	I would say 	
+ES2003d.C.dialog-act.vkaraisk.260	I mean it's it's not at all , right ? In any way or shape or form . 	
+ES2003d.B.dialog-act.vkaraisk.249	Well , 	
+ES2003d.C.dialog-act.vkaraisk.262	We didn't m 	
+ES2003d.B.dialog-act.vkaraisk.250	it's kind of curved 	
+ES2003d.B.dialog-act.vkaraisk.251	and we can make it yellow , 	
+ES2003d.B.dialog-act.vkaraisk.252	and that's pretty much banana like . 	
+ES2003d.C.dialog-act.vkaraisk.263	Okay , the the yellow banana like thing is I think is okay . 	
+ES2003d.B.dialog-act.vkaraisk.253	Si 	
+ES2003d.B.dialog-act.vkaraisk.254	it's got a curve to it . 	
+ES2003d.C.dialog-act.vkaraisk.264	Right 	
+ES2003d.C.dialog-act.vkaraisk.266	five . 	
+ES2003d.C.dialog-act.vkaraisk.267	Is that sound reasonable ? 	
+ES2003d.B.dialog-act.vkaraisk.255	Am I 	
+ES2003d.D.dialog-act.vkaraisk.69	Yeah , I'll go with five . 	
+ES2003d.B.dialog-act.vkaraisk.256	do you think I'm stretching the uh the use of the banana ? 	
+ES2003d.C.dialog-act.vkaraisk.268	Five . 	
+ES2003d.C.dialog-act.vkaraisk.269	Yeah . 	
+ES2003d.C.dialog-act.vkaraisk.270	'Kay , so 	
+ES2003d.C.dialog-act.vkaraisk.271	we have one , two , three , four , five , six , seven . 	
+ES2003d.C.dialog-act.vkaraisk.272	So five , seven , ten , sixteen , twenty one . 	
+ES2003d.C.dialog-act.vkaraisk.273	Which gives us an average of three . 	
+ES2003d.C.dialog-act.vkaraisk.274	It's 	
+ES2003d.C.dialog-act.vkaraisk.275	well 	
+ES2003d.C.dialog-act.vkaraisk.276	this would be in the middle . 	
+ES2003d.C.dialog-act.vkaraisk.277	So we 	
+ES2003d.C.dialog-act.vkaraisk.278	it's it's not bad . 	
+ES2003d.C.dialog-act.vkaraisk.279	It's in the good section . 	
+ES2003d.B.dialog-act.vkaraisk.257	It's not bad 	
+ES2003d.B.dialog-act.vkaraisk.258	and considering the 	
+ES2003d.B.dialog-act.vkaraisk.259	don't pick the pen . Um . 	
+ES2003d.C.dialog-act.vkaraisk.280	Oops . 	
+ES2003d.C.dialog-act.vkaraisk.281	Sorry . I'm I'm sorry . 	
+ES2003d.D.dialog-act.vkaraisk.70		
+ES2003d.B.dialog-act.vkaraisk.260	Y 	
+ES2003d.B.dialog-act.vkaraisk.261	oh and you've knocked batteries out . 	
+ES2003d.C.dialog-act.vkaraisk.282		
+ES2003d.B.dialog-act.vkaraisk.262	Um right okay 	
+ES2003d.D.dialog-act.vkaraisk.71	'S bad design , that thing . 	
+ES2003d.B.dialog-act.vkaraisk.263	it's 	
+ES2003d.B.dialog-act.vkaraisk.264	considering the price we had to get this in , to have a positive you know , even based on the four of us being heavily biased , um 	
+ES2003d.C.dialog-act.vkaraisk.283	Mm-hmm . 	
+ES2003d.C.dialog-act.vkaraisk.284	Yeah . 	
+ES2003d.B.dialog-act.vkaraisk.265	it was gonna be quite hard to get anything standing out I'd say possibly , based on um the the cost features . 	
+ES2003d.D.dialog-act.vkaraisk.72	Mm , yeah . 	
+ES2003d.A.dialog-act.vkaraisk.132	Mm . 	
+ES2003d.C.dialog-act.vkaraisk.285	Even if we were to increase this entire thing by by seven , we were to go down a grade to to four , 	
+ES2003d.C.dialog-act.vkaraisk.286	we would have to do I mean we didn't 	
+ES2003d.C.dialog-act.vkaraisk.287	we weren't that kinda optimistic too optim overly optimistic . 	
+ES2003d.C.dialog-act.vkaraisk.288	You know like 	
+ES2003d.C.dialog-act.vkaraisk.289	we didn't we didn't add 	
+ES2003d.C.dialog-act.vkaraisk.290	we didn't subtract a whole seven points from these things , 	
+ES2003d.C.dialog-act.vkaraisk.291	so I think we're definitely on the good bit . 	
+ES2003d.A.dialog-act.vkaraisk.133		
+ES2003d.C.dialog-act.vkaraisk.292	Even if we gave this one seven and this one seven , that's still only three extra points over seven . 	
+ES2003d.C.dialog-act.vkaraisk.293	You know , 	
+ES2003d.C.dialog-act.vkaraisk.294	it's 	
+ES2003d.A.dialog-act.vkaraisk.134	Mm . Personally , I think given that the product um only replaces a single remote control 	
+ES2003d.C.dialog-act.vkaraisk.295	yeah , 	
+ES2003d.C.dialog-act.vkaraisk.296	we did it w 	
+ES2003d.C.dialog-act.vkaraisk.297	it was okay . It was good . 	
+ES2003d.A.dialog-act.vkaraisk.136	that you've already got , 	
+ES2003d.A.dialog-act.vkaraisk.135	are people really gonna shell out twenty five Euros for something that's only marginally good ? 	
+ES2003d.D.dialog-act.vkaraisk.73	Well , 	
+ES2003d.D.dialog-act.vkaraisk.74	it depends who your who's what the target people are , 	
+ES2003d.D.dialog-act.vkaraisk.75	like you'd say maybe the fashion conscious 	
+ES2003d.B.dialog-act.vkaraisk.266	Maybe it's been targeted 	
+ES2003d.D.dialog-act.vkaraisk.76	women would be going , oh look at that , 	
+ES2003d.D.dialog-act.vkaraisk.77	's cool , 	
+ES2003d.D.dialog-act.vkaraisk.78	it looks like a 	
+ES2003d.C.dialog-act.vkaraisk.298	Mm-hmm . 	
+ES2003d.D.dialog-act.vkaraisk.79	it's 	
+ES2003d.D.dialog-act.vkaraisk.80	yellow , 	
+ES2003d.D.dialog-act.vkaraisk.81	looks like a banana , 	
+ES2003d.D.dialog-act.vkaraisk.82	it's cool 	
+ES2003d.D.dialog-act.vkaraisk.83	it's gotta look good in the sitting room . 	
+ES2003d.B.dialog-act.vkaraisk.267	Hide it in the fruit basket . 	
+ES2003d.D.dialog-act.vkaraisk.84	Rather than the L_C_D_ 	
+ES2003d.D.dialog-act.vkaraisk.85	whereas uh more technical like like more uh people in with the latest technology it's good , 	
+ES2003d.D.dialog-act.vkaraisk.86	it's got an L_C_D_ screen 	
+ES2003d.D.dialog-act.vkaraisk.87	's only got two buttons and a joystick . 	
+ES2003d.D.dialog-act.vkaraisk.88	So , 	
+ES2003d.D.dialog-act.vkaraisk.89	which which kind of people would be more likely to buy it ? 	
+ES2003d.B.dialog-act.vkaraisk.268	Probably the people technologically . 	
+ES2003d.B.dialog-act.vkaraisk.269	They're usually the ones that buy pointless stuff . 	
+ES2003d.A.dialog-act.vkaraisk.137		
+ES2003d.D.dialog-act.vkaraisk.90		
+ES2003d.C.dialog-act.vkaraisk.299	I think so . 	
+ES2003d.C.dialog-act.vkaraisk.300	I mean my mum still has not learnt how to use text messaging on her phone , 	
+ES2003d.C.dialog-act.vkaraisk.301	and she's had it for a long time , 	
+ES2003d.C.dialog-act.vkaraisk.302	you know . 	
+ES2003d.C.dialog-act.vkaraisk.303	She uses it to make phone calls and that's it . 	
+ES2003d.D.dialog-act.vkaraisk.91	. 	
+ES2003d.C.dialog-act.vkaraisk.304	Yeah . So 	
+ES2003d.C.dialog-act.vkaraisk.305	I think if sh if my mum saw a remote control like this with only two buttons and a joystick , I mean that'll probably be the first one she decides not to buy , 	
+ES2003d.C.dialog-act.vkaraisk.306	you know . 	
+ES2003d.B.dialog-act.vkaraisk.270	Mm-hmm . 	
+ES2003d.C.dialog-act.vkaraisk.307	She'd be like is this a remote control , 	
+ES2003d.C.dialog-act.vkaraisk.308	I don't 	
+ES2003d.C.dialog-act.vkaraisk.309	how do you use it , and stuff like that . 	
+ES2003d.C.dialog-act.vkaraisk.310	So even if it is really user friendly to us , but we're used to using menus all the time . 	
+ES2003d.A.dialog-act.vkaraisk.138	Mm-hmm . I s I suppose one thing is that b because it's technically innovative , 	
+ES2003d.A.dialog-act.vkaraisk.139	um for someone who's sort of technophobic , the fact that it simply looks unfamiliar would be daunting . 	
+ES2003d.C.dialog-act.vkaraisk.311	Yeah . Yeah . 	
+ES2003d.C.dialog-act.vkaraisk.312	I think it's totally uh radical to have a remote control with no no numbered buttons , 	
+ES2003d.A.dialog-act.vkaraisk.140	Um . 	
+ES2003d.D.dialog-act.vkaraisk.92	Yeah . 	
+ES2003d.C.dialog-act.vkaraisk.313	yeah . 	
+ES2003d.D.dialog-act.vkaraisk.93	Yeah . 	
+ES2003d.C.dialog-act.vkaraisk.314	But like radical good , maybe . 	
+ES2003d.B.dialog-act.vkaraisk.271	Okay . Um 	
+ES2003d.B.dialog-act.vkaraisk.272	don't know how lo much longer we've got . 	
+ES2003d.B.dialog-act.vkaraisk.273	At least five minutes I think . 	
+ES2003d.B.dialog-act.vkaraisk.274	Um quickly we'll pop onto project evaluation . Um . 	
+ES2003d.B.dialog-act.vkaraisk.275	So , 	
+ES2003d.B.dialog-act.vkaraisk.276	we've got these uh four criteria here for uh satisfaction . 	
+ES2003d.B.dialog-act.vkaraisk.277	Does anybody want to um um do you have any opinions on any of them ? 	
+ES2003d.B.dialog-act.vkaraisk.278	For example um we'll work backwards I suppose . 	
+ES2003d.B.dialog-act.vkaraisk.279	The ability to work on this project using the technology we've been presented with . 	
+ES2003d.B.dialog-act.vkaraisk.280	Um people made good use of the uh pen and paper ? 	
+ES2003d.B.dialog-act.vkaraisk.281	I would say 	
+ES2003d.C.dialog-act.vkaraisk.315	Wrote nearly a page , 	
+ES2003d.A.dialog-act.vkaraisk.141	Yeah , 	
+ES2003d.A.dialog-act.vkaraisk.142	got notes and doodles . 	
+ES2003d.D.dialog-act.vkaraisk.94	Yeah . 	
+ES2003d.C.dialog-act.vkaraisk.316	but not . 	
+ES2003d.B.dialog-act.vkaraisk.282	I'm not quite sure what the advantage for us using a digital pen might be . 	
+ES2003d.C.dialog-act.vkaraisk.317	I think tracking . 	
+ES2003d.A.dialog-act.vkaraisk.143	Well 	
+ES2003d.A.dialog-act.vkaraisk.144	I think this is a I think the digital pen's mostly for the benefit of the uh 	
+ES2003d.A.dialog-act.vkaraisk.145	of the researchers studying this . 	
+ES2003d.A.dialog-act.vkaraisk.146	It's all p goes into their corpus . 	
+ES2003d.A.dialog-act.vkaraisk.147	Though it would have been nice to be able to transfer the um 	
+ES2003d.B.dialog-act.vkaraisk.283	It must 	
+ES2003d.A.dialog-act.vkaraisk.148	transfer our n our paper notes onto the uh computer ourselves . 	
+ES2003d.C.dialog-act.vkaraisk.318	Yeah , that woulda been pretty good . 	
+ES2003d.B.dialog-act.vkaraisk.284	It does seem like the paper's still a heavy consideration for taking notes . 	
+ES2003d.B.dialog-act.vkaraisk.285	So maybe this is literally just a way around it . 	
+ES2003d.B.dialog-act.vkaraisk.286	Um I dunno . 	
+ES2003d.B.dialog-act.vkaraisk.287	How are people satisfied with the teamwork we've managed to display today ? 	
+ES2003d.D.dialog-act.vkaraisk.95	Good . 	
+ES2003d.A.dialog-act.vkaraisk.149	. 	
+ES2003d.C.dialog-act.vkaraisk.319	I'd 	
+ES2003d.C.dialog-act.vkaraisk.320	yeah I liked it , 	
+ES2003d.C.dialog-act.vkaraisk.321	yeah . 	
+ES2003d.B.dialog-act.vkaraisk.288	Leadership . As much as can be leadered in this uh thing . 	
+ES2003d.D.dialog-act.vkaraisk.96	Very good . 	
+ES2003d.C.dialog-act.vkaraisk.322	I li 	
+ES2003d.C.dialog-act.vkaraisk.323	yeah , 	
+ES2003d.C.dialog-act.vkaraisk.324	top marks . 	
+ES2003d.B.dialog-act.vkaraisk.289	Um last one we've got is room for creativity . 	
+ES2003d.C.dialog-act.vkaraisk.325	Well 	
+ES2003d.B.dialog-act.vkaraisk.290	Now , 	
+ES2003d.A.dialog-act.vkaraisk.150	Unti uh uh until uh until accounts came along , 	
+ES2003d.B.dialog-act.vkaraisk.291	I think we got 	
+ES2003d.A.dialog-act.vkaraisk.151	squish . 	
+ES2003d.D.dialog-act.vkaraisk.97	We're burs bursting with creativity . 	
+ES2003d.C.dialog-act.vkaraisk.326	yeah . 	
+ES2003d.B.dialog-act.vkaraisk.292	Yeah 	
+ES2003d.C.dialog-act.vkaraisk.327	We we're not lacking in ideas , 	
+ES2003d.C.dialog-act.vkaraisk.328	you know 	
+ES2003d.C.dialog-act.vkaraisk.329	it's 	
+ES2003d.C.dialog-act.vkaraisk.330	that was not the problem . 	
+ES2003d.B.dialog-act.vkaraisk.293	I think of in the end , ideas that can be used sadly . 	
+ES2003d.B.dialog-act.vkaraisk.294	Not so much that we weren't full of ideas , but of ones that are gonna allow us to actually build the thing . 	
+ES2003d.C.dialog-act.vkaraisk.331	Mm-hmm . 	
+ES2003d.B.dialog-act.vkaraisk.295	It's a bit of a pity . 	
+ES2003d.B.dialog-act.vkaraisk.296	Um I would have to agree on that . 	
+ES2003d.B.dialog-act.vkaraisk.297	I think we needed a larger budget . 	
+ES2003d.C.dialog-act.vkaraisk.332	Yeah . 	
+ES2003d.B.dialog-act.vkaraisk.298	If you're going to aim your a um product maybe at the technological kind of sector , then you can afford to maybe jack the price up slightly from what it is . 	
+ES2003d.B.dialog-act.vkaraisk.299	Because they will pay outrageous cash to 	
+ES2003d.A.dialog-act.vkaraisk.152	Yeah . 	
+ES2003d.A.dialog-act.vkaraisk.153	Mm . I mean I th I mean I think to r retaining the s the more sort of bio-morphic form in the articulation would gain more in s uh would gain more profit in sales than it would lose in uh 	
+ES2003d.B.dialog-act.vkaraisk.301	first on the market . 	
+ES2003d.A.dialog-act.vkaraisk.154	in added expense . 	
+ES2003d.B.dialog-act.vkaraisk.302	Mm . 	
+ES2003d.D.dialog-act.vkaraisk.98	And the price was like it was twice the w assembly cost . 	
+ES2003d.D.dialog-act.vkaraisk.99	And would it have to be twice that ? 	
+ES2003d.D.dialog-act.vkaraisk.100	It could be like coulda had the assembly like maybe fifteen Euro . 	
+ES2003d.B.dialog-act.vkaraisk.303	It could even 	
+ES2003d.D.dialog-act.vkaraisk.101	We'll still settle for twenty five . 	
+ES2003d.B.dialog-act.vkaraisk.304	That's true , yeah . 	
+ES2003d.D.dialog-act.vkaraisk.102	Maybe . 	
+ES2003d.B.dialog-act.vkaraisk.305	Um I suppose these are all that will have to be taken up with a at a different group at I guess . As to a the costs involved . 	
+ES2003d.B.dialog-act.vkaraisk.306	But I mean we've got a a prototype . 	
+ES2003d.A.dialog-act.vkaraisk.155	Such as it is . 	
+ES2003d.B.dialog-act.vkaraisk.307	So 	
+ES2003d.B.dialog-act.vkaraisk.308	I dunno , 	
+ES2003d.B.dialog-act.vkaraisk.309	I I think it's gone okay today , considering the information that we've had at our disposal , and um such . 	
+ES2003d.C.dialog-act.vkaraisk.333	Maybe the counts wou woulda been better if we had a list or more Yeah , to begin with . 	
+ES2003d.D.dialog-act.vkaraisk.103	In the beginning , yeah . 	
+ES2003d.C.dialog-act.vkaraisk.334	Yeah . 	
+ES2003d.B.dialog-act.vkaraisk.311	Probably would have 	
+ES2003d.B.dialog-act.vkaraisk.312	mean we could have come up with a lot more solid design in the end , 	
+ES2003d.C.dialog-act.vkaraisk.335	Yeah . 	
+ES2003d.B.dialog-act.vkaraisk.313	I would have to agree . 	
+ES2003d.B.dialog-act.vkaraisk.314	It is very much a pity to um get so far into the stage and then find out that maybe some of your ideas are just a bit too expensive . 	
+ES2003d.B.dialog-act.vkaraisk.315	Always hard to tell until you know the costs . Um . 	
+ES2003d.B.dialog-act.vkaraisk.316	Okay . 	
+ES2003d.B.dialog-act.vkaraisk.317	Are the costs within budget ? 	
+ES2003d.D.dialog-act.vkaraisk.104		
+ES2003d.B.dialog-act.vkaraisk.318	Well , 	
+ES2003d.B.dialog-act.vkaraisk.319	they are now 	
+ES2003d.B.dialog-act.vkaraisk.320	that we have our slightly less than capable product . 	
+ES2003d.C.dialog-act.vkaraisk.336	Okay . 	
+ES2003d.B.dialog-act.vkaraisk.321	We've evaluated it , 	
+ES2003d.B.dialog-act.vkaraisk.322	and we can say that we came out with a value of three . 	
+ES2003d.C.dialog-act.vkaraisk.337	Yeah . 	
+ES2003d.A.dialog-act.vkaraisk.156	Actually I want th 	
+ES2003d.B.dialog-act.vkaraisk.323		
+ES2003d.A.dialog-act.vkaraisk.157	one thing I would say 	
+ES2003d.A.dialog-act.vkaraisk.158	I mean something that could perhaps be part of the product mm the um m product testing market research process would be to uh produce mock-ups of both versions 	
+ES2003d.A.dialog-act.vkaraisk.159	and see just how much of a difference the over going over-budget 	
+ES2003d.A.dialog-act.vkaraisk.160	um m would make to sales . 	
+ES2003d.B.dialog-act.vkaraisk.324	It's 	
+ES2003d.B.dialog-act.vkaraisk.325	yeah ? 	
+ES2003d.C.dialog-act.vkaraisk.338	And like response from consumers . 	
+ES2003d.A.dialog-act.vkaraisk.161	And we could even you know , market two versions . 	
+ES2003d.B.dialog-act.vkaraisk.326		
+ES2003d.C.dialog-act.vkaraisk.339		
+ES2003d.A.dialog-act.vkaraisk.162	Wee cheapie version with the nice bio-morphic rubber . 	
+ES2003d.B.dialog-act.vkaraisk.327	And then the final one where you get to call it Hal . 	
+ES2003d.C.dialog-act.vkaraisk.340	Sure . 	
+ES2003d.B.dialog-act.vkaraisk.328	But we'll go into that later . 	
+ES2003d.A.dialog-act.vkaraisk.163	Yes . 	
+ES2003d.C.dialog-act.vkaraisk.341		
+ES2003d.B.dialog-act.vkaraisk.329	Right um 	
+ES2003d.B.dialog-act.vkaraisk.330	is there anything else that anybody would like to to add , um 	
+ES2003d.B.dialog-act.vkaraisk.331	anything they think that's not been covered , 	
+ES2003d.B.dialog-act.vkaraisk.332	before I quickly write up a final report . 	
+ES2003d.B.dialog-act.vkaraisk.333	Um I dunno , 	
+ES2003d.B.dialog-act.vkaraisk.334	I mean we've got a product . 	
+ES2003d.B.dialog-act.vkaraisk.335	We maybe aren't as happy with it as we'd like to be , 	
+ES2003d.B.dialog-act.vkaraisk.336	but we've got something 	
+ES2003d.B.dialog-act.vkaraisk.337	we think we can maybe stick onto the the market and sell . 	
+ES2003d.B.dialog-act.vkaraisk.338	And of course something we have been avoiding talking about 'cause of we've no information is selling them directly to the manufacturers . 	
+ES2003d.C.dialog-act.vkaraisk.342	Yeah . 	
+ES2003d.B.dialog-act.vkaraisk.339	There is a huge market . 	
+ES2003d.B.dialog-act.vkaraisk.340	I mean we've briefly touched on it 	
+ES2003d.B.dialog-act.vkaraisk.341	but we've no more knowledge 	
+ES2003d.B.dialog-act.vkaraisk.342	then there's little we can say on that . 	
+ES2003d.C.dialog-act.vkaraisk.343	Yeah . 	
+ES2003d.A.dialog-act.vkaraisk.164	Mm . 	
+ES2003d.B.dialog-act.vkaraisk.343	Yeah . So um 	
+ES2003d.B.dialog-act.vkaraisk.344	unless anybody's got anything they'd like to add , we can maybe round this up slightly earlier than we'd need to 	
+ES2003d.B.dialog-act.vkaraisk.345	and then we can finish up the writing and such . 	
+ES2003d.A.dialog-act.vkaraisk.165	And I can get my bus . 	
+ES2003d.B.dialog-act.vkaraisk.346	Yeah ? 	
+ES2003d.A.dialog-act.vkaraisk.166	Okay . 	
+ES2003d.C.dialog-act.vkaraisk.344	Yeah . Okay , let's 	
+ES2003d.B.dialog-act.vkaraisk.347	Uh thank you for your participation . 	
+ES2003d.C.dialog-act.vkaraisk.345	Thank you . 	
+ES2003d.A.dialog-act.vkaraisk.167	Thank you . 	
+ES2003d.C.dialog-act.vkaraisk.346	I was actually kind of upset you know at the budget , and that we had to cut a lot of stuff . 	
+ES2003d.C.dialog-act.vkaraisk.347	It's like man , we we can't have the locator thing . 	
+ES2003d.C.dialog-act.vkaraisk.348	And s 	
+ES2003d.C.dialog-act.vkaraisk.349	yeah that's just bad . 	
+ES2003d.C.dialog-act.vkaraisk.350	Do you think maybe the prices were were made ? 	
+ES2003d.B.dialog-act.vkaraisk.348	That a question we can ask . 	
+

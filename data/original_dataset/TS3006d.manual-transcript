@@ -1,0 +1,1775 @@
+Observation: TS3006d; Result size: 1772; atts: 2
+$d@nite:id	$d	
+TS3006d.A.dialog-act.dharshi.1	Okay . Uh first of all I'll start with the costs , 	
+TS3006d.D.dialog-act.dharshi.1	. 	
+TS3006d.B.dialog-act.dharshi.1		
+TS3006d.A.dialog-act.dharshi.2	because that's going to influence our design . 	
+TS3006d.B.dialog-act.dharshi.2	Oh no . 	
+TS3006d.D.dialog-act.dharshi.2	Oh , . 	
+TS3006d.A.dialog-act.dharshi.3	If you 	
+TS3006d.A.dialog-act.dharshi.4	Don't know if you al already had a look or not ? 	
+TS3006d.C.dialog-act.dharshi.1	Did you do your questionnaire already ? 	
+TS3006d.B.dialog-act.dharshi.3	No n I I already did it . 	
+TS3006d.D.dialog-act.dharshi.3	No . 	
+TS3006d.B.dialog-act.dharshi.4	It's not much . 	
+TS3006d.B.dialog-act.dharshi.5	It's just one question . 	
+TS3006d.A.dialog-act.dharshi.5	Because we have a problem . 	
+TS3006d.C.dialog-act.dharshi.2	Uh 	
+TS3006d.D.dialog-act.dharshi.4	Oh . 	
+TS3006d.D.dialog-act.dharshi.5		
+TS3006d.A.dialog-act.dharshi.6	If you look closely , you can see . 	
+TS3006d.B.dialog-act.dharshi.6	Yeah . 	
+TS3006d.C.dialog-act.dharshi.3	It wants 	
+TS3006d.A.dialog-act.dharshi.9	Um I already took the liberty to make some suggestions . 	
+TS3006d.A.dialog-act.dharshi.8	. 	
+TS3006d.A.dialog-act.dharshi.7	. 	
+TS3006d.A.dialog-act.dharshi.10	At the moment we have fifteen buttons , one L_C_D_ screen , one advanced chip-on-print . 	
+TS3006d.A.dialog-act.dharshi.11	We use a uh sensor , that's for the speech . 	
+TS3006d.A.dialog-act.dharshi.12	Uh we use kinetic energy . 	
+TS3006d.A.dialog-act.dharshi.13	And we wanted uh the buttons in a special colour . 	
+TS3006d.A.dialog-act.dharshi.14	Okay . What's the first thing we should drop ? 	
+TS3006d.A.dialog-act.dharshi.15	The special colour of the buttons ? 	
+TS3006d.B.dialog-act.dharshi.7	No that's that's for the trendy uh feel and look . So 	
+TS3006d.A.dialog-act.dharshi.16	Okay . 	
+TS3006d.C.dialog-act.dharshi.4	Yeah but everything is . 	
+TS3006d.A.dialog-act.dharshi.17	Uh 	
+TS3006d.A.dialog-act.dharshi.18	Should we switch to a hand dynamo ? 	
+TS3006d.B.dialog-act.dharshi.8		
+TS3006d.A.dialog-act.dharshi.19	Uh that's the still the same idea as the kinetic energy because you have to use it and do things . 	
+TS3006d.D.dialog-act.dharshi.6	No . 	
+TS3006d.B.dialog-act.dharshi.9	Yeah , b but 	
+TS3006d.D.dialog-act.dharshi.7	Yeah but young people like that . 	
+TS3006d.D.dialog-act.dharshi.8	So just do normal battery . 	
+TS3006d.A.dialog-act.dharshi.20	Batteries ? 	
+TS3006d.A.dialog-act.dharshi.21	Batteries . 	
+TS3006d.B.dialog-act.dharshi.10	I think the battery option . 	
+TS3006d.C.dialog-act.dharshi.5	Just a normal battery then , yeah . 	
+TS3006d.D.dialog-act.dharshi.9	Yeah . 	
+TS3006d.A.dialog-act.dharshi.22	. 	
+TS3006d.D.dialog-act.dharshi.10	It has to be twelve and a half . 	
+TS3006d.A.dialog-act.dharshi.23	Yeah . 	
+TS3006d.D.dialog-act.dharshi.11	Or not ? 	
+TS3006d.B.dialog-act.dharshi.11	Oh . 	
+TS3006d.C.dialog-act.dharshi.6	Oh my goodness . 	
+TS3006d.A.dialog-act.dharshi.24	So 	
+TS3006d.A.dialog-act.dharshi.25	You're going to redesign something . 	
+TS3006d.D.dialog-act.dharshi.12		
+TS3006d.B.dialog-act.dharshi.12	Oh no . 	
+TS3006d.A.dialog-act.dharshi.26	Okay , so we're at twenty five . 	
+TS3006d.D.dialog-act.dharshi.13	Uh , yeah . 	
+TS3006d.A.dialog-act.dharshi.27	Um 	
+TS3006d.A.dialog-act.dharshi.29	Do we keep the shape doubly curved or g do we go for single curved ? 	
+TS3006d.C.dialog-act.dharshi.7	Well I guess i we'll have to go for single curve then . 	
+TS3006d.C.dialog-act.dharshi.8	I mean we have to drop on everything . 	
+TS3006d.A.dialog-act.dharshi.28	Mm-hmm . 	
+TS3006d.D.dialog-act.dharshi.14	But we can keep it single curved with uh top view still curved , but from the side it's it's flat , 	
+TS3006d.A.dialog-act.dharshi.30	Uh 	
+TS3006d.D.dialog-act.dharshi.15	and the screen screen is just 	
+TS3006d.C.dialog-act.dharshi.9	Yeah . 	
+TS3006d.D.dialog-act.dharshi.16	Well you just have to hold it like this then . So 	
+TS3006d.A.dialog-act.dharshi.31	Yeah . 	
+TS3006d.C.dialog-act.dharshi.10	How about 	
+TS3006d.A.dialog-act.dharshi.32	Um 	
+TS3006d.C.dialog-act.dharshi.11	Sorry . 	
+TS3006d.A.dialog-act.dharshi.33	Uh another option I saw was to drop the buttons one through nine , so you can't directly access a channel , but instead use only the up and down arrows . 	
+TS3006d.C.dialog-act.dharshi.12	That's what I was thinking . 	
+TS3006d.A.dialog-act.dharshi.34	That would skip nine buttons and four and a half Euros . 	
+TS3006d.B.dialog-act.dharshi.13	Yeah . 	
+TS3006d.D.dialog-act.dharshi.17	Alright . 	
+TS3006d.A.dialog-act.dharshi.35	Yeah ? 	
+TS3006d.D.dialog-act.dharshi.18	Let's do it then . Yeah . 	
+TS3006d.C.dialog-act.dharshi.13	A a 	
+TS3006d.A.dialog-act.dharshi.36	Uh then we have left 	
+TS3006d.D.dialog-act.dharshi.19	we 	
+TS3006d.B.dialog-act.dharshi.14	But we don't have any basic options any more . 	
+TS3006d.D.dialog-act.dharshi.20		
+TS3006d.A.dialog-act.dharshi.37	Uh yeah . We do . 	
+TS3006d.C.dialog-act.dharshi.14	And uh 'cause then they don't have to n They don't need special colour as well . 	
+TS3006d.D.dialog-act.dharshi.21	F_ eight . 	
+TS3006d.A.dialog-act.dharshi.38	They don't need special colours . 	
+TS3006d.A.dialog-act.dharshi.39	Fine . That's more like it . 	
+TS3006d.D.dialog-act.dharshi.22	Yeah . 	
+TS3006d.B.dialog-act.dharshi.15		
+TS3006d.A.dialog-act.dharshi.40	You were saying something . 	
+TS3006d.C.dialog-act.dharshi.15	That was exactly my point . Like let's drop all the buttons , and just make one 	
+TS3006d.A.dialog-act.dharshi.41	Yeah . 	
+TS3006d.C.dialog-act.dharshi.16	I mean we're gonna use the L_C_D_ screen anyway . So we'll just have to use it for everything . 	
+TS3006d.A.dialog-act.dharshi.42	Mm-hmm . 	
+TS3006d.A.dialog-act.dharshi.43	Yeah . 	
+TS3006d.C.dialog-act.dharshi.17	And then you can make an overview of channels in the screen , and select a channel , click 	
+TS3006d.A.dialog-act.dharshi.44	Yeah , some more menu options . Yeah . 	
+TS3006d.C.dialog-act.dharshi.18		
+TS3006d.A.dialog-act.dharshi.45	Okay so maybe we can drop few more buttons . 	
+TS3006d.A.dialog-act.dharshi.46	But um 	
+TS3006d.A.dialog-act.dharshi.47	Now let's look . 	
+TS3006d.B.dialog-act.dharshi.16	Yeah we c could 	
+TS3006d.B.dialog-act.dharshi.17	We only need the the the the the menu arrow arrow button uh thing . 	
+TS3006d.C.dialog-act.dharshi.19		
+TS3006d.B.dialog-act.dharshi.18	Everything you can do with with the menu . So With the display . 	
+TS3006d.A.dialog-act.dharshi.48	Mm-hmm . 	
+TS3006d.C.dialog-act.dharshi.20	Yeah 	
+TS3006d.C.dialog-act.dharshi.21	we need one integrated button for everything then . 	
+TS3006d.B.dialog-act.dharshi.19	Yeah . 	
+TS3006d.D.dialog-act.dharshi.23	The joystick . 	
+TS3006d.A.dialog-act.dharshi.49	Uh 	
+TS3006d.C.dialog-act.dharshi.22	Yeah . Kind of . 	
+TS3006d.C.dialog-act.dharshi.23	I was Because 	
+TS3006d.D.dialog-act.dharshi.24		
+TS3006d.C.dialog-act.dharshi.24	Yeah . 	
+TS3006d.A.dialog-act.dharshi.50	Yeah , scroll-wheel , push-button uh 	
+TS3006d.D.dialog-act.dharshi.25	Integrated scroll-wheel push-button , yeah . 	
+TS3006d.C.dialog-act.dharshi.25	If you if you go to 	
+TS3006d.C.dialog-act.dharshi.26	If you go to our uh view , 	
+TS3006d.C.dialog-act.dharshi.27	like you if you are in the sound system there , uh and you wanna adjust the treble for instance , 	
+TS3006d.A.dialog-act.dharshi.55	Yeah . 	
+TS3006d.A.dialog-act.dharshi.54	Yeah . 	
+TS3006d.C.dialog-act.dharshi.28	this is just uh an example , 	
+TS3006d.A.dialog-act.dharshi.53	Mm-hmm . 	
+TS3006d.C.dialog-act.dharshi.29	y y you wanna see a bar on which you can adjust it from zero to ten for example . 	
+TS3006d.A.dialog-act.dharshi.52	Mm-hmm . 	
+TS3006d.A.dialog-act.dharshi.51	Mm-hmm . 	
+TS3006d.C.dialog-act.dharshi.30	But you want a sound preview of how it's gonna sound , 	
+TS3006d.C.dialog-act.dharshi.31	right ? 	
+TS3006d.C.dialog-act.dharshi.32	So you wanna click on it , activate it , whe and when you move it , hear the difference of the treble coming out or going into the sound . 	
+TS3006d.A.dialog-act.dharshi.56	Yeah . 	
+TS3006d.A.dialog-act.dharshi.57	Yeah . 	
+TS3006d.C.dialog-act.dharshi.33	So you'll you'll need a a kind of a joystick uh button . 	
+TS3006d.D.dialog-act.dharshi.26	Yeah 	
+TS3006d.D.dialog-act.dharshi.27	or or the integrated scroll-wheel push-button . 	
+TS3006d.C.dialog-act.dharshi.34	Yeah . 	
+TS3006d.D.dialog-act.dharshi.28	So that's kind of on your mouse 	
+TS3006d.D.dialog-act.dharshi.29	and then you can click it , adjust it , click again and then you're out of it . 	
+TS3006d.D.dialog-act.dharshi.30	But you still 	
+TS3006d.C.dialog-act.dharshi.35	Exactly . 	
+TS3006d.D.dialog-act.dharshi.31	But you then still need to have 	
+TS3006d.D.dialog-act.dharshi.32	Well you can use the scroll-wheel as well for um maybe for the channels . 	
+TS3006d.D.dialog-act.dharshi.33	But you still um 	
+TS3006d.C.dialog-act.dharshi.36	Yeah it's r Yeah . 	
+TS3006d.D.dialog-act.dharshi.34	You still have to have some some button in the menu to go back . 	
+TS3006d.B.dialog-act.dharshi.20	So you do one inte 	
+TS3006d.B.dialog-act.dharshi.21	You can do one integrated scroll-wheel push-button . 	
+TS3006d.D.dialog-act.dharshi.35	Yeah . 	
+TS3006d.B.dialog-act.dharshi.22	And then just drop all the other buttons . 	
+TS3006d.A.dialog-act.dharshi.58	Uh yeah . 	
+TS3006d.D.dialog-act.dharshi.36	Well not all . 	
+TS3006d.D.dialog-act.dharshi.37	Not s not sound I guess . 	
+TS3006d.B.dialog-act.dharshi.23	But but th the cost of one integrated button is far more than a few extra push-buttons . 	
+TS3006d.C.dialog-act.dharshi.37	No . 	
+TS3006d.A.dialog-act.dharshi.59	Yeah . 	
+TS3006d.A.dialog-act.dharshi.60	It's uh 	
+TS3006d.A.dialog-act.dharshi.61	One integrated button is five times the cost of a normal button . 	
+TS3006d.D.dialog-act.dharshi.38		
+TS3006d.B.dialog-act.dharshi.24	Yeah . 	
+TS3006d.D.dialog-act.dharshi.39	Mm . 	
+TS3006d.B.dialog-act.dharshi.25	So we have to to make it s uh more uh It has to be 	
+TS3006d.A.dialog-act.dharshi.62	So 	
+TS3006d.A.dialog-act.dharshi.63	You could also drop j three more of these , without losing much functionality . 	
+TS3006d.D.dialog-act.dharshi.40	Yeah . 	
+TS3006d.A.dialog-act.dharshi.64	You just drop the Okay and the Back . 	
+TS3006d.D.dialog-act.dharshi.41	Wh wh what what what is the 	
+TS3006d.D.dialog-act.dharshi.42	what is the uh sample sensor sample speaker ? 	
+TS3006d.A.dialog-act.dharshi.65	Oh , that's for the speech . 	
+TS3006d.D.dialog-act.dharshi.43	Speech recognition . 	
+TS3006d.A.dialog-act.dharshi.66	Yeah . 	
+TS3006d.B.dialog-act.dharshi.26	Could drop the speech recognition . 	
+TS3006d.D.dialog-act.dharshi.44	Right . 	
+TS3006d.A.dialog-act.dharshi.67	S s Drop speech recognition ? 	
+TS3006d.C.dialog-act.dharshi.38		
+TS3006d.C.dialog-act.dharshi.39	No but 	
+TS3006d.A.dialog-act.dharshi.68	Yeah that's possible . 	
+TS3006d.B.dialog-act.dharshi.27	We we d 	
+TS3006d.C.dialog-act.dharshi.40	Yeah it's it's expensive , but uh we never considered the possibilities of uh speech recognition . 	
+TS3006d.C.dialog-act.dharshi.41	'Cause it can take the function of a lot of uh uh buttons . 	
+TS3006d.A.dialog-act.dharshi.69	Buttons . 	
+TS3006d.D.dialog-act.dharshi.45	Buttons . 	
+TS3006d.A.dialog-act.dharshi.70	That's not very easy to use . 	
+TS3006d.B.dialog-act.dharshi.28	Yeah . 	
+TS3006d.C.dialog-act.dharshi.42	I 	
+TS3006d.D.dialog-act.dharshi.46	No , it can be disturbed by by noise and 	
+TS3006d.C.dialog-act.dharshi.43	No . 	
+TS3006d.C.dialog-act.dharshi.44	Yeah but lets just say that the speech recognition works . 	
+TS3006d.D.dialog-act.dharshi.47	stuff like that . 	
+TS3006d.A.dialog-act.dharshi.71		
+TS3006d.D.dialog-act.dharshi.48	Let let let me see what's more what's more popular . 	
+TS3006d.D.dialog-act.dharshi.49	I guess the the screen was more popular than um than the speech recognition . 	
+TS3006d.B.dialog-act.dharshi.29	Yeah . 	
+TS3006d.D.dialog-act.dharshi.50	I have to look on that . Let me see . 	
+TS3006d.D.dialog-act.dharshi.51		
+TS3006d.D.dialog-act.dharshi.52	Uh well no I was wrong . 	
+TS3006d.A.dialog-act.dharshi.72		
+TS3006d.D.dialog-act.dharshi.53	There are more people who like speech recognition than an L_C_D_ screen . 	
+TS3006d.A.dialog-act.dharshi.73	Yep . 	
+TS3006d.A.dialog-act.dharshi.74	Okay . 	
+TS3006d.A.dialog-act.dharshi.75	Because if you d lose the L_C_D_ screen , we need a lot of 	
+TS3006d.D.dialog-act.dharshi.54	But if it 	
+TS3006d.D.dialog-act.dharshi.56	But it it it's a it's a both a hypers 	
+TS3006d.B.dialog-act.dharshi.30	We lose our whole concept . 	
+TS3006d.B.dialog-act.dharshi.31	Uh so No we just 	
+TS3006d.A.dialog-act.dharshi.76	Yeah . 	
+TS3006d.A.dialog-act.dharshi.77	We need a lot of extra buttons . 	
+TS3006d.D.dialog-act.dharshi.57	No , but 	
+TS3006d.B.dialog-act.dharshi.32	We keep the L_C_D_ . 	
+TS3006d.D.dialog-act.dharshi.58	Well we Yeah we keep the screen . 	
+TS3006d.D.dialog-act.dharshi.59	I mean it's it's about the same . Eight one to ninety one percent , uh sixty six to seventy six . 	
+TS3006d.C.dialog-act.dharshi.45	We uh we we haven't really integrated this the speech into the system , 	
+TS3006d.A.dialog-act.dharshi.78	Okay 	
+TS3006d.A.dialog-act.dharshi.79	so we drop the speech . 	
+TS3006d.C.dialog-act.dharshi.46	so we can might as well s drop that . 	
+TS3006d.A.dialog-act.dharshi.80	And drop it yeah ? 	
+TS3006d.D.dialog-act.dharshi.60	Yeah . Let's drop the speech . 	
+TS3006d.B.dialog-act.dharshi.34	Yeah . 	
+TS3006d.A.dialog-act.dharshi.81	Okay . 	
+TS3006d.A.dialog-act.dharshi.82	S Fo Four less Euros . 	
+TS3006d.D.dialog-act.dharshi.61	Sixteen Euros . 	
+TS3006d.A.dialog-act.dharshi.83	So we still have three and a half Euro to lose . 	
+TS3006d.B.dialog-act.dharshi.33		
+TS3006d.C.dialog-act.dharshi.47	We need to lose some buttons . 	
+TS3006d.D.dialog-act.dharshi.62	But y y 	
+TS3006d.A.dialog-act.dharshi.84	Yeah 	
+TS3006d.A.dialog-act.dharshi.85	if you lose the the Back , the Okay button Uh v let's say we only have the four arrows , and the Menu button . 	
+TS3006d.D.dialog-act.dharshi.63	Yeah . 	
+TS3006d.D.dialog-act.dharshi.64	Yeah . 	
+TS3006d.A.dialog-act.dharshi.86	Then you're 	
+TS3006d.D.dialog-act.dharshi.65	And then and then use um 	
+TS3006d.A.dialog-act.dharshi.87	Oh and the power button we have also . 	
+TS3006d.D.dialog-act.dharshi.66	The the 	
+TS3006d.D.dialog-act.dharshi.68	Okay . 	
+TS3006d.D.dialog-act.dharshi.69	And the menu button does also does the okay function then . 	
+TS3006d.A.dialog-act.dharshi.88	Yeah . 	
+TS3006d.D.dialog-act.dharshi.70	And then when you in the menu 	
+TS3006d.A.dialog-act.dharshi.89	So that's one Euro . 	
+TS3006d.D.dialog-act.dharshi.71	S so so you activate the menu . 	
+TS3006d.B.dialog-act.dharshi.35	If we do uh two integrated scroll-wheel push-buttons , we can drop all the the push-buttons . 	
+TS3006d.A.dialog-act.dharshi.90	Yeah . 	
+TS3006d.A.dialog-act.dharshi.91	Yeah ? 	
+TS3006d.B.dialog-act.dharshi.36	With with one uh integrated button we can uh do the whole menu thing . 	
+TS3006d.A.dialog-act.dharshi.92	And 	
+TS3006d.D.dialog-act.dharshi.72	Yeah yeah . 	
+TS3006d.B.dialog-act.dharshi.37	With the other , we can do the the channel , the volume , et cetera . 	
+TS3006d.D.dialog-act.dharshi.73	Yeah . . 	
+TS3006d.A.dialog-act.dharshi.93	That would save zero point two Euros compared to 	
+TS3006d.A.dialog-act.dharshi.94	No . 	
+TS3006d.B.dialog-act.dharshi.38	No it's three Euros . 	
+TS3006d.B.dialog-act.dharshi.39	No ? Um 	
+TS3006d.A.dialog-act.dharshi.95	Yeah . 	
+TS3006d.B.dialog-act.dharshi.40	No it's it's n Yeah . 	
+TS3006d.A.dialog-act.dharshi.96	To This together is more expensive than Oof , it's almost the same as t keeping this . 	
+TS3006d.B.dialog-act.dharshi.41	Yeah yeah yeah . 	
+TS3006d.D.dialog-act.dharshi.74	Well okay . 	
+TS3006d.A.dialog-act.dharshi.97	And we can drop these two . 	
+TS3006d.D.dialog-act.dharshi.75	For example if you have f f four buttons , channel up and down , uh volume left right 	
+TS3006d.B.dialog-act.dharshi.42	It's the 	
+TS3006d.A.dialog-act.dharshi.98	Volume . 	
+TS3006d.D.dialog-act.dharshi.76	Okay , I've I think we have to keep that . 	
+TS3006d.A.dialog-act.dharshi.99	And the power button . 	
+TS3006d.D.dialog-act.dharshi.77	And then 	
+TS3006d.D.dialog-act.dharshi.78	and the power button . So that's five . 	
+TS3006d.A.dialog-act.dharshi.100	That's the basic . 	
+TS3006d.D.dialog-act.dharshi.79	That's basic . That that's what you need anyway . 	
+TS3006d.D.dialog-act.dharshi.80	And then for the menu , um you can have a button that activates menu . 	
+TS3006d.D.dialog-act.dharshi.81	Or d or do we just integrate an an an scroll-wheel with a push-button . 	
+TS3006d.D.dialog-act.dharshi.82	And then if the moment you use the scroll-wheel , the the the menu gets activated , 	
+TS3006d.D.dialog-act.dharshi.83	and then you can scroll , choose an option , click on it , it goes into an feature . 	
+TS3006d.D.dialog-act.dharshi.84	Click on it again , selects features , scroll , adjust it . 	
+TS3006d.D.dialog-act.dharshi.85	Click again , it's okay . 	
+TS3006d.D.dialog-act.dharshi.86	Then you only need one button to move back . 	
+TS3006d.D.dialog-act.dharshi.87	Or or under each option , you set a you set an a screen thing what says back , and you select that one , click again , and you go one step back . 	
+TS3006d.D.dialog-act.dharshi.88	And in that menu , scroll , click , one step back . 	
+TS3006d.B.dialog-act.dharshi.43		
+TS3006d.D.dialog-act.dharshi.89	So that then you need five buttons , and one integrated scroll-wheel push-button . 	
+TS3006d.A.dialog-act.dharshi.101	Yep . 	
+TS3006d.C.dialog-act.dharshi.48	Which That's even 	
+TS3006d.D.dialog-act.dharshi.90	But we can't drop three buttons . 	
+TS3006d.A.dialog-act.dharshi.102	Okay th that's 	
+TS3006d.D.dialog-act.dharshi.91	But I see that's 	
+TS3006d.A.dialog-act.dharshi.103	Yeah that's one Euro more expensive . 	
+TS3006d.D.dialog-act.dharshi.92	Yeah . 	
+TS3006d.D.dialog-act.dharshi.93	So that's not a good idea . 	
+TS3006d.C.dialog-act.dharshi.49		
+TS3006d.A.dialog-act.dharshi.104	That's not an option . 	
+TS3006d.D.dialog-act.dharshi.94	Because which buttons do we have now ? 	
+TS3006d.D.dialog-act.dharshi.95	Those five which I mentioned , and then menu , and then 	
+TS3006d.A.dialog-act.dharshi.105	Menu , power . 	
+TS3006d.D.dialog-act.dharshi.97	Yeah . 	
+TS3006d.D.dialog-act.dharshi.98	F of the four things ? 	
+TS3006d.A.dialog-act.dharshi.106	Four arrows ? 	
+TS3006d.D.dialog-act.dharshi.99	Yeah , 	
+TS3006d.D.dialog-act.dharshi.100	th power . 	
+TS3006d.A.dialog-act.dharshi.107	Power . 	
+TS3006d.A.dialog-act.dharshi.108	Uh 	
+TS3006d.D.dialog-act.dharshi.101	Which more ? 	
+TS3006d.C.dialog-act.dharshi.50	Yeah , if you if you go to eight 	
+TS3006d.C.dialog-act.dharshi.51	I don't know how to 	
+TS3006d.A.dialog-act.dharshi.109	Yeah . Okay . 	
+TS3006d.A.dialog-act.dharshi.110	So four arrows ? 	
+TS3006d.D.dialog-act.dharshi.102	Yeah . 	
+TS3006d.A.dialog-act.dharshi.111	Uh power I believe ? 	
+TS3006d.D.dialog-act.dharshi.103	Power . 	
+TS3006d.D.dialog-act.dharshi.104	Th Yeah that's five . 	
+TS3006d.A.dialog-act.dharshi.112	Uh 	
+TS3006d.A.dialog-act.dharshi.113	We have a Back and a Okay button . 	
+TS3006d.D.dialog-act.dharshi.108	Yeah , okay that's seven , 	
+TS3006d.A.dialog-act.dharshi.120	And the Menu . 	
+TS3006d.D.dialog-act.dharshi.109	and one to activate the menu , yeah . 	
+TS3006d.D.dialog-act.dharshi.110	So okay that's eight . 	
+TS3006d.D.dialog-act.dharshi.111	Well we can't reduce that . 	
+TS3006d.D.dialog-act.dharshi.112	We we keep the display . 	
+TS3006d.D.dialog-act.dharshi.113	Oh , well okay . 	
+TS3006d.A.dialog-act.dharshi.121	Yeah , and even if we drop three buttons from here , we still have to make some adjustments around here . So 	
+TS3006d.D.dialog-act.dharshi.114	Yeah . 	
+TS3006d.A.dialog-act.dharshi.114		
+TS3006d.C.dialog-act.dharshi.54	Yeah , 	
+TS3006d.C.dialog-act.dharshi.55	we need the chip for the for the L_C_ display . 	
+TS3006d.D.dialog-act.dharshi.105		
+TS3006d.A.dialog-act.dharshi.122	The L_C_D_ ? Yeah . 	
+TS3006d.B.dialog-act.dharshi.48	Let's make the 	
+TS3006d.D.dialog-act.dharshi.115	Yeah well we need the advanced 	
+TS3006d.B.dialog-act.dharshi.49	Let's make the case plastic . 	
+TS3006d.D.dialog-act.dharshi.106	Instead of r 	
+TS3006d.A.dialog-act.dharshi.127	Then I rather make it wood . 	
+TS3006d.A.dialog-act.dharshi.128	Because then also it's good in the market with the forty five plus uh people . 	
+TS3006d.B.dialog-act.dharshi.52	Yeah . 	
+TS3006d.C.dialog-act.dharshi.57	Yeah . 	
+TS3006d.D.dialog-act.dharshi.116	Yeah but but that's not our market . 	
+TS3006d.C.dialog-act.dharshi.58	True . 	
+TS3006d.B.dialog-act.dharshi.44	But 	
+TS3006d.A.dialog-act.dharshi.129	No that maybe not . But maybe it's better than plastic anyway . 	
+TS3006d.D.dialog-act.dharshi.117	Ah no , hard plastic . 	
+TS3006d.C.dialog-act.dharshi.59	Oh . 	
+TS3006d.B.dialog-act.dharshi.53	Plastic with a with a special colour . 	
+TS3006d.B.dialog-act.dharshi.54	A woo wood uh wood uh wood colour . 	
+TS3006d.D.dialog-act.dharshi.118	Yeah , plastic with special colour . 	
+TS3006d.A.dialog-act.dharshi.130	Yeah ? 	
+TS3006d.D.dialog-act.dharshi.119	No but I I 	
+TS3006d.B.dialog-act.dharshi.55	That's an option . 	
+TS3006d.A.dialog-act.dharshi.131	Yeah okay uh 	
+TS3006d.D.dialog-act.dharshi.120	Because we have to use the special colour anyway . 	
+TS3006d.D.dialog-act.dharshi.121	You forgot that . 	
+TS3006d.B.dialog-act.dharshi.56	Yeah . 	
+TS3006d.A.dialog-act.dharshi.132	Yep . Yeah , yeah . 	
+TS3006d.D.dialog-act.dharshi.122	So let's go for the plastic . 	
+TS3006d.B.dialog-act.dharshi.57	So we do one one s 	
+TS3006d.B.dialog-act.dharshi.58	Yeah . 	
+TS3006d.A.dialog-act.dharshi.133	Yeah , okay . Plastic . 	
+TS3006d.D.dialog-act.dharshi.123	And since it's not kinetic , it doesn't have to flip around that much ? 	
+TS3006d.A.dialog-act.dharshi.134	Uh that's easy because plastic is free . 	
+TS3006d.C.dialog-act.dharshi.60	Hmm . 	
+TS3006d.B.dialog-act.dharshi.59	Hmm . 	
+TS3006d.A.dialog-act.dharshi.116		
+TS3006d.D.dialog-act.dharshi.124	We still have problem of two Euros . 	
+TS3006d.A.dialog-act.dharshi.135	Yeah , okay . 	
+TS3006d.A.dialog-act.dharshi.136	Uh if we dropped uh 	
+TS3006d.D.dialog-act.dharshi.107		
+TS3006d.B.dialog-act.dharshi.60	No the buttons , those are really needed . 	
+TS3006d.A.dialog-act.dharshi.137	Yeah ? 	
+TS3006d.D.dialog-act.dharshi.125	Yeah we can't drop them . 	
+TS3006d.B.dialog-act.dharshi.61	Yeah th th it's it's uh 	
+TS3006d.B.dialog-act.dharshi.62	An advanced chip-on-print . 	
+TS3006d.C.dialog-act.dharshi.61	Yeah uh 	
+TS3006d.D.dialog-act.dharshi.126	Do we really need that advanced chip for an L_C_D_ display ? 	
+TS3006d.A.dialog-act.dharshi.138	You still need that . 	
+TS3006d.C.dialog-act.dharshi.63	You uh uh 	
+TS3006d.C.dialog-act.dharshi.62	Yeah . 	
+TS3006d.C.dialog-act.dharshi.64	So the other option would be to go for the the sample speaker , and Which can use a regular chip , wh which is six Euros in total . 	
+TS3006d.A.dialog-act.dharshi.115	S 	
+TS3006d.C.dialog-act.dharshi.65	That doesn't matter . 	
+TS3006d.D.dialog-act.dharshi.127	Oh . I rather keep I rather keep the display . 	
+TS3006d.A.dialog-act.dharshi.139	No , I keep the re 	
+TS3006d.A.dialog-act.dharshi.140	Yeah . Yeah . Because we already designed for it . So 	
+TS3006d.C.dialog-act.dharshi.66	Well yeah . 	
+TS3006d.D.dialog-act.dharshi.128	So the only option is an hand dynamo . 	
+TS3006d.C.dialog-act.dharshi.67	Exactly . 	
+TS3006d.B.dialog-act.dharshi.63	Oh that 	
+TS3006d.A.dialog-act.dharshi.141	Yeah and something else . 	
+TS3006d.C.dialog-act.dharshi.69	Yeah but the 	
+TS3006d.D.dialog-act.dharshi.129	Oh no tha Oh that's one Euro , right . 	
+TS3006d.C.dialog-act.dharshi.70	uh can't we f uh fit all the buttons in an intreg integrated scroll push-button 	
+TS3006d.C.dialog-act.dharshi.68	? 'Cause that will save us one and a half Euro already . 	
+TS3006d.C.dialog-act.dharshi.71	And then if w 	
+TS3006d.D.dialog-act.dharshi.130	And then integrated s Yeah but that would make it not so easy to use . 	
+TS3006d.A.dialog-act.dharshi.142	No y you would rec 	
+TS3006d.D.dialog-act.dharshi.131	I mean it's not that important , easy to use , but 	
+TS3006d.A.dialog-act.dharshi.143	Then you have 	
+TS3006d.C.dialog-act.dharshi.72	Th then we have to scroll through a lot of menus to be able to get where you want , huh ? 	
+TS3006d.A.dialog-act.dharshi.144	Then you still need two additional buttons I believe . 	
+TS3006d.C.dialog-act.dharshi.73	And uh 	
+TS3006d.D.dialog-act.dharshi.132	Yeah . 	
+TS3006d.A.dialog-act.dharshi.145	For the volume . 	
+TS3006d.C.dialog-act.dharshi.75	Yeah d at l Yeah . At least one for power . 	
+TS3006d.A.dialog-act.dharshi.146	You can use those Yeah . 	
+TS3006d.B.dialog-act.dharshi.45	But the 	
+TS3006d.A.dialog-act.dharshi.147	Oh yeah and power . 	
+TS3006d.A.dialog-act.dharshi.148	That's three buttons and this would cost 	
+TS3006d.C.dialog-act.dharshi.76	Oh . 	
+TS3006d.C.dialog-act.dharshi.77	Yeah it's just as expensive as what we have now . 	
+TS3006d.B.dialog-act.dharshi.64	But the integrated uh button ? How many func functions can it uh have ? 	
+TS3006d.A.dialog-act.dharshi.149	Yeah . 	
+TS3006d.A.dialog-act.dharshi.150	Three . Up , down , Okay . 	
+TS3006d.C.dialog-act.dharshi.78	Yeah endlessly . 	
+TS3006d.C.dialog-act.dharshi.79	I mean it can be a power button as soon as it powered on . 	
+TS3006d.B.dialog-act.dharshi.65	Okay . 	
+TS3006d.C.dialog-act.dharshi.80	You can go into you in you main menu , 	
+TS3006d.D.dialog-act.dharshi.133	You you press it for like three seconds . 	
+TS3006d.C.dialog-act.dharshi.81	you can choose uh flip channel , uh you can choose sound options , any options . 	
+TS3006d.D.dialog-act.dharshi.134	Then then then you should do everything in the menu . On the screen . 	
+TS3006d.C.dialog-act.dharshi.82	Yeah . 	
+TS3006d.C.dialog-act.dharshi.83	Maybe we should . 	
+TS3006d.A.dialog-act.dharshi.151	Yeah , okay . It would save enough 	
+TS3006d.C.dialog-act.dharshi.84	'Cause we don't have money and w we want the screen . 	
+TS3006d.A.dialog-act.dharshi.152	Yeah you can choose this , drop these , then we have a half Euro left . 	
+TS3006d.D.dialog-act.dharshi.135	Yeah . 	
+TS3006d.A.dialog-act.dharshi.153	So we can maybe still use power button . 	
+TS3006d.D.dialog-act.dharshi.136	Yeah , but we'd Alright . 	
+TS3006d.A.dialog-act.dharshi.154	Yeah . 	
+TS3006d.C.dialog-act.dharshi.85	I guess we have to . 	
+TS3006d.D.dialog-act.dharshi.137	It s it saves us four Euros and it costs us two and a half . 	
+TS3006d.D.dialog-act.dharshi.138	So let's see , 	
+TS3006d.D.dialog-act.dharshi.139	we we drop the price by one and a half . 	
+TS3006d.C.dialog-act.dharshi.86	We'll we'll be on 	
+TS3006d.A.dialog-act.dharshi.157	Yeah . You see ? 	
+TS3006d.D.dialog-act.dharshi.140	But we still have thirteen left . 	
+TS3006d.A.dialog-act.dharshi.158	Oh still Yeah ? 	
+TS3006d.A.dialog-act.dharshi.159	Oh then I miscalculated . Oh yeah . 	
+TS3006d.D.dialog-act.dharshi.141	Thirteen . So still half . 	
+TS3006d.A.dialog-act.dharshi.155	Shit . 	
+TS3006d.D.dialog-act.dharshi.142	There goes the special co 	
+TS3006d.A.dialog-act.dharshi.160	Drop the special colour . 	
+TS3006d.B.dialog-act.dharshi.66	Oh no . 	
+TS3006d.D.dialog-act.dharshi.143	Well That would make it less appealing . So that's no option . 	
+TS3006d.A.dialog-act.dharshi.161	'Kay . 	
+TS3006d.A.dialog-act.dharshi.162	What else ? 	
+TS3006d.A.dialog-act.dharshi.163	Uncurved ? 	
+TS3006d.B.dialog-act.dharshi.67	No no , it has to be um curved . 	
+TS3006d.D.dialog-act.dharshi.144	We sure about the advanced chip we need for the display ? 	
+TS3006d.A.dialog-act.dharshi.164	Yeah . 	
+TS3006d.C.dialog-act.dharshi.87	Yeah it says right here . 	
+TS3006d.A.dialog-act.dharshi.165	They made it very easy for us . 	
+TS3006d.B.dialog-act.dharshi.68	Okay . 	
+TS3006d.D.dialog-act.dharshi.145	Well yeah . yeah . 	
+TS3006d.D.dialog-act.dharshi.146	We made it hard for ourselves with the display , but it's a cool feature . 	
+TS3006d.A.dialog-act.dharshi.166	Ah , I don't think I can s uh persuade the management to say , this is better for the market so you sell more than 	
+TS3006d.D.dialog-act.dharshi.147		
+TS3006d.B.dialog-act.dharshi.69	Okay . 	
+TS3006d.B.dialog-act.dharshi.70	Wh what we could do is um 	
+TS3006d.C.dialog-act.dharshi.88		
+TS3006d.B.dialog-act.dharshi.71	drop the the special colour , and uh do the special colour for the buttons . 	
+TS3006d.C.dialog-act.dharshi.89	Yeah . 	
+TS3006d.A.dialog-act.dharshi.167	Buttons . 	
+TS3006d.A.dialog-act.dharshi.168	That's 	
+TS3006d.A.dialog-act.dharshi.169	Oh yeah since we only have one button . 	
+TS3006d.C.dialog-act.dharshi.90		
+TS3006d.B.dialog-act.dharshi.72	Yeah . 	
+TS3006d.A.dialog-act.dharshi.170		
+TS3006d.D.dialog-act.dharshi.148	Yeah but I mean what is meant by special colour ? 	
+TS3006d.A.dialog-act.dharshi.171	I just m I don't I think 	
+TS3006d.B.dialog-act.dharshi.73	Just something else than than black or white I think . 	
+TS3006d.A.dialog-act.dharshi.173	Uh yeah it's I think it's grey , regular . 	
+TS3006d.D.dialog-act.dharshi.149	S yeah . Alright . 	
+TS3006d.A.dialog-act.dharshi.174	Grey and rubber . 	
+TS3006d.C.dialog-act.dharshi.91	But we definitely want the thing to be a special colour though . 	
+TS3006d.A.dialog-act.dharshi.175	Of plastic . 	
+TS3006d.B.dialog-act.dharshi.74	Yeah . 	
+TS3006d.D.dialog-act.dharshi.150	Yeah . 	
+TS3006d.D.dialog-act.dharshi.151	So I rather have an hand dynamo than than drop the colour . 	
+TS3006d.C.dialog-act.dharshi.92	Damn . 	
+TS3006d.A.dialog-act.dharshi.119		
+TS3006d.B.dialog-act.dharshi.46		
+TS3006d.C.dialog-act.dharshi.95	Yeah 	
+TS3006d.C.dialog-act.dharshi.96	and then 	
+TS3006d.C.dialog-act.dharshi.93	Yeah yeah yeah yeah . 	
+TS3006d.A.dialog-act.dharshi.176	Yeah . 	
+TS3006d.D.dialog-act.dharshi.152	You can still play with it then I guess . 	
+TS3006d.D.dialog-act.dharshi.153	I don't know . 	
+TS3006d.A.dialog-act.dharshi.177	Yeah . 	
+TS3006d.D.dialog-act.dharshi.154	Yeah , but a hand dynamo costs a lot of energy to keep the screen working . So I guess that isn't an option . 	
+TS3006d.B.dialog-act.dharshi.75	The display 	
+TS3006d.C.dialog-act.dharshi.97	Well , you only have to power it up when you wanna use it . 	
+TS3006d.D.dialog-act.dharshi.155	Yeah . 	
+TS3006d.B.dialog-act.dharshi.47	The 	
+TS3006d.D.dialog-act.dharshi.156	Yeah . 	
+TS3006d.B.dialog-act.dharshi.76	But if you have to power the for ten minutes , then the 	
+TS3006d.C.dialog-act.dharshi.98	I don't know . 	
+TS3006d.D.dialog-act.dharshi.157	Yeah . 	
+TS3006d.A.dialog-act.dharshi.178	No I don't think the current status of uh chips are pretty uh energy conserving , no . 	
+TS3006d.C.dialog-act.dharshi.52	. 	
+TS3006d.B.dialog-act.dharshi.77	Yeah . 	
+TS3006d.D.dialog-act.dharshi.158	Yeah true . 	
+TS3006d.C.dialog-act.dharshi.99	Yeah . 	
+TS3006d.D.dialog-act.dharshi.159	Let's let's go for the hand dynamo then . 	
+TS3006d.A.dialog-act.dharshi.179	Yeah hand dynamo ? 	
+TS3006d.A.dialog-act.dharshi.180	Do you want an extra button ? 	
+TS3006d.D.dialog-act.dharshi.160	Or or do we 	
+TS3006d.A.dialog-act.dharshi.118		
+TS3006d.D.dialog-act.dharshi.161	Or do we do uncurved and flat ? Instead of 	
+TS3006d.A.dialog-act.dharshi.117		
+TS3006d.B.dialog-act.dharshi.79	No no it has to be curved . 	
+TS3006d.D.dialog-act.dharshi.162	Yeah it has to be curved and has to have that colour . 	
+TS3006d.C.dialog-act.dharshi.100	Yeah . 	
+TS3006d.B.dialog-act.dharshi.78	Yeah . 	
+TS3006d.B.dialog-act.dharshi.80	Just put a special special colour of the buttons , or something . 	
+TS3006d.C.dialog-act.dharshi.101	Yeah . 	
+TS3006d.D.dialog-act.dharshi.163	And a screen . 	
+TS3006d.C.dialog-act.dharshi.102	Yeah . That's the most import 	
+TS3006d.A.dialog-act.dharshi.181	Yep ? 	
+TS3006d.A.dialog-act.dharshi.182	Instead of an additional power button ? 	
+TS3006d.B.dialog-act.dharshi.81	Yeah or spe special form ? 	
+TS3006d.D.dialog-act.dharshi.164	Yeah . 	
+TS3006d.D.dialog-act.dharshi.165	S what what is special f 	
+TS3006d.D.dialog-act.dharshi.166	Oh yeah , special form . 	
+TS3006d.A.dialog-act.dharshi.183	Yeah ? 	
+TS3006d.D.dialog-act.dharshi.167	Maybe that's nicer . 	
+TS3006d.A.dialog-act.dharshi.184	It's for scroll 	
+TS3006d.B.dialog-act.dharshi.82	Yeah . 	
+TS3006d.D.dialog-act.dharshi.168	But we don't have any buttons . 	
+TS3006d.A.dialog-act.dharshi.185	Without 	
+TS3006d.D.dialog-act.dharshi.169	So do 	
+TS3006d.C.dialog-act.dharshi.103	We only have 	
+TS3006d.D.dialog-act.dharshi.170	d Uh make it a special colour then . 	
+TS3006d.B.dialog-act.dharshi.83	Yeah . But it's it's for the integrated button , I think also . Or 	
+TS3006d.D.dialog-act.dharshi.172	Yeah 	
+TS3006d.C.dialog-act.dharshi.104	Yeah but 	
+TS3006d.D.dialog-act.dharshi.173	ma make it a special colour then . 	
+TS3006d.A.dialog-act.dharshi.186	Yeah but it's just a scroll-wheel which you can push down . So 	
+TS3006d.B.dialog-act.dharshi.84	Yeah . Okay . Yeah . 	
+TS3006d.D.dialog-act.dharshi.175	Okay . Make it a special colour and then it look fancy . 	
+TS3006d.A.dialog-act.dharshi.187	Yeah ? 	
+TS3006d.B.dialog-act.dharshi.85	Yep . 	
+TS3006d.A.dialog-act.dharshi.188	So 	
+TS3006d.D.dialog-act.dharshi.174	So 	
+TS3006d.A.dialog-act.dharshi.189	Woah we're within budget . 	
+TS3006d.D.dialog-act.dharshi.176	Yeah . 	
+TS3006d.A.dialog-act.dharshi.190	It's a miracle . 	
+TS3006d.B.dialog-act.dharshi.86	Oh just 	
+TS3006d.D.dialog-act.dharshi.177	Let's let's save it . 	
+TS3006d.B.dialog-act.dharshi.87	oh ma make it two special colours , but we only have one button . 	
+TS3006d.D.dialog-act.dharshi.178	Yeah . 	
+TS3006d.B.dialog-act.dharshi.88	Okay . 	
+TS3006d.D.dialog-act.dharshi.179	Let's do it like this , 	
+TS3006d.D.dialog-act.dharshi.180	I mean , because it does not lose our identity of the product as we 	
+TS3006d.A.dialog-act.dharshi.191	Yeah ? 	
+TS3006d.A.dialog-act.dharshi.192	Okay . 	
+TS3006d.A.dialog-act.dharshi.193	Um , well 	
+TS3006d.A.dialog-act.dharshi.194	. 'Kay , this was old . 	
+TS3006d.C.dialog-act.dharshi.105	Well we come back to the drawing board then , huh ? 	
+TS3006d.D.dialog-act.dharshi.181	Yeah all your designs are uh pretty much 	
+TS3006d.B.dialog-act.dharshi.89	Yeah . Okay . 	
+TS3006d.A.dialog-act.dharshi.197	Yeah back to work 	
+TS3006d.A.dialog-act.dharshi.195	Uh 	
+TS3006d.A.dialog-act.dharshi.196	. 	
+TS3006d.C.dialog-act.dharshi.106		
+TS3006d.C.dialog-act.dharshi.107	It's silly 'cause we we should have had this meeting before we start drawing . 	
+TS3006d.A.dialog-act.dharshi.198	Did I save it ? 	
+TS3006d.A.dialog-act.dharshi.199	Yeah . 	
+TS3006d.D.dialog-act.dharshi.182	Yeah but that but that's the fun part of it . 	
+TS3006d.A.dialog-act.dharshi.200	I I wanted to go , but I wasn't allowed . So 	
+TS3006d.C.dialog-act.dharshi.108	Oh yeah ? 	
+TS3006d.C.dialog-act.dharshi.109	okay . 	
+TS3006d.D.dialog-act.dharshi.183	Alright . 	
+TS3006d.A.dialog-act.dharshi.201	Uh I just forgot to save this . 	
+TS3006d.A.dialog-act.dharshi.202	Just a minute . 	
+TS3006d.A.dialog-act.dharshi.203		
+TS3006d.A.dialog-act.dharshi.204	. 	
+TS3006d.D.dialog-act.dharshi.184	Yeah what's the next uh phase ? 	
+TS3006d.A.dialog-act.dharshi.205	Yeah , this the last phase of course , so 	
+TS3006d.D.dialog-act.dharshi.185	Uh the agenda . 	
+TS3006d.D.dialog-act.dharshi.186	By your humble P_M_ . 	
+TS3006d.A.dialog-act.dharshi.206	Hmm . 	
+TS3006d.D.dialog-act.dharshi.187	Oh f Frustrated . Alright . 	
+TS3006d.A.dialog-act.dharshi.207	Oh . 	
+TS3006d.D.dialog-act.dharshi.188	Yeah . 	
+TS3006d.A.dialog-act.dharshi.208	Okay . Um 	
+TS3006d.A.dialog-act.dharshi.209	Well we first should have had a uh prototype presentation . 	
+TS3006d.A.dialog-act.dharshi.211	But well as you saw that hadn't made no sense , because we had to drop it . 	
+TS3006d.C.dialog-act.dharshi.110		
+TS3006d.C.dialog-act.dharshi.111	Drop everything . Yeah . 	
+TS3006d.D.dialog-act.dharshi.189	Drop , yeah . 	
+TS3006d.A.dialog-act.dharshi.212	Uh 	
+TS3006d.C.dialog-act.dharshi.112	We went straight into finance ? 	
+TS3006d.B.dialog-act.dharshi.90		
+TS3006d.D.dialog-act.dharshi.190		
+TS3006d.A.dialog-act.dharshi.213	Yeah . 	
+TS3006d.A.dialog-act.dharshi.214	Yeah it was more important , so I just 	
+TS3006d.D.dialog-act.dharshi.191	Yeah . Yeah . 	
+TS3006d.C.dialog-act.dharshi.113	For 	
+TS3006d.C.dialog-act.dharshi.114	Yeah . 	
+TS3006d.A.dialog-act.dharshi.215	pushed up the agenda . 	
+TS3006d.C.dialog-act.dharshi.115	Yeah . 	
+TS3006d.A.dialog-act.dharshi.216	Uh , 	
+TS3006d.A.dialog-act.dharshi.217	evaluation criteria . 	
+TS3006d.A.dialog-act.dharshi.218	You have t produced something about that ? 	
+TS3006d.D.dialog-act.dharshi.192	Yeah that that's Yeah . I uh I sure did . 	
+TS3006d.D.dialog-act.dharshi.193	And it combines with product evaluation . 	
+TS3006d.D.dialog-act.dharshi.194	Uh so 	
+TS3006d.A.dialog-act.dharshi.219	Uh you put it in the . 	
+TS3006d.D.dialog-act.dharshi.195	We all have to keep in mind what has changed now . 	
+TS3006d.D.dialog-act.dharshi.196	So what we have left on the Because evaluation is based on the initial uh user requirements . 	
+TS3006d.A.dialog-act.dharshi.220	Yeah . 	
+TS3006d.D.dialog-act.dharshi.197	Alright . 	
+TS3006d.D.dialog-act.dharshi.198	Let's make it big . 	
+TS3006d.A.dialog-act.dharshi.221	F_ five . 	
+TS3006d.D.dialog-act.dharshi.199	Um 	
+TS3006d.D.dialog-act.dharshi.200	Well we evaluate uh the design with a seven point scale , as following . 	
+TS3006d.D.dialog-act.dharshi.201	Well the remote controls according criteria blah blah blah . 	
+TS3006d.D.dialog-act.dharshi.202	True or false , and then on a scale of seven points , 	
+TS3006d.D.dialog-act.dharshi.203	a scale , as we all know it . 	
+TS3006d.C.dialog-act.dharshi.116	Mm-hmm . 	
+TS3006d.B.dialog-act.dharshi.91		
+TS3006d.A.dialog-act.dharshi.222		
+TS3006d.D.dialog-act.dharshi.204	Um 	
+TS3006d.D.dialog-act.dharshi.205	Well the criteria are based on the user requirements , uh the trends from the marketing research , and the marketing strategy of the company itself . 	
+TS3006d.D.dialog-act.dharshi.206	Um well they are in a Word document , 	
+TS3006d.D.dialog-act.dharshi.207	which I will open now . 	
+TS3006d.A.dialog-act.dharshi.223	Alt up 	
+TS3006d.D.dialog-act.dharshi.208	Yeah . 	
+TS3006d.D.dialog-act.dharshi.209	I don't know it's open yet . 	
+TS3006d.D.dialog-act.dharshi.210	No . 	
+TS3006d.D.dialog-act.dharshi.211	And we all have to uh agree on a certain level . 	
+TS3006d.D.dialog-act.dharshi.212	What's this ? 	
+TS3006d.A.dialog-act.dharshi.224	Freaky . 	
+TS3006d.D.dialog-act.dharshi.213	Oh . I don't know . 	
+TS3006d.D.dialog-act.dharshi.214	Um 	
+TS3006d.D.dialog-act.dharshi.215	Well the first point is the remote control matches the operating behaviour of the young user . 	
+TS3006d.D.dialog-act.dharshi.216	So that means the operating behaviour was using quite a lot of functions . 	
+TS3006d.D.dialog-act.dharshi.217	How do you think about that ? 	
+TS3006d.C.dialog-act.dharshi.117	I think it does . 	
+TS3006d.C.dialog-act.dharshi.118	Because the operating behaviour of the young user was also defined in colour and shape and the use of L_C_D_ , 	
+TS3006d.C.dialog-act.dharshi.119	right ? 	
+TS3006d.A.dialog-act.dharshi.225	Yeah . 	
+TS3006d.A.dialog-act.dharshi.226	Uh , of course we dropped a little bit of those uh 	
+TS3006d.D.dialog-act.dharshi.218	Yeah 	
+TS3006d.D.dialog-act.dharshi.219	the us u 	
+TS3006d.D.dialog-act.dharshi.220	It it 	
+TS3006d.D.dialog-act.dharshi.221	it's it's mainly con mainly concentrating on a lot of functions , in this question . 	
+TS3006d.C.dialog-act.dharshi.120	Yeah . 	
+TS3006d.A.dialog-act.dharshi.227	Mm-hmm . 	
+TS3006d.D.dialog-act.dharshi.222	So do you think 	
+TS3006d.C.dialog-act.dharshi.121	Well , we have extended menus , on the on the L_C_D_ screen . So 	
+TS3006d.D.dialog-act.dharshi.223	Yeah . 	
+TS3006d.D.dialog-act.dharshi.224	You can you can ma 	
+TS3006d.D.dialog-act.dharshi.225	Yeah , you can make a lot of extended menus . That's true . 	
+TS3006d.B.dialog-act.dharshi.92	Yep . 	
+TS3006d.D.dialog-act.dharshi.226	I mean the the possibilities are almost unlimited , to to build in menus in the screen . 	
+TS3006d.C.dialog-act.dharshi.122	I 	
+TS3006d.C.dialog-act.dharshi.123	No . 	
+TS3006d.D.dialog-act.dharshi.227	So on a scale from one to seven , what do you think ? 	
+TS3006d.B.dialog-act.dharshi.93	Two or three . 	
+TS3006d.D.dialog-act.dharshi.228	Huh ? 	
+TS3006d.B.dialog-act.dharshi.94	Two or three . 	
+TS3006d.D.dialog-act.dharshi.229	Two or three ? Something like that ? 	
+TS3006d.D.dialog-act.dharshi.230	Well we have to choose one . 	
+TS3006d.A.dialog-act.dharshi.228	Two . 	
+TS3006d.C.dialog-act.dharshi.124	Yeah . 	
+TS3006d.D.dialog-act.dharshi.231	So uh what do you say ? 	
+TS3006d.A.dialog-act.dharshi.229	Uh y we should fill this in now . 	
+TS3006d.D.dialog-act.dharshi.232	I agree on two . 	
+TS3006d.D.dialog-act.dharshi.233	Yeah . 	
+TS3006d.A.dialog-act.dharshi.230	Yeah okay . 	
+TS3006d.D.dialog-act.dharshi.234	I uh I say two , personally . But 	
+TS3006d.A.dialog-act.dharshi.231	Uh 	
+TS3006d.B.dialog-act.dharshi.95	Yeah . 	
+TS3006d.A.dialog-act.dharshi.232	Yeah in the new design I s would say it's three . But now , in original design I say two . 	
+TS3006d.C.dialog-act.dharshi.125	Yeah alright . 	
+TS3006d.D.dialog-act.dharshi.235	Yeah well we have to evaluate I guess what we have now . 	
+TS3006d.A.dialog-act.dharshi.233	Okay then I say three . 	
+TS3006d.D.dialog-act.dharshi.236	Yeah ? You say three , 	
+TS3006d.C.dialog-act.dharshi.126	Yeah yeah . 	
+TS3006d.D.dialog-act.dharshi.237	and you you said al also three ? 	
+TS3006d.D.dialog-act.dharshi.238	Three ? 	
+TS3006d.B.dialog-act.dharshi.97	Yeah . 	
+TS3006d.D.dialog-act.dharshi.239	Okay well I say still two , but it has to be three then . 	
+TS3006d.A.dialog-act.dharshi.234	Hey , you're marketing , eh . 	
+TS3006d.B.dialog-act.dharshi.96		
+TS3006d.D.dialog-act.dharshi.240	Yeah I know . 	
+TS3006d.D.dialog-act.dharshi.241	So it's made bold . But it's nah , it's not very clear on the sc 	
+TS3006d.A.dialog-act.dharshi.235	Hmm . M maybe underline . 	
+TS3006d.B.dialog-act.dharshi.98	Or give it a colour . 	
+TS3006d.D.dialog-act.dharshi.242	Maybe other colour , yeah . 	
+TS3006d.D.dialog-act.dharshi.243	That's better . 	
+TS3006d.A.dialog-act.dharshi.236	Red . 	
+TS3006d.D.dialog-act.dharshi.244	Uh 	
+TS3006d.D.dialog-act.dharshi.245	Yeah . Alright . 	
+TS3006d.D.dialog-act.dharshi.246	Oh , it doesn't have to be bold anymore . 	
+TS3006d.A.dialog-act.dharshi.237	Oh yeah very true . 	
+TS3006d.B.dialog-act.dharshi.99		
+TS3006d.D.dialog-act.dharshi.247	Alright . 	
+TS3006d.D.dialog-act.dharshi.249	Yeah . 	
+TS3006d.B.dialog-act.dharshi.100	Yeah true one . 	
+TS3006d.D.dialog-act.dharshi.250	Um well the remote control has Wha 	
+TS3006d.A.dialog-act.dharshi.238	He types everything . 	
+TS3006d.C.dialog-act.dharshi.127	Definitely one . It has to be . 	
+TS3006d.B.dialog-act.dharshi.101	Yeah . 	
+TS3006d.D.dialog-act.dharshi.248		
+TS3006d.D.dialog-act.dharshi.251	The remote control has irrelevant or less used functions . 	
+TS3006d.D.dialog-act.dharshi.252	For example audio settings and screen settings . 	
+TS3006d.B.dialog-act.dharshi.102	It hides uh basic functions . 	
+TS3006d.A.dialog-act.dharshi.239	Everything . You don't use anything else . 	
+TS3006d.D.dialog-act.dharshi.253	Yeah . Well , yeah . So it it's a very true point . I mean it hides all those function . 	
+TS3006d.C.dialog-act.dharshi.128	You're not gonna find them . 	
+TS3006d.A.dialog-act.dharshi.240	Yeah . Yeah okay . Yeah . 	
+TS3006d.B.dialog-act.dharshi.103	Yeah true . 	
+TS3006d.D.dialog-act.dharshi.255	But , I mean uh they're hidden in the screen . 	
+TS3006d.D.dialog-act.dharshi.256	If you don't want to use them , you don't s you s just scroll over them . 	
+TS3006d.D.dialog-act.dharshi.257	And you place them 	
+TS3006d.A.dialog-act.dharshi.241	Mm-hmm . 	
+TS3006d.D.dialog-act.dharshi.258	F I don't know where . 	
+TS3006d.D.dialog-act.dharshi.259	So that's very true , I guess , for our case . 	
+TS3006d.D.dialog-act.dharshi.260	Uh the second point . 	
+TS3006d.C.dialog-act.dharshi.129	Yeah the next Not so much so . 	
+TS3006d.D.dialog-act.dharshi.262	It shows the relevant and most used functions . 	
+TS3006d.A.dialog-act.dharshi.242	Nope . 	
+TS3006d.D.dialog-act.dharshi.263	Power button . 	
+TS3006d.D.dialog-act.dharshi.264	Do we ha still have a power button ? 	
+TS3006d.A.dialog-act.dharshi.243	Uh check with the Excel sheet . 	
+TS3006d.D.dialog-act.dharshi.265	Well yeah the button's integrated , huh ? 	
+TS3006d.C.dialog-act.dharshi.130	Yeah . 	
+TS3006d.B.dialog-act.dharshi.104	I think we are 	
+TS3006d.C.dialog-act.dharshi.131	Yeah it's uh it's integrated . 	
+TS3006d.D.dialog-act.dharshi.266	Yeah we dropped it . 	
+TS3006d.D.dialog-act.dharshi.267	You j you just push it in for 	
+TS3006d.B.dialog-act.dharshi.105	It's in 	
+TS3006d.B.dialog-act.dharshi.106	Oh yeah it was integrateds . Yeah . 	
+TS3006d.A.dialog-act.dharshi.244	Yeah integrate it . 	
+TS3006d.D.dialog-act.dharshi.268	Yeah just just push it in for th for three seconds or something , and then 	
+TS3006d.C.dialog-act.dharshi.132	E exactly just like a m mobile . 	
+TS3006d.A.dialog-act.dharshi.245	Yeah . 	
+TS3006d.D.dialog-act.dharshi.269	Yeah . 	
+TS3006d.D.dialog-act.dharshi.270	I don't know . 	
+TS3006d.A.dialog-act.dharshi.246	Just go scrolling and it will activate . 	
+TS3006d.D.dialog-act.dharshi.271	Yeah . 	
+TS3006d.B.dialog-act.dharshi.107		
+TS3006d.D.dialog-act.dharshi.272	Um it shows the relevant and most used functions . 	
+TS3006d.C.dialog-act.dharshi.133		
+TS3006d.C.dialog-act.dharshi.134	. 	
+TS3006d.D.dialog-act.dharshi.273	Yeah uh on the other 	
+TS3006d.D.dialog-act.dharshi.274	uh on one side I would say yes , and the other side I would say no . 	
+TS3006d.D.dialog-act.dharshi.275	So it's I don't know . 	
+TS3006d.A.dialog-act.dharshi.247	It shows the most used functions and they are relevant , but 	
+TS3006d.B.dialog-act.dharshi.108	Can you uh change channels directly with with just one button ? 	
+TS3006d.D.dialog-act.dharshi.276	Yeah . 	
+TS3006d.B.dialog-act.dharshi.109	No , you have to scroll through the menu , before 	
+TS3006d.D.dialog-act.dharshi.278	With the scroll butt 	
+TS3006d.D.dialog-act.dharshi.277	Yeah and then say channel . 	
+TS3006d.B.dialog-act.dharshi.110	Yeah . So it's it's not 	
+TS3006d.D.dialog-act.dharshi.279	And then 	
+TS3006d.C.dialog-act.dharshi.135	Well uh we should b build it so that if you don't kind of push into the menu or something , if 	
+TS3006d.C.dialog-act.dharshi.136	When it's on , yeah , it's turned on , 	
+TS3006d.D.dialog-act.dharshi.280	Hmm ? 	
+TS3006d.A.dialog-act.dharshi.248	You say you double click on the 	
+TS3006d.C.dialog-act.dharshi.137	It automatically has the the programme and the volume function , 	
+TS3006d.D.dialog-act.dharshi.281	Yeah . 	
+TS3006d.C.dialog-act.dharshi.138	but as soon as you click it you go into the menu or some 	
+TS3006d.D.dialog-act.dharshi.282	Yeah . 	
+TS3006d.C.dialog-act.dharshi.139	Of you 	
+TS3006d.C.dialog-act.dharshi.140	Or you double click it . 	
+TS3006d.D.dialog-act.dharshi.283	But but how do you change from volume to channel ? 	
+TS3006d.C.dialog-act.dharshi.141	No because it has four arrows , 	
+TS3006d.A.dialog-act.dharshi.249		
+TS3006d.C.dialog-act.dharshi.142	right ? 	
+TS3006d.A.dialog-act.dharshi.250	No , not anymore . 	
+TS3006d.B.dialog-act.dharshi.111	No . 	
+TS3006d.D.dialog-act.dharshi.284	No . 	
+TS3006d.A.dialog-act.dharshi.251	Because he's now have a scroll-wheel that you can push in . 	
+TS3006d.C.dialog-act.dharshi.143	Oh yeah . 	
+TS3006d.B.dialog-act.dharshi.112	Yeah . 	
+TS3006d.C.dialog-act.dharshi.144	Yeah I was thinking still about our uh integrated joystick . 	
+TS3006d.A.dialog-act.dharshi.252	Like on the the mouse . 	
+TS3006d.D.dialog-act.dharshi.285	No we have n we have no buttons left . So 	
+TS3006d.C.dialog-act.dharshi.145	Say . 	
+TS3006d.D.dialog-act.dharshi.286	the joystick was not an option . 	
+TS3006d.C.dialog-act.dharshi.146	Yeah that is a bummer . 	
+TS3006d.D.dialog-act.dharshi.287	So so you hav 	
+TS3006d.A.dialog-act.dharshi.253	Yeah . 	
+TS3006d.D.dialog-act.dharshi.288	So you you have to double-click , 	
+TS3006d.D.dialog-act.dharshi.289	I mean , for , I mean , uh volume , 	
+TS3006d.A.dialog-act.dharshi.254	To get into menu . Yeah . 	
+TS3006d.D.dialog-act.dharshi.290	and three double click for the menu , or something . 	
+TS3006d.B.dialog-act.dharshi.113	Oh no . 	
+TS3006d.A.dialog-act.dharshi.255	Or hold it ten seconds . 	
+TS3006d.C.dialog-act.dharshi.147	We'll make it a Morse code . 	
+TS3006d.D.dialog-act.dharshi.291	Yeah . 	
+TS3006d.D.dialog-act.dharshi.292	Yeah . Yeah . Alright . 	
+TS3006d.B.dialog-act.dharshi.114		
+TS3006d.D.dialog-act.dharshi.293	But but ease of use was not very important , may I remind you . 	
+TS3006d.A.dialog-act.dharshi.256	No no no . Uh it should be trendy . 	
+TS3006d.D.dialog-act.dharshi.294	So that's 	
+TS3006d.B.dialog-act.dharshi.115		
+TS3006d.D.dialog-act.dharshi.295	Yeah but that that's not a question . 	
+TS3006d.C.dialog-act.dharshi.148		
+TS3006d.D.dialog-act.dharshi.296	Uh the remote control shows the relevant and most used functions . 	
+TS3006d.C.dialog-act.dharshi.149		
+TS3006d.B.dialog-act.dharshi.116		
+TS3006d.D.dialog-act.dharshi.297	Well I think it's pretty much in the middle . 	
+TS3006d.A.dialog-act.dharshi.257	Yeah . Four . 	
+TS3006d.D.dialog-act.dharshi.298	You have to search for them in in the in the s in the screen , in the menu . So 	
+TS3006d.A.dialog-act.dharshi.258	Yeah , im in the menu . 	
+TS3006d.C.dialog-act.dharshi.150	Yeah . 	
+TS3006d.B.dialog-act.dharshi.117	Seven . 	
+TS3006d.D.dialog-act.dharshi.299	So maybe it's more like a f a five . Or 	
+TS3006d.B.dialog-act.dharshi.118	Yeah . Five . 	
+TS3006d.C.dialog-act.dharshi.151	Yeah I would go for five or six , yeah . 	
+TS3006d.D.dialog-act.dharshi.300	Yeah . 	
+TS3006d.D.dialog-act.dharshi.301	Five or six ? 	
+TS3006d.A.dialog-act.dharshi.259	Five . 	
+TS3006d.C.dialog-act.dharshi.152	Okay five . 	
+TS3006d.B.dialog-act.dharshi.119	Five . Yep . 	
+TS3006d.D.dialog-act.dharshi.302	Five ? Alright . 	
+TS3006d.C.dialog-act.dharshi.153	Let's not diss our remote . 	
+TS3006d.D.dialog-act.dharshi.303	Yeah . 	
+TS3006d.B.dialog-act.dharshi.120		
+TS3006d.A.dialog-act.dharshi.260	It's the weirdest remote control I've ever seen . So 	
+TS3006d.D.dialog-act.dharshi.304	Oh . 	
+TS3006d.D.dialog-act.dharshi.305	Yeah . 	
+TS3006d.C.dialog-act.dharshi.154	Yep . 	
+TS3006d.C.dialog-act.dharshi.155	Just one button . 	
+TS3006d.A.dialog-act.dharshi.261	Well it's different . 	
+TS3006d.D.dialog-act.dharshi.306	Yeah . Alright . 	
+TS3006d.D.dialog-act.dharshi.307	Uh the the remote control makes use of technolog technological innovation like L_C_D_ screen and speech recognition . 	
+TS3006d.C.dialog-act.dharshi.156	But Uh yep . 	
+TS3006d.A.dialog-act.dharshi.262	Yeah . 	
+TS3006d.D.dialog-act.dharshi.308	Well yeah but we dropped the speech recognition . But it has at least one innovation . 	
+TS3006d.A.dialog-act.dharshi.263	Yeah , it's still 	
+TS3006d.A.dialog-act.dharshi.264	Yeah , I say two . 	
+TS3006d.C.dialog-act.dharshi.157	We still have the fruit and vegetable print . 	
+TS3006d.D.dialog-act.dharshi.309	I say two then . 	
+TS3006d.B.dialog-act.dharshi.121	Yeah . 	
+TS3006d.D.dialog-act.dharshi.310	Yeah but that that's not that's not this question . Uh thi uh that's the other question . 	
+TS3006d.A.dialog-act.dharshi.265	Oh , that's the next . 	
+TS3006d.C.dialog-act.dharshi.158	Fr Oh I mean the Oh never mind . 	
+TS3006d.C.dialog-act.dharshi.159	I'm a bit lost . 	
+TS3006d.A.dialog-act.dharshi.266		
+TS3006d.D.dialog-act.dharshi.311	This one . 	
+TS3006d.B.dialog-act.dharshi.122	I think a two . No . 	
+TS3006d.A.dialog-act.dharshi.267	Two . 	
+TS3006d.D.dialog-act.dharshi.312	Two yeah . 	
+TS3006d.C.dialog-act.dharshi.160	. 	
+TS3006d.D.dialog-act.dharshi.313	I think L_C_D_'s more useful than speech 	
+TS3006d.B.dialog-act.dharshi.123	Yep . 	
+TS3006d.A.dialog-act.dharshi.268	Yeah definitely . 	
+TS3006d.D.dialog-act.dharshi.314	What ? 	
+TS3006d.D.dialog-act.dharshi.315	Oh not the bold one . 	
+TS3006d.C.dialog-act.dharshi.161	It's way more practical , yeah . 	
+TS3006d.D.dialog-act.dharshi.316	Right . 	
+TS3006d.D.dialog-act.dharshi.317	Okay , it has a fancy look and feel by using fruit and vegetable prints , primary colours and sponge-like material . 	
+TS3006d.D.dialog-act.dharshi.318	It should have been two questions . I realise now , because sponge-like material is dropped . 	
+TS3006d.C.dialog-act.dharshi.162	Yeah . 	
+TS3006d.A.dialog-act.dharshi.269		
+TS3006d.D.dialog-act.dharshi.319	But the look and feel 	
+TS3006d.A.dialog-act.dharshi.270	You still have rubber d Or no . 	
+TS3006d.C.dialog-act.dharshi.163	Yeah . 	
+TS3006d.C.dialog-act.dharshi.164	So we still uh we still have the primary colours . But only on the on the outside , not on the button . 	
+TS3006d.B.dialog-act.dharshi.124	No you got a plastic . 	
+TS3006d.D.dialog-act.dharshi.320	Yeah . 	
+TS3006d.A.dialog-act.dharshi.271	Yeah . 	
+TS3006d.B.dialog-act.dharshi.125	Yeah . 	
+TS3006d.D.dialog-act.dharshi.321	The button has also colour . Yeah . 	
+TS3006d.C.dialog-act.dharshi.165	Yeah ? 	
+TS3006d.A.dialog-act.dharshi.272	Yeah . 	
+TS3006d.C.dialog-act.dharshi.166	Okay . 	
+TS3006d.A.dialog-act.dharshi.273	The one button we have . 	
+TS3006d.D.dialog-act.dharshi.322	Yeah . The one . 	
+TS3006d.C.dialog-act.dharshi.167	Yeah . 	
+TS3006d.C.dialog-act.dharshi.168	Yeah still we we dropped also on the the double uh curve . 	
+TS3006d.A.dialog-act.dharshi.274	Yeah you could check with the Excel sheet . 	
+TS3006d.D.dialog-act.dharshi.323	Mm mm . 	
+TS3006d.B.dialog-act.dharshi.126	Yeah . You only have one Yeah . 	
+TS3006d.D.dialog-act.dharshi.325	Yeah we have single curve now , 	
+TS3006d.C.dialog-act.dharshi.169	And and colour . 	
+TS3006d.D.dialog-act.dharshi.326	and no and no material 	
+TS3006d.C.dialog-act.dharshi.170	Yeah . S 	
+TS3006d.D.dialog-act.dharshi.324	. So maybe in the middle or something . 	
+TS3006d.B.dialog-act.dharshi.127	Four . Yeah . 	
+TS3006d.A.dialog-act.dharshi.275	Yeah . 	
+TS3006d.C.dialog-act.dharshi.171	Yeah . 	
+TS3006d.D.dialog-act.dharshi.327	Yeah , I mean it's 	
+TS3006d.A.dialog-act.dharshi.276	Yeah or three . 	
+TS3006d.C.dialog-act.dharshi.172	Uh 	
+TS3006d.D.dialog-act.dharshi.328	worth the Yeah . 	
+TS3006d.A.dialog-act.dharshi.277	We have something . 	
+TS3006d.C.dialog-act.dharshi.173	Actually we d we didn't do so well on this one . 	
+TS3006d.C.dialog-act.dharshi.174	Because it's basically an old one , uh with little curve on the side , and in a different colour . 	
+TS3006d.C.dialog-act.dharshi.175	Still , it's still hard . 	
+TS3006d.D.dialog-act.dharshi.329	Yeah . 	
+TS3006d.C.dialog-act.dharshi.176	I mean the sponge-like and the three D_ shape , that would give it something young and fresh . 	
+TS3006d.A.dialog-act.dharshi.278	New . Yeah . 	
+TS3006d.D.dialog-act.dharshi.330	Yeah . But then we would have to drop the screen . 	
+TS3006d.B.dialog-act.dharshi.128	Red . 	
+TS3006d.D.dialog-act.dharshi.331	Oh red . 	
+TS3006d.D.dialog-act.dharshi.332	Yeah . 	
+TS3006d.A.dialog-act.dharshi.279	You like both . 	
+TS3006d.D.dialog-act.dharshi.333	Yeah . I like bold . 	
+TS3006d.A.dialog-act.dharshi.280		
+TS3006d.D.dialog-act.dharshi.334	Uh the remote control displays the corporate logo . 	
+TS3006d.A.dialog-act.dharshi.281	Um oh yeah . 	
+TS3006d.B.dialog-act.dharshi.129		
+TS3006d.B.dialog-act.dharshi.130	Mm yeah yeah . 	
+TS3006d.C.dialog-act.dharshi.177	Of course . 	
+TS3006d.A.dialog-act.dharshi.283	I just couldn't 	
+TS3006d.D.dialog-act.dharshi.335	Yeah . 	
+TS3006d.C.dialog-act.dharshi.178		
+TS3006d.D.dialog-act.dharshi.336	You just have to draw it . 	
+TS3006d.A.dialog-act.dharshi.284	Um , just one minute . 	
+TS3006d.C.dialog-act.dharshi.179	Yeah but it 	
+TS3006d.B.dialog-act.dharshi.131	It's the white part uh 	
+TS3006d.C.dialog-act.dharshi.180	be because uh we couldn't hardly draw on the b s on the lower half of the screen , we could not make it big enough to actually draw in the 	
+TS3006d.A.dialog-act.dharshi.282	. 	
+TS3006d.B.dialog-act.dharshi.132	Yeah . 	
+TS3006d.D.dialog-act.dharshi.337	Yeah . 	
+TS3006d.C.dialog-act.dharshi.181	So I mean I wanted to put digits on the buttons as well . But 	
+TS3006d.B.dialog-act.dharshi.133	We have a we have a 	
+TS3006d.A.dialog-act.dharshi.285	So 	
+TS3006d.D.dialog-act.dharshi.338	But there's uh enough space for the corporate logo . I mean , if there's only one thing . 	
+TS3006d.C.dialog-act.dharshi.182	Hell yeah . If we have only one button . 	
+TS3006d.D.dialog-act.dharshi.339	Yeah . So I will say that is very true . 	
+TS3006d.A.dialog-act.dharshi.286	. 	
+TS3006d.B.dialog-act.dharshi.134	Mm-hmm . 	
+TS3006d.C.dialog-act.dharshi.184	And even the shape we have now uh simulates kind of an R_ and the reversed R_ , 	
+TS3006d.C.dialog-act.dharshi.185	doesn't it ? 	
+TS3006d.B.dialog-act.dharshi.135		
+TS3006d.D.dialog-act.dharshi.340	Yeah . 	
+TS3006d.D.dialog-act.dharshi.341	The remote control is easy to use . 	
+TS3006d.C.dialog-act.dharshi.186	So 	
+TS3006d.D.dialog-act.dharshi.342	Well I would say 	
+TS3006d.C.dialog-act.dharshi.187	No . 	
+TS3006d.D.dialog-act.dharshi.343	Skill , uh I would say six , or something . I don't think it's easy to use , or not so . 	
+TS3006d.C.dialog-act.dharshi.188	The only e the only thing easy about it is that you don't have to move your fingers . 'Cause it has only one button . 	
+TS3006d.B.dialog-act.dharshi.136	Ah i 	
+TS3006d.D.dialog-act.dharshi.344	Yeah . 	
+TS3006d.B.dialog-act.dharshi.137	And that you only have to control one button . 	
+TS3006d.D.dialog-act.dharshi.345	Yeah . 	
+TS3006d.C.dialog-act.dharshi.189	Yeah exactly . 	
+TS3006d.D.dialog-act.dharshi.347	It it it has a nice screen . 	
+TS3006d.D.dialog-act.dharshi.348	But Yeah . 	
+TS3006d.B.dialog-act.dharshi.138	It gives visual feedback . So 	
+TS3006d.D.dialog-act.dharshi.349	Yeah . Well I I would say a five or a six . 	
+TS3006d.C.dialog-act.dharshi.190	I would say six . 	
+TS3006d.B.dialog-act.dharshi.139	I think a five . Five . 	
+TS3006d.D.dialog-act.dharshi.350	What do you say ? Easy to use ? Five or a six ? 	
+TS3006d.C.dialog-act.dharshi.191	It's really not easy to use . 	
+TS3006d.B.dialog-act.dharshi.140		
+TS3006d.B.dialog-act.dharshi.141		
+TS3006d.C.dialog-act.dharshi.192	'Cause you're putting everything 	
+TS3006d.A.dialog-act.dharshi.287	No not anymore . 	
+TS3006d.D.dialog-act.dharshi.351	So a six , more . 	
+TS3006d.A.dialog-act.dharshi.288	Yeah . 	
+TS3006d.D.dialog-act.dharshi.352	Yeah , uh I would go for the six too . So 	
+TS3006d.B.dialog-act.dharshi.142	Okay . Yeah . 	
+TS3006d.C.dialog-act.dharshi.193	Most votes count . Um 	
+TS3006d.D.dialog-act.dharshi.353		
+TS3006d.A.dialog-act.dharshi.289		
+TS3006d.B.dialog-act.dharshi.143		
+TS3006d.D.dialog-act.dharshi.369	Um well , another question , 	
+TS3006d.B.dialog-act.dharshi.145	Yeah that looks uh great . 	
+TS3006d.D.dialog-act.dharshi.354	uh the remote control is durable . 	
+TS3006d.B.dialog-act.dharshi.144		
+TS3006d.D.dialog-act.dharshi.355	I don't know if that's the correct word . 	
+TS3006d.B.dialog-act.dharshi.146	Yeah . Nah 	
+TS3006d.C.dialog-act.dharshi.194	Definitely in casing , 'cause we have a hard plastic 	
+TS3006d.D.dialog-act.dharshi.356	But uh 	
+TS3006d.D.dialog-act.dharshi.357	In use , both battery as casing ? 	
+TS3006d.C.dialog-act.dharshi.195	Yeah . 	
+TS3006d.D.dialog-act.dharshi.358	Yeah ? 	
+TS3006d.C.dialog-act.dharshi.196	Yeah because the the batteries , those thingies last forever . 	
+TS3006d.D.dialog-act.dharshi.359	True , true . 	
+TS3006d.C.dialog-act.dharshi.197	And the the casing , hard plastic also lasts forever . 	
+TS3006d.D.dialog-act.dharshi.360	And the casing is plastic , ? 	
+TS3006d.B.dialog-act.dharshi.147	Yep . 	
+TS3006d.D.dialog-act.dharshi.361	Yeah . If you don't drop it too much , it's uh should last pretty long . 	
+TS3006d.A.dialog-act.dharshi.290	Yeah . 	
+TS3006d.C.dialog-act.dharshi.198	So I would go for one . 	
+TS3006d.D.dialog-act.dharshi.362	Yeah ? 	
+TS3006d.D.dialog-act.dharshi.363	But uh I think rubber compared is better . So I think a two is more appropriate 	
+TS3006d.B.dialog-act.dharshi.148	Yeah . S 	
+TS3006d.B.dialog-act.dharshi.149	Yep . 	
+TS3006d.A.dialog-act.dharshi.291		
+TS3006d.C.dialog-act.dharshi.199	Okay yeah . 	
+TS3006d.D.dialog-act.dharshi.364	than 	
+TS3006d.B.dialog-act.dharshi.150	Wow . 	
+TS3006d.D.dialog-act.dharshi.365	Yeah . Logo . 	
+TS3006d.A.dialog-act.dharshi.292	Yeah . 	
+TS3006d.B.dialog-act.dharshi.151		
+TS3006d.D.dialog-act.dharshi.366	Okay I will go go for two . 	
+TS3006d.D.dialog-act.dharshi.367	Uh the last one ? 	
+TS3006d.D.dialog-act.dharshi.368	The remote control's a good example for company's motto , we put the fashion in electronics . 	
+TS3006d.C.dialog-act.dharshi.200	Oh . 	
+TS3006d.C.dialog-act.dharshi.201	No m 	
+TS3006d.B.dialog-act.dharshi.152	No we put the electronics into the fashion . 	
+TS3006d.A.dialog-act.dharshi.293	Yeah well yeah . 	
+TS3006d.C.dialog-act.dharshi.202	I would g 	
+TS3006d.D.dialog-act.dharshi.370	uh turn around . Yeah . But um 	
+TS3006d.C.dialog-act.dharshi.203	I would go for four . 	
+TS3006d.D.dialog-act.dharshi.371	Yeah ? 	
+TS3006d.A.dialog-act.dharshi.294	No 	
+TS3006d.C.dialog-act.dharshi.204	Because we kind of tried to but we kind of failed with the budget that we have . 	
+TS3006d.D.dialog-act.dharshi.372	It's not 	
+TS3006d.D.dialog-act.dharshi.373	Yeah , true . 	
+TS3006d.A.dialog-act.dharshi.295	Yeah okay . 	
+TS3006d.D.dialog-act.dharshi.374	So a four . 	
+TS3006d.D.dialog-act.dharshi.375	It's it g 	
+TS3006d.D.dialog-act.dharshi.376	it g goes , it's not the best we could do , I guess . 	
+TS3006d.C.dialog-act.dharshi.205	Yeah . 	
+TS3006d.D.dialog-act.dharshi.377	But it all has to do with the budget , because it's it's not the bad idea we had , so 	
+TS3006d.C.dialog-act.dharshi.206	Yeah . Yeah yeah . 	
+TS3006d.B.dialog-act.dharshi.153	Yeah , four is okay . 	
+TS3006d.D.dialog-act.dharshi.378	Alright , yeah . 	
+TS3006d.D.dialog-act.dharshi.379	Right . 	
+TS3006d.A.dialog-act.dharshi.296	So 	
+TS3006d.D.dialog-act.dharshi.380	So if I understood it right , we have to count these numbers . 	
+TS3006d.C.dialog-act.dharshi.207	That's it . 	
+TS3006d.A.dialog-act.dharshi.297	Ooh . 	
+TS3006d.A.dialog-act.dharshi.298	And Yeah ? What ? 	
+TS3006d.D.dialog-act.dharshi.381	Uh 	
+TS3006d.D.dialog-act.dharshi.382	Yeah . 	
+TS3006d.D.dialog-act.dharshi.383	Mm-hmm . Oh 	
+TS3006d.A.dialog-act.dharshi.299	Yeah . 	
+TS3006d.D.dialog-act.dharshi.384	Oh Alright . 	
+TS3006d.D.dialog-act.dharshi.385	Word document , the 	
+TS3006d.A.dialog-act.dharshi.300	Yeah . 	
+TS3006d.D.dialog-act.dharshi.386	Yeah we have to count them . 	
+TS3006d.A.dialog-act.dharshi.301	That 	
+TS3006d.A.dialog-act.dharshi.302	Count them . 	
+TS3006d.D.dialog-act.dharshi.387	Uh 	
+TS3006d.A.dialog-act.dharshi.303	Add them ? Or 	
+TS3006d.D.dialog-act.dharshi.388	Yeah just add them and then uh divide them . 	
+TS3006d.A.dialog-act.dharshi.304	Could somebody start calculator ? 	
+TS3006d.D.dialog-act.dharshi.389	Yeah . 	
+TS3006d.D.dialog-act.dharshi.390	Mm . 	
+TS3006d.D.dialog-act.dharshi.391	I all made it po I I all made it 	
+TS3006d.C.dialog-act.dharshi.208	Ah we can do the math . Uh 	
+TS3006d.B.dialog-act.dharshi.154		
+TS3006d.D.dialog-act.dharshi.392	I all made it possible uh for a positive questions , so we can count it . 	
+TS3006d.A.dialog-act.dharshi.305	Mm-hmm . 	
+TS3006d.D.dialog-act.dharshi.393	I mean if you have reversed question , you have to reverse the scale , 	
+TS3006d.A.dialog-act.dharshi.306	Yeah , yeah . You have to 	
+TS3006d.D.dialog-act.dharshi.394	uh Yes . 	
+TS3006d.A.dialog-act.dharshi.307	'Kay . 	
+TS3006d.C.dialog-act.dharshi.209	Yeah . 	
+TS3006d.A.dialog-act.dharshi.308	So four and 	
+TS3006d.C.dialog-act.dharshi.210	Did you make this questionnaire or what ? 	
+TS3006d.D.dialog-act.dharshi.395	Yeah . 	
+TS3006d.D.dialog-act.dharshi.396	Thanks . 	
+TS3006d.A.dialog-act.dharshi.309	Nice work . 	
+TS3006d.B.dialog-act.dharshi.155	Okay . 	
+TS3006d.C.dialog-act.dharshi.211	Oh . 	
+TS3006d.C.dialog-act.dharshi.212		
+TS3006d.B.dialog-act.dharshi.156	Three plus ? 	
+TS3006d.C.dialog-act.dharshi.213	I wouldn't be able to do it that fast . 	
+TS3006d.A.dialog-act.dharshi.310	O one . 	
+TS3006d.B.dialog-act.dharshi.157	Plus one . 	
+TS3006d.A.dialog-act.dharshi.311	Plus five . 	
+TS3006d.B.dialog-act.dharshi.158	Plus five ? 	
+TS3006d.D.dialog-act.dharshi.397	Oh Easy . 	
+TS3006d.A.dialog-act.dharshi.312	Bo 	
+TS3006d.D.dialog-act.dharshi.398	Question number four , yeah ? 	
+TS3006d.A.dialog-act.dharshi.313	Uh two . 	
+TS3006d.D.dialog-act.dharshi.399	Yeah . 	
+TS3006d.C.dialog-act.dharshi.214	F 	
+TS3006d.A.dialog-act.dharshi.314	Four . 	
+TS3006d.B.dialog-act.dharshi.159	Oh . Wait a second . Oh . 	
+TS3006d.A.dialog-act.dharshi.315		
+TS3006d.B.dialog-act.dharshi.160	It's it's gone wrong . 	
+TS3006d.D.dialog-act.dharshi.400	How hard is it ? 	
+TS3006d.B.dialog-act.dharshi.161	Okay . It's your turn . 	
+TS3006d.D.dialog-act.dharshi.401	Yeah just use 	
+TS3006d.C.dialog-act.dharshi.215	Pretty difficult . 	
+TS3006d.A.dialog-act.dharshi.316	Start over ? 	
+TS3006d.B.dialog-act.dharshi.162	No it's if you press twice on the plus button , then you get s s 	
+TS3006d.D.dialog-act.dharshi.402	Oh there tho uh there's no n 	
+TS3006d.D.dialog-act.dharshi.403	There's no num pads . 	
+TS3006d.A.dialog-act.dharshi.317	You can 	
+TS3006d.B.dialog-act.dharshi.163	No . That's why it's uh 	
+TS3006d.A.dialog-act.dharshi.318	Oh yeah . 	
+TS3006d.D.dialog-act.dharshi.404	It's a it's a bit uh 	
+TS3006d.C.dialog-act.dharshi.216	Just type in the digits . 	
+TS3006d.C.dialog-act.dharshi.217	They're all one digit numbers right ? 	
+TS3006d.C.dialog-act.dharshi.218	And then you can count them together . 	
+TS3006d.D.dialog-act.dharshi.405	Yeah . 	
+TS3006d.D.dialog-act.dharshi.406	I think you can just count them by a 	
+TS3006d.B.dialog-act.dharshi.164	Just count it to Yeah . 	
+TS3006d.D.dialog-act.dharshi.407	Um let's move over . 	
+TS3006d.A.dialog-act.dharshi.319	Okay . Three , four , nine . 	
+TS3006d.D.dialog-act.dharshi.408	Three , plus one , four . Nine . 	
+TS3006d.A.dialog-act.dharshi.320	Uh 	
+TS3006d.D.dialog-act.dharshi.409	Uh , yeah . Are you here ? 	
+TS3006d.D.dialog-act.dharshi.410	Eleven . 	
+TS3006d.C.dialog-act.dharshi.219	Eleven . 	
+TS3006d.A.dialog-act.dharshi.321	Eleven , 	
+TS3006d.C.dialog-act.dharshi.220	Fifteen . 	
+TS3006d.D.dialog-act.dharshi.411	Fifteen . 	
+TS3006d.A.dialog-act.dharshi.322	fifteen . 	
+TS3006d.B.dialog-act.dharshi.165	Sixteen . 	
+TS3006d.C.dialog-act.dharshi.221	Sixteen . 	
+TS3006d.D.dialog-act.dharshi.412	Sixteen , yeah . 	
+TS3006d.C.dialog-act.dharshi.222	Seventeen . 	
+TS3006d.A.dialog-act.dharshi.323	Seventeen . 	
+TS3006d.D.dialog-act.dharshi.413	No sixteen . 	
+TS3006d.D.dialog-act.dharshi.414	Uh sixteen plus six . 	
+TS3006d.C.dialog-act.dharshi.223	Oh what ? 	
+TS3006d.B.dialog-act.dharshi.166	Twenty two . 	
+TS3006d.A.dialog-act.dharshi.324	S Uh 	
+TS3006d.C.dialog-act.dharshi.224	How hard is this ? 	
+TS3006d.D.dialog-act.dharshi.415	Twenty two . 	
+TS3006d.D.dialog-act.dharshi.418	Twenty two , 	
+TS3006d.D.dialog-act.dharshi.419	yeah ? 	
+TS3006d.C.dialog-act.dharshi.225	Never mind . 	
+TS3006d.B.dialog-act.dharshi.167	Twenty four . Twenty six . 	
+TS3006d.D.dialog-act.dharshi.417	Tw 	
+TS3006d.C.dialog-act.dharshi.227	Twenty four . Twenty eight . 	
+TS3006d.B.dialog-act.dharshi.168	Oh , sorry . . 	
+TS3006d.D.dialog-act.dharshi.420	Twenty 	
+TS3006d.D.dialog-act.dharshi.421	Twenty eight . 	
+TS3006d.B.dialog-act.dharshi.169	Oh my . 	
+TS3006d.A.dialog-act.dharshi.325	That was the last one . That was that . 	
+TS3006d.C.dialog-act.dharshi.228	Twenty eight . 	
+TS3006d.A.dialog-act.dharshi.326	Yeah . 	
+TS3006d.B.dialog-act.dharshi.170	Okay . Twenty eight . 	
+TS3006d.A.dialog-act.dharshi.327	So divided by nine . 	
+TS3006d.D.dialog-act.dharshi.422	Twen Uh okay . 	
+TS3006d.D.dialog-act.dharshi.423	By nine . 	
+TS3006d.B.dialog-act.dharshi.171	Hmm . 	
+TS3006d.D.dialog-act.dharshi.424	That's uh three uh Or le less than a three . 	
+TS3006d.A.dialog-act.dharshi.328	So 	
+TS3006d.C.dialog-act.dharshi.229	Yeah the lower the 	
+TS3006d.C.dialog-act.dharshi.230	The lower the score the better , right ? 	
+TS3006d.A.dialog-act.dharshi.329	Yeah . 	
+TS3006d.D.dialog-act.dharshi.425	Yeah . 	
+TS3006d.D.dialog-act.dharshi.426	Twenty eight 	
+TS3006d.C.dialog-act.dharshi.231	Yeah but 	
+TS3006d.A.dialog-act.dharshi.330	Divided by nine . 	
+TS3006d.D.dialog-act.dharshi.427	di divided by nine 	
+TS3006d.A.dialog-act.dharshi.331	So thr t two . 	
+TS3006d.D.dialog-act.dharshi.428	makes three point one one one one one one one . 	
+TS3006d.A.dialog-act.dharshi.332	So we're better than average . 	
+TS3006d.C.dialog-act.dharshi.232	But 	
+TS3006d.D.dialog-act.dharshi.429	Yeah . 	
+TS3006d.C.dialog-act.dharshi.233	I Are you sure we this number actually tells us somethings ? 	
+TS3006d.A.dialog-act.dharshi.333	No . 	
+TS3006d.D.dialog-act.dharshi.430		
+TS3006d.C.dialog-act.dharshi.234	I don't think so because some questions are related to positive issues and some to negative . 	
+TS3006d.B.dialog-act.dharshi.172	Some questions are Yeah . 	
+TS3006d.C.dialog-act.dharshi.235	So if you give a true to a positive , it actually means that the low the lower the better . 	
+TS3006d.C.dialog-act.dharshi.236	But if you give true to a negative question 	
+TS3006d.D.dialog-act.dharshi.431	Yeah , but there are no negative questions I guess . 	
+TS3006d.C.dialog-act.dharshi.237	No ? 	
+TS3006d.D.dialog-act.dharshi.432	Good example . Durable use . 	
+TS3006d.C.dialog-act.dharshi.238	Durable , that's good . 	
+TS3006d.D.dialog-act.dharshi.433	Easy to use . This is good . 	
+TS3006d.C.dialog-act.dharshi.239	Easy to use . 	
+TS3006d.D.dialog-act.dharshi.434	Fancy look and feel , that's good . 	
+TS3006d.C.dialog-act.dharshi.240	Yeah . . 	
+TS3006d.D.dialog-act.dharshi.435	Technology innovation was good , because of a marketing uh requirement . 	
+TS3006d.C.dialog-act.dharshi.241	Also good . 	
+TS3006d.D.dialog-act.dharshi.436	Re relevant most used function . 	
+TS3006d.C.dialog-act.dharshi.242	Yeah okay . 	
+TS3006d.C.dialog-act.dharshi.243	I guess you did do it . 	
+TS3006d.D.dialog-act.dharshi.437	And hides these functions . That was also a good thing . 	
+TS3006d.B.dialog-act.dharshi.173	Oh yeah . Yeah . 	
+TS3006d.C.dialog-act.dharshi.244	Oh yeah yeah . No 	
+TS3006d.D.dialog-act.dharshi.438	And then matches the opera of the user was also a good thing . 	
+TS3006d.B.dialog-act.dharshi.174	Yeah . 	
+TS3006d.C.dialog-act.dharshi.245	Okay . Okay . 	
+TS3006d.D.dialog-act.dharshi.439	So it were all positive questions , by uh by purpose . So 	
+TS3006d.C.dialog-act.dharshi.246	Yeah true . 	
+TS3006d.D.dialog-act.dharshi.440	Yes , so the It tells us something , yes . 	
+TS3006d.D.dialog-act.dharshi.441	Becau But the picture would be a lot different if we didn't have to drop those uh those things , I guess . 	
+TS3006d.B.dialog-act.dharshi.175	Oh great . 	
+TS3006d.A.dialog-act.dharshi.334	Things , yeah . 	
+TS3006d.C.dialog-act.dharshi.247	Yeah definitely definitely . 	
+TS3006d.A.dialog-act.dharshi.335	Okay . 	
+TS3006d.C.dialog-act.dharshi.248	Because now it's just an average It's remote . 	
+TS3006d.D.dialog-act.dharshi.442	Yeah . 	
+TS3006d.D.dialog-act.dharshi.443	Nah it it's it's better than average , but 	
+TS3006d.C.dialog-act.dharshi.249	Yeah okay because of the L_C_D_ screen . 	
+TS3006d.C.dialog-act.dharshi.250	But uh it looks and stuff , it still uh 	
+TS3006d.D.dialog-act.dharshi.444	Yeah . 	
+TS3006d.D.dialog-act.dharshi.445	So th 	
+TS3006d.A.dialog-act.dharshi.339	It's still yeah . 	
+TS3006d.D.dialog-act.dharshi.446	Yeah . 	
+TS3006d.A.dialog-act.dharshi.338	Has some shortcomings . 	
+TS3006d.C.dialog-act.dharshi.251	it's not , it's not really eye-catching , except for the colour . 	
+TS3006d.D.dialog-act.dharshi.447	No . 	
+TS3006d.A.dialog-act.dharshi.336		
+TS3006d.D.dialog-act.dharshi.448	The colour and the screen . 	
+TS3006d.C.dialog-act.dharshi.252	Yeah . 	
+TS3006d.A.dialog-act.dharshi.337		
+TS3006d.A.dialog-act.dharshi.340	Okay so Um this we had , this we had . 	
+TS3006d.C.dialog-act.dharshi.253	Product evaluation . 	
+TS3006d.A.dialog-act.dharshi.341	We have to do a product evaluation . 	
+TS3006d.A.dialog-act.dharshi.342	Uh prototype presentation we dropped . 	
+TS3006d.A.dialog-act.dharshi.343	So Uh the finance we looked . 	
+TS3006d.A.dialog-act.dharshi.344	We have redesigned . 	
+TS3006d.A.dialog-act.dharshi.345	Uh not on that , but 	
+TS3006d.D.dialog-act.dharshi.449	Yeah we we have to maybe if we have to redesign it on this 	
+TS3006d.B.dialog-act.dharshi.176	Okay it's your turn now . 	
+TS3006d.A.dialog-act.dharshi.346	So you can just make one big L_C_D_ screen . 	
+TS3006d.C.dialog-act.dharshi.254	Shall we try ? 	
+TS3006d.D.dialog-act.dharshi.450	With some casing around it , yeah . 	
+TS3006d.C.dialog-act.dharshi.255	Black . 	
+TS3006d.C.dialog-act.dharshi.256	Okay uh we're still gonna go for the fancy colours ? 	
+TS3006d.A.dialog-act.dharshi.347	Yeah uh 	
+TS3006d.D.dialog-act.dharshi.451	Yeah . 	
+TS3006d.B.dialog-act.dharshi.177	Yeah . 	
+TS3006d.C.dialog-act.dharshi.257	But are we gonna stick with the green or are we gonna do blue ? 	
+TS3006d.B.dialog-act.dharshi.178	Yeah we we can just uh use this one . And then uh over-paint it with uh uh the green uh 	
+TS3006d.A.dialog-act.dharshi.348	The the button has a special colour , the frame has a special colour . 	
+TS3006d.D.dialog-act.dharshi.452	Yeah . 	
+TS3006d.B.dialog-act.dharshi.179	he only needs one button . 	
+TS3006d.C.dialog-act.dharshi.258	One scroll button and 	
+TS3006d.A.dialog-act.dharshi.349	It's plastic . And single curved . 	
+TS3006d.B.dialog-act.dharshi.180	Yeah . 	
+TS3006d.B.dialog-act.dharshi.181	Or we have to delete this one or 	
+TS3006d.D.dialog-act.dharshi.453	Yeah . 	
+TS3006d.A.dialog-act.dharshi.350	Oh and you might want to add a uh infrared LED . 	
+TS3006d.B.dialog-act.dharshi.182	Oh oh no . 	
+TS3006d.D.dialog-act.dharshi.454	Oh yeah . 	
+TS3006d.A.dialog-act.dharshi.351	Otherwise it uh doesn't function uh so well . 	
+TS3006d.C.dialog-act.dharshi.259	For what ? 	
+TS3006d.B.dialog-act.dharshi.183	Okay . 	
+TS3006d.D.dialog-act.dharshi.455	Yeah . 	
+TS3006d.B.dialog-act.dharshi.184	So that's 	
+TS3006d.A.dialog-act.dharshi.352		
+TS3006d.D.dialog-act.dharshi.456	Do we have to do other things ? 	
+TS3006d.A.dialog-act.dharshi.353	Well I have to um um make an uh report of every decision we made so far . 	
+TS3006d.D.dialog-act.dharshi.457	Or just redesign ? 	
+TS3006d.D.dialog-act.dharshi.458		
+TS3006d.D.dialog-act.dharshi.459	Alright . 	
+TS3006d.A.dialog-act.dharshi.354	And I try to get chip just before uh I uh receive the Excel sheet . 	
+TS3006d.D.dialog-act.dharshi.460	Yeah . 	
+TS3006d.A.dialog-act.dharshi.355	So I 	
+TS3006d.D.dialog-act.dharshi.461	So you made a start , right ? 	
+TS3006d.A.dialog-act.dharshi.356	Yeah I'm I'm somewhere , 	
+TS3006d.A.dialog-act.dharshi.357	but maybe you can help me . 	
+TS3006d.C.dialog-act.dharshi.260	Should give it some time ? 	
+TS3006d.D.dialog-act.dharshi.462	Yeah . 	
+TS3006d.C.dialog-act.dharshi.261	Yay . 	
+TS3006d.A.dialog-act.dharshi.358	Uh 	
+TS3006d.B.dialog-act.dharshi.185	Okay , but how do we make the the scroll uh button ? 	
+TS3006d.A.dialog-act.dharshi.359	I was here . So 	
+TS3006d.B.dialog-act.dharshi.186	It's just one 	
+TS3006d.C.dialog-act.dharshi.262	Have to take this away also . 	
+TS3006d.D.dialog-act.dharshi.463	Alright . 	
+TS3006d.B.dialog-act.dharshi.187	yeah . 	
+TS3006d.A.dialog-act.dharshi.360	Ah 	
+TS3006d.C.dialog-act.dharshi.263	And this um 	
+TS3006d.B.dialog-act.dharshi.188	Uh that's the infrared uh thing . 	
+TS3006d.C.dialog-act.dharshi.264	Oh yeah , of course . 	
+TS3006d.D.dialog-act.dharshi.464	The the target group has a weak spot for fruit and vegetables , like primary colours , spongy shape . 	
+TS3006d.B.dialog-act.dharshi.189	Yeah . 	
+TS3006d.C.dialog-act.dharshi.267	Um pen yeah ? 	
+TS3006d.C.dialog-act.dharshi.268	Format . 	
+TS3006d.C.dialog-act.dharshi.269	Current colour red . 	
+TS3006d.D.dialog-act.dharshi.465	The playfulness , we decided to use kinetic energy as a power sour 	
+TS3006d.C.dialog-act.dharshi.270	Oh Yeah we did our special colour for the 	
+TS3006d.B.dialog-act.dharshi.190	Yeah . 	
+TS3006d.D.dialog-act.dharshi.466	Okay . 	
+TS3006d.C.dialog-act.dharshi.271	Line widths , now that's a ten . 	
+TS3006d.D.dialog-act.dharshi.467	That's conceptual , yes . 	
+TS3006d.A.dialog-act.dharshi.361	That's enough to get started with , so 	
+TS3006d.B.dialog-act.dharshi.191	Yeah . Um , uh it's just a scroll 	
+TS3006d.D.dialog-act.dharshi.468	Mm . 	
+TS3006d.C.dialog-act.dharshi.272	It's gonna be one str scroll . 	
+TS3006d.D.dialog-act.dharshi.469	How many pages ? 	
+TS3006d.B.dialog-act.dharshi.192	Yeah , is it's horizontal or vertical ? 	
+TS3006d.A.dialog-act.dharshi.362	Uh , I just took one for every step and then a conclusion . 	
+TS3006d.D.dialog-act.dharshi.470	Alright . 	
+TS3006d.B.dialog-act.dharshi.193	I think 	
+TS3006d.D.dialog-act.dharshi.471	Y you have you have done the first two . 	
+TS3006d.C.dialog-act.dharshi.273	Horizontal's easier too , 	
+TS3006d.A.dialog-act.dharshi.363	Yeah . 	
+TS3006d.C.dialog-act.dharshi.274	'cause you can 	
+TS3006d.D.dialog-act.dharshi.472	Okay , 	
+TS3006d.D.dialog-act.dharshi.473	and and the look and feel is 	
+TS3006d.B.dialog-act.dharshi.194	Yeah . 	
+TS3006d.C.dialog-act.dharshi.275	Is it more natural than this ? 	
+TS3006d.A.dialog-act.dharshi.364	Well I think I have to make a p an issue called finance . 	
+TS3006d.B.dialog-act.dharshi.195	Yeah , yeah . 	
+TS3006d.C.dialog-act.dharshi.276	So let's say 	
+TS3006d.C.dialog-act.dharshi.278	Whoops . 'Kay . 	
+TS3006d.D.dialog-act.dharshi.474	Yeah . 	
+TS3006d.B.dialog-act.dharshi.196	Yes . 	
+TS3006d.C.dialog-act.dharshi.279	Basically . 	
+TS3006d.B.dialog-act.dharshi.197	It doesn't look like uh 	
+TS3006d.D.dialog-act.dharshi.475	The items we had to drop . 	
+TS3006d.A.dialog-act.dharshi.365	Yeah . 	
+TS3006d.B.dialog-act.dharshi.198	Uh it it's it's not Yeah . 	
+TS3006d.B.dialog-act.dharshi.199	It's not very fashionable anymore . But uh it's okay . 	
+TS3006d.C.dialog-act.dharshi.280	It's really ugly . 	
+TS3006d.B.dialog-act.dharshi.200	Yeah . 	
+TS3006d.D.dialog-act.dharshi.476	Where did we start with price ? 	
+TS3006d.D.dialog-act.dharshi.477	Twenty six and a half . 	
+TS3006d.B.dialog-act.dharshi.201	Maybe m make it bigger ? Or 	
+TS3006d.A.dialog-act.dharshi.366	Mm-hmm . 	
+TS3006d.D.dialog-act.dharshi.478	Or not ? 	
+TS3006d.D.dialog-act.dharshi.479	Or twenty six ? 	
+TS3006d.D.dialog-act.dharshi.480	Something like that . 	
+TS3006d.B.dialog-act.dharshi.202	Yeah . 	
+TS3006d.B.dialog-act.dharshi.203	That looks little bit more uh 	
+TS3006d.B.dialog-act.dharshi.204	Maybe that's a s a special colour for it . So we can make it uh special ? 	
+TS3006d.C.dialog-act.dharshi.282	Oh 	
+TS3006d.D.dialog-act.dharshi.481	This ? 	
+TS3006d.C.dialog-act.dharshi.281	What do you mean ? 	
+TS3006d.C.dialog-act.dharshi.283	Like a other colour than this one ? 	
+TS3006d.B.dialog-act.dharshi.206	Or or speckles in it ? 	
+TS3006d.B.dialog-act.dharshi.207	I dunno . Uh 	
+TS3006d.D.dialog-act.dharshi.482	Speckles ? 	
+TS3006d.B.dialog-act.dharshi.205		
+TS3006d.C.dialog-act.dharshi.285	Yeah can we do it uh 	
+TS3006d.C.dialog-act.dharshi.284	uh can we do a print ? 	
+TS3006d.B.dialog-act.dharshi.208	..$ 	
+TS3006d.B.dialog-act.dharshi.209	I'm not sure . 	
+TS3006d.C.dialog-act.dharshi.286	I think we have to choose , yeah ? 	
+TS3006d.A.dialog-act.dharshi.367	... . 	
+TS3006d.A.dialog-act.dharshi.368	I don't think so , if you see the options . But 	
+TS3006d.D.dialog-act.dharshi.483	Uh 	
+TS3006d.C.dialog-act.dharshi.287	Okay special colour . We do have special colour . 	
+TS3006d.C.dialog-act.dharshi.288	Does it mean uh that 	
+TS3006d.B.dialog-act.dharshi.210	Yeah red is already a special colour , I think . So 	
+TS3006d.B.dialog-act.dharshi.211	It's not very special , but uh 	
+TS3006d.D.dialog-act.dharshi.485	Yeah . 	
+TS3006d.C.dialog-act.dharshi.289	Shall we just give it some dots to make it look pretty ? 	
+TS3006d.B.dialog-act.dharshi.212	Yeah . 	
+TS3006d.C.dialog-act.dharshi.290	Purdy . 	
+TS3006d.B.dialog-act.dharshi.213	Just uh put the purple uh purple on it . 	
+TS3006d.D.dialog-act.dharshi.486	Yeah . Some some big dots . 	
+TS3006d.C.dialog-act.dharshi.291	Purple ? 	
+TS3006d.B.dialog-act.dharshi.214	That's trendy . 	
+TS3006d.D.dialog-act.dharshi.487	Yeah . 	
+TS3006d.C.dialog-act.dharshi.292	Yeah yeah . 	
+TS3006d.C.dialog-act.dharshi.293	Oh no my remote has acne . 	
+TS3006d.D.dialog-act.dharshi.484	... . 	
+TS3006d.D.dialog-act.dharshi.488	We have the original balance sheet , or 	
+TS3006d.B.dialog-act.dharshi.215		
+TS3006d.A.dialog-act.dharshi.373	Yeah . 	
+TS3006d.D.dialog-act.dharshi.489	Yeah . 	
+TS3006d.B.dialog-act.dharshi.216	Woah . 	
+TS3006d.C.dialog-act.dharshi.294	No . That's why we have that button . 	
+TS3006d.A.dialog-act.dharshi.372		
+TS3006d.A.dialog-act.dharshi.371		
+TS3006d.B.dialog-act.dharshi.217	Oh yeah . 	
+TS3006d.C.dialog-act.dharshi.295	It's so cute . 	
+TS3006d.B.dialog-act.dharshi.218	Hmm . 	
+TS3006d.B.dialog-act.dharshi.219	Oh what ? 	
+TS3006d.C.dialog-act.dharshi.296	Doh . 	
+TS3006d.D.dialog-act.dharshi.490	Woah . 	
+TS3006d.B.dialog-act.dharshi.220	? 	
+TS3006d.D.dialog-act.dharshi.491	Just cut . 	
+TS3006d.D.dialog-act.dharshi.492	Control Z_ . 	
+TS3006d.B.dialog-act.dharshi.221	Oh no . 	
+TS3006d.C.dialog-act.dharshi.297	Is that that ? 	
+TS3006d.D.dialog-act.dharshi.493	Yeah . 	
+TS3006d.A.dialog-act.dharshi.369		
+TS3006d.B.dialog-act.dharshi.222	No no . 	
+TS3006d.B.dialog-act.dharshi.223	Yeah . 	
+TS3006d.D.dialog-act.dharshi.494	Yeah . 	
+TS3006d.C.dialog-act.dharshi.298	How the We did we do that ? 	
+TS3006d.B.dialog-act.dharshi.224	Oh it's it's just one computer ? Or 	
+TS3006d.D.dialog-act.dharshi.495	Just dual screen . 	
+TS3006d.A.dialog-act.dharshi.370		
+TS3006d.B.dialog-act.dharshi.225	No . 	
+TS3006d.B.dialog-act.dharshi.226	But can we delete it , just with delete ? Or 	
+TS3006d.C.dialog-act.dharshi.299	We can try . 	
+TS3006d.A.dialog-act.dharshi.374		
+TS3006d.C.dialog-act.dharshi.300	That doesn't respond also to the undo . 	
+TS3006d.C.dialog-act.dharshi.301	It looks like it's 	
+TS3006d.B.dialog-act.dharshi.227	Crashed . 	
+TS3006d.C.dialog-act.dharshi.302	No , 	
+TS3006d.B.dialog-act.dharshi.228	Oh , no . 	
+TS3006d.D.dialog-act.dharshi.496	Very nice . 	
+TS3006d.B.dialog-act.dharshi.230	Okay . 	
+TS3006d.C.dialog-act.dharshi.304	Where do you want some more dots ? 	
+TS3006d.A.dialog-act.dharshi.375		
+TS3006d.B.dialog-act.dharshi.229	Yeah , over here . 	
+TS3006d.A.dialog-act.dharshi.376		
+TS3006d.B.dialog-act.dharshi.231	Hmm ? 	
+TS3006d.A.dialog-act.dharshi.379	You can't even draw anymore . 	
+TS3006d.D.dialog-act.dharshi.497	Yeah . Y y you you 	
+TS3006d.A.dialog-act.dharshi.380	Even children can draw . 	
+TS3006d.B.dialog-act.dharshi.232	What's this ? 	
+TS3006d.D.dialog-act.dharshi.498	you push the button or something . 	
+TS3006d.D.dialog-act.dharshi.499	Or 	
+TS3006d.A.dialog-act.dharshi.381	Can you just push pen and then keep on 	
+TS3006d.B.dialog-act.dharshi.234	Oh yeah . 	
+TS3006d.B.dialog-act.dharshi.233	Oh that's the select button . 	
+TS3006d.B.dialog-act.dharshi.235	It's uh 	
+TS3006d.A.dialog-act.dharshi.382	Hmm . 	
+TS3006d.C.dialog-act.dharshi.305	Okay , it's not the prettiest , I know . 	
+TS3006d.B.dialog-act.dharshi.236	No , it looks 	
+TS3006d.C.dialog-act.dharshi.306	It's not so random huh ? 	
+TS3006d.D.dialog-act.dharshi.500	Lot of options . 	
+TS3006d.B.dialog-act.dharshi.237	It's okay . 	
+TS3006d.A.dialog-act.dharshi.377		
+TS3006d.C.dialog-act.dharshi.303		
+TS3006d.B.dialog-act.dharshi.238	Specially the the R_ . 	
+TS3006d.D.dialog-act.dharshi.501	Yeah , the R_ and another R_ . 	
+TS3006d.C.dialog-act.dharshi.307		
+TS3006d.C.dialog-act.dharshi.308	Yeah okay . 	
+TS3006d.D.dialog-act.dharshi.502	It's called the Real Remote , right ? 	
+TS3006d.A.dialog-act.dharshi.383	Yeah . 	
+TS3006d.D.dialog-act.dharshi.503	Maybe maybe it c it can say that . The Real Remote . 	
+TS3006d.A.dialog-act.dharshi.384	Yeah 	
+TS3006d.A.dialog-act.dharshi.385	just on the the m um the L_C_D_ display . 	
+TS3006d.D.dialog-act.dharshi.504	Yeah . Welcome . 	
+TS3006d.C.dialog-act.dharshi.309	We can make a l a logo . 	
+TS3006d.A.dialog-act.dharshi.386	This is your Real Remote . 	
+TS3006d.D.dialog-act.dharshi.505	Yeah . Yeah . 	
+TS3006d.C.dialog-act.dharshi.310	Like uh put it like the shape . 	
+TS3006d.A.dialog-act.dharshi.387	Yeah . 	
+TS3006d.B.dialog-act.dharshi.239	D designed by 	
+TS3006d.C.dialog-act.dharshi.311	Something like that . 	
+TS3006d.B.dialog-act.dharshi.240	Okay . 	
+TS3006d.C.dialog-act.dharshi.312	I mean it's not too uh 	
+TS3006d.C.dialog-act.dharshi.313	That's not their logo , is it ? 	
+TS3006d.B.dialog-act.dharshi.241	No . 	
+TS3006d.B.dialog-act.dharshi.242	Do they have a lo 	
+TS3006d.B.dialog-act.dharshi.243	Oh , the here . 	
+TS3006d.B.dialog-act.dharshi.244	This i this is the logo . 	
+TS3006d.C.dialog-act.dharshi.314	Yeah . 	
+TS3006d.C.dialog-act.dharshi.315	It's a 	
+TS3006d.B.dialog-act.dharshi.245	Two R_s and a one 	
+TS3006d.A.dialog-act.dharshi.388	Yeah . 	
+TS3006d.A.dialog-act.dharshi.389	You can just reuse that , because the name is the same . Initials . 	
+TS3006d.C.dialog-act.dharshi.316		
+TS3006d.B.dialog-act.dharshi.246	. 	
+TS3006d.D.dialog-act.dharshi.506	You can copy and paste the picture if you want . 	
+TS3006d.C.dialog-act.dharshi.317	How 	
+TS3006d.C.dialog-act.dharshi.318	Shall we do the logo in black or not ? 	
+TS3006d.A.dialog-act.dharshi.390	Mm . 	
+TS3006d.B.dialog-act.dharshi.247	Yeah . 	
+TS3006d.D.dialog-act.dharshi.507	Yeah . 	
+TS3006d.D.dialog-act.dharshi.508	What is that ? Look more Looks more like a campfire . 	
+TS3006d.B.dialog-act.dharshi.248		
+TS3006d.C.dialog-act.dharshi.319	Are you dissing my drawing ? 	
+TS3006d.C.dialog-act.dharshi.320	This one ? 	
+TS3006d.D.dialog-act.dharshi.509	Yeah . 	
+TS3006d.C.dialog-act.dharshi.321	It looks like a ribbon . 	
+TS3006d.D.dialog-act.dharshi.510	Yeah . 	
+TS3006d.B.dialog-act.dharshi.249	Okay . 	
+TS3006d.C.dialog-act.dharshi.322	So who wants to draw ? 	
+TS3006d.C.dialog-act.dharshi.323	This is actually quite fun . 	
+TS3006d.C.dialog-act.dharshi.324	Do we need to do anything ? 	
+TS3006d.C.dialog-act.dharshi.325	I hear you people are typing . 	
+TS3006d.B.dialog-act.dharshi.250	Are we uh ready ? Uh Or 	
+TS3006d.D.dialog-act.dharshi.511	Type in your report . 	
+TS3006d.C.dialog-act.dharshi.326	Oh , okay . 	
+TS3006d.D.dialog-act.dharshi.512	I don't see any new messages . So 	
+TS3006d.A.dialog-act.dharshi.391	Luckily . 	
+TS3006d.D.dialog-act.dharshi.513	Hmm ? 	
+TS3006d.D.dialog-act.dharshi.514	Luckily , yeah . 	
+TS3006d.B.dialog-act.dharshi.251	Is this uh the last assignment ? Or 	
+TS3006d.A.dialog-act.dharshi.392	Yeah , it's uh 	
+TS3006d.B.dialog-act.dharshi.252	Final 	
+TS3006d.A.dialog-act.dharshi.393	Yeah . 	
+TS3006d.C.dialog-act.dharshi.327	It's almost four . 	
+TS3006d.D.dialog-act.dharshi.516	What time do we have to deliver the report ? Four o'clock or 	
+TS3006d.C.dialog-act.dharshi.328	At four , yeah , ? 	
+TS3006d.D.dialog-act.dharshi.517	Or before that ? 	
+TS3006d.A.dialog-act.dharshi.394	Okay . And copy this . 	
+TS3006d.D.dialog-act.dharshi.518	Just compare uh 	
+TS3006d.A.dialog-act.dharshi.395	Just a minute . 	
+TS3006d.C.dialog-act.dharshi.329	This is really bizarre . 	
+TS3006d.A.dialog-act.dharshi.397	It's 	
+TS3006d.C.dialog-act.dharshi.330	It looks like there's a It looks like a butterfly . 	
+TS3006d.B.dialog-act.dharshi.254	Um bug . Bug . 	
+TS3006d.A.dialog-act.dharshi.398	It's somewhere 	
+TS3006d.A.dialog-act.dharshi.399	I d It isn't inside . 	
+TS3006d.C.dialog-act.dharshi.331		
+TS3006d.B.dialog-act.dharshi.256	No it's in inside the 	
+TS3006d.A.dialog-act.dharshi.407	Yeah , and don't know how it's or eject it . 	
+TS3006d.D.dialog-act.dharshi.522	No it's on the on the beamer I guess . 	
+TS3006d.B.dialog-act.dharshi.257	No it Oh . 	
+TS3006d.C.dialog-act.dharshi.332	No , but it i It's not a bu a beamer . 	
+TS3006d.A.dialog-act.dharshi.408	From up there ? 	
+TS3006d.A.dialog-act.dharshi.409	No . 	
+TS3006d.C.dialog-act.dharshi.333	B It's a normal T_V_ screen , kind of thing . 	
+TS3006d.B.dialog-act.dharshi.258	Hey , you've got it uh read only . 	
+TS3006d.A.dialog-act.dharshi.410	Yeah it's somewhere in here . 	
+TS3006d.B.dialog-act.dharshi.259	So you have to uh 	
+TS3006d.A.dialog-act.dharshi.411	Save copy . 	
+TS3006d.D.dialog-act.dharshi.523	Yeah . Strange . 	
+TS3006d.D.dialog-act.dharshi.524	This something what's projection from behind , I guess . 	
+TS3006d.A.dialog-act.dharshi.412	Yeah . 	
+TS3006d.B.dialog-act.dharshi.253	. 	
+TS3006d.A.dialog-act.dharshi.396	. 	
+TS3006d.B.dialog-act.dharshi.260	It's too uh 	
+TS3006d.C.dialog-act.dharshi.334	Oh . 	
+TS3006d.C.dialog-act.dharshi.335	Yeah there is some kind of projection I think . 	
+TS3006d.A.dialog-act.dharshi.413	Yes . 	
+TS3006d.D.dialog-act.dharshi.525	Yeah 	
+TS3006d.D.dialog-act.dharshi.526	it it's a beamer , but then with a 	
+TS3006d.C.dialog-act.dharshi.336	With a with a mirror , huh ? Or something . 	
+TS3006d.D.dialog-act.dharshi.527	within a mirror , yeah . 	
+TS3006d.C.dialog-act.dharshi.337	Yeah . 	
+TS3006d.A.dialog-act.dharshi.406	. 	
+TS3006d.D.dialog-act.dharshi.528	So it looks like a big screen , but in fact it isn't . 	
+TS3006d.C.dialog-act.dharshi.338	So are we gonna change anything to this ? 	
+TS3006d.B.dialog-act.dharshi.261	It is 	
+TS3006d.C.dialog-act.dharshi.339	I mean is it gonna 	
+TS3006d.D.dialog-act.dharshi.529	Well it's it's single single curved . 	
+TS3006d.A.dialog-act.dharshi.414	Well 	
+TS3006d.B.dialog-act.dharshi.262	It's now single curved . So 	
+TS3006d.D.dialog-act.dharshi.530	Th this is flat . Yeah . 	
+TS3006d.C.dialog-act.dharshi.340	This is gonna be flat . Yeah exactly . 	
+TS3006d.B.dialog-act.dharshi.263	It's flat . Oh no . 	
+TS3006d.A.dialog-act.dharshi.405		
+TS3006d.B.dialog-act.dharshi.264	Okay . It doesn't matter . 	
+TS3006d.B.dialog-act.dharshi.265	It's it's 	
+TS3006d.D.dialog-act.dharshi.531	But it's it's better to have in the front , this kind of shape , because it looks nice . 	
+TS3006d.A.dialog-act.dharshi.404		
+TS3006d.D.dialog-act.dharshi.532	I mean you see more of this than of that . 	
+TS3006d.C.dialog-act.dharshi.341	Yeah . 	
+TS3006d.D.dialog-act.dharshi.533	Yeah , more like that . 	
+TS3006d.C.dialog-act.dharshi.342	Yeah . 	
+TS3006d.C.dialog-act.dharshi.343	And this is also gonna be 	
+TS3006d.D.dialog-act.dharshi.534		
+TS3006d.D.dialog-act.dharshi.535	It's not very uh ideal . 	
+TS3006d.C.dialog-act.dharshi.344	Nope . 	
+TS3006d.D.dialog-act.dharshi.536	Do like this . 	
+TS3006d.C.dialog-act.dharshi.345	But sometimes then uh all of a sudden it does work . 	
+TS3006d.D.dialog-act.dharshi.537	Yeah . 	
+TS3006d.D.dialog-act.dharshi.538	What's this ? 	
+TS3006d.B.dialog-act.dharshi.266	That's the detector uh for the 	
+TS3006d.D.dialog-act.dharshi.539	Ooh . 	
+TS3006d.B.dialog-act.dharshi.267	Okay . 	
+TS3006d.C.dialog-act.dharshi.346	Maybe 	
+TS3006d.D.dialog-act.dharshi.540	But I don't see a detector over there . 	
+TS3006d.B.dialog-act.dharshi.268	Yeah . I don't know . 	
+TS3006d.C.dialog-act.dharshi.347	No it's 	
+TS3006d.C.dialog-act.dharshi.348	I think you only need two points . 	
+TS3006d.C.dialog-act.dharshi.349	Or not . 	
+TS3006d.C.dialog-act.dharshi.350	No , you sh 	
+TS3006d.D.dialog-act.dharshi.541	I thought it was a kind of thing to put it on , and then draw right lines or something . 	
+TS3006d.B.dialog-act.dharshi.269	Maybe that's why it's it's not working , because it's more 	
+TS3006d.D.dialog-act.dharshi.521		
+TS3006d.C.dialog-act.dharshi.351	Slanted yeah . 	
+TS3006d.B.dialog-act.dharshi.270	Yeah . 	
+TS3006d.D.dialog-act.dharshi.542	Yeah . 	
+TS3006d.C.dialog-act.dharshi.352	Yeah . 	
+TS3006d.D.dialog-act.dharshi.543	Or just messed it up . 	
+TS3006d.B.dialog-act.dharshi.255		
+TS3006d.C.dialog-act.dharshi.353	Well maybe . 	
+TS3006d.B.dialog-act.dharshi.271	Oh . Oh yeah . 	
+TS3006d.D.dialog-act.dharshi.544	Yeah . 	
+TS3006d.C.dialog-act.dharshi.354	Yeah it it matters for the aim of this thing . 	
+TS3006d.B.dialog-act.dharshi.272	Yeah . 	
+TS3006d.D.dialog-act.dharshi.545	Yeah but it wasn't good . 	
+TS3006d.B.dialog-act.dharshi.273	You've to make it s uh ninety degrees . 	
+TS3006d.D.dialog-act.dharshi.546	Yeah it it has to touch the corners , I guess . 	
+TS3006d.D.dialog-act.dharshi.547	But th this one wasn't good , because if I was drawing here , I drew a line and then it came over here . 	
+TS3006d.A.dialog-act.dharshi.415	Um now you probably have to recalibrate . 	
+TS3006d.B.dialog-act.dharshi.275	You have 	
+TS3006d.D.dialog-act.dharshi.520		
+TS3006d.A.dialog-act.dharshi.416	Oh , five minutes to the end of the meeting . 	
+TS3006d.D.dialog-act.dharshi.548	Oh . 	
+TS3006d.B.dialog-act.dharshi.274	Oh we're always long . 	
+TS3006d.A.dialog-act.dharshi.417	And the recalibration is done using this icon here . 	
+TS3006d.B.dialog-act.dharshi.276	Yeah , 	
+TS3006d.D.dialog-act.dharshi.549	Ooh . 	
+TS3006d.B.dialog-act.dharshi.277	can we t can we get to that @ i 	
+TS3006d.A.dialog-act.dharshi.403		
+TS3006d.B.dialog-act.dharshi.278	Oh it's not working anymore . 	
+TS3006d.D.dialog-act.dharshi.550	Yeah yeah , it's it's okay . It's working again . 	
+TS3006d.A.dialog-act.dharshi.418	Yeah well I just 	
+TS3006d.C.dialog-act.dharshi.355		
+TS3006d.B.dialog-act.dharshi.279	Oh yeah yeah yeah yeah , it's it's working , it's working . 	
+TS3006d.C.dialog-act.dharshi.356	Yeah . 	
+TS3006d.A.dialog-act.dharshi.420	Okay . 	
+TS3006d.D.dialog-act.dharshi.551	It's better than before . 	
+TS3006d.B.dialog-act.dharshi.280	Yeah . 	
+TS3006d.D.dialog-act.dharshi.552	Yeah . 	
+TS3006d.B.dialog-act.dharshi.281	We're improving uh Yeah . 	
+TS3006d.A.dialog-act.dharshi.421	You go ahead . 	
+TS3006d.D.dialog-act.dharshi.553	Yeah that's improved uh pretty much . 	
+TS3006d.B.dialog-act.dharshi.282	Yeah . 	
+TS3006d.C.dialog-act.dharshi.357	Yeah it's only a bit like to that side , 	
+TS3006d.D.dialog-act.dharshi.554	Yeah . 	
+TS3006d.C.dialog-act.dharshi.358	but that is that one by the way . 	
+TS3006d.D.dialog-act.dharshi.555	Yeah but it's better , it's better 	
+TS3006d.C.dialog-act.dharshi.359	'Cause this one makes the angle either like this . 	
+TS3006d.B.dialog-act.dharshi.283	No it 	
+TS3006d.C.dialog-act.dharshi.360	So i if I change this , it will go there , if I change that , will go there . 	
+TS3006d.D.dialog-act.dharshi.556	Mm . 	
+TS3006d.D.dialog-act.dharshi.557	No . It's better than it was I guess . 	
+TS3006d.C.dialog-act.dharshi.361	Mm-hmm . 	
+TS3006d.C.dialog-act.dharshi.362	I will take this away 'cause it looks messy . 	
+TS3006d.D.dialog-act.dharshi.558	Silly . 	
+TS3006d.D.dialog-act.dharshi.559	Yeah . Works pretty well . 	
+TS3006d.D.dialog-act.dharshi.560	Five minutes before the meeting's over . 	
+TS3006d.A.dialog-act.dharshi.422	Yeah . Yeah . 	
+TS3006d.D.dialog-act.dharshi.561	And then ? 	
+TS3006d.D.dialog-act.dharshi.562	We have to present 	
+TS3006d.A.dialog-act.dharshi.423	Then I have to uh uh write this , 	
+TS3006d.A.dialog-act.dharshi.424	and I don't know if you have to present , because I didn't receive any information about that so far . 	
+TS3006d.D.dialog-act.dharshi.563	Alright . 	
+TS3006d.C.dialog-act.dharshi.363	Maybe we will . 	
+TS3006d.A.dialog-act.dharshi.425	Maybe we get a a final mail . 	
+TS3006d.D.dialog-act.dharshi.564	So it after the 	
+TS3006d.D.dialog-act.dharshi.565	after after these five minutes , you have to 	
+TS3006d.A.dialog-act.dharshi.426	Yeah . 	
+TS3006d.A.dialog-act.dharshi.427	Yeah , I have still ten minutes to finish the report . 	
+TS3006d.C.dialog-act.dharshi.364	What's this anyway ? 	
+TS3006d.B.dialog-act.dharshi.284	So cake . 	
+TS3006d.D.dialog-act.dharshi.566	Alright . 	
+TS3006d.D.dialog-act.dharshi.567	After after that five minutes , you have ten minutes to finish it , or 	
+TS3006d.C.dialog-act.dharshi.365	It looks like candle wax . 	
+TS3006d.A.dialog-act.dharshi.428	Yeah . 	
+TS3006d.D.dialog-act.dharshi.568	Alright . 	
+TS3006d.D.dialog-act.dharshi.569	And we uh 	
+TS3006d.A.dialog-act.dharshi.429	And you can uh just uh relax and uh have cup of coffee or 	
+TS3006d.D.dialog-act.dharshi.570	Right . Chill . 	
+TS3006d.A.dialog-act.dharshi.431	oh no , they don't have beer here so you can't celebrate . 	
+TS3006d.D.dialog-act.dharshi.571	Huh . 	
+TS3006d.A.dialog-act.dharshi.430	You can just if you ma finish my presentation please . 	
+TS3006d.A.dialog-act.dharshi.432	Uh over there . 	
+TS3006d.D.dialog-act.dharshi.572	Uh Yeah ? 	
+TS3006d.A.dialog-act.dharshi.433	The presentation is still open . 	
+TS3006d.A.dialog-act.dharshi.434	So if you finish that then you'll see uh 	
+TS3006d.A.dialog-act.dharshi.435	Yeah next . 	
+TS3006d.D.dialog-act.dharshi.573	Next slide . 	
+TS3006d.A.dialog-act.dharshi.436	Oh yeah , we have to do the project uh evaluation . 	
+TS3006d.A.dialog-act.dharshi.437	Just uh do that quickly . 	
+TS3006d.D.dialog-act.dharshi.574	Yeah ? 	
+TS3006d.A.dialog-act.dharshi.438	Uh 	
+TS3006d.D.dialog-act.dharshi.575	How do you do it ? 	
+TS3006d.A.dialog-act.dharshi.439	Uh well basically what that says , we discuss it and um 	
+TS3006d.D.dialog-act.dharshi.576	Alright . 	
+TS3006d.A.dialog-act.dharshi.440	So how were did the project process uh go ? 	
+TS3006d.A.dialog-act.dharshi.441	Did you , were you all pleased with the process as it was ? 	
+TS3006d.A.dialog-act.dharshi.442	Or are there uh 	
+TS3006d.C.dialog-act.dharshi.366	Uh th uh do you mean the the interaction between us ? Or 	
+TS3006d.A.dialog-act.dharshi.443	Yeah the interaction and the steps we followed , and and so forth . 	
+TS3006d.C.dialog-act.dharshi.367	Yeah well at first I was really stressed . Because it went a bit fast . 	
+TS3006d.A.dialog-act.dharshi.402		
+TS3006d.D.dialog-act.dharshi.577	Yeah . 	
+TS3006d.C.dialog-act.dharshi.368	But then as I knew the tempo that I had to be on , the second time I think I did a bit better . 	
+TS3006d.D.dialog-act.dharshi.578	Yeah . 	
+TS3006d.A.dialog-act.dharshi.444	Yeah . 	
+TS3006d.C.dialog-act.dharshi.369	And the third time yeah , I mean 	
+TS3006d.D.dialog-act.dharshi.579	And we move more to to working together as team , 	
+TS3006d.B.dialog-act.dharshi.285	No . 	
+TS3006d.D.dialog-act.dharshi.580	because at first you you make your individual contribution , and then come here , and you have no idea what the others have to make . 	
+TS3006d.A.dialog-act.dharshi.445	Mm-hmm . 	
+TS3006d.A.dialog-act.dharshi.401	. 	
+TS3006d.B.dialog-act.dharshi.286	No . 	
+TS3006d.C.dialog-act.dharshi.370	Yeah , yeah yeah yeah . 	
+TS3006d.D.dialog-act.dharshi.581	And then finally you have some idea , okay this is gonna w this is what we gonna make together and okay I will arrange this and you will arrange that , 	
+TS3006d.A.dialog-act.dharshi.446	Mm-hmm . 	
+TS3006d.D.dialog-act.dharshi.582	and you have a k a kind of idea what you can expect on the next half hour when you have to work on your own . So 	
+TS3006d.D.dialog-act.dharshi.583	The process , I mean , the interaction between us became better and better I guess . 	
+TS3006d.C.dialog-act.dharshi.371	Yeah we 	
+TS3006d.B.dialog-act.dharshi.287	Yeah . 	
+TS3006d.B.dialog-act.dharshi.288	Yeah . Especially after the first meeting . 	
+TS3006d.A.dialog-act.dharshi.447	Mm-hmm . 	
+TS3006d.C.dialog-act.dharshi.372	Mm-hmm . 	
+TS3006d.D.dialog-act.dharshi.584	Yeah , especially if f f if you see uh you se 	
+TS3006d.B.dialog-act.dharshi.289	And 	
+TS3006d.D.dialog-act.dharshi.585	you saw the largest difference from the first to the second meeting I guess . 	
+TS3006d.B.dialog-act.dharshi.290	Yeah . 	
+TS3006d.C.dialog-act.dharshi.373	Yeah . Definitely . 	
+TS3006d.A.dialog-act.dharshi.448	Okay and was that due to my leadership ? 	
+TS3006d.B.dialog-act.dharshi.291	Yeah yeah yeah . 	
+TS3006d.A.dialog-act.dharshi.400		
+TS3006d.D.dialog-act.dharshi.519		
+TS3006d.C.dialog-act.dharshi.374	Well you did become more assertive the the second time round , so that 	
+TS3006d.A.dialog-act.dharshi.449	Yeah ? 	
+TS3006d.C.dialog-act.dharshi.375	Yeah . You were more in charge kind of thing . 	
+TS3006d.B.dialog-act.dharshi.292	Yeah . 	
+TS3006d.D.dialog-act.dharshi.586	Yeah . 	
+TS3006d.A.dialog-act.dharshi.450	That okay ? 	
+TS3006d.A.dialog-act.dharshi.451	Okay . 	
+TS3006d.A.dialog-act.dharshi.452	Um was there uh enough room for creativity ? 	
+TS3006d.C.dialog-act.dharshi.376	I guess so . 	
+TS3006d.D.dialog-act.dharshi.587	Yeah . 	
+TS3006d.B.dialog-act.dharshi.293	Yeah 	
+TS3006d.B.dialog-act.dharshi.294	but only the the financial parts uh 	
+TS3006d.C.dialog-act.dharshi.377	I mean 	
+TS3006d.D.dialog-act.dharshi.588	Li Limiteded afterwards , 	
+TS3006d.B.dialog-act.dharshi.295	Yeah . 	
+TS3006d.D.dialog-act.dharshi.589	but If if you don't take that into account , there's plenty of room for creativ creativity . 	
+TS3006d.C.dialog-act.dharshi.56	I 	
+TS3006d.D.dialog-act.dharshi.590	Also not only the drawing and the the making of the thing itself , but also in explaining it to the other people , by means of uh 	
+TS3006d.C.dialog-act.dharshi.378	We were pretty democratic . 	
+TS3006d.D.dialog-act.dharshi.591	the the board and uh PowerPoint and Word and stuff like that . 	
+TS3006d.A.dialog-act.dharshi.453	So and the uh about the board digital pen ? 	
+TS3006d.A.dialog-act.dharshi.454	Uh was that helpful or 	
+TS3006d.C.dialog-act.dharshi.379	Yeah . 	
+TS3006d.D.dialog-act.dharshi.592	Mm uh I think in in essence 	
+TS3006d.A.dialog-act.dharshi.455	Ooh . 	
+TS3006d.A.dialog-act.dharshi.126		
+TS3006d.D.dialog-act.dharshi.593	the digital pen is better than the SMARTboard . 	
+TS3006d.D.dialog-act.dharshi.594	Because it it it just works better . 	
+TS3006d.D.dialog-act.dharshi.595	I mean uh uh I've made 	
+TS3006d.A.dialog-act.dharshi.456	Yeah it works . 	
+TS3006d.D.dialog-act.dharshi.596	yeah , uh I've made several notes just to test it , 	
+TS3006d.D.dialog-act.dharshi.597	and and just put the pen in into it , and then it came onto my screen and it looked perfectly . 	
+TS3006d.B.dialog-act.dharshi.296	Yeah . 	
+TS3006d.D.dialog-act.dharshi.598	So it it's better a better device than uh 	
+TS3006d.A.dialog-act.dharshi.457	Mm-hmm . 	
+TS3006d.C.dialog-act.dharshi.380	Maybe Yeah . 	
+TS3006d.D.dialog-act.dharshi.599	than the screen . 	
+TS3006d.D.dialog-act.dharshi.600	But the screen is useful , in essence , but it doesn't work that well . 	
+TS3006d.C.dialog-act.dharshi.381	It's uh it's 	
+TS3006d.C.dialog-act.dharshi.382	The the pen is more intuitive , 'cause we're all used to writing with pen . 	
+TS3006d.A.dialog-act.dharshi.458	Use the pen . 	
+TS3006d.D.dialog-act.dharshi.601		
+TS3006d.C.dialog-act.dharshi.383	And uh as I said , uh I uh have no idea how PowerPoint works , so will take me half a day to be able to make a normal PowerPoint presentation . 	
+TS3006d.D.dialog-act.dharshi.602	Yeah . 	
+TS3006d.C.dialog-act.dharshi.384	But once I get to know the program probably , I mean , it looks better , you know . 	
+TS3006d.C.dialog-act.dharshi.385	Or uh something like that . 	
+TS3006d.C.dialog-act.dharshi.386	You can 	
+TS3006d.C.dialog-act.dharshi.388	give it a kind of a home style , 	
+TS3006d.C.dialog-act.dharshi.389	like we have i the the logo and everything . 	
+TS3006d.A.dialog-act.dharshi.459	Yeah yeah . 	
+TS3006d.C.dialog-act.dharshi.390	And I don't know . 	
+TS3006d.D.dialog-act.dharshi.603	Yep . 	
+TS3006d.A.dialog-act.dharshi.460	Blink . Oh . 	
+TS3006d.D.dialog-act.dharshi.604	Warning . Finish meeting now . 	
+TS3006d.B.dialog-act.dharshi.297	Finish meeting . 	
+TS3006d.A.dialog-act.dharshi.461	Okay , are are there any new ideas about this ? 	
+TS3006d.A.dialog-act.dharshi.462	All I think 	
+TS3006d.A.dialog-act.dharshi.463	I didn't really receive , yeah . 	
+TS3006d.D.dialog-act.dharshi.605	Well , it 	
+TS3006d.D.dialog-act.dharshi.606	It's use especially useful , I guess , to to evaluate designs and graph graphical stuff . 	
+TS3006d.A.dialog-act.dharshi.464	Uh uh w uh 	
+TS3006d.D.dialog-act.dharshi.607	And and 	
+TS3006d.A.dialog-act.dharshi.465	S sorry uh 	
+TS3006d.D.dialog-act.dharshi.608	the screen and stuff like that . 	
+TS3006d.A.dialog-act.dharshi.466	Mm-hmm . 	
+TS3006d.B.dialog-act.dharshi.298	I think the PowerPoint is is too limited . 	
+TS3006d.B.dialog-act.dharshi.299	You can't uh draw easy in in PowerPoint . 	
+TS3006d.B.dialog-act.dharshi.300	It has to be uh yeah . 	
+TS3006d.B.dialog-act.dharshi.301	The drawing board has to be integrated into PowerPoint , so that you can just easily 	
+TS3006d.D.dialog-act.dharshi.609	Yeah . 	
+TS3006d.B.dialog-act.dharshi.51		
+TS3006d.C.dialog-act.dharshi.391	Yeah the the the problem with PowerPoint for me is that you have to i put in the pre-made chunks c as well . 	
+TS3006d.B.dialog-act.dharshi.302	Yeah . 	
+TS3006d.C.dialog-act.dharshi.392	You know , you can draw something on the sketch-board and then take it there , or whatever . 	
+TS3006d.A.dialog-act.dharshi.467	Yeah . 	
+TS3006d.D.dialog-act.dharshi.610	Yeah . 	
+TS3006d.D.dialog-act.dharshi.611	Yeah . But it it's useful to to show something to to an a small audience , and then to 	
+TS3006d.B.dialog-act.dharshi.303	Yeah just for text , for text it's uh it's okay . But 	
+TS3006d.D.dialog-act.dharshi.612	Yeah . These these kind of screens this size are useful to discuss things . So 	
+TS3006d.B.dialog-act.dharshi.50		
+TS3006d.A.dialog-act.dharshi.468	Oh . 	
+TS3006d.D.dialog-act.dharshi.613	Yes . Check your email . 	
+TS3006d.A.dialog-act.dharshi.469	Uh we should uh enter our questionnaire . 	
+TS3006d.D.dialog-act.dharshi.614	You also . 	
+TS3006d.A.dialog-act.dharshi.123		
+TS3006d.B.dialog-act.dharshi.304	'Kay . 	
+TS3006d.A.dialog-act.dharshi.470	Ah . 	
+TS3006d.A.dialog-act.dharshi.124	Woah . 	
+TS3006d.C.dialog-act.dharshi.393	Alright . 	
+TS3006d.D.dialog-act.dharshi.615	Right . 	
+TS3006d.A.dialog-act.dharshi.471	Okay . Uh okay . 	
+TS3006d.B.dialog-act.dharshi.305	Okay . 	
+TS3006d.C.dialog-act.dharshi.394	Alright . 	
+TS3006d.D.dialog-act.dharshi.616	Yes boss . 	
+TS3006d.C.dialog-act.dharshi.395	Well , s see you in a second huh ? . 	
+TS3006d.A.dialog-act.dharshi.472	That's the management . 	
+TS3006d.D.dialog-act.dharshi.617	Well see you soon . 	
+TS3006d.B.dialog-act.dharshi.306	Oh . 	
+TS3006d.B.dialog-act.dharshi.307	Okay . 	
+TS3006d.A.dialog-act.dharshi.473	Hope so . 	
+TS3006d.D.dialog-act.dharshi.618	Yeah . 	
+TS3006d.A.dialog-act.dharshi.125	Um 	
+TS3006d.C.dialog-act.dharshi.396	Yeah we have to pull it this way , huh ? 	
+TS3006d.C.dialog-act.dharshi.397	Wait . 	
+

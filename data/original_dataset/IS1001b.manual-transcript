@@ -1,0 +1,900 @@
+Observation: IS1001b; Result size: 897; atts: 2
+$d@nite:id	$d	
+IS1001b.A.dialog-act.dharshi.1		
+IS1001b.C.dialog-act.dharshi.1		
+IS1001b.C.dialog-act.dharshi.2		
+IS1001b.A.dialog-act.dharshi.2		
+IS1001b.C.dialog-act.dharshi.3	Okay . 	
+IS1001b.A.dialog-act.dharshi.3	Okay everyone's ready . 	
+IS1001b.B.dialog-act.dharshi.3	Hello . 	
+IS1001b.A.dialog-act.dharshi.5	So we are here for uh for uh functional design . 	
+IS1001b.B.dialog-act.dharshi.1		
+IS1001b.A.dialog-act.dharshi.4	Okay ? 	
+IS1001b.A.dialog-act.dharshi.7	So we are here for the functional design meeting mm 	
+IS1001b.A.dialog-act.dharshi.8	so first I will show the agenda so 	
+IS1001b.A.dialog-act.dharshi.9	we will uh 	
+IS1001b.A.dialog-act.dharshi.10	I will take notes during this meeting so 	
+IS1001b.B.dialog-act.dharshi.2		
+IS1001b.A.dialog-act.dharshi.11	I will try to summarise it and put that summary in the shared folder if you want to look at it afterwards 	
+IS1001b.A.dialog-act.dharshi.12	so then uh each of you will uh lead a presentation on the task that has been required last time 	
+IS1001b.A.dialog-act.dharshi.13	so user requirement specification , technical function design and working design . 	
+IS1001b.A.dialog-act.dharshi.14	Then I will uh present you some new project requirements I received from uh the management board . 	
+IS1001b.A.dialog-act.dharshi.15	Then we will take uh the decision on on the remote control uh needed functions 	
+IS1001b.A.dialog-act.dharshi.16	and then I will assign you the task for the next part of the meeting . 	
+IS1001b.A.dialog-act.dharshi.17	Of the of the process . 	
+IS1001b.A.dialog-act.dharshi.18	So uh who want to start the the presentation of what they did ? 	
+IS1001b.C.dialog-act.dharshi.4	F do you want to start ? 	
+IS1001b.B.dialog-act.dharshi.4	Make a start yeah . 	
+IS1001b.A.dialog-act.dharshi.20	You can start . 	
+IS1001b.B.dialog-act.dharshi.5	So . 	
+IS1001b.A.dialog-act.dharshi.19		
+IS1001b.B.dialog-act.dharshi.6	Cable , camera . 	
+IS1001b.A.dialog-act.dharshi.21	You have uh PowerPoint ? 	
+IS1001b.B.dialog-act.dharshi.8	Should be in my in their folder 	
+IS1001b.B.dialog-act.dharshi.9	no ? 	
+IS1001b.A.dialog-act.dharshi.22	Ah yeah maybe there . 	
+IS1001b.B.dialog-act.dharshi.10	Up . 	
+IS1001b.A.dialog-act.dharshi.23	Okay . 	
+IS1001b.A.dialog-act.dharshi.25	Who are you ? 	
+IS1001b.B.dialog-act.dharshi.12	Um at three I think . 	
+IS1001b.A.dialog-act.dharshi.24		
+IS1001b.B.dialog-act.dharshi.13	No ? 	
+IS1001b.B.dialog-act.dharshi.14	Mm . 	
+IS1001b.A.dialog-act.dharshi.27	Ouch . 	
+IS1001b.B.dialog-act.dharshi.11		
+IS1001b.A.dialog-act.dharshi.28	And 	
+IS1001b.C.dialog-act.dharshi.5	Okay . 	
+IS1001b.A.dialog-act.dharshi.26	We have a technical problem uh . 	
+IS1001b.B.dialog-act.dharshi.15	Do we think w s in the in the wrong folder maybe ? 	
+IS1001b.B.dialog-act.dharshi.16	It is possible . 	
+IS1001b.A.dialog-act.dharshi.29	You put it on 	
+IS1001b.C.dialog-act.dharshi.6	No . 	
+IS1001b.B.dialog-act.dharshi.17	It was somewhere in something like this . 	
+IS1001b.B.dialog-act.dharshi.18	I don't remember the name actually 	
+IS1001b.B.dialog-act.dharshi.19	must be something like messenger AMI or something . 	
+IS1001b.C.dialog-act.dharshi.7	What do you have in short cut ? 	
+IS1001b.B.dialog-act.dharshi.20	Go up . 	
+IS1001b.C.dialog-act.dharshi.8	Participant two . 	
+IS1001b.B.dialog-act.dharshi.21	Yeah go up . 	
+IS1001b.A.dialog-act.dharshi.30	Yeah . 	
+IS1001b.B.dialog-act.dharshi.22	Again . 	
+IS1001b.B.dialog-act.dharshi.23	No . 	
+IS1001b.B.dialog-act.dharshi.24	Go back . 	
+IS1001b.A.dialog-act.dharshi.31	You have no 	
+IS1001b.B.dialog-act.dharshi.25	Uh maybe messenger AMI . 	
+IS1001b.B.dialog-act.dharshi.26	Messenger . 	
+IS1001b.A.dialog-act.dharshi.32	Over . 	
+IS1001b.A.dialog-act.dharshi.33	Okay . 	
+IS1001b.B.dialog-act.dharshi.27	No . There is nothing . 	
+IS1001b.A.dialog-act.dharshi.34	There's no 	
+IS1001b.A.dialog-act.dharshi.35	We have a technical problem . 	
+IS1001b.B.dialog-act.dharshi.28	Let's go and check . 	
+IS1001b.C.dialog-act.dharshi.9	Yeah . 	
+IS1001b.B.dialog-act.dharshi.29	I'll go and check . 	
+IS1001b.C.dialog-act.dharshi.10	Otherwise , could you just describe 	
+IS1001b.C.dialog-act.dharshi.11	by hand ? 	
+IS1001b.B.dialog-act.dharshi.30	Okay . 	
+IS1001b.C.dialog-act.dharshi.12	With the the whiteboard ? 	
+IS1001b.B.dialog-act.dharshi.31	Yeah . 	
+IS1001b.A.dialog-act.dharshi.36	If you remember yeah 	
+IS1001b.B.dialog-act.dharshi.32	Yeah . 	
+IS1001b.A.dialog-act.dharshi.37	but that's 	
+IS1001b.B.dialog-act.dharshi.33	So uh . 	
+IS1001b.B.dialog-act.dharshi.34	Basically what we want here is a remote control 	
+IS1001b.B.dialog-act.dharshi.35	right . 	
+IS1001b.A.dialog-act.dharshi.38	Yeah . 	
+IS1001b.B.dialog-act.dharshi.36	So um the question well first of all what to control . 	
+IS1001b.B.dialog-act.dharshi.37	So most people want to have a a remote for their hi-fi and T_V_ and stuff like that . 	
+IS1001b.C.dialog-act.dharshi.13	Mm-hmm . 	
+IS1001b.B.dialog-act.dharshi.38	And but other people want th also remotes for controlling uh and toys like robotic pets and little robots and stuff 	
+IS1001b.C.dialog-act.dharshi.14	Mm-hmm . 	
+IS1001b.B.dialog-act.dharshi.39	and other people also want to have remotes for controlling um whole house . 	
+IS1001b.C.dialog-act.dharshi.15	Mm-hmm . 	
+IS1001b.A.dialog-act.dharshi.39	Yeah . 	
+IS1001b.B.dialog-act.dharshi.43	Yeah , 	
+IS1001b.B.dialog-act.dharshi.44	so there's a project I think called X_ house or something like that that does that , uh you can integrate your remote with uh computers stuff . 	
+IS1001b.C.dialog-act.dharshi.16	Mm-hmm . 	
+IS1001b.B.dialog-act.dharshi.40	So 	
+IS1001b.B.dialog-act.dharshi.45	there is one that is one thing . 	
+IS1001b.B.dialog-act.dharshi.41	The other is the 	
+IS1001b.B.dialog-act.dharshi.42	the finder feature yeah by whistling or whatever . 	
+IS1001b.B.dialog-act.dharshi.46	Uh if you have the finder feature then you can also have 	
+IS1001b.C.dialog-act.dharshi.17	Okay . 	
+IS1001b.B.dialog-act.dharshi.47	uh at the same time as and general voice commands if you want yeah . 	
+IS1001b.C.dialog-act.dharshi.18	Mm-hmm . 	
+IS1001b.B.dialog-act.dharshi.48	So I think it should be a package in that case . 	
+IS1001b.B.dialog-act.dharshi.53	Uh 	
+IS1001b.B.dialog-act.dharshi.49	so the user interface will consist of two parts . 	
+IS1001b.B.dialog-act.dharshi.50	One is the voice command part and on one is the actual buttons part . 	
+IS1001b.B.dialog-act.dharshi.51	Uh and th the buttons part would be uh a set of buttons for choosing devices , a set of buttons for special navigation in space , 	
+IS1001b.C.dialog-act.dharshi.19	Mm-hmm . 	
+IS1001b.C.dialog-act.dharshi.20	Mm-hmm . 	
+IS1001b.B.dialog-act.dharshi.52	a set of buttons for linear access of medium and a set of buttons for random access . 	
+IS1001b.A.dialog-act.dharshi.40	Okay . 	
+IS1001b.B.dialog-act.dharshi.54	Yeah ? 	
+IS1001b.C.dialog-act.dharshi.21	What do you mean by linear access then ? 	
+IS1001b.B.dialog-act.dharshi.55	Like a video tape goes forward , backwards , uh fast and stuff yeah . 	
+IS1001b.C.dialog-act.dharshi.22	Ah . 	
+IS1001b.B.dialog-act.dharshi.56	Um . 	
+IS1001b.A.dialog-act.dharshi.41	Okay so special navigation , linear access , random access 	
+IS1001b.A.dialog-act.dharshi.42	and there's a fourth one no ? 	
+IS1001b.B.dialog-act.dharshi.57	Mm ? 	
+IS1001b.A.dialog-act.dharshi.43	So the better now for special navigation ? 	
+IS1001b.B.dialog-act.dharshi.58	Yeah . 	
+IS1001b.B.dialog-act.dharshi.59	For special navigation for example you might have a T_V_ in the menu and you going to change yeah ? 	
+IS1001b.A.dialog-act.dharshi.44	Okay . 	
+IS1001b.A.dialog-act.dharshi.45	Then linear access 	
+IS1001b.B.dialog-act.dharshi.60	Uh . 	
+IS1001b.A.dialog-act.dharshi.46	then random access . 	
+IS1001b.B.dialog-act.dharshi.61	Mm . 	
+IS1001b.B.dialog-act.dharshi.62	Yeah 	
+IS1001b.B.dialog-act.dharshi.63	and also parameter changing . 	
+IS1001b.A.dialog-act.dharshi.47	Ah yeah parameter okay . 	
+IS1001b.B.dialog-act.dharshi.64	So if there are common parameters maybe we should put special buttons for that um 	
+IS1001b.A.dialog-act.dharshi.48	Okay . 	
+IS1001b.B.dialog-act.dharshi.65	or maybe we could have everything uh generic 	
+IS1001b.B.dialog-act.dharshi.66	but uh there are a lot of uh remotes on the market right now and basically this is most of the almost everybody has this stuff . 	
+IS1001b.A.dialog-act.dharshi.49	Okay . 	
+IS1001b.A.dialog-act.dharshi.50	Okay 	
+IS1001b.A.dialog-act.dharshi.51	and and voice command did you uh 	
+IS1001b.B.dialog-act.dharshi.67	Voice command w we could specify anything . 	
+IS1001b.B.dialog-act.dharshi.68	We could assign any button a command to any button , if we have enough processing power , 	
+IS1001b.A.dialog-act.dharshi.52	Okay . 	
+IS1001b.A.dialog-act.dharshi.53	Okay . 	
+IS1001b.B.dialog-act.dharshi.69	I guess so . 	
+IS1001b.B.dialog-act.dharshi.70	Yeah . 	
+IS1001b.A.dialog-act.dharshi.56	Okay . 	
+IS1001b.B.dialog-act.dharshi.71	Yeah . 	
+IS1001b.A.dialog-act.dharshi.55	So that's uh that close your investigations ? 	
+IS1001b.B.dialog-act.dharshi.72	Yeah . 	
+IS1001b.B.dialog-act.dharshi.73	Uh yeah I think so . 	
+IS1001b.A.dialog-act.dharshi.57	Okay . 	
+IS1001b.B.dialog-act.dharshi.74	Not so far . 	
+IS1001b.A.dialog-act.dharshi.58	Okay . 	
+IS1001b.A.dialog-act.dharshi.59	Maybe we can have a look at the user requirements with 	
+IS1001b.D.dialog-act.dharshi.1	Yeah . 	
+IS1001b.D.dialog-act.dharshi.2	Um I dunno if you can open the 	
+IS1001b.A.dialog-act.dharshi.60	I dunno if I can open it . 	
+IS1001b.D.dialog-act.dharshi.3	uh m is not here . 	
+IS1001b.A.dialog-act.dharshi.61	Maybe you can s 	
+IS1001b.A.dialog-act.dharshi.54	It's 	
+IS1001b.D.dialog-act.dharshi.4	Uh in 	
+IS1001b.D.dialog-act.dharshi.6	yeah okay . 	
+IS1001b.A.dialog-act.dharshi.62	Messenger no ? 	
+IS1001b.D.dialog-act.dharshi.7	No . 	
+IS1001b.D.dialog-act.dharshi.8	In document . 	
+IS1001b.D.dialog-act.dharshi.9	Mm 	
+IS1001b.D.dialog-act.dharshi.10	computer yeah . 	
+IS1001b.A.dialog-act.dharshi.63	In which folder ? 	
+IS1001b.B.dialog-act.dharshi.75	Where did you put it ? 	
+IS1001b.D.dialog-act.dharshi.11	Here . 	
+IS1001b.D.dialog-act.dharshi.12	Here . 	
+IS1001b.A.dialog-act.dharshi.64	Short-cut to AMI shared folder ? 	
+IS1001b.B.dialog-act.dharshi.76	mm . 	
+IS1001b.D.dialog-act.dharshi.5	But it's not 	
+IS1001b.D.dialog-act.dharshi.13	Um . 	
+IS1001b.A.dialog-act.dharshi.65	Maybe you can send it to me by email . 	
+IS1001b.A.dialog-act.dharshi.66	Just to participant one . 	
+IS1001b.A.dialog-act.dharshi.67	At AMI . 	
+IS1001b.D.dialog-act.dharshi.14	Mm-hmm . 	
+IS1001b.D.dialog-act.dharshi.15	Yeah , I can do that . 	
+IS1001b.A.dialog-act.dharshi.68	I will try to show it to everyone , 	
+IS1001b.A.dialog-act.dharshi.69	that would be more comfortable . 	
+IS1001b.D.dialog-act.dharshi.16	Okay . 	
+IS1001b.D.dialog-act.dharshi.17	Um . 	
+IS1001b.A.dialog-act.dharshi.70	You send it ? 	
+IS1001b.D.dialog-act.dharshi.18	It's participant one ? 	
+IS1001b.A.dialog-act.dharshi.71	Yeah . 	
+IS1001b.A.dialog-act.dharshi.72	Uh this is this email . 	
+IS1001b.B.dialog-act.dharshi.77	I'm designing the user interface . 	
+IS1001b.D.dialog-act.dharshi.19	Okay . 	
+IS1001b.D.dialog-act.dharshi.20	You can uh . 	
+IS1001b.A.dialog-act.dharshi.73	Okay . 	
+IS1001b.A.dialog-act.dharshi.74	So maybe I can switch slides when you whenever you ask , 	
+IS1001b.D.dialog-act.dharshi.21	Yeah . 	
+IS1001b.A.dialog-act.dharshi.75	that will be more convenient . 	
+IS1001b.A.dialog-act.dharshi.77	So okay , 	
+IS1001b.D.dialog-act.dharshi.22	Okay so you can you can go . 	
+IS1001b.A.dialog-act.dharshi.78	functional requirements . 	
+IS1001b.D.dialog-act.dharshi.23	Okay so 	
+IS1001b.D.dialog-act.dharshi.24	in our usability lab we observed the remote control use among one hundred subjects 	
+IS1001b.A.dialog-act.dharshi.80	Mm . 	
+IS1001b.D.dialog-act.dharshi.25	and the subjects also filled a questionnaire 	
+IS1001b.A.dialog-act.dharshi.81	Yeah . 	
+IS1001b.D.dialog-act.dharshi.26	okay ? 	
+IS1001b.D.dialog-act.dharshi.27	And here I have the results 	
+IS1001b.D.dialog-act.dharshi.28	so you can see that um seventy five per cent of users find most remote controls ugly 	
+IS1001b.D.dialog-act.dharshi.29	so we have to find something to make them more more nice , more kind . 	
+IS1001b.D.dialog-act.dharshi.30	Eighty per cents of users would spend more money when the remote control would look fancy . 	
+IS1001b.D.dialog-act.dharshi.31	Eighty hundred per cent of users would spend more money when the remote control would look 	
+IS1001b.D.dialog-act.dharshi.32	oh 	
+IS1001b.A.dialog-act.dharshi.79		
+IS1001b.B.dialog-act.dharshi.78		
+IS1001b.D.dialog-act.dharshi.33	to 	
+IS1001b.D.dialog-act.dharshi.34	it's not good . 	
+IS1001b.D.dialog-act.dharshi.35	So okay . 	
+IS1001b.D.dialog-act.dharshi.36	So it's not in theory 	
+IS1001b.A.dialog-act.dharshi.82	We can just keep doing that ? 	
+IS1001b.D.dialog-act.dharshi.37	but I I can I can say yeah . 	
+IS1001b.A.dialog-act.dharshi.83	Yeah . 	
+IS1001b.D.dialog-act.dharshi.38	Fifty f uh 	
+IS1001b.D.dialog-act.dharshi.39	seventy five per cent of users say they s zap a lot . 	
+IS1001b.D.dialog-act.dharshi.41	So mm we have to have a remote control uh very um out for that . 	
+IS1001b.D.dialog-act.dharshi.42	Uh the buttons have are to be um uh uh like you say resist resisting to to shocks . 	
+IS1001b.A.dialog-act.dharshi.84	Okay . 	
+IS1001b.D.dialog-act.dharshi.43	Um and fifty per cents of users say they only use uh ten per cents of but of the buttons in the in the remote control . 	
+IS1001b.C.dialog-act.dharshi.23		
+IS1001b.A.dialog-act.dharshi.85	Okay . 	
+IS1001b.D.dialog-act.dharshi.44	So all the buttons we we have to put are have to to have um a use a real use 	
+IS1001b.D.dialog-act.dharshi.45	and not only or 	
+IS1001b.A.dialog-act.dharshi.86	Okay . 	
+IS1001b.A.dialog-act.dharshi.87	Okay , 	
+IS1001b.A.dialog-act.dharshi.88	so fewer buttons maybe would be good ? 	
+IS1001b.D.dialog-act.dharshi.46	Yeah . 	
+IS1001b.D.dialog-act.dharshi.47	F not many buttons , and uh and uh uh u useable buttons . 	
+IS1001b.A.dialog-act.dharshi.89	Okay . 	
+IS1001b.B.dialog-act.dharshi.79	But what kind of remote controls did you look at ? 	
+IS1001b.D.dialog-act.dharshi.48	Sorry ? 	
+IS1001b.B.dialog-act.dharshi.80	What kind of task was it ? 	
+IS1001b.B.dialog-act.dharshi.81	It was a T_V_ ? 	
+IS1001b.D.dialog-act.dharshi.49	Yeah . 	
+IS1001b.D.dialog-act.dharshi.50	Uh most for most is T_V_ . 	
+IS1001b.A.dialog-act.dharshi.90	Yeah . 	
+IS1001b.A.dialog-act.dharshi.91	Yeah 	
+IS1001b.A.dialog-act.dharshi.92	but in fact we it it seems that we are going to make a T_V_ remote control according to new requirements I received from the management 	
+IS1001b.B.dialog-act.dharshi.83	Huh . 	
+IS1001b.B.dialog-act.dharshi.84	Uh-huh . 	
+IS1001b.A.dialog-act.dharshi.93	bo I will present them in the following . 	
+IS1001b.B.dialog-act.dharshi.82	Ah ! Good . 	
+IS1001b.D.dialog-act.dharshi.51	'Kay you can go so . 	
+IS1001b.A.dialog-act.dharshi.94	Okay . 	
+IS1001b.D.dialog-act.dharshi.52	So there are other frustrations expressed by users , 	
+IS1001b.D.dialog-act.dharshi.53	so they said uh they lost uh often the remote control in in the room so they want to have a way to to 	
+IS1001b.A.dialog-act.dharshi.96	Yeah . 	
+IS1001b.A.dialog-act.dharshi.95	To find it . 	
+IS1001b.D.dialog-act.dharshi.54	to find it . 	
+IS1001b.A.dialog-act.dharshi.97	Yeah . 	
+IS1001b.D.dialog-act.dharshi.55	Um and um 	
+IS1001b.D.dialog-act.dharshi.56	lot of the time they it takes too much time to learn how to use a new remote control . 	
+IS1001b.A.dialog-act.dharshi.98	Yeah . 	
+IS1001b.D.dialog-act.dharshi.57	So they want something s really very simple and uh easy to use . 	
+IS1001b.C.dialog-act.dharshi.24	Mm-hmm . 	
+IS1001b.A.dialog-act.dharshi.99	Okay . 	
+IS1001b.D.dialog-act.dharshi.60	And uh remote controls are bad for 	
+IS1001b.A.dialog-act.dharshi.101	What is her other side ? 	
+IS1001b.D.dialog-act.dharshi.61	R_S_I_ 	
+IS1001b.D.dialog-act.dharshi.62	um 	
+IS1001b.D.dialog-act.dharshi.63	I dunno . 	
+IS1001b.B.dialog-act.dharshi.85	Other side yeah , yo wa your wrist 	
+IS1001b.A.dialog-act.dharshi.100		
+IS1001b.B.dialog-act.dharshi.86	It i can become painful you can have tendonditis . 	
+IS1001b.A.dialog-act.dharshi.102	Oh yeah ? 	
+IS1001b.B.dialog-act.dharshi.87	Yeah . 	
+IS1001b.A.dialog-act.dharshi.103	I did not knew that . 	
+IS1001b.B.dialog-act.dharshi.88	If you also up on a computer in a strange position . 	
+IS1001b.A.dialog-act.dharshi.104	Okay 	
+IS1001b.A.dialog-act.dharshi.105	so you we have to make it uh more ergonomic yeah . 	
+IS1001b.B.dialog-act.dharshi.89	Ergonomic . 	
+IS1001b.B.dialog-act.dharshi.90	But uh . 	
+IS1001b.B.dialog-act.dharshi.91	Have to say ha ha . 	
+IS1001b.D.dialog-act.dharshi.64	Yeah . 	
+IS1001b.A.dialog-act.dharshi.107		
+IS1001b.A.dialog-act.dharshi.108	It's your job 	
+IS1001b.D.dialog-act.dharshi.58		
+IS1001b.A.dialog-act.dharshi.106	Oh . 	
+IS1001b.D.dialog-act.dharshi.59		
+IS1001b.D.dialog-act.dharshi.65	Uh . 	
+IS1001b.A.dialog-act.dharshi.109	Uh sorry 	
+IS1001b.A.dialog-act.dharshi.110	got a message from Microsoft . 	
+IS1001b.C.dialog-act.dharshi.25		
+IS1001b.D.dialog-act.dharshi.67	Okay um before that I I have some some some thing uh to say before um 	
+IS1001b.A.dialog-act.dharshi.111	Yeah . 	
+IS1001b.A.dialog-act.dharshi.112	Yeah yeah . 	
+IS1001b.D.dialog-act.dharshi.66		
+IS1001b.D.dialog-act.dharshi.68	We know that uh the user use uh a lot their um remote control um to to change channel . 	
+IS1001b.A.dialog-act.dharshi.113	Yeah . 	
+IS1001b.D.dialog-act.dharshi.69	Um and um to to change uh volume selection of the 	
+IS1001b.A.dialog-act.dharshi.114	Okay . 	
+IS1001b.D.dialog-act.dharshi.70	and uh and not uh a lot for setting for setting the the channels and uh thing things like that . 	
+IS1001b.A.dialog-act.dharshi.115	Yeah . 	
+IS1001b.C.dialog-act.dharshi.26	Mm-hmm . 	
+IS1001b.B.dialog-act.dharshi.92	Mm-hmm . 	
+IS1001b.A.dialog-act.dharshi.116	Okay . 	
+IS1001b.D.dialog-act.dharshi.71	So it's better to put uh uh uh something very easy to set 	
+IS1001b.D.dialog-act.dharshi.72	and uh and 	
+IS1001b.A.dialog-act.dharshi.117	Yeah . 	
+IS1001b.A.dialog-act.dharshi.118	This function should be very uh accessible . 	
+IS1001b.D.dialog-act.dharshi.73	Very accessible yes . 	
+IS1001b.A.dialog-act.dharshi.119	Yeah , okay . 	
+IS1001b.D.dialog-act.dharshi.74	That's right . 	
+IS1001b.A.dialog-act.dharshi.120	This is the main function okay . 	
+IS1001b.D.dialog-act.dharshi.75	So then we asked some questions to them 	
+IS1001b.D.dialog-act.dharshi.76	and um we asked this question if they prefer an L_C_D_ screen or on their remultific function remotes control 	
+IS1001b.A.dialog-act.dharshi.122	Yeah . 	
+IS1001b.A.dialog-act.dharshi.124	Yeah . 	
+IS1001b.D.dialog-act.dharshi.77	and if they mm pay more for speech recognition in remote control 	
+IS1001b.A.dialog-act.dharshi.123	Yeah . 	
+IS1001b.D.dialog-act.dharshi.78	and you can go 	
+IS1001b.D.dialog-act.dharshi.79	we have here the results of 	
+IS1001b.B.dialog-act.dharshi.93	The first question . 	
+IS1001b.D.dialog-act.dharshi.80	of the questions . 	
+IS1001b.D.dialog-act.dharshi.81	So you know that um 	
+IS1001b.A.dialog-act.dharshi.121		
+IS1001b.D.dialog-act.dharshi.82	for the younger it's very important 	
+IS1001b.A.dialog-act.dharshi.125	To have L_C_D_ and voice . 	
+IS1001b.D.dialog-act.dharshi.83	to have the 	
+IS1001b.D.dialog-act.dharshi.84	s yes 	
+IS1001b.D.dialog-act.dharshi.85	and speech recognition . 	
+IS1001b.D.dialog-act.dharshi.86	And uh and the others is not so important 	
+IS1001b.D.dialog-act.dharshi.87	but uh we know that uh uh people between fifteen and twenty five are people who watch a lot T_V_ and uh who who wh can use a lot this uh . 	
+IS1001b.A.dialog-act.dharshi.126	Okay . 	
+IS1001b.D.dialog-act.dharshi.88	So maybe we we can have a speech recognition in . 	
+IS1001b.A.dialog-act.dharshi.127	Yeah maybe this this is important . 	
+IS1001b.D.dialog-act.dharshi.89	Yeah . 	
+IS1001b.A.dialog-act.dharshi.128	Moreover th maybe those uh like those teenager customer could advice their parents to buy this equipment 	
+IS1001b.A.dialog-act.dharshi.129	and so we can 	
+IS1001b.B.dialog-act.dharshi.94	Mm . 	
+IS1001b.A.dialog-act.dharshi.130	we have to take care of that point of view I think 	
+IS1001b.A.dialog-act.dharshi.131	or so . 	
+IS1001b.D.dialog-act.dharshi.90	Mm . 	
+IS1001b.A.dialog-act.dharshi.133	Yeah . 	
+IS1001b.D.dialog-act.dharshi.91	Okay and if there is th the conclusion now . 	
+IS1001b.D.dialog-act.dharshi.92	So as we say before , I think uh um a remote control lightening in the dark it's it's a good thing . 	
+IS1001b.A.dialog-act.dharshi.134	Okay . 	
+IS1001b.D.dialog-act.dharshi.93	Uh not to many mud buttons like we we said before , 	
+IS1001b.D.dialog-act.dharshi.94	e easy to use uh a way to find it easily in the room and uh uh resistant to to shock 	
+IS1001b.A.dialog-act.dharshi.135	Yeah . 	
+IS1001b.D.dialog-act.dharshi.95	and to to 	
+IS1001b.C.dialog-act.dharshi.28	Mm-hmm . 	
+IS1001b.A.dialog-act.dharshi.136	Okay . 	
+IS1001b.D.dialog-act.dharshi.96	An I s no , yeah . 	
+IS1001b.A.dialog-act.dharshi.137	Okay these are the user requi 	
+IS1001b.D.dialog-act.dharshi.97	I dunno if you see something else important or 	
+IS1001b.C.dialog-act.dharshi.27		
+IS1001b.A.dialog-act.dharshi.132		
+IS1001b.C.dialog-act.dharshi.29	I'm just thinking of some thing . 	
+IS1001b.D.dialog-act.dharshi.98	Mm . 	
+IS1001b.A.dialog-act.dharshi.138	Yeah . 	
+IS1001b.C.dialog-act.dharshi.30	Um 	
+IS1001b.C.dialog-act.dharshi.31	We want to have a 	
+IS1001b.C.dialog-act.dharshi.32	no , I don't know if this is a good idea . 	
+IS1001b.C.dialog-act.dharshi.33	We want to have a a general remote control for everything . 	
+IS1001b.A.dialog-act.dharshi.139	No no no . 	
+IS1001b.A.dialog-act.dharshi.140	We w it seems that we no want to have a T_V_ remote control . 	
+IS1001b.C.dialog-act.dharshi.34	Okay . 	
+IS1001b.A.dialog-act.dharshi.141	From the management board I receive an email . 	
+IS1001b.B.dialog-act.dharshi.95	Mm . 	
+IS1001b.C.dialog-act.dharshi.35	Yeah . 	
+IS1001b.A.dialog-act.dharshi.142	Cos it would be costly 	
+IS1001b.A.dialog-act.dharshi.143	uh and and also it it would take more time to develop to have a a general generic remote control . 	
+IS1001b.C.dialog-act.dharshi.36	Yeah . 	
+IS1001b.C.dialog-act.dharshi.37	Yeah yeah . 	
+IS1001b.C.dialog-act.dharshi.38	Yeah . 	
+IS1001b.B.dialog-act.dharshi.96	Mm 	
+IS1001b.B.dialog-act.dharshi.97	I it's not true I think . 	
+IS1001b.B.dialog-act.dharshi.98	The the second claim that you put . 	
+IS1001b.C.dialog-act.dharshi.39	No no . 	
+IS1001b.A.dialog-act.dharshi.144	That it would be too long to develop . 	
+IS1001b.B.dialog-act.dharshi.99	Yeah . 	
+IS1001b.D.dialog-act.dharshi.99		
+IS1001b.B.dialog-act.dharshi.100	I think that should be the same . 	
+IS1001b.A.dialog-act.dharshi.145	Oh yeah . 	
+IS1001b.A.dialog-act.dharshi.146	Because I received that email from management board 	
+IS1001b.A.dialog-act.dharshi.147	and they seems to tell that that if we want to be on the market as early as possible we should uh focus on T_V_ more where it seems that the market is more important . 	
+IS1001b.A.dialog-act.dharshi.148	So maybe it's a good decision . 	
+IS1001b.A.dialog-act.dharshi.149	I dunno . 	
+IS1001b.A.dialog-act.dharshi.150	What's your opinion ? 	
+IS1001b.B.dialog-act.dharshi.102	I have uh I've no idea 	
+IS1001b.B.dialog-act.dharshi.103	I mean I should know a bit more about how fast we can uh design it . 	
+IS1001b.D.dialog-act.dharshi.100		
+IS1001b.B.dialog-act.dharshi.101	I don't think 	
+IS1001b.A.dialog-act.dharshi.151		
+IS1001b.C.dialog-act.dharshi.40		
+IS1001b.D.dialog-act.dharshi.101		
+IS1001b.B.dialog-act.dharshi.105	Uh yeah . 	
+IS1001b.C.dialog-act.dharshi.46	Finish tonight . 	
+IS1001b.A.dialog-act.dharshi.152		
+IS1001b.B.dialog-act.dharshi.106	Yeah . Okay . Yeah . 	
+IS1001b.C.dialog-act.dharshi.41	But basically yeah maybe I can continue with my presentation , 	
+IS1001b.C.dialog-act.dharshi.42	it would be al you you 	
+IS1001b.A.dialog-act.dharshi.153	Okay . 	
+IS1001b.D.dialog-act.dharshi.102	Yeah . 	
+IS1001b.B.dialog-act.dharshi.104	Yeah . 	
+IS1001b.C.dialog-act.dharshi.43	but I think we have some technical problem or so . 	
+IS1001b.C.dialog-act.dharshi.44	So I'm just going to describe briefly what we do in the remote control . 	
+IS1001b.A.dialog-act.dharshi.156	Maybe you can go to the whiteboard if you have some drawings to do 	
+IS1001b.C.dialog-act.dharshi.45	If fact 	
+IS1001b.A.dialog-act.dharshi.157	I don't know . 	
+IS1001b.C.dialog-act.dharshi.50	Yeah 	
+IS1001b.D.dialog-act.dharshi.103	Mm . 	
+IS1001b.C.dialog-act.dharshi.51	but 	
+IS1001b.C.dialog-act.dharshi.47	Do I have 	
+IS1001b.C.dialog-act.dharshi.48	oh yeah . 	
+IS1001b.A.dialog-act.dharshi.154		
+IS1001b.C.dialog-act.dharshi.49	Now I have enough cables . 	
+IS1001b.B.dialog-act.dharshi.109	Like a 	
+IS1001b.B.dialog-act.dharshi.110	you feel a bit like a dog with this stuff . 	
+IS1001b.A.dialog-act.dharshi.155		
+IS1001b.C.dialog-act.dharshi.52	Okay so I'm just going to describe 	
+IS1001b.C.dialog-act.dharshi.53	in fact for for a remote control this is quite easy . 	
+IS1001b.C.dialog-act.dharshi.54	We just have 	
+IS1001b.B.dialog-act.dharshi.107		
+IS1001b.C.dialog-act.dharshi.55	sorry , 	
+IS1001b.A.dialog-act.dharshi.158		
+IS1001b.C.dialog-act.dharshi.56	I'm going 	
+IS1001b.B.dialog-act.dharshi.108		
+IS1001b.A.dialog-act.dharshi.159	Okay . 	
+IS1001b.A.dialog-act.dharshi.160	Are you okay ? 	
+IS1001b.C.dialog-act.dharshi.57	Like that . 	
+IS1001b.C.dialog-act.dharshi.58	I'm just going to describe . 	
+IS1001b.C.dialog-act.dharshi.59	Basically we have a a battery a power supply here . 	
+IS1001b.C.dialog-act.dharshi.60	After that we just have um user interface . 	
+IS1001b.C.dialog-act.dharshi.62	Let's say that 	
+IS1001b.C.dialog-act.dharshi.61	um 	
+IS1001b.C.dialog-act.dharshi.63	something like that , 	
+IS1001b.C.dialog-act.dharshi.64	which could be um a L_C_D_ let's say or um an array of push button , something like that . 	
+IS1001b.C.dialog-act.dharshi.65	Push button or a L_C_D_ . 	
+IS1001b.C.dialog-act.dharshi.66	After that we we feed that into um uh an electronic chip . 	
+IS1001b.C.dialog-act.dharshi.67	So I say U_C_ and I feed that to uh L_E_D_ which is uh infrared um which is a an infrared um component . 	
+IS1001b.C.dialog-act.dharshi.68	And so what we 	
+IS1001b.C.dialog-act.dharshi.69	for for myself this 	
+IS1001b.C.dialog-act.dharshi.70	for for us this is quite easy . 	
+IS1001b.A.dialog-act.dharshi.161	U_C_ is the central unit ? 	
+IS1001b.C.dialog-act.dharshi.71	Yeah . 	
+IS1001b.A.dialog-act.dharshi.162	Okay yeah . 	
+IS1001b.C.dialog-act.dharshi.72	Y it's a it's this just a chip which does all the um numerical 	
+IS1001b.A.dialog-act.dharshi.163	Computation . 	
+IS1001b.C.dialog-act.dharshi.73	numerical computation according to your display . 	
+IS1001b.A.dialog-act.dharshi.164	Okay . 	
+IS1001b.C.dialog-act.dharshi.74	And so for us uh this is quite easy . 	
+IS1001b.C.dialog-act.dharshi.75	We just need to take 	
+IS1001b.C.dialog-act.dharshi.76	to define what we want to do when the user interface um wants something 	
+IS1001b.C.dialog-act.dharshi.77	and after that we just do the coding to s and send that to to to the not the to the television . 	
+IS1001b.A.dialog-act.dharshi.165	Okay . 	
+IS1001b.C.dialog-act.dharshi.78	So for us this is quite easy . 	
+IS1001b.A.dialog-act.dharshi.166	Okay so this is quite easy . 	
+IS1001b.C.dialog-act.dharshi.79	Yeah . 	
+IS1001b.C.dialog-act.dharshi.80	Um we just have to define the processing power that we need uh 	
+IS1001b.A.dialog-act.dharshi.167	There is not that much constraints . 	
+IS1001b.C.dialog-act.dharshi.81	especially if we want to do some uh speech recognition , 	
+IS1001b.C.dialog-act.dharshi.82	in that case that mean that we are going to use more for simple 	
+IS1001b.B.dialog-act.dharshi.111	This will think this will take more time to develop also . 	
+IS1001b.C.dialog-act.dharshi.83	Yeah of course of course . 	
+IS1001b.B.dialog-act.dharshi.112	Yeah . 	
+IS1001b.C.dialog-act.dharshi.84	And um 	
+IS1001b.C.dialog-act.dharshi.85	but for a standard one this is really easy . 	
+IS1001b.C.dialog-act.dharshi.86	It's a question of one month and so on s 	
+IS1001b.B.dialog-act.dharshi.113	Soon . 	
+IS1001b.A.dialog-act.dharshi.168	To have a 	
+IS1001b.A.dialog-act.dharshi.169	you s you speak about with voi voice control ? 	
+IS1001b.C.dialog-act.dharshi.87	No no no no , 	
+IS1001b.C.dialog-act.dharshi.88	I say 	
+IS1001b.A.dialog-act.dharshi.172	Standard button one . 	
+IS1001b.C.dialog-act.dharshi.89	yeah 	
+IS1001b.C.dialog-act.dharshi.90	standard uh standard remote control takes maybe uh one month to to do that . 	
+IS1001b.B.dialog-act.dharshi.115	Yeah . 	
+IS1001b.B.dialog-act.dharshi.116	So the only time problem is the sp voice recognition . 	
+IS1001b.D.dialog-act.dharshi.104		
+IS1001b.C.dialog-act.dharshi.91	Yeah . 	
+IS1001b.B.dialog-act.dharshi.117	Yeah . 	
+IS1001b.C.dialog-act.dharshi.92	Definitely . 	
+IS1001b.B.dialog-act.dharshi.118	Yeah . 	
+IS1001b.A.dialog-act.dharshi.173	So do you have any idea of how long it would take to have voice recognition now ? 	
+IS1001b.B.dialog-act.dharshi.119	Ten years . 	
+IS1001b.C.dialog-act.dharshi.93	I would say . 	
+IS1001b.A.dialog-act.dharshi.170		
+IS1001b.B.dialog-act.dharshi.114		
+IS1001b.C.dialog-act.dharshi.94	I would say uh about eight months to have the first results . 	
+IS1001b.A.dialog-act.dharshi.171		
+IS1001b.A.dialog-act.dharshi.174	Okay so i it's a bit long yeah . 	
+IS1001b.C.dialog-act.dharshi.95	Yeah . 	
+IS1001b.C.dialog-act.dharshi.96	I can 	
+IS1001b.C.dialog-act.dharshi.97	Um . 	
+IS1001b.A.dialog-act.dharshi.175	One month for the standard one with button . 	
+IS1001b.C.dialog-act.dharshi.98	Yeah . 	
+IS1001b.A.dialog-act.dharshi.176	Even if we have a L_C_D_ display ? 	
+IS1001b.C.dialog-act.dharshi.99	Yeah even . 	
+IS1001b.C.dialog-act.dharshi.100	I mean that this is really standard devices now . 	
+IS1001b.C.dialog-act.dharshi.101	Um eight . 	
+IS1001b.C.dialog-act.dharshi.102	For uh speech recognition . 	
+IS1001b.A.dialog-act.dharshi.177	Okay yeah . 	
+IS1001b.A.dialog-act.dharshi.178	Okay 	
+IS1001b.A.dialog-act.dharshi.179	so we can take this into account . 	
+IS1001b.A.dialog-act.dharshi.180	So who think it would be good to go for uh like speech recognition ? 	
+IS1001b.B.dialog-act.dharshi.121	But we don't have time to market . 	
+IS1001b.A.dialog-act.dharshi.181	Yeah it will . 	
+IS1001b.C.dialog-act.dharshi.105	And also how much 	
+IS1001b.C.dialog-act.dharshi.106	uh 	
+IS1001b.C.dialog-act.dharshi.107	I think 	
+IS1001b.B.dialog-act.dharshi.120	I think we should contact management . 	
+IS1001b.C.dialog-act.dharshi.103	during the kickoff meeting you say that we we shouldn't we shouldn't go up to twelve point five Euro per unit 	
+IS1001b.D.dialog-act.dharshi.105		
+IS1001b.A.dialog-act.dharshi.182	Euros . 	
+IS1001b.A.dialog-act.dharshi.183	Yeah , yeah . 	
+IS1001b.C.dialog-act.dharshi.104	so how many units should we sell to have a 	
+IS1001b.B.dialog-act.dharshi.122	Well . Uh 	
+IS1001b.A.dialog-act.dharshi.184	Well each unit is is sell uh twenty five Euros . 	
+IS1001b.C.dialog-act.dharshi.108	Yeah 	
+IS1001b.C.dialog-act.dharshi.109	but how many yeah . 	
+IS1001b.B.dialog-act.dharshi.128	How muc how much do you get how much do you if you buy one million units 	
+IS1001b.B.dialog-act.dharshi.129	h no , one hundred thousand units . 	
+IS1001b.D.dialog-act.dharshi.106		
+IS1001b.B.dialog-act.dharshi.126	Eh chips . 	
+IS1001b.B.dialog-act.dharshi.127	We're gonna need chips right . 	
+IS1001b.C.dialog-act.dharshi.110	Yeah . 	
+IS1001b.B.dialog-act.dharshi.130	Yeah . 	
+IS1001b.B.dialog-act.dharshi.131	How much will it cost for one hundred thousand ? 	
+IS1001b.C.dialog-act.dharshi.111	Usually this is less tha at two dollars per chip . 	
+IS1001b.B.dialog-act.dharshi.132	Okay . 	
+IS1001b.A.dialog-act.dharshi.185	Because we are 	
+IS1001b.B.dialog-act.dharshi.133	So you have any idea for a powerful one that has uh good enough for do speech recognition . 	
+IS1001b.C.dialog-act.dharshi.113	Yeah , 	
+IS1001b.B.dialog-act.dharshi.134	Yeah ? 	
+IS1001b.B.dialog-act.dharshi.135	Okay . 	
+IS1001b.C.dialog-act.dharshi.114	we can 	
+IS1001b.B.dialog-act.dharshi.136	So . 	
+IS1001b.B.dialog-act.dharshi.137	No it doesn't . 	
+IS1001b.A.dialog-act.dharshi.186	It seems that that we want to sell like four million units from the first meeting . 	
+IS1001b.C.dialog-act.dharshi.112	Mm-hmm . 	
+IS1001b.B.dialog-act.dharshi.138	Okay . 	
+IS1001b.B.dialog-act.dharshi.139	Four million . 	
+IS1001b.A.dialog-act.dharshi.187	Okay . 	
+IS1001b.A.dialog-act.dharshi.188	Maybe we can uh we can look at the new requirement I receive from the management board and discus discuss all function we want to have . 	
+IS1001b.D.dialog-act.dharshi.108	Mm . 	
+IS1001b.C.dialog-act.dharshi.115	Um 	
+IS1001b.C.dialog-act.dharshi.116	I just had a question uh 	
+IS1001b.D.dialog-act.dharshi.107		
+IS1001b.C.dialog-act.dharshi.117	do you want to continue with your presenta ? 	
+IS1001b.A.dialog-act.dharshi.191	Yeah I I will continue . 	
+IS1001b.C.dialog-act.dharshi.118	Is it 	
+IS1001b.A.dialog-act.dharshi.190	Well ask your question if you want . 	
+IS1001b.C.dialog-act.dharshi.119		
+IS1001b.C.dialog-act.dharshi.120	Um you say that I don't remember by heart but thirty per cent 	
+IS1001b.D.dialog-act.dharshi.110	Mm ? 	
+IS1001b.C.dialog-act.dharshi.121	of the tested people say that's it's quite difficult to to to use the remote control . 	
+IS1001b.D.dialog-act.dharshi.109	Yeah . 	
+IS1001b.C.dialog-act.dharshi.122	Do they say that this is difficult but for the same reason or do they have other reason ? 	
+IS1001b.D.dialog-act.dharshi.111	Oh . 	
+IS1001b.C.dialog-act.dharshi.123	To to 	
+IS1001b.D.dialog-act.dharshi.112	Would j 	
+IS1001b.C.dialog-act.dharshi.124	maybe to keep in mind maybe to access to that menu you should do something like that . 	
+IS1001b.D.dialog-act.dharshi.113	Uh 	
+IS1001b.D.dialog-act.dharshi.116	yeah 	
+IS1001b.D.dialog-act.dharshi.114	w I I think they they say that it's uh difficult to learn how to use it but i when you know how to use it , it's it's okay . 	
+IS1001b.C.dialog-act.dharshi.125	Mm-hmm . 	
+IS1001b.C.dialog-act.dharshi.126	Mm-hmm . 	
+IS1001b.A.dialog-act.dharshi.192	Okay . 	
+IS1001b.C.dialog-act.dharshi.127	And 	
+IS1001b.D.dialog-act.dharshi.115	But 	
+IS1001b.A.dialog-act.dharshi.193	It's not intuitive first . 	
+IS1001b.D.dialog-act.dharshi.117	Yeah . 	
+IS1001b.C.dialog-act.dharshi.128	But yeah maybe 	
+IS1001b.C.dialog-act.dharshi.129	and what about if we design a remote control which can be configure as you want ? 	
+IS1001b.C.dialog-act.dharshi.130	You say that I want , I have six button 	
+IS1001b.B.dialog-act.dharshi.141	Mh-hmm . A a lot of people are uh 	
+IS1001b.B.dialog-act.dharshi.142	if you have the L_C_D_ screen if you can do it completely the way you want because the buttons also look the way you want them 	
+IS1001b.C.dialog-act.dharshi.131	Yeah . 	
+IS1001b.A.dialog-act.dharshi.195	Yeah . 	
+IS1001b.C.dialog-act.dharshi.132	Yeah . 	
+IS1001b.A.dialog-act.dharshi.194	But , but also it seems that 	
+IS1001b.B.dialog-act.dharshi.143	but it will be hard to configure 	
+IS1001b.B.dialog-act.dharshi.144	I mean imagine i uh 	
+IS1001b.C.dialog-act.dharshi.133	Yeah . 	
+IS1001b.A.dialog-act.dharshi.196	Yeah . 	
+IS1001b.B.dialog-act.dharshi.145	so it's really something for the expert user . 	
+IS1001b.C.dialog-act.dharshi.134	Okay . 	
+IS1001b.B.dialog-act.dharshi.140	So 	
+IS1001b.B.dialog-act.dharshi.146	I mean there are markets and markets . 	
+IS1001b.B.dialog-act.dharshi.147	I think the young people are th uh are uh 	
+IS1001b.D.dialog-act.dharshi.118		
+IS1001b.B.dialog-act.dharshi.148	Christine here said uh you have a 	
+IS1001b.C.dialog-act.dharshi.135	Yeah . 	
+IS1001b.A.dialog-act.dharshi.197	Yeah . 	
+IS1001b.B.dialog-act.dharshi.149	uh it is yeah . 	
+IS1001b.B.dialog-act.dharshi.150	So for our young people uh it will be cool , they can be able to use it . 	
+IS1001b.B.dialog-act.dharshi.151	Th maybe their parents will not but they will configure it . 	
+IS1001b.B.dialog-act.dharshi.152	I guess . 	
+IS1001b.B.dialog-act.dharshi.153	I don't know if there is study about that . 	
+IS1001b.A.dialog-act.dharshi.198	Yeah . 	
+IS1001b.C.dialog-act.dharshi.136	Mm-hmm . 	
+IS1001b.A.dialog-act.dharshi.199	Maybe it would be more complex to configure it to be simple than creating a simple product . 	
+IS1001b.D.dialog-act.dharshi.119	Mm . 	
+IS1001b.C.dialog-act.dharshi.137	Yeah . Yeah . 	
+IS1001b.C.dialog-act.dharshi.138	Yeah . 	
+IS1001b.B.dialog-act.dharshi.154	Mm . 	
+IS1001b.D.dialog-act.dharshi.120	Mm . 	
+IS1001b.B.dialog-act.dharshi.155	And there are 	
+IS1001b.C.dialog-act.dharshi.139	Yeah . 	
+IS1001b.B.dialog-act.dharshi.156	another thing is that if we make something that's simple and easy to use that's bas to use immediately that means that it will be exactly the same as everything else . 	
+IS1001b.C.dialog-act.dharshi.140	Yeah . Yeah . 	
+IS1001b.B.dialog-act.dharshi.157	All right ? 	
+IS1001b.B.dialog-act.dharshi.158	Otherwise , if it's different then of course everybody has somebody has to learn to use it first . 	
+IS1001b.C.dialog-act.dharshi.141	Yeah . 	
+IS1001b.A.dialog-act.dharshi.200	Yeah . 	
+IS1001b.A.dialog-act.dharshi.201	But also we we see that that most people find it find remote controls too complex because they have too many buttons and they mainly use only channels and volume buttons . 	
+IS1001b.D.dialog-act.dharshi.121	Mm . 	
+IS1001b.B.dialog-act.dharshi.159	Mm-hmm . 	
+IS1001b.A.dialog-act.dharshi.202	So we may just uh make a very easy to use remote control with mainly those buttons 	
+IS1001b.B.dialog-act.dharshi.160	Yeah . 	
+IS1001b.A.dialog-act.dharshi.203	and maybe also um 	
+IS1001b.A.dialog-act.dharshi.204	some lightning stuff too 	
+IS1001b.A.dialog-act.dharshi.205	because most people find also hard to to find the remote control . 	
+IS1001b.A.dialog-act.dharshi.206	Losed lose it etcetera . 	
+IS1001b.B.dialog-act.dharshi.161	Mm-hmm . 	
+IS1001b.A.dialog-act.dharshi.207	These these are 	
+IS1001b.A.dialog-act.dharshi.208	these two points are the main frustrations 	
+IS1001b.A.dialog-act.dharshi.209	so maybe if we design something very simple and easy to uh find when lost it will uh add uh a serious competitive advantage 	
+IS1001b.A.dialog-act.dharshi.210	without making something too complex and too long to develop . 	
+IS1001b.D.dialog-act.dharshi.122	Mm . 	
+IS1001b.B.dialog-act.dharshi.162	Mm-hmm . 	
+IS1001b.A.dialog-act.dharshi.211	So but le let us see first the new requirement . 	
+IS1001b.A.dialog-act.dharshi.212	So we don't have to 	
+IS1001b.A.dialog-act.dharshi.213	so this this uh is uh is um in the 	
+IS1001b.A.dialog-act.dharshi.214	this is in the same direction as we were speaking 	
+IS1001b.A.dialog-act.dharshi.215	so we don't have to make a very complex remote controls to access teletext and stuff like that 	
+IS1001b.B.dialog-act.dharshi.163	But teletext is just one button . 	
+IS1001b.A.dialog-act.dharshi.216	Yeah but then you have to you have to define the buttons to surf amongst pages and stuff . 	
+IS1001b.B.dialog-act.dharshi.165	You you just write the write the numbers . 	
+IS1001b.A.dialog-act.dharshi.217	Yeah . 	
+IS1001b.A.dialog-act.dharshi.218	So well 	
+IS1001b.B.dialog-act.dharshi.166	So will you add with the channel keys , right ? 	
+IS1001b.A.dialog-act.dharshi.219	Yeah . 	
+IS1001b.B.dialog-act.dharshi.167	So . 	
+IS1001b.A.dialog-act.dharshi.220	So anyway we don't have to include this feature because it's it's not used any more by users , 	
+IS1001b.B.dialog-act.dharshi.164		
+IS1001b.A.dialog-act.dharshi.221	they prefer to s 	
+IS1001b.B.dialog-act.dharshi.168	I am . 	
+IS1001b.B.dialog-act.dharshi.169	I'm sure that uh it don't like but uh I don't see 	
+IS1001b.B.dialog-act.dharshi.170	just one button . 	
+IS1001b.A.dialog-act.dharshi.222	Yeah . 	
+IS1001b.B.dialog-act.dharshi.171	So . 	
+IS1001b.A.dialog-act.dharshi.223	I dunno . 	
+IS1001b.A.dialog-act.dharshi.224	If i one button is still one more button . 	
+IS1001b.A.dialog-act.dharshi.225	If if 	
+IS1001b.A.dialog-act.dharshi.226	if we want to make it very simple we have to reduce number of buttons compared to th to our competitors . 	
+IS1001b.B.dialog-act.dharshi.172	Mm-hmm . 	
+IS1001b.A.dialog-act.dharshi.227	Well anyway I have this point . 	
+IS1001b.A.dialog-act.dharshi.228	We can discuss . 	
+IS1001b.A.dialog-act.dharshi.229	Also um so 	
+IS1001b.A.dialog-act.dharshi.230	as as I told before uh it would be better if it's only for the T_V_ um 	
+IS1001b.A.dialog-act.dharshi.231	because we want to be quick on on the market . 	
+IS1001b.A.dialog-act.dharshi.232	And then also we have to make very uh uh clear that this uh this remote control is is part of of our products and show our corporate uh logo and and colours on the on the design as well so that uh they identify it as one of our product . 	
+IS1001b.A.dialog-act.dharshi.233	So this is the the key point . 	
+IS1001b.D.dialog-act.dharshi.123		
+IS1001b.A.dialog-act.dharshi.234	So before uh finishing we can uh define uh what would be the characteristic of the o th of the control of the remote control 	
+IS1001b.A.dialog-act.dharshi.235	and which button do we need which function do we want etcetera . 	
+IS1001b.B.dialog-act.dharshi.173	Capital . 	
+IS1001b.D.dialog-act.dharshi.124	Mm . 	
+IS1001b.A.dialog-act.dharshi.236		
+IS1001b.A.dialog-act.dharshi.237	So 	
+IS1001b.A.dialog-act.dharshi.239	do you um so 	
+IS1001b.A.dialog-act.dharshi.240	so from from the the Marketing Expert I think a key aspect is the easy to use aspect , 	
+IS1001b.A.dialog-act.dharshi.241	it should be very simple and most button are never used 	
+IS1001b.D.dialog-act.dharshi.125	Mm . 	
+IS1001b.A.dialog-act.dharshi.242	only ten per cent of the button are are used often 	
+IS1001b.A.dialog-act.dharshi.243	so I think we have to do something very simple 	
+IS1001b.A.dialog-act.dharshi.244	and I think we all agree on that point , 	
+IS1001b.C.dialog-act.dharshi.142	Mm-hmm . 	
+IS1001b.A.dialog-act.dharshi.245	no ? 	
+IS1001b.D.dialog-act.dharshi.126	Mm . 	
+IS1001b.B.dialog-act.dharshi.174	Well if it is going to be just a T_V_ remote control it is going to be very simple . 	
+IS1001b.A.dialog-act.dharshi.246	Yeah okay . 	
+IS1001b.A.dialog-act.dharshi.247	So yeah the key point here is simple . 	
+IS1001b.A.dialog-act.dharshi.248	Maybe . 	
+IS1001b.A.dialog-act.dharshi.249	So few buttons , channel , volume control 	
+IS1001b.A.dialog-act.dharshi.250	and what el what function do you see 	
+IS1001b.B.dialog-act.dharshi.175	Well if it's going to be as simple as possible then just have the remote control , there is no other function that I can see 	
+IS1001b.A.dialog-act.dharshi.252	in addition to that ? 	
+IS1001b.B.dialog-act.dharshi.176	really . 	
+IS1001b.A.dialog-act.dharshi.253	Yeah . 	
+IS1001b.A.dialog-act.dharshi.254	Maybe switch T_V_ on and off 	
+IS1001b.B.dialog-act.dharshi.177	Uh 	
+IS1001b.C.dialog-act.dharshi.143		
+IS1001b.A.dialog-act.dharshi.251		
+IS1001b.B.dialog-act.dharshi.178	no you want to keep television on so that the advertising can revenue can come back to us . 	
+IS1001b.A.dialog-act.dharshi.255	Yeah . Yeah . 	
+IS1001b.D.dialog-act.dharshi.127		
+IS1001b.B.dialog-act.dharshi.179	Or something . 	
+IS1001b.A.dialog-act.dharshi.256	Volume , maybe a mute button , and then on off button . 	
+IS1001b.C.dialog-act.dharshi.144	Mm . 	
+IS1001b.A.dialog-act.dharshi.257	And that's all ? 	
+IS1001b.C.dialog-act.dharshi.145	Uh I know that som 	
+IS1001b.C.dialog-act.dharshi.146	you say that many people are doing plenty of a lot of zapping . 	
+IS1001b.D.dialog-act.dharshi.128	Mm-hmm . 	
+IS1001b.A.dialog-act.dharshi.258	Mm . 	
+IS1001b.B.dialog-act.dharshi.180		
+IS1001b.C.dialog-act.dharshi.147	I know tha 	
+IS1001b.C.dialog-act.dharshi.148	I discovered that when I did a quick look , uh they do now som they do something which is quite nice now , 	
+IS1001b.B.dialog-act.dharshi.181	It's a memory , yeah . 	
+IS1001b.C.dialog-act.dharshi.149	you have a button , you you press it , and this is uh the previous channel which has come back . 	
+IS1001b.A.dialog-act.dharshi.260	Okay . 	
+IS1001b.A.dialog-act.dharshi.261	Yeah this is cool . 	
+IS1001b.A.dialog-act.dharshi.262	Maybe we can include that also . Previous previous channel button . 	
+IS1001b.A.dialog-act.dharshi.263	So we have like channel button , the previous channel button , the volume button , plus a mute button , and uh just the the traditional on off button . 	
+IS1001b.C.dialog-act.dharshi.150	Mm-hmm . 	
+IS1001b.C.dialog-act.dharshi.151	Mm-hmm . 	
+IS1001b.C.dialog-act.dharshi.152	Mm-hmm . 	
+IS1001b.B.dialog-act.dharshi.182	And uh and of course the channel changing buttons . 	
+IS1001b.A.dialog-act.dharshi.264	Yeah . 	
+IS1001b.A.dialog-act.dharshi.265	I I talk about that , yeah ? 	
+IS1001b.B.dialog-act.dharshi.184	How should they how should we implement that ? 	
+IS1001b.B.dialog-act.dharshi.185	Because uh could be numerical only or could be also incremental . 	
+IS1001b.A.dialog-act.dharshi.266	Yeah . 	
+IS1001b.C.dialog-act.dharshi.153		
+IS1001b.A.dialog-act.dharshi.267	Incremental definitely because zapping you you switch them . 	
+IS1001b.B.dialog-act.dharshi.183	Mm-hmm . 	
+IS1001b.C.dialog-act.dharshi.154	Let's say that we can do something like that . 	
+IS1001b.C.dialog-act.dharshi.155	This is uh incremental , but once you press it for a long time , you go five by five . 	
+IS1001b.A.dialog-act.dharshi.268	We go faster ? 	
+IS1001b.C.dialog-act.dharshi.156	To go fa to go faster . 	
+IS1001b.A.dialog-act.dharshi.269	Mm . 	
+IS1001b.B.dialog-act.dharshi.186	Mm . It's an interesting idea , that if you press it for a long time it does something else , in general . 	
+IS1001b.B.dialog-act.dharshi.187	So if you you have your ten buttons for the for the numeric the numerical buttons 	
+IS1001b.B.dialog-act.dharshi.188	and you have instead of having just one memory 	
+IS1001b.D.dialog-act.dharshi.129		
+IS1001b.C.dialog-act.dharshi.158	Yeah . 	
+IS1001b.B.dialog-act.dharshi.189	you have if you press them for a long time 	
+IS1001b.B.dialog-act.dharshi.190	No . Doesn't work 	
+IS1001b.B.dialog-act.dharshi.191	does it . 	
+IS1001b.A.dialog-act.dharshi.271	Maybe we should have also a digit button 	
+IS1001b.B.dialog-act.dharshi.192	Maybe we should have a complete keyboard and just type console commands . 	
+IS1001b.A.dialog-act.dharshi.270		
+IS1001b.C.dialog-act.dharshi.157		
+IS1001b.A.dialog-act.dharshi.272	Yeah . 	
+IS1001b.B.dialog-act.dharshi.193	Change channel to eight . 	
+IS1001b.A.dialog-act.dharshi.273	Maybe we have also to have digits or only incremental . 	
+IS1001b.B.dialog-act.dharshi.194	No . 	
+IS1001b.A.dialog-act.dharshi.274	I dunno bec because if you have the 	
+IS1001b.B.dialog-act.dharshi.196	Well if it's useful like 	
+IS1001b.B.dialog-act.dharshi.197	if if you want to change between three channels for example then you h you cannot you cannot cannot work with just memory being incremental . 	
+IS1001b.A.dialog-act.dharshi.275	Uh . 	
+IS1001b.A.dialog-act.dharshi.276	Yeah . 	
+IS1001b.A.dialog-act.dharshi.277	Because you have your previous channel button if you have incremental only it's not uh it isn't worth it because the previous channel is eith either minus one or plus one . 	
+IS1001b.C.dialog-act.dharshi.160	Yeah . 	
+IS1001b.B.dialog-act.dharshi.198	Yeah . 	
+IS1001b.B.dialog-act.dharshi.199	Yeah . 	
+IS1001b.A.dialog-act.dharshi.278	So I think we need also digits . 	
+IS1001b.C.dialog-act.dharshi.161	Okay . 	
+IS1001b.A.dialog-act.dharshi.279	Maybe we we can make very obvious the channel and volume button button and smaller button down there with the the digits . 	
+IS1001b.B.dialog-act.dharshi.201	Yeah when you zap usually you will have to press the same button all the time 	
+IS1001b.A.dialog-act.dharshi.280	Yeah . 	
+IS1001b.B.dialog-act.dharshi.200	and 	
+IS1001b.C.dialog-act.dharshi.162	Or we can do something like that . 	
+IS1001b.C.dialog-act.dharshi.163	We can design the remote control to have access . 	
+IS1001b.B.dialog-act.dharshi.202	Yeah . 	
+IS1001b.D.dialog-act.dharshi.130		
+IS1001b.C.dialog-act.dharshi.164	You know some remote control have uh protection 	
+IS1001b.B.dialog-act.dharshi.204	Mm-hmm . 	
+IS1001b.C.dialog-act.dharshi.165	and so you you y 	
+IS1001b.A.dialog-act.dharshi.281	Yeah . 	
+IS1001b.B.dialog-act.dharshi.205	Hey I just thought this thing 	
+IS1001b.C.dialog-act.dharshi.159	You 	
+IS1001b.B.dialog-act.dharshi.206	there is a 	
+IS1001b.B.dialog-act.dharshi.207	I mean you know there is are some with a wheel like this . 	
+IS1001b.B.dialog-act.dharshi.208	Instead of having the up down buttons for uh you can have the wheel . 	
+IS1001b.A.dialog-act.dharshi.282	Yeah . 	
+IS1001b.C.dialog-act.dharshi.166	Yeah , 	
+IS1001b.C.dialog-act.dharshi.167	a kind of joystick . 	
+IS1001b.B.dialog-act.dharshi.209	Yeah . 	
+IS1001b.A.dialog-act.dharshi.283	Yeah . 	
+IS1001b.B.dialog-act.dharshi.203		
+IS1001b.A.dialog-act.dharshi.284	Maybe we can have a wheel for incremental . 	
+IS1001b.B.dialog-act.dharshi.210	Yeah . 	
+IS1001b.A.dialog-act.dharshi.285	Okay . 	
+IS1001b.A.dialog-act.dharshi.287	So have a wheel for incremental , have the digits uh on the lower side that can be closed 	
+IS1001b.A.dialog-act.dharshi.288	so as you say protected , 	
+IS1001b.C.dialog-act.dharshi.168	Mm-hmm . 	
+IS1001b.B.dialog-act.dharshi.211	Mm-hmm . 	
+IS1001b.A.dialog-act.dharshi.289	and uh yeah I think this is the basi 	
+IS1001b.B.dialog-act.dharshi.212	On the lower side I think it you have to turn it . 	
+IS1001b.B.dialog-act.dharshi.213	No ? 	
+IS1001b.A.dialog-act.dharshi.290	And do we do we have a 	
+IS1001b.B.dialog-act.dharshi.214	If we do that . 	
+IS1001b.C.dialog-act.dharshi.169	Or a or a ball , 	
+IS1001b.C.dialog-act.dharshi.170	yeah , 	
+IS1001b.C.dialog-act.dharshi.171	not a a wheel but a ball , 	
+IS1001b.C.dialog-act.dharshi.172	and you say uh to 	
+IS1001b.A.dialog-act.dharshi.291	No , a wheel is better . 	
+IS1001b.B.dialog-act.dharshi.215	Yeah . 	
+IS1001b.A.dialog-act.dharshi.292	I would say the wheel is better . 	
+IS1001b.B.dialog-act.dharshi.216	Because of that 	
+IS1001b.A.dialog-act.dharshi.293	What is the expert of uh 	
+IS1001b.C.dialog-act.dharshi.174	Yeah . 	
+IS1001b.B.dialog-act.dharshi.217	The channels change one by one . 	
+IS1001b.C.dialog-act.dharshi.173	Yeah . 	
+IS1001b.B.dialog-act.dharshi.218	So you have to 	
+IS1001b.B.dialog-act.dharshi.219	the user has to like to should feel the the the discrete sense a bit . 	
+IS1001b.C.dialog-act.dharshi.175	Yeah , 	
+IS1001b.C.dialog-act.dharshi.176	the 	
+IS1001b.C.dialog-act.dharshi.177	yeah . 	
+IS1001b.A.dialog-act.dharshi.294	Okay . 	
+IS1001b.A.dialog-act.dharshi.295	Yeah . 	
+IS1001b.B.dialog-act.dharshi.220	Yeah . 	
+IS1001b.A.dialog-act.dharshi.296	That's a good idea . 	
+IS1001b.A.dialog-act.dharshi.297	Well also we have to decide uh 	
+IS1001b.A.dialog-act.dharshi.298	so it should be lightening in the dark I think because most people lost their remote control . 	
+IS1001b.C.dialog-act.dharshi.178	'S quite it's quite easy we do that w with back light on the on the wheel . 	
+IS1001b.A.dialog-act.dharshi.299	Okay . 	
+IS1001b.D.dialog-act.dharshi.131		
+IS1001b.B.dialog-act.dharshi.221	Yeah . 	
+IS1001b.B.dialog-act.dharshi.223	Even if i L_E_D_ uh or a if if it's the L_C_D_ feature uh 	
+IS1001b.C.dialog-act.dharshi.179	A blue a blue L_E_D_ and we sell that um . 	
+IS1001b.B.dialog-act.dharshi.222	whatever , yeah . 	
+IS1001b.A.dialog-act.dharshi.300	Yeah , 	
+IS1001b.D.dialog-act.dharshi.132		
+IS1001b.A.dialog-act.dharshi.301	and do we put an L_C_D_ display ? 	
+IS1001b.B.dialog-act.dharshi.224	Yeah . 	
+IS1001b.A.dialog-act.dharshi.302	Because it was important for young customers if you remember . 	
+IS1001b.B.dialog-act.dharshi.225	I think it's only put on if cou have multi function . 	
+IS1001b.C.dialog-act.dharshi.180	Yeah . 	
+IS1001b.B.dialog-act.dharshi.226	If you do not multi function then there is no p point in having L_C_D_ . 	
+IS1001b.B.dialog-act.dharshi.227	Just increase the cost . 	
+IS1001b.A.dialog-act.dharshi.303	Okay . 	
+IS1001b.B.dialog-act.dharshi.228	The user does not have an advantage really . 	
+IS1001b.A.dialog-act.dharshi.304	So no L_C_D_ ? 	
+IS1001b.C.dialog-act.dharshi.181	Mm-hmm . 	
+IS1001b.D.dialog-act.dharshi.133	Hmm . 	
+IS1001b.A.dialog-act.dharshi.305	And so no speech as well because it w it would delay too much the development process 	
+IS1001b.C.dialog-act.dharshi.182	Okay . 	
+IS1001b.B.dialog-act.dharshi.229	Well if it's going to delay yeah 	
+IS1001b.B.dialog-act.dharshi.230	but uh it will be cool . 	
+IS1001b.B.dialog-act.dharshi.231	It would . 	
+IS1001b.B.dialog-act.dharshi.232	Because a user could say C_N_N_ for example and it would go C_N_N_ . Mm . 	
+IS1001b.D.dialog-act.dharshi.134	Mm-hmm . 	
+IS1001b.A.dialog-act.dharshi.308	Yeah . That would be cool . 	
+IS1001b.A.dialog-act.dharshi.309	But eight months is really long 	
+IS1001b.B.dialog-act.dharshi.234	Yeah . 	
+IS1001b.A.dialog-act.dharshi.310	and 	
+IS1001b.A.dialog-act.dharshi.307	Maybe we can just uh 	
+IS1001b.C.dialog-act.dharshi.183	Ten years 	
+IS1001b.A.dialog-act.dharshi.306		
+IS1001b.B.dialog-act.dharshi.233		
+IS1001b.A.dialog-act.dharshi.311	Okay . 	
+IS1001b.A.dialog-act.dharshi.312	So um I I will uh I will 	
+IS1001b.A.dialog-act.dharshi.313	so I we will move to next meeting so in after the lunch break 	
+IS1001b.C.dialog-act.dharshi.184	Mm-hmm . 	
+IS1001b.A.dialog-act.dharshi.314	uh here are the individual uh action uh you are required to do 	
+IS1001b.A.dialog-act.dharshi.315	but you will be uh recalled to the actions by uh email I think 	
+IS1001b.A.dialog-act.dharshi.316	but you can take notes if you if you want but well the instruction will be sent . 	
+IS1001b.A.dialog-act.dharshi.317	So 	
+IS1001b.A.dialog-act.dharshi.320	thank you for uh your suggestion 	
+IS1001b.C.dialog-act.dharshi.185	Okay . 	
+IS1001b.A.dialog-act.dharshi.321	and I I will make a summary of that meeting that I will put in the shared folder you can't see 	
+IS1001b.C.dialog-act.dharshi.186	Okay . 	
+IS1001b.D.dialog-act.dharshi.135		
+IS1001b.C.dialog-act.dharshi.187	Okay . 	
+IS1001b.A.dialog-act.dharshi.322	and uh and then you will um you will be able to to see what has been uh has been said on on this meeting and and what has been decided . 	
+IS1001b.A.dialog-act.dharshi.323	Uh maybe for next meeting uh send me your presentation before by email so that we can see them uh altogether . 	
+IS1001b.B.dialog-act.dharshi.236	Yeah . 	
+IS1001b.A.dialog-act.dharshi.324	That would be easier . 	
+IS1001b.D.dialog-act.dharshi.136	Mm . 	
+IS1001b.B.dialog-act.dharshi.237	What is the folder that you put yours in ? 	
+IS1001b.B.dialog-act.dharshi.238	And did it it did work ? 	
+IS1001b.D.dialog-act.dharshi.137	No . 	
+IS1001b.A.dialog-act.dharshi.325	No it did not work . 	
+IS1001b.D.dialog-act.dharshi.138	No no . 	
+IS1001b.A.dialog-act.dharshi.326	She send it to me by email . 	
+IS1001b.B.dialog-act.dharshi.240	Ah yeah . Mm . 	
+IS1001b.D.dialog-act.dharshi.139	I dunno , I dunno it . 	
+IS1001b.B.dialog-act.dharshi.241	Okay . 	
+IS1001b.A.dialog-act.dharshi.327	So maybe this is better , to send it by email . 	
+IS1001b.B.dialog-act.dharshi.242	Okay 	
+IS1001b.B.dialog-act.dharshi.243	what is your email ? 	
+IS1001b.A.dialog-act.dharshi.328	Okay ? 	
+IS1001b.A.dialog-act.dharshi.330	So yeah I I'm 	
+IS1001b.A.dialog-act.dharshi.331	it's in the first uh email so I'm participant one at AMI 	
+IS1001b.B.dialog-act.dharshi.244	At participant one . Okay . 	
+IS1001b.A.dialog-act.dharshi.333	uh where is that , 	
+IS1001b.A.dialog-act.dharshi.334	it's here . 	
+IS1001b.A.dialog-act.dharshi.332	Participant one at AMI . 	
+IS1001b.A.dialog-act.dharshi.335	Okay . 	
+IS1001b.A.dialog-act.dharshi.329	So see you after lunch break . 	
+IS1001b.D.dialog-act.dharshi.140	'Kay thank you . 	
+IS1001b.B.dialog-act.dharshi.245	Well during lunch break actually . 	
+IS1001b.B.dialog-act.dharshi.246	So next time we should have a fight . 	
+IS1001b.A.dialog-act.dharshi.318		
+IS1001b.B.dialog-act.dharshi.247	How about uh management or something . 	
+IS1001b.B.dialog-act.dharshi.248	Who happens to be your friend . 	
+IS1001b.A.dialog-act.dharshi.319		
+IS1001b.B.dialog-act.dharshi.235		
+

@@ -1,0 +1,592 @@
+Observation: IS1008d; Result size: 589; atts: 2
+$d@nite:id	$d	
+IS1008d.B.dialog-act.s9553330.1	I'm sorry to be late . 	
+IS1008d.A.dialog-act.s9553330.1	Welcome back . 	
+IS1008d.A.dialog-act.s9553330.2	Welcome back everybody . 	
+IS1008d.C.dialog-act.s9553330.2	Yeah . 	
+IS1008d.C.dialog-act.s9553330.3	Thanks . 	
+IS1008d.A.dialog-act.s9553330.3	So this meeting agenda will be the detailed design meeting . 	
+IS1008d.A.dialog-act.s9553330.4	And uh opening and uh P_M_s of the meet minutes , 	
+IS1008d.A.dialog-act.s9553330.5	uh prototype presentation from uh Christine and uh Agnes . 	
+IS1008d.B.dialog-act.s9553330.2	Agnes , yes . 	
+IS1008d.A.dialog-act.s9553330.6	Yes 	
+IS1008d.A.dialog-act.s9553330.7	and uh evaluation criteria . 	
+IS1008d.A.dialog-act.s9553330.8	The finance , it's uh from my side , from the management , 	
+IS1008d.A.dialog-act.s9553330.9	and uh production evaluation . Then uh closing . 	
+IS1008d.A.dialog-act.s9553330.10	So we have forty minutes to discuss and uh finalise and close the product and project and to move further , okay , 	
+IS1008d.A.dialog-act.s9553330.11	so 	
+IS1008d.A.dialog-act.s9553330.12	Okay , let's talk about uh maybe first uh for the prototype . 	
+IS1008d.C.dialog-act.s9553330.4	Mm , okay . 	
+IS1008d.A.dialog-act.s9553330.13	So I handle to 	
+IS1008d.C.dialog-act.s9553330.5	I've done a presentation , 	
+IS1008d.C.dialog-act.s9553330.6	but it pretty much covers work that we've both done , 	
+IS1008d.C.dialog-act.s9553330.7	so if I'm missing anything , Christine can just correct me . 	
+IS1008d.A.dialog-act.s9553330.14	So shall I go to 	
+IS1008d.B.dialog-act.s9553330.3	Uh thank you , 	
+IS1008d.A.dialog-act.s9553330.15	sorry . 	
+IS1008d.B.dialog-act.s9553330.4	so you did a PowerPoint presentation , good for you . 	
+IS1008d.A.dialog-act.s9553330.16	Yep . S 	
+IS1008d.A.dialog-act.s9553330.17	Okay , let's go to A_M_I_ . 	
+IS1008d.C.dialog-act.s9553330.1		
+IS1008d.C.dialog-act.s9553330.8	It's not the biggest PowerPoint presentation in the world , but 	
+IS1008d.B.dialog-act.s9553330.5		
+IS1008d.D.dialog-act.s9553330.1		
+IS1008d.B.dialog-act.s9553330.6		
+IS1008d.A.dialog-act.s9553330.18	So in two or three or 	
+IS1008d.C.dialog-act.s9553330.9	Three . 	
+IS1008d.C.dialog-act.s9553330.10	Um . 	
+IS1008d.C.dialog-act.s9553330.11	No it's 	
+IS1008d.D.dialog-act.s9553330.2	Probably . Technical pa I would think . 	
+IS1008d.C.dialog-act.s9553330.12	think it's the last one . 	
+IS1008d.C.dialog-act.s9553330.13	No , 	
+IS1008d.C.dialog-act.s9553330.14	then this is 	
+IS1008d.C.dialog-act.s9553330.15	the la yeah , that one , final design . 	
+IS1008d.D.dialog-act.s9553330.3	Ha . 	
+IS1008d.A.dialog-act.s9553330.20	Yeah . 	
+IS1008d.C.dialog-act.s9553330.16	It is named appropriately , you just couldn't see the name . 	
+IS1008d.B.dialog-act.s9553330.7		
+IS1008d.D.dialog-act.s9553330.4		
+IS1008d.C.dialog-act.s9553330.17	Um okay , can I have the mouse ? 	
+IS1008d.A.dialog-act.s9553330.19	Yes . 	
+IS1008d.C.dialog-act.s9553330.18	Thanks . 	
+IS1008d.C.dialog-act.s9553330.19	Alright , so 	
+IS1008d.C.dialog-act.s9553330.20	from when we were discussing specifying the case in the last meeting , we decided that we wanted an ergonomic shape , 	
+IS1008d.C.dialog-act.s9553330.21	the material that we chose was wood , 	
+IS1008d.C.dialog-act.s9553330.22	and uh the colour would be customisable , 	
+IS1008d.C.dialog-act.s9553330.23	'cause you can stain the wood whatever colour . 	
+IS1008d.C.dialog-act.s9553330.24	Um , 	
+IS1008d.C.dialog-act.s9553330.25	so in terms of function , you have to be able to turn the T_V_ on and off , volume and channel control , menu control , voice recognition control , 	
+IS1008d.C.dialog-act.s9553330.26	and we've incorporated the L_C_D_ screen on the flip panel as part of the design , 	
+IS1008d.C.dialog-act.s9553330.27	if we figure out it's too expensive , well then you just take it off . 	
+IS1008d.C.dialog-act.s9553330.28	Um , so 	
+IS1008d.C.dialog-act.s9553330.29	to unveil our lovely product . 	
+IS1008d.D.dialog-act.s9553330.5		
+IS1008d.C.dialog-act.s9553330.30	This is our remote control , with the flip panel as you can see . 	
+IS1008d.C.dialog-act.s9553330.31	So if you lift up the panel , you can see the lovely yellow L_C_D_ display . 	
+IS1008d.C.dialog-act.s9553330.32	Um , this is actually hard to do . 	
+IS1008d.C.dialog-act.s9553330.33	The yellow button you have is the on off button , 	
+IS1008d.C.dialog-act.s9553330.34	so it's really big , hard to miss . 	
+IS1008d.C.dialog-act.s9553330.35	You have the the red um triangles are the toggles for changing the volume . 	
+IS1008d.C.dialog-act.s9553330.36	So up volume up , down volume down . 	
+IS1008d.C.dialog-act.s9553330.37	The green are the channel changing . 	
+IS1008d.C.dialog-act.s9553330.38	S And it's one of those very light , very touchable displays . 	
+IS1008d.C.dialog-act.s9553330.39	And then you have the numeric pad in the dark blue at the bottom , 	
+IS1008d.C.dialog-act.s9553330.40	and on the right-hand side you have the access to the menu on the T_V_ , 	
+IS1008d.C.dialog-act.s9553330.41	and on the left-hand side you have the the the ability to turn off the voice recognition . 	
+IS1008d.C.dialog-act.s9553330.42	So this is pretty much what we had on the white board the last time . 	
+IS1008d.A.dialog-act.s9553330.21	Mm-hmm . 	
+IS1008d.C.dialog-act.s9553330.43	So . 	
+IS1008d.B.dialog-act.s9553330.8	Um and uh I could 	
+IS1008d.C.dialog-act.s9553330.44	Oh yes . 	
+IS1008d.B.dialog-act.s9553330.9	Yeah the d 	
+IS1008d.C.dialog-act.s9553330.45	Additional feature on the back is that you can have your own customised backing 	
+IS1008d.C.dialog-act.s9553330.46	and I suppose you could do the same thing on the flip case on the front . 	
+IS1008d.C.dialog-act.s9553330.47	So that you can really make this a highly highly customisable remote control . 	
+IS1008d.B.dialog-act.s9553330.10	We haven't um uh specified where the speaker or the microphone will be placed . 	
+IS1008d.B.dialog-act.s9553330.11	That depends on the uh s design of the circuit board inside and uh what room is left um 	
+IS1008d.C.dialog-act.s9553330.48	Yeah . 	
+IS1008d.A.dialog-act.s9553330.22	I think the microphone is on on the top , uh on the middle , the under the flip . 	
+IS1008d.B.dialog-act.s9553330.12	Yes , okay . 	
+IS1008d.B.dialog-act.s9553330.13	Uh-huh . 	
+IS1008d.A.dialog-act.s9553330.23	So that will be the safe , 	
+IS1008d.A.dialog-act.s9553330.24	so p any the chip 	
+IS1008d.A.dialog-act.s9553330.25	it's not on the chip because you need to have microphone to 	
+IS1008d.B.dialog-act.s9553330.14	No , I mean it depends on the design of the circuit board . 	
+IS1008d.A.dialog-act.s9553330.26	Yes . 	
+IS1008d.C.dialog-act.s9553330.49	But it shouldn't be under the flip either , 	
+IS1008d.C.dialog-act.s9553330.50	because you can have the remote control closed , but you still might want to activate it by voice . 	
+IS1008d.A.dialog-act.s9553330.27	Uh it's it's 	
+IS1008d.A.dialog-act.s9553330.28	Yeah , but uh uh 	
+IS1008d.A.dialog-act.s9553330.29	my opinion I think it's better under the flip 	
+IS1008d.A.dialog-act.s9553330.30	because whenever you want to uh the talk , okay , so then you can speak then you can close it . 	
+IS1008d.A.dialog-act.s9553330.31	But if you put it on the on the flip , okay , then uh technical I don't think it's uh feasible , 	
+IS1008d.A.dialog-act.s9553330.32	'cause most of the time you speak then it will be recognised . 	
+IS1008d.C.dialog-act.s9553330.51	But if you've already got the remote control in your hand you need to open the flip to use the voice , why use the voice , why not just use your hand ? 	
+IS1008d.C.dialog-act.s9553330.52	I mean the whole point of the voice is that if the remote control is sitting there and I'm too lazy to reach over and pick it up , I can just use my voice . 	
+IS1008d.B.dialog-act.s9553330.15	Maybe I've got my hand in the popcorn bowl and I'm holding my cup of Coca-Cola in the other hand . 	
+IS1008d.C.dialog-act.s9553330.53	Yeah . 	
+IS1008d.C.dialog-act.s9553330.54	And you don't wanna let go of either one . 	
+IS1008d.D.dialog-act.s9553330.6	I don't wanna say . Louder . Yeah . 	
+IS1008d.C.dialog-act.s9553330.55		
+IS1008d.C.dialog-act.s9553330.56	I mean it doesn't have to be on the flip , 	
+IS1008d.C.dialog-act.s9553330.57	it can be on the side somewhere . 	
+IS1008d.D.dialog-act.s9553330.7	Can also be on the side . 	
+IS1008d.A.dialog-act.s9553330.33	Yeah , the sides maybe is good . 	
+IS1008d.C.dialog-act.s9553330.58	Yeah . 	
+IS1008d.B.dialog-act.s9553330.16	Mm-hmm . 	
+IS1008d.C.dialog-act.s9553330.59	So , I mean I can pass this around if anyone wants to 	
+IS1008d.A.dialog-act.s9553330.34	Yes . So it's maybe good idea . 	
+IS1008d.B.dialog-act.s9553330.17	Yeah , y better you pass it around with a napkin . 	
+IS1008d.C.dialog-act.s9553330.60		
+IS1008d.D.dialog-act.s9553330.8	No , because y you can easily put a microphone on the side that would have no problem would haven't been not be damaged or anything , and it'd be accessible all the time to voice . 	
+IS1008d.C.dialog-act.s9553330.61		
+IS1008d.C.dialog-act.s9553330.62	Yeah . 	
+IS1008d.A.dialog-act.s9553330.35	Yes . 	
+IS1008d.A.dialog-act.s9553330.36	Yeah . 	
+IS1008d.C.dialog-act.s9553330.63	Yeah , exactly . 	
+IS1008d.D.dialog-act.s9553330.9	Yeah . 	
+IS1008d.A.dialog-act.s9553330.37	So it's maybe good idea . 	
+IS1008d.A.dialog-act.s9553330.38	S s 	
+IS1008d.B.dialog-act.s9553330.18	It's um It's um 	
+IS1008d.D.dialog-act.s9553330.10	Compliments to the artist . 	
+IS1008d.B.dialog-act.s9553330.19	You need to work on the weight a little bit . 	
+IS1008d.C.dialog-act.s9553330.64	Yes . 	
+IS1008d.D.dialog-act.s9553330.11	Uh . 	
+IS1008d.A.dialog-act.s9553330.39	Okay . S 	
+IS1008d.A.dialog-act.s9553330.40	I'm fine , I'm satisfi 	
+IS1008d.C.dialog-act.s9553330.65	And maybe the shape of the buttons , 	
+IS1008d.C.dialog-act.s9553330.66	the little egg shapes aren't the most economical , but 	
+IS1008d.A.dialog-act.s9553330.41	I'm satisfied . 	
+IS1008d.B.dialog-act.s9553330.20	We're glad you're satisfied . 	
+IS1008d.A.dialog-act.s9553330.42	Of course it's it's it's looks more heo heavy , but I think when it's completely maybe it's a less weight . 	
+IS1008d.C.dialog-act.s9553330.67	Yeah . I mean this is plasticene . 	
+IS1008d.C.dialog-act.s9553330.68	There's only so much you can do . 	
+IS1008d.A.dialog-act.s9553330.43	Yes . 	
+IS1008d.C.dialog-act.s9553330.69	We could have possibly made it a lot thinner as well . 	
+IS1008d.C.dialog-act.s9553330.70	But 	
+IS1008d.C.dialog-act.s9553330.71	And part of the thing is m a lot of people say that they don't like something that's too light , 	
+IS1008d.C.dialog-act.s9553330.72	because they don't feel like they have enough control over it . 	
+IS1008d.B.dialog-act.s9553330.21	Mm-hmm . 	
+IS1008d.C.dialog-act.s9553330.73	So I mean maybe this is excessively heavy , 	
+IS1008d.C.dialog-act.s9553330.74	but I think it needs to have some weight , 	
+IS1008d.C.dialog-act.s9553330.75	it needs to feel like you're still holding something . 	
+IS1008d.A.dialog-act.s9553330.44	Yep . 	
+IS1008d.C.dialog-act.s9553330.76	So that's pretty much it for our presentation actually . 	
+IS1008d.A.dialog-act.s9553330.45	That's your uh prototype model ? 	
+IS1008d.C.dialog-act.s9553330.77	Yeah . 	
+IS1008d.A.dialog-act.s9553330.46	Okay , that's good , thank you very much . 	
+IS1008d.D.dialog-act.s9553330.12		
+IS1008d.A.dialog-act.s9553330.48	So any comments or uh 	
+IS1008d.D.dialog-act.s9553330.13	Well , the prototype is is very well within the design and ideas that we've we've talked about on the previous meetings . 	
+IS1008d.A.dialog-act.s9553330.47	Okay . 	
+IS1008d.D.dialog-act.s9553330.14	Now it goes into this next phase as the financial uh marketing uh 	
+IS1008d.A.dialog-act.s9553330.49	Yes , that uh 	
+IS1008d.A.dialog-act.s9553330.50	So I'll come back to the 	
+IS1008d.A.dialog-act.s9553330.51		
+IS1008d.A.dialog-act.s9553330.52	So evaluation criteria , I think uh that will be good , 	
+IS1008d.A.dialog-act.s9553330.53	so then let's come to the finance uh , 	
+IS1008d.A.dialog-act.s9553330.55	I have some uh calculations which I made uh as for uh the budget . 	
+IS1008d.A.dialog-act.s9553330.56	So here you can uh look like uh the energy and uh dynamo and uh kinetic and solar cells . 	
+IS1008d.A.dialog-act.s9553330.57	Uh it's optional , somewhat optional 	
+IS1008d.A.dialog-act.s9553330.58	and Ed wants the chip on print , that's what uh we were talking about that . 	
+IS1008d.B.dialog-act.s9553330.22		
+IS1008d.A.dialog-act.s9553330.60	So then we have sample sensor and sample speaker , then uh we have the wood material , then special colour and push button . 	
+IS1008d.A.dialog-act.s9553330.61	So it's uh 	
+IS1008d.A.dialog-act.s9553330.62	actually , our budget was uh twelve point five Euro , 	
+IS1008d.A.dialog-act.s9553330.63	but uh it's coming to nine point nine five Euro , 	
+IS1008d.A.dialog-act.s9553330.64	so we are under uh below the budget , 	
+IS1008d.A.dialog-act.s9553330.65	okay , so still we are saving some money . 	
+IS1008d.A.dialog-act.s9553330.66	I think it's a good figure . 	
+IS1008d.B.dialog-act.s9553330.23	Yes , great 	
+IS1008d.A.dialog-act.s9553330.59		
+IS1008d.D.dialog-act.s9553330.15		
+IS1008d.B.dialog-act.s9553330.24	I I'm surprised . 	
+IS1008d.B.dialog-act.s9553330.25	Congratulations . 	
+IS1008d.A.dialog-act.s9553330.67	Than thank you . 	
+IS1008d.D.dialog-act.s9553330.16	Well we haven't come to mine yet , so 	
+IS1008d.A.dialog-act.s9553330.68		
+IS1008d.C.dialog-act.s9553330.78		
+IS1008d.B.dialog-act.s9553330.26	Oh , okay 	
+IS1008d.D.dialog-act.s9553330.17	we're gonna have a bit of difference of opinion , yes . 	
+IS1008d.B.dialog-act.s9553330.27	. It's gonna cost a long way to c you know , cost a lot of money to market it , is it ? 	
+IS1008d.D.dialog-act.s9553330.18		
+IS1008d.A.dialog-act.s9553330.69	So maybe it's for some money we can utilise for our uh marketing , for the sales , okay , and uh 	
+IS1008d.D.dialog-act.s9553330.19	Well , it just depends on if we're gonna add a o 	
+IS1008d.D.dialog-act.s9553330.20	on this pr provisionary cost analysis , we do not have a L_C_ display . 	
+IS1008d.D.dialog-act.s9553330.21	L_C_ display is gonna be very expensive , 	
+IS1008d.C.dialog-act.s9553330.80	No we do , but it's not filled in . 	
+IS1008d.D.dialog-act.s9553330.22	it's gonna be 	
+IS1008d.C.dialog-act.s9553330.81	It's number thirty . 	
+IS1008d.D.dialog-act.s9553330.23	It's not it doesn't say . 	
+IS1008d.A.dialog-act.s9553330.72	It's not . 	
+IS1008d.B.dialog-act.s9553330.28	Thirty . 	
+IS1008d.D.dialog-act.s9553330.24	We don't have the price up there , 	
+IS1008d.A.dialog-act.s9553330.70	Yeah . Yeah . 	
+IS1008d.C.dialog-act.s9553330.82	Oh , yeah , yeah , 	
+IS1008d.C.dialog-act.s9553330.83	you're right , sorry , yes . 	
+IS1008d.A.dialog-act.s9553330.71	Yeah . Yeah . 	
+IS1008d.D.dialog-act.s9553330.25	okay , so if we add approximately two to three Euro per remote , now we're up around about twelve , twelve and a half as to what uh the company had initially uh requested . Um 	
+IS1008d.B.dialog-act.s9553330.30	Yeah . 	
+IS1008d.B.dialog-act.s9553330.31	So that means we can put the uh the L_C_D_ in , yeah . 	
+IS1008d.D.dialog-act.s9553330.26	Display in . 	
+IS1008d.D.dialog-act.s9553330.27	But as far as production um I'm putting up a question 	
+IS1008d.D.dialog-act.s9553330.28	because we're talking about profit also , 	
+IS1008d.D.dialog-act.s9553330.29	and in mine you'll see uh the problem with uh our survey , the p the possibility that how many units can be sold , what percentage of the market , etcetera etcetera 	
+IS1008d.D.dialog-act.s9553330.30	because that has to be taken in into consideration . 	
+IS1008d.A.dialog-act.s9553330.73		
+IS1008d.D.dialog-act.s9553330.33	Uh this is just production cost , it is not uh advertising cost , it's not transportation cost uh 	
+IS1008d.A.dialog-act.s9553330.74	Yes , so still uh we have twelve point five Euro . 	
+IS1008d.D.dialog-act.s9553330.34	And that will inflate quite a bit the cost of the uh the cost of the unit for the company . 	
+IS1008d.A.dialog-act.s9553330.75	Yes . 	
+IS1008d.A.dialog-act.s9553330.76		
+IS1008d.A.dialog-act.s9553330.77	Yeah , but 	
+IS1008d.A.dialog-act.s9553330.78	Yes . Yep . 	
+IS1008d.C.dialog-act.s9553330.84	Um-hmm . 	
+IS1008d.D.dialog-act.s9553330.35	So to come up with what the company wants is a fifty million Pound profit , we're gonna have to go a long ways . 	
+IS1008d.A.dialog-act.s9553330.79	Yes . 	
+IS1008d.A.dialog-act.s9553330.80	This we are talking about one unit , okay , 	
+IS1008d.D.dialog-act.s9553330.36	Yes . 	
+IS1008d.A.dialog-act.s9553330.81	so when it go into the quantity , okay , and the cost will come down . 	
+IS1008d.B.dialog-act.s9553330.32	Although customisation , because this is being done , you know , the on on-order basis , it might be uh the the quantity won't m won't uh 	
+IS1008d.D.dialog-act.s9553330.37	Slightly . 	
+IS1008d.A.dialog-act.s9553330.82	Yeah . 	
+IS1008d.D.dialog-act.s9553330.38	It's gonna be very hard to reduce . 	
+IS1008d.C.dialog-act.s9553330.85	Yes . 	
+IS1008d.B.dialog-act.s9553330.33	the circuit board will b you're right , would be in producing quantity , 	
+IS1008d.B.dialog-act.s9553330.34	but the cost of the case would uh be fixed at the 	
+IS1008d.B.dialog-act.s9553330.35	Uh you got some pretty cheap labour that can do this case for one Euro . 	
+IS1008d.D.dialog-act.s9553330.39	That's not bad . 	
+IS1008d.B.dialog-act.s9553330.36	That's really 	
+IS1008d.B.dialog-act.s9553330.37	that's the cost of the material and lab wow , that's really outstanding . 	
+IS1008d.A.dialog-act.s9553330.83	Yep . 	
+IS1008d.A.dialog-act.s9553330.84	Yeah . 	
+IS1008d.A.dialog-act.s9553330.85		
+IS1008d.A.dialog-act.s9553330.86	But anyhow , still we are under control , okay , 	
+IS1008d.A.dialog-act.s9553330.87	so what uh I will do is I will try to negotiate with the vendors , okay , to get uh the production cost less , okay , 	
+IS1008d.A.dialog-act.s9553330.88	so then we can save some money , okay , to put into th our marketing or uh you know the promotions , whatever , okay , 	
+IS1008d.A.dialog-act.s9553330.89	so that uh I will look after . 	
+IS1008d.A.dialog-act.s9553330.90	I will speak to the management and how to get uh you know some more uh cost down . 	
+IS1008d.D.dialog-act.s9553330.40	If we can go to to my display . 	
+IS1008d.D.dialog-act.s9553330.42	And we'll come back to yours 	
+IS1008d.A.dialog-act.s9553330.91	Yes . 	
+IS1008d.D.dialog-act.s9553330.43	just to give everybody an idea of the market . 	
+IS1008d.D.dialog-act.s9553330.44	So now I'm gonna scare everybody out of this project . 	
+IS1008d.C.dialog-act.s9553330.86		
+IS1008d.B.dialog-act.s9553330.38		
+IS1008d.D.dialog-act.s9553330.45	If I'm still here . 	
+IS1008d.A.dialog-act.s9553330.92	You're in four ? 	
+IS1008d.D.dialog-act.s9553330.46		
+IS1008d.D.dialog-act.s9553330.47	Yep 	
+IS1008d.D.dialog-act.s9553330.49	The four gives me 	
+IS1008d.D.dialog-act.s9553330.50	it's gotta be uh TrendWatch . 	
+IS1008d.A.dialog-act.s9553330.93	TrendWatch . 	
+IS1008d.B.dialog-act.s9553330.39	Is this the same one you did before ? 	
+IS1008d.D.dialog-act.s9553330.51	No . 	
+IS1008d.B.dialog-act.s9553330.40	Okay . 	
+IS1008d.D.dialog-act.s9553330.52	It shouldn't be 	
+IS1008d.D.dialog-act.s9553330.53	if it's not it's not the right one . 	
+IS1008d.C.dialog-act.s9553330.87	That's no , I think it's the same one . 	
+IS1008d.D.dialog-act.s9553330.54	No , no we g no , that's the same one . 	
+IS1008d.D.dialog-act.s9553330.55	You have to go back and find another one . 	
+IS1008d.D.dialog-act.s9553330.56	Whatever name it popped up under . 	
+IS1008d.A.dialog-act.s9553330.94		
+IS1008d.D.dialog-act.s9553330.57	Uh functional , try functional , 	
+IS1008d.C.dialog-act.s9553330.88	Functional . 	
+IS1008d.D.dialog-act.s9553330.58	it might not be it either , but we'll see . 	
+IS1008d.B.dialog-act.s9553330.41		
+IS1008d.C.dialog-act.s9553330.89	It looks like it , 	
+IS1008d.C.dialog-act.s9553330.90	there's 	
+IS1008d.D.dialog-act.s9553330.59	Yep , that's it . 	
+IS1008d.C.dialog-act.s9553330.91	S Yeah . 	
+IS1008d.D.dialog-act.s9553330.60	So we'll go screen by screen . 	
+IS1008d.A.dialog-act.s9553330.95	Okay . 	
+IS1008d.D.dialog-act.s9553330.61	Although 	
+IS1008d.D.dialog-act.s9553330.62	since uh we need to have some type of idea on a market uh we had independent study that says it this this market has an availability to absorb eight mi eight million units per year . 	
+IS1008d.D.dialog-act.s9553330.63	Okay ? 	
+IS1008d.D.dialog-act.s9553330.64	Our internal company evaluation puts it between eight to nine million 	
+IS1008d.D.dialog-act.s9553330.65	which is approximately the same as the independent study . 	
+IS1008d.A.dialog-act.s9553330.96	Yep . 	
+IS1008d.D.dialog-act.s9553330.67	So if we continue , 	
+IS1008d.D.dialog-act.s9553330.68	we'll look at the findings . 	
+IS1008d.D.dialog-act.s9553330.69	Next screen . 	
+IS1008d.D.dialog-act.s9553330.70	Which means that uh if we have a target of two million would the company has to take twenty five percent of the market in the first year , 	
+IS1008d.A.dialog-act.s9553330.97	Mm-hmm . 	
+IS1008d.D.dialog-act.s9553330.71	which is actually a tremendous amount . 	
+IS1008d.B.dialog-act.s9553330.42	Yeah , no kidding . 	
+IS1008d.D.dialog-act.s9553330.72	No kidding , yeah . 	
+IS1008d.B.dialog-act.s9553330.43	Mayb maybe they already expected something . 	
+IS1008d.D.dialog-act.s9553330.73	So , 	
+IS1008d.D.dialog-act.s9553330.74	if we put an inflated price of fifty Euro at a production cost that cannot exceed twenty-five Euro , 	
+IS1008d.D.dialog-act.s9553330.75	okay , we're already in that that price , okay , 	
+IS1008d.A.dialog-act.s9553330.98	Yes . 	
+IS1008d.D.dialog-act.s9553330.76	with transport , promotion , labour , because we hav gi included the promotion in the cost , transport for the material to the stores or whatever how however we're gonna break this down between our our retailers . 	
+IS1008d.C.dialog-act.s9553330.92	Um-hmm . 	
+IS1008d.D.dialog-act.s9553330.77	Twenty-five percent of the market to get to two million units . 	
+IS1008d.D.dialog-act.s9553330.78	At two million units , we have to have a profit of twenty-five Euro per unit to get to the fifty million unit Eu Euro profit . 	
+IS1008d.A.dialog-act.s9553330.99	Mm-hmm . 	
+IS1008d.A.dialog-act.s9553330.100	Yep . 	
+IS1008d.D.dialog-act.s9553330.79	Okay ? 	
+IS1008d.D.dialog-act.s9553330.80	So , obviously we w w 	
+IS1008d.D.dialog-act.s9553330.81	I just did a run down the evaluation of the form , 	
+IS1008d.D.dialog-act.s9553330.82	the fan uh the fancy stylishness of the of the unit , the ease of use , speech recognition , cost , we've gone through these . 	
+IS1008d.D.dialog-act.s9553330.83	Now , the company must evaluate the feasibility of being able to take enough of the market to justify in production . 	
+IS1008d.D.dialog-act.s9553330.84	Or we project this over two years , 	
+IS1008d.D.dialog-act.s9553330.85	but being that the market changes very very quickly , maybe there's no more interest in buying this thing in eighteen months from now . 	
+IS1008d.A.dialog-act.s9553330.101	Yes . 	
+IS1008d.A.dialog-act.s9553330.102	Yep . 	
+IS1008d.D.dialog-act.s9553330.86	So , now we have to come up with a decision . 	
+IS1008d.A.dialog-act.s9553330.104	Of course . 	
+IS1008d.C.dialog-act.s9553330.93	Mm . 	
+IS1008d.D.dialog-act.s9553330.87	Can the company sell two million units ? 	
+IS1008d.A.dialog-act.s9553330.103	Yep . 	
+IS1008d.D.dialog-act.s9553330.88	Can it sell it for fifty Euros ? 	
+IS1008d.B.dialog-act.s9553330.44	Could could I go to findings ? 	
+IS1008d.A.dialog-act.s9553330.105	Yep . 	
+IS1008d.B.dialog-act.s9553330.45	Uh uh um I would uh like to explore the possibility of using um alternative um delivery and sales channel 	
+IS1008d.B.dialog-act.s9553330.46	which would be um to use the internet for promotion and ordering 	
+IS1008d.C.dialog-act.s9553330.94	I was thinking the same thing , yeah . 	
+IS1008d.A.dialog-act.s9553330.106	Yes . 	
+IS1008d.B.dialog-act.s9553330.47	and then to drop-ship the p product to the customer's residence . 	
+IS1008d.C.dialog-act.s9553330.97	Directly . 	
+IS1008d.B.dialog-act.s9553330.48	That way you have no storage , you have no um 	
+IS1008d.B.dialog-act.s9553330.49	you do have transportation , still have the labour cost , 	
+IS1008d.C.dialog-act.s9553330.95	Um-hmm . 	
+IS1008d.B.dialog-act.s9553330.50	but you don't have the transport to the uh point of sale . 	
+IS1008d.A.dialog-act.s9553330.107	Yes . 	
+IS1008d.C.dialog-act.s9553330.96	Yeah . 	
+IS1008d.B.dialog-act.s9553330.51	The point of sale is online . 	
+IS1008d.A.dialog-act.s9553330.108	To the agents . 	
+IS1008d.C.dialog-act.s9553330.98	Yeah . 	
+IS1008d.C.dialog-act.s9553330.99	You can do a shipping centre somewhere , 	
+IS1008d.C.dialog-act.s9553330.100	or strategically place shipping centres to minimise distance costs . 	
+IS1008d.B.dialog-act.s9553330.52	Right , like Amazon . 	
+IS1008d.B.dialog-act.s9553330.53	In fact , we should sell through Amazon , 	
+IS1008d.A.dialog-act.s9553330.109	Yes . 	
+IS1008d.B.dialog-act.s9553330.54	don't you think ? 	
+IS1008d.A.dialog-act.s9553330.110	Or eBay , or 	
+IS1008d.B.dialog-act.s9553330.55	Or eBay , yeah . 	
+IS1008d.A.dialog-act.s9553330.111	Yes . 	
+IS1008d.C.dialog-act.s9553330.101	Yeah . 	
+IS1008d.D.dialog-act.s9553330.89		
+IS1008d.B.dialog-act.s9553330.56	There's an idea . 	
+IS1008d.B.dialog-act.s9553330.57	Going with um 	
+IS1008d.A.dialog-act.s9553330.112	Yeah , that's a good idea . 	
+IS1008d.A.dialog-act.s9553330.113	To impro more profit and uh 	
+IS1008d.D.dialog-act.s9553330.90	S Upscale technology . 	
+IS1008d.A.dialog-act.s9553330.114	Yeah , yes . 	
+IS1008d.B.dialog-act.s9553330.58	Ah , we we're do you know , selling a unique product uh . 	
+IS1008d.D.dialog-act.s9553330.91	Well . 	
+IS1008d.C.dialog-act.s9553330.102	That actually makes more sense if we're gonna make it so highly customisable , 	
+IS1008d.C.dialog-act.s9553330.103	'cause on the web people can look at the different options they have , see maybe what other people have done , what the range of possibility as , 	
+IS1008d.B.dialog-act.s9553330.59	Mm . 	
+IS1008d.D.dialog-act.s9553330.92	There are several companies that have gone that way . 	
+IS1008d.C.dialog-act.s9553330.104	whereas if you're in a store , you can't unless you're a highly imaginative person , you may not really know what it is you want , 	
+IS1008d.B.dialog-act.s9553330.60	Mm . 	
+IS1008d.C.dialog-act.s9553330.105	whereas on the web , if you have a bunch of pictures , it can sort of trigger ideas and 	
+IS1008d.B.dialog-act.s9553330.61	Mm-hmm . 	
+IS1008d.B.dialog-act.s9553330.62	And you can even have an a movie that you can rotate the object and look at the di 	
+IS1008d.C.dialog-act.s9553330.106	Yeah . 	
+IS1008d.B.dialog-act.s9553330.63	the only thing that you're missing really is the weight . 	
+IS1008d.C.dialog-act.s9553330.107	The weight and feel . 	
+IS1008d.D.dialog-act.s9553330.93	Weight , the feel of the product , but 	
+IS1008d.B.dialog-act.s9553330.64	Mm . 	
+IS1008d.C.dialog-act.s9553330.108	Yeah . 	
+IS1008d.B.dialog-act.s9553330.65	We're getting used to that . 	
+IS1008d.B.dialog-act.s9553330.66	It's not quite like trying on a shoe , 	
+IS1008d.B.dialog-act.s9553330.67	but people are getting used to buying things online that they can't touch before buying . 	
+IS1008d.C.dialog-act.s9553330.109	Yeah . 	
+IS1008d.C.dialog-act.s9553330.110	Yeah . 	
+IS1008d.D.dialog-act.s9553330.94	There are several that have gone through with the watches , too . 	
+IS1008d.D.dialog-act.s9553330.95	You can customise a watch , 	
+IS1008d.D.dialog-act.s9553330.96	you can see how it is at the f at the end of the production , 	
+IS1008d.C.dialog-act.s9553330.111	Mm-hmm . 	
+IS1008d.B.dialog-act.s9553330.68	Uh-huh . 	
+IS1008d.D.dialog-act.s9553330.97	you can change it uh 	
+IS1008d.D.dialog-act.s9553330.98	There's a lot of online that's that is doing this now . 	
+IS1008d.C.dialog-act.s9553330.112	Yes . 	
+IS1008d.D.dialog-act.s9553330.99	And when you're rotating , you'll look behind and look this way uh 	
+IS1008d.D.dialog-act.s9553330.100	it's possible to do with this , 	
+IS1008d.D.dialog-act.s9553330.101	maybe there's a possibility of selling more than two million units in one year , which could you know , feasibili feasibility uh lower the price of the unit . 	
+IS1008d.A.dialog-act.s9553330.115	Yeah . 	
+IS1008d.C.dialog-act.s9553330.113	Mm-hmm . 	
+IS1008d.A.dialog-act.s9553330.116	We can . 	
+IS1008d.B.dialog-act.s9553330.69	Great . 	
+IS1008d.A.dialog-act.s9553330.117	I don't think that's uh not possible , 	
+IS1008d.A.dialog-act.s9553330.118	it's uh 	
+IS1008d.A.dialog-act.s9553330.119	okay then , l uh let's wait for the production , okay , then uh you can evaluate the product , 	
+IS1008d.A.dialog-act.s9553330.120	so how it looks like technically and uh how it look like uh the real . 	
+IS1008d.C.dialog-act.s9553330.114	What turnaround time do we have ? 	
+IS1008d.A.dialog-act.s9553330.121	T 	
+IS1008d.C.dialog-act.s9553330.115	'Cause I mean production evaluation can be very very quick or very very long . 	
+IS1008d.A.dialog-act.s9553330.122	Oh but 	
+IS1008d.A.dialog-act.s9553330.123	Yes it's it's very quick , of course . 	
+IS1008d.A.dialog-act.s9553330.124	It will uh come back in two weeks , okay , 	
+IS1008d.A.dialog-act.s9553330.125	it will be ready in two weeks . 	
+IS1008d.B.dialog-act.s9553330.70	Works for me . 	
+IS1008d.A.dialog-act.s9553330.126	For evaluation , okay . 	
+IS1008d.B.dialog-act.s9553330.71		
+IS1008d.B.dialog-act.s9553330.72	Prototypes , you mean . 	
+IS1008d.A.dialog-act.s9553330.127	Yes , the prototype uh prototype product evaluation . 	
+IS1008d.B.dialog-act.s9553330.73	In um 	
+IS1008d.B.dialog-act.s9553330.74	We probably should do some market tests uh once we have the prototypes and do some orders and things like that and test-market it . 	
+IS1008d.A.dialog-act.s9553330.128	Yes . 	
+IS1008d.D.dialog-act.s9553330.102	Well , obviously . 	
+IS1008d.A.dialog-act.s9553330.129	Yes . Yes . 	
+IS1008d.C.dialog-act.s9553330.116	Yeah . 	
+IS1008d.D.dialog-act.s9553330.103	Mm that'd have to be thrown out on the market for people to get an idea , 	
+IS1008d.A.dialog-act.s9553330.130	Yeah . 	
+IS1008d.D.dialog-act.s9553330.104	to see get get their 	
+IS1008d.A.dialog-act.s9553330.131	So you can take a minimum two weeks to a maximum four weeks . 	
+IS1008d.C.dialog-act.s9553330.117	Mm-hmm . 	
+IS1008d.C.dialog-act.s9553330.118	Think minimum two weeks if we're gonna develop prototypes and then try to take them to different places and see how people use 	
+IS1008d.A.dialog-act.s9553330.132	Yeah . 	
+IS1008d.C.dialog-act.s9553330.119	it's not a trivial task . 	
+IS1008d.A.dialog-act.s9553330.133	Yeah , because we we are not going to do it in uh our factory , okay , so we can give it a product evalua 	
+IS1008d.C.dialog-act.s9553330.120	No no . 	
+IS1008d.C.dialog-act.s9553330.121	We definitely shouldn't do it in our factory . 	
+IS1008d.A.dialog-act.s9553330.134	Yes , yes . 	
+IS1008d.B.dialog-act.s9553330.75		
+IS1008d.A.dialog-act.s9553330.135	So we'll do it in the other place , 	
+IS1008d.A.dialog-act.s9553330.136	and I don't think it's take more than four weeks time . 	
+IS1008d.A.dialog-act.s9553330.137	Or uh 	
+IS1008d.A.dialog-act.s9553330.138	Okay , so then the real production we will start once we product evaluation , okay , 	
+IS1008d.A.dialog-act.s9553330.139	then uh it's approve from uh the technical team and uh your team , okay , uh from the management , then we can launch in the market . 	
+IS1008d.A.dialog-act.s9553330.140	Hm ? 	
+IS1008d.B.dialog-act.s9553330.76	Any outstanding ? 	
+IS1008d.A.dialog-act.s9553330.141	S Any any other uh questions or uh comments to be discuss ? 	
+IS1008d.B.dialog-act.s9553330.77	No , I'm 	
+IS1008d.C.dialog-act.s9553330.122	What ab 	
+IS1008d.D.dialog-act.s9553330.105	I think we pretty much covered everything . 	
+IS1008d.B.dialog-act.s9553330.78	go ahead . 	
+IS1008d.A.dialog-act.s9553330.142	Okay , so then uh 	
+IS1008d.B.dialog-act.s9553330.79	Did you have something ? 	
+IS1008d.C.dialog-act.s9553330.123	Well I was just wondering about if we're gonna do a product evaluation then what about time for redesign if the users come back and tell us no this is bad , this is bad , we want this done differently . 	
+IS1008d.A.dialog-act.s9553330.143	Okay uh , let's take like this . 	
+IS1008d.A.dialog-act.s9553330.144	Let's proceed with this model , okay , for the for the marketing direction , okay . 	
+IS1008d.B.dialog-act.s9553330.80		
+IS1008d.A.dialog-act.s9553330.145	So no more changes will be made , okay , in this the basic design . 	
+IS1008d.A.dialog-act.s9553330.146	Okay ? 	
+IS1008d.A.dialog-act.s9553330.147	So we will introduce m this model and uh let's introduce in the market 	
+IS1008d.A.dialog-act.s9553330.148	and let's take the feedback from the customers , then we can uh go for the 	
+IS1008d.B.dialog-act.s9553330.81	Second generation . 	
+IS1008d.A.dialog-act.s9553330.149	second generation . 	
+IS1008d.C.dialog-act.s9553330.124		
+IS1008d.A.dialog-act.s9553330.150	Okay . There's no end , there's not limit . 	
+IS1008d.B.dialog-act.s9553330.82		
+IS1008d.C.dialog-act.s9553330.125	The problem is there might not be a second generation if the first generation flops for some silly reason that we haven't thought of . 	
+IS1008d.A.dialog-act.s9553330.151	Every every custom 	
+IS1008d.B.dialog-act.s9553330.83		
+IS1008d.D.dialog-act.s9553330.106	Well , then it may not be . 	
+IS1008d.A.dialog-act.s9553330.152	Okay . 	
+IS1008d.A.dialog-act.s9553330.153	Well , every customer , okay , they have their own ideas , they have their own test , okay , so there's no end , there's no limit . 	
+IS1008d.D.dialog-act.s9553330.107	Like people don't like wood . 	
+IS1008d.C.dialog-act.s9553330.126	No , but there's a difference between releasing a product that has been minimally tested and fine-tuned to suit a general range of requirements versus releasing a product that we think will work but we don't really have anything to back it up . 	
+IS1008d.D.dialog-act.s9553330.108	very specific . 	
+IS1008d.A.dialog-act.s9553330.154	Yeah , so that's the reason you are here for uh the design , okay , 	
+IS1008d.A.dialog-act.s9553330.155	I hope you made a good design . 	
+IS1008d.C.dialog-act.s9553330.127	Yes , but I'm not everybody . 	
+IS1008d.B.dialog-act.s9553330.84		
+IS1008d.C.dialog-act.s9553330.128	I mean the whole point of user evaluation is to see what real people need . 	
+IS1008d.C.dialog-act.s9553330.129	We have our own motivations in mind , we have our own ideas in mind , 	
+IS1008d.C.dialog-act.s9553330.130	but that doesn't mean that that's what's gonna sell . 	
+IS1008d.A.dialog-act.s9553330.156	Yeah , but uh see , we ought to take a few considerations , okay , 	
+IS1008d.A.dialog-act.s9553330.157	one is the price consideration , one is future consideration , okay , like uh you can eat uh you can all eat more chi I can eat more chilli , okay , 	
+IS1008d.B.dialog-act.s9553330.85		
+IS1008d.A.dialog-act.s9553330.158	so i it's a depends on the individual taste , you know , 	
+IS1008d.A.dialog-act.s9553330.159	so we have we have to balance somewhere . 	
+IS1008d.C.dialog-act.s9553330.131	Yeah , of course . 	
+IS1008d.C.dialog-act.s9553330.132	I'm just trying to point out that I think that your evaluation and redesign turnaround time is too short 	
+IS1008d.C.dialog-act.s9553330.133	well you have no redesign not you personally , but in the project we have no redesign time and 	
+IS1008d.A.dialog-act.s9553330.160	Yes . 	
+IS1008d.B.dialog-act.s9553330.86	Our project doesn't um 	
+IS1008d.A.dialog-act.s9553330.161	Yeah . 	
+IS1008d.B.dialog-act.s9553330.87	Ed , d do you know what season of the year or time of the year is the most important for T_V_ remote control sales ? 	
+IS1008d.D.dialog-act.s9553330.109	Hmm . 	
+IS1008d.B.dialog-act.s9553330.88	Would it be the Christmas season by any chance ? 	
+IS1008d.A.dialog-act.s9553330.162	The sports time . 	
+IS1008d.B.dialog-act.s9553330.89	Sports season . 	
+IS1008d.D.dialog-act.s9553330.110	Right before the Eur the World Cup . World soccer . World Cup soccer , 	
+IS1008d.B.dialog-act.s9553330.90	Which sport season ? 	
+IS1008d.A.dialog-act.s9553330.163	Football . 	
+IS1008d.B.dialog-act.s9553330.91	So so 	
+IS1008d.C.dialog-act.s9553330.134	Yeah . 	
+IS1008d.D.dialog-act.s9553330.111	they need those things that they have their hands g occupied and they need to be able to talk to the con remote control . 	
+IS1008d.A.dialog-act.s9553330.164	Football . 	
+IS1008d.B.dialog-act.s9553330.92	maybe what 	
+IS1008d.C.dialog-act.s9553330.135		
+IS1008d.B.dialog-act.s9553330.93	So I think what we need to do is perhaps to synchronise the final the the launch of a user-tested device with some special event . 	
+IS1008d.D.dialog-act.s9553330.112		
+IS1008d.A.dialog-act.s9553330.165	Yes . 	
+IS1008d.A.dialog-act.s9553330.166	Yes . 	
+IS1008d.C.dialog-act.s9553330.136	Yeah , that's a good idea . 	
+IS1008d.B.dialog-act.s9553330.94	And and then um 	
+IS1008d.B.dialog-act.s9553330.95	so that gives us a little more time perhaps then we anticipated , 	
+IS1008d.B.dialog-act.s9553330.96	because I don't know when the World Cup is , 	
+IS1008d.B.dialog-act.s9553330.97	but I'm sure there's gonna be one . 	
+IS1008d.D.dialog-act.s9553330.113	Or any major sports . 	
+IS1008d.B.dialog-act.s9553330.98	Or another m major sports event . 	
+IS1008d.B.dialog-act.s9553330.99	Probably not the um the football games coming up the end of January . 	
+IS1008d.B.dialog-act.s9553330.100	I think that might be a little too aggressive um , 	
+IS1008d.A.dialog-act.s9553330.168	Yes . 	
+IS1008d.C.dialog-act.s9553330.137	Yeah . 	
+IS1008d.B.dialog-act.s9553330.101	but , so , I'm just ig uh pointing out a uh a strategy to uh do some additional user testing 	
+IS1008d.A.dialog-act.s9553330.167	Research . 	
+IS1008d.C.dialog-act.s9553330.138	Mm-hmm . 	
+IS1008d.B.dialog-act.s9553330.102	pri and then to launch um at a a major sports event 	
+IS1008d.B.dialog-act.s9553330.103	or uh perhaps to uh also 	
+IS1008d.A.dialog-act.s9553330.169	Yep . 	
+IS1008d.C.dialog-act.s9553330.139	That's actually good place to advertise it too . 	
+IS1008d.B.dialog-act.s9553330.104	And to work with motion pictures . 	
+IS1008d.C.dialog-act.s9553330.140	Yeah . 	
+IS1008d.B.dialog-act.s9553330.105	There might be some motion pictures that are coming out um that are coming out on D_V_D_ that uh they need to have a m special remote control to work with it , 	
+IS1008d.B.dialog-act.s9553330.106	so we could maybe work out a campaign with uh with Sony Pictures for example . 	
+IS1008d.A.dialog-act.s9553330.170	Yes . 	
+IS1008d.B.dialog-act.s9553330.107	Maybe some management has got uh relationships there we can leverage . 	
+IS1008d.C.dialog-act.s9553330.141	Mm-hmm . 	
+IS1008d.A.dialog-act.s9553330.171	Yes , the that of course uh I will convince the management to do that , okay . 	
+IS1008d.B.dialog-act.s9553330.108	That's great . 	
+IS1008d.C.dialog-act.s9553330.142	It's just something to to keep in mind , 	
+IS1008d.C.dialog-act.s9553330.143	'cause it's really really important . 	
+IS1008d.A.dialog-act.s9553330.172	Sure , sure , yes . 	
+IS1008d.C.dialog-act.s9553330.144	A lot of products have gone out there without being properly user-tested and completely flopped , 	
+IS1008d.C.dialog-act.s9553330.145	when in fact it gets re-released a few years down the line with proper testing and it takes off like crazy . 	
+IS1008d.B.dialog-act.s9553330.110	Disposable diapers is an example of that in fact . 	
+IS1008d.C.dialog-act.s9553330.146	Really ? 	
+IS1008d.B.dialog-act.s9553330.111	Yes , 	
+IS1008d.C.dialog-act.s9553330.147	That I didn't know . 	
+IS1008d.B.dialog-act.s9553330.112	it is one of the first consumer products that was launched about thirty years that was a disposable consumer product , 	
+IS1008d.B.dialog-act.s9553330.113	and uh people 	
+IS1008d.B.dialog-act.s9553330.114	the market hadn't really gotten on to the concept that you could use something and then throw it away , 'cause it wasn't uh 	
+IS1008d.C.dialog-act.s9553330.148	Mm-hmm . 	
+IS1008d.B.dialog-act.s9553330.115	but then when they re-launched them thirty years later , they were virtually the same design , 	
+IS1008d.A.dialog-act.s9553330.173	. 	
+IS1008d.B.dialog-act.s9553330.116	but people had gotten the throw-away , you know , paper cups and napki y all kinds of things that they hadn't um 	
+IS1008d.B.dialog-act.s9553330.117	so , you're right , timing is very important , 	
+IS1008d.C.dialog-act.s9553330.149	Yeah . 	
+IS1008d.A.dialog-act.s9553330.174	Yeah . 	
+IS1008d.B.dialog-act.s9553330.118	but I think we've got a good product . 	
+IS1008d.C.dialog-act.s9553330.150	Yeah . 	
+IS1008d.A.dialog-act.s9553330.175	That's the reason Ed is here . 	
+IS1008d.A.dialog-act.s9553330.176	I think he can promote the the brand value and the product value . 	
+IS1008d.B.dialog-act.s9553330.119	That's right . 	
+IS1008d.B.dialog-act.s9553330.120	It's gonna be very important to the company . 	
+IS1008d.A.dialog-act.s9553330.177	Yes . 	
+IS1008d.A.dialog-act.s9553330.178	We are behind the scene and he is the front screen , so . 	
+IS1008d.C.dialog-act.s9553330.151	Yep . 	
+IS1008d.D.dialog-act.s9553330.114	Yeah , I'm the one who takes the heat . 	
+IS1008d.A.dialog-act.s9553330.179	He's on the big screen . 	
+IS1008d.C.dialog-act.s9553330.152	Exactly . 	
+IS1008d.B.dialog-act.s9553330.121	Good luck , Ed . 	
+IS1008d.D.dialog-act.s9553330.115	If it's a flop , it's the marketer . 	
+IS1008d.B.dialog-act.s9553330.122	You look very relaxed , considering h you know , the uh the weight on your shoulders , yeah . 	
+IS1008d.D.dialog-act.s9553330.116	Yes . Yes . 	
+IS1008d.D.dialog-act.s9553330.117	Stress . 	
+IS1008d.C.dialog-act.s9553330.153		
+IS1008d.A.dialog-act.s9553330.180	Okay , so then uh let's come to the closing 	
+IS1008d.A.dialog-act.s9553330.181	and uh are the costs within the budget 	
+IS1008d.D.dialog-act.s9553330.118	Celebration . 	
+IS1008d.A.dialog-act.s9553330.182	and uh is the product evaluated , okay , so that will uh come soon . 	
+IS1008d.A.dialog-act.s9553330.183	Okay for uh but our time being , so thanks for all your efforts and great work and uh great design 	
+IS1008d.A.dialog-act.s9553330.184	and uh let's leave it to the Ed for later for once production is over 	
+IS1008d.A.dialog-act.s9553330.185	and the meantime let's celebrate . 	
+IS1008d.A.dialog-act.s9553330.186	So let's meet up uh this evening to hang up for some party . 	
+IS1008d.B.dialog-act.s9553330.123		
+IS1008d.D.dialog-act.s9553330.119		
+IS1008d.C.dialog-act.s9553330.155		
+IS1008d.B.dialog-act.s9553330.124	Sounds good . 	
+IS1008d.A.dialog-act.s9553330.187	'S good . 	
+IS1008d.D.dialog-act.s9553330.120	Very good . 	
+IS1008d.C.dialog-act.s9553330.156	Okay . 	
+IS1008d.B.dialog-act.s9553330.125	Thank you . 	
+IS1008d.B.dialog-act.s9553330.126	Nice working with you . 	
+IS1008d.D.dialog-act.s9553330.121	Thank you very much . 	
+IS1008d.A.dialog-act.s9553330.188	Thank you . 	
+IS1008d.C.dialog-act.s9553330.157	Thanks 	
+IS1008d.A.dialog-act.s9553330.189	Thank you again for all . 	
+IS1008d.B.dialog-act.s9553330.127		
+IS1008d.C.dialog-act.s9553330.158		
+IS1008d.A.dialog-act.s9553330.190	And see you in the evening for drinks . 	
+IS1008d.D.dialog-act.s9553330.122	Bye-bye . 	
+IS1008d.D.dialog-act.s9553330.123	Yep , okay , see you later on . 	
+IS1008d.C.dialog-act.s9553330.159	Bye . 	
+

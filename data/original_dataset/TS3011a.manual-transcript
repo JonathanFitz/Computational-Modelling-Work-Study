@@ -1,0 +1,546 @@
+Observation: TS3011a; Result size: 543; atts: 2
+$d@nite:id	$d	
+TS3011a.B.dialog-act.dharshi.1	Good morning , Flores . 	
+TS3011a.A.dialog-act.dharshi.1	G good morning . 	
+TS3011a.B.dialog-act.dharshi.7	Marketing Expert . 	
+TS3011a.A.dialog-act.dharshi.8	Oh yeah . 	
+TS3011a.B.dialog-act.dharshi.8	Right . 	
+TS3011a.A.dialog-act.dharshi.9	Are you ready ? 	
+TS3011a.A.dialog-act.dharshi.10	You should put the laptop uh right into the square . 	
+TS3011a.B.dialog-act.dharshi.5		
+TS3011a.B.dialog-act.dharshi.9	For the cameras 	
+TS3011a.A.dialog-act.dharshi.11	For i for the cameras , yes . 	
+TS3011a.B.dialog-act.dharshi.10	Alright . 	
+TS3011a.A.dialog-act.dharshi.3	Good morning , Sebastian . 	
+TS3011a.C.dialog-act.dharshi.1	Good morning , Mister P_M_ . 	
+TS3011a.B.dialog-act.dharshi.2		
+TS3011a.A.dialog-act.dharshi.12	I'm fine . 	
+TS3011a.C.dialog-act.dharshi.2	How are you today ? 	
+TS3011a.C.dialog-act.dharshi.3	How was your business trip to Boston ? 	
+TS3011a.B.dialog-act.dharshi.4		
+TS3011a.A.dialog-act.dharshi.4	Um well , actually I didn't go , didn't feel like it . 	
+TS3011a.B.dialog-act.dharshi.11	Geez . 	
+TS3011a.A.dialog-act.dharshi.5	So 	
+TS3011a.A.dialog-act.dharshi.7	Do you want to open it as read-only . 	
+TS3011a.B.dialog-act.dharshi.3		
+TS3011a.A.dialog-act.dharshi.6	Um I guess I should close it here . 	
+TS3011a.B.dialog-act.dharshi.12	You have the same message of uh Windows cannot um 	
+TS3011a.D.dialog-act.dharshi.1		
+TS3011a.B.dialog-act.dharshi.13	sen oh stand-by . 	
+TS3011a.D.dialog-act.dharshi.3	Okay . 	
+TS3011a.B.dialog-act.dharshi.14	Close the the window . 	
+TS3011a.A.dialog-act.dharshi.13	Okay , the waiting is for our Marketing Expert , Ruud . 	
+TS3011a.B.dialog-act.dharshi.16	So 	
+TS3011a.B.dialog-act.dharshi.15	That's right . Ruud . 	
+TS3011a.A.dialog-act.dharshi.14	Um project kick-off . 	
+TS3011a.C.dialog-act.dharshi.4	Is there a schedule for this meeting ? 	
+TS3011a.A.dialog-act.dharshi.15	Yes , there is actually . 	
+TS3011a.A.dialog-act.dharshi.16	Um I will li list the agenda for today . 	
+TS3011a.A.dialog-act.dharshi.17	For this meeting . 	
+TS3011a.A.dialog-act.dharshi.2	Good morning , Ruud . 	
+TS3011a.D.dialog-act.dharshi.2	Good morning . 	
+TS3011a.B.dialog-act.dharshi.6		
+TS3011a.A.dialog-act.dharshi.18	Uh it's important um 	
+TS3011a.C.dialog-act.dharshi.5	I shall close the door . 	
+TS3011a.A.dialog-act.dharshi.19	yeah , great . 	
+TS3011a.A.dialog-act.dharshi.20	It's important that the laptops are um exactly on the square , um for the cameras . 	
+TS3011a.A.dialog-act.dharshi.21	Okay . 	
+TS3011a.A.dialog-act.dharshi.22	Okay . 	
+TS3011a.B.dialog-act.dharshi.17		
+TS3011a.A.dialog-act.dharshi.23	Um we're here to develop uh a new product . 	
+TS3011a.A.dialog-act.dharshi.24	Um I'm sure you've had a mail from our account manager about it . 	
+TS3011a.B.dialog-act.dharshi.19	Mm-hmm . 	
+TS3011a.A.dialog-act.dharshi.25	Um and um 	
+TS3011a.A.dialog-act.dharshi.26	this is the first meeting to to generate some uh uh some ideas about it . 	
+TS3011a.A.dialog-act.dharshi.27	Um you are here in a specific role . 	
+TS3011a.A.dialog-act.dharshi.28	Uh Ruud is here as the Marketing Expert , 	
+TS3011a.A.dialog-act.dharshi.29	Roo is here as the User Interface Designer 	
+TS3011a.A.dialog-act.dharshi.30	and Sebastian is here uh in the role of Industrial Designer . 	
+TS3011a.A.dialog-act.dharshi.31	Is that correct ? 	
+TS3011a.C.dialog-act.dharshi.6	That's correct . 	
+TS3011a.B.dialog-act.dharshi.20	Mm-hmm . 	
+TS3011a.A.dialog-act.dharshi.32	Okay . 	
+TS3011a.A.dialog-act.dharshi.33	Um 	
+TS3011a.A.dialog-act.dharshi.34	we're going to do um uh uh a little tool training uh for the tools we are going to use uh during uh the meetings we are going to have here . 	
+TS3011a.A.dialog-act.dharshi.35	Um then I will tell you a little bit about my idea of the project plan , 	
+TS3011a.A.dialog-act.dharshi.36	uh and we will have a discussion . 	
+TS3011a.A.dialog-act.dharshi.37	Uh this meeting should take no more than twenty five minutes , 	
+TS3011a.A.dialog-act.dharshi.38	so we should keep that in mind . 	
+TS3011a.B.dialog-act.dharshi.21	Alright . 	
+TS3011a.C.dialog-act.dharshi.7	Okay . 	
+TS3011a.C.dialog-act.dharshi.8	Um is there any room for a little presentation ? 	
+TS3011a.C.dialog-act.dharshi.9	Uh maybe during the discussion uh section ? 	
+TS3011a.A.dialog-act.dharshi.39	There is ? Yeah , there is . 	
+TS3011a.C.dialog-act.dharshi.10	Okay . 	
+TS3011a.A.dialog-act.dharshi.40	No problem . 	
+TS3011a.B.dialog-act.dharshi.18		
+TS3011a.A.dialog-act.dharshi.41	Um okay , 	
+TS3011a.A.dialog-act.dharshi.42	this new product we are are g are going to develop , um 	
+TS3011a.A.dialog-act.dharshi.43	it's a remote control , 	
+TS3011a.A.dialog-act.dharshi.44	a television remote control . 	
+TS3011a.A.dialog-act.dharshi.45	Um and first of all it should be original , it should be trendy and user-friendly . 	
+TS3011a.A.dialog-act.dharshi.46	Those are kind of easy um uh uh goals , 	
+TS3011a.A.dialog-act.dharshi.47	um and I'm sure we can find more goals for the for the product we are going to develop . 	
+TS3011a.A.dialog-act.dharshi.48	Um we will discuss uh later on more ideas about uh how the remote should look and how it sh it should function and all those kind of things . 	
+TS3011a.B.dialog-act.dharshi.22	Okay . 	
+TS3011a.A.dialog-act.dharshi.49	The market , we should have a look at the market . 	
+TS3011a.A.dialog-act.dharshi.50	Um we are going to use a a pred a project method uh during uh this development , 	
+TS3011a.A.dialog-act.dharshi.51	um which consists of three different design stages . 	
+TS3011a.A.dialog-act.dharshi.52	Uh the functional design , the conceptual design and the detailed design , 	
+TS3011a.A.dialog-act.dharshi.53	um all of these stages um um mean that we do some individual work , prepare , and then uh meet to discuss our uh uh the 	
+TS3011a.A.dialog-act.dharshi.54	the the progressions , yes . 	
+TS3011a.B.dialog-act.dharshi.23	Progressions . 	
+TS3011a.A.dialog-act.dharshi.55	Um the first stage , the functional design um we are going to search for the user requirements , 	
+TS3011a.A.dialog-act.dharshi.56	and we will um make a specific uh specification of that . 	
+TS3011a.A.dialog-act.dharshi.57	Um the second is the technical functional design , 	
+TS3011a.A.dialog-act.dharshi.58	um what effect should the remote have ? 	
+TS3011a.A.dialog-act.dharshi.59	Well in this case control t the the television I think . 	
+TS3011a.B.dialog-act.dharshi.24	It's for the vision . Yeah . 	
+TS3011a.A.dialog-act.dharshi.60	Um and the last one is the working design . 	
+TS3011a.A.dialog-act.dharshi.61	How exactly does it work in the technical sense . 	
+TS3011a.A.dialog-act.dharshi.62	Um the other design stages , uh we will discuss that later . 	
+TS3011a.A.dialog-act.dharshi.63	So we'll kop it keep it with the functional design . 	
+TS3011a.A.dialog-act.dharshi.64	Okay , um before we think about remote control we will um work with some of the tools we have uh here . 	
+TS3011a.A.dialog-act.dharshi.65	Um as you see now I can give a presentation . 	
+TS3011a.A.dialog-act.dharshi.66	Um it's also possible to use this one as well . 	
+TS3011a.A.dialog-act.dharshi.67	You can uh uh display pr uh two presentations if you want to . 	
+TS3011a.A.dialog-act.dharshi.68	Um 	
+TS3011a.A.dialog-act.dharshi.69	to um presentate , to show us uh a file you'll need to uh place it in your project documents folder , 	
+TS3011a.A.dialog-act.dharshi.70	which is on your desktop , 	
+TS3011a.A.dialog-act.dharshi.71	at least it should be . 	
+TS3011a.A.dialog-act.dharshi.72	Um then we have this electronic white-board system . 	
+TS3011a.A.dialog-act.dharshi.73	Um 	
+TS3011a.A.dialog-act.dharshi.74	yeah , I will show that now . 	
+TS3011a.A.dialog-act.dharshi.75	Um 	
+TS3011a.A.dialog-act.dharshi.76	you can draw on the board using this pen . 	
+TS3011a.A.dialog-act.dharshi.77	There are little um uh 	
+TS3011a.B.dialog-act.dharshi.25	Sensors . 	
+TS3011a.A.dialog-act.dharshi.78	sensors , 	
+TS3011a.A.dialog-act.dharshi.79	so do not grab it here , 	
+TS3011a.A.dialog-act.dharshi.80	but a lit more a little bit more to the uh to the end . 	
+TS3011a.A.dialog-act.dharshi.81	Um 	
+TS3011a.A.dialog-act.dharshi.82	well , it 	
+TS3011a.A.dialog-act.dharshi.83	it's on the um eraser now , 	
+TS3011a.A.dialog-act.dharshi.84	so we click the pen button . 	
+TS3011a.A.dialog-act.dharshi.85	Okay , so not too fast writing . 	
+TS3011a.A.dialog-act.dharshi.86	Um 	
+TS3011a.A.dialog-act.dharshi.87	you can insert a new um slide or or white-board uh uh file um by either using the insert function or by clicking the next button or the blank button . 	
+TS3011a.A.dialog-act.dharshi.88	It's quite the same . 	
+TS3011a.A.dialog-act.dharshi.89	Um all our um whi um uh SMARTboard um notes should be kept in the same file . 	
+TS3011a.A.dialog-act.dharshi.90	So do not m make a new file . 	
+TS3011a.A.dialog-act.dharshi.91	Just use this one uh during the day . 	
+TS3011a.A.dialog-act.dharshi.92	Um you can use the eraser to make something go away . 	
+TS3011a.B.dialog-act.dharshi.26	But we all use the same white-board file 	
+TS3011a.A.dialog-act.dharshi.93	Yes . 	
+TS3011a.B.dialog-act.dharshi.27	So we can work together on it while we're 	
+TS3011a.B.dialog-act.dharshi.28	or should we only use it in the in the meetings ? 	
+TS3011a.A.dialog-act.dharshi.94	Yeah . 	
+TS3011a.A.dialog-act.dharshi.95	Yeah , in the meetings , only in the meetings . 	
+TS3011a.B.dialog-act.dharshi.29	Yeah , okay . 	
+TS3011a.A.dialog-act.dharshi.96	It's really like like a regu regular whiteboard . 	
+TS3011a.B.dialog-act.dharshi.30	Yeah , alright . Yep . 	
+TS3011a.A.dialog-act.dharshi.97	Um you can choose the format , 	
+TS3011a.A.dialog-act.dharshi.98	um 	
+TS3011a.A.dialog-act.dharshi.99	sorry . 	
+TS3011a.A.dialog-act.dharshi.100	Uh 	
+TS3011a.A.dialog-act.dharshi.101	Let me see . 	
+TS3011a.A.dialog-act.dharshi.102	Um 	
+TS3011a.A.dialog-act.dharshi.103	Well 	
+TS3011a.A.dialog-act.dharshi.104	I guess it's maybe because I'm not s uh pen selected . 	
+TS3011a.A.dialog-act.dharshi.106	Yep . 	
+TS3011a.A.dialog-act.dharshi.107	Current colour , you can choose another colour . 	
+TS3011a.A.dialog-act.dharshi.108	And um for example black , 	
+TS3011a.A.dialog-act.dharshi.109	and you c I can choose the line width . 	
+TS3011a.A.dialog-act.dharshi.110	Um so now I d have a different line width and uh colour . 	
+TS3011a.A.dialog-act.dharshi.111	Okay . 	
+TS3011a.A.dialog-act.dharshi.112	Quite easy , 	
+TS3011a.A.dialog-act.dharshi.113	if you uh do have any questions , just c ask me . 	
+TS3011a.A.dialog-act.dharshi.114	Um to um oh well , I'm 	
+TS3011a.A.dialog-act.dharshi.115	I wrote down the documents uh should be in the project documents folder 	
+TS3011a.A.dialog-act.dharshi.116	if you want to uh discuss it with us . 	
+TS3011a.A.dialog-act.dharshi.117	Um as a little training um I will ask Ruud first to draw uh uh your own animal on a new slide uh with uh a different colour and a different line width than the one uh now selected . 	
+TS3011a.D.dialog-act.dharshi.6	Okay . 	
+TS3011a.A.dialog-act.dharshi.105		
+TS3011a.D.dialog-act.dharshi.7	Um green . 	
+TS3011a.B.dialog-act.dharshi.31		
+TS3011a.D.dialog-act.dharshi.8	An animal . Okay . Um 	
+TS3011a.C.dialog-act.dharshi.11		
+TS3011a.D.dialog-act.dharshi.9	Uh a wee rabbit . 	
+TS3011a.B.dialog-act.dharshi.32	It's a bunny . 	
+TS3011a.C.dialog-act.dharshi.12		
+TS3011a.A.dialog-act.dharshi.118	A rabbit . 	
+TS3011a.D.dialog-act.dharshi.4		
+TS3011a.C.dialog-act.dharshi.13	Alright . 	
+TS3011a.A.dialog-act.dharshi.119	Okay , well great . 	
+TS3011a.A.dialog-act.dharshi.120	Um Roo , could you do the same please ? 	
+TS3011a.D.dialog-act.dharshi.5		
+TS3011a.B.dialog-act.dharshi.33	But of course , Flores . 	
+TS3011a.A.dialog-act.dharshi.121	But a different animal with a different colour and a different line width . 	
+TS3011a.B.dialog-act.dharshi.34	Blank . 	
+TS3011a.A.dialog-act.dharshi.123	Sebastian is thinking about the animal . 	
+TS3011a.C.dialog-act.dharshi.14	I'm just uh guessing what should be my favourite animal . 	
+TS3011a.A.dialog-act.dharshi.124	Okay . 	
+TS3011a.B.dialog-act.dharshi.37	Yeah , I'm think about it too . 	
+TS3011a.B.dialog-act.dharshi.38	Format . 	
+TS3011a.B.dialog-act.dharshi.39	Well , it looked more than a bunny than a cat , but it works , 	
+TS3011a.C.dialog-act.dharshi.15	Well , I'll give it a try . 	
+TS3011a.D.dialog-act.dharshi.10	Yeah . 	
+TS3011a.B.dialog-act.dharshi.40	right ? 	
+TS3011a.A.dialog-act.dharshi.125	It it should be a cat . 	
+TS3011a.A.dialog-act.dharshi.126	Okay ? 	
+TS3011a.B.dialog-act.dharshi.35		
+TS3011a.C.dialog-act.dharshi.16	Mm . 	
+TS3011a.A.dialog-act.dharshi.122		
+TS3011a.A.dialog-act.dharshi.127	I'm guessing a horse . 	
+TS3011a.B.dialog-act.dharshi.36		
+TS3011a.C.dialog-act.dharshi.17	Very good . 	
+TS3011a.B.dialog-act.dharshi.41	With a very small legs . 	
+TS3011a.C.dialog-act.dharshi.18		
+TS3011a.A.dialog-act.dharshi.128		
+TS3011a.C.dialog-act.dharshi.19	I was very good in drawing . 	
+TS3011a.B.dialog-act.dharshi.42	You should feed that uh that animal . 	
+TS3011a.C.dialog-act.dharshi.20		
+TS3011a.A.dialog-act.dharshi.129		
+TS3011a.C.dialog-act.dharshi.21	Well , I guess you uh get the idea . 	
+TS3011a.A.dialog-act.dharshi.130	Yes , okay . 	
+TS3011a.C.dialog-act.dharshi.22	Beautiful . 	
+TS3011a.A.dialog-act.dharshi.131	Beautiful . 	
+TS3011a.B.dialog-act.dharshi.43		
+TS3011a.A.dialog-act.dharshi.132	Okay , so um you can use this at any time during the presentation if you want to . 	
+TS3011a.A.dialog-act.dharshi.133	Um any questions well , just just let me know . 	
+TS3011a.A.dialog-act.dharshi.136	Um okay , 	
+TS3011a.A.dialog-act.dharshi.134	back to our project . 	
+TS3011a.A.dialog-act.dharshi.135	Um 	
+TS3011a.A.dialog-act.dharshi.137	the remote control we are going to develop um will have a selling price of about twenty five Euros . 	
+TS3011a.A.dialog-act.dharshi.138	Uh the profit we are looking for for this product is fifty million Euros , 	
+TS3011a.A.dialog-act.dharshi.139	which is quite a number . 	
+TS3011a.C.dialog-act.dharshi.23		
+TS3011a.B.dialog-act.dharshi.44		
+TS3011a.D.dialog-act.dharshi.11		
+TS3011a.A.dialog-act.dharshi.140	Um 	
+TS3011a.A.dialog-act.dharshi.141	we uh we will focus this internationally , 	
+TS3011a.A.dialog-act.dharshi.142	so the product will be sold um , if there is market uh interest , uh in in more than one country . 	
+TS3011a.A.dialog-act.dharshi.143	And um the production costs should not be more than uh twelve Euro fifty , 	
+TS3011a.A.dialog-act.dharshi.144	so we should keep that in mind by uh w w during the development , 	
+TS3011a.A.dialog-act.dharshi.145	um 	
+TS3011a.A.dialog-act.dharshi.146	because uh , well , those are important numbers . 	
+TS3011a.A.dialog-act.dharshi.147	Um then the discussion , 	
+TS3011a.A.dialog-act.dharshi.148	maybe the time for Sebastian to show his presentation . 	
+TS3011a.C.dialog-act.dharshi.24	Yes , um I have some technical uh issues which I would like to present to you uh before we start the discussion , 	
+TS3011a.C.dialog-act.dharshi.25	because uh there might be some uh 	
+TS3011a.A.dialog-act.dharshi.149	Limitations . 	
+TS3011a.C.dialog-act.dharshi.27	influations influences . 	
+TS3011a.A.dialog-act.dharshi.150	Okay . 	
+TS3011a.B.dialog-act.dharshi.45	Okay . 	
+TS3011a.C.dialog-act.dharshi.26	Okay ? 	
+TS3011a.A.dialog-act.dharshi.151	Okay , great . 	
+TS3011a.C.dialog-act.dharshi.28	Okay . 	
+TS3011a.C.dialog-act.dharshi.29	Um first about my role , role of the Industrial Designer . 	
+TS3011a.C.dialog-act.dharshi.30	I would like to think about uh the implementation of uh of things , 	
+TS3011a.C.dialog-act.dharshi.31	and the technical possibilities and impossibilities . 	
+TS3011a.C.dialog-act.dharshi.32	So if someone of you comes up with uh ideas , uh I'll try to translate them in technical functions , 	
+TS3011a.C.dialog-act.dharshi.33	but uh there might be some impossibilities . 	
+TS3011a.C.dialog-act.dharshi.34	So that's one . 	
+TS3011a.C.dialog-act.dharshi.35	Uh I also will propose some uh um uh some implementations for that , 	
+TS3011a.C.dialog-act.dharshi.36	but well , these are quite the same . 	
+TS3011a.C.dialog-act.dharshi.37	Sorry about that . 	
+TS3011a.C.dialog-act.dharshi.38	Um and I also will remind people of some new technical possibilities which are available 	
+TS3011a.C.dialog-act.dharshi.39	and which might be interesting to implement in our product . 	
+TS3011a.B.dialog-act.dharshi.46	Okay . 	
+TS3011a.C.dialog-act.dharshi.40	I have some uh initial ideas about some things 	
+TS3011a.C.dialog-act.dharshi.41	um which are maybe nice to take with you in the upcoming uh discussion . 	
+TS3011a.C.dialog-act.dharshi.42	One thing about uh interopera operability . 	
+TS3011a.C.dialog-act.dharshi.43	Um I think a modern uh remote control should uh control a device diverse subset of equipment . 	
+TS3011a.C.dialog-act.dharshi.44	Uh for instance , uh D_V_D_ players , cell phones , video and audio equipment . 	
+TS3011a.C.dialog-act.dharshi.45	So one re uh one remote control for all your equipment . 	
+TS3011a.B.dialog-act.dharshi.47	And for a cell phone ? 	
+TS3011a.C.dialog-act.dharshi.46	Well , there should be some interoperabi interoperability between them . 	
+TS3011a.B.dialog-act.dharshi.48	Yeah , okay . 	
+TS3011a.B.dialog-act.dharshi.49	Yeah . 	
+TS3011a.C.dialog-act.dharshi.47	I think it could come in handy . 	
+TS3011a.C.dialog-act.dharshi.48	We should discuss that . 	
+TS3011a.C.dialog-act.dharshi.49	Um and we should think about the way how these things uh should communicate with each other . 	
+TS3011a.C.dialog-act.dharshi.50	We're not uh living in the uh nineteen eighties anymore , so infrared is not uh 	
+TS3011a.A.dialog-act.dharshi.152		
+TS3011a.C.dialog-act.dharshi.51	is not really uh hot uh technical stuff anymore . 	
+TS3011a.C.dialog-act.dharshi.52	But you should uh think about the things like uh Bluetooth . 	
+TS3011a.B.dialog-act.dharshi.50	But 	
+TS3011a.B.dialog-act.dharshi.51	Yeah , but the infrared , it's uh , well , a little bit old-fashioned , if you would call it like that . 	
+TS3011a.C.dialog-act.dharshi.54	Mm-hmm . 	
+TS3011a.C.dialog-act.dharshi.55	But it's cost-effective . 	
+TS3011a.B.dialog-act.dharshi.52	But all the T_V_s are uh equipped with infrared , so 	
+TS3011a.C.dialog-act.dharshi.53	Yes . 	
+TS3011a.C.dialog-act.dharshi.56	Mm-hmm . Well , not all , not all . 	
+TS3011a.B.dialog-act.dharshi.53	y you you can 	
+TS3011a.C.dialog-act.dharshi.57	So that's the point . 	
+TS3011a.B.dialog-act.dharshi.54	Most of them . 	
+TS3011a.C.dialog-act.dharshi.58	So 	
+TS3011a.B.dialog-act.dharshi.55	Or you shou sh use a 	
+TS3011a.D.dialog-act.dharshi.12		
+TS3011a.B.dialog-act.dharshi.56	you should equip infrared and Bluetooth together in one remote . 	
+TS3011a.C.dialog-act.dharshi.59	Maybe , 	
+TS3011a.C.dialog-act.dharshi.60	but that's uh something we should discuss 	
+TS3011a.B.dialog-act.dharshi.57	Yeah . 	
+TS3011a.C.dialog-act.dharshi.61	and uh about every everybody should think about it . 	
+TS3011a.C.dialog-act.dharshi.62	So that's just my role , 	
+TS3011a.C.dialog-act.dharshi.63	I'll just uh give you uh everybody some technical input , 	
+TS3011a.C.dialog-act.dharshi.64	and I think now the time is to have a little discussion about what uh the product should be and how it should look , 	
+TS3011a.A.dialog-act.dharshi.153	Yeah . 	
+TS3011a.C.dialog-act.dharshi.65	but take these things into account when you start the discussion . 	
+TS3011a.A.dialog-act.dharshi.154	Okay , 	
+TS3011a.A.dialog-act.dharshi.155	so the the main por uh the main points you are uh telling us are focus on the inter uh operability , 	
+TS3011a.C.dialog-act.dharshi.66	Yes , 	
+TS3011a.C.dialog-act.dharshi.67	so one thing uh one remote control should uh control one or more uh pieces of equipment , 	
+TS3011a.A.dialog-act.dharshi.156	and 	
+TS3011a.A.dialog-act.dharshi.157	Okay , 	
+TS3011a.A.dialog-act.dharshi.158	and and uh 	
+TS3011a.C.dialog-act.dharshi.68	and the way of communicating with these equipments . 	
+TS3011a.A.dialog-act.dharshi.159	Okay . Okay , good . 	
+TS3011a.C.dialog-act.dharshi.69	Okay . 	
+TS3011a.A.dialog-act.dharshi.160	Um 	
+TS3011a.A.dialog-act.dharshi.161	that was your presentation ? 	
+TS3011a.C.dialog-act.dharshi.70	That's it . 	
+TS3011a.A.dialog-act.dharshi.162	Okay , okay . 	
+TS3011a.A.dialog-act.dharshi.166	Um okay . Great . Um 	
+TS3011a.A.dialog-act.dharshi.167	I'll go back to my own presentation . 	
+TS3011a.A.dialog-act.dharshi.168	Um 	
+TS3011a.A.dialog-act.dharshi.169	Mm . Okay . 	
+TS3011a.A.dialog-act.dharshi.170	Um I I do think it's time now to to discuss uh mm some things . 	
+TS3011a.C.dialog-act.dharshi.71		
+TS3011a.A.dialog-act.dharshi.171	Um Sebastian told us a few things about the technical implemen uh implications . 	
+TS3011a.A.dialog-act.dharshi.172	Um there are other things like um how to make it trendy , 	
+TS3011a.A.dialog-act.dharshi.173	which is I think uh um most uh Ru uh Ruud's uh role . 	
+TS3011a.A.dialog-act.dharshi.174	Um the way how it should be controlled by the user , 	
+TS3011a.A.dialog-act.dharshi.175	which is uh Roo uh r uh during this part . 	
+TS3011a.B.dialog-act.dharshi.58	Mm-hmm . 	
+TS3011a.A.dialog-act.dharshi.176	Um so let's start with you . 	
+TS3011a.A.dialog-act.dharshi.177	H how do you think the remote should um function for the user ? 	
+TS3011a.B.dialog-act.dharshi.59	Well , I had a few uh things in mind . 	
+TS3011a.B.dialog-act.dharshi.60	Um well , the interoperability , just like uh Sebastian said , 	
+TS3011a.B.dialog-act.dharshi.61	um the remote should work on different T_V_s or even different 	
+TS3011a.B.dialog-act.dharshi.62	uh um 	
+TS3011a.B.dialog-act.dharshi.63	Yeah uh , what is it , 	
+TS3011a.B.dialog-act.dharshi.64	devices ? 	
+TS3011a.A.dialog-act.dharshi.178	Yep . 	
+TS3011a.B.dialog-act.dharshi.65	Um so i i 	
+TS3011a.B.dialog-act.dharshi.66	I think it's a universal remote control for customers to buy just new in uh a store . 	
+TS3011a.C.dialog-act.dharshi.72	Yes , I think it should be something like that . 	
+TS3011a.B.dialog-act.dharshi.67	It's not for uh for uh for uh Philips or whatever to buy our remote for their own product , 	
+TS3011a.B.dialog-act.dharshi.68	right ? 	
+TS3011a.A.dialog-act.dharshi.179	Okay , so we're we're going business to consumer , 	
+TS3011a.A.dialog-act.dharshi.181	not we're we're it's not a 	
+TS3011a.B.dialog-act.dharshi.69	Yeah , I do I don't know that . 	
+TS3011a.B.dialog-act.dharshi.70	It's no I have uh 	
+TS3011a.C.dialog-act.dharshi.73	We're not developing this product for a specific vendor , are we ? 	
+TS3011a.B.dialog-act.dharshi.71	don't have the information for it . 	
+TS3011a.A.dialog-act.dharshi.182	No . No . 	
+TS3011a.C.dialog-act.dharshi.74	No , 	
+TS3011a.C.dialog-act.dharshi.75	we're just developing this product , and we want to sell it to a very broad uh public , 	
+TS3011a.B.dialog-act.dharshi.72	No , okay . 	
+TS3011a.C.dialog-act.dharshi.76	so it should fit to every device . 	
+TS3011a.B.dialog-act.dharshi.73	Yeah . 	
+TS3011a.A.dialog-act.dharshi.183	Yeah . 	
+TS3011a.A.dialog-act.dharshi.184	Uh Ruud , y do you agree ? 	
+TS3011a.D.dialog-act.dharshi.13	Yeah , I think I think they're right , yeah . 	
+TS3011a.A.dialog-act.dharshi.185	Okay . Okay . 	
+TS3011a.B.dialog-act.dharshi.74	Um 	
+TS3011a.B.dialog-act.dharshi.75	Well , the techni fu technical function uh what you said is just by pressing the button you should change the state of the T_V_ . 	
+TS3011a.B.dialog-act.dharshi.76	That's just the basic f technical function . 	
+TS3011a.A.dialog-act.dharshi.186	Yeah . 	
+TS3011a.B.dialog-act.dharshi.77	So that was my really my part for uh this session . 	
+TS3011a.B.dialog-act.dharshi.78	Um 	
+TS3011a.A.dialog-act.dharshi.187	So is that ease of use or uh is that more like um 	
+TS3011a.C.dialog-act.dharshi.78	Yeah . 	
+TS3011a.C.dialog-act.dharshi.77		
+TS3011a.B.dialog-act.dharshi.79	Well , that's just the fu the technical function is pure what should the remote control do , 	
+TS3011a.B.dialog-act.dharshi.80	wh what is his task uh as an uh as an uh device . 	
+TS3011a.C.dialog-act.dharshi.79	Mm-hmm . 	
+TS3011a.B.dialog-act.dharshi.81	It just should change the T_V_'s state . 	
+TS3011a.A.dialog-act.dharshi.188	Okay . 	
+TS3011a.B.dialog-act.dharshi.82	So that's it . 	
+TS3011a.B.dialog-act.dharshi.83	Um but furthermore 	
+TS3011a.C.dialog-act.dharshi.80	And you you see uh the buttons as a as a means of doing this ? 	
+TS3011a.B.dialog-act.dharshi.84	Yeah . Yeah , with buttons . 	
+TS3011a.C.dialog-act.dharshi.81	Or are there any o other controls ? 	
+TS3011a.C.dialog-act.dharshi.82	Are there only any other cont 	
+TS3011a.B.dialog-act.dharshi.85	Yeah , or maybe you want a touch-screen or 	
+TS3011a.C.dialog-act.dharshi.83	Well , 	
+TS3011a.B.dialog-act.dharshi.87	But 	
+TS3011a.C.dialog-act.dharshi.84	I I've seen these remote controls with uh this little stick uh which you can move forward , sidewords . 	
+TS3011a.B.dialog-act.dharshi.86	Yeah . 	
+TS3011a.A.dialog-act.dharshi.189	Uh-huh . 	
+TS3011a.C.dialog-act.dharshi.85	You know these things . 	
+TS3011a.C.dialog-act.dharshi.86	And um it's very easy for a user to to switch 	
+TS3011a.B.dialog-act.dharshi.88	They're very vu vulnerable . 	
+TS3011a.C.dialog-act.dharshi.87	w yes , 	
+TS3011a.B.dialog-act.dharshi.89	Yeah . 	
+TS3011a.C.dialog-act.dharshi.88	to to switch b uh between uh channels 	
+TS3011a.C.dialog-act.dharshi.89	or uh change uh between tracks on a on a C_D_ , 	
+TS3011a.C.dialog-act.dharshi.90	on on a chapters , you know , on a D_V_D_ player . 	
+TS3011a.C.dialog-act.dharshi.91	So maybe that's an idea , 	
+TS3011a.C.dialog-act.dharshi.92	I don't know . 	
+TS3011a.B.dialog-act.dharshi.90	Yeah . 	
+TS3011a.B.dialog-act.dharshi.91	And for other user interface I had um , well , it's more industrial thing . 	
+TS3011a.B.dialog-act.dharshi.92	Uh point at a T_V_ , I think it's it's quite disturbing when you always have to point directly to the T_V_ , 	
+TS3011a.C.dialog-act.dharshi.93	Mm-hmm . 	
+TS3011a.B.dialog-act.dharshi.94	so you must point everywhere , 	
+TS3011a.B.dialog-act.dharshi.95	so maybe infrared is 	
+TS3011a.C.dialog-act.dharshi.94	Okay . 	
+TS3011a.A.dialog-act.dharshi.190	Maybe not even pointed . 	
+TS3011a.B.dialog-act.dharshi.96	Yeah , just don't even point it , 	
+TS3011a.A.dialog-act.dharshi.191	Yeah . 	
+TS3011a.B.dialog-act.dharshi.97	so in that case infrared should uh maybe uh be restriction to that . 	
+TS3011a.C.dialog-act.dharshi.95	Mm-hmm . 	
+TS3011a.A.dialog-act.dharshi.192	Okay 	
+TS3011a.C.dialog-act.dharshi.96	Uh is that uh 	
+TS3011a.A.dialog-act.dharshi.193	Uh 	
+TS3011a.C.dialog-act.dharshi.97	are there restriction for the range , the operating range too ? 	
+TS3011a.C.dialog-act.dharshi.98	So when you're not able to point at the device um the range is very limited . 	
+TS3011a.B.dialog-act.dharshi.98	Yeah , if you g if you go to radio or or yeah . 	
+TS3011a.B.dialog-act.dharshi.99	For T_V_ , you're always in in the neighbourhood of a T_V_ , 	
+TS3011a.B.dialog-act.dharshi.100	so I don't think think the range should be a problem to that , 	
+TS3011a.C.dialog-act.dharshi.99	Mm-hmm . 	
+TS3011a.C.dialog-act.dharshi.100	Mm-hmm . 	
+TS3011a.B.dialog-act.dharshi.101	but if you want to uh get it working with a radio , and you're in outside your garden with just one uh speaker , then maybe the range should be uh 	
+TS3011a.C.dialog-act.dharshi.101	Mm-hmm . 	
+TS3011a.C.dialog-act.dharshi.102	Okay . 	
+TS3011a.A.dialog-act.dharshi.195	Okay , gentlemen , um uh just a reminder , we d we have five minutes left for this meeting 	
+TS3011a.B.dialog-act.dharshi.102	But 	
+TS3011a.C.dialog-act.dharshi.103	Okay . 	
+TS3011a.B.dialog-act.dharshi.103	Yeah . 	
+TS3011a.A.dialog-act.dharshi.196	um 	
+TS3011a.B.dialog-act.dharshi.104	Two more things . 	
+TS3011a.A.dialog-act.dharshi.197	okay . 	
+TS3011a.B.dialog-act.dharshi.105	Um 	
+TS3011a.B.dialog-act.dharshi.106	You should able to feel the buttons without uh it mis um 	
+TS3011a.B.dialog-act.dharshi.107	you have to know what you do without looking at the buttons , 	
+TS3011a.B.dialog-act.dharshi.108	so it should be as user interface um for feeling should be uh good to understand . 	
+TS3011a.B.dialog-act.dharshi.109	You must feel the buttons for volume or whatever , I think . 	
+TS3011a.A.dialog-act.dharshi.198	Okay , s yeah . 	
+TS3011a.A.dialog-act.dharshi.199	Yeah . 	
+TS3011a.B.dialog-act.dharshi.110	And of course you don't always know where all buttons are , 	
+TS3011a.B.dialog-act.dharshi.111	so it should be visible al um in dark too . 	
+TS3011a.B.dialog-act.dharshi.112	So when it's dark 	
+TS3011a.A.dialog-act.dharshi.200	Okay . 	
+TS3011a.B.dialog-act.dharshi.113	Those are two really uh user interface 	
+TS3011a.A.dialog-act.dharshi.201		
+TS3011a.A.dialog-act.dharshi.202	Uh I'll write down glow in the dark . 	
+TS3011a.C.dialog-act.dharshi.104		
+TS3011a.B.dialog-act.dharshi.114	Yeah . That's perfect . 	
+TS3011a.A.dialog-act.dharshi.203	Is tha 	
+TS3011a.C.dialog-act.dharshi.105	Okay . 	
+TS3011a.A.dialog-act.dharshi.204	Okay . 	
+TS3011a.A.dialog-act.dharshi.205	Okay , um uh I just want to hear uh Ruud's um input for this meeting . 	
+TS3011a.C.dialog-act.dharshi.106	Do do you 	
+TS3011a.A.dialog-act.dharshi.206	Um do you have anything already w um ab idea about how the market uh will respond to the such a product ? 	
+TS3011a.A.dialog-act.dharshi.207	Or what we should take um in account when developing such a product ? 	
+TS3011a.D.dialog-act.dharshi.14	Uh I think most most things have already been said , 	
+TS3011a.D.dialog-act.dharshi.15	like uh control multiple devices . 	
+TS3011a.A.dialog-act.dharshi.208	Mm-hmm . 	
+TS3011a.D.dialog-act.dharshi.16	And uh , yeah , infrared might be an issue . 	
+TS3011a.A.dialog-act.dharshi.209	Because ? 	
+TS3011a.D.dialog-act.dharshi.17	Uh well , he said about n abo 	
+TS3011a.D.dialog-act.dharshi.18	what he said about pointing . 	
+TS3011a.A.dialog-act.dharshi.210	Mm-hmm . 	
+TS3011a.D.dialog-act.dharshi.19	But uh lots of devices already use infrared . 	
+TS3011a.D.dialog-act.dharshi.20	So 	
+TS3011a.D.dialog-act.dharshi.21	we'll probably have to implement that . 	
+TS3011a.A.dialog-act.dharshi.211	Okay . 	
+TS3011a.A.dialog-act.dharshi.212	Okay . 	
+TS3011a.A.dialog-act.dharshi.213	Okay , Sebastian , did you have any other ideas ? 	
+TS3011a.C.dialog-act.dharshi.107	Um well yes , I had , uh about three minutes ago , 	
+TS3011a.C.dialog-act.dharshi.108	but I've seem to forget them forgot them . 	
+TS3011a.A.dialog-act.dharshi.214		
+TS3011a.B.dialog-act.dharshi.115		
+TS3011a.C.dialog-act.dharshi.109	Um 	
+TS3011a.C.dialog-act.dharshi.110	oh yes , I remember . 	
+TS3011a.C.dialog-act.dharshi.111	Um you said something about visibility in the dark . 	
+TS3011a.C.dialog-act.dharshi.112	Um 	
+TS3011a.B.dialog-act.dharshi.116	Yeah . 	
+TS3011a.C.dialog-act.dharshi.113	uh would it be nice for a user to have display on this uh remote control , on which you can see functions ? 	
+TS3011a.C.dialog-act.dharshi.114	Which makes it easier to operate it . 	
+TS3011a.B.dialog-act.dharshi.117	Yeah . Well , maybe I um 	
+TS3011a.B.dialog-act.dharshi.118	but it it can be quite simple , 	
+TS3011a.C.dialog-act.dharshi.115	I I don't know . 	
+TS3011a.B.dialog-act.dharshi.119	you can just have white buttons with a black mark on it . 	
+TS3011a.C.dialog-act.dharshi.116	Mm-hmm . 	
+TS3011a.C.dialog-act.dharshi.117	Okay . 	
+TS3011a.B.dialog-act.dharshi.120	The uh the the digits in black . 	
+TS3011a.C.dialog-act.dharshi.118	Mm-hmm . 	
+TS3011a.B.dialog-act.dharshi.121	Uh then it's already visible in dark . 	
+TS3011a.C.dialog-act.dharshi.119	Okay . 	
+TS3011a.B.dialog-act.dharshi.122	So it it don't have to be a lightning or or a fancy 	
+TS3011a.A.dialog-act.dharshi.215		
+TS3011a.B.dialog-act.dharshi.123	well , it can be for design , of course . 	
+TS3011a.C.dialog-act.dharshi.120	Okay . 	
+TS3011a.A.dialog-act.dharshi.216	Okay . 	
+TS3011a.A.dialog-act.dharshi.217	Yeah , yeah , okay , 	
+TS3011a.A.dialog-act.dharshi.218	because because we wa we want to develop a trendy product . 	
+TS3011a.C.dialog-act.dharshi.121	Yes , but there's a cost limitation too . 	
+TS3011a.A.dialog-act.dharshi.219	So 	
+TS3011a.C.dialog-act.dharshi.122	Well , that's more 	
+TS3011a.A.dialog-act.dharshi.220	Yeah , 	
+TS3011a.D.dialog-act.dharshi.22	Yeah . 	
+TS3011a.A.dialog-act.dharshi.221	twelve Euro fifty , yeah . 	
+TS3011a.C.dialog-act.dharshi.123	So that's a big problem , I think . 	
+TS3011a.C.dialog-act.dharshi.124	I think the the financial part of this project uh implicates that it's not going to be a high high-end product . 	
+TS3011a.C.dialog-act.dharshi.125	The cost price is very low . 	
+TS3011a.A.dialog-act.dharshi.222	Okay . 	
+TS3011a.C.dialog-act.dharshi.126	Um 	
+TS3011a.B.dialog-act.dharshi.124	Just remind something . 	
+TS3011a.B.dialog-act.dharshi.125	The digits of uh the the painting on the buttons should not fade . 	
+TS3011a.A.dialog-act.dharshi.223	Okay , okay . 	
+TS3011a.C.dialog-act.dharshi.127	Okay . Very good point . Yeah . 	
+TS3011a.B.dialog-act.dharshi.126	You have a m uh 	
+TS3011a.B.dialog-act.dharshi.128	Always have s the soft buttons , always uh clear the the the paint on it . 	
+TS3011a.B.dialog-act.dharshi.129	The marks . 	
+TS3011a.C.dialog-act.dharshi.128	Okay . 	
+TS3011a.A.dialog-act.dharshi.224	Okay , um 	
+TS3011a.A.dialog-act.dharshi.225	I ha I have one point f um which which comes in mind now . 	
+TS3011a.A.dialog-act.dharshi.226	Um uh d I think the device should either be rechargeable very easily 	
+TS3011a.C.dialog-act.dharshi.129	Mm-hmm . Okay . 	
+TS3011a.A.dialog-act.dharshi.227	um or it should not consume too much um power . 	
+TS3011a.A.dialog-act.dharshi.228	Because it's very annoying if you need to change the batteries every s uh uh every other week . 	
+TS3011a.B.dialog-act.dharshi.130	Yeah . 	
+TS3011a.C.dialog-act.dharshi.130	Okay . 	
+TS3011a.A.dialog-act.dharshi.229	So um 	
+TS3011a.A.dialog-act.dharshi.230	maybe we could um for example uh only light the buttons that are um uh applicable at that moment or 	
+TS3011a.B.dialog-act.dharshi.131	But um 	
+TS3011a.B.dialog-act.dharshi.132	Necessary , yeah . 	
+TS3011a.A.dialog-act.dharshi.231	yeah . 	
+TS3011a.A.dialog-act.dharshi.232	I dunno , 	
+TS3011a.A.dialog-act.dharshi.233	it's uh 	
+TS3011a.A.dialog-act.dharshi.234	that's more Sebastian's uh um 	
+TS3011a.B.dialog-act.dharshi.133	Yeah . 	
+TS3011a.C.dialog-act.dharshi.132	Hmm . 	
+TS3011a.B.dialog-act.dharshi.134	But then Bluetooth uh might be problem . 	
+TS3011a.B.dialog-act.dharshi.135	'Cause I think Bluetooth uh 	
+TS3011a.C.dialog-act.dharshi.131	It's use uh a lot of uh 	
+TS3011a.B.dialog-act.dharshi.136	Yeah , 	
+TS3011a.A.dialog-act.dharshi.235	Well does it ? 	
+TS3011a.C.dialog-act.dharshi.133	well 	
+TS3011a.B.dialog-act.dharshi.137	I know it from the cell phone . 	
+TS3011a.A.dialog-act.dharshi.236	I'm not sure . 	
+TS3011a.C.dialog-act.dharshi.134	Well , cell phones have uh integrated Bluetooth also and , well , it's it seems to work uh quite okay . 	
+TS3011a.A.dialog-act.dharshi.237	Uh 	
+TS3011a.A.dialog-act.dharshi.238	Yeah . 	
+TS3011a.C.dialog-act.dharshi.135	So uh technically it will be possible . 	
+TS3011a.B.dialog-act.dharshi.138	But you can't you can't use Bluetooth all the time , twenty four hours a day . 	
+TS3011a.C.dialog-act.dharshi.136	No , you cannot . 	
+TS3011a.A.dialog-act.dharshi.239	Okay . Gentlemen , I'm afraid we do not have any more time . 	
+TS3011a.B.dialog-act.dharshi.139	Does it 	
+TS3011a.B.dialog-act.dharshi.140	It's over ? 	
+TS3011a.C.dialog-act.dharshi.137	Okay . 	
+TS3011a.D.dialog-act.dharshi.23		
+TS3011a.A.dialog-act.dharshi.240	Um 	
+TS3011a.C.dialog-act.dharshi.138	Okay . 	
+TS3011a.A.dialog-act.dharshi.241	so we will go back to our own uh work . 	
+TS3011a.A.dialog-act.dharshi.242	Um next meeting starts in thirty minutes 	
+TS3011a.A.dialog-act.dharshi.243	and um , well , you know your o your individual actions 	
+TS3011a.A.dialog-act.dharshi.244	or your personal coach will probably email you about th it . 	
+TS3011a.A.dialog-act.dharshi.245	Um so 	
+TS3011a.A.dialog-act.dharshi.246	this was it . 	
+TS3011a.B.dialog-act.dharshi.141	Okay . 	
+TS3011a.A.dialog-act.dharshi.247	See you in thirty minutes . 	
+TS3011a.B.dialog-act.dharshi.142	Great . 	
+

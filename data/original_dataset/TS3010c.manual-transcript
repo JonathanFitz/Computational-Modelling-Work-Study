@@ -1,0 +1,785 @@
+Observation: TS3010c; Result size: 782; atts: 2
+$d@nite:id	$d	
+TS3010c.A.dialog-act.dharshi.1	Okay . 	
+TS3010c.A.dialog-act.dharshi.2	Well , let's start . 	
+TS3010c.A.dialog-act.dharshi.5	What are we doing ? 	
+TS3010c.A.dialog-act.dharshi.3	Oops . 	
+TS3010c.A.dialog-act.dharshi.4		
+TS3010c.B.dialog-act.dharshi.1	Hmm . 	
+TS3010c.C.dialog-act.dharshi.1	Ah , pinball . 	
+TS3010c.A.dialog-act.dharshi.6	Okay . Okay . Not doing . 	
+TS3010c.C.dialog-act.dharshi.2		
+TS3010c.B.dialog-act.dharshi.2		
+TS3010c.C.dialog-act.dharshi.3		
+TS3010c.D.dialog-act.dharshi.2	Mm . Ah . Hey . Ah . 	
+TS3010c.A.dialog-act.dharshi.7	Uh 	
+TS3010c.B.dialog-act.dharshi.4	Oh . 	
+TS3010c.D.dialog-act.dharshi.3	Now I have my screen back too . 	
+TS3010c.A.dialog-act.dharshi.8	Very good . 	
+TS3010c.C.dialog-act.dharshi.4		
+TS3010c.A.dialog-act.dharshi.9	Okay . 	
+TS3010c.C.dialog-act.dharshi.5		
+TS3010c.D.dialog-act.dharshi.4	Yeah . 	
+TS3010c.A.dialog-act.dharshi.10	we have presentations . 	
+TS3010c.A.dialog-act.dharshi.11	So first , it's your turn . 	
+TS3010c.C.dialog-act.dharshi.6		
+TS3010c.B.dialog-act.dharshi.6	Mine . Oh , great . 	
+TS3010c.A.dialog-act.dharshi.12	Yeah . Isn't it amazing . 	
+TS3010c.C.dialog-act.dharshi.8	Huh . 	
+TS3010c.D.dialog-act.dharshi.5	Yeah . 	
+TS3010c.D.dialog-act.dharshi.6	Very interesting . 	
+TS3010c.B.dialog-act.dharshi.7	Uh 	
+TS3010c.D.dialog-act.dharshi.1		
+TS3010c.C.dialog-act.dharshi.7		
+TS3010c.B.dialog-act.dharshi.3		
+TS3010c.A.dialog-act.dharshi.13	Industrial Designer . 	
+TS3010c.A.dialog-act.dharshi.14	Interface concept . 	
+TS3010c.B.dialog-act.dharshi.8	Yes , well uh 	
+TS3010c.B.dialog-act.dharshi.9	let's uh talk about the interface uh concept . 	
+TS3010c.B.dialog-act.dharshi.10	Uh , first I'll uh I'll uh discuss the buttons we just chose , 	
+TS3010c.B.dialog-act.dharshi.11	uh show you some samples , uh 	
+TS3010c.B.dialog-act.dharshi.12	uh discuss some colours and design maybe , already . 	
+TS3010c.B.dialog-act.dharshi.13	And uh my personal preferences . 	
+TS3010c.B.dialog-act.dharshi.14	Well we chose the power button to switch the television on and off . 	
+TS3010c.B.dialog-act.dharshi.15	The bu uh 	
+TS3010c.B.dialog-act.dharshi.16	the mute button to switch the volume on and o on and off . 	
+TS3010c.B.dialog-act.dharshi.17	The channels buttons , one to nine , 	
+TS3010c.B.dialog-act.dharshi.18	and uh off uh uh 	
+TS3010c.B.dialog-act.dharshi.19	zero to nine , 	
+TS3010c.B.dialog-act.dharshi.20	and the uh button to choose uh higher channels than nine . 	
+TS3010c.B.dialog-act.dharshi.21	Uh the volume and channel quadrants , 	
+TS3010c.B.dialog-act.dharshi.22	uh left and right , up and down arrows , to uh do the volume and channel . 	
+TS3010c.B.dialog-act.dharshi.23	And the menu menu button to man manipulate the L_C_D_ uh display . 	
+TS3010c.B.dialog-act.dharshi.24	Um , I found some uh interesting uh uh samples . Examples . 	
+TS3010c.C.dialog-act.dharshi.9		
+TS3010c.B.dialog-act.dharshi.25	Um , well uh what's pretty standard is uh that it's that they're all pretty uh uh high uh 	
+TS3010c.D.dialog-act.dharshi.7	Large . 	
+TS3010c.B.dialog-act.dharshi.26	Yeah . Yeah . 	
+TS3010c.D.dialog-act.dharshi.8	A lot a lot of buttons buttons . 	
+TS3010c.B.dialog-act.dharshi.27	Large and and and pretty thin and uh and long . 	
+TS3010c.B.dialog-act.dharshi.28	Um , power buttons are mostly at the top 	
+TS3010c.B.dialog-act.dharshi.29	uh left or right . 	
+TS3010c.B.dialog-act.dharshi.30	Um , well we see the the the same uh arrows . 	
+TS3010c.B.dialog-act.dharshi.31	Like there . 	
+TS3010c.B.dialog-act.dharshi.32	And uh 	
+TS3010c.B.dialog-act.dharshi.33	Yeah , well arrow b buttons can be blue . 	
+TS3010c.B.dialog-act.dharshi.34	And what's interesting is the the the icons on the buttons . 	
+TS3010c.B.dialog-act.dharshi.35	Some buttons have icons like the play and stop , 	
+TS3010c.B.dialog-act.dharshi.36	but we don't use that . 	
+TS3010c.B.dialog-act.dharshi.37	But uh , these we we have to choose the right icons , or or letters . 	
+TS3010c.B.dialog-act.dharshi.38	Uh this is the V_ for volume , but they're both uh a V_ . 	
+TS3010c.A.dialog-act.dharshi.15		
+TS3010c.B.dialog-act.dharshi.39	So it's it's not really very uh clear what's the function of that . 	
+TS3010c.D.dialog-act.dharshi.9	Yeah . 	
+TS3010c.B.dialog-act.dharshi.40	Um 	
+TS3010c.B.dialog-act.dharshi.41	Yeah . So , that's 	
+TS3010c.A.dialog-act.dharshi.16	Can you go back one page ? 	
+TS3010c.A.dialog-act.dharshi.17	For the uh menu , what do we use for that ? 	
+TS3010c.B.dialog-act.dharshi.42	Uh , well 	
+TS3010c.A.dialog-act.dharshi.18	We don't have buttons for the menu . 	
+TS3010c.A.dialog-act.dharshi.19	Or we may have to use channel of the volume and channel . 	
+TS3010c.B.dialog-act.dharshi.43	Yeah . 	
+TS3010c.B.dialog-act.dharshi.44	I thought that was our uh idea . 	
+TS3010c.A.dialog-act.dharshi.20	Okay . 	
+TS3010c.B.dialog-act.dharshi.45	So , uh how 	
+TS3010c.A.dialog-act.dharshi.21	But uh 	
+TS3010c.A.dialog-act.dharshi.22	You have to put it on the 	
+TS3010c.B.dialog-act.dharshi.46	Like this . 	
+TS3010c.A.dialog-act.dharshi.23	Yeah . 	
+TS3010c.B.dialog-act.dharshi.47	Or or this . 	
+TS3010c.B.dialog-act.dharshi.48	And that the menu button is okay . 	
+TS3010c.A.dialog-act.dharshi.24	Yeah but , has to be clear that you can use the arrows . 	
+TS3010c.B.dialog-act.dharshi.49	Yeah , okay . 	
+TS3010c.D.dialog-act.dharshi.10	Yes . 	
+TS3010c.B.dialog-act.dharshi.50	Uh , so the 	
+TS3010c.B.dialog-act.dharshi.51	The icons on the arrows , as well , you mean . 	
+TS3010c.A.dialog-act.dharshi.28	Mm-hmm . Yes . The second one . 	
+TS3010c.B.dialog-act.dharshi.52	Yeah . 	
+TS3010c.B.dialog-act.dharshi.53	Uh , well that's something to uh think about . 	
+TS3010c.A.dialog-act.dharshi.29	Okay . 	
+TS3010c.C.dialog-act.dharshi.10	Uh , maybe I'll have something in my uh presentation . 	
+TS3010c.C.dialog-act.dharshi.11	And you will see it . 	
+TS3010c.B.dialog-act.dharshi.54	Okay . 	
+TS3010c.D.dialog-act.dharshi.11	Okay . 	
+TS3010c.B.dialog-act.dharshi.55	Um , well I don't I don't know if we have to discuss this already , or in the next uh meeting . 	
+TS3010c.C.dialog-act.dharshi.12		
+TS3010c.B.dialog-act.dharshi.56	But uh , as we have to uh to to design the the case and the whole uh remote control in our uh our our corporate uh company uh uh colours and the logo , I would uh recommend a yellow case . 	
+TS3010c.B.dialog-act.dharshi.57	Uh , round edges . 	
+TS3010c.B.dialog-act.dharshi.58	The logo at the bottom . 	
+TS3010c.B.dialog-act.dharshi.59	And uh , well maybe each each uh set of buttons uh has uh has his own colour . 	
+TS3010c.B.dialog-act.dharshi.60	So , it's good . 	
+TS3010c.B.dialog-act.dharshi.61	Uh , recognisable . 	
+TS3010c.B.dialog-act.dharshi.62	K so , I think . 	
+TS3010c.A.dialog-act.dharshi.30	Not too much colours . 	
+TS3010c.B.dialog-act.dharshi.63	Uh , no . Not too much . 	
+TS3010c.B.dialog-act.dharshi.64	But uh 	
+TS3010c.A.dialog-act.dharshi.31	No , it's not flower power . 	
+TS3010c.B.dialog-act.dharshi.65	No , no , no . 	
+TS3010c.B.dialog-act.dharshi.66	But this has to be has to be trendy 	
+TS3010c.B.dialog-act.dharshi.67	and uh and 	
+TS3010c.A.dialog-act.dharshi.32	S okay . 	
+TS3010c.B.dialog-act.dharshi.68	Uh , yeah so good uh good icons on the buttons , and uh and big buttons is my uh personal uh opinion . 	
+TS3010c.A.dialog-act.dharshi.33	Okay . 	
+TS3010c.B.dialog-act.dharshi.69	That was that . 	
+TS3010c.A.dialog-act.dharshi.34	Thank you . 	
+TS3010c.A.dialog-act.dharshi.35	So , you're next . 	
+TS3010c.C.dialog-act.dharshi.13	I'm next , okay . 	
+TS3010c.C.dialog-act.dharshi.14		
+TS3010c.C.dialog-act.dharshi.15	Yes . No . 	
+TS3010c.C.dialog-act.dharshi.16	Here we go . 	
+TS3010c.D.dialog-act.dharshi.12		
+TS3010c.A.dialog-act.dharshi.36		
+TS3010c.C.dialog-act.dharshi.17	Uh , at first we will uh I will f uh say something about what younger people want , 	
+TS3010c.D.dialog-act.dharshi.13	Okay . 	
+TS3010c.D.dialog-act.dharshi.14	Mm-hmm . 	
+TS3010c.A.dialog-act.dharshi.37		
+TS3010c.C.dialog-act.dharshi.18	our uh group w uh w uh we want to uh sell our remote controls to . 	
+TS3010c.C.dialog-act.dharshi.19	And then , I'll discuss what my opinion is about the costs , about uh what battery is in it , what kind of buttons also . 	
+TS3010c.C.dialog-act.dharshi.21	First uh , the younger people , they want like soft mat uh materials and primary colours . 	
+TS3010c.C.dialog-act.dharshi.22	Like , totally yellow , totally red . 	
+TS3010c.C.dialog-act.dharshi.23	Uh , so it's visible . 	
+TS3010c.C.dialog-act.dharshi.24	Uh , the shapes are curved and round , 	
+TS3010c.C.dialog-act.dharshi.25	like uh you also said . 	
+TS3010c.C.dialog-act.dharshi.26	Maybe it's nice to uh get a remote control not like all the other ones , straight and uh flat and long . 	
+TS3010c.C.dialog-act.dharshi.27	But to give him the shape of your hand , so you it's easier to use or something like that . 	
+TS3010c.C.dialog-act.dharshi.29	But that's just an idea . 	
+TS3010c.C.dialog-act.dharshi.30	And then , I'll have to discuss about the costs uh of all the things for the remote control . 	
+TS3010c.C.dialog-act.dharshi.31	The battery , there are few options . 	
+TS3010c.C.dialog-act.dharshi.32	Uh , I think the best option is to use uh the basic battery . 	
+TS3010c.C.dialog-act.dharshi.33	So , everybody can buy it uh at the at the supermarket . 	
+TS3010c.C.dialog-act.dharshi.34	Or use uh a k uh kinetic battery like uh within a watch . 	
+TS3010c.C.dialog-act.dharshi.35	When you uh shake it a few times , it it's loaded . 	
+TS3010c.C.dialog-act.dharshi.36	Uh , the the form of the remote control , I think it's also nice have it curved . 	
+TS3010c.C.dialog-act.dharshi.37	And maybe like it's hand-shaped . 	
+TS3010c.C.dialog-act.dharshi.38	Uh , so uh you take it here in your hand and here are the buttons . 	
+TS3010c.C.dialog-act.dharshi.39	Uh material , you use plastic . Hard plastic 	
+TS3010c.C.dialog-act.dharshi.40	uh because uh it won't have to burst uh like in the in one time . 	
+TS3010c.C.dialog-act.dharshi.41	And also rubber 	
+TS3010c.C.dialog-act.dharshi.43	because the younger people like that , 	
+TS3010c.C.dialog-act.dharshi.44	what we see in the research . 	
+TS3010c.C.dialog-act.dharshi.45	Uh the push-buttons . 	
+TS3010c.C.dialog-act.dharshi.46	We have one new thing uh discovered . 	
+TS3010c.C.dialog-act.dharshi.47	It's a scroll push uh thing like a mouse . 	
+TS3010c.C.dialog-act.dharshi.48	Maybe it's uh easy to use uh for the channels . 	
+TS3010c.C.dialog-act.dharshi.49	When you want to go m move up , you just scroll up 	
+TS3010c.C.dialog-act.dharshi.50	and click on the button , if you wanna see the next , uh if you wanna see that channel . 	
+TS3010c.C.dialog-act.dharshi.51	And also for the mouse , uh for the volume , it's also uh easy to use . 	
+TS3010c.C.dialog-act.dharshi.52	Just scroll a bit up , scroll a bit down . 	
+TS3010c.C.dialog-act.dharshi.53	And that's also easy just w when you have a thing like this , and you get it here . 	
+TS3010c.C.dialog-act.dharshi.54	You can do it with your thumb . 	
+TS3010c.C.dialog-act.dharshi.55	And with your l left hand you can uh push the buttons 	
+TS3010c.D.dialog-act.dharshi.15	Hmm . 	
+TS3010c.C.dialog-act.dharshi.56	uh if you push uh channel one , you can see channel one . 	
+TS3010c.C.dialog-act.dharshi.57	The electrics um with a scroll push uh button , we must use regular uh chips . 	
+TS3010c.C.dialog-act.dharshi.58	There are also uh simple chips . 	
+TS3010c.C.dialog-act.dharshi.59	They are uh cheaper . 	
+TS3010c.C.dialog-act.dharshi.60	Um , but then we have just a basic uh uh remote control , 	
+TS3010c.C.dialog-act.dharshi.61	and I think there are a lot of those uh things , and people won't buy it any more . 	
+TS3010c.C.dialog-act.dharshi.62	They have seen enough of it . 	
+TS3010c.C.dialog-act.dharshi.63	And you have also advanced um chips . 	
+TS3010c.C.dialog-act.dharshi.64	But that's with the L_C_D_ uh screen . 	
+TS3010c.C.dialog-act.dharshi.65	And the costs will increase a lot more . 	
+TS3010c.C.dialog-act.dharshi.66	And I think our budget is too low to use and an L_C_D_ , 	
+TS3010c.C.dialog-act.dharshi.67	and the chip who is more expensive . 	
+TS3010c.C.dialog-act.dharshi.68	And maybe it's also then uh thoughtful if we u uh use uh as um different kind of uh shapes for the for remote control , 	
+TS3010c.C.dialog-act.dharshi.69	that we then use the primary colours . 	
+TS3010c.C.dialog-act.dharshi.70	Like , you get a yellow uh remote control , red one , blue one , et cetera . 	
+TS3010c.C.dialog-act.dharshi.71	You have any more questions about this ? 	
+TS3010c.C.dialog-act.dharshi.72	I think the main thing is we look at the costs . 	
+TS3010c.D.dialog-act.dharshi.16	Yep . 	
+TS3010c.A.dialog-act.dharshi.38	Hmm . 	
+TS3010c.C.dialog-act.dharshi.73	And not too basic , 	
+TS3010c.C.dialog-act.dharshi.74	not a basic remote control , who everybody already has . 	
+TS3010c.D.dialog-act.dharshi.17	Yeah . 	
+TS3010c.D.dialog-act.dharshi.18	But , thi i uh 	
+TS3010c.D.dialog-act.dharshi.19	This is with an L_C_D_ ? No , 	
+TS3010c.C.dialog-act.dharshi.75	Not with an L_C_D_ . 	
+TS3010c.D.dialog-act.dharshi.20	not . 	
+TS3010c.A.dialog-act.dharshi.39	No , isn't . 	
+TS3010c.C.dialog-act.dharshi.76	No . 	
+TS3010c.A.dialog-act.dharshi.40	But the L_C_D_ is easy when you use the scroll uh buttons . 	
+TS3010c.A.dialog-act.dharshi.41	Then you can scroll , you see what number , and then you push . 	
+TS3010c.C.dialog-act.dharshi.77	Yeah . 	
+TS3010c.C.dialog-act.dharshi.78	But then , what I say , the costs will uh get a lot higher . 	
+TS3010c.A.dialog-act.dharshi.42	But then it's not easy to use scroll uh wheel . 	
+TS3010c.C.dialog-act.dharshi.79	Th then you'll see it on the television . 	
+TS3010c.A.dialog-act.dharshi.43	If you don't 	
+TS3010c.A.dialog-act.dharshi.44	Hmm , yes . But then . Yeah , then you go one down one up . 	
+TS3010c.A.dialog-act.dharshi.45	When you scroll . 	
+TS3010c.C.dialog-act.dharshi.84	Yeah 	
+TS3010c.C.dialog-act.dharshi.81	but l when you see a menu uh on the television , it's like you see uh one to twenty , you go uh uh s scroll up , and push number tw twenty . 	
+TS3010c.A.dialog-act.dharshi.53	Yeah 	
+TS3010c.A.dialog-act.dharshi.46	but like we said before , it has to be used on every television . 	
+TS3010c.A.dialog-act.dharshi.47	So you may not be uh 	
+TS3010c.C.dialog-act.dharshi.80		
+TS3010c.A.dialog-act.dharshi.48	No . 	
+TS3010c.A.dialog-act.dharshi.49	The television must do that . 	
+TS3010c.C.dialog-act.dharshi.82	Mm-hmm . 	
+TS3010c.A.dialog-act.dharshi.50	So 	
+TS3010c.C.dialog-act.dharshi.83	Yeah , I think the younger people will have newer televisions , which can provide our uh remote control . 	
+TS3010c.A.dialog-act.dharshi.51	Yeah 	
+TS3010c.A.dialog-act.dharshi.52	but young people have to have all their uh room . 	
+TS3010c.A.dialog-act.dharshi.54	And mostly they are smaller . 	
+TS3010c.C.dialog-act.dharshi.85	Yes . 	
+TS3010c.A.dialog-act.dharshi.55	So 	
+TS3010c.C.dialog-act.dharshi.86	But that won't be a problem . I think . 	
+TS3010c.A.dialog-act.dharshi.56	Most the times that are not advanced televisions . 	
+TS3010c.C.dialog-act.dharshi.87	No , 	
+TS3010c.D.dialog-act.dharshi.21		
+TS3010c.C.dialog-act.dharshi.88	but then we'll get to the regular uh remote controls . 	
+TS3010c.C.dialog-act.dharshi.89	And I think , what I said , everybody has them uh has them already . 	
+TS3010c.C.dialog-act.dharshi.90	And they go to a uh supermarket and buy them uh for two Euros . 	
+TS3010c.C.dialog-act.dharshi.91	Uh , and ge and get the most cheapest uh thing . 	
+TS3010c.C.dialog-act.dharshi.92	And I think we must look further to uh to devel d develop something news . 	
+TS3010c.A.dialog-act.dharshi.57	Okay . 	
+TS3010c.D.dialog-act.dharshi.22	Uh , can you give an indication in b uh in the cost difference between uh the chip with L_C_D_ or without ? 	
+TS3010c.C.dialog-act.dharshi.94	I got it on my screen and it was uh higher . 	
+TS3010c.C.dialog-act.dharshi.95	But I don't know uh how much higher . 	
+TS3010c.D.dialog-act.dharshi.23	'Cause it 	
+TS3010c.D.dialog-act.dharshi.24	I think if we have an L_C_D_ , it will also sell a lot better . 	
+TS3010c.A.dialog-act.dharshi.58	That's important . 	
+TS3010c.C.dialog-act.dharshi.96	That's true . 	
+TS3010c.D.dialog-act.dharshi.25	And that might uh bring back the costs uh 	
+TS3010c.C.dialog-act.dharshi.97	But then we'll 	
+TS3010c.C.dialog-act.dharshi.98	I think we must discuss who uh what will be better . If we have a better shape of the um remote control , or better options on it . 	
+TS3010c.C.dialog-act.dharshi.100	With a scroll menu , a w scroll thing , and a L_C_D_ . And then a flat um remote control . 	
+TS3010c.C.dialog-act.dharshi.101	Or , a more hand-shaped remote control , with scroll , without L_C_D_ . 	
+TS3010c.A.dialog-act.dharshi.60	Yeah . 	
+TS3010c.A.dialog-act.dharshi.61	Maybe you can look how how much it is for the L_C_D_ . 	
+TS3010c.C.dialog-act.dharshi.102	I can uh look on my uh 	
+TS3010c.A.dialog-act.dharshi.62	It's very important . 	
+TS3010c.C.dialog-act.dharshi.99		
+TS3010c.C.dialog-act.dharshi.103	Uh 	
+TS3010c.C.dialog-act.dharshi.104	Note that the push-button requires a simple chip chip . 	
+TS3010c.C.dialog-act.dharshi.105	A scroll wheel requires minimally a regular chip , which is a higher price range . 	
+TS3010c.C.dialog-act.dharshi.106	The display requires a advanced chip , which is which in turn is more expensive than the regular chip . 	
+TS3010c.A.dialog-act.dharshi.63	Yeah , more expensive . 	
+TS3010c.A.dialog-act.dharshi.64	But how much ? 	
+TS3010c.B.dialog-act.dharshi.70		
+TS3010c.C.dialog-act.dharshi.107	Doesn't say . 	
+TS3010c.A.dialog-act.dharshi.59		
+TS3010c.A.dialog-act.dharshi.65	Oh . 	
+TS3010c.D.dialog-act.dharshi.26	Huh . 	
+TS3010c.B.dialog-act.dharshi.71	Hmm . 	
+TS3010c.A.dialog-act.dharshi.66	Okay . 	
+TS3010c.C.dialog-act.dharshi.108	That's from my manufacturing division . 	
+TS3010c.A.dialog-act.dharshi.67	Okay . 	
+TS3010c.D.dialog-act.dharshi.27	'Kay . 	
+TS3010c.C.dialog-act.dharshi.109		
+TS3010c.A.dialog-act.dharshi.68	Well , thank you . 	
+TS3010c.D.dialog-act.dharshi.28	My turn ? 	
+TS3010c.C.dialog-act.dharshi.111	Yes ? 	
+TS3010c.A.dialog-act.dharshi.69	Next . 	
+TS3010c.C.dialog-act.dharshi.110		
+TS3010c.D.dialog-act.dharshi.29	Mm . So 	
+TS3010c.D.dialog-act.dharshi.30	So 	
+TS3010c.D.dialog-act.dharshi.31	Yeah . 	
+TS3010c.D.dialog-act.dharshi.32	So , my uh presentation is about trend-watching . 	
+TS3010c.D.dialog-act.dharshi.33	Uh , I did some trend-watching . 	
+TS3010c.D.dialog-act.dharshi.34	It's very important to uh keep up with latest trends . 'Cause if you don't , you won't sell . 	
+TS3010c.D.dialog-act.dharshi.35	So , well how we did do that ? 	
+TS3010c.D.dialog-act.dharshi.36	Uh , well we made an investigation of the market , by Trendwatchers . 	
+TS3010c.D.dialog-act.dharshi.37	They uh watch in uh cities like uh Paris and Milan . 	
+TS3010c.D.dialog-act.dharshi.38	Of course , well known for their uh trend uh trends . 	
+TS3010c.D.dialog-act.dharshi.39	And well , uh what did you find ? 	
+TS3010c.D.dialog-act.dharshi.40	Uh , we have two groups , young and trendy , and the old and rich . 	
+TS3010c.D.dialog-act.dharshi.41	Well th and the young and trendy , they uh they starting to like uh fruit and vegetables uh as a theme for n uh clothes , shoes , and also uh products . 	
+TS3010c.D.dialog-act.dharshi.43	And um , material ? That should feel have uh a spongy feeling . 	
+TS3010c.D.dialog-act.dharshi.44	And to get a feeling for what it is , uh here is an image of it . 	
+TS3010c.D.dialog-act.dharshi.45	Then the old and rich . 	
+TS3010c.D.dialog-act.dharshi.46	They like uh dark colours , and simple , recognisable shapes . 	
+TS3010c.C.dialog-act.dharshi.112		
+TS3010c.D.dialog-act.dharshi.47	And um , they also like uh familiar material , uh especially wood . 	
+TS3010c.D.dialog-act.dharshi.48	Now , another picture . 	
+TS3010c.B.dialog-act.dharshi.72		
+TS3010c.D.dialog-act.dharshi.49	To get a feeling for this . 	
+TS3010c.D.dialog-act.dharshi.51	Well , uh then already come to my personal preferences . 	
+TS3010c.D.dialog-act.dharshi.52	We uh aim at the younger market . 	
+TS3010c.D.dialog-act.dharshi.53	So , we should also be uh look at their uh trends . 	
+TS3010c.D.dialog-act.dharshi.54	However , with trends it's always if there's it's now . 	
+TS3010c.D.dialog-act.dharshi.55	It it it might last one year , and next year it be uh can be totally different . 	
+TS3010c.D.dialog-act.dharshi.56	And I think we want to sell our product for longer than one year . 	
+TS3010c.D.dialog-act.dharshi.57	So , we m must not just only look at what the trend is now , 	
+TS3010c.D.dialog-act.dharshi.58	as it might be totally different next year . 	
+TS3010c.D.dialog-act.dharshi.59	So , that's uh one thing to keep in mind . 	
+TS3010c.C.dialog-act.dharshi.113	Changing covers . 	
+TS3010c.D.dialog-act.dharshi.50		
+TS3010c.B.dialog-act.dharshi.73		
+TS3010c.A.dialog-act.dharshi.70		
+TS3010c.D.dialog-act.dharshi.60	Yeah . 	
+TS3010c.D.dialog-act.dharshi.61	Any questions ? 	
+TS3010c.C.dialog-act.dharshi.114	Nope . 	
+TS3010c.B.dialog-act.dharshi.74	No . 	
+TS3010c.A.dialog-act.dharshi.71	No . It's clear . 	
+TS3010c.A.dialog-act.dharshi.72	So now , it's uh 	
+TS3010c.A.dialog-act.dharshi.73	Ah , let's see . 	
+TS3010c.A.dialog-act.dharshi.74	Now , w we have to decide 	
+TS3010c.A.dialog-act.dharshi.75		
+TS3010c.A.dialog-act.dharshi.76	Well , we have to decide on the concept . 	
+TS3010c.A.dialog-act.dharshi.77	So , we have to look at 'S next . Components and user interface concept . 	
+TS3010c.A.dialog-act.dharshi.78	So 	
+TS3010c.A.dialog-act.dharshi.79	Now , we have to make some concept . 	
+TS3010c.A.dialog-act.dharshi.80	Maybe one of you can paint it on the board . 	
+TS3010c.A.dialog-act.dharshi.81	First , uh user interface . 	
+TS3010c.C.dialog-act.dharshi.115	Uh , uh-uh . 	
+TS3010c.C.dialog-act.dharshi.116	How w how we how we make it ? Uh 	
+TS3010c.A.dialog-act.dharshi.83	Yes , a concept on uh 	
+TS3010c.C.dialog-act.dharshi.117		
+TS3010c.D.dialog-act.dharshi.62		
+TS3010c.C.dialog-act.dharshi.118	Shouldn't we first discuss about like what w we all 	
+TS3010c.A.dialog-act.dharshi.84	Just 	
+TS3010c.D.dialog-act.dharshi.63	Yeah . 	
+TS3010c.A.dialog-act.dharshi.85		
+TS3010c.A.dialog-act.dharshi.86	Yeah , 	
+TS3010c.A.dialog-act.dharshi.87	but maybe we can paint it . Uh , what do we want ? 	
+TS3010c.C.dialog-act.dharshi.119	Yeah , but if I paint with 	
+TS3010c.A.dialog-act.dharshi.88	I'll paint . Okay . 	
+TS3010c.C.dialog-act.dharshi.120		
+TS3010c.D.dialog-act.dharshi.64		
+TS3010c.A.dialog-act.dharshi.89	Well 	
+TS3010c.D.dialog-act.dharshi.65	Mm . 	
+TS3010c.A.dialog-act.dharshi.90	Something like this ? Or 	
+TS3010c.B.dialog-act.dharshi.75	Mm , yes . 	
+TS3010c.A.dialog-act.dharshi.91	Shapes or What do we need ? 	
+TS3010c.D.dialog-act.dharshi.66	Can make several uh concepts . 	
+TS3010c.B.dialog-act.dharshi.76	What ? 	
+TS3010c.A.dialog-act.dharshi.92	Yes , okay . 	
+TS3010c.D.dialog-act.dharshi.67	We have this , and we had the idea of an um a more uh uh uh like sh in the shape of your hand . 	
+TS3010c.A.dialog-act.dharshi.93	Okay . 	
+TS3010c.C.dialog-act.dharshi.121	More like something 	
+TS3010c.D.dialog-act.dharshi.68	Yeah I I I uh yes . 	
+TS3010c.B.dialog-act.dharshi.77		
+TS3010c.C.dialog-act.dharshi.122	M like 	
+TS3010c.C.dialog-act.dharshi.123	Yeah I can't dr I can't draw it . 	
+TS3010c.D.dialog-act.dharshi.69		
+TS3010c.C.dialog-act.dharshi.124	Uh 	
+TS3010c.A.dialog-act.dharshi.94	And you have to . 	
+TS3010c.B.dialog-act.dharshi.78		
+TS3010c.C.dialog-act.dharshi.125	I have to . 	
+TS3010c.A.dialog-act.dharshi.95	Yeah . 	
+TS3010c.C.dialog-act.dharshi.126	I'm not a designer . 	
+TS3010c.C.dialog-act.dharshi.127	It's more three D_ . 	
+TS3010c.C.dialog-act.dharshi.128	Like , um when you have 	
+TS3010c.C.dialog-act.dharshi.129	a part here . 	
+TS3010c.C.dialog-act.dharshi.130	This is the remote control . 	
+TS3010c.C.dialog-act.dharshi.131	And then you have something like th this under it . 	
+TS3010c.C.dialog-act.dharshi.132	So , it's easier to get it like this . 	
+TS3010c.B.dialog-act.dharshi.79	Mm . 	
+TS3010c.B.dialog-act.dharshi.80	Yeah . 	
+TS3010c.A.dialog-act.dharshi.96		
+TS3010c.D.dialog-act.dharshi.70	Yeah . 	
+TS3010c.C.dialog-act.dharshi.133	It's like a gun . 	
+TS3010c.D.dialog-act.dharshi.71	A g 	
+TS3010c.B.dialog-act.dharshi.81		
+TS3010c.A.dialog-act.dharshi.97	So , it has to be soft ? 	
+TS3010c.D.dialog-act.dharshi.72	Mm . . 	
+TS3010c.C.dialog-act.dharshi.134	And it has to be soft , yeah . 	
+TS3010c.A.dialog-act.dharshi.98	Okay . 	
+TS3010c.C.dialog-act.dharshi.135	So , you can squeeze in it and 	
+TS3010c.A.dialog-act.dharshi.99	And uh , the buttons ? 	
+TS3010c.C.dialog-act.dharshi.136	Sorry ? 	
+TS3010c.A.dialog-act.dharshi.100	Buttons . 	
+TS3010c.C.dialog-act.dharshi.137	Buttons on top of it . 	
+TS3010c.C.dialog-act.dharshi.138	And here . 	
+TS3010c.C.dialog-act.dharshi.139	The scrolling . You can do it with your thumb . 	
+TS3010c.A.dialog-act.dharshi.101	No , it won't . 	
+TS3010c.C.dialog-act.dharshi.140		
+TS3010c.B.dialog-act.dharshi.82	But but i that's the only scroll uh button on it then ? 	
+TS3010c.C.dialog-act.dharshi.141	But now we use one scroll button and the other one is here . 	
+TS3010c.C.dialog-act.dharshi.142	One till uh uh zero till nine . 	
+TS3010c.A.dialog-act.dharshi.102	But , well there one for the sound and one for the channels . 	
+TS3010c.B.dialog-act.dharshi.83	Yeah , okay . 	
+TS3010c.B.dialog-act.dharshi.84	But but how 	
+TS3010c.D.dialog-act.dharshi.73	Yeah . 	
+TS3010c.C.dialog-act.dharshi.143	And the b 	
+TS3010c.C.dialog-act.dharshi.144		
+TS3010c.B.dialog-act.dharshi.86	Yeah . 	
+TS3010c.C.dialog-act.dharshi.145	Yeah ? 	
+TS3010c.B.dialog-act.dharshi.85	How 	
+TS3010c.C.dialog-act.dharshi.146	Or two buttons . 	
+TS3010c.B.dialog-act.dharshi.87	Okay . 	
+TS3010c.D.dialog-act.dharshi.75	And i if we go to uh 	
+TS3010c.A.dialog-act.dharshi.103	Uh , two scroll uh wheels . 	
+TS3010c.C.dialog-act.dharshi.147	If uh 	
+TS3010c.C.dialog-act.dharshi.148	'Kay c If we do 	
+TS3010c.C.dialog-act.dharshi.149	If we use one , then we'll have just a switch on it , 	
+TS3010c.C.dialog-act.dharshi.150	and you'll just switch it , 	
+TS3010c.C.dialog-act.dharshi.151	and now it's the sound to switch back 	
+TS3010c.D.dialog-act.dharshi.74		
+TS3010c.B.dialog-act.dharshi.88	Mm . 	
+TS3010c.A.dialog-act.dharshi.104	That's th that's more difficult . 	
+TS3010c.D.dialog-act.dharshi.77	But if we have uh a me Yeah . 	
+TS3010c.A.dialog-act.dharshi.105	It's better in 	
+TS3010c.D.dialog-act.dharshi.76	If we have a menu , uh how do we uh choose other options ? 	
+TS3010c.C.dialog-act.dharshi.152	with the menu uh button . 	
+TS3010c.C.dialog-act.dharshi.153	And then you also can scroll uh scroll in it . 	
+TS3010c.C.dialog-act.dharshi.154	Just not like all the other ones , with uh this thing , and uh here an arrow , here an arrow , here an arrow , here an arrow . 	
+TS3010c.D.dialog-act.dharshi.78	Yeah . 	
+TS3010c.C.dialog-act.dharshi.155	Because uh , from h hundred uh remote controls , ninety nine have it . 	
+TS3010c.A.dialog-act.dharshi.106	But if we don't have a L_C_D_ we don't have a menu . 	
+TS3010c.B.dialog-act.dharshi.89	Yeah . 	
+TS3010c.C.dialog-act.dharshi.156	Uh , then we have it on the T_V_ , the menu . 	
+TS3010c.D.dialog-act.dharshi.79	Uh-uh . 	
+TS3010c.A.dialog-act.dharshi.107	Yeah , but again maybe th How do we know the T_V_ can handle it ? 	
+TS3010c.C.dialog-act.dharshi.157		
+TS3010c.B.dialog-act.dharshi.90		
+TS3010c.A.dialog-act.dharshi.108	You don't know . 	
+TS3010c.A.dialog-act.dharshi.109	So , there's no menu . 	
+TS3010c.C.dialog-act.dharshi.158	I don't know . 	
+TS3010c.C.dialog-act.dharshi.159	It's like some sort of uh teletext option , but we don't have teletext . 	
+TS3010c.A.dialog-act.dharshi.110	No . 	
+TS3010c.A.dialog-act.dharshi.111	So you can't use it . 	
+TS3010c.C.dialog-act.dharshi.160	And if we put an L_C_D_ thing on it , then the costs will uh be much higher . 	
+TS3010c.A.dialog-act.dharshi.112	Okay , 	
+TS3010c.A.dialog-act.dharshi.113	we make two concepts . 	
+TS3010c.A.dialog-act.dharshi.114	One with L_C_D_ . One without L_C_D_ . 	
+TS3010c.C.dialog-act.dharshi.161	'Kay . 	
+TS3010c.C.dialog-act.dharshi.162	But you all like this kind of thing . 	
+TS3010c.C.dialog-act.dharshi.163	Uh 	
+TS3010c.A.dialog-act.dharshi.115	Good concept . 	
+TS3010c.A.dialog-act.dharshi.116	But 	
+TS3010c.C.dialog-act.dharshi.164	With the scroll button . 	
+TS3010c.A.dialog-act.dharshi.117	That's one . 	
+TS3010c.C.dialog-act.dharshi.165	And and this one has to be soft . 	
+TS3010c.D.dialog-act.dharshi.80	Uh-uh . 	
+TS3010c.C.dialog-act.dharshi.166	And this has to be harder , 	
+TS3010c.C.dialog-act.dharshi.167	because when it falls , it mu mu must not burst . 	
+TS3010c.C.dialog-act.dharshi.168	Or some kind of rubber around it . 	
+TS3010c.B.dialog-act.dharshi.91	Mm-hmm . 	
+TS3010c.A.dialog-act.dharshi.118	It's one . 	
+TS3010c.A.dialog-act.dharshi.119	Two . Number two . 	
+TS3010c.B.dialog-act.dharshi.92	And you can and you can uh make the the power button as a trigger . 	
+TS3010c.C.dialog-act.dharshi.169	Yeah . Yeah . 	
+TS3010c.A.dialog-act.dharshi.120		
+TS3010c.B.dialog-act.dharshi.93	Like uh 	
+TS3010c.B.dialog-act.dharshi.94		
+TS3010c.C.dialog-act.dharshi.170	Ah that's nice . 	
+TS3010c.B.dialog-act.dharshi.95		
+TS3010c.D.dialog-act.dharshi.81		
+TS3010c.C.dialog-act.dharshi.171	Here . Trigger . 	
+TS3010c.A.dialog-act.dharshi.121	No . 	
+TS3010c.B.dialog-act.dharshi.96	Just to uh 	
+TS3010c.A.dialog-act.dharshi.122	But when you handle it , you put it on and off . 	
+TS3010c.A.dialog-act.dharshi.123	It's not good to use . 	
+TS3010c.C.dialog-act.dharshi.172		
+TS3010c.A.dialog-act.dharshi.124	Yeah , but I'll zap . 	
+TS3010c.B.dialog-act.dharshi.97	Oh , like a 	
+TS3010c.D.dialog-act.dharshi.82		
+TS3010c.B.dialog-act.dharshi.98	Yeah . 	
+TS3010c.A.dialog-act.dharshi.125	Fuck . Out . 	
+TS3010c.C.dialog-act.dharshi.173		
+TS3010c.A.dialog-act.dharshi.126	No , it's not good . 	
+TS3010c.D.dialog-act.dharshi.83	Yeah . 	
+TS3010c.A.dialog-act.dharshi.127	Now , second concept . 	
+TS3010c.A.dialog-act.dharshi.128	One with L_C_D_ , one without L_C_D_ . 	
+TS3010c.A.dialog-act.dharshi.129	Then uh 	
+TS3010c.B.dialog-act.dharshi.99		
+TS3010c.A.dialog-act.dharshi.130	Paint it . 	
+TS3010c.D.dialog-act.dharshi.84		
+TS3010c.C.dialog-act.dharshi.174	Paint it ? 	
+TS3010c.B.dialog-act.dharshi.100		
+TS3010c.C.dialog-act.dharshi.175	With the scroll thing on , like this ? 	
+TS3010c.A.dialog-act.dharshi.131	One with two scroll buttons and one with without . 	
+TS3010c.A.dialog-act.dharshi.132	Yeah . 	
+TS3010c.A.dialog-act.dharshi.133	Uh , one with a with a menu , and one without a menu . 	
+TS3010c.C.dialog-act.dharshi.176	So ? 	
+TS3010c.A.dialog-act.dharshi.134	And the one with with a menu has an L_C_D_ . 	
+TS3010c.C.dialog-act.dharshi.177	Draw it . 	
+TS3010c.D.dialog-act.dharshi.85		
+TS3010c.A.dialog-act.dharshi.135	Unbelievable . 	
+TS3010c.A.dialog-act.dharshi.136	Do I have to do everything . 	
+TS3010c.A.dialog-act.dharshi.137	Blank . 	
+TS3010c.A.dialog-act.dharshi.138	You have 	
+TS3010c.A.dialog-act.dharshi.139	Not so difficult . 	
+TS3010c.D.dialog-act.dharshi.86	Yeah . 	
+TS3010c.B.dialog-act.dharshi.101	But if you put push the the menu button 	
+TS3010c.A.dialog-act.dharshi.140	Uh , that's the menu . 	
+TS3010c.B.dialog-act.dharshi.102	Yeah , wh what 	
+TS3010c.A.dialog-act.dharshi.141	There for the L_C_D_ screen . 	
+TS3010c.B.dialog-act.dharshi.103	Yes , but you don't know which of the scroll buttons you have to choose . 	
+TS3010c.A.dialog-act.dharshi.142	You have to 	
+TS3010c.A.dialog-act.dharshi.143	For the menu . 	
+TS3010c.B.dialog-act.dharshi.104	Yeah . 	
+TS3010c.A.dialog-act.dharshi.144	Mm-hmm . 	
+TS3010c.A.dialog-act.dharshi.145	One that way . 	
+TS3010c.A.dialog-act.dharshi.146	And one that way . 	
+TS3010c.A.dialog-act.dharshi.147	So 	
+TS3010c.A.dialog-act.dharshi.148	Then it depends on the cost . 	
+TS3010c.A.dialog-act.dharshi.149	S On and off . 	
+TS3010c.D.dialog-act.dharshi.87		
+TS3010c.C.dialog-act.dharshi.178	But is it easy to use ? 	
+TS3010c.C.dialog-act.dharshi.179	When you have it on your left side , 	
+TS3010c.C.dialog-act.dharshi.180	and 	
+TS3010c.A.dialog-act.dharshi.150	When it's not too big . 	
+TS3010c.A.dialog-act.dharshi.151	Just like a a phone . 	
+TS3010c.B.dialog-act.dharshi.105	Mm-hmm . 	
+TS3010c.D.dialog-act.dharshi.88	M uh yeah , maybe it's better if the uh scroll-wheels are um 	
+TS3010c.C.dialog-act.dharshi.181	Separate , more separate , h yeah . 	
+TS3010c.D.dialog-act.dharshi.89	more separate , yeah . 	
+TS3010c.A.dialog-act.dharshi.152	Yes , okay . 	
+TS3010c.D.dialog-act.dharshi.90	Like , you have the menu button in between uh 	
+TS3010c.C.dialog-act.dharshi.182	Yeah . 	
+TS3010c.C.dialog-act.dharshi.183	On the left a scroll button , and on the right a scroll button . 	
+TS3010c.C.dialog-act.dharshi.184	But would it be easy to use then ? 	
+TS3010c.C.dialog-act.dharshi.186	If it's like you have a big uh 	
+TS3010c.A.dialog-act.dharshi.153		
+TS3010c.C.dialog-act.dharshi.185		
+TS3010c.A.dialog-act.dharshi.154	Very good . 	
+TS3010c.A.dialog-act.dharshi.155	Is it better ? 	
+TS3010c.A.dialog-act.dharshi.156	When you uh the menu , you have to go there there there there . 	
+TS3010c.C.dialog-act.dharshi.187	I also think this concept is not what the young people were looking for . 	
+TS3010c.D.dialog-act.dharshi.91	Yeah . 	
+TS3010c.C.dialog-act.dharshi.188	They were like round curves , 	
+TS3010c.C.dialog-act.dharshi.189	uh different uh 	
+TS3010c.A.dialog-act.dharshi.157	Yeah , okay . That's that's the outside . 	
+TS3010c.C.dialog-act.dharshi.190	Okay , okay , okay . 	
+TS3010c.A.dialog-act.dharshi.158	But now the 	
+TS3010c.A.dialog-act.dharshi.159	First the buttons . 	
+TS3010c.C.dialog-act.dharshi.191	Mm-hmm . 	
+TS3010c.D.dialog-act.dharshi.92	Think we have we have now two buttons missing . 	
+TS3010c.D.dialog-act.dharshi.93	The uh um 	
+TS3010c.D.dialog-act.dharshi.94	The mute button . 	
+TS3010c.A.dialog-act.dharshi.160	Sorry ? 	
+TS3010c.D.dialog-act.dharshi.95	We have two buttons missing . 	
+TS3010c.D.dialog-act.dharshi.96	The mute button . 	
+TS3010c.D.dialog-act.dharshi.97	And um , the to to uh have to uh numbers 	
+TS3010c.A.dialog-act.dharshi.161	Mute . And the other . 	
+TS3010c.C.dialog-act.dharshi.192		
+TS3010c.B.dialog-act.dharshi.106		
+TS3010c.D.dialog-act.dharshi.98	Okay . 	
+TS3010c.A.dialog-act.dharshi.162	Yeah . Not so difficult . 	
+TS3010c.D.dialog-act.dharshi.99	But , uh 	
+TS3010c.C.dialog-act.dharshi.193	Personally , I think two scroll buttons uh aren't easy to handle . 	
+TS3010c.A.dialog-act.dharshi.163	But how do you wanna solve it ? 	
+TS3010c.C.dialog-act.dharshi.194	With the switch button . 	
+TS3010c.A.dialog-act.dharshi.164	Yeah but on the menu that's not uh easy . 	
+TS3010c.A.dialog-act.dharshi.165	Then you go down , you switch , you go into the right , you switch , you go down . 	
+TS3010c.C.dialog-act.dharshi.195	No 	
+TS3010c.C.dialog-act.dharshi.196	like uh 	
+TS3010c.C.dialog-act.dharshi.197	Oh , you mean like that . 	
+TS3010c.A.dialog-act.dharshi.166	Yeah . 	
+TS3010c.C.dialog-act.dharshi.198	Uh , then you can also have like uh th um 	
+TS3010c.A.dialog-act.dharshi.167	A joystick . 	
+TS3010c.C.dialog-act.dharshi.199	Yeah , and joystick , I think . 	
+TS3010c.A.dialog-act.dharshi.168	Yeah . 	
+TS3010c.A.dialog-act.dharshi.169	But is it uh 	
+TS3010c.A.dialog-act.dharshi.170	Does that break , a joystick ? 	
+TS3010c.A.dialog-act.dharshi.171	Or a small one just like in a laptop . 	
+TS3010c.C.dialog-act.dharshi.200	Yeah like in a laptop , s uh s some sort of thing . 	
+TS3010c.C.dialog-act.dharshi.201	A little bit bigger , 	
+TS3010c.C.dialog-act.dharshi.202	with easier thi 	
+TS3010c.A.dialog-act.dharshi.172	Mean , it's better . 	
+TS3010c.A.dialog-act.dharshi.173	But how expensive it is ? 	
+TS3010c.C.dialog-act.dharshi.203	I don't know . 	
+TS3010c.D.dialog-act.dharshi.100		
+TS3010c.A.dialog-act.dharshi.174	Oh . Why do I pay you for ? 	
+TS3010c.C.dialog-act.dharshi.204		
+TS3010c.A.dialog-act.dharshi.175	Um , well um 	
+TS3010c.A.dialog-act.dharshi.176	Better ideas . 	
+TS3010c.D.dialog-act.dharshi.101	Okay . 	
+TS3010c.C.dialog-act.dharshi.205	Or no scroll uh things . 	
+TS3010c.C.dialog-act.dharshi.206	Just a shape . 	
+TS3010c.C.dialog-act.dharshi.207	And 	
+TS3010c.C.dialog-act.dharshi.208	No , no . It won't work . 	
+TS3010c.A.dialog-act.dharshi.177	For the young peoples I think scroll button's good . 	
+TS3010c.C.dialog-act.dharshi.209	Yeah . Uh-huh . 	
+TS3010c.A.dialog-act.dharshi.178	So 	
+TS3010c.A.dialog-act.dharshi.179	Think we have to keep them . 	
+TS3010c.C.dialog-act.dharshi.210	Or a remote control more like joystick . 	
+TS3010c.A.dialog-act.dharshi.180	Yeah , but is it 	
+TS3010c.A.dialog-act.dharshi.181	That's not expensive than uh Joystick is better . 	
+TS3010c.A.dialog-act.dharshi.182	A small one . 	
+TS3010c.C.dialog-act.dharshi.211	A small one like this , like a Nintendo uh k 	
+TS3010c.A.dialog-act.dharshi.184	No 	
+TS3010c.A.dialog-act.dharshi.185	just like in a 	
+TS3010c.C.dialog-act.dharshi.214	Playstation thing . 	
+TS3010c.A.dialog-act.dharshi.186	a laptop . 	
+TS3010c.A.dialog-act.dharshi.187	Small , round . 	
+TS3010c.D.dialog-act.dharshi.102		
+TS3010c.A.dialog-act.dharshi.188	Then it's not so big . 	
+TS3010c.C.dialog-act.dharshi.215	No , no , no . 	
+TS3010c.C.dialog-act.dharshi.216	I mean the the shape of the remote control . 	
+TS3010c.A.dialog-act.dharshi.189	Oh the sh 	
+TS3010c.C.dialog-act.dharshi.217	Just like a Playstation thing . 	
+TS3010c.A.dialog-act.dharshi.190	Yeah , 	
+TS3010c.A.dialog-act.dharshi.191	but then you can 	
+TS3010c.C.dialog-act.dharshi.218	Yeah . 	
+TS3010c.A.dialog-act.dharshi.192	So 	
+TS3010c.D.dialog-act.dharshi.103		
+TS3010c.A.dialog-act.dharshi.193	Maybe , if it's possible , it's not too expensive , I think a joystick is better . 	
+TS3010c.A.dialog-act.dharshi.194	A small one . 	
+TS3010c.A.dialog-act.dharshi.195	So , please look at it . 	
+TS3010c.C.dialog-act.dharshi.219		
+TS3010c.C.dialog-act.dharshi.220	No , that's okay , 	
+TS3010c.C.dialog-act.dharshi.221	I got 	
+TS3010c.D.dialog-act.dharshi.104	And on the L_C_D_ , how much it costs ? 	
+TS3010c.D.dialog-act.dharshi.105	Uh , it costs extra ? 	
+TS3010c.C.dialog-act.dharshi.222	Uh 	
+TS3010c.C.dialog-act.dharshi.223	they're not uh in details . 	
+TS3010c.A.dialog-act.dharshi.196		
+TS3010c.C.dialog-act.dharshi.224	It's more expensive or less expensive , huh ? 	
+TS3010c.A.dialog-act.dharshi.197	Yeah we I think you get it . 	
+TS3010c.A.dialog-act.dharshi.198	So , after this meeting you have half an hour to uh fix it . 	
+TS3010c.C.dialog-act.dharshi.225	Then I have to come with it . 	
+TS3010c.B.dialog-act.dharshi.107		
+TS3010c.D.dialog-act.dharshi.106		
+TS3010c.A.dialog-act.dharshi.199	Yes . 	
+TS3010c.C.dialog-act.dharshi.226	I got my personal costs . 	
+TS3010c.C.dialog-act.dharshi.227	I I don't I don't know the costs . 	
+TS3010c.A.dialog-act.dharshi.200	Your problem . Not mine . 	
+TS3010c.C.dialog-act.dharshi.228		
+TS3010c.D.dialog-act.dharshi.107		
+TS3010c.C.dialog-act.dharshi.229	Then I'll uh make something up . 	
+TS3010c.A.dialog-act.dharshi.201	Okay . 	
+TS3010c.A.dialog-act.dharshi.202	So , do we have other concepts ? 	
+TS3010c.A.dialog-act.dharshi.203	Then for the components , we use a normal battery . 	
+TS3010c.B.dialog-act.dharshi.108	Mm , yeah . 	
+TS3010c.A.dialog-act.dharshi.204	Then it's Ch cheapest way , I think . 	
+TS3010c.C.dialog-act.dharshi.230	Yeah , or the or the kinetic uh with normal battery . 	
+TS3010c.A.dialog-act.dharshi.205	No , no kinetic . 	
+TS3010c.C.dialog-act.dharshi.231	Yeah , I think it's uh , yeah , 	
+TS3010c.A.dialog-act.dharshi.206	Kinetic is uh ch makes it more expensive . 	
+TS3010c.C.dialog-act.dharshi.232	more expensive . Yeah . 	
+TS3010c.A.dialog-act.dharshi.207	So we use a normal battery . 	
+TS3010c.B.dialog-act.dharshi.109		
+TS3010c.D.dialog-act.dharshi.108	Yeah . 	
+TS3010c.B.dialog-act.dharshi.110	Yeah . 	
+TS3010c.C.dialog-act.dharshi.233	Okay . 	
+TS3010c.D.dialog-act.dharshi.109	Yes . 	
+TS3010c.A.dialog-act.dharshi.208	Chip . Depends on the L_C_D_ . 	
+TS3010c.C.dialog-act.dharshi.234	Depends on the scroll . 	
+TS3010c.A.dialog-act.dharshi.209	Scroll . 	
+TS3010c.C.dialog-act.dharshi.235	If we use a scroll , then we have the uh regular chip . 	
+TS3010c.C.dialog-act.dharshi.236	If we don't use a scroll , then we can use the simple chip . 	
+TS3010c.C.dialog-act.dharshi.237	And that's 	
+TS3010c.A.dialog-act.dharshi.210	Yeah . 	
+TS3010c.A.dialog-act.dharshi.211	And uh , we If you use the L_C_D_ , we have to 	
+TS3010c.C.dialog-act.dharshi.238	Uh the most expensive . 	
+TS3010c.A.dialog-act.dharshi.212	Yes , okay . 	
+TS3010c.C.dialog-act.dharshi.239	Yeah . 	
+TS3010c.A.dialog-act.dharshi.213	So , depends on the L_C_D_ and the scroll . 	
+TS3010c.C.dialog-act.dharshi.240	If we 	
+TS3010c.C.dialog-act.dharshi.241	Yeah . 	
+TS3010c.A.dialog-act.dharshi.214	Okay . 	
+TS3010c.C.dialog-act.dharshi.242	If we 	
+TS3010c.C.dialog-act.dharshi.243	No okay scroll-wheel . 	
+TS3010c.C.dialog-act.dharshi.244	So , I have this . 	
+TS3010c.C.dialog-act.dharshi.245	So , it will be uh the advanced chip , or the uh regu uh or the regular chip . 	
+TS3010c.A.dialog-act.dharshi.215	Okay . 	
+TS3010c.A.dialog-act.dharshi.216	So , uh the shapes of the design depends on the L_C_D_ 	
+TS3010c.A.dialog-act.dharshi.217	and 	
+TS3010c.A.dialog-act.dharshi.218	But , it has to be small . 	
+TS3010c.A.dialog-act.dharshi.219	I think . 	
+TS3010c.C.dialog-act.dharshi.246	Or shall we just put it on the pistol thing ? 	
+TS3010c.C.dialog-act.dharshi.247	And then just put also on L_C_D_ on it ? 	
+TS3010c.A.dialog-act.dharshi.221	If you have pistol , it L_C_D_'s not easy . 	
+TS3010c.A.dialog-act.dharshi.220	Y y Yeah but 	
+TS3010c.C.dialog-act.dharshi.248	Just use your thumb . 	
+TS3010c.A.dialog-act.dharshi.222	If you use a phone . 	
+TS3010c.C.dialog-act.dharshi.249	If you 	
+TS3010c.C.dialog-act.dharshi.250	Yeah . I use my thumb . 	
+TS3010c.A.dialog-act.dharshi.223	k Yeah , but but then you have it . 	
+TS3010c.A.dialog-act.dharshi.224	Like , th if you have pistol , you have it so . 	
+TS3010c.C.dialog-act.dharshi.251	Yeah . 	
+TS3010c.A.dialog-act.dharshi.225	And the screen is 	
+TS3010c.A.dialog-act.dharshi.226	Well , then you have to keep it this way to look at the screen . 	
+TS3010c.C.dialog-act.dharshi.252	If you have a joystick on 	
+TS3010c.C.dialog-act.dharshi.253	No , 	
+TS3010c.C.dialog-act.dharshi.254	if you have like uh an uh uh a ni a uh Playstation uh game controller . 	
+TS3010c.D.dialog-act.dharshi.110		
+TS3010c.A.dialog-act.dharshi.227	Yeah . 	
+TS3010c.C.dialog-act.dharshi.256	And you move up , f forward , down , left . 	
+TS3010c.C.dialog-act.dharshi.257	Then you have uh just , yeah , a little bit curved . 	
+TS3010c.C.dialog-act.dharshi.258	It's not just uh straight . 	
+TS3010c.A.dialog-act.dharshi.228	No . No , no . 	
+TS3010c.D.dialog-act.dharshi.111		
+TS3010c.C.dialog-act.dharshi.255		
+TS3010c.C.dialog-act.dharshi.259	That's how we use it . 	
+TS3010c.D.dialog-act.dharshi.112	Uh 	
+TS3010c.C.dialog-act.dharshi.260	That's why they make joysticks like that , I think . 	
+TS3010c.A.dialog-act.dharshi.229	Yeah , but then you look forward . 	
+TS3010c.D.dialog-act.dharshi.113	Uh , yeah , but 	
+TS3010c.A.dialog-act.dharshi.230	And then you can y 	
+TS3010c.D.dialog-act.dharshi.114	Yeah . 	
+TS3010c.C.dialog-act.dharshi.261	Yeah ? 	
+TS3010c.A.dialog-act.dharshi.231	N well , if you have to look at it . 	
+TS3010c.D.dialog-act.dharshi.115	If you 	
+TS3010c.C.dialog-act.dharshi.262	'Kay . Here's our designer . 	
+TS3010c.D.dialog-act.dharshi.116	If we have uh then something standing here , with the L_C_D_ . 	
+TS3010c.C.dialog-act.dharshi.263	Yeah . 	
+TS3010c.A.dialog-act.dharshi.232	Then it goes like this . 	
+TS3010c.C.dialog-act.dharshi.264	Yeah , why not . 	
+TS3010c.A.dialog-act.dharshi.233	If th n well 	
+TS3010c.C.dialog-act.dharshi.265	It's for the younger people . 	
+TS3010c.A.dialog-act.dharshi.234	Yes , of course . 	
+TS3010c.C.dialog-act.dharshi.266	It's something new . 	
+TS3010c.B.dialog-act.dharshi.111	It's uh 	
+TS3010c.A.dialog-act.dharshi.235	That's good good . 	
+TS3010c.A.dialog-act.dharshi.236	But the um , 	
+TS3010c.A.dialog-act.dharshi.237	it may not break . 	
+TS3010c.C.dialog-act.dharshi.267	Now we put uh rubber around it . 	
+TS3010c.A.dialog-act.dharshi.238	Okay . If that's possible . 	
+TS3010c.D.dialog-act.dharshi.117	Um , Yeah . 	
+TS3010c.C.dialog-act.dharshi.268	Hard plastic , uh the shape , and around it hard uh around it rubber . 	
+TS3010c.C.dialog-act.dharshi.269	And the uh the hand shape is also rubber . 	
+TS3010c.D.dialog-act.dharshi.118		
+TS3010c.A.dialog-act.dharshi.239	Okay . 	
+TS3010c.D.dialog-act.dharshi.119	I can't see the . 	
+TS3010c.B.dialog-act.dharshi.112	Or you can uh turn it inside . 	
+TS3010c.D.dialog-act.dharshi.120	But , uh the easy of 	
+TS3010c.B.dialog-act.dharshi.113	But that's 	
+TS3010c.D.dialog-act.dharshi.121	uh , th the ease of use wasn't uh the most important uh aspect of it . 	
+TS3010c.C.dialog-act.dharshi.270	Huh . 	
+TS3010c.B.dialog-act.dharshi.114	No , that's true . 	
+TS3010c.D.dialog-act.dharshi.123	Uh , for us it's about to sell it . 	
+TS3010c.D.dialog-act.dharshi.124	Uh 	
+TS3010c.A.dialog-act.dharshi.240	Yeah of course . 	
+TS3010c.C.dialog-act.dharshi.271	This is something new . 	
+TS3010c.D.dialog-act.dharshi.125		
+TS3010c.A.dialog-act.dharshi.241	Okay . 	
+TS3010c.A.dialog-act.dharshi.242	Then this is the design . 	
+TS3010c.A.dialog-act.dharshi.243	And the buttons are on the next page . 	
+TS3010c.A.dialog-act.dharshi.244	So , depends on the cost . 	
+TS3010c.A.dialog-act.dharshi.246	So , 	
+TS3010c.C.dialog-act.dharshi.272	Costs are okay . 	
+TS3010c.A.dialog-act.dharshi.245	um we have one minute . 	
+TS3010c.B.dialog-act.dharshi.115	. 	
+TS3010c.D.dialog-act.dharshi.126		
+TS3010c.D.dialog-act.dharshi.127	One . 	
+TS3010c.A.dialog-act.dharshi.247	I think . 	
+TS3010c.D.dialog-act.dharshi.129	No . 	
+TS3010c.A.dialog-act.dharshi.248	No . 	
+TS3010c.D.dialog-act.dharshi.130	You have more . 	
+TS3010c.A.dialog-act.dharshi.249	More . Seven . 	
+TS3010c.D.dialog-act.dharshi.131	You have still ten . 	
+TS3010c.A.dialog-act.dharshi.250	Next meeting . Thirty minutes . 	
+TS3010c.A.dialog-act.dharshi.251	So hurry up . 	
+TS3010c.C.dialog-act.dharshi.273	Oh , that's us together . 	
+TS3010c.A.dialog-act.dharshi.252	You two stay here . 	
+TS3010c.D.dialog-act.dharshi.132		
+TS3010c.A.dialog-act.dharshi.253	Paint it . 	
+TS3010c.B.dialog-act.dharshi.116	Okay . 	
+TS3010c.A.dialog-act.dharshi.254	Now you have to . 	
+TS3010c.C.dialog-act.dharshi.274		
+TS3010c.B.dialog-act.dharshi.117		
+TS3010c.D.dialog-act.dharshi.133		
+TS3010c.A.dialog-act.dharshi.255	So 	
+TS3010c.A.dialog-act.dharshi.256	I think it's clear . 	
+TS3010c.A.dialog-act.dharshi.257	Check your mail . 	
+TS3010c.A.dialog-act.dharshi.258	So 	
+TS3010c.D.dialog-act.dharshi.134	Yeah . 	
+TS3010c.C.dialog-act.dharshi.275	Yes . 	
+TS3010c.A.dialog-act.dharshi.259	It has to be ready in the next meeting . 	
+TS3010c.A.dialog-act.dharshi.260	So 	
+TS3010c.D.dialog-act.dharshi.135	What ? 	
+TS3010c.B.dialog-act.dharshi.118	Cookie . 	
+TS3010c.D.dialog-act.dharshi.136	Okay . 	
+TS3010c.A.dialog-act.dharshi.261	Next meeting is called the detailed design . 	
+TS3010c.A.dialog-act.dharshi.264	So 	
+TS3010c.A.dialog-act.dharshi.262	Everyth everything has to be ready . 	
+TS3010c.D.dialog-act.dharshi.138	Okay . 	
+TS3010c.A.dialog-act.dharshi.263	Thanks for your attention . 	
+TS3010c.C.dialog-act.dharshi.277	'Kay . 	
+TS3010c.D.dialog-act.dharshi.137	See you at the next meeting . 	
+TS3010c.C.dialog-act.dharshi.276	Bye bye . 	
+

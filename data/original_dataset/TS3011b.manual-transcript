@@ -1,0 +1,1035 @@
+Observation: TS3011b; Result size: 1032; atts: 2
+$d@nite:id	$d	
+TS3011b.A.dialog-act.vkaraisk.1	Welcome back . 	
+TS3011b.B.dialog-act.vkaraisk.1	Hello . 	
+TS3011b.D.dialog-act.vkaraisk.1	Hello . 	
+TS3011b.A.dialog-act.vkaraisk.2	Uh let me see . 	
+TS3011b.B.dialog-act.vkaraisk.2	There's one of mine . 	
+TS3011b.A.dialog-act.vkaraisk.3	Okay . 	
+TS3011b.A.dialog-act.vkaraisk.4	Roo , welcome back . 	
+TS3011b.B.dialog-act.vkaraisk.3	Hello , Flores . 	
+TS3011b.A.dialog-act.vkaraisk.5	The waiting is for Sebastian . 	
+TS3011b.C.dialog-act.vkaraisk.1		
+TS3011b.B.dialog-act.vkaraisk.4	. 	
+TS3011b.A.dialog-act.vkaraisk.6	There he is . 	
+TS3011b.C.dialog-act.vkaraisk.2	Is there any time for a cup of coffee ? 	
+TS3011b.B.dialog-act.vkaraisk.5	We have a slight problem . 	
+TS3011b.B.dialog-act.vkaraisk.6	I opened uh the C_D_ ROM box uh guys . 	
+TS3011b.A.dialog-act.vkaraisk.7	Sorry ? 	
+TS3011b.C.dialog-act.vkaraisk.3	Can I get a cup of coffee ? 	
+TS3011b.A.dialog-act.vkaraisk.8	Uh no . You can't , 	
+TS3011b.C.dialog-act.vkaraisk.4	Okay . 	
+TS3011b.A.dialog-act.vkaraisk.9	sorry . 	
+TS3011b.B.dialog-act.vkaraisk.7	So 	
+TS3011b.B.dialog-act.vkaraisk.8	just cancel it . 	
+TS3011b.C.dialog-act.vkaraisk.5		
+TS3011b.C.dialog-act.vkaraisk.6	Well , 	
+TS3011b.C.dialog-act.vkaraisk.7	during my work I have no time either . 	
+TS3011b.C.dialog-act.vkaraisk.8	So 	
+TS3011b.A.dialog-act.vkaraisk.10	Well , 	
+TS3011b.A.dialog-act.vkaraisk.11	this is life . 	
+TS3011b.A.dialog-act.vkaraisk.12	Sorry 	
+TS3011b.A.dialog-act.vkaraisk.13	uh , Roo . 	
+TS3011b.B.dialog-act.vkaraisk.9	Yeah , 	
+TS3011b.B.dialog-act.vkaraisk.10	I opened the C_D_ ROM box . Accidentally . 	
+TS3011b.A.dialog-act.vkaraisk.14	Okay . 	
+TS3011b.A.dialog-act.vkaraisk.15	Okay . 	
+TS3011b.B.dialog-act.vkaraisk.11	But it's alright . 	
+TS3011b.A.dialog-act.vkaraisk.16	People , welcome back with the second meeting . 	
+TS3011b.A.dialog-act.vkaraisk.17	Um for now on the schedule are a few points . 	
+TS3011b.A.dialog-act.vkaraisk.18	Uh first of all the opening , 	
+TS3011b.A.dialog-act.vkaraisk.19	which we are doing now . 	
+TS3011b.A.dialog-act.vkaraisk.20	Um second , I received um some new project requirements . 	
+TS3011b.A.dialog-act.vkaraisk.21	I'm not sure if you received them as well , 	
+TS3011b.A.dialog-act.vkaraisk.22	um but I will tell you about it . 	
+TS3011b.B.dialog-act.vkaraisk.12	Mm-hmm . 	
+TS3011b.A.dialog-act.vkaraisk.23	Um then um the three of you uh prepared a presentation , I think ? 	
+TS3011b.A.dialog-act.vkaraisk.24	Sebastian ? 	
+TS3011b.C.dialog-act.vkaraisk.9	I think so too . 	
+TS3011b.A.dialog-act.vkaraisk.25	Roo ? 	
+TS3011b.B.dialog-act.vkaraisk.13	Yeah . 	
+TS3011b.A.dialog-act.vkaraisk.26	Ruud ? 	
+TS3011b.D.dialog-act.vkaraisk.2	Almost . 	
+TS3011b.A.dialog-act.vkaraisk.27	Almost , okay . 	
+TS3011b.C.dialog-act.vkaraisk.10		
+TS3011b.B.dialog-act.vkaraisk.14		
+TS3011b.A.dialog-act.vkaraisk.28	Then we'll do your one uh uh as la uh the last . 	
+TS3011b.A.dialog-act.vkaraisk.29	Um the top goal of this m 	
+TS3011b.B.dialog-act.vkaraisk.15	But you can't upload your presentation from here , I believe . 	
+TS3011b.A.dialog-act.vkaraisk.30	Um we will figure that out . 	
+TS3011b.B.dialog-act.vkaraisk.16	Okay . 	
+TS3011b.A.dialog-act.vkaraisk.33	Ca can you try to 	
+TS3011b.D.dialog-act.vkaraisk.3	Uh if it if it if it's wireless I could just uh put it in the . 	
+TS3011b.A.dialog-act.vkaraisk.31	Yeah , 	
+TS3011b.A.dialog-act.vkaraisk.32	w we will see . 	
+TS3011b.B.dialog-act.vkaraisk.17	I don't think it's wireless here . 	
+TS3011b.A.dialog-act.vkaraisk.34	Um it is , yeah . Yeah . 	
+TS3011b.C.dialog-act.vkaraisk.11	It is . 	
+TS3011b.B.dialog-act.vkaraisk.18	Or it is . 	
+TS3011b.C.dialog-act.vkaraisk.12	It is . 	
+TS3011b.B.dialog-act.vkaraisk.19	Yeah ? 	
+TS3011b.B.dialog-act.vkaraisk.20	Okay , great . 	
+TS3011b.D.dialog-act.vkaraisk.4	Uh okay . 	
+TS3011b.A.dialog-act.vkaraisk.35	Um the top goal of this meeting is to reach a decision on the product , on the target group um and and the functions of the remote control , 	
+TS3011b.A.dialog-act.vkaraisk.36	so keep that in mind . Um 	
+TS3011b.A.dialog-act.vkaraisk.37	we have forty minutes . 	
+TS3011b.A.dialog-act.vkaraisk.38	So 	
+TS3011b.A.dialog-act.vkaraisk.39	it's now 	
+TS3011b.A.dialog-act.vkaraisk.40	Yep . Okay . Um 	
+TS3011b.A.dialog-act.vkaraisk.41	the new project requirements , 	
+TS3011b.A.dialog-act.vkaraisk.42	first of all , um we didn't speak about it , 	
+TS3011b.A.dialog-act.vkaraisk.43	but we should not um support teletext in the remote , 	
+TS3011b.A.dialog-act.vkaraisk.44	um because our b um board uh feels that uh teletext is out of date 	
+TS3011b.A.dialog-act.vkaraisk.45	and internet is replacing teletext . 	
+TS3011b.A.dialog-act.vkaraisk.46	So um we are not even going to try to um implement it in our product . 	
+TS3011b.A.dialog-act.vkaraisk.47	It's a board decision . 	
+TS3011b.A.dialog-act.vkaraisk.48	Um the remote control should only be used for television , 	
+TS3011b.A.dialog-act.vkaraisk.49	because it's not uh f uh feasible , 	
+TS3011b.A.dialog-act.vkaraisk.50	it's not uh w 	
+TS3011b.B.dialog-act.vkaraisk.21	Yeah . 	
+TS3011b.A.dialog-act.vkaraisk.51	uh uh we we cannot make it because of the time to market um that we have to deal with . 	
+TS3011b.B.dialog-act.vkaraisk.22	Time , yeah . 	
+TS3011b.A.dialog-act.vkaraisk.52	Uh the third requirement is that we should focus on customers that are younger than uh forty , 	
+TS3011b.A.dialog-act.vkaraisk.53	which is important for you , uh Ruud , and as well for uh Roo . 	
+TS3011b.A.dialog-act.vkaraisk.54	Because the product should um be uh interesting 	
+TS3011b.A.dialog-act.vkaraisk.55	and and uh should be bought by people younger than forty . Um 	
+TS3011b.A.dialog-act.vkaraisk.56	then for Roo , as well uh important , the corporate image should be recognisable in our product . 	
+TS3011b.A.dialog-act.vkaraisk.57	So the colour colours and the slogan um do have to be uh in the product . 	
+TS3011b.B.dialog-act.vkaraisk.23	Yes . 	
+TS3011b.A.dialog-act.vkaraisk.58	Is that clear ? 	
+TS3011b.A.dialog-act.vkaraisk.59	Any questions on these requirements ? 	
+TS3011b.A.dialog-act.vkaraisk.60	No ? 	
+TS3011b.A.dialog-act.vkaraisk.62	Okay . 	
+TS3011b.A.dialog-act.vkaraisk.63	Um the individual presentations , 	
+TS3011b.A.dialog-act.vkaraisk.64	I th 	
+TS3011b.A.dialog-act.vkaraisk.65	um Roo or Sebastian , who of you would like to start ? 	
+TS3011b.B.dialog-act.vkaraisk.25	Yeah , I'll start . 	
+TS3011b.A.dialog-act.vkaraisk.66	Uh uh yeah . Okay , 	
+TS3011b.C.dialog-act.vkaraisk.13	Yes . 	
+TS3011b.A.dialog-act.vkaraisk.67	great . 	
+TS3011b.B.dialog-act.vkaraisk.26	Um Oh , 	
+TS3011b.B.dialog-act.vkaraisk.27	how can I uh 	
+TS3011b.B.dialog-act.vkaraisk.28	Geez , 	
+TS3011b.B.dialog-act.vkaraisk.29	and sli and show . 	
+TS3011b.B.dialog-act.vkaraisk.30	Um Just uh press it . 	
+TS3011b.A.dialog-act.vkaraisk.68		
+TS3011b.B.dialog-act.vkaraisk.31	Uh yes . 	
+TS3011b.B.dialog-act.vkaraisk.32	Alright . Um well 	
+TS3011b.B.dialog-act.vkaraisk.33	w we uh we had discussed this already in the fin in the previous uh discussion . 	
+TS3011b.B.dialog-act.vkaraisk.34	Uh the method of the remote control is just 	
+TS3011b.B.dialog-act.vkaraisk.35	the function of remote control is basically to send messages to the television set . 	
+TS3011b.B.dialog-act.vkaraisk.36	So that was the main uh important thing what a remote control should do . 	
+TS3011b.A.dialog-act.vkaraisk.69	Yeah . 	
+TS3011b.B.dialog-act.vkaraisk.37	Then I found uh two different kind of remote controls , 	
+TS3011b.B.dialog-act.vkaraisk.38	the multi-function uh remote control with many possibilities , but um the lack of the feeling I already mentioned uh in the previous uh discussion . 	
+TS3011b.A.dialog-act.vkaraisk.70	Mm-hmm . 	
+TS3011b.B.dialog-act.vkaraisk.39	And the ease-of-use remote control with uh the less p possibilities but a great feeling in in touching the buttons . 	
+TS3011b.A.dialog-act.vkaraisk.71	Yeah . 	
+TS3011b.B.dialog-act.vkaraisk.40	Um but um yeah . 	
+TS3011b.B.dialog-act.vkaraisk.41	My personal preferences were ease of uh the easy to use remote control , 	
+TS3011b.B.dialog-act.vkaraisk.42	because uh the user-friendliness and uh it can be more trendy in in user design . 	
+TS3011b.B.dialog-act.vkaraisk.43	But um your new goal f was for uh people than less than forty years old . 	
+TS3011b.A.dialog-act.vkaraisk.72	Uh-huh . 	
+TS3011b.B.dialog-act.vkaraisk.44	So maybe um the multi-function can be implemented in uh in our design . 	
+TS3011b.B.dialog-act.vkaraisk.45	But it should b I think it should be a combination , 	
+TS3011b.B.dialog-act.vkaraisk.46	but teletext buttons are not uh in our design . 	
+TS3011b.B.dialog-act.vkaraisk.47	So it should uh take out , well , eight buttons or so . 	
+TS3011b.B.dialog-act.vkaraisk.48	But my in my opinion , the the easy to use R_C_ is uh the best uh possi possibility for us . 	
+TS3011b.A.dialog-act.vkaraisk.73	Okay . 	
+TS3011b.A.dialog-act.vkaraisk.74	Uh Ruud , did you get that ? 	
+TS3011b.D.dialog-act.vkaraisk.5	Yeah , uh b uh most . 	
+TS3011b.B.dialog-act.vkaraisk.49	Yeah . 	
+TS3011b.A.dialog-act.vkaraisk.75	Okay , so 	
+TS3011b.D.dialog-act.vkaraisk.6		
+TS3011b.A.dialog-act.vkaraisk.76	the important thing here is 	
+TS3011b.B.dialog-act.vkaraisk.50	And it's also i indeed uh uh Ruud's uh insight in the in the topic . 	
+TS3011b.D.dialog-act.vkaraisk.7	Oh , 	
+TS3011b.D.dialog-act.vkaraisk.8	user-friendly . 	
+TS3011b.A.dialog-act.vkaraisk.77	In the market , 	
+TS3011b.B.dialog-act.vkaraisk.51	Yeah , 	
+TS3011b.A.dialog-act.vkaraisk.78	yeah . 	
+TS3011b.B.dialog-act.vkaraisk.52	what what does the market want ? 	
+TS3011b.B.dialog-act.vkaraisk.53	I I don't know . 	
+TS3011b.A.dialog-act.vkaraisk.79	Yeah , okay , 	
+TS3011b.A.dialog-act.vkaraisk.80	w we will s we all uh 	
+TS3011b.B.dialog-act.vkaraisk.54	Just for uh for user desi uh user uh friendliness I uh should choose for the the ease of use remote control . 	
+TS3011b.A.dialog-act.vkaraisk.81	Yeah . 	
+TS3011b.A.dialog-act.vkaraisk.82	Okay . 	
+TS3011b.A.dialog-act.vkaraisk.83	Sebastian . 	
+TS3011b.C.dialog-act.vkaraisk.14	Okay . 	
+TS3011b.C.dialog-act.vkaraisk.15	Excuse me . 	
+TS3011b.B.dialog-act.vkaraisk.55	Scusi . 	
+TS3011b.C.dialog-act.vkaraisk.16	Um Okay , 	
+TS3011b.C.dialog-act.vkaraisk.17	it's still the right thing . 	
+TS3011b.C.dialog-act.vkaraisk.18	Okay . Um well , 	
+TS3011b.C.dialog-act.vkaraisk.19	there are some changes in the design requirements , 	
+TS3011b.C.dialog-act.vkaraisk.20	so there are some changes in the method also . 	
+TS3011b.C.dialog-act.vkaraisk.21	Um basically all this device has to do is send messages to a T_V_ set . 	
+TS3011b.B.dialog-act.vkaraisk.56		
+TS3011b.C.dialog-act.vkaraisk.22	And the m most easy way to do this is by uh sending pulses of infrared light to a T_V_ set . 	
+TS3011b.C.dialog-act.vkaraisk.23	Well , 	
+TS3011b.C.dialog-act.vkaraisk.24	I th 	
+TS3011b.C.dialog-act.vkaraisk.25	I tried to uh implement a picture here , 	
+TS3011b.C.dialog-act.vkaraisk.26	but it's hardly readable . 	
+TS3011b.B.dialog-act.vkaraisk.57	Energies and uh 	
+TS3011b.C.dialog-act.vkaraisk.27	Can you see it ? 	
+TS3011b.A.dialog-act.vkaraisk.84	No , it's not visible . 	
+TS3011b.C.dialog-act.vkaraisk.28	No ? 	
+TS3011b.C.dialog-act.vkaraisk.29	Well Um , 	
+TS3011b.C.dialog-act.vkaraisk.30	there's a energy source here . 	
+TS3011b.C.dialog-act.vkaraisk.31	And um basically 	
+TS3011b.C.dialog-act.vkaraisk.32	there 	
+TS3011b.C.dialog-act.vkaraisk.33	it's connected to three things . 	
+TS3011b.C.dialog-act.vkaraisk.34	The user interface connected to a chip , 	
+TS3011b.C.dialog-act.vkaraisk.35	which is connected to the sender , 	
+TS3011b.C.dialog-act.vkaraisk.36	which generates messages using uh infrared light , 	
+TS3011b.C.dialog-act.vkaraisk.37	which are sent to the receiver . 	
+TS3011b.C.dialog-act.vkaraisk.38	That's basically the idea . 	
+TS3011b.C.dialog-act.vkaraisk.39	And there's a little picture , just for your imagination , how a device like this should look or can look . 	
+TS3011b.C.dialog-act.vkaraisk.40	Okay . Um 	
+TS3011b.C.dialog-act.vkaraisk.41	what have I found . 	
+TS3011b.C.dialog-act.vkaraisk.42	Usually these kind of things consist of a battery , infrared diode , buttons , chips , and circuit board . 	
+TS3011b.C.dialog-act.vkaraisk.43	That's all . 	
+TS3011b.C.dialog-act.vkaraisk.44	It's cased together , nothing more than that . 	
+TS3011b.C.dialog-act.vkaraisk.45	It's almost every piece of equipment um every piece of uh every T_V_ set is controlled infrared . 	
+TS3011b.B.dialog-act.vkaraisk.58	Yeah . 	
+TS3011b.C.dialog-act.vkaraisk.46	There are some exceptions , 	
+TS3011b.C.dialog-act.vkaraisk.47	but most of all have uh infrared controls . 	
+TS3011b.C.dialog-act.vkaraisk.48	And uh the more luxury uh remote controls have lithium buttons . 	
+TS3011b.C.dialog-act.vkaraisk.49	And I think that's what we w 	
+TS3011b.B.dialog-act.vkaraisk.59	The glow in the dark uh concept uh we discussed . 	
+TS3011b.C.dialog-act.vkaraisk.50	yes . 	
+TS3011b.C.dialog-act.vkaraisk.51	In the 	
+TS3011b.C.dialog-act.vkaraisk.52	and it's a little more a little bit more fancy also . 	
+TS3011b.C.dialog-act.vkaraisk.53	So maybe we should consider that . 	
+TS3011b.A.dialog-act.vkaraisk.85	Yeah . 	
+TS3011b.A.dialog-act.vkaraisk.86	Okay . 	
+TS3011b.C.dialog-act.vkaraisk.54	Okay . 	
+TS3011b.C.dialog-act.vkaraisk.55	I have a basic scheme of the things uh which are implemented . 	
+TS3011b.C.dialog-act.vkaraisk.56	Um basically this is all there is . 	
+TS3011b.C.dialog-act.vkaraisk.57	There's just one chip . 	
+TS3011b.C.dialog-act.vkaraisk.58	There are a few buttons connected . 	
+TS3011b.C.dialog-act.vkaraisk.59	Uh the buttons are lit . 	
+TS3011b.C.dialog-act.vkaraisk.60	And the whole thing is transmitted by a infrared li diode , 	
+TS3011b.C.dialog-act.vkaraisk.61	and there is not a power source here . 	
+TS3011b.C.dialog-act.vkaraisk.62	So 	
+TS3011b.C.dialog-act.vkaraisk.63	that's basically the total design of this piece of equipment . 	
+TS3011b.C.dialog-act.vkaraisk.64	There's nothing more to it . 	
+TS3011b.A.dialog-act.vkaraisk.87	So it's fairly easy . 	
+TS3011b.C.dialog-act.vkaraisk.65	It's fairly easy . 	
+TS3011b.C.dialog-act.vkaraisk.66	It's been done many times before , 	
+TS3011b.B.dialog-act.vkaraisk.60	Succeed in it also . 	
+TS3011b.A.dialog-act.vkaraisk.88	Okay . 	
+TS3011b.C.dialog-act.vkaraisk.67	and I think we should uh we should c s succeed in in our plan to do this . 	
+TS3011b.D.dialog-act.vkaraisk.9		
+TS3011b.A.dialog-act.vkaraisk.89	Okay , 	
+TS3011b.C.dialog-act.vkaraisk.68	So Okay , so uh 	
+TS3011b.A.dialog-act.vkaraisk.90	good . 	
+TS3011b.C.dialog-act.vkaraisk.69	personally I think we should infra use infrared , 	
+TS3011b.C.dialog-act.vkaraisk.70	because uh otherwise our device cannot uh communicate with uh almost every T_V_ set . 	
+TS3011b.C.dialog-act.vkaraisk.71	So I think that uh should be clear . 	
+TS3011b.A.dialog-act.vkaraisk.91	Okay . 	
+TS3011b.C.dialog-act.vkaraisk.72	Uh another important point is uh we really should use uh energy uh sparse , friendly components . 	
+TS3011b.C.dialog-act.vkaraisk.73	Uh there are specially uh designed um energy-friendly components 	
+TS3011b.C.dialog-act.vkaraisk.74	which consume uh far less power than uh conventional components . 	
+TS3011b.C.dialog-act.vkaraisk.75	And um if we want to use uh a rechargeable design or uh a energy-save design , we should really implement them . 	
+TS3011b.C.dialog-act.vkaraisk.76	Um for cost-effectiveness , we should really use a very low-cost uh circuit board , 	
+TS3011b.C.dialog-act.vkaraisk.77	um because most of the production cost are are in this uh part of the equipment . 	
+TS3011b.A.dialog-act.vkaraisk.92	Okay . 	
+TS3011b.C.dialog-act.vkaraisk.78	And um the money we save on using this we can use uh for elaborate fancy lighting uh techniques , blinking LEDs and all that kind of fancy stuff . 	
+TS3011b.B.dialog-act.vkaraisk.61	And what's the um 	
+TS3011b.C.dialog-act.vkaraisk.79	I think our uh users will really uh will really like that . 	
+TS3011b.B.dialog-act.vkaraisk.62	if we use the LEDs , i does it use much more energy 	
+TS3011b.B.dialog-act.vkaraisk.63	or 	
+TS3011b.C.dialog-act.vkaraisk.80	No , 	
+TS3011b.C.dialog-act.vkaraisk.81	they're p f uh power friendly LEDs also . 	
+TS3011b.B.dialog-act.vkaraisk.64	Okay . 	
+TS3011b.C.dialog-act.vkaraisk.82	So we can use them . 	
+TS3011b.C.dialog-act.vkaraisk.83	So that's no problem . 	
+TS3011b.B.dialog-act.vkaraisk.65	For the same costs , 	
+TS3011b.C.dialog-act.vkaraisk.84	Uh no , they're uh they're a little bit more expensive , 	
+TS3011b.B.dialog-act.vkaraisk.66	it's can be uh in our 	
+TS3011b.C.dialog-act.vkaraisk.85	but by uh um um making 	
+TS3011b.B.dialog-act.vkaraisk.67	Combined with the low-cost circuit board 	
+TS3011b.B.dialog-act.vkaraisk.68	so it's uh 	
+TS3011b.C.dialog-act.vkaraisk.86	We can we can make its I think . 	
+TS3011b.D.dialog-act.vkaraisk.10	Well 	
+TS3011b.D.dialog-act.vkaraisk.11	you could only lit uh the buttons the buttons that are used most . So , the channel switching . 	
+TS3011b.B.dialog-act.vkaraisk.69	Yeah . 	
+TS3011b.A.dialog-act.vkaraisk.93	Yeah . 	
+TS3011b.D.dialog-act.vkaraisk.12	Or 	
+TS3011b.A.dialog-act.vkaraisk.94	Yeah , 	
+TS3011b.A.dialog-act.vkaraisk.95	but but the question is whether um two or four buttons makes uh m makes such a difference in the costs if you already plan to uh include fancy lightning techniques , I guess . 	
+TS3011b.C.dialog-act.vkaraisk.87	Okay . 	
+TS3011b.B.dialog-act.vkaraisk.70	But I think 	
+TS3011b.C.dialog-act.vkaraisk.88	Hmm . 	
+TS3011b.D.dialog-act.vkaraisk.13	Hmm , true . 	
+TS3011b.B.dialog-act.vkaraisk.71	Yeah , 	
+TS3011b.B.dialog-act.vkaraisk.72	I think it's the same as in the cell phone , just light in in the device that that shines on all the buttons , 	
+TS3011b.D.dialog-act.vkaraisk.14		
+TS3011b.B.dialog-act.vkaraisk.73	and not for 	
+TS3011b.C.dialog-act.vkaraisk.89	Yes . Well , 	
+TS3011b.C.dialog-act.vkaraisk.90	it's not one light , 	
+TS3011b.C.dialog-act.vkaraisk.91	it 	
+TS3011b.C.dialog-act.vkaraisk.92	there are more lights in a in a in a mobile device . 	
+TS3011b.B.dialog-act.vkaraisk.74	Yeah , but not for each button one LED , I think . 	
+TS3011b.C.dialog-act.vkaraisk.93	No no no , no . That's right , that's right . 	
+TS3011b.A.dialog-act.vkaraisk.96	Okay . 	
+TS3011b.C.dialog-act.vkaraisk.94	So well , 	
+TS3011b.C.dialog-act.vkaraisk.95	this uh should be it . 	
+TS3011b.A.dialog-act.vkaraisk.99	Okay . 	
+TS3011b.C.dialog-act.vkaraisk.96	Um have a think about it . 	
+TS3011b.A.dialog-act.vkaraisk.97	Yeah . 	
+TS3011b.A.dialog-act.vkaraisk.100	Okay , 	
+TS3011b.D.dialog-act.vkaraisk.15	Oh , mine is already outdated . 	
+TS3011b.A.dialog-act.vkaraisk.101	Ruud . 	
+TS3011b.C.dialog-act.vkaraisk.97		
+TS3011b.A.dialog-act.vkaraisk.102	Okay well , 	
+TS3011b.D.dialog-act.vkaraisk.16	Since uh 	
+TS3011b.A.dialog-act.vkaraisk.103	we ar we are very curio curious to what the market um will feel about such a product . 	
+TS3011b.C.dialog-act.vkaraisk.98		
+TS3011b.A.dialog-act.vkaraisk.104	So any income is welcome . Input . 	
+TS3011b.D.dialog-act.vkaraisk.17	Okay , 	
+TS3011b.D.dialog-act.vkaraisk.18	make 	
+TS3011b.D.dialog-act.vkaraisk.19	Well Uh 	
+TS3011b.D.dialog-act.vkaraisk.20	then I'm sure the target market is uh ten million units . 	
+TS3011b.D.dialog-act.vkaraisk.21	Of of which we should sell about uh forty percent to make the five million . 	
+TS3011b.B.dialog-act.vkaraisk.75	Could you step a little bit more to the right ? 	
+TS3011b.A.dialog-act.vkaraisk.105	Okay . 	
+TS3011b.B.dialog-act.vkaraisk.78	Yeah , 	
+TS3011b.D.dialog-act.vkaraisk.22	But um since uh the other part is uh forty percent of the market , 	
+TS3011b.B.dialog-act.vkaraisk.79	thank you . 	
+TS3011b.D.dialog-act.vkaraisk.23	I uh thought earlier we might want to constrain that portion of the market . 	
+TS3011b.D.dialog-act.vkaraisk.24	But uh since uh the requirements changed , 	
+TS3011b.D.dialog-act.vkaraisk.25	that's uh not a good idea . 	
+TS3011b.C.dialog-act.vkaraisk.99		
+TS3011b.D.dialog-act.vkaraisk.26	Uh well , 	
+TS3011b.D.dialog-act.vkaraisk.27	skip this . 	
+TS3011b.A.dialog-act.vkaraisk.106	Yeah . 	
+TS3011b.C.dialog-act.vkaraisk.100		
+TS3011b.D.dialog-act.vkaraisk.28	Well , 	
+TS3011b.D.dialog-act.vkaraisk.29	it's 	
+TS3011b.D.dialog-act.vkaraisk.30	this till true , of course . That they only use ten percent the buttons . 	
+TS3011b.D.dialog-act.vkaraisk.31	The buttons to zap are used the about uh fifteen hundred times , 	
+TS3011b.D.dialog-act.vkaraisk.32	when uh the power button is only used one time . 	
+TS3011b.D.dialog-act.vkaraisk.33	And the volume button's only four times . 	
+TS3011b.D.dialog-act.vkaraisk.34	So they're obv obviously uh the most important buttons . 	
+TS3011b.D.dialog-act.vkaraisk.35	And uh lots of people complained they kin can't find their remote control . 	
+TS3011b.C.dialog-act.vkaraisk.101	Mm . 	
+TS3011b.D.dialog-act.vkaraisk.36	So we might want to build in a feature to uh support them . Some uh audio signal . Like uh home phones . 	
+TS3011b.A.dialog-act.vkaraisk.107	Okay . 	
+TS3011b.D.dialog-act.vkaraisk.37	Or 	
+TS3011b.A.dialog-act.vkaraisk.108	Well , 	
+TS3011b.A.dialog-act.vkaraisk.109	that's interesting . 	
+TS3011b.C.dialog-act.vkaraisk.102	Or a find a finding function , 	
+TS3011b.B.dialog-act.vkaraisk.80	Yeah . 	
+TS3011b.A.dialog-act.vkaraisk.110	Yeah , 	
+TS3011b.C.dialog-act.vkaraisk.103	you know . 	
+TS3011b.C.dialog-act.vkaraisk.104	That's quite a 	
+TS3011b.A.dialog-act.vkaraisk.111	that's definitely interesting . 	
+TS3011b.C.dialog-act.vkaraisk.105	yes . 	
+TS3011b.A.dialog-act.vkaraisk.112	It uh it separates our product from others uh as well . 	
+TS3011b.B.dialog-act.vkaraisk.81	Sound signal . 	
+TS3011b.D.dialog-act.vkaraisk.38	Yeah . 	
+TS3011b.B.dialog-act.vkaraisk.82	Yeah . 	
+TS3011b.A.dialog-act.vkaraisk.113	Okay , 	
+TS3011b.C.dialog-act.vkaraisk.106	Yes . 	
+TS3011b.A.dialog-act.vkaraisk.114	go on . 	
+TS3011b.D.dialog-act.vkaraisk.39	Well , 	
+TS3011b.D.dialog-act.vkaraisk.40	I just said that . 	
+TS3011b.D.dialog-act.vkaraisk.41	And uh well , 	
+TS3011b.D.dialog-act.vkaraisk.42	this obvious , 	
+TS3011b.D.dialog-act.vkaraisk.43	and he also said it . 	
+TS3011b.A.dialog-act.vkaraisk.115	Okay . So 	
+TS3011b.A.dialog-act.vkaraisk.116	that's what the market tells us . 	
+TS3011b.D.dialog-act.vkaraisk.44	Uh that's about it , yes . 	
+TS3011b.A.dialog-act.vkaraisk.117	Yep . Okay . 	
+TS3011b.B.dialog-act.vkaraisk.83	The volume and uh the zap buttons are the mostly used . 	
+TS3011b.D.dialog-act.vkaraisk.45	Uh mo uh zap buttons most . 	
+TS3011b.B.dialog-act.vkaraisk.84	So 	
+TS3011b.D.dialog-act.vkaraisk.46	Volume , they are uh use a lot . But more than all the other buttons . So 	
+TS3011b.B.dialog-act.vkaraisk.85	Yeah , well 	
+TS3011b.B.dialog-act.vkaraisk.86	it should just have a design The perfect design for those only those buttons . 	
+TS3011b.C.dialog-act.vkaraisk.107	Yes . 	
+TS3011b.B.dialog-act.vkaraisk.87	And first um 	
+TS3011b.C.dialog-act.vkaraisk.108	Yes , we should focus on that , I guess . 	
+TS3011b.B.dialog-act.vkaraisk.88	Yeah . 	
+TS3011b.A.dialog-act.vkaraisk.119	Yep . 	
+TS3011b.C.dialog-act.vkaraisk.109	Well , 	
+TS3011b.C.dialog-act.vkaraisk.110	the technical uh there 	
+TS3011b.C.dialog-act.vkaraisk.111	I think there are no technical difficulties . 	
+TS3011b.C.dialog-act.vkaraisk.112	There's no um elaborate technique uh used in this uh kind of equipment . 	
+TS3011b.C.dialog-act.vkaraisk.113	So um 	
+TS3011b.C.dialog-act.vkaraisk.114	I don't think we have any hiccups there . 	
+TS3011b.C.dialog-act.vkaraisk.115	So we can fully concentrate on developing a product that is really um what the market needs . 	
+TS3011b.C.dialog-act.vkaraisk.116	So maybe it's a good idea to think about these buttons and and uh and a sound signal . 	
+TS3011b.B.dialog-act.vkaraisk.89	Yeah , 	
+TS3011b.B.dialog-act.vkaraisk.90	the sound signal . 	
+TS3011b.B.dialog-act.vkaraisk.91	Just one thing 	
+TS3011b.B.dialog-act.vkaraisk.92	I'm just wondering , the sound signal , from where do you execute th the s sound ? 	
+TS3011b.D.dialog-act.vkaraisk.47	Yeah , that's uh a problem . Yeah . 	
+TS3011b.C.dialog-act.vkaraisk.117	Well 	
+TS3011b.C.dialog-act.vkaraisk.118	Yes . Th that's a bit of that's a problem . 	
+TS3011b.B.dialog-act.vkaraisk.93	Another device is not a solution . 	
+TS3011b.A.dialog-act.vkaraisk.120	Well 	
+TS3011b.A.dialog-act.vkaraisk.121	maybe maybe like clapping in your hands , 	
+TS3011b.C.dialog-act.vkaraisk.119	Usually 	
+TS3011b.B.dialog-act.vkaraisk.94	It should be uh uh 	
+TS3011b.A.dialog-act.vkaraisk.122	like um turning on and off the the the lights . 	
+TS3011b.C.dialog-act.vkaraisk.120	Oh yes . 	
+TS3011b.B.dialog-act.vkaraisk.95	Yeah , 	
+TS3011b.B.dialog-act.vkaraisk.96	but maybe you'll uh get some new technologies for it . 	
+TS3011b.C.dialog-act.vkaraisk.121	Yes . Well , 	
+TS3011b.C.dialog-act.vkaraisk.122	there there are some devices who uh incorporate this technique already . 	
+TS3011b.C.dialog-act.vkaraisk.123	Um there are video sets and um they have a special button , the find the remote control button . 	
+TS3011b.C.dialog-act.vkaraisk.124	You press it 	
+TS3011b.C.dialog-act.vkaraisk.125	and your T_V_ set starts to make a uh kind of weird sound , 	
+TS3011b.C.dialog-act.vkaraisk.126	and your uh remote controls then start to beep . 	
+TS3011b.A.dialog-act.vkaraisk.123	Reports rep respend response to it . 	
+TS3011b.C.dialog-act.vkaraisk.128	And um 	
+TS3011b.B.dialog-act.vkaraisk.99	Yeah , 	
+TS3011b.B.dialog-act.vkaraisk.97	just like uh the phones 	
+TS3011b.C.dialog-act.vkaraisk.127	Yes . Yes , that's it . Yes , same thing . 	
+TS3011b.B.dialog-act.vkaraisk.98	the 	
+TS3011b.D.dialog-act.vkaraisk.48	Yeah . 	
+TS3011b.A.dialog-act.vkaraisk.124	But uh th 	
+TS3011b.B.dialog-act.vkaraisk.100	But but T_V_s don't have all uh uh buttons . Uh 	
+TS3011b.C.dialog-act.vkaraisk.129	No , 	
+TS3011b.C.dialog-act.vkaraisk.130	so we we should use something else . 	
+TS3011b.D.dialog-act.vkaraisk.49	And you 	
+TS3011b.D.dialog-act.vkaraisk.50	Yeah , 	
+TS3011b.A.dialog-act.vkaraisk.125	Yeah , 	
+TS3011b.D.dialog-act.vkaraisk.51	and usually 	
+TS3011b.A.dialog-act.vkaraisk.126	because we do not have a a a a a home um 	
+TS3011b.B.dialog-act.vkaraisk.101	But I believe you will have an 	
+TS3011b.C.dialog-act.vkaraisk.131	We do not control the T_V_ set so well . 	
+TS3011b.D.dialog-act.vkaraisk.52	And even if the T_V_ set would have such a button , uh you would have to walk to your T_V_ , 	
+TS3011b.C.dialog-act.vkaraisk.132	Yes , m yes . 	
+TS3011b.C.dialog-act.vkaraisk.133	S 	
+TS3011b.C.dialog-act.vkaraisk.134	and we b we want to make so it's is easy as possible for our customers , 	
+TS3011b.D.dialog-act.vkaraisk.53	and it's 	
+TS3011b.A.dialog-act.vkaraisk.128	Okay . 	
+TS3011b.C.dialog-act.vkaraisk.135	so we should think about 	
+TS3011b.A.dialog-act.vkaraisk.127	So 	
+TS3011b.A.dialog-act.vkaraisk.129	what about the clapping technique ? 	
+TS3011b.A.dialog-act.vkaraisk.130	Um because you se 	
+TS3011b.B.dialog-act.vkaraisk.102	I'm convinced uh Sebastian will uh find uh one solution for us . 	
+TS3011b.C.dialog-act.vkaraisk.136	It's quite complicated . 	
+TS3011b.C.dialog-act.vkaraisk.137	Well , 	
+TS3011b.C.dialog-act.vkaraisk.138	it's quite complicated . 	
+TS3011b.D.dialog-act.vkaraisk.54	And b 	
+TS3011b.C.dialog-act.vkaraisk.139	Because how can you separate the clapping sound from other sounds . 	
+TS3011b.A.dialog-act.vkaraisk.131	Well , 	
+TS3011b.A.dialog-act.vkaraisk.132	you see it a lot in in light uh lightning uh uh 	
+TS3011b.C.dialog-act.vkaraisk.140	Yes , yes . 	
+TS3011b.C.dialog-act.vkaraisk.141	Well , basically 	
+TS3011b.C.dialog-act.vkaraisk.142	the characteristics uh the characteristics of clapping is just an increase in the volume , the amplitude of the sound , 	
+TS3011b.A.dialog-act.vkaraisk.133	Yeah , a peak . Yeah . 	
+TS3011b.C.dialog-act.vkaraisk.143	which is uh generated a few times within a uh certain period of time . 	
+TS3011b.A.dialog-act.vkaraisk.134	Yeah . 	
+TS3011b.C.dialog-act.vkaraisk.144	But there are many other sounds uh which are exactly the same from the point of view from a remote control . 	
+TS3011b.D.dialog-act.vkaraisk.55	So if if you'd be watching a movie , it would constantly beep . 	
+TS3011b.A.dialog-act.vkaraisk.135	Yeah , that's true . 	
+TS3011b.C.dialog-act.vkaraisk.145	Yes , 	
+TS3011b.D.dialog-act.vkaraisk.56		
+TS3011b.C.dialog-act.vkaraisk.146	so we don't want that . 	
+TS3011b.B.dialog-act.vkaraisk.103	But we can have just uh uh a home stat uh f a base station next to the T_V_ . Just a little antenna or uh something . 	
+TS3011b.C.dialog-act.vkaraisk.147	Maybe we can 	
+TS3011b.C.dialog-act.vkaraisk.148	Something like that . 	
+TS3011b.B.dialog-act.vkaraisk.104	Well 	
+TS3011b.C.dialog-act.vkaraisk.149	Well , 	
+TS3011b.B.dialog-act.vkaraisk.105	if you lost th 	
+TS3011b.C.dialog-act.vkaraisk.150	is there not something f something more easily 	
+TS3011b.A.dialog-act.vkaraisk.136	Well uh 	
+TS3011b.B.dialog-act.vkaraisk.106	I don't think people would bother walking to the T_V_ and press that button because they lost the their remote . 	
+TS3011b.C.dialog-act.vkaraisk.151	Well , 	
+TS3011b.C.dialog-act.vkaraisk.152	I don't think uh . 	
+TS3011b.B.dialog-act.vkaraisk.107	Uh that's just uh 	
+TS3011b.C.dialog-act.vkaraisk.153	No , 	
+TS3011b.C.dialog-act.vkaraisk.154	and y the 	
+TS3011b.C.dialog-act.vkaraisk.155	the most important thing for people is that there's a central point to which they can go and uh b uh perform a a some kind of uh . And then uh the remote control uh reports itself , 	
+TS3011b.A.dialog-act.vkaraisk.137	Yeah . 	
+TS3011b.C.dialog-act.vkaraisk.157	so 	
+TS3011b.C.dialog-act.vkaraisk.158	w we should use have 	
+TS3011b.C.dialog-act.vkaraisk.156	uh we should use something like that . 	
+TS3011b.C.dialog-act.vkaraisk.160	You do not want another device , which can be uh everywhere in the house , which you have to find first before you can find your remote control . 	
+TS3011b.B.dialog-act.vkaraisk.108	just a base station next to the T_V_ is the best possibility . 	
+TS3011b.C.dialog-act.vkaraisk.161	Yes , something like that . 	
+TS3011b.C.dialog-act.vkaraisk.162	But that will be very costly , I think . 	
+TS3011b.C.dialog-act.vkaraisk.163	So that's not a good idea . 	
+TS3011b.A.dialog-act.vkaraisk.138	Yeah , 	
+TS3011b.A.dialog-act.vkaraisk.139	m maybe um w we uh we do agree on on the thing that the remote should have such a function , if it's possible within the costs and all that kind of things . 	
+TS3011b.D.dialog-act.vkaraisk.57	Yeah . 	
+TS3011b.C.dialog-act.vkaraisk.164	Mm-hmm . 	
+TS3011b.A.dialog-act.vkaraisk.140	Um maybe Sebastian should have uh a detailed look later on and um come up with a solution , 	
+TS3011b.C.dialog-act.vkaraisk.165	I will . 	
+TS3011b.B.dialog-act.vkaraisk.109	Yeah . 	
+TS3011b.C.dialog-act.vkaraisk.166	Yes . 	
+TS3011b.A.dialog-act.vkaraisk.141	because that's his his field of expertise . 	
+TS3011b.C.dialog-act.vkaraisk.167	Yes . 	
+TS3011b.C.dialog-act.vkaraisk.168	But um before I do that I w I want to warn you that uh by implementing this kind of a function the technical design will become more complicated 	
+TS3011b.A.dialog-act.vkaraisk.142	Mm-hmm . 	
+TS3011b.C.dialog-act.vkaraisk.169	um and it will become more costly also . 	
+TS3011b.A.dialog-act.vkaraisk.143	Yep . 	
+TS3011b.C.dialog-act.vkaraisk.170	Because there will be additional components which which uh will be used . 	
+TS3011b.C.dialog-act.vkaraisk.171	And there are some implepe imp 	
+TS3011b.B.dialog-act.vkaraisk.110	And do we even uh prefer the sound above the the LEDs , the lightning uh function ? 	
+TS3011b.C.dialog-act.vkaraisk.172	Well , 	
+TS3011b.C.dialog-act.vkaraisk.173	I I think so , 	
+TS3011b.C.dialog-act.vkaraisk.174	because um when you have a p newspaper over your remote control , you cannot see it . 	
+TS3011b.B.dialog-act.vkaraisk.111	It's a unique item uh 	
+TS3011b.C.dialog-act.vkaraisk.175	So 	
+TS3011b.A.dialog-act.vkaraisk.145	Yeah , it's a distinction in the market . 	
+TS3011b.B.dialog-act.vkaraisk.112	It will be an a unique feature of our remote control . 	
+TS3011b.A.dialog-act.vkaraisk.146	It's a different 	
+TS3011b.D.dialog-act.vkaraisk.58	Yeah . 	
+TS3011b.A.dialog-act.vkaraisk.147	exactly . It's an uni an unique feature , 	
+TS3011b.B.dialog-act.vkaraisk.113	Yeah . 	
+TS3011b.A.dialog-act.vkaraisk.148	and um I think um it's worth um uh looking and and probably more i interesting than uh than the lights . 	
+TS3011b.B.dialog-act.vkaraisk.114	And just about uh the user interface , I came up with um an easy remote control and an advanced remote control . 	
+TS3011b.A.dialog-act.vkaraisk.149	Yeah . 	
+TS3011b.B.dialog-act.vkaraisk.115	What should we choose in in design ? 	
+TS3011b.A.dialog-act.vkaraisk.150	Yeah . 	
+TS3011b.A.dialog-act.vkaraisk.151	Well , um 	
+TS3011b.A.dialog-act.vkaraisk.152	according to Ruud , um people do not use um all the extra features very very often . 	
+TS3011b.B.dialog-act.vkaraisk.116	Well , the extra functions . 	
+TS3011b.A.dialog-act.vkaraisk.153	So 	
+TS3011b.D.dialog-act.vkaraisk.59	I have the numbers r I have the numbers right here . 	
+TS3011b.A.dialog-act.vkaraisk.154	Okay . 	
+TS3011b.D.dialog-act.vkaraisk.60	Well , t uh 	
+TS3011b.D.dialog-act.vkaraisk.61	we won't support teletext 	
+TS3011b.D.dialog-act.vkaraisk.62	which which was the third-most the second-most used function . 	
+TS3011b.B.dialog-act.vkaraisk.117	Used option . 	
+TS3011b.A.dialog-act.vkaraisk.155	Okay . 	
+TS3011b.C.dialog-act.vkaraisk.176	Okay . 	
+TS3011b.A.dialog-act.vkaraisk.156	Well , 	
+TS3011b.A.dialog-act.vkaraisk.157	we we do have a wise board , 	
+TS3011b.A.dialog-act.vkaraisk.158	so I'm not questioning that . 	
+TS3011b.D.dialog-act.vkaraisk.63		
+TS3011b.B.dialog-act.vkaraisk.118		
+TS3011b.D.dialog-act.vkaraisk.64	Uh well yeah , 	
+TS3011b.D.dialog-act.vkaraisk.65	channel selection is obviously the most important . 	
+TS3011b.A.dialog-act.vkaraisk.160	Yeah . 	
+TS3011b.A.dialog-act.vkaraisk.159	Okay , so 	
+TS3011b.A.dialog-act.vkaraisk.161	on the relevance scale uh the channel selection , the volume selection and the teletext . 	
+TS3011b.D.dialog-act.vkaraisk.67	So 	
+TS3011b.D.dialog-act.vkaraisk.66	Yeah . Yeah . 	
+TS3011b.A.dialog-act.vkaraisk.162	Well , 	
+TS3011b.A.dialog-act.vkaraisk.163	we skip that . 	
+TS3011b.D.dialog-act.vkaraisk.68	So 	
+TS3011b.B.dialog-act.vkaraisk.119	Well , 	
+TS3011b.A.dialog-act.vkaraisk.164	Okay . 	
+TS3011b.B.dialog-act.vkaraisk.120	so it just th the basic functions . 	
+TS3011b.B.dialog-act.vkaraisk.121	And we don't have to use it for D_V_D_ players uh and all kind of stuff . 	
+TS3011b.C.dialog-act.vkaraisk.177	No , no . 	
+TS3011b.A.dialog-act.vkaraisk.165	No . 	
+TS3011b.B.dialog-act.vkaraisk.122	So 	
+TS3011b.D.dialog-act.vkaraisk.69	Nope . 	
+TS3011b.C.dialog-act.vkaraisk.178	So 	
+TS3011b.C.dialog-act.vkaraisk.179	that's out of the question . 	
+TS3011b.B.dialog-act.vkaraisk.123	Yeah . 	
+TS3011b.A.dialog-act.vkaraisk.166	Yeah . 	
+TS3011b.C.dialog-act.vkaraisk.180	So 	
+TS3011b.B.dialog-act.vkaraisk.124	Just through uh the easy uh design . We can make uh a nice design when when there's not mu uh much buttons in it . 	
+TS3011b.A.dialog-act.vkaraisk.167	Uh uh uh I think we should go for the easier one . 	
+TS3011b.C.dialog-act.vkaraisk.181	I think also . 	
+TS3011b.C.dialog-act.vkaraisk.182	Yes . Well , 	
+TS3011b.B.dialog-act.vkaraisk.125	So 	
+TS3011b.C.dialog-act.vkaraisk.183	we should save costs uh by not implementing a lot of functions 	
+TS3011b.A.dialog-act.vkaraisk.168	No . 	
+TS3011b.C.dialog-act.vkaraisk.184	and uh the money that we can save from that we should use for uh having a nice design and uh thinking about the user interface 	
+TS3011b.A.dialog-act.vkaraisk.169	Yeah . 	
+TS3011b.C.dialog-act.vkaraisk.185	and 	
+TS3011b.A.dialog-act.vkaraisk.170	Okay , 	
+TS3011b.A.dialog-act.vkaraisk.171	Ruud , how do you feel about that ? 	
+TS3011b.A.dialog-act.vkaraisk.172	Uh do you agree , 	
+TS3011b.A.dialog-act.vkaraisk.173	do you think the market would would respond to uh a simple 	
+TS3011b.D.dialog-act.vkaraisk.70	Uh well 	
+TS3011b.D.dialog-act.vkaraisk.71	if we um include other uh innovative functions uh then they uh might , 	
+TS3011b.A.dialog-act.vkaraisk.174	Mm-hmm . 	
+TS3011b.D.dialog-act.vkaraisk.72	'cause young people uh like new features . 	
+TS3011b.A.dialog-act.vkaraisk.175	Mm yeah . 	
+TS3011b.D.dialog-act.vkaraisk.73	So 	
+TS3011b.C.dialog-act.vkaraisk.186	Yeah , that's right . 	
+TS3011b.A.dialog-act.vkaraisk.176	Okay , so 	
+TS3011b.C.dialog-act.vkaraisk.187	Mm . 	
+TS3011b.A.dialog-act.vkaraisk.177	this is is kind of uh 	
+TS3011b.B.dialog-act.vkaraisk.126	Uh just a few buttons , trendy design , nice lightning effects wh and the sound . 	
+TS3011b.C.dialog-act.vkaraisk.188	Okay . 	
+TS3011b.C.dialog-act.vkaraisk.189	Well , 	
+TS3011b.C.dialog-act.vkaraisk.190	is it 	
+TS3011b.C.dialog-act.vkaraisk.191	maybe there's another possibility . 	
+TS3011b.C.dialog-act.vkaraisk.192	You can make it look like an easy s piece of equipment , but it's quite elaborated , 	
+TS3011b.C.dialog-act.vkaraisk.193	uh because it has many functions . 	
+TS3011b.A.dialog-act.vkaraisk.178	Yeah . 	
+TS3011b.C.dialog-act.vkaraisk.194	Maybe it's more important to make the make it look like a very uh friendly , easy to catch piece of equipment , 	
+TS3011b.C.dialog-act.vkaraisk.195	but um nevertheless 	
+TS3011b.A.dialog-act.vkaraisk.179	But but are we not in in the in the manual uh 	
+TS3011b.A.dialog-act.vkaraisk.180	I mean if you have few buttons , no display , um I mean uh I guess it's l it's working with with a shift functions and um one button can uh 	
+TS3011b.C.dialog-act.vkaraisk.196	Mm-hmm . Mm-hmm . 	
+TS3011b.C.dialog-act.vkaraisk.197	Ok like that . 	
+TS3011b.C.dialog-act.vkaraisk.198	Well , 	
+TS3011b.C.dialog-act.vkaraisk.199	I was more thinking about a more elaborate way of controlling , by by these kinds of sticks or something like that . 	
+TS3011b.C.dialog-act.vkaraisk.200	I don't know if if it's user-friendly . 	
+TS3011b.C.dialog-act.vkaraisk.201	That's your field of expertise . 	
+TS3011b.B.dialog-act.vkaraisk.127	Yeah , 	
+TS3011b.A.dialog-act.vkaraisk.181	But but how does how does the remote uh report uh r uh give back to the user w in what state it is ? 	
+TS3011b.B.dialog-act.vkaraisk.128	I don't know yet . 	
+TS3011b.A.dialog-act.vkaraisk.182	Because we do not implement uh a user history . 	
+TS3011b.C.dialog-act.vkaraisk.202	Mm-hmm . 	
+TS3011b.C.dialog-act.vkaraisk.203	There's no , but there's no way to do that , 	
+TS3011b.C.dialog-act.vkaraisk.204	because we cannot implement that kind of the system . 	
+TS3011b.A.dialog-act.vkaraisk.183	I know , but but if we use uh like a stick , for example , um 	
+TS3011b.C.dialog-act.vkaraisk.205	W 	
+TS3011b.C.dialog-act.vkaraisk.206	Mm-hmm . 	
+TS3011b.C.dialog-act.vkaraisk.207	Well , 	
+TS3011b.C.dialog-act.vkaraisk.208	maybe we can use a light for that . 	
+TS3011b.C.dialog-act.vkaraisk.209	When you move the stick to a to a position , maybe uh a light next to it can lit up . 	
+TS3011b.C.dialog-act.vkaraisk.210	So you know I've just uh pushed the button , or I changed the channel or t uh turned up the volume . 	
+TS3011b.C.dialog-act.vkaraisk.211	Something like that . 	
+TS3011b.D.dialog-act.vkaraisk.74	And if you use that stick for volume control and channel uh selection , you have the m two most important functions in one uh button . 	
+TS3011b.A.dialog-act.vkaraisk.185	Yeah . 	
+TS3011b.C.dialog-act.vkaraisk.212	Yes . 	
+TS3011b.A.dialog-act.vkaraisk.186	Uh and we could have other buttons for the for the advanced uh functions . 	
+TS3011b.B.dialog-act.vkaraisk.129	But does it uh I 	
+TS3011b.B.dialog-act.vkaraisk.130	then should n just use uh i instead of the stick , uh like many cell phones , just a round 	
+TS3011b.B.dialog-act.vkaraisk.131	m 	
+TS3011b.B.dialog-act.vkaraisk.132	well , 	
+TS3011b.B.dialog-act.vkaraisk.133	should we just use a 	
+TS3011b.A.dialog-act.vkaraisk.187	Yeah , 	
+TS3011b.A.dialog-act.vkaraisk.188	draw draw it on the board . 	
+TS3011b.B.dialog-act.vkaraisk.134	Um it's already uh 	
+TS3011b.B.dialog-act.vkaraisk.135	oh , we have a blank . 	
+TS3011b.B.dialog-act.vkaraisk.136	Oh . 	
+TS3011b.C.dialog-act.vkaraisk.214	Oh 	
+TS3011b.C.dialog-act.vkaraisk.213	yeah , something like that . 	
+TS3011b.C.dialog-act.vkaraisk.215	It's not really a stick , 	
+TS3011b.B.dialog-act.vkaraisk.138	It's just an easy uh way of of a round button what which can be pushed in four directions . Instead of a stick . 	
+TS3011b.C.dialog-act.vkaraisk.216	but 	
+TS3011b.C.dialog-act.vkaraisk.217	Yes . Yes . 	
+TS3011b.B.dialog-act.vkaraisk.139	A stick is v vulnerab vulnerable when it's falling down 	
+TS3011b.C.dialog-act.vkaraisk.218	Hmm . 	
+TS3011b.A.dialog-act.vkaraisk.189	Yeah , it can break down . 	
+TS3011b.B.dialog-act.vkaraisk.140	or uh 	
+TS3011b.C.dialog-act.vkaraisk.219	Yes , yes . 	
+TS3011b.D.dialog-act.vkaraisk.75	Yeah . 	
+TS3011b.B.dialog-act.vkaraisk.141	just a round uh button should be the trick , I think . 	
+TS3011b.C.dialog-act.vkaraisk.220	And 	
+TS3011b.C.dialog-act.vkaraisk.221	Yes , 	
+TS3011b.C.dialog-act.vkaraisk.222	and this also looks more fancy , I think . 	
+TS3011b.C.dialog-act.vkaraisk.223	I think it it will attract uh more uh uh public , I think . 	
+TS3011b.B.dialog-act.vkaraisk.142	Yeah . 	
+TS3011b.D.dialog-act.vkaraisk.76	A younger uh Huh . 	
+TS3011b.C.dialog-act.vkaraisk.224	But you're the marketing man . 	
+TS3011b.D.dialog-act.vkaraisk.77	And it's also quite easy to use , 	
+TS3011b.D.dialog-act.vkaraisk.78	so it'll it uh attract younger people because well new , 	
+TS3011b.D.dialog-act.vkaraisk.79	and it might attract older people because it's easy to use . 	
+TS3011b.B.dialog-act.vkaraisk.143	Geez . 	
+TS3011b.B.dialog-act.vkaraisk.144	Well , 	
+TS3011b.B.dialog-act.vkaraisk.145	volume and something uh like that . 	
+TS3011b.A.dialog-act.vkaraisk.190	Uh-huh . 	
+TS3011b.C.dialog-act.vkaraisk.225		
+TS3011b.B.dialog-act.vkaraisk.146	The programme up and down . 	
+TS3011b.D.dialog-act.vkaraisk.80		
+TS3011b.A.dialog-act.vkaraisk.191	Okay , yeah . 	
+TS3011b.B.dialog-act.vkaraisk.147	And the vol 	
+TS3011b.B.dialog-act.vkaraisk.148	yeah , 	
+TS3011b.B.dialog-act.vkaraisk.149	the pen doesn't uh really does what I want . 	
+TS3011b.C.dialog-act.vkaraisk.226	Okay , that's good . 	
+TS3011b.A.dialog-act.vkaraisk.192	Okay , 	
+TS3011b.A.dialog-act.vkaraisk.193	but w we still we're still in the question of uh um uh putting in advanced options . 	
+TS3011b.A.dialog-act.vkaraisk.194	Um Ruud just told us um the market is interested in some advanced uh new techniques . 	
+TS3011b.A.dialog-act.vkaraisk.195	Um however , uh keeping it simple is is important for the costs and all all those kind of things . 	
+TS3011b.A.dialog-act.vkaraisk.196	We need to find a balance between uh the advanced techniques and and the user-friendliness . 	
+TS3011b.C.dialog-act.vkaraisk.227	Mm-hmm . 	
+TS3011b.B.dialog-act.vkaraisk.150	But I think our our next step to look at is just that . 	
+TS3011b.B.dialog-act.vkaraisk.151	So I don't think it's um we have something to do . 	
+TS3011b.B.dialog-act.vkaraisk.152	Uh we can't discuss it right now , 	
+TS3011b.B.dialog-act.vkaraisk.153	because n no one of us have has the information to discuss about that , I think . 	
+TS3011b.A.dialog-act.vkaraisk.197	Um well , 	
+TS3011b.A.dialog-act.vkaraisk.198	for 	
+TS3011b.A.dialog-act.vkaraisk.199	we do have to uh decide this this meeting . 	
+TS3011b.B.dialog-act.vkaraisk.154	Yes ? 	
+TS3011b.A.dialog-act.vkaraisk.200	Yeah . 	
+TS3011b.A.dialog-act.vkaraisk.201	We need to um have the uh the user function uh the functions decided and um uh our target audience . 	
+TS3011b.B.dialog-act.vkaraisk.155	Mm-hmm . 	
+TS3011b.C.dialog-act.vkaraisk.228	Okay . 	
+TS3011b.B.dialog-act.vkaraisk.157	'Kay , 	
+TS3011b.C.dialog-act.vkaraisk.229	Okay . 	
+TS3011b.B.dialog-act.vkaraisk.156	but teletext is so uh is just scrapped . 	
+TS3011b.C.dialog-act.vkaraisk.230	Do do you want a list of functions ? Do you want an explicit list ? Uh which uh incorporates all function available on the device ? 	
+TS3011b.A.dialog-act.vkaraisk.202	Um well , 	
+TS3011b.A.dialog-act.vkaraisk.203	I do not want a full 	
+TS3011b.A.dialog-act.vkaraisk.204	uh it's not necessary to to have a full list , 	
+TS3011b.A.dialog-act.vkaraisk.205	but I want um the kind of functions , for example uh th the most important are volume and uh programme selecting . 	
+TS3011b.C.dialog-act.vkaraisk.231	Okay . Okay . 	
+TS3011b.C.dialog-act.vkaraisk.232	Mm-hmm . 	
+TS3011b.B.dialog-act.vkaraisk.158	The ten digits . 	
+TS3011b.A.dialog-act.vkaraisk.206	Well , 	
+TS3011b.A.dialog-act.vkaraisk.207	for example , that that's what we should think about . 	
+TS3011b.A.dialog-act.vkaraisk.208	l 	
+TS3011b.A.dialog-act.vkaraisk.209	how is the remote going to look ? Not not in the user interface , but 	
+TS3011b.B.dialog-act.vkaraisk.159	Oh , 	
+TS3011b.B.dialog-act.vkaraisk.160	and just one function . The the the the programme to programme button , the switch to uh two channels , when you have uh something on channel four and something on channel six , just one button which which can uh change 	
+TS3011b.C.dialog-act.vkaraisk.233	Mm-hmm . 	
+TS3011b.C.dialog-act.vkaraisk.234	Yes . 	
+TS3011b.A.dialog-act.vkaraisk.210	Yeah . 	
+TS3011b.A.dialog-act.vkaraisk.211	A bit of a split mode . 	
+TS3011b.C.dialog-act.vkaraisk.235	Change . 	
+TS3011b.A.dialog-act.vkaraisk.212	Uh l like Yeah . 	
+TS3011b.B.dialog-act.vkaraisk.161	yeah . 	
+TS3011b.C.dialog-act.vkaraisk.236	Yes , yes . 	
+TS3011b.A.dialog-act.vkaraisk.213	Dual channel watch . 	
+TS3011b.C.dialog-act.vkaraisk.237	Yes . 	
+TS3011b.B.dialog-act.vkaraisk.162	Yeah . 	
+TS3011b.A.dialog-act.vkaraisk.214	Okay , well um 	
+TS3011b.A.dialog-act.vkaraisk.215	m maybe I should write that down . 	
+TS3011b.C.dialog-act.vkaraisk.238	Well 	
+TS3011b.B.dialog-act.vkaraisk.163		
+TS3011b.C.dialog-act.vkaraisk.239	you're the secretary . 	
+TS3011b.A.dialog-act.vkaraisk.216	Uh Ruud , um what's your last name ? 	
+TS3011b.D.dialog-act.vkaraisk.81	Mielsen . 	
+TS3011b.A.dialog-act.vkaraisk.217	Mielsen , 	
+TS3011b.A.dialog-act.vkaraisk.218	because I I was writing it down in the last uh 	
+TS3011b.A.dialog-act.vkaraisk.219	Mielsen . 	
+TS3011b.A.dialog-act.vkaraisk.220	Right . Um 	
+TS3011b.A.dialog-act.vkaraisk.221	I put all the minutes I make into the shared folder . 	
+TS3011b.A.dialog-act.vkaraisk.222	So if you want to have a look at it , you know where to find it . Um 	
+TS3011b.C.dialog-act.vkaraisk.240	Mm okay , 	
+TS3011b.B.dialog-act.vkaraisk.166	Alright . 	
+TS3011b.C.dialog-act.vkaraisk.241	but make a s make a sub-folder for it , 	
+TS3011b.C.dialog-act.vkaraisk.242	because it's starting to fill up already . 	
+TS3011b.A.dialog-act.vkaraisk.223	Yeah , 	
+TS3011b.A.dialog-act.vkaraisk.224	that's that's 	
+TS3011b.D.dialog-act.vkaraisk.82	Yeah . 	
+TS3011b.A.dialog-act.vkaraisk.225	if you want to do it , Sebastian . 	
+TS3011b.C.dialog-act.vkaraisk.243	Sure . 	
+TS3011b.B.dialog-act.vkaraisk.167	Our B_S_C_ uh W_ uh 	
+TS3011b.C.dialog-act.vkaraisk.244	. 	
+TS3011b.B.dialog-act.vkaraisk.168		
+TS3011b.A.dialog-act.vkaraisk.226	Okay , um Okay , so so um uh 	
+TS3011b.A.dialog-act.vkaraisk.227	Volume . 	
+TS3011b.A.dialog-act.vkaraisk.228	Programme . 	
+TS3011b.A.dialog-act.vkaraisk.229	Uh dual channel . Uh 	
+TS3011b.C.dialog-act.vkaraisk.245	Yes , that's important . 	
+TS3011b.A.dialog-act.vkaraisk.230	And and do we want um the ten digits ? 	
+TS3011b.B.dialog-act.vkaraisk.169	The ten digits ? 	
+TS3011b.B.dialog-act.vkaraisk.170	Yeah , I believe so . 	
+TS3011b.C.dialog-act.vkaraisk.246	Well , 	
+TS3011b.C.dialog-act.vkaraisk.247	are are you sure ? 	
+TS3011b.D.dialog-act.vkaraisk.83	Well , 	
+TS3011b.D.dialog-act.vkaraisk.84	if you want to go to channel ninety and you have th that button . 	
+TS3011b.C.dialog-act.vkaraisk.248	I'm not so sure . 	
+TS3011b.B.dialog-act.vkaraisk.171	Yeah . 	
+TS3011b.C.dialog-act.vkaraisk.249	Well , 	
+TS3011b.C.dialog-act.vkaraisk.250	that's complicated , 	
+TS3011b.A.dialog-act.vkaraisk.231	Yeah . 	
+TS3011b.C.dialog-act.vkaraisk.251	but is that so relevant ? 	
+TS3011b.C.dialog-act.vkaraisk.252	Because I don't think 	
+TS3011b.C.dialog-act.vkaraisk.253	but you should uh shou you should know that . If it were so . 	
+TS3011b.B.dialog-act.vkaraisk.172	I wouldn't buy it personally . A remote control without the ten digits . 	
+TS3011b.C.dialog-act.vkaraisk.254	Okay , 	
+TS3011b.C.dialog-act.vkaraisk.255	I can imagine when 	
+TS3011b.B.dialog-act.vkaraisk.173	Uh and I think the most 	
+TS3011b.A.dialog-act.vkaraisk.232	I agree actually . 	
+TS3011b.C.dialog-act.vkaraisk.256	I can imagine when you're when you have a satellite decoder and and you have , well , about six hundred channels , I can imagine you want this . 	
+TS3011b.B.dialog-act.vkaraisk.174	Just elder elder people would would buy it , 	
+TS3011b.D.dialog-act.vkaraisk.85	Well 	
+TS3011b.B.dialog-act.vkaraisk.175	but 	
+TS3011b.C.dialog-act.vkaraisk.257	But if you're uh a regular T_V_ user , and you just want uh to watch the the Dutch television networks , well , you can uh you can use uh about ten buttons . That's enough . 	
+TS3011b.A.dialog-act.vkaraisk.233	But we do have thirteen different Dutch channels . 	
+TS3011b.D.dialog-act.vkaraisk.86	But 	
+TS3011b.B.dialog-act.vkaraisk.176	Yep . 	
+TS3011b.D.dialog-act.vkaraisk.87	Yeah , 	
+TS3011b.B.dialog-act.vkaraisk.177	The older people only use five of them . 	
+TS3011b.D.dialog-act.vkaraisk.88	and if if we 	
+TS3011b.C.dialog-act.vkaraisk.258	Well , 	
+TS3011b.C.dialog-act.vkaraisk.259	but how how often do you watch all these channels ? 	
+TS3011b.D.dialog-act.vkaraisk.89	And if we are targeting at the younger audience , they will probably watch more channels than the older people . 	
+TS3011b.A.dialog-act.vkaraisk.234	Often . 	
+TS3011b.D.dialog-act.vkaraisk.90	So 	
+TS3011b.C.dialog-act.vkaraisk.260	No , you're probably right . 	
+TS3011b.B.dialog-act.vkaraisk.178	Yeah . 	
+TS3011b.C.dialog-act.vkaraisk.261	Okay . 	
+TS3011b.C.dialog-act.vkaraisk.262	But I think these uh ten uh buttons look a bit dull . 	
+TS3011b.C.dialog-act.vkaraisk.263	Don't you think ? 	
+TS3011b.A.dialog-act.vkaraisk.235	Well , 	
+TS3011b.A.dialog-act.vkaraisk.236	it depends on the on the on the looks , 	
+TS3011b.C.dialog-act.vkaraisk.266	The design . 	
+TS3011b.A.dialog-act.vkaraisk.237	on the on the 	
+TS3011b.B.dialog-act.vkaraisk.179	On the design . 	
+TS3011b.C.dialog-act.vkaraisk.264	Okay . 	
+TS3011b.C.dialog-act.vkaraisk.265	Well , 	
+TS3011b.C.dialog-act.vkaraisk.267	y 	
+TS3011b.C.dialog-act.vkaraisk.268	then there should be should done be done something specific with it . 	
+TS3011b.D.dialog-act.vkaraisk.91	Well 	
+TS3011b.A.dialog-act.vkaraisk.238	You c you can d make them very fancy 	
+TS3011b.D.dialog-act.vkaraisk.92	And 	
+TS3011b.A.dialog-act.vkaraisk.239	by um 	
+TS3011b.A.dialog-act.vkaraisk.240	I mean Nokia , they have ten digits on their phones 	
+TS3011b.C.dialog-act.vkaraisk.269	Mm-hmm . 	
+TS3011b.A.dialog-act.vkaraisk.241	and it still looks very fancy . 	
+TS3011b.B.dialog-act.vkaraisk.180	Yeah . 	
+TS3011b.A.dialog-act.vkaraisk.242	So I'm I'm I do not agree 	
+TS3011b.C.dialog-act.vkaraisk.270	Okay , 	
+TS3011b.C.dialog-act.vkaraisk.271	so you can experiment by uh with with shape or with size or with colour , that kind of thing . 	
+TS3011b.A.dialog-act.vkaraisk.243	Exactly , exactly . 	
+TS3011b.C.dialog-act.vkaraisk.272	Okay . 	
+TS3011b.D.dialog-act.vkaraisk.93	And um there are some numbers about uh speech recognition here that uh younger people would like it . 	
+TS3011b.D.dialog-act.vkaraisk.94	Uh it might be expensive and uh hard to implement , 	
+TS3011b.D.dialog-act.vkaraisk.95	but it would be a solution uh for 	
+TS3011b.A.dialog-act.vkaraisk.244	Okay , 	
+TS3011b.A.dialog-act.vkaraisk.245	speech . 	
+TS3011b.C.dialog-act.vkaraisk.273	Well , 	
+TS3011b.C.dialog-act.vkaraisk.274	maybe it can be combined with the find the remote control . 	
+TS3011b.B.dialog-act.vkaraisk.181	Yeah . 	
+TS3011b.C.dialog-act.vkaraisk.275	So um 	
+TS3011b.C.dialog-act.vkaraisk.276	when you add uh speech recognition to your remote control , uh it's very easy to change uh the channel . That's one thing . 	
+TS3011b.A.dialog-act.vkaraisk.246	Yeah . 	
+TS3011b.C.dialog-act.vkaraisk.277	And it's very easy uh to find your remote control . 	
+TS3011b.A.dialog-act.vkaraisk.247	To find 	
+TS3011b.A.dialog-act.vkaraisk.248	yeah . 	
+TS3011b.C.dialog-act.vkaraisk.278	So maybe that's a possibility , 	
+TS3011b.C.dialog-act.vkaraisk.279	but I'm afraid it will be a bit costly . 	
+TS3011b.D.dialog-act.vkaraisk.96	Yeah . 	
+TS3011b.C.dialog-act.vkaraisk.280	But maybe when we uh 	
+TS3011b.A.dialog-act.vkaraisk.249	Uh If if we would um drop the ten digits 	
+TS3011b.C.dialog-act.vkaraisk.281	Mm-hmm . 	
+TS3011b.A.dialog-act.vkaraisk.250	but keep the programme and the volume , 	
+TS3011b.A.dialog-act.vkaraisk.251	because maybe people do not always want to use their voice , um 	
+TS3011b.C.dialog-act.vkaraisk.282	Okay . 	
+TS3011b.C.dialog-act.vkaraisk.283	Okay , okay . 	
+TS3011b.D.dialog-act.vkaraisk.97	Especially elder people uh don't like voice recognition . 	
+TS3011b.D.dialog-act.vkaraisk.98	So then we should implement such a but 	
+TS3011b.A.dialog-act.vkaraisk.252	Yeah . 	
+TS3011b.A.dialog-act.vkaraisk.253	But we do focus on younger people . 	
+TS3011b.A.dialog-act.vkaraisk.254	We d it 	
+TS3011b.C.dialog-act.vkaraisk.284	Okay . 	
+TS3011b.D.dialog-act.vkaraisk.99	Yes . 	
+TS3011b.A.dialog-act.vkaraisk.255	it's a board uh decision . 	
+TS3011b.C.dialog-act.vkaraisk.285	Well . 	
+TS3011b.C.dialog-act.vkaraisk.286	I I think it should uh should work , it sh we should manage that . 	
+TS3011b.B.dialog-act.vkaraisk.182	So 	
+TS3011b.B.dialog-act.vkaraisk.183	we have to i to make um a decision between the ten digits or the voice recognition . 	
+TS3011b.A.dialog-act.vkaraisk.256	Okay . 	
+TS3011b.C.dialog-act.vkaraisk.287	Yes . 	
+TS3011b.C.dialog-act.vkaraisk.288	Well , 	
+TS3011b.C.dialog-act.vkaraisk.289	the voice recognition has the main adva has another advantage . 	
+TS3011b.C.dialog-act.vkaraisk.290	It's mas it makes it very easy for us to implement the find uh find the remote control button uh remote control function . 	
+TS3011b.B.dialog-act.vkaraisk.184	Mm-hmm . 	
+TS3011b.C.dialog-act.vkaraisk.291	So that's that's a big advantage , I think . 	
+TS3011b.A.dialog-act.vkaraisk.258	Okay . 	
+TS3011b.A.dialog-act.vkaraisk.259	Okay , g good . 	
+TS3011b.B.dialog-act.vkaraisk.185		
+TS3011b.A.dialog-act.vkaraisk.260	Okay . 	
+TS3011b.C.dialog-act.vkaraisk.292	There's only one disadvantage uh by implementing this . 	
+TS3011b.C.dialog-act.vkaraisk.293	Um the power saving power saving will be a bit more difficult . 	
+TS3011b.C.dialog-act.vkaraisk.294	So we can expect that there will be a less longer life to the batteries . 	
+TS3011b.A.dialog-act.vkaraisk.261	Mm . 	
+TS3011b.C.dialog-act.vkaraisk.295	But maybe can we we can think something smart about it . 	
+TS3011b.A.dialog-act.vkaraisk.262	Yep . 	
+TS3011b.C.dialog-act.vkaraisk.296	There are some uh hybrid hybrid devices which incorporate a solar panel and rechargeable batteries . 	
+TS3011b.A.dialog-act.vkaraisk.263	Okay . 	
+TS3011b.C.dialog-act.vkaraisk.297	So when you just leave the device in a in a light room , it charges itself . 	
+TS3011b.A.dialog-act.vkaraisk.266	But But but can we manage it bu uh for the costs ? 	
+TS3011b.C.dialog-act.vkaraisk.298	You have to do nothing for it . 	
+TS3011b.D.dialog-act.vkaraisk.100	M 	
+TS3011b.B.dialog-act.vkaraisk.186	Twelve dollar fifty . 	
+TS3011b.C.dialog-act.vkaraisk.299	Maybe , maybe not . 	
+TS3011b.A.dialog-act.vkaraisk.267	Because it seems like a very 	
+TS3011b.D.dialog-act.vkaraisk.101	And uh if we if we could inc uh include a c a cradle in which it could recharge , then there wouldn't be uh a big problem . 	
+TS3011b.C.dialog-act.vkaraisk.300	I'll have to find that out . 	
+TS3011b.C.dialog-act.vkaraisk.303	Yes . 	
+TS3011b.C.dialog-act.vkaraisk.304	So 	
+TS3011b.C.dialog-act.vkaraisk.305	No , 	
+TS3011b.C.dialog-act.vkaraisk.306	that's very cheap . 	
+TS3011b.D.dialog-act.vkaraisk.102	'Cause when 	
+TS3011b.A.dialog-act.vkaraisk.268	Is a cradle very cheap ? 	
+TS3011b.C.dialog-act.vkaraisk.307	It's 	
+TS3011b.C.dialog-act.vkaraisk.308	Oh , 	
+TS3011b.C.dialog-act.vkaraisk.309	it's very cheap . 	
+TS3011b.C.dialog-act.vkaraisk.310	That's no problem . 	
+TS3011b.C.dialog-act.vkaraisk.311	It's just a a case with two uh metal contacts . 	
+TS3011b.A.dialog-act.vkaraisk.269	I know , 	
+TS3011b.C.dialog-act.vkaraisk.312	It's 	
+TS3011b.A.dialog-act.vkaraisk.270	b uh but there should be an adapter as well . 	
+TS3011b.C.dialog-act.vkaraisk.313	Yes , 	
+TS3011b.C.dialog-act.vkaraisk.314	but they're they're mass production . 	
+TS3011b.D.dialog-act.vkaraisk.103	Yeah . 	
+TS3011b.C.dialog-act.vkaraisk.315	They're very cheap . 	
+TS3011b.C.dialog-act.vkaraisk.316	So it will cost us p practically nothing . 	
+TS3011b.A.dialog-act.vkaraisk.271	Okay . 	
+TS3011b.A.dialog-act.vkaraisk.272	Okay . 	
+TS3011b.A.dialog-act.vkaraisk.273	We we have uh about ten minutes left this meeting . Um 	
+TS3011b.A.dialog-act.vkaraisk.274	I would like to hear um maybe 	
+TS3011b.A.dialog-act.vkaraisk.275	maybe you all have th uh things not um spoken about , 	
+TS3011b.A.dialog-act.vkaraisk.276	yeah , 	
+TS3011b.A.dialog-act.vkaraisk.277	but that are important . 	
+TS3011b.A.dialog-act.vkaraisk.278	Uh Ruud , you you came up with the voice recognition uh data . 	
+TS3011b.A.dialog-act.vkaraisk.279	Uh are there other things about the market we should know ? 	
+TS3011b.D.dialog-act.vkaraisk.104	Um I think we dealt with the most important information . 	
+TS3011b.D.dialog-act.vkaraisk.105	Just that the younger part of uh the market isn't the forty percent we uh want to sell to . 	
+TS3011b.D.dialog-act.vkaraisk.106	So we we should uh for least a bit uh look at the uh older people . 	
+TS3011b.C.dialog-act.vkaraisk.317		
+TS3011b.D.dialog-act.vkaraisk.107	But with uh buttons like that , which are easy to use , we uh might attract them too . 	
+TS3011b.A.dialog-act.vkaraisk.280	Okay . 	
+TS3011b.D.dialog-act.vkaraisk.108	So I don't think that's a big problem 	
+TS3011b.A.dialog-act.vkaraisk.281	Okay . 	
+TS3011b.C.dialog-act.vkaraisk.318	Yeah . 	
+TS3011b.A.dialog-act.vkaraisk.282	Okay , so 	
+TS3011b.A.dialog-act.vkaraisk.283	although we are focussing on younger people uh to make it uh profitable uh Profitable . We we yeah , we still need to take in account the the bit older people . 	
+TS3011b.D.dialog-act.vkaraisk.109	Yes . Yeah , profitable . 	
+TS3011b.C.dialog-act.vkaraisk.319	Profitable . 	
+TS3011b.D.dialog-act.vkaraisk.110	Yes . 	
+TS3011b.A.dialog-act.vkaraisk.284	Okay . 	
+TS3011b.A.dialog-act.vkaraisk.285	O okay . Um 	
+TS3011b.A.dialog-act.vkaraisk.286	Roo . 	
+TS3011b.B.dialog-act.vkaraisk.187	I have nothing uh nothing to add , I think . 	
+TS3011b.A.dialog-act.vkaraisk.287	Nothing to add . 	
+TS3011b.A.dialog-act.vkaraisk.288	Sebastian ? 	
+TS3011b.C.dialog-act.vkaraisk.320	Um I just want to make a summary of all all things uh spoken and uh the different possibilities . Um 	
+TS3011b.A.dialog-act.vkaraisk.289	Yeah ? Great . 	
+TS3011b.C.dialog-act.vkaraisk.321	so uh basically 	
+TS3011b.C.dialog-act.vkaraisk.322	we've decided to implement a seemingly uh easy design . 	
+TS3011b.C.dialog-act.vkaraisk.323	So 	
+TS3011b.C.dialog-act.vkaraisk.324	on the outside it looks easy , 	
+TS3011b.C.dialog-act.vkaraisk.325	but uh we can make it easy on the inside or elaborate on the inside . 	
+TS3011b.C.dialog-act.vkaraisk.326	So that's one the 	
+TS3011b.C.dialog-act.vkaraisk.327	those are the choices we have to make . 	
+TS3011b.C.dialog-act.vkaraisk.328	But I think there's a big advantage in making it more elaborate by uh implementing uh speech techniques , uh voice recognition , that these kinds of things . 	
+TS3011b.A.dialog-act.vkaraisk.290	Mm-hmm . 	
+TS3011b.A.dialog-act.vkaraisk.291	Yeah . 	
+TS3011b.C.dialog-act.vkaraisk.329	Um it makes it also more uh attractable , I think , to our uh audience . 	
+TS3011b.C.dialog-act.vkaraisk.330	Um there are some advantages and some disadvantages , 	
+TS3011b.C.dialog-act.vkaraisk.331	and the main advantage is that we can implement uh fancy techniques , 	
+TS3011b.C.dialog-act.vkaraisk.332	which uh I think our customers will like . 	
+TS3011b.C.dialog-act.vkaraisk.333	The disadvantage is that there are some concerns about uh the the costs and um the things like uh battery lifetime , energy saving . 	
+TS3011b.A.dialog-act.vkaraisk.292	Yep . 	
+TS3011b.C.dialog-act.vkaraisk.334	Uh another advantage is that the circuit board will become much more easier if we do not do not implement these buttons . 	
+TS3011b.C.dialog-act.vkaraisk.335	If we just add uh uh a chip which does the voice recognition , uh our circuit board will become even more cheap . 	
+TS3011b.C.dialog-act.vkaraisk.336	So that's another 	
+TS3011b.A.dialog-act.vkaraisk.293	Yeah , 	
+TS3011b.A.dialog-act.vkaraisk.294	and that was the main issue , 	
+TS3011b.A.dialog-act.vkaraisk.295	right ? 	
+TS3011b.A.dialog-act.vkaraisk.296	The the board 	
+TS3011b.C.dialog-act.vkaraisk.337	well , 	
+TS3011b.C.dialog-act.vkaraisk.338	it wa it w 	
+TS3011b.C.dialog-act.vkaraisk.339	it was an issue , 	
+TS3011b.C.dialog-act.vkaraisk.340	but we also thought that 	
+TS3011b.C.dialog-act.vkaraisk.341	we already thought we should do it as cheaply as possible . 	
+TS3011b.A.dialog-act.vkaraisk.297	Yeah . 	
+TS3011b.C.dialog-act.vkaraisk.342	And this even uh makes it more cheapy . 	
+TS3011b.B.dialog-act.vkaraisk.188	But the cheaper the ch uh the the chip or th what was it ? 	
+TS3011b.C.dialog-act.vkaraisk.343	Mm-hmm . 	
+TS3011b.A.dialog-act.vkaraisk.298	The board . 	
+TS3011b.B.dialog-act.vkaraisk.189	The circuit board . 	
+TS3011b.C.dialog-act.vkaraisk.344	The circuit board . 	
+TS3011b.B.dialog-act.vkaraisk.190	The fewer buttons you can use on it . 	
+TS3011b.C.dialog-act.vkaraisk.345	The fewer buttons you have , the ch ch the cheaper the circuit board , yes . 	
+TS3011b.A.dialog-act.vkaraisk.299	No , 	
+TS3011b.A.dialog-act.vkaraisk.300	it's th 	
+TS3011b.A.dialog-act.vkaraisk.301	yeah . 	
+TS3011b.B.dialog-act.vkaraisk.191	Yeah , okay . 	
+TS3011b.A.dialog-act.vkaraisk.302	It's the other way around , 	
+TS3011b.A.dialog-act.vkaraisk.303	yeah . 	
+TS3011b.B.dialog-act.vkaraisk.192	Yeah . 	
+TS3011b.C.dialog-act.vkaraisk.346	And it's very cheap uh to incorporate uh uh an integrated circuit , a chip . 	
+TS3011b.C.dialog-act.vkaraisk.347	So that's that's another advantage . 	
+TS3011b.A.dialog-act.vkaraisk.304	It shouldn't be a big issue . 	
+TS3011b.B.dialog-act.vkaraisk.193	Well 	
+TS3011b.B.dialog-act.vkaraisk.194	it 	
+TS3011b.B.dialog-act.vkaraisk.195	then we should just uh take a look at the costs and uh especially for the voice recognition . 	
+TS3011b.C.dialog-act.vkaraisk.348	So 	
+TS3011b.C.dialog-act.vkaraisk.349	Yes , 	
+TS3011b.C.dialog-act.vkaraisk.351	because I don't know 	
+TS3011b.C.dialog-act.vkaraisk.352	Yes . 	
+TS3011b.C.dialog-act.vkaraisk.353	I d 	
+TS3011b.C.dialog-act.vkaraisk.354	I really don't know . 	
+TS3011b.C.dialog-act.vkaraisk.355	So 	
+TS3011b.B.dialog-act.vkaraisk.196	No . 	
+TS3011b.C.dialog-act.vkaraisk.356	It can be costly . 	
+TS3011b.A.dialog-act.vkaraisk.305	Okay . 	
+TS3011b.C.dialog-act.vkaraisk.357	Maybe not . 	
+TS3011b.A.dialog-act.vkaraisk.306	I'm not sure how how we'll f uh determine the costs , 	
+TS3011b.A.dialog-act.vkaraisk.307	I will have a look at it . 	
+TS3011b.A.dialog-act.vkaraisk.308	Maybe you will get some information on that . 	
+TS3011b.C.dialog-act.vkaraisk.358	Yes . 	
+TS3011b.A.dialog-act.vkaraisk.309	Um I'm not sure how how that 	
+TS3011b.C.dialog-act.vkaraisk.359	Yes , 	
+TS3011b.C.dialog-act.vkaraisk.360	I al I 	
+TS3011b.C.dialog-act.vkaraisk.361	I hope my personal coach will uh have a lo uh look at it . 	
+TS3011b.A.dialog-act.vkaraisk.310	Yep . 	
+TS3011b.B.dialog-act.vkaraisk.197		
+TS3011b.A.dialog-act.vkaraisk.311	Okay , great . 	
+TS3011b.A.dialog-act.vkaraisk.312	Um well , 	
+TS3011b.A.dialog-act.vkaraisk.313	I think we're qui quite done . 	
+TS3011b.B.dialog-act.vkaraisk.198	We're done , I think . 	
+TS3011b.A.dialog-act.vkaraisk.314	Um for now we will have the lunch break . 	
+TS3011b.C.dialog-act.vkaraisk.362	How nice . 	
+TS3011b.A.dialog-act.vkaraisk.315	Um I'm don't know how long the break will be , 	
+TS3011b.A.dialog-act.vkaraisk.316	but we'll find out . 	
+TS3011b.B.dialog-act.vkaraisk.199	Me neither . 	
+TS3011b.A.dialog-act.vkaraisk.317	Um then we will have thirty minutes of time to perform our individual work , 	
+TS3011b.A.dialog-act.vkaraisk.318	uh and I'm sure your personal coaches will uh assist you with it . 	
+TS3011b.A.dialog-act.vkaraisk.319	Um I will put the minutes I just made in the project documents folder . 	
+TS3011b.A.dialog-act.vkaraisk.320	If you want to look at it um well , just do . 	
+TS3011b.A.dialog-act.vkaraisk.321	Um the Interface Designer , um I would like to the next meeting I would like to receive the uh components concept . 	
+TS3011b.B.dialog-act.vkaraisk.200	Interface industrial . 	
+TS3011b.A.dialog-act.vkaraisk.322	Uh I'm sorry , 	
+TS3011b.A.dialog-act.vkaraisk.323	yeah , 	
+TS3011b.B.dialog-act.vkaraisk.201	Yeah . 	
+TS3011b.A.dialog-act.vkaraisk.324	I'm sorry . 	
+TS3011b.A.dialog-act.vkaraisk.325	User Interface Designer , uh Roo , I would like to see the user interface c uh concept . 	
+TS3011b.C.dialog-act.vkaraisk.363	Well , 	
+TS3011b.C.dialog-act.vkaraisk.364	we understand . 	
+TS3011b.A.dialog-act.vkaraisk.326	And um 	
+TS3011b.B.dialog-act.vkaraisk.202	Uh the only problem is it that it depends on the divisions the decis uh decisions Sebastian makes . About the voice recognition . 	
+TS3011b.C.dialog-act.vkaraisk.365	Well 	
+TS3011b.A.dialog-act.vkaraisk.327	Well , 	
+TS3011b.A.dialog-act.vkaraisk.328	i it should be easy , 	
+TS3011b.B.dialog-act.vkaraisk.203	Well 	
+TS3011b.A.dialog-act.vkaraisk.329	that's w w what we concluded . 	
+TS3011b.A.dialog-act.vkaraisk.330	It should be an easy interface with not so much buttons . S just a a p a p a volume and a programme one . And um um yeah , some some fancy lights . 	
+TS3011b.C.dialog-act.vkaraisk.366	Mm yes . 	
+TS3011b.B.dialog-act.vkaraisk.204	Yeah . 	
+TS3011b.A.dialog-act.vkaraisk.331	I think that's what we decided . 	
+TS3011b.C.dialog-act.vkaraisk.367	So we drop the voice recognition ? 	
+TS3011b.A.dialog-act.vkaraisk.332	No no no , we didn't 	
+TS3011b.C.dialog-act.vkaraisk.368	Or 	
+TS3011b.C.dialog-act.vkaraisk.369	Oh . 	
+TS3011b.A.dialog-act.vkaraisk.333	but it shouldn't be integrated 	
+TS3011b.A.dialog-act.vkaraisk.334	yeah , 	
+TS3011b.A.dialog-act.vkaraisk.335	it's of course it's user interface , 	
+TS3011b.A.dialog-act.vkaraisk.336	but um i I was talking about really the design of the 	
+TS3011b.C.dialog-act.vkaraisk.370	Okay . 	
+TS3011b.C.dialog-act.vkaraisk.371	Well um 	
+TS3011b.C.dialog-act.vkaraisk.372	do we really have to decide now 	
+TS3011b.C.dialog-act.vkaraisk.373	or can we decide next meeting ? 	
+TS3011b.A.dialog-act.vkaraisk.337	No . 	
+TS3011b.A.dialog-act.vkaraisk.338	We can decide the next meeting . Yep . 	
+TS3011b.C.dialog-act.vkaraisk.374	Okay . 	
+TS3011b.C.dialog-act.vkaraisk.375	Because I'll have some updated info on that uh 	
+TS3011b.A.dialog-act.vkaraisk.339	Yeah . 	
+TS3011b.A.dialog-act.vkaraisk.340	I guess all of you have i updated info . 	
+TS3011b.A.dialog-act.vkaraisk.341	I'm sure the marketing expert will receive uh t uh you will do some trend watching . 	
+TS3011b.B.dialog-act.vkaraisk.205	Yep . 	
+TS3011b.A.dialog-act.vkaraisk.342	And I'm sure the market will um uh uh will change , adapt 	
+TS3011b.D.dialog-act.vkaraisk.111	Hmm . 	
+TS3011b.B.dialog-act.vkaraisk.206	Adapt . 	
+TS3011b.C.dialog-act.vkaraisk.376	Adapt . 	
+TS3011b.D.dialog-act.vkaraisk.112	Left . 	
+TS3011b.D.dialog-act.vkaraisk.113	Hmm . 	
+TS3011b.A.dialog-act.vkaraisk.343	and um so 	
+TS3011b.A.dialog-act.vkaraisk.344	we will see that . 	
+TS3011b.A.dialog-act.vkaraisk.345	Um yeah , 	
+TS3011b.A.dialog-act.vkaraisk.346	that's it for now . 	
+TS3011b.B.dialog-act.vkaraisk.207	That's it . 	
+TS3011b.B.dialog-act.vkaraisk.208	'Kay . 	
+TS3011b.A.dialog-act.vkaraisk.347	Any other questions 	
+TS3011b.A.dialog-act.vkaraisk.348	or can we have the lunch ? 	
+TS3011b.C.dialog-act.vkaraisk.377	We can have the lunch . 	
+TS3011b.D.dialog-act.vkaraisk.114	Yeah . 	
+TS3011b.A.dialog-act.vkaraisk.349	Yeah , okay . 	
+TS3011b.B.dialog-act.vkaraisk.209	I'll take the lunch . 	
+TS3011b.A.dialog-act.vkaraisk.350	Good . 	
+

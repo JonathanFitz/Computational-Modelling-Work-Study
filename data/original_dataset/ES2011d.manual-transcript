@@ -1,0 +1,886 @@
+Observation: ES2011d; Result size: 883; atts: 2
+$d@nite:id	$d	
+ES2011d.A.dialog-act.dharshi.1	'Kay . 	
+ES2011d.A.dialog-act.dharshi.2	Hmm . 	
+ES2011d.A.dialog-act.dharshi.3	Okay everybody . Welcome to the detailed design meeting . 	
+ES2011d.A.dialog-act.dharshi.4	Um 	
+ES2011d.A.dialog-act.dharshi.5	Let's see . 	
+ES2011d.A.dialog-act.dharshi.8	Our agenda . 	
+ES2011d.A.dialog-act.dharshi.9	Last time we discussed the squishy fruitiness of our remote controls and how we might pursue that . 	
+ES2011d.A.dialog-act.dharshi.10	Um and I think looks like we've come up with some ideas . 	
+ES2011d.A.dialog-act.dharshi.11	Um and we also talked about materials we'd use and what kind of chip would be necessary . 	
+ES2011d.A.dialog-act.dharshi.12	Um so for later in the meeting I've done a a spreadsheet of production costs 	
+ES2011d.A.dialog-act.dharshi.13	so we'll take a look at that . 	
+ES2011d.A.dialog-act.dharshi.14	Um and see if it's changed at all from when we last discussed it . 	
+ES2011d.A.dialog-act.dharshi.15	Um so actually I think 	
+ES2011d.A.dialog-act.dharshi.16	Yeah um f 	
+ES2011d.A.dialog-act.dharshi.17	you guys wanna give a prototype presentation of 	
+ES2011d.A.dialog-act.dharshi.7		
+ES2011d.B.dialog-act.dharshi.2	Okay 	
+ES2011d.B.dialog-act.dharshi.3	well um . 	
+ES2011d.B.dialog-act.dharshi.4	So our design looks something like this . 	
+ES2011d.B.dialog-act.dharshi.5	This being the wheel that you use to uh change channels or volume or whatever . 	
+ES2011d.B.dialog-act.dharshi.6	This is a button , serves as the power button if you hold it down , and if you just tap on it I think it brings up the menu . 	
+ES2011d.B.dialog-act.dharshi.7	And uh the base of the remote control , which has a squishy spongy rubbery feel , is interchangeable . 	
+ES2011d.B.dialog-act.dharshi.8	So you can change the colour , according to your to suit your living room or whatever . 	
+ES2011d.B.dialog-act.dharshi.14	And it comes 	
+ES2011d.C.dialog-act.dharshi.2	You could change the vegetable , or fruit . 	
+ES2011d.B.dialog-act.dharshi.15	yeah , I can change the vegetable . 	
+ES2011d.A.dialog-act.dharshi.19	Oh is that broccoli ? 	
+ES2011d.B.dialog-act.dharshi.10	This one's broccoli . 	
+ES2011d.C.dialog-act.dharshi.3	Yeah . 	
+ES2011d.B.dialog-act.dharshi.11	So this snaps off and you can put on whichever one you want . 	
+ES2011d.B.dialog-act.dharshi.12	This is not to scale 'cause it would have the battery inside it . 	
+ES2011d.B.dialog-act.dharshi.16	This is a mango . 	
+ES2011d.B.dialog-act.dharshi.17	The 	
+ES2011d.D.dialog-act.dharshi.1		
+ES2011d.B.dialog-act.dharshi.18	it's trendy fruit , it's not just ordinary fruits . 	
+ES2011d.A.dialog-act.dharshi.6		
+ES2011d.B.dialog-act.dharshi.19	You don't have orange , you have mango . 	
+ES2011d.B.dialog-act.dharshi.20	Um I guess strawberry's not as trendy , but 	
+ES2011d.A.dialog-act.dharshi.20	'S a very bright strawberry . 	
+ES2011d.B.dialog-act.dharshi.21	So we'll come up with a variety of trendy and exciting fruit designs for the remote control . 	
+ES2011d.C.dialog-act.dharshi.1	It's been a l 	
+ES2011d.B.dialog-act.dharshi.22	And then people will be encouraged to buy three or five of them , because they'll need to switch 'em out . 	
+ES2011d.A.dialog-act.dharshi.18		
+ES2011d.C.dialog-act.dharshi.4	It's been a little bit difficult to um make sure that it's hand-holdable , 	
+ES2011d.C.dialog-act.dharshi.5	and that the user can use it , you know , it's not too big . 	
+ES2011d.C.dialog-act.dharshi.6	Uh but we think that this you know , this size will be okay 	
+ES2011d.C.dialog-act.dharshi.7	and we will have to fit the battery case in there somehow . 	
+ES2011d.B.dialog-act.dharshi.13	Mm-hmm . 	
+ES2011d.A.dialog-act.dharshi.21	Oh yeah . 	
+ES2011d.C.dialog-act.dharshi.8	And I guess the only other thing that we really didn't talk about was or design yet actually , would be the um thing the locator . 	
+ES2011d.C.dialog-act.dharshi.9	How how so 	
+ES2011d.B.dialog-act.dharshi.23	Well the locator is just chip that's inside there . 	
+ES2011d.C.dialog-act.dharshi.10	Okay 	
+ES2011d.C.dialog-act.dharshi.11	so that's just 	
+ES2011d.B.dialog-act.dharshi.26	And the beeper's also inside there too somewhere 	
+ES2011d.C.dialog-act.dharshi.12	So you have to have a button on your on your you have to attach the button to the 	
+ES2011d.B.dialog-act.dharshi.27	Yeah 	
+ES2011d.B.dialog-act.dharshi.28	we didn't design that . 	
+ES2011d.C.dialog-act.dharshi.13	Yeah we have that that has yes yet to be designed . 	
+ES2011d.B.dialog-act.dharshi.29	But it would be coordinating with that of course . 	
+ES2011d.C.dialog-act.dharshi.14	Yeah that c hey that that could you know match the handset . 	
+ES2011d.A.dialog-act.dharshi.23	Yeah . 	
+ES2011d.B.dialog-act.dharshi.25	Mm-hmm . 	
+ES2011d.C.dialog-act.dharshi.15	You could have a broccoli , or you could have a mango . 	
+ES2011d.B.dialog-act.dharshi.24		
+ES2011d.A.dialog-act.dharshi.22		
+ES2011d.C.dialog-act.dharshi.16	So . Tada . 	
+ES2011d.A.dialog-act.dharshi.24	Oh . 	
+ES2011d.A.dialog-act.dharshi.25	Um if you wanna look in your project documents folder , there's an Excel spreadsheet . 	
+ES2011d.A.dialog-act.dharshi.26	Um the only one that's in there , production costs . 	
+ES2011d.A.dialog-act.dharshi.27	And if you open it up . 	
+ES2011d.A.dialog-act.dharshi.28	Um I've just stuck the numbers in , 	
+ES2011d.A.dialog-act.dharshi.29	it was a real challenge there . 	
+ES2011d.B.dialog-act.dharshi.30		
+ES2011d.A.dialog-act.dharshi.30	But if I missed anything that we've gone over , or if you see something that has changed 	
+ES2011d.A.dialog-act.dharshi.31	I mean , we decided on batteries , 	
+ES2011d.A.dialog-act.dharshi.32	and the regular chip would be necessary for the more advanced iPod-like button . 	
+ES2011d.A.dialog-act.dharshi.33	Um 	
+ES2011d.A.dialog-act.dharshi.34	I said uncurved or flat . 	
+ES2011d.A.dialog-act.dharshi.35	I think that's what you have there , 	
+ES2011d.A.dialog-act.dharshi.36	is that right ? 	
+ES2011d.A.dialog-act.dharshi.37	For the for the plastic part would be 	
+ES2011d.B.dialog-act.dharshi.31	My impression was that flat meant like like one of those square remotes . 	
+ES2011d.B.dialog-act.dharshi.32	But it's really not very clear , 	
+ES2011d.A.dialog-act.dharshi.38	Oh . Okay . 	
+ES2011d.B.dialog-act.dharshi.33	because you got single curve and double curve and d I dunno what that means . 	
+ES2011d.A.dialog-act.dharshi.39	Right . 	
+ES2011d.B.dialog-act.dharshi.34	One side is curved and then the other side is curved . 	
+ES2011d.A.dialog-act.dharshi.40	Well yeah . 	
+ES2011d.A.dialog-act.dharshi.41	If we're talking about the area just 	
+ES2011d.A.dialog-act.dharshi.42	oh I d 	
+ES2011d.A.dialog-act.dharshi.43	I dunno . 	
+ES2011d.A.dialog-act.dharshi.44	I guess we'd have to contact the company that makes them and see . 	
+ES2011d.B.dialog-act.dharshi.35		
+ES2011d.D.dialog-act.dharshi.2		
+ES2011d.A.dialog-act.dharshi.45	Um so what else ? 	
+ES2011d.A.dialog-act.dharshi.46	There's plastic for that area around the button . 	
+ES2011d.A.dialog-act.dharshi.47	Um and then rubber would be the squishy like thing right ? 	
+ES2011d.B.dialog-act.dharshi.36	Mm-hmm . 	
+ES2011d.A.dialog-act.dharshi.48	Um and lots of special colours actually . 	
+ES2011d.A.dialog-act.dharshi.49	Uh scroll wheel . 	
+ES2011d.A.dialog-act.dharshi.50	Do you see anything that I've missed ? 	
+ES2011d.B.dialog-act.dharshi.37	No 	
+ES2011d.B.dialog-act.dharshi.38	I think that's alright . 	
+ES2011d.A.dialog-act.dharshi.51	Okay so that would make our total of eleven point nine , 	
+ES2011d.A.dialog-act.dharshi.52	which is even less than twelve point five , which means we'd be making even more of a profit . 	
+ES2011d.B.dialog-act.dharshi.39		
+ES2011d.A.dialog-act.dharshi.53	And if we sold a lot of squishy things . 	
+ES2011d.C.dialog-act.dharshi.17	Mm . 	
+ES2011d.A.dialog-act.dharshi.54	Boo yeah . 	
+ES2011d.A.dialog-act.dharshi.56	Okay . 	
+ES2011d.A.dialog-act.dharshi.55	S 	
+ES2011d.A.dialog-act.dharshi.57	So 	
+ES2011d.A.dialog-act.dharshi.58	Mm . 	
+ES2011d.A.dialog-act.dharshi.59	Did y what did you work on ? 	
+ES2011d.A.dialog-act.dharshi.60	The 	
+ES2011d.D.dialog-act.dharshi.3	Um evaluation criteria . 	
+ES2011d.A.dialog-act.dharshi.61	Okay . 	
+ES2011d.A.dialog-act.dharshi.62	Do you wanna 	
+ES2011d.D.dialog-act.dharshi.4	I've got a presentation . 	
+ES2011d.A.dialog-act.dharshi.63	Okay . I think that's 	
+ES2011d.D.dialog-act.dharshi.5	So I need where's the cable ? 	
+ES2011d.D.dialog-act.dharshi.6	Right what happens is we have to um decide whether this this whole this whole project we've been working on actually um meets the standards we were set at the start . 	
+ES2011d.D.dialog-act.dharshi.7	Um . 	
+ES2011d.D.dialog-act.dharshi.8	Right . 	
+ES2011d.D.dialog-act.dharshi.9	This doesn't 	
+ES2011d.D.dialog-act.dharshi.10	okay . 	
+ES2011d.D.dialog-act.dharshi.11	Um the method is we well I've analysed the user requirements and integrated them to the trends found in marketing reports and in our company strategy marketing . 	
+ES2011d.D.dialog-act.dharshi.12	And um the findings were that we need it to look in a certain way , feel in a certain way , 	
+ES2011d.D.dialog-act.dharshi.13	and this is everything's listed down . 	
+ES2011d.D.dialog-act.dharshi.14	Um , look in a certain way , feel in a certain way , it has to be technologically innovative and it has to be easy to use . 	
+ES2011d.D.dialog-act.dharshi.15	These are all things we looked at at the start , 	
+ES2011d.D.dialog-act.dharshi.16	um and criteria that have to be met . 	
+ES2011d.D.dialog-act.dharshi.17	We have to use a table , 	
+ES2011d.D.dialog-act.dharshi.18	I'll show you that later , 	
+ES2011d.D.dialog-act.dharshi.19	together to decide whether it meets the standards . 	
+ES2011d.D.dialog-act.dharshi.20	And we we have therefore in total um We have five we have eleven points according to which this should be evaluated . 	
+ES2011d.D.dialog-act.dharshi.21	And um the cri well basically the findings are the same as the evaluation criteria . 	
+ES2011d.D.dialog-act.dharshi.22	I would like to show you the table we have to use . 	
+ES2011d.D.dialog-act.dharshi.23	Um . 	
+ES2011d.D.dialog-act.dharshi.24	No . 	
+ES2011d.D.dialog-act.dharshi.25	This is the table . 	
+ES2011d.D.dialog-act.dharshi.26	Can you see this here ? 	
+ES2011d.B.dialog-act.dharshi.40	Mm-hmm . 	
+ES2011d.D.dialog-act.dharshi.27	Um so the que the questions I've given you c could you write that down ? 	
+ES2011d.D.dialog-act.dharshi.28	True is one and and false is seven . 	
+ES2011d.D.dialog-act.dharshi.29	And we'll just go through each point together , hopefully . 	
+ES2011d.D.dialog-act.dharshi.30	Um . 	
+ES2011d.D.dialog-act.dharshi.31	I think if each of us gives an opinion then they can be mixed somehow . 	
+ES2011d.D.dialog-act.dharshi.32	I dunno how it works exactly , I haven't been told . 	
+ES2011d.B.dialog-act.dharshi.41		
+ES2011d.C.dialog-act.dharshi.19	Yeah . 	
+ES2011d.C.dialog-act.dharshi.20	Is it possible that we can bring this up on our own 	
+ES2011d.C.dialog-act.dharshi.18		
+ES2011d.D.dialog-act.dharshi.33	Yeah it's in the um it's in the project documents . 	
+ES2011d.C.dialog-act.dharshi.21	Is it meeting three minutes ? 	
+ES2011d.C.dialog-act.dharshi.22	No it's not minutes . 	
+ES2011d.D.dialog-act.dharshi.34	It's called evaluation criteria . 	
+ES2011d.C.dialog-act.dharshi.23	Okay . 	
+ES2011d.D.dialog-act.dharshi.35	And it's under evaluation . 	
+ES2011d.A.dialog-act.dharshi.64	Huh , the PowerPoint one ? 	
+ES2011d.B.dialog-act.dharshi.42	Hmm ? 	
+ES2011d.D.dialog-act.dharshi.36	Yeah . 	
+ES2011d.C.dialog-act.dharshi.24	Okay . Cool . 	
+ES2011d.D.dialog-act.dharshi.37	You've found it all ? 	
+ES2011d.A.dialog-act.dharshi.65	Yeah . 	
+ES2011d.D.dialog-act.dharshi.38	So it was um 	
+ES2011d.D.dialog-act.dharshi.39	Yeah true's one . 	
+ES2011d.C.dialog-act.dharshi.25	True's one and false is seven . 	
+ES2011d.D.dialog-act.dharshi.40	Do you want us to discuss this together or do you want us to do it singly ? 	
+ES2011d.A.dialog-act.dharshi.66	Um we can do it separately and then discuss it 	
+ES2011d.D.dialog-act.dharshi.41		
+ES2011d.D.dialog-act.dharshi.42	Yeah okay . 	
+ES2011d.A.dialog-act.dharshi.67	if if that's what people wanna do . 	
+ES2011d.C.dialog-act.dharshi.26	So it's actually a scale . 	
+ES2011d.A.dialog-act.dharshi.68	Wait , one is true and 	
+ES2011d.D.dialog-act.dharshi.43	Um , 	
+ES2011d.A.dialog-act.dharshi.69	so these are the questions we're answering . 	
+ES2011d.D.dialog-act.dharshi.44	yes 	
+ES2011d.A.dialog-act.dharshi.70	And one is 	
+ES2011d.D.dialog-act.dharshi.46	it's if it's fancy you put one , 	
+ES2011d.A.dialog-act.dharshi.71	One , right okay . 	
+ES2011d.D.dialog-act.dharshi.47	if it's really unfancy it's seven . 	
+ES2011d.A.dialog-act.dharshi.72	If it's somewhere in between you put four . 	
+ES2011d.D.dialog-act.dharshi.48	Yeah , something . 	
+ES2011d.C.dialog-act.dharshi.27	Okay . 	
+ES2011d.A.dialog-act.dharshi.73	Okay . 	
+ES2011d.C.dialog-act.dharshi.28	Does it feel fancy ? 	
+ES2011d.D.dialog-act.dharshi.49		
+ES2011d.B.dialog-act.dharshi.43	Feels like play-dough . 	
+ES2011d.A.dialog-act.dharshi.74		
+ES2011d.C.dialog-act.dharshi.29	No . 	
+ES2011d.D.dialog-act.dharshi.50	They shouldn't really be questions . 	
+ES2011d.D.dialog-act.dharshi.51	Should be more like 	
+ES2011d.D.dialog-act.dharshi.52	Are the batteries easy to insert ? 	
+ES2011d.B.dialog-act.dharshi.45	I'm gonna say yes . 	
+ES2011d.D.dialog-act.dharshi.57	Yes ? Very very true . Okay . 	
+ES2011d.B.dialog-act.dharshi.47	I imagine they're somewhere on the front . 	
+ES2011d.B.dialog-act.dharshi.48	We have a little case that you slip 'em in . 	
+ES2011d.D.dialog-act.dharshi.58	Okay . 	
+ES2011d.A.dialog-act.dharshi.75	Are we just about ready ? 	
+ES2011d.D.dialog-act.dharshi.54	Apparently I'm supposed to use the whiteboard . 	
+ES2011d.D.dialog-act.dharshi.55	Do we 	
+ES2011d.D.dialog-act.dharshi.56	um is it necessary ? 	
+ES2011d.A.dialog-act.dharshi.76	I don't think so . 	
+ES2011d.A.dialog-act.dharshi.77	It's 	
+ES2011d.D.dialog-act.dharshi.59	We'll just do um 	
+ES2011d.A.dialog-act.dharshi.78	yeah the the marker thing kinda stopped working last time we 	
+ES2011d.B.dialog-act.dharshi.44		
+ES2011d.D.dialog-act.dharshi.53		
+ES2011d.C.dialog-act.dharshi.31	Yeah . Okay . 	
+ES2011d.D.dialog-act.dharshi.60	Yeah . Okay . 	
+ES2011d.A.dialog-act.dharshi.79	Our animals will forever be there . 	
+ES2011d.A.dialog-act.dharshi.80	Un unless you feel you need it t to 	
+ES2011d.D.dialog-act.dharshi.61	I don't feel any 	
+ES2011d.A.dialog-act.dharshi.81	okay okay . 	
+ES2011d.B.dialog-act.dharshi.46		
+ES2011d.C.dialog-act.dharshi.30		
+ES2011d.A.dialog-act.dharshi.82	We'll 	
+ES2011d.D.dialog-act.dharshi.62	right um 	
+ES2011d.D.dialog-act.dharshi.63	Right so one point one ? 	
+ES2011d.D.dialog-act.dharshi.64	We'll just go in a circle . 	
+ES2011d.C.dialog-act.dharshi.32	One . 	
+ES2011d.B.dialog-act.dharshi.49	'Kay 	
+ES2011d.B.dialog-act.dharshi.50	Five . 	
+ES2011d.D.dialog-act.dharshi.65	Right . 	
+ES2011d.D.dialog-act.dharshi.66	Ooh I don't know . 	
+ES2011d.B.dialog-act.dharshi.53		
+ES2011d.D.dialog-act.dharshi.68	Right . One ? 	
+ES2011d.B.dialog-act.dharshi.54	Five . 	
+ES2011d.A.dialog-act.dharshi.83	Five . 	
+ES2011d.D.dialog-act.dharshi.69	Five . 	
+ES2011d.A.dialog-act.dharshi.84		
+ES2011d.B.dialog-act.dharshi.52		
+ES2011d.D.dialog-act.dharshi.70	Two . 	
+ES2011d.D.dialog-act.dharshi.71	Okay so do we just add it up and divide it by four ? 	
+ES2011d.D.dialog-act.dharshi.72	Is that what the company does ? 	
+ES2011d.B.dialog-act.dharshi.51		
+ES2011d.A.dialog-act.dharshi.85	I I think we should 	
+ES2011d.B.dialog-act.dharshi.55	It's four if you wanna do that . 	
+ES2011d.A.dialog-act.dharshi.86	Yeah . 	
+ES2011d.D.dialog-act.dharshi.73	Yeah ? 	
+ES2011d.B.dialog-act.dharshi.56	It adds to sixteen , so that's four . 	
+ES2011d.A.dialog-act.dharshi.87	Yeah . 	
+ES2011d.D.dialog-act.dharshi.74	Oh no . It adds to thirteen . One five five two . 	
+ES2011d.B.dialog-act.dharshi.57	Oh I thought she said five . 	
+ES2011d.C.dialog-act.dharshi.33	Hmm . 	
+ES2011d.D.dialog-act.dharshi.75	One five five two is thirteen , over four for now . 	
+ES2011d.D.dialog-act.dharshi.76	I think that's um 	
+ES2011d.D.dialog-act.dharshi.77	next ? 	
+ES2011d.C.dialog-act.dharshi.34	Um three . 	
+ES2011d.B.dialog-act.dharshi.58	Six . 	
+ES2011d.A.dialog-act.dharshi.88	Six . 	
+ES2011d.B.dialog-act.dharshi.59		
+ES2011d.D.dialog-act.dharshi.78	Really ? 	
+ES2011d.C.dialog-act.dharshi.35	Yeah . 	
+ES2011d.D.dialog-act.dharshi.79	Two . 	
+ES2011d.A.dialog-act.dharshi.89	I wasn't cheating I swear . 	
+ES2011d.D.dialog-act.dharshi.80	Uh-oh . 	
+ES2011d.D.dialog-act.dharshi.81	Right . 	
+ES2011d.D.dialog-act.dharshi.82	One point three is 	
+ES2011d.C.dialog-act.dharshi.36	So it's a one was true and seven was false ? 	
+ES2011d.C.dialog-act.dharshi.37	Okay , so you guys really didn't like it ? 	
+ES2011d.B.dialog-act.dharshi.60	Huh ? 	
+ES2011d.A.dialog-act.dharshi.90	Uh . 	
+ES2011d.D.dialog-act.dharshi.83	Yeah . 	
+ES2011d.D.dialog-act.dharshi.84	I really 	
+ES2011d.A.dialog-act.dharshi.91	Oh I thought it was the other way round . 	
+ES2011d.B.dialog-act.dharshi.61	Wait a minute . 	
+ES2011d.B.dialog-act.dharshi.62	I thought it was the other way round too . 	
+ES2011d.D.dialog-act.dharshi.85	Well uh 	
+ES2011d.A.dialog-act.dharshi.92	So we do have about the same thing , we just have it the other way 	
+ES2011d.B.dialog-act.dharshi.63	Sh 	
+ES2011d.B.dialog-act.dharshi.64	Yeah 	
+ES2011d.B.dialog-act.dharshi.65	I I was thinking one means no points , you know , all the way up to the top . 	
+ES2011d.D.dialog-act.dharshi.86	Yeah yeah . 	
+ES2011d.D.dialog-act.dharshi.87	It was one is true and false is seven . 	
+ES2011d.A.dialog-act.dharshi.93		
+ES2011d.D.dialog-act.dharshi.88	I should've kept the table up . 	
+ES2011d.A.dialog-act.dharshi.94	Oh gosh . Okay . Well 	
+ES2011d.B.dialog-act.dharshi.66	I'll just I'll just reverse them all . 	
+ES2011d.B.dialog-act.dharshi.67	It's no problem . 	
+ES2011d.A.dialog-act.dharshi.95	Yeah . 	
+ES2011d.D.dialog-act.dharshi.89	Right , well I'm glad this came out . 	
+ES2011d.A.dialog-act.dharshi.96	Yeah . 	
+ES2011d.B.dialog-act.dharshi.68	I thought you guys hated it . 	
+ES2011d.C.dialog-act.dharshi.38	I was like , why did you guys design it that way if you hated it ? 	
+ES2011d.D.dialog-act.dharshi.90	Yeah . 	
+ES2011d.D.dialog-act.dharshi.91	No . 	
+ES2011d.C.dialog-act.dharshi.39	Yeah . 	
+ES2011d.D.dialog-act.dharshi.92	Oh that's quite funny . 	
+ES2011d.B.dialog-act.dharshi.69	Okay . 	
+ES2011d.D.dialog-act.dharshi.93	Okay . 	
+ES2011d.A.dialog-act.dharshi.98	Yeah . 	
+ES2011d.D.dialog-act.dharshi.94	Okay . So , starting again , one point one ? 	
+ES2011d.C.dialog-act.dharshi.40	One . 	
+ES2011d.B.dialog-act.dharshi.70	Say two . 	
+ES2011d.A.dialog-act.dharshi.99	Three . 	
+ES2011d.D.dialog-act.dharshi.95	Two . 	
+ES2011d.D.dialog-act.dharshi.96	Okay , one point two ? 	
+ES2011d.C.dialog-act.dharshi.41	Uh three . 	
+ES2011d.B.dialog-act.dharshi.71	Two . 	
+ES2011d.A.dialog-act.dharshi.100	Two . 	
+ES2011d.D.dialog-act.dharshi.97	Two . 	
+ES2011d.D.dialog-act.dharshi.98	Okay . Um , one point three ? 	
+ES2011d.C.dialog-act.dharshi.42	One . 	
+ES2011d.A.dialog-act.dharshi.101	One . 	
+ES2011d.B.dialog-act.dharshi.72	One . 	
+ES2011d.D.dialog-act.dharshi.99	Ha . 	
+ES2011d.D.dialog-act.dharshi.100	Two point one ? 	
+ES2011d.C.dialog-act.dharshi.43	Uh two . 	
+ES2011d.A.dialog-act.dharshi.102	Two . 	
+ES2011d.B.dialog-act.dharshi.73	Uh two . 	
+ES2011d.A.dialog-act.dharshi.103	Two point I think I missed two . 	
+ES2011d.A.dialog-act.dharshi.104	Wait , is that two point one ? 	
+ES2011d.B.dialog-act.dharshi.74	Yeah I put it down as one point four for some reason . 	
+ES2011d.D.dialog-act.dharshi.101	Yeah . 	
+ES2011d.A.dialog-act.dharshi.105	One point four , one point five . Okay right 	
+ES2011d.D.dialog-act.dharshi.102	Oh dear , 	
+ES2011d.D.dialog-act.dharshi.103	okay . Sorry . 	
+ES2011d.A.dialog-act.dharshi.106	that's I have two of them . 	
+ES2011d.B.dialog-act.dharshi.75	Mine has all kinds of problems . 	
+ES2011d.D.dialog-act.dharshi.104	Two and one . 	
+ES2011d.D.dialog-act.dharshi.105	Sorry about that . 	
+ES2011d.C.dialog-act.dharshi.44		
+ES2011d.D.dialog-act.dharshi.106	T two point two , which is one point five . 	
+ES2011d.A.dialog-act.dharshi.107	One . 	
+ES2011d.B.dialog-act.dharshi.76	Uh three . 	
+ES2011d.B.dialog-act.dharshi.77	Wait why did I put three ? 	
+ES2011d.C.dialog-act.dharshi.45	Uh one . 	
+ES2011d.B.dialog-act.dharshi.78	I meant one on mine too . 	
+ES2011d.D.dialog-act.dharshi.107	Okay . 	
+ES2011d.D.dialog-act.dharshi.108	Three point one . 	
+ES2011d.D.dialog-act.dharshi.109	Is that correct on my slide ? 	
+ES2011d.A.dialog-act.dharshi.108	Yeah . Yeah . 	
+ES2011d.C.dialog-act.dharshi.46	Yeah . 	
+ES2011d.D.dialog-act.dharshi.110	Yeah ? 	
+ES2011d.C.dialog-act.dharshi.47	Uh one . 	
+ES2011d.B.dialog-act.dharshi.79	Three point one . 	
+ES2011d.B.dialog-act.dharshi.80	I have four . 	
+ES2011d.A.dialog-act.dharshi.109	Three . 	
+ES2011d.D.dialog-act.dharshi.111	One , four , three , three , 	
+ES2011d.D.dialog-act.dharshi.112	three point two ? 	
+ES2011d.B.dialog-act.dharshi.81	Three . 	
+ES2011d.A.dialog-act.dharshi.110	Three . 	
+ES2011d.C.dialog-act.dharshi.48	Uh . One . 	
+ES2011d.D.dialog-act.dharshi.113	Three point three . 	
+ES2011d.C.dialog-act.dharshi.49	One . 	
+ES2011d.B.dialog-act.dharshi.82	One . 	
+ES2011d.A.dialog-act.dharshi.111	Two . 	
+ES2011d.D.dialog-act.dharshi.114	Four point one ? 	
+ES2011d.C.dialog-act.dharshi.50	One . 	
+ES2011d.B.dialog-act.dharshi.83	Two . 	
+ES2011d.A.dialog-act.dharshi.112	Five . 	
+ES2011d.D.dialog-act.dharshi.115	Two . 	
+ES2011d.D.dialog-act.dharshi.116	Four point two . 	
+ES2011d.C.dialog-act.dharshi.51	Two . 	
+ES2011d.B.dialog-act.dharshi.84	Three . 	
+ES2011d.A.dialog-act.dharshi.113	Four . 	
+ES2011d.D.dialog-act.dharshi.117	Two 	
+ES2011d.D.dialog-act.dharshi.118	and four point three . 	
+ES2011d.B.dialog-act.dharshi.85	Two . 	
+ES2011d.D.dialog-act.dharshi.119	One , two . 	
+ES2011d.C.dialog-act.dharshi.52	One . 	
+ES2011d.A.dialog-act.dharshi.114	Two . 	
+ES2011d.D.dialog-act.dharshi.120	Right so I put one on that . 	
+ES2011d.B.dialog-act.dharshi.86		
+ES2011d.D.dialog-act.dharshi.121	Okay I'll um I'll just do the calculations now 	
+ES2011d.D.dialog-act.dharshi.122	if you want to continue . 	
+ES2011d.A.dialog-act.dharshi.115	Okay . Um 	
+ES2011d.D.dialog-act.dharshi.123	Or is it tedious ? 	
+ES2011d.D.dialog-act.dharshi.124	I'm I'm sorry this was so tedious for everyone . 	
+ES2011d.A.dialog-act.dharshi.116	No no that's um 	
+ES2011d.D.dialog-act.dharshi.125	I didn't know how else to do it . 	
+ES2011d.A.dialog-act.dharshi.117	I think we should look at the ones that like where s where people said four , where um it looks like we might wanna discuss changing an aspect of the remote . 	
+ES2011d.D.dialog-act.dharshi.126	Okay . 	
+ES2011d.D.dialog-act.dharshi.127	Well the worst ones were three point one . 	
+ES2011d.B.dialog-act.dharshi.87	Mm-hmm . 	
+ES2011d.D.dialog-act.dharshi.128	Do 	
+ES2011d.D.dialog-act.dharshi.129	does every ones have the slide ? 	
+ES2011d.D.dialog-act.dharshi.130	Three point one . 	
+ES2011d.A.dialog-act.dharshi.118	The 	
+ES2011d.A.dialog-act.dharshi.119	that was material . 	
+ES2011d.D.dialog-act.dharshi.131	Slide show . 	
+ES2011d.D.dialog-act.dharshi.132	Material technologically innovative , 	
+ES2011d.D.dialog-act.dharshi.133	okay . Um , 	
+ES2011d.A.dialog-act.dharshi.120	Mm . 	
+ES2011d.D.dialog-act.dharshi.134	do you want to change it ? 	
+ES2011d.D.dialog-act.dharshi.135	What are the suggestions ? 	
+ES2011d.D.dialog-act.dharshi.136	I don't know , 	
+ES2011d.D.dialog-act.dharshi.137	anyone ? 	
+ES2011d.A.dialog-act.dharshi.121	Um 	
+ES2011d.C.dialog-act.dharshi.53	Which one is that again sorry ? 	
+ES2011d.C.dialog-act.dharshi.54	Three point one ? 	
+ES2011d.A.dialog-act.dharshi.122	Mm-hmm . 	
+ES2011d.D.dialog-act.dharshi.138	Yeah that it's three point one was not that good . 	
+ES2011d.D.dialog-act.dharshi.139	Four point one . 	
+ES2011d.A.dialog-act.dharshi.124	Does the shape 	
+ES2011d.D.dialog-act.dharshi.141	The shape . 	
+ES2011d.C.dialog-act.dharshi.55	I think 	
+ES2011d.D.dialog-act.dharshi.142	Four point two ? 	
+ES2011d.A.dialog-act.dharshi.126	See I'm having I'm having trouble imagining 	
+ES2011d.A.dialog-act.dharshi.127	the 	
+ES2011d.A.dialog-act.dharshi.128	is it uh gonna be the size , like the the controller ? 	
+ES2011d.A.dialog-act.dharshi.129	It 	
+ES2011d.B.dialog-act.dharshi.89	I think the wheel would probably be mm . 	
+ES2011d.A.dialog-act.dharshi.130	or bigger ? 	
+ES2011d.A.dialog-act.dharshi.125	Because 	
+ES2011d.C.dialog-act.dharshi.56	What if we just smash all the vegetables down flat ? 	
+ES2011d.B.dialog-act.dharshi.88		
+ES2011d.A.dialog-act.dharshi.123		
+ES2011d.D.dialog-act.dharshi.140		
+ES2011d.C.dialog-act.dharshi.57	And like then it you could hold it in your hand better . 	
+ES2011d.B.dialog-act.dharshi.90	I think the base would definitely be larger , 	
+ES2011d.B.dialog-act.dharshi.91	'cause some of these are not as easy to hold . 	
+ES2011d.B.dialog-act.dharshi.92	They're kinda smallish . 	
+ES2011d.A.dialog-act.dharshi.131	Yeah . 	
+ES2011d.A.dialog-act.dharshi.132	No but I imagine even if it was bigger , like if it's round and it's big then you you can't get 	
+ES2011d.C.dialog-act.dharshi.58	Yeah . 	
+ES2011d.A.dialog-act.dharshi.133	that's why remote controls are long because you have that thumb kind of 	
+ES2011d.C.dialog-act.dharshi.59	The flat one . Yeah . 	
+ES2011d.B.dialog-act.dharshi.94	Yeah . 	
+ES2011d.A.dialog-act.dharshi.134	so c they could all be bananas and cucumbers . 	
+ES2011d.B.dialog-act.dharshi.93		
+ES2011d.C.dialog-act.dharshi.62	Yeah . 	
+ES2011d.A.dialog-act.dharshi.135	Um but I don't s 	
+ES2011d.A.dialog-act.dharshi.136	I I personally don't think this is comfortable to to sit there , like it's an awkward position . 	
+ES2011d.C.dialog-act.dharshi.60	I didn't 	
+ES2011d.C.dialog-act.dharshi.61	yeah . 	
+ES2011d.C.dialog-act.dharshi.63	But like if if you just squash them flat like and you made it flat 	
+ES2011d.B.dialog-act.dharshi.96	Well if they're that s uh stress ball stuff they would be pretty squishable . 	
+ES2011d.C.dialog-act.dharshi.64	But it's still too big I think , in your hand . Yeah . 	
+ES2011d.B.dialog-act.dharshi.97	Mm . 	
+ES2011d.A.dialog-act.dharshi.138	Yeah . 	
+ES2011d.A.dialog-act.dharshi.139	And would it even resemble fruit that way ? 	
+ES2011d.B.dialog-act.dharshi.98		
+ES2011d.A.dialog-act.dharshi.140	I mean 	
+ES2011d.C.dialog-act.dharshi.66	Yeah like certain ones you'd have to limit the fruit selection , 	
+ES2011d.A.dialog-act.dharshi.141	Yeah . 	
+ES2011d.C.dialog-act.dharshi.67	like you could probably do a strawberry still . 	
+ES2011d.A.dialog-act.dharshi.142	Yeah . 	
+ES2011d.C.dialog-act.dharshi.68	I think the broccoli would be out . 	
+ES2011d.A.dialog-act.dharshi.137		
+ES2011d.B.dialog-act.dharshi.95		
+ES2011d.D.dialog-act.dharshi.143		
+ES2011d.C.dialog-act.dharshi.69	You could do , 	
+ES2011d.C.dialog-act.dharshi.70	although the broccoli is quite comfortable , I have to say , 	
+ES2011d.C.dialog-act.dharshi.71	like sorta like a joystick . 	
+ES2011d.A.dialog-act.dharshi.143	Yeah that I I when you were holding that before , it actually looked yeah . 	
+ES2011d.D.dialog-act.dharshi.144	Yeah . That looked really good . 	
+ES2011d.C.dialog-act.dharshi.72	I don't know . So 	
+ES2011d.B.dialog-act.dharshi.99		
+ES2011d.D.dialog-act.dharshi.145	Are there any fruits that look like broccoli , no ? 	
+ES2011d.C.dialog-act.dharshi.73	Uh . 	
+ES2011d.B.dialog-act.dharshi.100	Not that I can think of . 	
+ES2011d.B.dialog-act.dharshi.101	Rhubarb . 	
+ES2011d.A.dialog-act.dharshi.144		
+ES2011d.D.dialog-act.dharshi.146	I think that broccoli is my favourite actually . 	
+ES2011d.C.dialog-act.dharshi.74	Rhubarb . 	
+ES2011d.C.dialog-act.dharshi.75	These obscure fruits . 	
+ES2011d.B.dialog-act.dharshi.102		
+ES2011d.A.dialog-act.dharshi.145	Yeah . 	
+ES2011d.D.dialog-act.dharshi.147	Uh despite the 	
+ES2011d.C.dialog-act.dharshi.76	I think we needn't 	
+ES2011d.A.dialog-act.dharshi.146	What if um the it was just patterns on like 	
+ES2011d.A.dialog-act.dharshi.147	we we chose the shape or the sh shape could be whatever we wanted and then it would just be like a design on the rubber . 	
+ES2011d.C.dialog-act.dharshi.77	Huh ? 	
+ES2011d.A.dialog-act.dharshi.148	You know like like just a printed yeah or coloured yeah . 	
+ES2011d.C.dialog-act.dharshi.78	Oh okay . 	
+ES2011d.B.dialog-act.dharshi.103	So it's just colour , and not necessarily the shape of a strawberry . 	
+ES2011d.C.dialog-act.dharshi.79	Yeah . That could work . 	
+ES2011d.D.dialog-act.dharshi.148	Yeah . 	
+ES2011d.A.dialog-act.dharshi.149	Or I mean we could even have fruit like around 	
+ES2011d.C.dialog-act.dharshi.80	Yeah . 	
+ES2011d.A.dialog-act.dharshi.150	I mean 	
+ES2011d.C.dialog-act.dharshi.81	Yeah . I dunno . 	
+ES2011d.A.dialog-act.dharshi.152	But if we if we need 	
+ES2011d.D.dialog-act.dharshi.152	Yeah 	
+ES2011d.D.dialog-act.dharshi.153	and just have the colour match or something . 	
+ES2011d.A.dialog-act.dharshi.153	yeah . 	
+ES2011d.A.dialog-act.dharshi.155	And if we wanna incorporate the fruit thing somehow , 	
+ES2011d.A.dialog-act.dharshi.156	there might be 	
+ES2011d.C.dialog-act.dharshi.82		
+ES2011d.B.dialog-act.dharshi.104		
+ES2011d.D.dialog-act.dharshi.149		
+ES2011d.A.dialog-act.dharshi.157	I mean if it if it in if it uh conflicts with the comfort of actually holdi holding the 	
+ES2011d.C.dialog-act.dharshi.83	Yeah . 'Cause yeah no-one wants to hold a remote that's uncomfortable obviously . 	
+ES2011d.B.dialog-act.dharshi.105		
+ES2011d.A.dialog-act.dharshi.151	Mm . 	
+ES2011d.D.dialog-act.dharshi.150	Mm . 	
+ES2011d.C.dialog-act.dharshi.84	Or like 	
+ES2011d.C.dialog-act.dharshi.85	I dunno , 	
+ES2011d.D.dialog-act.dharshi.154		
+ES2011d.C.dialog-act.dharshi.86	some of 'em you can kind of think see as like 	
+ES2011d.C.dialog-act.dharshi.87	like you could if it was only this you know , if it was shaped like that , and it just had that . 	
+ES2011d.C.dialog-act.dharshi.88	But you see the problem is you have to attach that , and this has to be detachable . 	
+ES2011d.A.dialog-act.dharshi.158	Yeah . 	
+ES2011d.A.dialog-act.dharshi.159	Yeah . 	
+ES2011d.C.dialog-act.dharshi.89	So like maybe that's just too big 	
+ES2011d.A.dialog-act.dharshi.160	Well see th the reason the broccoli works is you can kinda hold it like that , 	
+ES2011d.C.dialog-act.dharshi.90	because 	
+ES2011d.C.dialog-act.dharshi.91	Yeah it's sorta like a joystick . 	
+ES2011d.A.dialog-act.dharshi.161	which is a nice kind of 	
+ES2011d.D.dialog-act.dharshi.155	Yeah . 	
+ES2011d.A.dialog-act.dharshi.162	yeah . 	
+ES2011d.A.dialog-act.dharshi.163	But 	
+ES2011d.C.dialog-act.dharshi.93	I dunno . 	
+ES2011d.C.dialog-act.dharshi.94	I guess 	
+ES2011d.A.dialog-act.dharshi.164	I mean is there some way we could make it this kind of shape ? 	
+ES2011d.A.dialog-act.dharshi.165	'Cause like kind of 	
+ES2011d.B.dialog-act.dharshi.106	We could make it that shape but just have different colours , and call 'em the different fruits . 	
+ES2011d.A.dialog-act.dharshi.167	Yeah , yeah . 	
+ES2011d.C.dialog-act.dharshi.96	Yeah . 	
+ES2011d.D.dialog-act.dharshi.156	Yeah . 	
+ES2011d.A.dialog-act.dharshi.166	Or like even 	
+ES2011d.C.dialog-act.dharshi.95	Dif 	
+ES2011d.B.dialog-act.dharshi.107	We went with shape because we were having fun with the play-dough . 	
+ES2011d.A.dialog-act.dharshi.169	Or even like Yeah like you said , like a joystick like that . 	
+ES2011d.C.dialog-act.dharshi.97	Yeah . 	
+ES2011d.A.dialog-act.dharshi.170	You know ? 	
+ES2011d.C.dialog-act.dharshi.98	Yeah . 	
+ES2011d.C.dialog-act.dharshi.99	Like uh we could do 	
+ES2011d.C.dialog-act.dharshi.100	I'm trying to think of other sha like fruits that are oddly shaped . 	
+ES2011d.A.dialog-act.dharshi.171	'Cause that , I think 	
+ES2011d.A.dialog-act.dharshi.172	I mean that fits the whole round iPod idea . 	
+ES2011d.C.dialog-act.dharshi.102	Yeah . 	
+ES2011d.B.dialog-act.dharshi.108	Mm-hmm . 	
+ES2011d.A.dialog-act.dharshi.173	And you still have the comfort of holding it like that . 	
+ES2011d.D.dialog-act.dharshi.157	Yeah . 	
+ES2011d.C.dialog-act.dharshi.101	Mm . 	
+ES2011d.A.dialog-act.dharshi.174	And you could like if it's like this , you could put fruit designs and stuff on that part . 	
+ES2011d.B.dialog-act.dharshi.109		
+ES2011d.C.dialog-act.dharshi.103	Yeah . Yeah . 	
+ES2011d.C.dialog-act.dharshi.104	Alright . 	
+ES2011d.A.dialog-act.dharshi.175	But I mean it 	
+ES2011d.A.dialog-act.dharshi.176	do we have any other ideas about that ? 	
+ES2011d.D.dialog-act.dharshi.158	Um 	
+ES2011d.C.dialog-act.dharshi.105	We could tr 	
+ES2011d.C.dialog-act.dharshi.106	I don't know . 	
+ES2011d.D.dialog-act.dharshi.159	Think the critical ones came out to be yeah that one . . 	
+ES2011d.D.dialog-act.dharshi.160	Batteries easy to insert for some reason , 	
+ES2011d.B.dialog-act.dharshi.110		
+ES2011d.D.dialog-act.dharshi.161	which can be easily 	
+ES2011d.D.dialog-act.dharshi.162	I think that's not a problem any more . 	
+ES2011d.A.dialog-act.dharshi.177	The batteries are going in the back ? 	
+ES2011d.B.dialog-act.dharshi.111	That 	
+ES2011d.B.dialog-act.dharshi.112	everyone gave that a one or a two . 	
+ES2011d.B.dialog-act.dharshi.113	Yeah they'd probably be either on the front or the side of the remote . 	
+ES2011d.D.dialog-act.dharshi.163	No . 	
+ES2011d.A.dialog-act.dharshi.178	The reason I I ga I didn't give it a one 	
+ES2011d.A.dialog-act.dharshi.179	I think I gave it a three because I thought you'd have to like unc clip 	
+ES2011d.B.dialog-act.dharshi.114	No I imagine there'd be sort of a hatch door , 	
+ES2011d.A.dialog-act.dharshi.180	no you could 	
+ES2011d.A.dialog-act.dharshi.181	Just like any other one . 	
+ES2011d.B.dialog-act.dharshi.115	yeah um like on a normal remote . 	
+ES2011d.A.dialog-act.dharshi.182	Okay . Yeah . 	
+ES2011d.A.dialog-act.dharshi.183	Right . 	
+ES2011d.B.dialog-act.dharshi.116	So it would probably either in the f 	
+ES2011d.B.dialog-act.dharshi.117	no it can't be in the front 'cause the I_R_'s right there , 	
+ES2011d.B.dialog-act.dharshi.118	but it'd be on one of the sides probably . 	
+ES2011d.A.dialog-act.dharshi.184	Okay . 	
+ES2011d.D.dialog-act.dharshi.164	I think everyone's under three anyway . 	
+ES2011d.A.dialog-act.dharshi.185	Mm . 	
+ES2011d.D.dialog-act.dharshi.165	So I think it's 	
+ES2011d.D.dialog-act.dharshi.166	yeah those are the only two points . 	
+ES2011d.C.dialog-act.dharshi.107	Cool . 	
+ES2011d.C.dialog-act.dharshi.108	Well 	
+ES2011d.C.dialog-act.dharshi.109	Yeah the broccoli I guess wins . 	
+ES2011d.D.dialog-act.dharshi.167		
+ES2011d.A.dialog-act.dharshi.186		
+ES2011d.B.dialog-act.dharshi.119	Yeah I'd agree with changing the shape . 	
+ES2011d.D.dialog-act.dharshi.168	Yeah . 	
+ES2011d.B.dialog-act.dharshi.120	Um , I was just having fun making strawberries and stuff . 	
+ES2011d.A.dialog-act.dharshi.187	Okay . 	
+ES2011d.A.dialog-act.dharshi.188		
+ES2011d.D.dialog-act.dharshi.169		
+ES2011d.C.dialog-act.dharshi.110	We were a bit off task . 	
+ES2011d.B.dialog-act.dharshi.121		
+ES2011d.C.dialog-act.dharshi.111	Um so uh I can't think of any 	
+ES2011d.C.dialog-act.dharshi.112	So we'll have to like 	
+ES2011d.C.dialog-act.dharshi.113		
+ES2011d.C.dialog-act.dharshi.114	Mm . 	
+ES2011d.A.dialog-act.dharshi.189		
+ES2011d.C.dialog-act.dharshi.115	Yeah I dunno . 	
+ES2011d.C.dialog-act.dharshi.116	You could make the touch pad in th in different shapes , 	
+ES2011d.C.dialog-act.dharshi.117	but then that kind of re-designs the whole project like , 	
+ES2011d.C.dialog-act.dharshi.118	but you could do like 	
+ES2011d.B.dialog-act.dharshi.122	It might also sort of annoy people if we get used to having the buttons in one shape . 	
+ES2011d.C.dialog-act.dharshi.119	Yeah that's true . 	
+ES2011d.A.dialog-act.dharshi.190	Yeah . 	
+ES2011d.C.dialog-act.dharshi.120	Yeah . 	
+ES2011d.A.dialog-act.dharshi.191	And it would probably cost more to produce , 'cause they're irregular . 	
+ES2011d.C.dialog-act.dharshi.121	Yeah that's true . 	
+ES2011d.C.dialog-act.dharshi.122	Mm . 	
+ES2011d.B.dialog-act.dharshi.123	I bet having different colours is a lot cheaper than having different shapes too . 	
+ES2011d.A.dialog-act.dharshi.192	Yeah . 	
+ES2011d.A.dialog-act.dharshi.193	Which is why printing might be like just printing the fruit on fruit . 	
+ES2011d.B.dialog-act.dharshi.124		
+ES2011d.C.dialog-act.dharshi.123	Hmm . 	
+ES2011d.A.dialog-act.dharshi.194	Mm . 	
+ES2011d.A.dialog-act.dharshi.195		
+ES2011d.A.dialog-act.dharshi.196	Not really 	
+ES2011d.A.dialog-act.dharshi.197	Well we've done finance evaluation criteria , production evaluation . 	
+ES2011d.A.dialog-act.dharshi.198	Um so project evaluation . 	
+ES2011d.D.dialog-act.dharshi.170	Do you want this and we can all 	
+ES2011d.D.dialog-act.dharshi.171	No . 	
+ES2011d.A.dialog-act.dharshi.199	I guess we're supposed to discuss um the prod the process of the project and how satisfied 	
+ES2011d.A.dialog-act.dharshi.200	oh , oh it's alright . 	
+ES2011d.A.dialog-act.dharshi.201	Uh . Yeah . 	
+ES2011d.D.dialog-act.dharshi.172	It's alright yeah ? 	
+ES2011d.A.dialog-act.dharshi.202	Um 	
+ES2011d.A.dialog-act.dharshi.203	Did you feel there was a lot of room for creativity in the sort of 	
+ES2011d.B.dialog-act.dharshi.125	Sure . 	
+ES2011d.A.dialog-act.dharshi.204	Yeah . 	
+ES2011d.C.dialog-act.dharshi.124	I did . 	
+ES2011d.D.dialog-act.dharshi.173	Yeah . 	
+ES2011d.A.dialog-act.dharshi.205	I mean fruit and squishiness . How c more creative can you get ? 	
+ES2011d.B.dialog-act.dharshi.126	Sponginess . 	
+ES2011d.D.dialog-act.dharshi.174		
+ES2011d.C.dialog-act.dharshi.125	The prototype making was very creatively stimulating 	
+ES2011d.B.dialog-act.dharshi.127		
+ES2011d.C.dialog-act.dharshi.126	and I think we've come up with a product that's fun and meets all the criteria . 	
+ES2011d.A.dialog-act.dharshi.206	And how was our leadership and teamwork ? 	
+ES2011d.B.dialog-act.dharshi.128	I think it was good . 	
+ES2011d.B.dialog-act.dharshi.129	We knew what we were doing . 	
+ES2011d.B.dialog-act.dharshi.130	It was a very democratic process and everyone got to contribute . 	
+ES2011d.A.dialog-act.dharshi.207	Well I thought my leadership was crap personally . 	
+ES2011d.B.dialog-act.dharshi.131	Well you told us when to start and when to end , and that's all that matters . 	
+ES2011d.D.dialog-act.dharshi.175		
+ES2011d.A.dialog-act.dharshi.208	Excuse me , 	
+ES2011d.A.dialog-act.dharshi.209	am I allowed to say that ? 	
+ES2011d.A.dialog-act.dharshi.210	Yeah . 	
+ES2011d.A.dialog-act.dharshi.211	Um . 	
+ES2011d.C.dialog-act.dharshi.127	I think you were fine . 	
+ES2011d.C.dialog-act.dharshi.128	You did a good job leading . 	
+ES2011d.A.dialog-act.dharshi.212	Yeah , well I'm never gonna do a management position , I know that now . 	
+ES2011d.B.dialog-act.dharshi.132		
+ES2011d.D.dialog-act.dharshi.176		
+ES2011d.C.dialog-act.dharshi.129		
+ES2011d.A.dialog-act.dharshi.213	Um yeah , I thought we all worked very well together . 	
+ES2011d.D.dialog-act.dharshi.177	Yeah we didn't we uh it all c sort of blended quite well . 	
+ES2011d.A.dialog-act.dharshi.214	Yeah . 	
+ES2011d.C.dialog-act.dharshi.130	Yeah I think it more than anything we didn't really have our set roles so much , as we just would be like I don't know , all had ideas about it but 	
+ES2011d.A.dialog-act.dharshi.215	Yeah . 	
+ES2011d.A.dialog-act.dharshi.216	Very democratic . 	
+ES2011d.C.dialog-act.dharshi.131	yeah . 	
+ES2011d.A.dialog-act.dharshi.217	No spats , that was good . 	
+ES2011d.B.dialog-act.dharshi.133		
+ES2011d.D.dialog-act.dharshi.178		
+ES2011d.C.dialog-act.dharshi.132	No . 	
+ES2011d.A.dialog-act.dharshi.218	Um and the means for like the materials we used , how convenient were they ? 	
+ES2011d.A.dialog-act.dharshi.219	Like the the pens , the whiteboard , 	
+ES2011d.B.dialog-act.dharshi.134		
+ES2011d.A.dialog-act.dharshi.220	I mean we used 	
+ES2011d.B.dialog-act.dharshi.135	Well I'm not a big fan of any Microsoft , PowerPoint or any of this stuff . 	
+ES2011d.A.dialog-act.dharshi.221	Are you a Mac person ? 	
+ES2011d.B.dialog-act.dharshi.136	No no I never touch Macs either . 	
+ES2011d.D.dialog-act.dharshi.179		
+ES2011d.B.dialog-act.dharshi.137	I just use the Unix or the off market , sort of WordPerfect and all these other things . 	
+ES2011d.A.dialog-act.dharshi.222	Huh . 	
+ES2011d.C.dialog-act.dharshi.133	Hmm . 	
+ES2011d.D.dialog-act.dharshi.180	Which isn't very user-friendly though . 	
+ES2011d.B.dialog-act.dharshi.138	Yeah . 	
+ES2011d.A.dialog-act.dharshi.223		
+ES2011d.B.dialog-act.dharshi.139	Well the problem is if you don't like my new computer never has WordPerfect so I have to go track someone down who has an old disk and then I have to reinstall it . 	
+ES2011d.B.dialog-act.dharshi.140	So I have all these documents I can't use now . 	
+ES2011d.B.dialog-act.dharshi.141	But yeah I mean I guess it's okay . 	
+ES2011d.C.dialog-act.dharshi.134	I felt like my 	
+ES2011d.C.dialog-act.dharshi.135	I dunno if it was just my role , 	
+ES2011d.C.dialog-act.dharshi.136	but l but uh I di I thought that my the information that was available to me was kind of just like 	
+ES2011d.C.dialog-act.dharshi.137	or maybe it was just the idea that we had . 	
+ES2011d.C.dialog-act.dharshi.138	But there's kinda 	
+ES2011d.C.dialog-act.dharshi.139	it was kinda like okay , I don't really think I dunno what I'm doing here . 	
+ES2011d.B.dialog-act.dharshi.142		
+ES2011d.A.dialog-act.dharshi.224	Mm . 	
+ES2011d.C.dialog-act.dharshi.140	So I didn't really think it was helpful . 	
+ES2011d.C.dialog-act.dharshi.141	So I kind of just made up my own stuff 	
+ES2011d.C.dialog-act.dharshi.142	and I didn't really like the PowerPoint presentations , 	
+ES2011d.A.dialog-act.dharshi.225	Yeah . 	
+ES2011d.C.dialog-act.dharshi.143	so I kind of wrote a lot of notes instead . 	
+ES2011d.C.dialog-act.dharshi.144	But yeah I d I don't really like PowerPoint personally , think it's kinda stupid . 	
+ES2011d.A.dialog-act.dharshi.226	Yeah . 	
+ES2011d.B.dialog-act.dharshi.143	Yeah . 	
+ES2011d.B.dialog-act.dharshi.144	I never use it . 	
+ES2011d.C.dialog-act.dharshi.145	Yeah but uh 	
+ES2011d.A.dialog-act.dharshi.227	I can't say I found everything particularly helpful . 	
+ES2011d.C.dialog-act.dharshi.146	Yeah . 	
+ES2011d.A.dialog-act.dharshi.228	Like I 	
+ES2011d.C.dialog-act.dharshi.147	It didn't really 	
+ES2011d.B.dialog-act.dharshi.145	Yeah . 	
+ES2011d.C.dialog-act.dharshi.148	yeah . 	
+ES2011d.A.dialog-act.dharshi.229	It 	
+ES2011d.D.dialog-act.dharshi.181	I though it was brilliant no ? 	
+ES2011d.B.dialog-act.dharshi.146	My first bit of information was like this child's drawn picture of how a remote works . 	
+ES2011d.A.dialog-act.dharshi.230	Really ? 	
+ES2011d.C.dialog-act.dharshi.149		
+ES2011d.D.dialog-act.dharshi.182	No mine was really helpful as in my stuff was quite helpful I think . 	
+ES2011d.B.dialog-act.dharshi.147	Yeah it probably does . 	
+ES2011d.C.dialog-act.dharshi.150	So like a f 	
+ES2011d.A.dialog-act.dharshi.231	I mean m my problem 	
+ES2011d.D.dialog-act.dharshi.184	I think it depends on the role 	
+ES2011d.D.dialog-act.dharshi.185	no ? 	
+ES2011d.C.dialog-act.dharshi.151	Yeah I think so . 	
+ES2011d.A.dialog-act.dharshi.232	yeah , yeah . 	
+ES2011d.A.dialog-act.dharshi.233	'Cause my problem was , you guys had access to like they'd put send you to sites and stuff 	
+ES2011d.A.dialog-act.dharshi.234	right ? 	
+ES2011d.B.dialog-act.dharshi.148	Yeah . 	
+ES2011d.A.dialog-act.dharshi.235	See I couldn't do that , so I didn't really know what you guys were doing . 	
+ES2011d.A.dialog-act.dharshi.236	And when you were talking about it I was just like 	
+ES2011d.B.dialog-act.dharshi.149		
+ES2011d.D.dialog-act.dharshi.186		
+ES2011d.A.dialog-act.dharshi.237	you know that's wh that's why I seemed so ignorant when when you were j explaining things , 	
+ES2011d.A.dialog-act.dharshi.238	'cause I 	
+ES2011d.B.dialog-act.dharshi.150	Yeah well mine was mostly made up 	
+ES2011d.B.dialog-act.dharshi.151	except when they told me like you know titanium costs more than wood to make a remote control . 	
+ES2011d.A.dialog-act.dharshi.239	Yeah . 	
+ES2011d.B.dialog-act.dharshi.152	As if you'd wanted to . 	
+ES2011d.D.dialog-act.dharshi.187	Yeah . 	
+ES2011d.A.dialog-act.dharshi.240	Yeah . 	
+ES2011d.D.dialog-act.dharshi.188	But it must have been quite difficult for them to build a whole um 	
+ES2011d.A.dialog-act.dharshi.241	System . 	
+ES2011d.D.dialog-act.dharshi.189	a whole system , 	
+ES2011d.A.dialog-act.dharshi.242	Yeah . 	
+ES2011d.D.dialog-act.dharshi.190	'cause of course they can't give you uh uh anything comparable to the internet for the 	
+ES2011d.B.dialog-act.dharshi.153		
+ES2011d.C.dialog-act.dharshi.152	Yeah I mean , it 	
+ES2011d.A.dialog-act.dharshi.243	Yeah . 	
+ES2011d.B.dialog-act.dharshi.154	Well I think it's interesting how it all went together , 	
+ES2011d.B.dialog-act.dharshi.155	like I had the stuff about how me how rubber's cheap , 	
+ES2011d.B.dialog-act.dharshi.156	and you have how people want it to be spongy , and 	
+ES2011d.D.dialog-act.dharshi.191	Yeah , yeah . 	
+ES2011d.A.dialog-act.dharshi.244	Yeah , 	
+ES2011d.A.dialog-act.dharshi.245	huh . 	
+ES2011d.B.dialog-act.dharshi.157	It seems planned you know . 	
+ES2011d.A.dialog-act.dharshi.246	Yeah . 	
+ES2011d.C.dialog-act.dharshi.153	Yeah I kinda thought that um 	
+ES2011d.C.dialog-act.dharshi.154	I felt like I would go and like try to use my information , 	
+ES2011d.C.dialog-act.dharshi.155	or like I'd make this stupid little presentation 	
+ES2011d.C.dialog-act.dharshi.156	and then like I just would end up talking about something completely unrelated 	
+ES2011d.B.dialog-act.dharshi.158		
+ES2011d.C.dialog-act.dharshi.157	because 	
+ES2011d.C.dialog-act.dharshi.158	I dunno 	
+ES2011d.A.dialog-act.dharshi.247	Yeah . 	
+ES2011d.C.dialog-act.dharshi.159	I felt like I was off-task all the time . 	
+ES2011d.C.dialog-act.dharshi.160	But um 	
+ES2011d.A.dialog-act.dharshi.248	Well I mean we really got into talking about like personal practicalit 	
+ES2011d.A.dialog-act.dharshi.249	like it wasn't necessarily what was like 	
+ES2011d.A.dialog-act.dharshi.250	we would never have thought of fruit or sponginess you know ? 	
+ES2011d.B.dialog-act.dharshi.159	Yeah . 	
+ES2011d.D.dialog-act.dharshi.192	No . 	
+ES2011d.C.dialog-act.dharshi.161	Yeah . 	
+ES2011d.A.dialog-act.dharshi.251	So it's 	
+ES2011d.B.dialog-act.dharshi.160	If I hadn't been told that fruit was 	
+ES2011d.D.dialog-act.dharshi.193	But I think that it it might be to see whether people actually all come up with the same thing . 	
+ES2011d.A.dialog-act.dharshi.252	Oh right . 	
+ES2011d.A.dialog-act.dharshi.253	given certain information or 	
+ES2011d.D.dialog-act.dharshi.194	Yeah , like if everyone's given the same input 	
+ES2011d.A.dialog-act.dharshi.254	Just 	
+ES2011d.A.dialog-act.dharshi.255	yeah . 	
+ES2011d.D.dialog-act.dharshi.195	I don't have a clue , anyway . 	
+ES2011d.A.dialog-act.dharshi.256	Mm , mm . 	
+ES2011d.D.dialog-act.dharshi.196	Um what's next ? 	
+ES2011d.D.dialog-act.dharshi.197	Looks like 	
+ES2011d.D.dialog-act.dharshi.198	oh no that's not um 	
+ES2011d.D.dialog-act.dharshi.199	It's quite 	
+ES2011d.A.dialog-act.dharshi.257	What do you guys think of the pens ? 	
+ES2011d.A.dialog-act.dharshi.258	It asks about that . 	
+ES2011d.B.dialog-act.dharshi.161	They're pretty cool . 	
+ES2011d.A.dialog-act.dharshi.259	Mm . 	
+ES2011d.B.dialog-act.dharshi.162	They're kinda hard to write with though . 	
+ES2011d.C.dialog-act.dharshi.162	I wanna s 	
+ES2011d.A.dialog-act.dharshi.260	Yeah 	
+ES2011d.D.dialog-act.dharshi.200	Yeah . 	
+ES2011d.A.dialog-act.dharshi.261	and I I've f forgotten once or twice to check the box . 	
+ES2011d.B.dialog-act.dharshi.163		
+ES2011d.C.dialog-act.dharshi.163	I I'd like to see what what it looks like on the 	
+ES2011d.B.dialog-act.dharshi.164	They're nicer than the pen that I'm using , 	
+ES2011d.B.dialog-act.dharshi.165	because like your stuff actually shows up here , rather than having to look at the screen and write . 	
+ES2011d.A.dialog-act.dharshi.262	Mm . 	
+ES2011d.B.dialog-act.dharshi.166	But even so , I dunno . 	
+ES2011d.B.dialog-act.dharshi.167		
+ES2011d.A.dialog-act.dharshi.264	And new ideas found ? 	
+ES2011d.B.dialog-act.dharshi.168		
+ES2011d.D.dialog-act.dharshi.201	Yeah it's all very new , 	
+ES2011d.A.dialog-act.dharshi.263	Yeah . 	
+ES2011d.D.dialog-act.dharshi.202	no ? 	
+ES2011d.D.dialog-act.dharshi.203	It's all very new . 	
+ES2011d.C.dialog-act.dharshi.164	Yeah I think I'd like to um 	
+ES2011d.C.dialog-act.dharshi.165	I dunno . 	
+ES2011d.C.dialog-act.dharshi.166	Like it was the 	
+ES2011d.D.dialog-act.dharshi.204	Sorry . 	
+ES2011d.C.dialog-act.dharshi.167	I think the microphones are okay when you're sitting down , 	
+ES2011d.C.dialog-act.dharshi.168	but like they're kinda clumsy I guess when you're like when you're s going up to the whiteboard like . 	
+ES2011d.B.dialog-act.dharshi.169	Oh yeah . 	
+ES2011d.B.dialog-act.dharshi.170	Well they drop off if you like move too much . 	
+ES2011d.C.dialog-act.dharshi.169	Yeah 	
+ES2011d.C.dialog-act.dharshi.170	I dunno . But they're they're okay . 	
+ES2011d.B.dialog-act.dharshi.171	But I don't think we're supposed to be testing these microphones . 	
+ES2011d.B.dialog-act.dharshi.172	Maybe we are . 	
+ES2011d.B.dialog-act.dharshi.173	I don't know . 	
+ES2011d.C.dialog-act.dharshi.171	Uh I think , and I think that uh 	
+ES2011d.A.dialog-act.dharshi.265	Mm . 	
+ES2011d.C.dialog-act.dharshi.172	all this technology like I guess some people must be interested in using it 	
+ES2011d.C.dialog-act.dharshi.173	but I can't imagine finding it any more useful than like looking at someone's notes , 	
+ES2011d.A.dialog-act.dharshi.266	Yeah . 	
+ES2011d.B.dialog-act.dharshi.174	Well the thing is , like I actually worked in a company , 	
+ES2011d.C.dialog-act.dharshi.174	or like I dunno . 	
+ES2011d.B.dialog-act.dharshi.175	and I had a role and I had to go to meetings . 	
+ES2011d.B.dialog-act.dharshi.176	And like the last thing I would have wanted would be to have to watch a video 'cause I missed a meeting . 	
+ES2011d.B.dialog-act.dharshi.177	Like usually I missed meetings deliberately . 	
+ES2011d.B.dialog-act.dharshi.178	There's just 	
+ES2011d.A.dialog-act.dharshi.267		
+ES2011d.B.dialog-act.dharshi.179	there's really not that much information that actually goes through a real meeting , like when you're actually at a real meeting in a real company . 	
+ES2011d.A.dialog-act.dharshi.268	Yeah . 	
+ES2011d.C.dialog-act.dharshi.175	Hm . 	
+ES2011d.B.dialog-act.dharshi.180	It's mostly like rehashing old stuff . 	
+ES2011d.B.dialog-act.dharshi.181	And you're sort of going over general stuff that anybody who's sort of on task should already know . 	
+ES2011d.A.dialog-act.dharshi.269	Yeah . 	
+ES2011d.B.dialog-act.dharshi.182	It's like the 	
+ES2011d.B.dialog-act.dharshi.183	there's just really not a lot of information that goes through . 	
+ES2011d.A.dialog-act.dharshi.270	Seems kind of like an excessive reiteration . 	
+ES2011d.B.dialog-act.dharshi.184	It seems like way overkill . 	
+ES2011d.A.dialog-act.dharshi.271	Yeah . 	
+ES2011d.B.dialog-act.dharshi.185	Like if I missed a meeting I could probably get it summed up in like one sentence . 	
+ES2011d.A.dialog-act.dharshi.272	Yeah . 	
+ES2011d.B.dialog-act.dharshi.186	I wouldn't need to have to watch like a t two hour video with the sound and the transcript and 	
+ES2011d.A.dialog-act.dharshi.273	Yeah . 	
+ES2011d.C.dialog-act.dharshi.176	I guess it would be 	
+ES2011d.C.dialog-act.dharshi.177	it's gotta be worth it to 	
+ES2011d.C.dialog-act.dharshi.178	I 	
+ES2011d.C.dialog-act.dharshi.179	'cause I'm just mostly curious about like what kind of person or like company would would really find it useful , 	
+ES2011d.C.dialog-act.dharshi.180	'cause can't really imagine , dunno . 	
+ES2011d.C.dialog-act.dharshi.181	How about a p a ? 	
+ES2011d.B.dialog-act.dharshi.187		
+ES2011d.D.dialog-act.dharshi.205		
+ES2011d.A.dialog-act.dharshi.274		
+ES2011d.C.dialog-act.dharshi.182	Um I dunno . 	
+ES2011d.A.dialog-act.dharshi.275	Well does anyone wanna talk about fruit more while we still have time ? 	
+ES2011d.B.dialog-act.dharshi.188		
+ES2011d.A.dialog-act.dharshi.276	Any other ideas for 	
+ES2011d.D.dialog-act.dharshi.206	What what's the end ? 	
+ES2011d.D.dialog-act.dharshi.207	Are we are we supposed to um 	
+ES2011d.D.dialog-act.dharshi.208	you supposed to write a report ? 	
+ES2011d.D.dialog-act.dharshi.209	Or we ending ? 	
+ES2011d.A.dialog-act.dharshi.277	Um we still have time if there's any other input . 	
+ES2011d.D.dialog-act.dharshi.210	Is that the end ? 	
+ES2011d.B.dialog-act.dharshi.189		
+ES2011d.A.dialog-act.dharshi.278	I mean the 	
+ES2011d.A.dialog-act.dharshi.279	I think we did really well personally , 	
+ES2011d.A.dialog-act.dharshi.280	which is why we've 	
+ES2011d.A.dialog-act.dharshi.281	you know , gone through this so quickly . 	
+ES2011d.A.dialog-act.dharshi.282	'Cause I mean we've all we all kind of agreed our product is satisfactory , it fits the budget , and it's trendy . 	
+ES2011d.B.dialog-act.dharshi.190		
+ES2011d.D.dialog-act.dharshi.211		
+ES2011d.C.dialog-act.dharshi.183	Yeah . 	
+ES2011d.A.dialog-act.dharshi.283	So . 	
+ES2011d.A.dialog-act.dharshi.284	Um . 	
+ES2011d.D.dialog-act.dharshi.212	End of meeting . 	
+ES2011d.D.dialog-act.dharshi.213	You have to tell her , 	
+ES2011d.D.dialog-act.dharshi.214	she 	
+ES2011d.A.dialog-act.dharshi.285	So I think that's all for today . 	
+ES2011d.D.dialog-act.dharshi.215	Okay we have to fill in all this stuff . 	
+ES2011d.B.dialog-act.dharshi.191		
+ES2011d.C.dialog-act.dharshi.184		
+ES2011d.D.dialog-act.dharshi.216	Stuff stuff stuff . 	
+ES2011d.C.dialog-act.dharshi.185	M meeting adjourned . 	
+ES2011d.A.dialog-act.dharshi.286	Meeting adjourned . 	
+ES2011d.D.dialog-act.dharshi.217	Yeah . 	
+ES2011d.B.dialog-act.dharshi.192	I think I've learned not to bring play-dough to meetings . 	
+ES2011d.A.dialog-act.dharshi.287	Yeah . 	
+ES2011d.C.dialog-act.dharshi.186		
+ES2011d.C.dialog-act.dharshi.187	I think it would be a good idea , I like it . 	
+ES2011d.B.dialog-act.dharshi.193	It's hard enough to get people actually paying attention . 	
+ES2011d.B.dialog-act.dharshi.194	Especially if you have food . 	
+ES2011d.A.dialog-act.dharshi.288	So I guess we're supposed to write final reports . 	
+ES2011d.A.dialog-act.dharshi.289	'Cause 	
+ES2011d.B.dialog-act.dharshi.195	All of us ? 	
+ES2011d.A.dialog-act.dharshi.290	I don't know . Hmm . 	
+ES2011d.D.dialog-act.dharshi.218	Well there's al eight , nine . 	
+ES2011d.C.dialog-act.dharshi.188		
+ES2011d.D.dialog-act.dharshi.219	Ooh . 	
+ES2011d.D.dialog-act.dharshi.220	Oh ooh . 	
+ES2011d.A.dialog-act.dharshi.291	Hmm . Or is that just me ? 	
+

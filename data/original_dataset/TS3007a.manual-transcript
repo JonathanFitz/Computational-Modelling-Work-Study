@@ -1,0 +1,738 @@
+Observation: TS3007a; Result size: 735; atts: 2
+$d@nite:id	$d	
+TS3007a.B.dialog-act.vkaraisk.1	Hi . 	
+TS3007a.C.dialog-act.vkaraisk.1	Hi . 	
+TS3007a.A.dialog-act.vkaraisk.1	Hello . 	
+TS3007a.D.dialog-act.vkaraisk.1		
+TS3007a.B.dialog-act.vkaraisk.2	Oh . 	
+TS3007a.A.dialog-act.vkaraisk.2	Good morning . 	
+TS3007a.B.dialog-act.vkaraisk.3	Good morning . 	
+TS3007a.C.dialog-act.vkaraisk.2	Morning . 	
+TS3007a.D.dialog-act.vkaraisk.2	Good morning . 	
+TS3007a.A.dialog-act.vkaraisk.3	Uh before I start with the with the meeting I have a few things to tell you about the the setting we're in , 	
+TS3007a.A.dialog-act.vkaraisk.4	uh because we're uh being watched by uh Big Brother . 	
+TS3007a.A.dialog-act.vkaraisk.5	So um 	
+TS3007a.D.dialog-act.vkaraisk.3	By Big Brother ? 	
+TS3007a.A.dialog-act.vkaraisk.6	Yeah . Yeah . 	
+TS3007a.C.dialog-act.vkaraisk.3		
+TS3007a.D.dialog-act.vkaraisk.4	Okay . 	
+TS3007a.A.dialog-act.vkaraisk.7	This 	
+TS3007a.A.dialog-act.vkaraisk.8	uh These are cameras , 	
+TS3007a.A.dialog-act.vkaraisk.9	so are these . 	
+TS3007a.D.dialog-act.vkaraisk.5	Mm-hmm . 	
+TS3007a.A.dialog-act.vkaraisk.10	This thing uh that looks like a pie , 	
+TS3007a.A.dialog-act.vkaraisk.11	are actually all microphones . 	
+TS3007a.D.dialog-act.vkaraisk.6	Yeah . 	
+TS3007a.D.dialog-act.vkaraisk.7	Okay . 	
+TS3007a.A.dialog-act.vkaraisk.12	So 	
+TS3007a.A.dialog-act.vkaraisk.13	you must be careful with uh with uh all this . 	
+TS3007a.A.dialog-act.vkaraisk.14	And uh as I can see you uh you have placed your laptops uh exactly on the place where it must be . 	
+TS3007a.A.dialog-act.vkaraisk.15	And that has to do with the camera settings , 	
+TS3007a.A.dialog-act.vkaraisk.16	so we don't have our uh laptops in front of the cameras . 	
+TS3007a.D.dialog-act.vkaraisk.8	Of our faces . 	
+TS3007a.A.dialog-act.vkaraisk.17	And 	
+TS3007a.A.dialog-act.vkaraisk.18	Indeed . 	
+TS3007a.D.dialog-act.vkaraisk.9		
+TS3007a.A.dialog-act.vkaraisk.19	So they can see our faces . 	
+TS3007a.A.dialog-act.vkaraisk.20	Okay . 	
+TS3007a.D.dialog-act.vkaraisk.10		
+TS3007a.A.dialog-act.vkaraisk.21	Welcome at the kick-off meeting . 	
+TS3007a.A.dialog-act.vkaraisk.22	My name is uh Danny Wolfs . 	
+TS3007a.A.dialog-act.vkaraisk.23	Uh this is the agenda for today . 	
+TS3007a.A.dialog-act.vkaraisk.24	Uh first a little opening . 	
+TS3007a.A.dialog-act.vkaraisk.25	Uh I will introduce myself , 	
+TS3007a.A.dialog-act.vkaraisk.26	uh and uh I think it's very uh good to introduce uh yourself . 	
+TS3007a.A.dialog-act.vkaraisk.27	Uh then uh a little bit of acquaintance , acquaintance to uh to to ourselves . 	
+TS3007a.A.dialog-act.vkaraisk.28	So uh we get to know each other . 	
+TS3007a.A.dialog-act.vkaraisk.29	Uh that will be done uh with a tool training from the he these two uh smart boards . 	
+TS3007a.A.dialog-act.vkaraisk.30	Then the project plan . 	
+TS3007a.A.dialog-act.vkaraisk.31	What we're going to do , 	
+TS3007a.A.dialog-act.vkaraisk.32	and how we're going to do it . 	
+TS3007a.A.dialog-act.vkaraisk.33	Uh and discussion about that and a little closing at the end . 	
+TS3007a.A.dialog-act.vkaraisk.34	Okay uh , 	
+TS3007a.A.dialog-act.vkaraisk.35	my name is uh Danny Wolfs . 	
+TS3007a.A.dialog-act.vkaraisk.36	I'm the Project Manager . 	
+TS3007a.A.dialog-act.vkaraisk.37	What's your name ? 	
+TS3007a.B.dialog-act.vkaraisk.4	I'm Juergen Toffs . 	
+TS3007a.B.dialog-act.vkaraisk.5	I'm the User Interface Designer . 	
+TS3007a.A.dialog-act.vkaraisk.38	User interface , okay . 	
+TS3007a.C.dialog-act.vkaraisk.4	Hi , 	
+TS3007a.C.dialog-act.vkaraisk.5	my name's uh . 	
+TS3007a.C.dialog-act.vkaraisk.6	I'm the Industrial Designer . 	
+TS3007a.A.dialog-act.vkaraisk.39	Industrial , yes . 	
+TS3007a.D.dialog-act.vkaraisk.11	I'm uh Tim . 	
+TS3007a.D.dialog-act.vkaraisk.12	Um my function is the Marketing Expert . 	
+TS3007a.A.dialog-act.vkaraisk.40	Okay , 	
+TS3007a.A.dialog-act.vkaraisk.41	thank you . 	
+TS3007a.A.dialog-act.vkaraisk.42	First a little about the project aim . 	
+TS3007a.A.dialog-act.vkaraisk.43	Uh the the the aim is to make a new remote control . 	
+TS3007a.A.dialog-act.vkaraisk.44	Uh maybe you have read uh read the website . 	
+TS3007a.A.dialog-act.vkaraisk.45	It's a very uh , yeah , very uh ambitious uh company . 	
+TS3007a.A.dialog-act.vkaraisk.46	They uh they wanna do something else . 	
+TS3007a.A.dialog-act.vkaraisk.47	I w 	
+TS3007a.A.dialog-act.vkaraisk.48	Uh there must be a new remote control . 	
+TS3007a.A.dialog-act.vkaraisk.49	Uh first of all uh it must be original , uh and trendy . 	
+TS3007a.A.dialog-act.vkaraisk.50	That's two things really uh close to each other . 	
+TS3007a.A.dialog-act.vkaraisk.51	But at the same time uh user-friendly . 	
+TS3007a.A.dialog-act.vkaraisk.52	And they have uh 	
+TS3007a.A.dialog-act.vkaraisk.53	Yeah , 	
+TS3007a.A.dialog-act.vkaraisk.54	that's uh very important uh for them . 	
+TS3007a.A.dialog-act.vkaraisk.55	Uh there are three stages . 	
+TS3007a.A.dialog-act.vkaraisk.56	There is a functional design . 	
+TS3007a.A.dialog-act.vkaraisk.57	So uh 	
+TS3007a.A.dialog-act.vkaraisk.58	what are we going uh to uh to do ? 	
+TS3007a.A.dialog-act.vkaraisk.59	What are we going to uh uh make f uh kind of functions in the remote ? 	
+TS3007a.A.dialog-act.vkaraisk.60	And why are we going to do it ? 	
+TS3007a.A.dialog-act.vkaraisk.61	Then the conceptual design . 	
+TS3007a.A.dialog-act.vkaraisk.62	How are going to do it ? 	
+TS3007a.A.dialog-act.vkaraisk.63	And that's uh really global . 	
+TS3007a.A.dialog-act.vkaraisk.64	Uh because at the detailed design , how , part two , uh we go uh to dig in uh really about how the the te the technical of If it's uh it's possible technical-wise . 	
+TS3007a.D.dialog-act.vkaraisk.13		
+TS3007a.A.dialog-act.vkaraisk.65	Uh each stage is uh uh is broken up in two uh two stages , individual work and a meeting . 	
+TS3007a.A.dialog-act.vkaraisk.66	So it's uh it's very straightforward . 	
+TS3007a.A.dialog-act.vkaraisk.67	Okay , 	
+TS3007a.A.dialog-act.vkaraisk.68	the tool training . 	
+TS3007a.A.dialog-act.vkaraisk.69	We have two smart boards . 	
+TS3007a.A.dialog-act.vkaraisk.70	This one is for the presentations , the PowerPoint presentations or the Word presentation of whatever you uh you had . 	
+TS3007a.A.dialog-act.vkaraisk.71	Uh and this is uh only for uh drawing . 	
+TS3007a.A.dialog-act.vkaraisk.72	So uh 	
+TS3007a.A.dialog-act.vkaraisk.73	we uh must let it uh stand on this uh this programme . 	
+TS3007a.A.dialog-act.vkaraisk.74	This is called a smart board 	
+TS3007a.D.dialog-act.vkaraisk.14	Speaks for itself . 	
+TS3007a.A.dialog-act.vkaraisk.75	thing uh 	
+TS3007a.A.dialog-act.vkaraisk.76	Yeah , 	
+TS3007a.A.dialog-act.vkaraisk.77	it speaks for itself . 	
+TS3007a.A.dialog-act.vkaraisk.78	Um and as you uh may have heard , the documents in the shared folder uh can be uh showed on this screen . Not in y the the My Documents . 	
+TS3007a.A.dialog-act.vkaraisk.79	So if you wanna show something , put it in the shared folder . 	
+TS3007a.A.dialog-act.vkaraisk.80	Uh This uh is very straightforward , with the save , the print , the undo , the blank , the select , the pen . 	
+TS3007a.A.dialog-act.vkaraisk.81	Well , 	
+TS3007a.A.dialog-act.vkaraisk.82	I don't uh gonna explain it all , 	
+TS3007a.D.dialog-act.vkaraisk.15		
+TS3007a.A.dialog-act.vkaraisk.83	because I think you know uh how it works . 	
+TS3007a.A.dialog-act.vkaraisk.84	Um we must not forget uh everything we draw on here , uh all must be saved . 	
+TS3007a.A.dialog-act.vkaraisk.85	We we may not delete anything . 	
+TS3007a.A.dialog-act.vkaraisk.86	So uh if you have uh drawn something , save it . 	
+TS3007a.A.dialog-act.vkaraisk.87	Never delete it . 	
+TS3007a.A.dialog-act.vkaraisk.88	That's a very important uh thing . 	
+TS3007a.D.dialog-act.vkaraisk.16		
+TS3007a.A.dialog-act.vkaraisk.89	Okay . Uh 	
+TS3007a.A.dialog-act.vkaraisk.90	little uh little kinda exercise to uh know each other . 	
+TS3007a.B.dialog-act.vkaraisk.6		
+TS3007a.D.dialog-act.vkaraisk.17		
+TS3007a.A.dialog-act.vkaraisk.91	At uh the white board on the left . Every uh every one of us uh must draw our favourite animal , 	
+TS3007a.C.dialog-act.vkaraisk.7		
+TS3007a.A.dialog-act.vkaraisk.92	and uh tell uh tell us why we uh had uh chosen that animal . 	
+TS3007a.A.dialog-act.vkaraisk.93	Uh important is that we use different colours , and uh different pen widths . Widths . Widths . 	
+TS3007a.D.dialog-act.vkaraisk.18	I have a question . 	
+TS3007a.A.dialog-act.vkaraisk.94	Yes ? 	
+TS3007a.D.dialog-act.vkaraisk.19	Um this exercise , um did the company board tell you to do it , 	
+TS3007a.A.dialog-act.vkaraisk.95	Yeah . 	
+TS3007a.C.dialog-act.vkaraisk.8		
+TS3007a.D.dialog-act.vkaraisk.20	or uh did you just make it up yourself ? 	
+TS3007a.A.dialog-act.vkaraisk.96	No no no . 	
+TS3007a.A.dialog-act.vkaraisk.97	It's uh it's uh I I 	
+TS3007a.D.dialog-act.vkaraisk.21	It's part of the introduction , 	
+TS3007a.A.dialog-act.vkaraisk.98	I must do it . 	
+TS3007a.A.dialog-act.vkaraisk.99	Yeah , yeah , yeah . 	
+TS3007a.D.dialog-act.vkaraisk.22	okay . 	
+TS3007a.A.dialog-act.vkaraisk.100	'Cause we uh really don't know each other , 	
+TS3007a.A.dialog-act.vkaraisk.101	and uh it's kinda new . 	
+TS3007a.A.dialog-act.vkaraisk.102	So getting used to each other , we can uh have a little fun then , 	
+TS3007a.A.dialog-act.vkaraisk.103	before we uh dig in really to the hard stuff . 	
+TS3007a.D.dialog-act.vkaraisk.23	Okay . 	
+TS3007a.A.dialog-act.vkaraisk.104	That kind of thing . 	
+TS3007a.A.dialog-act.vkaraisk.105	Would you start with drawing your uh favourite animal ? 	
+TS3007a.D.dialog-act.vkaraisk.24	Um , yeah . 	
+TS3007a.D.dialog-act.vkaraisk.25	I don't know really how it works . 	
+TS3007a.D.dialog-act.vkaraisk.26	But maybe you can show us first ? 	
+TS3007a.A.dialog-act.vkaraisk.106	Okay , okay . 	
+TS3007a.A.dialog-act.vkaraisk.107	Yeah , okay . 	
+TS3007a.A.dialog-act.vkaraisk.108	Drawing goes with uh this thing . 	
+TS3007a.A.dialog-act.vkaraisk.109	Do not touch your hand on uh this little uh thingy here . 	
+TS3007a.A.dialog-act.vkaraisk.110	That's uh important . 	
+TS3007a.D.dialog-act.vkaraisk.27		
+TS3007a.A.dialog-act.vkaraisk.111	So hold it uh like this . 	
+TS3007a.B.dialog-act.vkaraisk.7		
+TS3007a.D.dialog-act.vkaraisk.28	You g you get electrocuted or 	
+TS3007a.A.dialog-act.vkaraisk.112	Yeah , kinda . 	
+TS3007a.C.dialog-act.vkaraisk.9		
+TS3007a.D.dialog-act.vkaraisk.29		
+TS3007a.A.dialog-act.vkaraisk.113	So , um 	
+TS3007a.A.dialog-act.vkaraisk.114	You must p p uh push a little uh Good . 	
+TS3007a.A.dialog-act.vkaraisk.115	Because 	
+TS3007a.A.dialog-act.vkaraisk.116	And uh wait uh wait a few seconds . 	
+TS3007a.A.dialog-act.vkaraisk.117	It's not uh fully real-time , 	
+TS3007a.A.dialog-act.vkaraisk.118	so uh watch it . 	
+TS3007a.B.dialog-act.vkaraisk.8	Ach . 	
+TS3007a.A.dialog-act.vkaraisk.119	Oh yeah . 	
+TS3007a.B.dialog-act.vkaraisk.9		
+TS3007a.A.dialog-act.vkaraisk.120	Well 	
+TS3007a.A.dialog-act.vkaraisk.121	I'm gonna paint in the red . 	
+TS3007a.B.dialog-act.vkaraisk.10	Ooph . 	
+TS3007a.A.dialog-act.vkaraisk.122	Oh . 	
+TS3007a.D.dialog-act.vkaraisk.30		
+TS3007a.A.dialog-act.vkaraisk.123	That's the background colour . 	
+TS3007a.B.dialog-act.vkaraisk.11		
+TS3007a.A.dialog-act.vkaraisk.124	Well , 	
+TS3007a.A.dialog-act.vkaraisk.125	undo . 	
+TS3007a.A.dialog-act.vkaraisk.127	Um 	
+TS3007a.A.dialog-act.vkaraisk.126	The pen ? No . 	
+TS3007a.A.dialog-act.vkaraisk.128	One minute please . 	
+TS3007a.C.dialog-act.vkaraisk.10		
+TS3007a.A.dialog-act.vkaraisk.129	Yeah , that's the one . Well , five . 	
+TS3007a.A.dialog-act.vkaraisk.130	Okay . 	
+TS3007a.A.dialog-act.vkaraisk.131		
+TS3007a.D.dialog-act.vkaraisk.31		
+TS3007a.A.dialog-act.vkaraisk.132	My favourite animal huh ? 	
+TS3007a.C.dialog-act.vkaraisk.11		
+TS3007a.D.dialog-act.vkaraisk.32	It's like Pictionary ? 	
+TS3007a.C.dialog-act.vkaraisk.12		
+TS3007a.A.dialog-act.vkaraisk.133	Yeah , 	
+TS3007a.A.dialog-act.vkaraisk.134	you can guess what it is . 	
+TS3007a.D.dialog-act.vkaraisk.33	The the one who says it first gets a raise . 	
+TS3007a.A.dialog-act.vkaraisk.135	May uh paint uh next . 	
+TS3007a.C.dialog-act.vkaraisk.13		
+TS3007a.D.dialog-act.vkaraisk.34		
+TS3007a.B.dialog-act.vkaraisk.12		
+TS3007a.C.dialog-act.vkaraisk.14		
+TS3007a.D.dialog-act.vkaraisk.35	It's a pork ? 	
+TS3007a.A.dialog-act.vkaraisk.136	No , it's not an orc . 	
+TS3007a.B.dialog-act.vkaraisk.13		
+TS3007a.A.dialog-act.vkaraisk.137	You don't see it uh at the ears ? 	
+TS3007a.D.dialog-act.vkaraisk.36	Mm yeah , 	
+TS3007a.D.dialog-act.vkaraisk.37	I have it at home . 	
+TS3007a.A.dialog-act.vkaraisk.138	You have an orc at home ? 	
+TS3007a.B.dialog-act.vkaraisk.14	Very artistic . 	
+TS3007a.C.dialog-act.vkaraisk.15		
+TS3007a.A.dialog-act.vkaraisk.139	Thank you . 	
+TS3007a.D.dialog-act.vkaraisk.38		
+TS3007a.A.dialog-act.vkaraisk.140	So 	
+TS3007a.A.dialog-act.vkaraisk.141	it's a cat . 	
+TS3007a.D.dialog-act.vkaraisk.39	What's it called ? 	
+TS3007a.A.dialog-act.vkaraisk.142	Simba . 	
+TS3007a.D.dialog-act.vkaraisk.40	Ah . 	
+TS3007a.A.dialog-act.vkaraisk.143	'Cause uh we have a cat at home 	
+TS3007a.A.dialog-act.vkaraisk.144	and he's called Simba . 	
+TS3007a.A.dialog-act.vkaraisk.145	'Cause he looks like the uh the the lion from The Lion King . 	
+TS3007a.B.dialog-act.vkaraisk.15	Okay . 	
+TS3007a.C.dialog-act.vkaraisk.16		
+TS3007a.B.dialog-act.vkaraisk.16		
+TS3007a.D.dialog-act.vkaraisk.41	Miniature size ? 	
+TS3007a.A.dialog-act.vkaraisk.146	So we uh found it kinda cool to uh name it after a lion . 	
+TS3007a.D.dialog-act.vkaraisk.42	Okay . 	
+TS3007a.D.dialog-act.vkaraisk.43		
+TS3007a.A.dialog-act.vkaraisk.147	He's happy with us , 	
+TS3007a.A.dialog-act.vkaraisk.148	so uh 	
+TS3007a.A.dialog-act.vkaraisk.149	he's smiling . 	
+TS3007a.B.dialog-act.vkaraisk.17	Wow . 	
+TS3007a.B.dialog-act.vkaraisk.18	He does have body uh Huh . 	
+TS3007a.A.dialog-act.vkaraisk.150	No , 	
+TS3007a.A.dialog-act.vkaraisk.151	only the face . 	
+TS3007a.A.dialog-act.vkaraisk.152	Because we have we have twen twenty five minutes . 	
+TS3007a.D.dialog-act.vkaraisk.44	Okay . 	
+TS3007a.A.dialog-act.vkaraisk.154	So we uh 	
+TS3007a.D.dialog-act.vkaraisk.45	We have to speed up . 	
+TS3007a.A.dialog-act.vkaraisk.153	Yeah . 	
+TS3007a.D.dialog-act.vkaraisk.46	Remember you use uh different colours , and different pen widths . 	
+TS3007a.A.dialog-act.vkaraisk.155	Yeah . 	
+TS3007a.A.dialog-act.vkaraisk.156	Okay , 	
+TS3007a.A.dialog-act.vkaraisk.157	who wants to go next ? 	
+TS3007a.D.dialog-act.vkaraisk.47	I Okay . 	
+TS3007a.A.dialog-act.vkaraisk.158	Yeah ? 	
+TS3007a.C.dialog-act.vkaraisk.17		
+TS3007a.A.dialog-act.vkaraisk.159	So 	
+TS3007a.A.dialog-act.vkaraisk.160	choose a colour , 	
+TS3007a.A.dialog-act.vkaraisk.161	choose a pen width 	
+TS3007a.A.dialog-act.vkaraisk.162	and draw 	
+TS3007a.A.dialog-act.vkaraisk.163	a 	
+TS3007a.B.dialog-act.vkaraisk.19	You don't have to change the colour and the pen width during uh the drawing . 	
+TS3007a.D.dialog-act.vkaraisk.48	Save it . 	
+TS3007a.B.dialog-act.vkaraisk.20	Or 	
+TS3007a.A.dialog-act.vkaraisk.164	Yeah . 	
+TS3007a.D.dialog-act.vkaraisk.49	You have to save it . 	
+TS3007a.A.dialog-act.vkaraisk.165	Save it , okay . 	
+TS3007a.D.dialog-act.vkaraisk.50	I've done it . 	
+TS3007a.C.dialog-act.vkaraisk.18		
+TS3007a.D.dialog-act.vkaraisk.51	New ? 	
+TS3007a.D.dialog-act.vkaraisk.52	'Kay . 	
+TS3007a.B.dialog-act.vkaraisk.21	You have to draw uh push hard on the pen 	
+TS3007a.B.dialog-act.vkaraisk.22	or uh 	
+TS3007a.D.dialog-act.vkaraisk.53	Mm uh Not really . 	
+TS3007a.A.dialog-act.vkaraisk.166	Kind of firm touch . 	
+TS3007a.B.dialog-act.vkaraisk.23		
+TS3007a.D.dialog-act.vkaraisk.54	That one . 	
+TS3007a.B.dialog-act.vkaraisk.24	Oh . Uh hmm . 	
+TS3007a.D.dialog-act.vkaraisk.55	Yeah ? 	
+TS3007a.D.dialog-act.vkaraisk.56	Okay . 	
+TS3007a.D.dialog-act.vkaraisk.57	Open . 	
+TS3007a.D.dialog-act.vkaraisk.58	Which one is it ? 	
+TS3007a.D.dialog-act.vkaraisk.59	Smart board ? 	
+TS3007a.D.dialog-act.vkaraisk.60	Okay . 	
+TS3007a.C.dialog-act.vkaraisk.19		
+TS3007a.B.dialog-act.vkaraisk.25	Okay . 	
+TS3007a.A.dialog-act.vkaraisk.167	Yeah . 	
+TS3007a.D.dialog-act.vkaraisk.61	And now ? 	
+TS3007a.D.dialog-act.vkaraisk.62	Okay . 	
+TS3007a.D.dialog-act.vkaraisk.63	Okay , 	
+TS3007a.D.dialog-act.vkaraisk.64	thanks . 	
+TS3007a.D.dialog-act.vkaraisk.65	'Kay , 	
+TS3007a.D.dialog-act.vkaraisk.66	I've speed up . 	
+TS3007a.D.dialog-act.vkaraisk.67	'Kay , that's fine . 	
+TS3007a.D.dialog-act.vkaraisk.68	Line width . 	
+TS3007a.C.dialog-act.vkaraisk.20	By the way , 	
+TS3007a.C.dialog-act.vkaraisk.21	why was your cat uh red ? 	
+TS3007a.A.dialog-act.vkaraisk.168	Because uh my cat is red uh at home . 	
+TS3007a.C.dialog-act.vkaraisk.22	Oh , okay . 	
+TS3007a.B.dialog-act.vkaraisk.26	Oh . 	
+TS3007a.A.dialog-act.vkaraisk.169	And I have red hair , 	
+TS3007a.C.dialog-act.vkaraisk.23	Oh , yeah , sure . 	
+TS3007a.A.dialog-act.vkaraisk.170	so uh must be red . 	
+TS3007a.B.dialog-act.vkaraisk.27	It's a very bloody cat . 	
+TS3007a.B.dialog-act.vkaraisk.28	It's a frog . 	
+TS3007a.C.dialog-act.vkaraisk.24	No , 	
+TS3007a.C.dialog-act.vkaraisk.25	it's a turtle . 	
+TS3007a.B.dialog-act.vkaraisk.29	Uh it's an apple . 	
+TS3007a.C.dialog-act.vkaraisk.26		
+TS3007a.D.dialog-act.vkaraisk.69	It's not an apple . 	
+TS3007a.C.dialog-act.vkaraisk.27	Must be a dog . 	
+TS3007a.B.dialog-act.vkaraisk.30	A dog ? 	
+TS3007a.C.dialog-act.vkaraisk.28	Yeah . 	
+TS3007a.D.dialog-act.vkaraisk.70	Hmm . Colour . 	
+TS3007a.D.dialog-act.vkaraisk.71	Something like this . 	
+TS3007a.D.dialog-act.vkaraisk.72	Smaller . 	
+TS3007a.A.dialog-act.vkaraisk.171		
+TS3007a.B.dialog-act.vkaraisk.31	Huh ? 	
+TS3007a.C.dialog-act.vkaraisk.29		
+TS3007a.B.dialog-act.vkaraisk.32	Oh , 	
+TS3007a.B.dialog-act.vkaraisk.33	it is a turtle . 	
+TS3007a.A.dialog-act.vkaraisk.172	It is a turtle . 	
+TS3007a.A.dialog-act.vkaraisk.173	Why a turtle ? Why ? Tim ? 	
+TS3007a.D.dialog-act.vkaraisk.73	Um 'Cause I liked Teenage Mutant Hero Turtles . 	
+TS3007a.B.dialog-act.vkaraisk.34		
+TS3007a.A.dialog-act.vkaraisk.174	You watched it a lot ? 	
+TS3007a.C.dialog-act.vkaraisk.30		
+TS3007a.D.dialog-act.vkaraisk.75		
+TS3007a.D.dialog-act.vkaraisk.74	Uh ? 	
+TS3007a.A.dialog-act.vkaraisk.175	You watched it a lot ? 	
+TS3007a.B.dialog-act.vkaraisk.35	It's uh inside its shell . You'll be uh finished sooner . 	
+TS3007a.D.dialog-act.vkaraisk.76	No , 	
+TS3007a.D.dialog-act.vkaraisk.77	it's uh 	
+TS3007a.A.dialog-act.vkaraisk.176	It's a scared turtle . 	
+TS3007a.D.dialog-act.vkaraisk.78	No no . 	
+TS3007a.D.dialog-act.vkaraisk.79	It's coming up . 	
+TS3007a.D.dialog-act.vkaraisk.80	Mm . 	
+TS3007a.D.dialog-act.vkaraisk.81	Uh . 	
+TS3007a.B.dialog-act.vkaraisk.36	Wow . 	
+TS3007a.A.dialog-act.vkaraisk.177		
+TS3007a.B.dialog-act.vkaraisk.37		
+TS3007a.C.dialog-act.vkaraisk.31		
+TS3007a.A.dialog-act.vkaraisk.178	Okay , Tim . Thank you . 	
+TS3007a.D.dialog-act.vkaraisk.82	Something like this . Okay , you know 	
+TS3007a.C.dialog-act.vkaraisk.32		
+TS3007a.B.dialog-act.vkaraisk.38		
+TS3007a.D.dialog-act.vkaraisk.83	Very artistic . 	
+TS3007a.A.dialog-act.vkaraisk.179	Jurgen , you want to go next ? 	
+TS3007a.B.dialog-act.vkaraisk.39	Yes . Okay . 	
+TS3007a.D.dialog-act.vkaraisk.84	Yeah ? 	
+TS3007a.B.dialog-act.vkaraisk.40	Wha 	
+TS3007a.B.dialog-act.vkaraisk.41	Thank you . 	
+TS3007a.D.dialog-act.vkaraisk.85	Here you go . 	
+TS3007a.B.dialog-act.vkaraisk.42	Yeah . 	
+TS3007a.B.dialog-act.vkaraisk.43	Um 	
+TS3007a.D.dialog-act.vkaraisk.86		
+TS3007a.C.dialog-act.vkaraisk.33		
+TS3007a.B.dialog-act.vkaraisk.44	How did it work ? 	
+TS3007a.A.dialog-act.vkaraisk.180	Format ? 	
+TS3007a.B.dialog-act.vkaraisk.45	Performance ? 	
+TS3007a.A.dialog-act.vkaraisk.181	And then you have the the current colour , 	
+TS3007a.A.dialog-act.vkaraisk.182	you can change . 	
+TS3007a.A.dialog-act.vkaraisk.183	So no red or green . 	
+TS3007a.B.dialog-act.vkaraisk.46	And a pen ? 	
+TS3007a.A.dialog-act.vkaraisk.184	And uh line uh width . 	
+TS3007a.D.dialog-act.vkaraisk.87		
+TS3007a.A.dialog-act.vkaraisk.185	I had five . 	
+TS3007a.A.dialog-act.vkaraisk.186	Tim had 	
+TS3007a.A.dialog-act.vkaraisk.187	Uh Tim , what kinda line width did you have ? 	
+TS3007a.B.dialog-act.vkaraisk.47	Um 	
+TS3007a.D.dialog-act.vkaraisk.88	Uh the big lines were like nine . 	
+TS3007a.A.dialog-act.vkaraisk.188		
+TS3007a.C.dialog-act.vkaraisk.34		
+TS3007a.A.dialog-act.vkaraisk.189	Okay . 	
+TS3007a.A.dialog-act.vkaraisk.190	It's a dog . 	
+TS3007a.B.dialog-act.vkaraisk.48	Well , 	
+TS3007a.C.dialog-act.vkaraisk.35	Uh . 	
+TS3007a.B.dialog-act.vkaraisk.49	very good . 	
+TS3007a.B.dialog-act.vkaraisk.50	I just uh thought I'd pick the easiest one . 	
+TS3007a.A.dialog-act.vkaraisk.191	Okay . 	
+TS3007a.A.dialog-act.vkaraisk.192	Why a dog ? 	
+TS3007a.A.dialog-act.vkaraisk.193	You have a dog at home ? 	
+TS3007a.B.dialog-act.vkaraisk.51	Well , 	
+TS3007a.B.dialog-act.vkaraisk.52	we had a dog , a few years ago . 	
+TS3007a.D.dialog-act.vkaraisk.89	Uh , it's p 	
+TS3007a.A.dialog-act.vkaraisk.194	Had a dog ? 	
+TS3007a.A.dialog-act.vkaraisk.195	Yeah ? 	
+TS3007a.B.dialog-act.vkaraisk.53	And and it , 	
+TS3007a.B.dialog-act.vkaraisk.54	yeah , 	
+TS3007a.B.dialog-act.vkaraisk.55	when it died we didn't get a new one or something . 	
+TS3007a.A.dialog-act.vkaraisk.196	Ah . 	
+TS3007a.D.dialog-act.vkaraisk.90	It's pretty good uh 	
+TS3007a.B.dialog-act.vkaraisk.56	But uh 	
+TS3007a.C.dialog-act.vkaraisk.36		
+TS3007a.A.dialog-act.vkaraisk.197	You have an artistic uh inner middle . 	
+TS3007a.D.dialog-act.vkaraisk.91	An artist . 	
+TS3007a.A.dialog-act.vkaraisk.198		
+TS3007a.B.dialog-act.vkaraisk.57	Uh a Graphical User Designer , so 	
+TS3007a.A.dialog-act.vkaraisk.199		
+TS3007a.C.dialog-act.vkaraisk.37	Hmm . 	
+TS3007a.B.dialog-act.vkaraisk.58	Hey . 	
+TS3007a.D.dialog-act.vkaraisk.92	Think you uh picked the wrong uh function . Wrong job . 	
+TS3007a.A.dialog-act.vkaraisk.200		
+TS3007a.B.dialog-act.vkaraisk.59	Oh . 	
+TS3007a.D.dialog-act.vkaraisk.93		
+TS3007a.B.dialog-act.vkaraisk.60	No . Can work together . Ah colour . 	
+TS3007a.A.dialog-act.vkaraisk.201	So I think you can see it's real uh really a easy programme to use . Not difficult at all . 	
+TS3007a.D.dialog-act.vkaraisk.94	Wha 	
+TS3007a.B.dialog-act.vkaraisk.61	Well , 	
+TS3007a.B.dialog-act.vkaraisk.62	it's okay . 	
+TS3007a.A.dialog-act.vkaraisk.202	Okay , 	
+TS3007a.A.dialog-act.vkaraisk.203	thank you . 	
+TS3007a.C.dialog-act.vkaraisk.38		
+TS3007a.D.dialog-act.vkaraisk.95	That's enough , 	
+TS3007a.B.dialog-act.vkaraisk.63		
+TS3007a.D.dialog-act.vkaraisk.96	thanks . 	
+TS3007a.A.dialog-act.vkaraisk.204	Janus ? The last one ? 	
+TS3007a.C.dialog-act.vkaraisk.39	Yeah , sure . 	
+TS3007a.B.dialog-act.vkaraisk.64	Yeah . 	
+TS3007a.C.dialog-act.vkaraisk.40	Uh thanks . 	
+TS3007a.D.dialog-act.vkaraisk.97	I wonder . 	
+TS3007a.A.dialog-act.vkaraisk.205	Yeah . 	
+TS3007a.C.dialog-act.vkaraisk.41		
+TS3007a.A.dialog-act.vkaraisk.206	After a cat , a turtle and a dog . 	
+TS3007a.D.dialog-act.vkaraisk.98		
+TS3007a.A.dialog-act.vkaraisk.207	I think he's gonna draw an elephant . 	
+TS3007a.B.dialog-act.vkaraisk.65		
+TS3007a.C.dialog-act.vkaraisk.42	I figure I should do something like that , 	
+TS3007a.C.dialog-act.vkaraisk.43	but I'm gonna do something much more difficult . 	
+TS3007a.A.dialog-act.vkaraisk.208		
+TS3007a.D.dialog-act.vkaraisk.99		
+TS3007a.A.dialog-act.vkaraisk.209	Uh-oh . 	
+TS3007a.B.dialog-act.vkaraisk.66	Uh-oh . 	
+TS3007a.B.dialog-act.vkaraisk.67	Oh , 	
+TS3007a.B.dialog-act.vkaraisk.68	he is the artistic design . 	
+TS3007a.A.dialog-act.vkaraisk.210		
+TS3007a.C.dialog-act.vkaraisk.44		
+TS3007a.D.dialog-act.vkaraisk.100	I'm gonna design a remote uh remote control animal . 	
+TS3007a.B.dialog-act.vkaraisk.69	Remote control animal . 	
+TS3007a.C.dialog-act.vkaraisk.45	Exactly . Uh 	
+TS3007a.A.dialog-act.vkaraisk.211		
+TS3007a.D.dialog-act.vkaraisk.101	Oh . 	
+TS3007a.A.dialog-act.vkaraisk.212		
+TS3007a.D.dialog-act.vkaraisk.102	Sorry . 	
+TS3007a.B.dialog-act.vkaraisk.70	Well 	
+TS3007a.B.dialog-act.vkaraisk.71	with the interface , it might be easier to ha to draw here and display there uh . 	
+TS3007a.D.dialog-act.vkaraisk.103	Yeah . 	
+TS3007a.A.dialog-act.vkaraisk.213		
+TS3007a.D.dialog-act.vkaraisk.104	That that might be easier . 	
+TS3007a.D.dialog-act.vkaraisk.105	But at the other hand , uh a pen like that is easy to hold in your hand , 	
+TS3007a.D.dialog-act.vkaraisk.106	and 	
+TS3007a.A.dialog-act.vkaraisk.214	No . 	
+TS3007a.D.dialog-act.vkaraisk.107	I think it's easier to draw . 	
+TS3007a.A.dialog-act.vkaraisk.215	Better to draw with a with 	
+TS3007a.D.dialog-act.vkaraisk.108	Yeah . With a pen than with a mouse mouse . 	
+TS3007a.B.dialog-act.vkaraisk.72	Than on the , with 	
+TS3007a.B.dialog-act.vkaraisk.73	Yeah , 	
+TS3007a.B.dialog-act.vkaraisk.74	I m I mean like uh like on here , drawing drawing uh . And then displaying on screen , but 	
+TS3007a.A.dialog-act.vkaraisk.216		
+TS3007a.C.dialog-act.vkaraisk.46		
+TS3007a.D.dialog-act.vkaraisk.109	Mouth . 	
+TS3007a.D.dialog-act.vkaraisk.110	Oh , okay . 	
+TS3007a.D.dialog-act.vkaraisk.111	Yeah . 	
+TS3007a.D.dialog-act.vkaraisk.112	W with this paper it's too mu too expensive . 	
+TS3007a.A.dialog-act.vkaraisk.217	But what is he uh ? 	
+TS3007a.B.dialog-act.vkaraisk.75	Too expensive , yeah . 	
+TS3007a.A.dialog-act.vkaraisk.218	Is it a rabbit ? 	
+TS3007a.C.dialog-act.vkaraisk.47	Yes . 	
+TS3007a.D.dialog-act.vkaraisk.113		
+TS3007a.A.dialog-act.vkaraisk.219	Do you have a rabbit at home ? 	
+TS3007a.C.dialog-act.vkaraisk.48	No . 	
+TS3007a.D.dialog-act.vkaraisk.114	It's a rabbit with uh broken legs ? 	
+TS3007a.B.dialog-act.vkaraisk.76	A green rabbit . 	
+TS3007a.C.dialog-act.vkaraisk.49	No . 	
+TS3007a.A.dialog-act.vkaraisk.220	Is it a white rabbit f 	
+TS3007a.A.dialog-act.vkaraisk.221	It's the white rabbit from The Matrix . 	
+TS3007a.C.dialog-act.vkaraisk.50	Yeah , exactly . 	
+TS3007a.A.dialog-act.vkaraisk.222	Okay , then yeah . 	
+TS3007a.B.dialog-act.vkaraisk.77	There , the g white green rabbit . 	
+TS3007a.C.dialog-act.vkaraisk.51	So . 	
+TS3007a.B.dialog-act.vkaraisk.78	He's a little bit stoned there . 	
+TS3007a.C.dialog-act.vkaraisk.52		
+TS3007a.C.dialog-act.vkaraisk.53	Uh I figured this is a pretty b good impression of a rabbit . 	
+TS3007a.D.dialog-act.vkaraisk.115	Yeah . It will do . 	
+TS3007a.C.dialog-act.vkaraisk.54	Uh uh Uh well . 	
+TS3007a.A.dialog-act.vkaraisk.223	Okay . 	
+TS3007a.A.dialog-act.vkaraisk.224	Finishing touch 	
+TS3007a.A.dialog-act.vkaraisk.225	and then we're going further . 	
+TS3007a.B.dialog-act.vkaraisk.79		
+TS3007a.D.dialog-act.vkaraisk.117	Project Manager ? Uh 	
+TS3007a.A.dialog-act.vkaraisk.226	Yeah ? 	
+TS3007a.C.dialog-act.vkaraisk.55	Where does the pen go ? 	
+TS3007a.C.dialog-act.vkaraisk.56	Just uh 	
+TS3007a.D.dialog-act.vkaraisk.118	Have you been uh counting the time ? 	
+TS3007a.A.dialog-act.vkaraisk.227	Yeah , a little . 	
+TS3007a.D.dialog-act.vkaraisk.119	Okay . 	
+TS3007a.D.dialog-act.vkaraisk.120	Let's go on then . 	
+TS3007a.A.dialog-act.vkaraisk.228	Well , 	
+TS3007a.A.dialog-act.vkaraisk.229	I think the dog is the the most uh artistic . 	
+TS3007a.C.dialog-act.vkaraisk.57	Uh I figured the rabbit was actually the most uh impressive . 	
+TS3007a.D.dialog-act.vkaraisk.121		
+TS3007a.A.dialog-act.vkaraisk.230	Don't choose for youself . 	
+TS3007a.C.dialog-act.vkaraisk.58	Oh , sorry . 	
+TS3007a.A.dialog-act.vkaraisk.231	That's selfish . 	
+TS3007a.A.dialog-act.vkaraisk.232	Okay , 	
+TS3007a.D.dialog-act.vkaraisk.122	It's pretty abstract . 	
+TS3007a.A.dialog-act.vkaraisk.233	now we're gonna dig into the to the serious stuff . 	
+TS3007a.A.dialog-act.vkaraisk.234	Uh the selling price for the remote will be uh twenty five Euro , 	
+TS3007a.A.dialog-act.vkaraisk.235	and the production cost uh may not be more than uh twenty and a half Euro . 	
+TS3007a.A.dialog-act.vkaraisk.236	So uh 	
+TS3007a.A.dialog-act.vkaraisk.237	from my point of view , I don't think it's uh gonna be very uh very high tech , high definition , uh ultra modern uh kinda remote , for twelve uh fift uh twelve and a half Euro . 	
+TS3007a.D.dialog-act.vkaraisk.123		
+TS3007a.A.dialog-act.vkaraisk.238	Uh the profit we must make with uh the new remote is uh fifty million Euro . 	
+TS3007a.A.dialog-act.vkaraisk.239	So that's a lot . 	
+TS3007a.A.dialog-act.vkaraisk.240	We have to sell uh a lot of uh 	
+TS3007a.B.dialog-act.vkaraisk.80	Yeah , 	
+TS3007a.B.dialog-act.vkaraisk.81	how much is it ? 	
+TS3007a.D.dialog-act.vkaraisk.124	Like how much ? 	
+TS3007a.B.dialog-act.vkaraisk.82	Hundred million uh remotes or something ? 	
+TS3007a.A.dialog-act.vkaraisk.241	Uh I think uh w when the selling price is twenty five , uh uh you got two million , two million remotes . 	
+TS3007a.B.dialog-act.vkaraisk.83	Oh yeah . 	
+TS3007a.C.dialog-act.vkaraisk.59	Twenty million . 	
+TS3007a.C.dialog-act.vkaraisk.60	Two million , oh yeah , two million . Yeah . 	
+TS3007a.A.dialog-act.vkaraisk.242	But our marketing range is uh , market range is international . 	
+TS3007a.A.dialog-act.vkaraisk.243	So we have uh virtually the whole world we can sell uh 	
+TS3007a.A.dialog-act.vkaraisk.244	we can sell our r remotes to . 	
+TS3007a.A.dialog-act.vkaraisk.245	At least that uh countries which have uh a television . 	
+TS3007a.D.dialog-act.vkaraisk.125	Yeah . 	
+TS3007a.A.dialog-act.vkaraisk.246	Um So 	
+TS3007a.A.dialog-act.vkaraisk.247	now it's time uh for us to uh going uh to discuss a little uh things . 	
+TS3007a.A.dialog-act.vkaraisk.248	You can think about uh experience with a remote control uh yourself , at home . 	
+TS3007a.A.dialog-act.vkaraisk.249	What you think might be uh a useful uh new feature . 	
+TS3007a.A.dialog-act.vkaraisk.250	What uh what can distinguish our new trendy remote control from all the others . 	
+TS3007a.A.dialog-act.vkaraisk.251	Um so uh 	
+TS3007a.A.dialog-act.vkaraisk.252	let's uh let's uh discuss a little . 	
+TS3007a.A.dialog-act.vkaraisk.253	I'm gonna join you at the table . 	
+TS3007a.A.dialog-act.vkaraisk.254	Well 	
+TS3007a.A.dialog-act.vkaraisk.255	what what's the most uh important thing at a remote control ? 	
+TS3007a.B.dialog-act.vkaraisk.84	Um well 	
+TS3007a.B.dialog-act.vkaraisk.85	I think the most important thing of a remote control is that you can switch channels . 	
+TS3007a.B.dialog-act.vkaraisk.86	And my opinion is you should keep it as basic as possible . Uh 	
+TS3007a.A.dialog-act.vkaraisk.256	Okay . 	
+TS3007a.A.dialog-act.vkaraisk.257	So not a not a remote control who uh uh which can uh can be used for television and a D_V_D_ and radio 	
+TS3007a.A.dialog-act.vkaraisk.258	and Or just only 	
+TS3007a.D.dialog-act.vkaraisk.126	Yeah . I think so . 	
+TS3007a.D.dialog-act.vkaraisk.127	Uh but I have some points . 	
+TS3007a.D.dialog-act.vkaraisk.128	Can I show them on the on the big screen ? Maybe ? 	
+TS3007a.A.dialog-act.vkaraisk.259	If you have them on uh I can uh 	
+TS3007a.D.dialog-act.vkaraisk.129	Yeah . Yeah , I can find Uh . 	
+TS3007a.A.dialog-act.vkaraisk.260	Okay . 	
+TS3007a.A.dialog-act.vkaraisk.261	Oh , 	
+TS3007a.A.dialog-act.vkaraisk.262	in case you want it This is a dead kind of fly . Between the the the , yeah , the the uh 	
+TS3007a.B.dialog-act.vkaraisk.87		
+TS3007a.D.dialog-act.vkaraisk.130	Screen ? 	
+TS3007a.A.dialog-act.vkaraisk.263	Yeah , be The screens . 	
+TS3007a.D.dialog-act.vkaraisk.131	Okay . 	
+TS3007a.B.dialog-act.vkaraisk.88	Is it possible to open pen drawings in this uh on this screen ? 	
+TS3007a.A.dialog-act.vkaraisk.264	No no no . 	
+TS3007a.A.dialog-act.vkaraisk.265	Only 	
+TS3007a.A.dialog-act.vkaraisk.266	All the drawings go there , at the left uh 	
+TS3007a.B.dialog-act.vkaraisk.89	Uh but um which 	
+TS3007a.A.dialog-act.vkaraisk.267		
+TS3007a.B.dialog-act.vkaraisk.90	The ones we made on the 	
+TS3007a.A.dialog-act.vkaraisk.268	Oh , that pen drawings . 	
+TS3007a.A.dialog-act.vkaraisk.269	Uh no , 	
+TS3007a.A.dialog-act.vkaraisk.270	I think uh when it is uh in Word and you have saved it in the Shared Documents folder , you can show it there . 	
+TS3007a.B.dialog-act.vkaraisk.91	Oh , only in Word , 	
+TS3007a.B.dialog-act.vkaraisk.92	okay . 	
+TS3007a.A.dialog-act.vkaraisk.271	Yeah . 	
+TS3007a.D.dialog-act.vkaraisk.132	Okay , 	
+TS3007a.D.dialog-act.vkaraisk.133	I have some uh points from marketing point of view . 	
+TS3007a.A.dialog-act.vkaraisk.272	Yeah . 	
+TS3007a.D.dialog-act.vkaraisk.134	Um just the standard thing li things like uh intuitive , uh small , fairly cheap . 	
+TS3007a.D.dialog-act.vkaraisk.135	Uh it's pretty cheap , twenty five Euros . 	
+TS3007a.D.dialog-act.vkaraisk.136	Uh brand independent . Um I think , it doesn't have to matter uh which brand your T_V_ or other thing is . Um 	
+TS3007a.A.dialog-act.vkaraisk.273	Yeah . 	
+TS3007a.A.dialog-act.vkaraisk.274	Okay . 	
+TS3007a.A.dialog-act.vkaraisk.275	Five minutes . 	
+TS3007a.D.dialog-act.vkaraisk.137	Five minutes ? 	
+TS3007a.D.dialog-act.vkaraisk.138	Okay , 	
+TS3007a.A.dialog-act.vkaraisk.276	Yeah . 	
+TS3007a.D.dialog-act.vkaraisk.139	I'll wrap it up quickly . 	
+TS3007a.D.dialog-act.vkaraisk.140	Um I personally think it has to be multi-purpose . 	
+TS3007a.D.dialog-act.vkaraisk.141	Uh most of the remote c uh remote controls are uh just for one purpose . 	
+TS3007a.A.dialog-act.vkaraisk.277	Yeah . 	
+TS3007a.A.dialog-act.vkaraisk.278	Yeah . 	
+TS3007a.D.dialog-act.vkaraisk.142	And uh by making it multi-purpose , it uh has a new feature , adds a new feature to the market , 	
+TS3007a.D.dialog-act.vkaraisk.143	and distinguish from uh from current products . 	
+TS3007a.A.dialog-act.vkaraisk.279	Mm-hmm . 	
+TS3007a.D.dialog-act.vkaraisk.144	Um maybe some other technology than infrared . 	
+TS3007a.D.dialog-act.vkaraisk.145	Uh I rather find it very annoying um , like when someone is standing in front of the T_V_ then you can't switch it . 	
+TS3007a.D.dialog-act.vkaraisk.146	Um think about um sending it over radio waves or bluetooth . 	
+TS3007a.A.dialog-act.vkaraisk.280	Okay . Okay . 	
+TS3007a.D.dialog-act.vkaraisk.147	That might be a little bit uh expensive . Um 	
+TS3007a.D.dialog-act.vkaraisk.148	And something like an L_C_D_ screen . 	
+TS3007a.B.dialog-act.vkaraisk.93	For what purpose ? 	
+TS3007a.D.dialog-act.vkaraisk.149	Um uh like I said here um Maybe it's easy . 	
+TS3007a.D.dialog-act.vkaraisk.150	It's nice as an added feature feature , 	
+TS3007a.D.dialog-act.vkaraisk.151	that um , when you're on a certain channel , you can see on the L_C_D_ screen uh what programmes are coming up or 	
+TS3007a.A.dialog-act.vkaraisk.281	Okay . 	
+TS3007a.A.dialog-act.vkaraisk.282	So it be uh a multi-purpose uh very technically uh high uh 	
+TS3007a.D.dialog-act.vkaraisk.152	From my point of view , yeah . 	
+TS3007a.A.dialog-act.vkaraisk.283	remote ? 	
+TS3007a.A.dialog-act.vkaraisk.284	Yeah , 	
+TS3007a.A.dialog-act.vkaraisk.285	it must be really uh innovative , technical-wise ? 	
+TS3007a.D.dialog-act.vkaraisk.153	Yeah , 	
+TS3007a.D.dialog-act.vkaraisk.154	it has to be 	
+TS3007a.D.dialog-act.vkaraisk.155	uh Yeah , 	
+TS3007a.D.dialog-act.vkaraisk.156	our company is very uh good in making new innovative uh things . 	
+TS3007a.A.dialog-act.vkaraisk.286	Yeah . 	
+TS3007a.A.dialog-act.vkaraisk.287	So yeah , 	
+TS3007a.B.dialog-act.vkaraisk.94	We 	
+TS3007a.D.dialog-act.vkaraisk.157	So i i i i 	
+TS3007a.A.dialog-act.vkaraisk.288	I I agree with you . 	
+TS3007a.A.dialog-act.vkaraisk.289	So we must focus on things who are really uh really add something to uh to 	
+TS3007a.D.dialog-act.vkaraisk.158	To the current market . 	
+TS3007a.A.dialog-act.vkaraisk.290	Yeah . 	
+TS3007a.D.dialog-act.vkaraisk.159	Look , 	
+TS3007a.D.dialog-act.vkaraisk.160	you got some cheap uh remote controls there . 	
+TS3007a.D.dialog-act.vkaraisk.161	They just uh 	
+TS3007a.D.dialog-act.vkaraisk.162	Yeah , 	
+TS3007a.D.dialog-act.vkaraisk.163	you got a dozen of 'em . 	
+TS3007a.A.dialog-act.vkaraisk.291	No . 	
+TS3007a.D.dialog-act.vkaraisk.164	But when you enter a new market with a remote control and 	
+TS3007a.A.dialog-act.vkaraisk.292	Mm-hmm . 	
+TS3007a.D.dialog-act.vkaraisk.165	uh wanna gain market share 	
+TS3007a.A.dialog-act.vkaraisk.293	Yeah . 	
+TS3007a.D.dialog-act.vkaraisk.166	you have to do something special , I think . 	
+TS3007a.A.dialog-act.vkaraisk.294	Yeah . 	
+TS3007a.A.dialog-act.vkaraisk.295	But we have to keep an eye that it's 	
+TS3007a.A.dialog-act.vkaraisk.296	Uh at the beginning of such a project , it's it's it's very uh cool to talk about , well , this would be cool , that would be cool . 	
+TS3007a.D.dialog-act.vkaraisk.167	Yeah . 	
+TS3007a.A.dialog-act.vkaraisk.297	Uh but we must not uh lose uh sight of the the user uh uh friendly uh 	
+TS3007a.D.dialog-act.vkaraisk.168	Yeah , of course . 	
+TS3007a.B.dialog-act.vkaraisk.95	And and the price . 	
+TS3007a.D.dialog-act.vkaraisk.169	But it's 	
+TS3007a.D.dialog-act.vkaraisk.170	But but this is just from marketing uh aspect . 	
+TS3007a.A.dialog-act.vkaraisk.298	Yeah okay . Yeah . Okay . 	
+TS3007a.D.dialog-act.vkaraisk.171	I don't know anything about user interface or design . 	
+TS3007a.B.dialog-act.vkaraisk.96	Okay . 	
+TS3007a.A.dialog-act.vkaraisk.299	And that's because we have him . 	
+TS3007a.C.dialog-act.vkaraisk.61	And and him . 	
+TS3007a.D.dialog-act.vkaraisk.172		
+TS3007a.B.dialog-act.vkaraisk.97	And him . 	
+TS3007a.A.dialog-act.vkaraisk.300	Okay , 	
+TS3007a.A.dialog-act.vkaraisk.301	uh next meeting will start in thirty minutes . 	
+TS3007a.A.dialog-act.vkaraisk.302	So uh 	
+TS3007a.A.dialog-act.vkaraisk.303	you uh will have uh individual actions 	
+TS3007a.A.dialog-act.vkaraisk.304	where I presume uh will be some feedback , uh via the m the mail . 	
+TS3007a.A.dialog-act.vkaraisk.305	Um the the the Industrial uh Designer has to uh look at the working design . 	
+TS3007a.A.dialog-act.vkaraisk.306	Uh the User Interface Designer has to look at the technical functions . 	
+TS3007a.A.dialog-act.vkaraisk.307	So 	
+TS3007a.B.dialog-act.vkaraisk.98	Yeah . Um 	
+TS3007a.A.dialog-act.vkaraisk.308	that's the thing we uh discussed . 	
+TS3007a.B.dialog-act.vkaraisk.99	one thing uh , 	
+TS3007a.A.dialog-act.vkaraisk.309	Yeah ? 	
+TS3007a.B.dialog-act.vkaraisk.100	we must first agree on uh what we're going to m going to make . 	
+TS3007a.B.dialog-act.vkaraisk.101	Do we 	
+TS3007a.B.dialog-act.vkaraisk.102	Are we going to use um it it for multiple systems ? 	
+TS3007a.B.dialog-act.vkaraisk.103	Or uh 	
+TS3007a.B.dialog-act.vkaraisk.104	We should have some agreement on that before we 	
+TS3007a.A.dialog-act.vkaraisk.310	Okay . 	
+TS3007a.A.dialog-act.vkaraisk.311	Um wha 	
+TS3007a.D.dialog-act.vkaraisk.173	Mm uh 	
+TS3007a.D.dialog-act.vkaraisk.174	I I don't think we have to be , we have to agree on that . Uh 	
+TS3007a.C.dialog-act.vkaraisk.62	I figure we could get back to it on the next meeting actually . 	
+TS3007a.D.dialog-act.vkaraisk.175	I think th that's a pha 	
+TS3007a.D.dialog-act.vkaraisk.176	Yeah . 	
+TS3007a.D.dialog-act.vkaraisk.177	That's a phase further . 	
+TS3007a.B.dialog-act.vkaraisk.105	Okay . 	
+TS3007a.C.dialog-act.vkaraisk.63	Yeah . 	
+TS3007a.D.dialog-act.vkaraisk.178	Ju just uh 	
+TS3007a.D.dialog-act.vkaraisk.179	make some mock-ups , some some general ideas . 	
+TS3007a.B.dialog-act.vkaraisk.106	Ah okay . 	
+TS3007a.D.dialog-act.vkaraisk.180	And and then we can plan 	
+TS3007a.D.dialog-act.vkaraisk.181	Yeah . 	
+TS3007a.A.dialog-act.vkaraisk.312	Yeah . 	
+TS3007a.D.dialog-act.vkaraisk.182	We can plan further , I think . 	
+TS3007a.A.dialog-act.vkaraisk.313	Yeah . 	
+TS3007a.A.dialog-act.vkaraisk.314	But maybe , because uh you are working on the user requirements , 	
+TS3007a.A.dialog-act.vkaraisk.315	you are working on the technical functions , 	
+TS3007a.A.dialog-act.vkaraisk.316	we uh must uh have a little or kinda uh uh uh 	
+TS3007a.A.dialog-act.vkaraisk.317	How do you call it ? Uh 	
+TS3007a.B.dialog-act.vkaraisk.107	Consensus on the , what we're gonna do . 	
+TS3007a.A.dialog-act.vkaraisk.318	Uh a little plan on on what we're going to do . 	
+TS3007a.A.dialog-act.vkaraisk.319	So you don't uh uh come up with the user requirements who don't fit the the the the technical functions at all . 	
+TS3007a.A.dialog-act.vkaraisk.320	Some basic things we co we want to going to do . 	
+TS3007a.A.dialog-act.vkaraisk.321	Uh I think that's well uh Yeah . 	
+TS3007a.A.dialog-act.vkaraisk.322	Will come in handy . 	
+TS3007a.D.dialog-act.vkaraisk.183	Mm yeah . 	
+TS3007a.D.dialog-act.vkaraisk.184	I don't know . 	
+TS3007a.B.dialog-act.vkaraisk.108	Yeah . 	
+TS3007a.D.dialog-act.vkaraisk.185	You decide . 	
+TS3007a.A.dialog-act.vkaraisk.323	Okay . 	
+TS3007a.D.dialog-act.vkaraisk.186	You're the Project Manager . 	
+TS3007a.A.dialog-act.vkaraisk.324	W He says 	
+TS3007a.B.dialog-act.vkaraisk.109	if the technical functions have to be designed , I I've gotta know for what kind of machines they will be . 	
+TS3007a.A.dialog-act.vkaraisk.325	Yeah . 	
+TS3007a.B.dialog-act.vkaraisk.110	Or do we use it a text screen ? 	
+TS3007a.B.dialog-act.vkaraisk.111	Or uh will it be with uh with bluetooth or 	
+TS3007a.A.dialog-act.vkaraisk.326	Well , 	
+TS3007a.A.dialog-act.vkaraisk.327	th that's that's really a step further . 	
+TS3007a.A.dialog-act.vkaraisk.328	But if you say uh is it uh uh one way or multi-purpose , that's a 	
+TS3007a.B.dialog-act.vkaraisk.112	Okay . 	
+TS3007a.B.dialog-act.vkaraisk.113	Mm-hmm . 	
+TS3007a.D.dialog-act.vkaraisk.187	Uh tha that's a same step further . 	
+TS3007a.C.dialog-act.vkaraisk.64	Yeah , actually it is . 	
+TS3007a.A.dialog-act.vkaraisk.329	Why ? 	
+TS3007a.D.dialog-act.vkaraisk.188	Yeah . 	
+TS3007a.A.dialog-act.vkaraisk.330	Why ? 	
+TS3007a.C.dialog-act.vkaraisk.65	Then looking at individual components , 	
+TS3007a.D.dialog-act.vkaraisk.189	Uh . 	
+TS3007a.C.dialog-act.vkaraisk.66	so that's actually a f step further . 	
+TS3007a.D.dialog-act.vkaraisk.190	Yeah . 	
+TS3007a.A.dialog-act.vkaraisk.331	Yeah . 	
+TS3007a.D.dialog-act.vkaraisk.191	Like 	
+TS3007a.D.dialog-act.vkaraisk.192	we all have a list of uh things that has to b that have to be in it , or how it has to be like . 	
+TS3007a.D.dialog-act.vkaraisk.194	And then in the next meeting we decide 	
+TS3007a.A.dialog-act.vkaraisk.332	Yeah . 	
+TS3007a.C.dialog-act.vkaraisk.67	Yeah , 	
+TS3007a.C.dialog-act.vkaraisk.68	we can take it from there . 	
+TS3007a.D.dialog-act.vkaraisk.195	w what it's gonna be . 	
+TS3007a.C.dialog-act.vkaraisk.69	Yeah , I agree uh , 	
+TS3007a.A.dialog-act.vkaraisk.333	Okay . 	
+TS3007a.D.dialog-act.vkaraisk.196	A 	
+TS3007a.C.dialog-act.vkaraisk.70	we can take it from there . 	
+TS3007a.D.dialog-act.vkaraisk.197	And then you s then you can delete uh 	
+TS3007a.C.dialog-act.vkaraisk.71	Or edit . 	
+TS3007a.D.dialog-act.vkaraisk.198	the o the obsolete uh details . 	
+TS3007a.A.dialog-act.vkaraisk.334	Okay . 	
+TS3007a.A.dialog-act.vkaraisk.335	So uh 	
+TS3007a.D.dialog-act.vkaraisk.199	I think . 	
+TS3007a.A.dialog-act.vkaraisk.336	each individually i individually uh must think on what's uh at uh his point of view is the most important . 	
+TS3007a.D.dialog-act.vkaraisk.200	Yeah . 	
+TS3007a.A.dialog-act.vkaraisk.337	And uh then we're going to fit uh all the pieces together the next meeting . 	
+TS3007a.D.dialog-act.vkaraisk.201	Yeah . 	
+TS3007a.A.dialog-act.vkaraisk.338	I must finish off now , 	
+TS3007a.A.dialog-act.vkaraisk.339	so it's over . 	
+TS3007a.A.dialog-act.vkaraisk.340	You uh will receive specific specific instructions uh by your personal coach . 	
+TS3007a.A.dialog-act.vkaraisk.341	And I see you in uh thirty minutes . 	
+TS3007a.C.dialog-act.vkaraisk.72	Okay , 	
+TS3007a.B.dialog-act.vkaraisk.114	Okay . 	
+TS3007a.A.dialog-act.vkaraisk.342	Thank you . 	
+TS3007a.C.dialog-act.vkaraisk.73	cheers . 	
+TS3007a.B.dialog-act.vkaraisk.115	Sorry . 	
+TS3007a.A.dialog-act.vkaraisk.343	Be careful . 	
+TS3007a.D.dialog-act.vkaraisk.202	Damn . 	
+TS3007a.B.dialog-act.vkaraisk.116	Yes . 	
+TS3007a.D.dialog-act.vkaraisk.203	Success ? 	
+TS3007a.B.dialog-act.vkaraisk.117	Yeah . 	
+TS3007a.B.dialog-act.vkaraisk.118	No . Come up . 	
+

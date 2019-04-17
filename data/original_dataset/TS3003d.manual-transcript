@@ -1,0 +1,1082 @@
+Observation: TS3003d; Result size: 1079; atts: 2
+$d@nite:id	$d	
+TS3003d.A.dialog-act.vkaraisk.1	So 	
+TS3003d.A.dialog-act.vkaraisk.2	Hello . 	
+TS3003d.D.dialog-act.vkaraisk.1	Good afternoon . 	
+TS3003d.D.dialog-act.vkaraisk.2	Sorry I'm a little late . 	
+TS3003d.A.dialog-act.vkaraisk.3	No problem . 	
+TS3003d.D.dialog-act.vkaraisk.3	Got stuck in the traffic . 	
+TS3003d.C.dialog-act.vkaraisk.1		
+TS3003d.B.dialog-act.vkaraisk.1		
+TS3003d.A.dialog-act.vkaraisk.4	Okay . 	
+TS3003d.A.dialog-act.vkaraisk.5	That's possible on uh this time of day . 	
+TS3003d.A.dialog-act.vkaraisk.6	Starts at three o'clock . Uh 	
+TS3003d.D.dialog-act.vkaraisk.4	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.7	Uh , let me see . 	
+TS3003d.A.dialog-act.vkaraisk.8	Our fourth and last meeting . 	
+TS3003d.A.dialog-act.vkaraisk.9	There he is . 	
+TS3003d.A.dialog-act.vkaraisk.10	Yes . 	
+TS3003d.A.dialog-act.vkaraisk.11	Okay 	
+TS3003d.A.dialog-act.vkaraisk.12	this our last meeting . 	
+TS3003d.A.dialog-act.vkaraisk.13	In this meeting we will discuss our final design . 	
+TS3003d.A.dialog-act.vkaraisk.14	And we will do some evaluation about the , not only the product , but also the project . 	
+TS3003d.A.dialog-act.vkaraisk.15	And then we're going to close the project today as well . 	
+TS3003d.A.dialog-act.vkaraisk.16	So 	
+TS3003d.A.dialog-act.vkaraisk.17	after this you will be uh free to go 	
+TS3003d.A.dialog-act.vkaraisk.18	and uh spend all your money . 	
+TS3003d.B.dialog-act.vkaraisk.2		
+TS3003d.D.dialog-act.vkaraisk.5		
+TS3003d.C.dialog-act.vkaraisk.2		
+TS3003d.D.dialog-act.vkaraisk.6		
+TS3003d.A.dialog-act.vkaraisk.19	And this uh design , detailed design meeting uh we will discuss uh the look-and-feel of the design , the usability interface design , 	
+TS3003d.A.dialog-act.vkaraisk.20	and we will do the product evaluation . 	
+TS3003d.A.dialog-act.vkaraisk.21	Um , in order to do that we have this agenda . 	
+TS3003d.A.dialog-act.vkaraisk.22	We'll have the prototype presentation first . 	
+TS3003d.A.dialog-act.vkaraisk.23	Then we will set up some evaluation cri um criteria . 	
+TS3003d.A.dialog-act.vkaraisk.24	Then we will look at the finance . 	
+TS3003d.A.dialog-act.vkaraisk.25	Uh we will have to see if everything we wanna do is also possible within our budget . 	
+TS3003d.A.dialog-act.vkaraisk.26	Because everything costs money , 	
+TS3003d.A.dialog-act.vkaraisk.27	and the more functions you wanna have the more money it will cost . 	
+TS3003d.A.dialog-act.vkaraisk.28	So we have to see if it fits within the twelve and a half Euro per remote . 	
+TS3003d.A.dialog-act.vkaraisk.29	But we will see that later . 	
+TS3003d.A.dialog-act.vkaraisk.30	Then we will do the project uh evaluation , 	
+TS3003d.C.dialog-act.vkaraisk.3		
+TS3003d.A.dialog-act.vkaraisk.31	and the closing after that . 	
+TS3003d.A.dialog-act.vkaraisk.32	We've got forty minutes . 	
+TS3003d.A.dialog-act.vkaraisk.33	So we will be finished at half past three . 	
+TS3003d.A.dialog-act.vkaraisk.34	But first um we will do the this is prototype presentation . 	
+TS3003d.A.dialog-act.vkaraisk.35	So , 	
+TS3003d.A.dialog-act.vkaraisk.36	if some yeah if somebody wants step forward . 	
+TS3003d.C.dialog-act.vkaraisk.4	Okay . 	
+TS3003d.C.dialog-act.vkaraisk.5	Well 	
+TS3003d.C.dialog-act.vkaraisk.6	this is what me and Richard came up with . 	
+TS3003d.C.dialog-act.vkaraisk.7	The default spot for the on-off button . 	
+TS3003d.C.dialog-act.vkaraisk.8	The mute button just below that . 	
+TS3003d.C.dialog-act.vkaraisk.9	Then there's the volume and channel selectors . 	
+TS3003d.C.dialog-act.vkaraisk.10	Simple plus-minus button . 	
+TS3003d.C.dialog-act.vkaraisk.11	Uh we thought of a help button . 	
+TS3003d.C.dialog-act.vkaraisk.12	If you hold it and you press another button , uh the help goes to the L_C_D_ screen . 	
+TS3003d.C.dialog-act.vkaraisk.13	Then there's the zero to one to zero buttons . A button for teletext . A button for the subtitles . And the company logo . 	
+TS3003d.C.dialog-act.vkaraisk.14	So it's rather simple prototype . 	
+TS3003d.C.dialog-act.vkaraisk.15	And uh we'll have to see from testing uh how the users take it . 	
+TS3003d.A.dialog-act.vkaraisk.37	Okay . 	
+TS3003d.D.dialog-act.vkaraisk.7	Um , is this the moment where we ask or can ask questions about the functionality ? 	
+TS3003d.B.dialog-act.vkaraisk.3	So 	
+TS3003d.C.dialog-act.vkaraisk.16	Sure 	
+TS3003d.B.dialog-act.vkaraisk.4	Yeah . Yeah . 	
+TS3003d.C.dialog-act.vkaraisk.17	uh just pop in at any time . 	
+TS3003d.D.dialog-act.vkaraisk.8	Um , when you're in teletext there usually are buttons where you just you just press it and you g go to the next teletext page . 	
+TS3003d.B.dialog-act.vkaraisk.5	Uh , that's just uh the normal uh as th as the normal uh remote controls uh 	
+TS3003d.B.dialog-act.vkaraisk.6	So um 	
+TS3003d.B.dialog-act.vkaraisk.7	You put it uh 	
+TS3003d.B.dialog-act.vkaraisk.8	you um came in uh page uh one hundred . Now you can use the normal uh one to zero buttons . 	
+TS3003d.D.dialog-act.vkaraisk.9	Mm-hmm . 	
+TS3003d.B.dialog-act.vkaraisk.9	And you 	
+TS3003d.B.dialog-act.vkaraisk.10	But you can also uh use the um button th for uh changing the the channel . S so uh the shifting uh button . Uh for uh yeah shif shifting up in uh on t on t uh teletext , and shifting uh down . So 	
+TS3003d.D.dialog-act.vkaraisk.10	Okay . 	
+TS3003d.D.dialog-act.vkaraisk.11	Okay . Um Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.38	Okay . Uh but um 	
+TS3003d.A.dialog-act.vkaraisk.39	I thought in a few meetings earlier we uh uh tried to keep it uh simple . Uh just a few buttons and large buttons . 	
+TS3003d.B.dialog-act.vkaraisk.11	Oh yeah ? 	
+TS3003d.A.dialog-act.vkaraisk.40	But uh I think these are altogether quite a quite a few buttons . 	
+TS3003d.A.dialog-act.vkaraisk.41	So I'm wondering if we if we neely really need all of those buttons . 	
+TS3003d.B.dialog-act.vkaraisk.12		
+TS3003d.C.dialog-act.vkaraisk.18	I think if you look at most controls , they've got more buttons than this . 	
+TS3003d.B.dialog-act.vkaraisk.13		
+TS3003d.A.dialog-act.vkaraisk.42	That's right . 	
+TS3003d.C.dialog-act.vkaraisk.19	And well 	
+TS3003d.B.dialog-act.vkaraisk.14	Yeah . 	
+TS3003d.C.dialog-act.vkaraisk.20	the on-off button , it's it's a necessity . 	
+TS3003d.C.dialog-act.vkaraisk.21	You can't drop that one . 	
+TS3003d.B.dialog-act.vkaraisk.15	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.43	Yeah . 	
+TS3003d.C.dialog-act.vkaraisk.22	The volume and channel buttons , you need you obviously need those those . 	
+TS3003d.A.dialog-act.vkaraisk.44	Yeah . 	
+TS3003d.C.dialog-act.vkaraisk.23	The mute button could be replaced uh by pressing the volume-down button twice . 	
+TS3003d.C.dialog-act.vkaraisk.24	So we could cancel that one . 	
+TS3003d.C.dialog-act.vkaraisk.25	I think the help button really is necessary 	
+TS3003d.B.dialog-act.vkaraisk.16	Yeah yeah . 	
+TS3003d.C.dialog-act.vkaraisk.26	because there's no other way to know when someone wants to know what a button does . 	
+TS3003d.A.dialog-act.vkaraisk.45	Mm . 	
+TS3003d.B.dialog-act.vkaraisk.17	Uh , or you can build in uh when you press uh one button uh uh 	
+TS3003d.A.dialog-act.vkaraisk.46	Long time . 	
+TS3003d.B.dialog-act.vkaraisk.18	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.47	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.48	If you put 	
+TS3003d.B.dialog-act.vkaraisk.19	But m 	
+TS3003d.B.dialog-act.vkaraisk.20	Yeah . 	
+TS3003d.B.dialog-act.vkaraisk.21	We disc discuss that already . 	
+TS3003d.B.dialog-act.vkaraisk.22	But uh we think uh old people uh don't know that uh option . 	
+TS3003d.B.dialog-act.vkaraisk.23	So uh they just put in uh put press uh the button and uh 	
+TS3003d.A.dialog-act.vkaraisk.49	Yeah . Okay . 	
+TS3003d.C.dialog-act.vkaraisk.27	Well , 	
+TS3003d.C.dialog-act.vkaraisk.28	you can't leave out the number buttons I guess . 	
+TS3003d.B.dialog-act.vkaraisk.24	And uh 	
+TS3003d.A.dialog-act.vkaraisk.50	Yeah . 	
+TS3003d.C.dialog-act.vkaraisk.29	And 	
+TS3003d.A.dialog-act.vkaraisk.51	Uh teletext and subtitles are yeah necessary . 	
+TS3003d.C.dialog-act.vkaraisk.31	Yeah . 	
+TS3003d.B.dialog-act.vkaraisk.25	Oh . 	
+TS3003d.D.dialog-act.vkaraisk.12	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.52	Okay . 	
+TS3003d.C.dialog-act.vkaraisk.30	So it's rather basic already . 	
+TS3003d.D.dialog-act.vkaraisk.13	Yeah . Think so . 	
+TS3003d.D.dialog-act.vkaraisk.14	That's what I pointed out earlier . 	
+TS3003d.D.dialog-act.vkaraisk.15	If you just make a control for just the T_V_ there's just not much to gain here . 	
+TS3003d.B.dialog-act.vkaraisk.26	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.53	Yep . 	
+TS3003d.A.dialog-act.vkaraisk.54	Okay . So 	
+TS3003d.A.dialog-act.vkaraisk.55	we had somebody about th interfa Something about the design of the buttons there ? 	
+TS3003d.C.dialog-act.vkaraisk.32	Yeah , 	
+TS3003d.C.dialog-act.vkaraisk.33	they're 	
+TS3003d.C.dialog-act.vkaraisk.34	It's rather hard to draw on the white-board . 	
+TS3003d.B.dialog-act.vkaraisk.27	Yeah . Yeah , 	
+TS3003d.A.dialog-act.vkaraisk.56	Just n normal plain buttons . 	
+TS3003d.B.dialog-act.vkaraisk.28	it 	
+TS3003d.C.dialog-act.vkaraisk.35	But they're supposed to be equal sized , round , with a with a little logo on it for the for the volume , the the triangle and stuff . 	
+TS3003d.B.dialog-act.vkaraisk.29	Yeah yeah . 	
+TS3003d.A.dialog-act.vkaraisk.57	Yeah . 'Kay . 	
+TS3003d.B.dialog-act.vkaraisk.30	Just to recognise it , 	
+TS3003d.B.dialog-act.vkaraisk.31	so uh 	
+TS3003d.C.dialog-act.vkaraisk.36	Just for recognition . 	
+TS3003d.B.dialog-act.vkaraisk.32	Uh yeah 	
+TS3003d.B.dialog-act.vkaraisk.33	and now we don't need uh LEDs 	
+TS3003d.B.dialog-act.vkaraisk.34	or um Y uh 	
+TS3003d.A.dialog-act.vkaraisk.58	No . 	
+TS3003d.B.dialog-act.vkaraisk.35	s some uh remote controls uh do it also , 	
+TS3003d.A.dialog-act.vkaraisk.59	No . 	
+TS3003d.B.dialog-act.vkaraisk.36	but um uh because we use the little display 	
+TS3003d.B.dialog-act.vkaraisk.37	we don't uh have to use it . 	
+TS3003d.B.dialog-act.vkaraisk.38	Uh so 	
+TS3003d.A.dialog-act.vkaraisk.60	Yeah . Okay . 	
+TS3003d.C.dialog-act.vkaraisk.37	So 	
+TS3003d.C.dialog-act.vkaraisk.38	and for the materials we've just chosen for rubber buttons . With a a different colour than the case . 	
+TS3003d.B.dialog-act.vkaraisk.39	Nay . 	
+TS3003d.A.dialog-act.vkaraisk.61	Yep . 	
+TS3003d.C.dialog-act.vkaraisk.39	So they jump out . 	
+TS3003d.A.dialog-act.vkaraisk.62	Okay . 	
+TS3003d.C.dialog-act.vkaraisk.40	And uh that's about it . 	
+TS3003d.A.dialog-act.vkaraisk.63	That's nice . 	
+TS3003d.A.dialog-act.vkaraisk.64	Then because we only have thirty minutes left , 	
+TS3003d.A.dialog-act.vkaraisk.65	I will move on to the finance part , 	
+TS3003d.A.dialog-act.vkaraisk.66	which is pretty exciting , to see if it's all possible what we wanna do . 	
+TS3003d.A.dialog-act.vkaraisk.67	And I can tell you that we're going to have a pretty hard time producing this for twelve and a half Euros . 	
+TS3003d.D.dialog-act.vkaraisk.16		
+TS3003d.B.dialog-act.vkaraisk.40	Mm . 	
+TS3003d.A.dialog-act.vkaraisk.68	If we see 	
+TS3003d.A.dialog-act.vkaraisk.69	I don't know if I've filled in correctly , 	
+TS3003d.A.dialog-act.vkaraisk.70	so just correct me if you see uh something wrong . 	
+TS3003d.A.dialog-act.vkaraisk.71	I counted two batteries . 	
+TS3003d.A.dialog-act.vkaraisk.72	But maybe we can also use one . 	
+TS3003d.A.dialog-act.vkaraisk.73	I don't know if it's possible . 	
+TS3003d.D.dialog-act.vkaraisk.17	Since it rechargeable . 	
+TS3003d.A.dialog-act.vkaraisk.74	It's rechargeable . That's right . 	
+TS3003d.B.dialog-act.vkaraisk.41	Yeah we can 	
+TS3003d.B.dialog-act.vkaraisk.42	u just uh 	
+TS3003d.A.dialog-act.vkaraisk.75	Okay . 	
+TS3003d.A.dialog-act.vkaraisk.76	That's two Euros off . 	
+TS3003d.B.dialog-act.vkaraisk.43	'Kay . 	
+TS3003d.A.dialog-act.vkaraisk.77	We need the advanced chip . 	
+TS3003d.A.dialog-act.vkaraisk.78	So there's not much to uh to save there . 	
+TS3003d.C.dialog-act.vkaraisk.41	Yep . 	
+TS3003d.A.dialog-act.vkaraisk.79	Here we have the single curves . 	
+TS3003d.A.dialog-act.vkaraisk.80	Uh we can see that the difference between uncurved and the single curved is one Euro . Um , 	
+TS3003d.B.dialog-act.vkaraisk.44	Mm . 	
+TS3003d.A.dialog-act.vkaraisk.81	I don't know , 	
+TS3003d.A.dialog-act.vkaraisk.82	but I think the single curved is good for design , and also for the display to have a prominent place on the remote control . 	
+TS3003d.B.dialog-act.vkaraisk.46	Yeah . 	
+TS3003d.C.dialog-act.vkaraisk.42	Yes . 	
+TS3003d.A.dialog-act.vkaraisk.83	I think we have to keep that . 	
+TS3003d.B.dialog-act.vkaraisk.45	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.84	Then we have the case material supplements . 	
+TS3003d.A.dialog-act.vkaraisk.85	It's plastic . 	
+TS3003d.A.dialog-act.vkaraisk.86	It's the cheapest one we need . 	
+TS3003d.A.dialog-act.vkaraisk.87	So that's uh not much to save either . 	
+TS3003d.A.dialog-act.vkaraisk.88	But then the biggest costs are the buttons . 	
+TS3003d.A.dialog-act.vkaraisk.89	So maybe we really should try to discard some buttons to uh keep our costs low . 	
+TS3003d.B.dialog-act.vkaraisk.47	Okay . 	
+TS3003d.B.dialog-act.vkaraisk.48	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.90	Because you have to we will have to get the twelve and a half Euros at the end . Um , 	
+TS3003d.A.dialog-act.vkaraisk.91	so if we 	
+TS3003d.A.dialog-act.vkaraisk.92	Let's fir first count the buttons we have now . 	
+TS3003d.B.dialog-act.vkaraisk.49	Uh Sixteen , I believe so . 	
+TS3003d.A.dialog-act.vkaraisk.93	Because I 	
+TS3003d.A.dialog-act.vkaraisk.94	Sixteen . 	
+TS3003d.A.dialog-act.vkaraisk.95	Nah , 	
+TS3003d.A.dialog-act.vkaraisk.96	that will be even more then . 	
+TS3003d.A.dialog-act.vkaraisk.97	Eighteen Euros . 	
+TS3003d.A.dialog-act.vkaraisk.98	So , 	
+TS3003d.B.dialog-act.vkaraisk.50	Uh seventeen . Uh with the help button . 	
+TS3003d.A.dialog-act.vkaraisk.99	seventeen . 	
+TS3003d.D.dialog-act.vkaraisk.18	Um 	
+TS3003d.C.dialog-act.vkaraisk.43		
+TS3003d.A.dialog-act.vkaraisk.100	Okay , including the help ? 	
+TS3003d.C.dialog-act.vkaraisk.44	Yep . 	
+TS3003d.D.dialog-act.vkaraisk.19	Damn . 	
+TS3003d.B.dialog-act.vkaraisk.51	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.101	Yeah . Uh seventeen . 	
+TS3003d.D.dialog-act.vkaraisk.20		
+TS3003d.A.dialog-act.vkaraisk.102	I think we can uh discard the help and the mute button uh by pressing down volume long , or pressing down a a number long . 	
+TS3003d.B.dialog-act.vkaraisk.52	. 	
+TS3003d.C.dialog-act.vkaraisk.45	Yep . 	
+TS3003d.A.dialog-act.vkaraisk.103	That saves us uh one Euro already . 	
+TS3003d.A.dialog-act.vkaraisk.104	'Cause then we have got fifteen I think ? 	
+TS3003d.C.dialog-act.vkaraisk.46	Yeah . 	
+TS3003d.D.dialog-act.vkaraisk.21	Wouldn't 	
+TS3003d.D.dialog-act.vkaraisk.22	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.105	Fifteen buttons . 	
+TS3003d.D.dialog-act.vkaraisk.23	No . That wouldn't be an option . 	
+TS3003d.A.dialog-act.vkaraisk.106	And this is 	
+TS3003d.D.dialog-act.vkaraisk.24	Uh , d I assume you'd count the volume and channel thingies for two buttons each , 	
+TS3003d.D.dialog-act.vkaraisk.25	right ? 	
+TS3003d.A.dialog-act.vkaraisk.107	No those are one , I think . 	
+TS3003d.B.dialog-act.vkaraisk.53	Yeah . 	
+TS3003d.D.dialog-act.vkaraisk.26	Well , 	
+TS3003d.D.dialog-act.vkaraisk.27	think actually there're two buttons , 	
+TS3003d.B.dialog-act.vkaraisk.54	Where did uh 	
+TS3003d.B.dialog-act.vkaraisk.55	Uh , it's just one button . 	
+TS3003d.D.dialog-act.vkaraisk.28	aren't they ? 	
+TS3003d.B.dialog-act.vkaraisk.56	But , um Yeah . 	
+TS3003d.B.dialog-act.vkaraisk.57	There were uh two uh for one big button . 	
+TS3003d.B.dialog-act.vkaraisk.58	But they are uh more expensive than the small ones . 	
+TS3003d.B.dialog-act.vkaraisk.59	Uh , yeah . So 	
+TS3003d.A.dialog-act.vkaraisk.108	Yeah 	
+TS3003d.A.dialog-act.vkaraisk.109	but th it's not stated in this files . 	
+TS3003d.B.dialog-act.vkaraisk.60	It's just a . 	
+TS3003d.A.dialog-act.vkaraisk.110	So maybe we can we can even make one button with the volume and the channel in one , by pressing 	
+TS3003d.D.dialog-act.vkaraisk.29	Well 	
+TS3003d.D.dialog-act.vkaraisk.30	I was thinking , maybe you could just integrate three of those numbers to one button . 	
+TS3003d.A.dialog-act.vkaraisk.111	That's possibility as well . 	
+TS3003d.D.dialog-act.vkaraisk.31	That would cut the cost . 	
+TS3003d.A.dialog-act.vkaraisk.112	So 	
+TS3003d.A.dialog-act.vkaraisk.113	And it's good for the design as well . 	
+TS3003d.A.dialog-act.vkaraisk.114	So you can make 	
+TS3003d.A.dialog-act.vkaraisk.115	Uh let's see . 	
+TS3003d.A.dialog-act.vkaraisk.116	If you make this 	
+TS3003d.A.dialog-act.vkaraisk.117	Looks a bit like uh a cross . 	
+TS3003d.A.dialog-act.vkaraisk.118	Plus . Min . 	
+TS3003d.B.dialog-act.vkaraisk.61	But I don't don't know if if it's cheaper . 	
+TS3003d.A.dialog-act.vkaraisk.119	Uh s yeah 	
+TS3003d.A.dialog-act.vkaraisk.120	channel . 	
+TS3003d.B.dialog-act.vkaraisk.62	So uh , 	
+TS3003d.A.dialog-act.vkaraisk.121	Yeah 	
+TS3003d.B.dialog-act.vkaraisk.63	we've still got four buttons , 	
+TS3003d.A.dialog-act.vkaraisk.122	w 	
+TS3003d.B.dialog-act.vkaraisk.64	but just um So 	
+TS3003d.A.dialog-act.vkaraisk.123	Yeah 	
+TS3003d.A.dialog-act.vkaraisk.124	th I think they count uh the materials . 	
+TS3003d.B.dialog-act.vkaraisk.65	You got uh not not a butt button itself , but uh on the um 	
+TS3003d.A.dialog-act.vkaraisk.125	Yeah 	
+TS3003d.A.dialog-act.vkaraisk.126	on the chip there . 	
+TS3003d.B.dialog-act.vkaraisk.67	Yeah . 	
+TS3003d.B.dialog-act.vkaraisk.68	On the chip you've got still uh four uh four buttons . 	
+TS3003d.A.dialog-act.vkaraisk.127	Yeah . 	
+TS3003d.C.dialog-act.vkaraisk.47	Yeah . 	
+TS3003d.D.dialog-act.vkaraisk.32	Mm-hmm . 	
+TS3003d.A.dialog-act.vkaraisk.128	That's right . That's right . 	
+TS3003d.B.dialog-act.vkaraisk.69	So 	
+TS3003d.D.dialog-act.vkaraisk.33	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.129	But I think because we have the advanced chip 	
+TS3003d.B.dialog-act.vkaraisk.70	Yeah , 	
+TS3003d.D.dialog-act.vkaraisk.34	But , I think this really is four buttons anyhow . 	
+TS3003d.B.dialog-act.vkaraisk.71	but 	
+TS3003d.A.dialog-act.vkaraisk.130	we can just count this as one button . 	
+TS3003d.A.dialog-act.vkaraisk.131	But 	
+TS3003d.A.dialog-act.vkaraisk.132	No 	
+TS3003d.A.dialog-act.vkaraisk.133	but I think 	
+TS3003d.C.dialog-act.vkaraisk.48	Yes . 	
+TS3003d.A.dialog-act.vkaraisk.134	Yeah . Maybe it is , 	
+TS3003d.A.dialog-act.vkaraisk.135	but then it seems to me that it's impossible to get the twelve and a half Euros . 	
+TS3003d.A.dialog-act.vkaraisk.136	Also the L_C_ display , I think it's , I think it's too expensive for the display we use . 	
+TS3003d.D.dialog-act.vkaraisk.35	Yes . 	
+TS3003d.C.dialog-act.vkaraisk.49	Uh that's that's a big cost . 	
+TS3003d.A.dialog-act.vkaraisk.137	I think they uh try t 	
+TS3003d.C.dialog-act.vkaraisk.50	If we leave out the display we can also save money on the chip . 	
+TS3003d.A.dialog-act.vkaraisk.138	That's right , 	
+TS3003d.A.dialog-act.vkaraisk.139	but what's the big advantage of our remote then ? 	
+TS3003d.D.dialog-act.vkaraisk.36	Only the docking station , I guess . 	
+TS3003d.A.dialog-act.vkaraisk.140	Yeah . 	
+TS3003d.C.dialog-act.vkaraisk.51	Which isn't the the docking station isn't even in this c s schematic . 	
+TS3003d.A.dialog-act.vkaraisk.141	No . 	
+TS3003d.C.dialog-act.vkaraisk.52	So 	
+TS3003d.C.dialog-act.vkaraisk.53	it's not even taken into the price . 	
+TS3003d.A.dialog-act.vkaraisk.142	That's extra . That's extra . 	
+TS3003d.A.dialog-act.vkaraisk.143	That's right . 	
+TS3003d.D.dialog-act.vkaraisk.37	Maybe we should to a different supplier . 	
+TS3003d.A.dialog-act.vkaraisk.144	That's an option . 	
+TS3003d.D.dialog-act.vkaraisk.38	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.145	Poland . Something . Polish supplier . 	
+TS3003d.A.dialog-act.vkaraisk.146	Don't you think we can , if we can count this as v as one button , and integrate th uh these buttons in three , 	
+TS3003d.A.dialog-act.vkaraisk.147	then we save a lot of money as well . 	
+TS3003d.C.dialog-act.vkaraisk.54	We we could save money on it . 	
+TS3003d.C.dialog-act.vkaraisk.55	But would it make the remote more usable for elderly people ? 	
+TS3003d.B.dialog-act.vkaraisk.72	. 	
+TS3003d.D.dialog-act.vkaraisk.39	Yeah , that's what I'm wondering . 	
+TS3003d.C.dialog-act.vkaraisk.56	My mother can't even send send an S_M_S_ message . 	
+TS3003d.C.dialog-act.vkaraisk.57	So 	
+TS3003d.A.dialog-act.vkaraisk.148	Yeah . That's a point . 	
+TS3003d.B.dialog-act.vkaraisk.73		
+TS3003d.D.dialog-act.vkaraisk.40	Um 	
+TS3003d.B.dialog-act.vkaraisk.74	Are we gonna buy a um a remote control uh when you can uh use it ? 	
+TS3003d.B.dialog-act.vkaraisk.75	So um Yeah . 	
+TS3003d.B.dialog-act.vkaraisk.76	We m uh we must um stay below the um below um twelve uh fifty 	
+TS3003d.B.dialog-act.vkaraisk.77	or Can't uh go um 	
+TS3003d.A.dialog-act.vkaraisk.149	Yep . 	
+TS3003d.C.dialog-act.vkaraisk.58	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.150	No . 	
+TS3003d.D.dialog-act.vkaraisk.41	Well , 	
+TS3003d.D.dialog-act.vkaraisk.42	since the market research indicated that older people spend their money easier , more easy , 	
+TS3003d.D.dialog-act.vkaraisk.43	maybe it's feasible to just put the price of the remote up a little . 	
+TS3003d.D.dialog-act.vkaraisk.44	Especially since we have those nice features . 	
+TS3003d.B.dialog-act.vkaraisk.78	Nay . 	
+TS3003d.A.dialog-act.vkaraisk.151	Yeah 	
+TS3003d.A.dialog-act.vkaraisk.152	but uh we have to stick to the twelve and a half Euros . 	
+TS3003d.A.dialog-act.vkaraisk.153	We don't have any more budget to develop it . 	
+TS3003d.C.dialog-act.vkaraisk.59	The margin will get too small . Yeah . 	
+TS3003d.B.dialog-act.vkaraisk.79	Is it impossible to 	
+TS3003d.A.dialog-act.vkaraisk.154	Yeah . So 	
+TS3003d.B.dialog-act.vkaraisk.80	But it is possible to make one uh for uh twelve fifty . 	
+TS3003d.B.dialog-act.vkaraisk.81	I don't think so . 	
+TS3003d.A.dialog-act.vkaraisk.155	It is . If you leave out the L_C_ display . And if you use less buttons . Say Or you can take the single chip . 	
+TS3003d.D.dialog-act.vkaraisk.45	It would be a be a pretty rigid one . 	
+TS3003d.B.dialog-act.vkaraisk.82	S 	
+TS3003d.B.dialog-act.vkaraisk.83	Yeah . 	
+TS3003d.D.dialog-act.vkaraisk.46		
+TS3003d.C.dialog-act.vkaraisk.61	Ten . 	
+TS3003d.B.dialog-act.vkaraisk.84	But , you can't use uh 	
+TS3003d.A.dialog-act.vkaraisk.156	There it is . 	
+TS3003d.B.dialog-act.vkaraisk.85	Yeah . 	
+TS3003d.C.dialog-act.vkaraisk.62		
+TS3003d.A.dialog-act.vkaraisk.157	But then w 	
+TS3003d.A.dialog-act.vkaraisk.159	Good looking . 	
+TS3003d.B.dialog-act.vkaraisk.86	Uh , wi with n Oh , with uh attractive uh o options . 	
+TS3003d.A.dialog-act.vkaraisk.158	Yeah . 	
+TS3003d.B.dialog-act.vkaraisk.87	So uh , 	
+TS3003d.B.dialog-act.vkaraisk.88	you can stay uh below uh twelve fifty . 	
+TS3003d.B.dialog-act.vkaraisk.89	So 	
+TS3003d.A.dialog-act.vkaraisk.160	I think it's uh difficult as well , 	
+TS3003d.D.dialog-act.vkaraisk.47	Or b 	
+TS3003d.A.dialog-act.vkaraisk.161	but 	
+TS3003d.D.dialog-act.vkaraisk.48	Basically becoming a choice between like either a good remote and a higher production cost , or just any other remote control . 	
+TS3003d.C.dialog-act.vkaraisk.63	No remote . 	
+TS3003d.A.dialog-act.vkaraisk.162	Or we can leave out the ten buttons 	
+TS3003d.A.dialog-act.vkaraisk.163	and take one scroll wheel for the programme numbers . 	
+TS3003d.B.dialog-act.vkaraisk.90	Scroll-wheel's one . 	
+TS3003d.C.dialog-act.vkaraisk.64	That's 	
+TS3003d.A.dialog-act.vkaraisk.164	Then w 	
+TS3003d.A.dialog-act.vkaraisk.165	Because then we save ten buttons . 	
+TS3003d.B.dialog-act.vkaraisk.91	No , 	
+TS3003d.B.dialog-act.vkaraisk.92	it 	
+TS3003d.A.dialog-act.vkaraisk.166	Then we have five and one . 	
+TS3003d.B.dialog-act.vkaraisk.93	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.167	And and see . 	
+TS3003d.A.dialog-act.vkaraisk.168	If we have this one and we've got the advanced 	
+TS3003d.A.dialog-act.vkaraisk.169	W uh , we're getting close . 	
+TS3003d.C.dialog-act.vkaraisk.65	We're getting closer . 	
+TS3003d.B.dialog-act.vkaraisk.94	Yeah . 	
+TS3003d.D.dialog-act.vkaraisk.49	But how does scroll-wheel work here ? 	
+TS3003d.A.dialog-act.vkaraisk.170	Then you will Or maybe you can um scroll . 	
+TS3003d.A.dialog-act.vkaraisk.171	If you scroll you will see the numbers on the L_C_D_ display . 	
+TS3003d.A.dialog-act.vkaraisk.172	Until you've got the right number , then you push it . 	
+TS3003d.C.dialog-act.vkaraisk.66	Yeah . 	
+TS3003d.D.dialog-act.vkaraisk.50	That would bring up the price of the scroll-wheel also . Integrated scroll-wheel push-button . 	
+TS3003d.A.dialog-act.vkaraisk.173	Alright . 	
+TS3003d.A.dialog-act.vkaraisk.174	It's gotta scroll and push . 	
+TS3003d.B.dialog-act.vkaraisk.95	Mm . 	
+TS3003d.A.dialog-act.vkaraisk.176	Okay 	
+TS3003d.A.dialog-act.vkaraisk.175	but then you you can push uh some other button as well . 	
+TS3003d.D.dialog-act.vkaraisk.51	But Yeah . 	
+TS3003d.C.dialog-act.vkaraisk.67	You could just not scroll for a half a second . 	
+TS3003d.A.dialog-act.vkaraisk.177	Yeah . That's right . So if you scroll to a number and then you wait a half second , then it g turns to that channel . 	
+TS3003d.C.dialog-act.vkaraisk.68	So you won't need a button . 	
+TS3003d.D.dialog-act.vkaraisk.52	I think that would be like the end of our usability . 	
+TS3003d.A.dialog-act.vkaraisk.178	But it would definitely crop cost , a lot . 	
+TS3003d.B.dialog-act.vkaraisk.97	D 	
+TS3003d.C.dialog-act.vkaraisk.69		
+TS3003d.B.dialog-act.vkaraisk.96	yeah . 	
+TS3003d.D.dialog-act.vkaraisk.55		
+TS3003d.D.dialog-act.vkaraisk.53	Yeah , 	
+TS3003d.D.dialog-act.vkaraisk.54	but 	
+TS3003d.A.dialog-act.vkaraisk.179	And we need the battery . 	
+TS3003d.A.dialog-act.vkaraisk.180	And the regular chip is not possible ? 	
+TS3003d.A.dialog-act.vkaraisk.181	It has to be advanced ? 	
+TS3003d.C.dialog-act.vkaraisk.70	If you want to use an L_C_D_ screen you you need an advanced chip , yes . 	
+TS3003d.A.dialog-act.vkaraisk.182	It has to be advanced . Yeah . Okay . 	
+TS3003d.B.dialog-act.vkaraisk.98	Hmm . 	
+TS3003d.A.dialog-act.vkaraisk.183	And we can save a Euro by a flat design . 	
+TS3003d.A.dialog-act.vkaraisk.184	That's an option we can 	
+TS3003d.C.dialog-act.vkaraisk.71	Yep . 	
+TS3003d.B.dialog-act.vkaraisk.99	Ja ja . 	
+TS3003d.A.dialog-act.vkaraisk.185	Then we're almost there . 	
+TS3003d.C.dialog-act.vkaraisk.72	Yeah if you v could just leave out one more button . 	
+TS3003d.A.dialog-act.vkaraisk.186	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.187	So 	
+TS3003d.A.dialog-act.vkaraisk.188	if we 	
+TS3003d.B.dialog-act.vkaraisk.101	Yeah , 	
+TS3003d.B.dialog-act.vkaraisk.100	or we have to uh skip the subtitle uh button . 	
+TS3003d.C.dialog-act.vkaraisk.73	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.189	Yeah 	
+TS3003d.A.dialog-act.vkaraisk.190	but I think that's That is a big advantage , 	
+TS3003d.B.dialog-act.vkaraisk.102	So Yeah 	
+TS3003d.A.dialog-act.vkaraisk.191	if we're 	
+TS3003d.B.dialog-act.vkaraisk.103	Yeah it's a big advantage . 	
+TS3003d.B.dialog-act.vkaraisk.104	But um , it's 	
+TS3003d.A.dialog-act.vkaraisk.192	But 	
+TS3003d.A.dialog-act.vkaraisk.193	Can we use 	
+TS3003d.A.dialog-act.vkaraisk.194	can't we integrate the teletext and the subtitles in one button ? 	
+TS3003d.C.dialog-act.vkaraisk.74	I think so . Yeah . 	
+TS3003d.B.dialog-act.vkaraisk.105	Uh , yeah . 	
+TS3003d.D.dialog-act.vkaraisk.56	Well , 	
+TS3003d.A.dialog-act.vkaraisk.196	If you push it three times ? 	
+TS3003d.D.dialog-act.vkaraisk.57	think it's pretty much the teletext subtitles are 	
+TS3003d.B.dialog-act.vkaraisk.106	Yeah . 	
+TS3003d.D.dialog-act.vkaraisk.58	right now you just push the teletext button , 	
+TS3003d.D.dialog-act.vkaraisk.59	go to page eight eight eight , 	
+TS3003d.A.dialog-act.vkaraisk.197	Yeah . 	
+TS3003d.D.dialog-act.vkaraisk.60	and teletext disappears . 	
+TS3003d.B.dialog-act.vkaraisk.107	Yeah . 	
+TS3003d.D.dialog-act.vkaraisk.61	But the subtitles stay there . 	
+TS3003d.B.dialog-act.vkaraisk.108	But if you push the teletext button twice 	
+TS3003d.D.dialog-act.vkaraisk.62	I think that's the case on most 	
+TS3003d.C.dialog-act.vkaraisk.75	What if you have to scroll to page eighty eight ? Eight hundred eighty eight . 	
+TS3003d.B.dialog-act.vkaraisk.109	It's uh One m uh one b uh , a few buttons . 	
+TS3003d.A.dialog-act.vkaraisk.198	Ah that's not really that 	
+TS3003d.D.dialog-act.vkaraisk.63	Well , 	
+TS3003d.D.dialog-act.vkaraisk.64	that could be just uh like the scroll to eight , click , scroll to eight , click , scroll to eight , click . 	
+TS3003d.C.dialog-act.vkaraisk.76	Yeah . Okay . 	
+TS3003d.D.dialog-act.vkaraisk.65	But then again that would be d j just pretty much not an option for older people , 	
+TS3003d.D.dialog-act.vkaraisk.66	who don't even know what a scroll-wheel is . 	
+TS3003d.C.dialog-act.vkaraisk.77	No . 	
+TS3003d.B.dialog-act.vkaraisk.110	Yeah . 	
+TS3003d.D.dialog-act.vkaraisk.67	Holding a remote with which they expect to have like ten buttons for the numbers one to zero . 	
+TS3003d.A.dialog-act.vkaraisk.199	No . 	
+TS3003d.C.dialog-act.vkaraisk.78		
+TS3003d.D.dialog-act.vkaraisk.68	With only five buttons on it . And a scroll-wheel . 	
+TS3003d.A.dialog-act.vkaraisk.200	I think if you make a good advertisement uh on television and in the in the guide , you can explain to the people how to use the scroll wheel . 	
+TS3003d.A.dialog-act.vkaraisk.201	If you just make it real simple . 	
+TS3003d.A.dialog-act.vkaraisk.202	Because it saves it saves a lot of money . 	
+TS3003d.A.dialog-act.vkaraisk.203	And we can keep our L_C_D_ screen , 	
+TS3003d.A.dialog-act.vkaraisk.204	which can provide extra information . How to use the scroll wheel . How to use the other bu buttons as subtitles . 	
+TS3003d.D.dialog-act.vkaraisk.69	True . True . 	
+TS3003d.B.dialog-act.vkaraisk.111	Hmm . 	
+TS3003d.A.dialog-act.vkaraisk.205	And it's good for the innovative design as well . If you would erase these . 	
+TS3003d.A.dialog-act.vkaraisk.207	Mm eraser ? 	
+TS3003d.A.dialog-act.vkaraisk.208	And we put uh 	
+TS3003d.A.dialog-act.vkaraisk.209	Looks a bit odd maybe . 	
+TS3003d.D.dialog-act.vkaraisk.70	That's a pretty big scroll wheel . 	
+TS3003d.A.dialog-act.vkaraisk.210	That is 	
+TS3003d.A.dialog-act.vkaraisk.211	Something like that . 	
+TS3003d.D.dialog-act.vkaraisk.71		
+TS3003d.A.dialog-act.vkaraisk.212	Then , yeah . We've got the scroll-wheel . 	
+TS3003d.A.dialog-act.vkaraisk.213	One , two , three , four , five buttons , if we erase this one . 	
+TS3003d.A.dialog-act.vkaraisk.214	And these are two buttons then . 	
+TS3003d.C.dialog-act.vkaraisk.79	We could make two buttons out of that . 	
+TS3003d.C.dialog-act.vkaraisk.80	And just um If you press the volume button you can control the volume with the scroll-wheel . 	
+TS3003d.A.dialog-act.vkaraisk.215	Yeah . 	
+TS3003d.C.dialog-act.vkaraisk.81	So that would save two buttons . If you do the same for the channel . 	
+TS3003d.A.dialog-act.vkaraisk.216	Yeah . That's really a good good idea , I think . 	
+TS3003d.A.dialog-act.vkaraisk.217	And it will make the use of the scroll wheel uh more obvious indeed . 	
+TS3003d.C.dialog-act.vkaraisk.82	More obvious . 	
+TS3003d.A.dialog-act.vkaraisk.218	So we make one for the volume , one for the channel . Plus scroll . 	
+TS3003d.C.dialog-act.vkaraisk.83	So 	
+TS3003d.C.dialog-act.vkaraisk.84	if we 	
+TS3003d.A.dialog-act.vkaraisk.222	That's right . 	
+TS3003d.A.dialog-act.vkaraisk.221	So we've got one , two , three . 	
+TS3003d.A.dialog-act.vkaraisk.220	Yeah , 	
+TS3003d.A.dialog-act.vkaraisk.219	we can leave the teletext in if we want . 	
+TS3003d.C.dialog-act.vkaraisk.85	Yeah . 	
+TS3003d.B.dialog-act.vkaraisk.112	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.223	That's m that's better . 	
+TS3003d.C.dialog-act.vkaraisk.86	So 	
+TS3003d.D.dialog-act.vkaraisk.72	So this is five buttons . 	
+TS3003d.C.dialog-act.vkaraisk.87	If we leave out all those buttons , perhaps you can go with the flat flat case . 	
+TS3003d.C.dialog-act.vkaraisk.88	And make it smaller overall . 	
+TS3003d.C.dialog-act.vkaraisk.89	So if you put the the volume and channel buttons on the same height as the on-off button , the screen right behi under that , than the scroll button 	
+TS3003d.A.dialog-act.vkaraisk.224	Y yeah . 	
+TS3003d.A.dialog-act.vkaraisk.225	Mm yeah . 	
+TS3003d.A.dialog-act.vkaraisk.226	Uh yeah , 	
+TS3003d.C.dialog-act.vkaraisk.90	you get a a much smaller remote . 	
+TS3003d.A.dialog-act.vkaraisk.227	and then you can 	
+TS3003d.B.dialog-act.vkaraisk.113	Uh yeah . 	
+TS3003d.A.dialog-act.vkaraisk.228	That's right . 	
+TS3003d.C.dialog-act.vkaraisk.91	And it sh 	
+TS3003d.A.dialog-act.vkaraisk.229	So we can decrease this one to four buttons . 	
+TS3003d.C.dialog-act.vkaraisk.92	Yeah ? 	
+TS3003d.D.dialog-act.vkaraisk.73	Right now we have five . 	
+TS3003d.B.dialog-act.vkaraisk.114	But uh , you can make a f quite a big uh remote remote control for uh just the same price as a small one . 	
+TS3003d.A.dialog-act.vkaraisk.230	Yeah . That's no problem . 	
+TS3003d.B.dialog-act.vkaraisk.115	Just uh you only have to pay for the double curved or single curved . 	
+TS3003d.B.dialog-act.vkaraisk.116	It uh it's a bit uh 	
+TS3003d.A.dialog-act.vkaraisk.231	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.232	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.233	It's uh it's more the moulds in which they are being made , I think . 	
+TS3003d.A.dialog-act.vkaraisk.234	Single curved is really easy to just fill in . 	
+TS3003d.D.dialog-act.vkaraisk.74	Mm . 	
+TS3003d.A.dialog-act.vkaraisk.235	And cases come right out of the machine . 	
+TS3003d.B.dialog-act.vkaraisk.117	. 	
+TS3003d.A.dialog-act.vkaraisk.236	And single curved you have to have a different uh different machine , than a flat one . 	
+TS3003d.A.dialog-act.vkaraisk.237	I think this is a really easy one . Um , 	
+TS3003d.A.dialog-act.vkaraisk.238	what does everybody think about a flat or a single curved design ? 	
+TS3003d.A.dialog-act.vkaraisk.239	Freek , what do you think ? 	
+TS3003d.D.dialog-act.vkaraisk.75	Well , 	
+TS3003d.D.dialog-act.vkaraisk.76	I still think we should go for the single curve design . 	
+TS3003d.C.dialog-act.vkaraisk.93	Yeah . 	
+TS3003d.D.dialog-act.vkaraisk.77	But then again , all these changes are not really okay with me . 	
+TS3003d.B.dialog-act.vkaraisk.118	. 	
+TS3003d.C.dialog-act.vkaraisk.94	Richard's argument was very good . Yeah . 	
+TS3003d.B.dialog-act.vkaraisk.119	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.240	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.241	Yep . 	
+TS3003d.D.dialog-act.vkaraisk.78	But since we just have to . 	
+TS3003d.A.dialog-act.vkaraisk.242		
+TS3003d.A.dialog-act.vkaraisk.243	We have to cut costs . 	
+TS3003d.B.dialog-act.vkaraisk.120	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.244	Yeah . Yeah 	
+TS3003d.D.dialog-act.vkaraisk.79	I'd rather just go to the board 	
+TS3003d.A.dialog-act.vkaraisk.245	I'm ag 	
+TS3003d.D.dialog-act.vkaraisk.80	and get us to spend eighteen dollars a a remote . 	
+TS3003d.A.dialog-act.vkaraisk.246	Ask for more money . 	
+TS3003d.A.dialog-act.vkaraisk.247	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.248	Yeah . I am agreeing with the usability . Yeah . 	
+TS3003d.D.dialog-act.vkaraisk.81	Or do some market research and see what the options are . 	
+TS3003d.A.dialog-act.vkaraisk.249	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.250	But th um I think we can then keep the single curved one . Just to express our L_C_D_ screen a bit more . 	
+TS3003d.C.dialog-act.vkaraisk.95	Yep . 	
+TS3003d.D.dialog-act.vkaraisk.82	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.251	So people will use it more , and especially for the help functions , 	
+TS3003d.B.dialog-act.vkaraisk.121	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.252	it will be good if we have scroll bar , scroll button . 	
+TS3003d.A.dialog-act.vkaraisk.253	It will be necessary to have good help function , as well . 	
+TS3003d.A.dialog-act.vkaraisk.254	So 	
+TS3003d.A.dialog-act.vkaraisk.255	this is scroll . 	
+TS3003d.A.dialog-act.vkaraisk.256	I think it was better to have this price list a bit earlier . Before we went on to the to the whole design . 	
+TS3003d.D.dialog-act.vkaraisk.83	Yes . Definitely . 	
+TS3003d.B.dialog-act.vkaraisk.122	The th 	
+TS3003d.A.dialog-act.vkaraisk.257	But I'm glad we could make a bit . 	
+TS3003d.D.dialog-act.vkaraisk.84	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.258	It's pretty different , if you saw the last one than this one . 	
+TS3003d.D.dialog-act.vkaraisk.85	It's pretty different . 	
+TS3003d.B.dialog-act.vkaraisk.123		
+TS3003d.D.dialog-act.vkaraisk.86	But this is not really like for the group we were making our remote . 	
+TS3003d.B.dialog-act.vkaraisk.124	No . 	
+TS3003d.D.dialog-act.vkaraisk.87	This will really require a lot of marketing to get this to sell . 	
+TS3003d.A.dialog-act.vkaraisk.259	Yeah . It will . Yeah . 	
+TS3003d.B.dialog-act.vkaraisk.125	But um 	
+TS3003d.D.dialog-act.vkaraisk.88	'Cause if older people like familiar forms and familiar stuff . 	
+TS3003d.D.dialog-act.vkaraisk.89	This is not familiar for them . 	
+TS3003d.A.dialog-act.vkaraisk.260	No , 	
+TS3003d.A.dialog-act.vkaraisk.261	but I think 	
+TS3003d.D.dialog-act.vkaraisk.90	So we're gonna have to do a lotta convincing them . 	
+TS3003d.A.dialog-act.vkaraisk.262	I think the most 	
+TS3003d.B.dialog-act.vkaraisk.126	But they know the scroll-buttons from uh old radios . 	
+TS3003d.B.dialog-act.vkaraisk.127	Uh they cal also uh buttons like that for uh changing uh channels . 	
+TS3003d.D.dialog-act.vkaraisk.91	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.263	That's right . 	
+TS3003d.B.dialog-act.vkaraisk.128	So maybe it's uh 	
+TS3003d.A.dialog-act.vkaraisk.264	We can let l 	
+TS3003d.A.dialog-act.vkaraisk.265	We can stick it out , a bit . Like a old old buttons . 	
+TS3003d.B.dialog-act.vkaraisk.129	Yeah . Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.266	Maybe that's recognisable for them as well . 	
+TS3003d.B.dialog-act.vkaraisk.130	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.267	Yeah . That's a good one . 	
+TS3003d.A.dialog-act.vkaraisk.268	So , 	
+TS3003d.A.dialog-act.vkaraisk.269	I'm afraid we have to move on . 	
+TS3003d.A.dialog-act.vkaraisk.270	And it's uh it's b uh less frightening , I think . 	
+TS3003d.A.dialog-act.vkaraisk.271	If they see this design they think oh , there are only five buttons , and uh 	
+TS3003d.B.dialog-act.vkaraisk.131	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.272	But we will see . 	
+TS3003d.D.dialog-act.vkaraisk.92	That's true . 	
+TS3003d.D.dialog-act.vkaraisk.93	Might uh might be confusing too . 	
+TS3003d.A.dialog-act.vkaraisk.273	Yeah . That's definitely right . 	
+TS3003d.D.dialog-act.vkaraisk.94	They'd be like , what ? Only five buttons ? 	
+TS3003d.B.dialog-act.vkaraisk.132	Mm-hmm . 	
+TS3003d.A.dialog-act.vkaraisk.274	Yeah . 	
+TS3003d.B.dialog-act.vkaraisk.133	But very special , 	
+TS3003d.B.dialog-act.vkaraisk.134	so uh 	
+TS3003d.A.dialog-act.vkaraisk.275	I would buy it . 	
+TS3003d.B.dialog-act.vkaraisk.135		
+TS3003d.C.dialog-act.vkaraisk.96		
+TS3003d.D.dialog-act.vkaraisk.95	Yeah . 	
+TS3003d.D.dialog-act.vkaraisk.96	But you're not sixty . 	
+TS3003d.A.dialog-act.vkaraisk.276	That's right . 	
+TS3003d.A.dialog-act.vkaraisk.277	I would buy it if I was six . 	
+TS3003d.A.dialog-act.vkaraisk.278	No I don't know . 	
+TS3003d.A.dialog-act.vkaraisk.279	What it costs under twelve and a half Euros ? 	
+TS3003d.A.dialog-act.vkaraisk.280	No ? 	
+TS3003d.A.dialog-act.vkaraisk.281	Uh , yes they are . 	
+TS3003d.C.dialog-act.vkaraisk.97		
+TS3003d.B.dialog-act.vkaraisk.136	No . 	
+TS3003d.A.dialog-act.vkaraisk.282	No . 	
+TS3003d.A.dialog-act.vkaraisk.283	But we can go on with the project evaluation . 	
+TS3003d.C.dialog-act.vkaraisk.98		
+TS3003d.D.dialog-act.vkaraisk.97	Mm-hmm . 	
+TS3003d.A.dialog-act.vkaraisk.284	Let's see . 	
+TS3003d.A.dialog-act.vkaraisk.285	I can sit down I think . 	
+TS3003d.A.dialog-act.vkaraisk.286	We still have fifteen minutes left , 	
+TS3003d.A.dialog-act.vkaraisk.287	so we're nice on schedule . 	
+TS3003d.C.dialog-act.vkaraisk.99	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.288	Um , the project process . 	
+TS3003d.D.dialog-act.vkaraisk.98	So um , 	
+TS3003d.D.dialog-act.vkaraisk.99	I like set up all these criteria . And evaluation of the thingy . 	
+TS3003d.A.dialog-act.vkaraisk.289		
+TS3003d.A.dialog-act.vkaraisk.290	Evaluation criteria . That's right . 	
+TS3003d.A.dialog-act.vkaraisk.291	That was the the point I forgot . 	
+TS3003d.A.dialog-act.vkaraisk.292	I should 	
+TS3003d.C.dialog-act.vkaraisk.100		
+TS3003d.A.dialog-act.vkaraisk.293	There we are . Evaluation criteria . 	
+TS3003d.D.dialog-act.vkaraisk.100	Thank you . 	
+TS3003d.B.dialog-act.vkaraisk.137		
+TS3003d.C.dialog-act.vkaraisk.101		
+TS3003d.A.dialog-act.vkaraisk.294	Go ahead . 	
+TS3003d.A.dialog-act.vkaraisk.295	We've got five minutes I think for those criteria . 	
+TS3003d.D.dialog-act.vkaraisk.101	Five more minutes ? 	
+TS3003d.A.dialog-act.vkaraisk.296	No we've got fifteen minutes 	
+TS3003d.A.dialog-act.vkaraisk.297	but 	
+TS3003d.D.dialog-act.vkaraisk.102	Okay . 	
+TS3003d.A.dialog-act.vkaraisk.298	Uh yes . What ? 	
+TS3003d.D.dialog-act.vkaraisk.103	'Kay so 	
+TS3003d.D.dialog-act.vkaraisk.104	I did some literature study study , and analysis of the requirements we set up earlier . 	
+TS3003d.A.dialog-act.vkaraisk.299	Uh yeah . 	
+TS3003d.D.dialog-act.vkaraisk.105	Translated it into criteria , 	
+TS3003d.D.dialog-act.vkaraisk.106	which would be these . 	
+TS3003d.D.dialog-act.vkaraisk.107	Um , is the remote fancy ? The shape , look and feel . 	
+TS3003d.D.dialog-act.vkaraisk.108	Innovative ? What new functions are there ? 	
+TS3003d.D.dialog-act.vkaraisk.109	Uh , easy to use ? 	
+TS3003d.D.dialog-act.vkaraisk.110	Uh , learnability is a very important factor here . 	
+TS3003d.D.dialog-act.vkaraisk.111	Uh , is it functional ? 	
+TS3003d.D.dialog-act.vkaraisk.112	Are there not too many functions uh among the functions ? 	
+TS3003d.D.dialog-act.vkaraisk.113	And are the those functions that are there , are they useful ? 	
+TS3003d.D.dialog-act.vkaraisk.114	And the cost . 	
+TS3003d.D.dialog-act.vkaraisk.115	The target group . Is the remote really for the group we're making it for ? 	
+TS3003d.D.dialog-act.vkaraisk.116	And recognability . If our company is If it is easily recognisable that our company made it ? 	
+TS3003d.D.dialog-act.vkaraisk.117	And 	
+TS3003d.D.dialog-act.vkaraisk.118	So we're supposed to evaluate it right now . 	
+TS3003d.A.dialog-act.vkaraisk.300	Okay . 	
+TS3003d.D.dialog-act.vkaraisk.119	Let's see . 	
+TS3003d.D.dialog-act.vkaraisk.120	Oh 	
+TS3003d.D.dialog-act.vkaraisk.121	I have to say this was a little hard , 	
+TS3003d.D.dialog-act.vkaraisk.122	because the minutes of our last meeting were not here . 	
+TS3003d.A.dialog-act.vkaraisk.301	Yeah , 	
+TS3003d.A.dialog-act.vkaraisk.302	that's because my pen failed to upload his data . 	
+TS3003d.B.dialog-act.vkaraisk.138	Mm . 	
+TS3003d.D.dialog-act.vkaraisk.123	Okay . 	
+TS3003d.B.dialog-act.vkaraisk.139	Yeah ? 	
+TS3003d.A.dialog-act.vkaraisk.303	I tried to 	
+TS3003d.D.dialog-act.vkaraisk.124	Interesting . 	
+TS3003d.A.dialog-act.vkaraisk.304	but it's uh it's giving errors by downloading the software . 	
+TS3003d.D.dialog-act.vkaraisk.125	So 	
+TS3003d.B.dialog-act.vkaraisk.140	Mm . 'Kay . 	
+TS3003d.D.dialog-act.vkaraisk.126	Is the design fancy , on a scale of one to seven ? 	
+TS3003d.A.dialog-act.vkaraisk.305	I think it's fancy . 	
+TS3003d.C.dialog-act.vkaraisk.102	Six . 	
+TS3003d.A.dialog-act.vkaraisk.306	Yeah . Six . 	
+TS3003d.B.dialog-act.vkaraisk.141	Uh six . Yeah . 	
+TS3003d.D.dialog-act.vkaraisk.127	We all go for six ? 	
+TS3003d.D.dialog-act.vkaraisk.128	Good . 	
+TS3003d.D.dialog-act.vkaraisk.129	Um , is the design innovative ? 	
+TS3003d.A.dialog-act.vkaraisk.308	Very . 	
+TS3003d.B.dialog-act.vkaraisk.142	Mm . Sh 	
+TS3003d.D.dialog-act.vkaraisk.130	I think so , 	
+TS3003d.D.dialog-act.vkaraisk.131	with our L_C_D_ screen , docking station , scroll-buttons . 	
+TS3003d.A.dialog-act.vkaraisk.309	Subtitles , buttons . 	
+TS3003d.A.dialog-act.vkaraisk.310	Yeah . 	
+TS3003d.C.dialog-act.vkaraisk.103	Yeah . 	
+TS3003d.B.dialog-act.vkaraisk.143		
+TS3003d.A.dialog-act.vkaraisk.311	Seven . 	
+TS3003d.D.dialog-act.vkaraisk.132	Seven ? 	
+TS3003d.B.dialog-act.vkaraisk.144	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.312	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.314	So we've got twenty cents for our docking station , 	
+TS3003d.A.dialog-act.vkaraisk.315	huh ? 	
+TS3003d.C.dialog-act.vkaraisk.104		
+TS3003d.B.dialog-act.vkaraisk.145		
+TS3003d.D.dialog-act.vkaraisk.133	Should be do-able . 	
+TS3003d.A.dialog-act.vkaraisk.316	Yeah . That's right . 	
+TS3003d.D.dialog-act.vkaraisk.134	Is the design easy to use ? 	
+TS3003d.B.dialog-act.vkaraisk.146	Mm . Not really . 	
+TS3003d.A.dialog-act.vkaraisk.317	That's a bit dodgy . 	
+TS3003d.D.dialog-act.vkaraisk.135	Well 	
+TS3003d.D.dialog-act.vkaraisk.136	Would be for us . 	
+TS3003d.D.dialog-act.vkaraisk.137	But 	
+TS3003d.B.dialog-act.vkaraisk.147	For old people I I 	
+TS3003d.A.dialog-act.vkaraisk.318	I would say four . Four or five between . Between four or five . 	
+TS3003d.C.dialog-act.vkaraisk.105	Four or five . Yes . 	
+TS3003d.B.dialog-act.vkaraisk.148	W 	
+TS3003d.B.dialog-act.vkaraisk.149	Yeah . Four . 	
+TS3003d.D.dialog-act.vkaraisk.138	I'd go for four , too . 	
+TS3003d.B.dialog-act.vkaraisk.150	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.319	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.320	Is it functional ? 	
+TS3003d.D.dialog-act.vkaraisk.139	Is the design functional ? 	
+TS3003d.C.dialog-act.vkaraisk.106		
+TS3003d.D.dialog-act.vkaraisk.140	Um , do we have all functions that we want to include ? 	
+TS3003d.A.dialog-act.vkaraisk.321	Yes . 	
+TS3003d.C.dialog-act.vkaraisk.107		
+TS3003d.B.dialog-act.vkaraisk.151	N 	
+TS3003d.B.dialog-act.vkaraisk.152	Yeah . 	
+TS3003d.D.dialog-act.vkaraisk.141	I think we do . 	
+TS3003d.D.dialog-act.vkaraisk.142	Do we have too many functions ? 	
+TS3003d.C.dialog-act.vkaraisk.108	No . 	
+TS3003d.A.dialog-act.vkaraisk.322	No . 	
+TS3003d.B.dialog-act.vkaraisk.153	No . 	
+TS3003d.D.dialog-act.vkaraisk.143	I don't think so . 	
+TS3003d.D.dialog-act.vkaraisk.144	It's pretty slim . 	
+TS3003d.A.dialog-act.vkaraisk.323	Think it's uh seven . 	
+TS3003d.D.dialog-act.vkaraisk.145	Seven . 	
+TS3003d.D.dialog-act.vkaraisk.146	Oh , 	
+TS3003d.D.dialog-act.vkaraisk.147	and do we um take care of the biggest frustrations of the remote control ? Like it getting lost and R_S_I_ influences ? 	
+TS3003d.B.dialog-act.vkaraisk.154	Mm m 	
+TS3003d.C.dialog-act.vkaraisk.109	Mm , we haven't thought of that one . 	
+TS3003d.A.dialog-act.vkaraisk.324	It was . 	
+TS3003d.D.dialog-act.vkaraisk.148	Think we do . 	
+TS3003d.A.dialog-act.vkaraisk.325	I had them worked out . 	
+TS3003d.A.dialog-act.vkaraisk.326	Mm . They are ugly , not very functional , and getting lost . 	
+TS3003d.D.dialog-act.vkaraisk.149	Are the production costs within the preset limits ? 	
+TS3003d.B.dialog-act.vkaraisk.155	Yeah . 	
+TS3003d.D.dialog-act.vkaraisk.150	Well 	
+TS3003d.C.dialog-act.vkaraisk.110		
+TS3003d.D.dialog-act.vkaraisk.151	they are now . 	
+TS3003d.A.dialog-act.vkaraisk.327	Yeah . 	
+TS3003d.C.dialog-act.vkaraisk.111		
+TS3003d.D.dialog-act.vkaraisk.152	Does the design fit the group of focus ? 	
+TS3003d.C.dialog-act.vkaraisk.112	I think that's a three . 	
+TS3003d.B.dialog-act.vkaraisk.156	Mm , th yeah . 	
+TS3003d.D.dialog-act.vkaraisk.153	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.328	No 	
+TS3003d.A.dialog-act.vkaraisk.329	I think with our new radio button , I think it's uh I think it's better . 	
+TS3003d.D.dialog-act.vkaraisk.154	I think it doesn't . 	
+TS3003d.B.dialog-act.vkaraisk.157	Yeah . 	
+TS3003d.B.dialog-act.vkaraisk.158	Uh We have to test it 	
+TS3003d.D.dialog-act.vkaraisk.155	I don't know . 	
+TS3003d.B.dialog-act.vkaraisk.159	s But 	
+TS3003d.C.dialog-act.vkaraisk.113	I still I think it's too m too fancy . Too too flashy . 	
+TS3003d.D.dialog-act.vkaraisk.156	I think 	
+TS3003d.A.dialog-act.vkaraisk.330	I think it 	
+TS3003d.D.dialog-act.vkaraisk.157	I think a radio button is not exactly what older people expect to have a remote control . 	
+TS3003d.B.dialog-act.vkaraisk.160	Uh , yeah , true . 	
+TS3003d.A.dialog-act.vkaraisk.331	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.332	I would give it a four . 	
+TS3003d.D.dialog-act.vkaraisk.158	I'm not sure . 	
+TS3003d.D.dialog-act.vkaraisk.159	I think I'd go for two . 	
+TS3003d.B.dialog-act.vkaraisk.161	I go for three . 	
+TS3003d.B.dialog-act.vkaraisk.162	So 	
+TS3003d.A.dialog-act.vkaraisk.333	Then we have to do the three . 	
+TS3003d.A.dialog-act.vkaraisk.334	It's the 	
+TS3003d.D.dialog-act.vkaraisk.160	'Kay . 	
+TS3003d.D.dialog-act.vkaraisk.161	Is the company company recognisable ? 	
+TS3003d.A.dialog-act.vkaraisk.335	Yes it is . 	
+TS3003d.B.dialog-act.vkaraisk.163	Yeah yeah . 	
+TS3003d.D.dialog-act.vkaraisk.162	Well , 	
+TS3003d.D.dialog-act.vkaraisk.163	we have the logo there . 	
+TS3003d.A.dialog-act.vkaraisk.336	Yeah . 	
+TS3003d.D.dialog-act.vkaraisk.164	So 	
+TS3003d.A.dialog-act.vkaraisk.337	And they wanna put fashion in their products . Uh in the slogan of the company . 	
+TS3003d.A.dialog-act.vkaraisk.338	And we have the removable front cases . 	
+TS3003d.B.dialog-act.vkaraisk.164	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.339	So , I think it's very recognisable . 	
+TS3003d.D.dialog-act.vkaraisk.165	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.340	Yep . 	
+TS3003d.D.dialog-act.vkaraisk.166	So that will be this . 	
+TS3003d.D.dialog-act.vkaraisk.167	I was also supposed to calculate the score , 	
+TS3003d.D.dialog-act.vkaraisk.168	but thought we would have another private thingy after this . 	
+TS3003d.A.dialog-act.vkaraisk.341	We've got a calculate it . 	
+TS3003d.A.dialog-act.vkaraisk.342	Mm ? 	
+TS3003d.C.dialog-act.vkaraisk.114	Twendag sieven an twendag . 	
+TS3003d.D.dialog-act.vkaraisk.169	Is this 	
+TS3003d.D.dialog-act.vkaraisk.170	Like 	
+TS3003d.D.dialog-act.vkaraisk.171	after this , are we done ? Or 	
+TS3003d.A.dialog-act.vkaraisk.343	N 	
+TS3003d.A.dialog-act.vkaraisk.344	We've gonna We're going to evaluate it . 	
+TS3003d.D.dialog-act.vkaraisk.173	We're gonna go to our other room again . 	
+TS3003d.D.dialog-act.vkaraisk.174	Well , anyhow . 	
+TS3003d.D.dialog-act.vkaraisk.175	These are seven factors times seven is forty something . Two ? 	
+TS3003d.D.dialog-act.vkaraisk.176	No . 	
+TS3003d.D.dialog-act.vkaraisk.177	Nine ? 	
+TS3003d.A.dialog-act.vkaraisk.345	Forty nine . 	
+TS3003d.D.dialog-act.vkaraisk.178	Uh , minus one . Minus three , minus four . Minus four . 	
+TS3003d.D.dialog-act.vkaraisk.179	So that would be minus eight . 	
+TS3003d.D.dialog-act.vkaraisk.180	Forty one out of forty nine . 	
+TS3003d.A.dialog-act.vkaraisk.346	Forty one . 	
+TS3003d.A.dialog-act.vkaraisk.347	That's Around eighty percent . 	
+TS3003d.D.dialog-act.vkaraisk.181	Okay . 	
+TS3003d.A.dialog-act.vkaraisk.348	What is it ? 	
+TS3003d.D.dialog-act.vkaraisk.182	Guess I'll just type that in on the bottom here . 	
+TS3003d.A.dialog-act.vkaraisk.349	That's eighty four percent . 	
+TS3003d.A.dialog-act.vkaraisk.350	I think that's a pretty nice score . 	
+TS3003d.B.dialog-act.vkaraisk.165	Hmm . 	
+TS3003d.C.dialog-act.vkaraisk.115	Yeah . 	
+TS3003d.B.dialog-act.vkaraisk.166	Yeah . 	
+TS3003d.D.dialog-act.vkaraisk.183	Hmm . 'Kay . So 	
+TS3003d.A.dialog-act.vkaraisk.351	Okay . 	
+TS3003d.D.dialog-act.vkaraisk.184	that will be the evaluation . 	
+TS3003d.A.dialog-act.vkaraisk.352	Thank you . 	
+TS3003d.A.dialog-act.vkaraisk.353	So , 	
+TS3003d.A.dialog-act.vkaraisk.354	that brings us to the project evaluation . 	
+TS3003d.A.dialog-act.vkaraisk.355	Yep . 	
+TS3003d.A.dialog-act.vkaraisk.356	Thank you . 	
+TS3003d.D.dialog-act.vkaraisk.185		
+TS3003d.A.dialog-act.vkaraisk.357	Project process . 	
+TS3003d.A.dialog-act.vkaraisk.358	Did we move through the right phases , you think ? Along the process ? 	
+TS3003d.C.dialog-act.vkaraisk.116	Yes . 	
+TS3003d.B.dialog-act.vkaraisk.167	Yeah . 	
+TS3003d.B.dialog-act.vkaraisk.168	But it 	
+TS3003d.D.dialog-act.vkaraisk.186	Think we should have a should have had the finance thingy a lot earlier . In the design phase . 	
+TS3003d.B.dialog-act.vkaraisk.169	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.359	That's right . 	
+TS3003d.A.dialog-act.vkaraisk.360	So lack of information about prices . 	
+TS3003d.D.dialog-act.vkaraisk.187	Yeah . Definitely . 	
+TS3003d.C.dialog-act.vkaraisk.117	Yeah . That's true . 	
+TS3003d.B.dialog-act.vkaraisk.170	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.361	Okay . 	
+TS3003d.A.dialog-act.vkaraisk.362	Uh Okay . 	
+TS3003d.A.dialog-act.vkaraisk.363	Satisfaction . 	
+TS3003d.A.dialog-act.vkaraisk.364	Was there room for creativity ? 	
+TS3003d.D.dialog-act.vkaraisk.188	No . 	
+TS3003d.A.dialog-act.vkaraisk.365	No ? 	
+TS3003d.B.dialog-act.vkaraisk.171		
+TS3003d.D.dialog-act.vkaraisk.189	Not too much . No . 	
+TS3003d.A.dialog-act.vkaraisk.366	It's because of the finance sheet . Yeah . 	
+TS3003d.B.dialog-act.vkaraisk.172	Yeah . 	
+TS3003d.C.dialog-act.vkaraisk.118	Yeah , there w there was enough room , but the finance uh 	
+TS3003d.D.dialog-act.vkaraisk.190	Yeah , true . 	
+TS3003d.D.dialog-act.vkaraisk.191	But 	
+TS3003d.A.dialog-act.vkaraisk.367	The room was Yeah . 	
+TS3003d.B.dialog-act.vkaraisk.173	Yeah . 	
+TS3003d.D.dialog-act.vkaraisk.192	And I would've liked to go for the younger users also . 	
+TS3003d.B.dialog-act.vkaraisk.174	. 	
+TS3003d.D.dialog-act.vkaraisk.193	And just to be able to access internet and get something of your own . 	
+TS3003d.B.dialog-act.vkaraisk.175	Mm . 	
+TS3003d.A.dialog-act.vkaraisk.368	Restrictions . Internet access . 	
+TS3003d.A.dialog-act.vkaraisk.369	'Kay . 	
+TS3003d.A.dialog-act.vkaraisk.370	Leadership . 	
+TS3003d.A.dialog-act.vkaraisk.371	Was it clear what everybody had to do uh according to their roles and functions ? Yeah ? 	
+TS3003d.C.dialog-act.vkaraisk.119	Yes . 	
+TS3003d.D.dialog-act.vkaraisk.194	Yeah . 	
+TS3003d.B.dialog-act.vkaraisk.176	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.372	Teamwork ? Did it work out ? Working together ? Also , you two of you with the uh last phase ? 	
+TS3003d.B.dialog-act.vkaraisk.177	So 	
+TS3003d.C.dialog-act.vkaraisk.120	Yes , was okay . 	
+TS3003d.B.dialog-act.vkaraisk.178	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.373	Nice . 	
+TS3003d.C.dialog-act.vkaraisk.121	The tasks are very structured , 	
+TS3003d.C.dialog-act.vkaraisk.122	so you can just do step by step 	
+TS3003d.C.dialog-act.vkaraisk.123	and it's very easy . 	
+TS3003d.B.dialog-act.vkaraisk.179	Mm-hmm . 	
+TS3003d.D.dialog-act.vkaraisk.195	Mm-hmm . 	
+TS3003d.A.dialog-act.vkaraisk.374	tasks . 	
+TS3003d.A.dialog-act.vkaraisk.375	Okay . 	
+TS3003d.A.dialog-act.vkaraisk.376	Were the means sufficient for the tasks uh we had to do ? 	
+TS3003d.A.dialog-act.vkaraisk.377	Or were they too much ? 	
+TS3003d.C.dialog-act.vkaraisk.124	Well , 	
+TS3003d.B.dialog-act.vkaraisk.180	Mm . 	
+TS3003d.C.dialog-act.vkaraisk.125	the smart-board , the d d drawing is just a pain in the ass , 	
+TS3003d.C.dialog-act.vkaraisk.126	but The digital the digital pen is very nice . 	
+TS3003d.D.dialog-act.vkaraisk.196		
+TS3003d.B.dialog-act.vkaraisk.181		
+TS3003d.A.dialog-act.vkaraisk.378	Smart-board . 	
+TS3003d.B.dialog-act.vkaraisk.182	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.379	If it wants to download its uh data . 	
+TS3003d.D.dialog-act.vkaraisk.197	Yeah . Yeah . 	
+TS3003d.B.dialog-act.vkaraisk.183	But 	
+TS3003d.C.dialog-act.vkaraisk.127	Yes . Yeah . 	
+TS3003d.B.dialog-act.vkaraisk.184	Uh 	
+TS3003d.A.dialog-act.vkaraisk.380	Failed download . Smart-board was irritating . 	
+TS3003d.A.dialog-act.vkaraisk.381	So you rather wanted to have a flip-over ? Or something else ? 	
+TS3003d.C.dialog-act.vkaraisk.128	A flip-over or a more precise uh digit 	
+TS3003d.B.dialog-act.vkaraisk.185	Yeah . 	
+TS3003d.B.dialog-act.vkaraisk.186	A flipper's uh easier , 	
+TS3003d.B.dialog-act.vkaraisk.187	so 	
+TS3003d.B.dialog-act.vkaraisk.188	Yeah . 	
+TS3003d.D.dialog-act.vkaraisk.198	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.382	Faster as well , I think . 	
+TS3003d.C.dialog-act.vkaraisk.129	Yes . 	
+TS3003d.A.dialog-act.vkaraisk.383	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.384	Flip-over . 	
+TS3003d.B.dialog-act.vkaraisk.189	But if you want to share uh of uh when you make um a picture like this uh on the presentation , it's easier to uh share it with uh other people . 	
+TS3003d.B.dialog-act.vkaraisk.190	Uh so uh 	
+TS3003d.B.dialog-act.vkaraisk.191	you can sh save it 	
+TS3003d.A.dialog-act.vkaraisk.385	Yeah . 	
+TS3003d.B.dialog-act.vkaraisk.192	uh and uh put it on the internet , or uh uh in shared f uh folder or uh sh uh shared directory . 	
+TS3003d.D.dialog-act.vkaraisk.199	Yeah , 	
+TS3003d.D.dialog-act.vkaraisk.200	I tried to open the file on my laptop , 	
+TS3003d.B.dialog-act.vkaraisk.193	So So 	
+TS3003d.B.dialog-act.vkaraisk.194	Yeah ? 	
+TS3003d.D.dialog-act.vkaraisk.201	but not possible . 	
+TS3003d.C.dialog-act.vkaraisk.130	No . Didn't work . 	
+TS3003d.B.dialog-act.vkaraisk.195	No ? 	
+TS3003d.A.dialog-act.vkaraisk.386	Uh you need a smart board uh application I think . 	
+TS3003d.D.dialog-act.vkaraisk.202	Yeah . 	
+TS3003d.B.dialog-act.vkaraisk.196	T can uh can you export it uh like a Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.387	But I think you can 	
+TS3003d.A.dialog-act.vkaraisk.388	Yeah . Should be possible . Yeah you can export it as image . 	
+TS3003d.D.dialog-act.vkaraisk.203	no . 	
+TS3003d.A.dialog-act.vkaraisk.389	Must 	
+TS3003d.A.dialog-act.vkaraisk.390	Yeah 	
+TS3003d.A.dialog-act.vkaraisk.391	must be 	
+TS3003d.D.dialog-act.vkaraisk.204	Should've done that then . 	
+TS3003d.A.dialog-act.vkaraisk.392	So 	
+TS3003d.A.dialog-act.vkaraisk.393	the sharing of the information was uh was okay ? 	
+TS3003d.B.dialog-act.vkaraisk.198	. 	
+TS3003d.D.dialog-act.vkaraisk.205	Pen is here . 	
+TS3003d.C.dialog-act.vkaraisk.131	Yes . 	
+TS3003d.A.dialog-act.vkaraisk.394	Uh , network . 	
+TS3003d.B.dialog-act.vkaraisk.199	Uh . 	
+TS3003d.A.dialog-act.vkaraisk.395	Yeah , pen is here on the table . 	
+TS3003d.D.dialog-act.vkaraisk.206		
+TS3003d.B.dialog-act.vkaraisk.200	Uh , yeah . So 	
+TS3003d.B.dialog-act.vkaraisk.201	you can Uh 	
+TS3003d.A.dialog-act.vkaraisk.396	Yeah . It's possible . 	
+TS3003d.D.dialog-act.vkaraisk.207	Mm . Yeah . 	
+TS3003d.B.dialog-act.vkaraisk.202	It's possible . 	
+TS3003d.A.dialog-act.vkaraisk.397	Okay . 	
+TS3003d.B.dialog-act.vkaraisk.203	Okay . 	
+TS3003d.A.dialog-act.vkaraisk.398	That's nice . 	
+TS3003d.A.dialog-act.vkaraisk.399	Have we found new ideas for having this kind of meetings ? 	
+TS3003d.A.dialog-act.vkaraisk.400	Or 	
+TS3003d.B.dialog-act.vkaraisk.204	Um , yeah 	
+TS3003d.B.dialog-act.vkaraisk.205	maybe um uh when we n uh just uh give the numbers of of uh Uh uh o one of uh out of s uh sev 	
+TS3003d.A.dialog-act.vkaraisk.401	Yeah . 	
+TS3003d.B.dialog-act.vkaraisk.206	Um it's uh easier to uh to do the th things that are like that on a computer . Uh , so uh just l uh like uh at u university uh 	
+TS3003d.A.dialog-act.vkaraisk.402	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.403	So Yeah . So 	
+TS3003d.B.dialog-act.vkaraisk.207	So 	
+TS3003d.A.dialog-act.vkaraisk.404	everybody puts his own score . 	
+TS3003d.D.dialog-act.vkaraisk.208	Mm-hmm . 	
+TS3003d.A.dialog-act.vkaraisk.405	And then it mediates the score , 	
+TS3003d.B.dialog-act.vkaraisk.208	Yeah . 	
+TS3003d.D.dialog-act.vkaraisk.209	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.406	and you can get one 	
+TS3003d.B.dialog-act.vkaraisk.209	Yeah . 	
+TS3003d.C.dialog-act.vkaraisk.132	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.407	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.408	That's better . 	
+TS3003d.A.dialog-act.vkaraisk.409	So that's uh 	
+TS3003d.A.dialog-act.vkaraisk.411	How do we call ? Evaluation criteria . 	
+TS3003d.A.dialog-act.vkaraisk.410	Okay . Mm , 	
+TS3003d.A.dialog-act.vkaraisk.412	any more ideas ? 	
+TS3003d.A.dialog-act.vkaraisk.413	Or questions about the project ? Or about the product ? 	
+TS3003d.B.dialog-act.vkaraisk.210	Mm . 	
+TS3003d.A.dialog-act.vkaraisk.414	Because I think then that we get to our last sheet . 	
+TS3003d.A.dialog-act.vkaraisk.415	Are the costs within the budget ? 	
+TS3003d.B.dialog-act.vkaraisk.211	Mm yeah . 	
+TS3003d.C.dialog-act.vkaraisk.133		
+TS3003d.A.dialog-act.vkaraisk.416	Yeah . 	
+TS3003d.D.dialog-act.vkaraisk.210	They are . 	
+TS3003d.C.dialog-act.vkaraisk.134	Considering we are not going to make a docking station . 	
+TS3003d.A.dialog-act.vkaraisk.417	Do we 	
+TS3003d.A.dialog-act.vkaraisk.418	Docking station . 	
+TS3003d.A.dialog-act.vkaraisk.419	That's a good point . 	
+TS3003d.B.dialog-act.vkaraisk.212	. 	
+TS3003d.A.dialog-act.vkaraisk.420	But maybe because of the docking station the price of the remote can also be a little bit higher ? 	
+TS3003d.D.dialog-act.vkaraisk.211	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.421	Uh and I think you can compensate that as well . 	
+TS3003d.C.dialog-act.vkaraisk.135	Perhaps . 	
+TS3003d.B.dialog-act.vkaraisk.213	Mm . 	
+TS3003d.A.dialog-act.vkaraisk.422	So I think that shouldn't be the biggest problem , 	
+TS3003d.A.dialog-act.vkaraisk.423	because it's very cheap to make as well . 	
+TS3003d.C.dialog-act.vkaraisk.136	Mm-hmm . 	
+TS3003d.B.dialog-act.vkaraisk.214	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.424	Do we think we gonna get the twelve and a half million ? 	
+TS3003d.A.dialog-act.vkaraisk.425	Or what was it ? 	
+TS3003d.D.dialog-act.vkaraisk.212	Fifty grand . 	
+TS3003d.A.dialog-act.vkaraisk.426	Fifteen fifteen million . 	
+TS3003d.A.dialog-act.vkaraisk.427	I think we will . If we gonna export this product . 	
+TS3003d.A.dialog-act.vkaraisk.429	It's innovative . 	
+TS3003d.D.dialog-act.vkaraisk.213	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.430	Especially in America . People are pretty decadent . Sometimes . 	
+TS3003d.B.dialog-act.vkaraisk.215	Yeah . Mm . 	
+TS3003d.C.dialog-act.vkaraisk.137		
+TS3003d.D.dialog-act.vkaraisk.214	Yeah , 	
+TS3003d.D.dialog-act.vkaraisk.215	still I think 	
+TS3003d.B.dialog-act.vkaraisk.216	Yeah . 	
+TS3003d.D.dialog-act.vkaraisk.216	I mean 	
+TS3003d.D.dialog-act.vkaraisk.217	if we're n gonna make a scroll-button anyway it'd be more for the younger people than for the older people . 	
+TS3003d.A.dialog-act.vkaraisk.431	You can do more . 	
+TS3003d.A.dialog-act.vkaraisk.432	Yeah . 	
+TS3003d.B.dialog-act.vkaraisk.217	Ah . 	
+TS3003d.D.dialog-act.vkaraisk.218	So maybe we should just re-focus . 	
+TS3003d.A.dialog-act.vkaraisk.433	Just put it on the market for everybody . 	
+TS3003d.A.dialog-act.vkaraisk.434	You can you can change markets where by changing the front covers . 	
+TS3003d.B.dialog-act.vkaraisk.218	Ah . 	
+TS3003d.D.dialog-act.vkaraisk.219	Or specifically for younger people . 	
+TS3003d.B.dialog-act.vkaraisk.219	Ah . 	
+TS3003d.A.dialog-act.vkaraisk.435	That's one thing you can change it with . 	
+TS3003d.D.dialog-act.vkaraisk.220	That's true . 	
+TS3003d.A.dialog-act.vkaraisk.436	So you can also try to uh reach the younger people by uh putting fancy covers on on the market . Just as a test . See how it works . 	
+TS3003d.A.dialog-act.vkaraisk.437	That's I think a good advantage . 	
+TS3003d.D.dialog-act.vkaraisk.221	Yeah , 	
+TS3003d.D.dialog-act.vkaraisk.222	I think then it would be way more uh popular with younger people than it is , than would be with older people . Even if it were their covers . 	
+TS3003d.A.dialog-act.vkaraisk.438	Yeah . 	
+TS3003d.B.dialog-act.vkaraisk.220	Hmm . 	
+TS3003d.A.dialog-act.vkaraisk.439	Uh , uh then I think we can have our little celebration , right now . 	
+TS3003d.D.dialog-act.vkaraisk.223	But 	
+TS3003d.B.dialog-act.vkaraisk.221		
+TS3003d.D.dialog-act.vkaraisk.224	Party party . 	
+TS3003d.A.dialog-act.vkaraisk.440	That's it . 	
+TS3003d.A.dialog-act.vkaraisk.441	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.442	I think we still have to fit in one more questionnaire . I think . 	
+TS3003d.B.dialog-act.vkaraisk.222	Where's the champagne ? 	
+TS3003d.D.dialog-act.vkaraisk.225	'Kay . 	
+TS3003d.A.dialog-act.vkaraisk.443	I don't know . 	
+TS3003d.A.dialog-act.vkaraisk.444	I didn't get a message 	
+TS3003d.A.dialog-act.vkaraisk.445	from the from ending of the 	
+TS3003d.B.dialog-act.vkaraisk.223	Uh , I believe y uh 	
+TS3003d.A.dialog-act.vkaraisk.446	Oh 	
+TS3003d.D.dialog-act.vkaraisk.226	Oh 	
+TS3003d.A.dialog-act.vkaraisk.447	I think I have one now . 	
+TS3003d.D.dialog-act.vkaraisk.227	you did . 	
+TS3003d.A.dialog-act.vkaraisk.448	Five more minutes ? 	
+TS3003d.A.dialog-act.vkaraisk.449	Oh that's nice . 	
+TS3003d.B.dialog-act.vkaraisk.224	Okay . 	
+TS3003d.A.dialog-act.vkaraisk.450	Then we still have some questions . 	
+TS3003d.A.dialog-act.vkaraisk.451	If somebody has some questions they can ask them now . 	
+TS3003d.A.dialog-act.vkaraisk.452	Or we can put these in the project folder as well . 	
+TS3003d.D.dialog-act.vkaraisk.228	Mm-hmm . 	
+TS3003d.A.dialog-act.vkaraisk.453	Maybe that's 	
+TS3003d.B.dialog-act.vkaraisk.225	Yeah . 	
+TS3003d.C.dialog-act.vkaraisk.138		
+TS3003d.A.dialog-act.vkaraisk.454		
+TS3003d.B.dialog-act.vkaraisk.226		
+TS3003d.A.dialog-act.vkaraisk.455		
+TS3003d.D.dialog-act.vkaraisk.229		
+TS3003d.A.dialog-act.vkaraisk.456	Export as picture , I think . 	
+TS3003d.D.dialog-act.vkaraisk.230	Yeah . 	
+TS3003d.B.dialog-act.vkaraisk.227	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.457		
+TS3003d.C.dialog-act.vkaraisk.139		
+TS3003d.D.dialog-act.vkaraisk.231		
+TS3003d.A.dialog-act.vkaraisk.458	Hmm . This is another network , I guess . 	
+TS3003d.D.dialog-act.vkaraisk.232		
+TS3003d.A.dialog-act.vkaraisk.459	Does somebody see the project folder ? 	
+TS3003d.B.dialog-act.vkaraisk.228		
+TS3003d.A.dialog-act.vkaraisk.460	I don't . 	
+TS3003d.A.dialog-act.vkaraisk.461	Hmm . My Documents . 	
+TS3003d.B.dialog-act.vkaraisk.229	Uh maybe uh they will save it . 	
+TS3003d.B.dialog-act.vkaraisk.230	So uh 	
+TS3003d.A.dialog-act.vkaraisk.462	Yeah , 	
+TS3003d.A.dialog-act.vkaraisk.463	I'll just put it in My Documents 	
+TS3003d.D.dialog-act.vkaraisk.233	Yeah , it probably will . 	
+TS3003d.A.dialog-act.vkaraisk.464	and uh 	
+TS3003d.A.dialog-act.vkaraisk.465	That's okay . 	
+TS3003d.A.dialog-act.vkaraisk.466	Okay . 	
+TS3003d.A.dialog-act.vkaraisk.467	I think I'm going to make our final presentation now . 	
+TS3003d.D.dialog-act.vkaraisk.234	Oh yeah , 	
+TS3003d.D.dialog-act.vkaraisk.235	you're supposed to make a final 	
+TS3003d.A.dialog-act.vkaraisk.468	And then I will be back in about ten minutes to show you the final presentation . Summary of the project . 	
+TS3003d.B.dialog-act.vkaraisk.231	Okay . 	
+TS3003d.C.dialog-act.vkaraisk.140	Okay . 	
+TS3003d.D.dialog-act.vkaraisk.236	Are we supposed to go into our own rooms again ? 	
+TS3003d.B.dialog-act.vkaraisk.232	Uh maybe we have to fill uh another questionnaire . 	
+TS3003d.A.dialog-act.vkaraisk.469	Yeah . Questionnaire . 	
+TS3003d.B.dialog-act.vkaraisk.233	So uh 	
+TS3003d.A.dialog-act.vkaraisk.470	I think you all get a questionnaire in in your room . 	
+TS3003d.D.dialog-act.vkaraisk.237	Yeah . 	
+TS3003d.B.dialog-act.vkaraisk.234	Yeah . 	
+TS3003d.B.dialog-act.vkaraisk.235	Yeah . 	
+TS3003d.A.dialog-act.vkaraisk.471	And then I'll meet you in I think about ten minutes , or something . 	
+TS3003d.C.dialog-act.vkaraisk.141	Okay . 	
+TS3003d.B.dialog-act.vkaraisk.236	Okay . 	
+TS3003d.A.dialog-act.vkaraisk.472	Hopefully my pen will download its software . Oh . Or data . 	
+TS3003d.D.dialog-act.vkaraisk.238	Yeah . 	
+TS3003d.D.dialog-act.vkaraisk.239	That'd be nice . 	
+

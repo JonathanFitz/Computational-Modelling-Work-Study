@@ -1,0 +1,752 @@
+Observation: ES2016d; Result size: 749; atts: 2
+$d@nite:id	$d	
+ES2016d.A.dialog-act.dharshi.1	Yep . 	
+ES2016d.A.dialog-act.dharshi.2	Soon as I get this . 	
+ES2016d.A.dialog-act.dharshi.3	Okay . 	
+ES2016d.A.dialog-act.dharshi.4	This is our last meeting . 	
+ES2016d.A.dialog-act.dharshi.5	Um I'll go ahead and go through the minutes from the previous meeting . 	
+ES2016d.A.dialog-act.dharshi.6	Uh and then we'll have a , the prototype presentation . 	
+ES2016d.A.dialog-act.dharshi.7	Um then we will um do an evaluation . 	
+ES2016d.A.dialog-act.dharshi.8	Uh or we'll see what , what we need to have under the criteria for the evaluation . 	
+ES2016d.A.dialog-act.dharshi.9	Then we'll go through the finance and see if we fall within the budget . 	
+ES2016d.A.dialog-act.dharshi.10	Um then we'll do the evaluation , 	
+ES2016d.A.dialog-act.dharshi.11	and then we can finish up after that with um any changes that we'll need to make , 	
+ES2016d.A.dialog-act.dharshi.12	or hopefully everything will fall right in line . 	
+ES2016d.A.dialog-act.dharshi.13	Um let's see , 	
+ES2016d.A.dialog-act.dharshi.14	minutes from the last meeting . 	
+ES2016d.A.dialog-act.dharshi.15	Um we looked at uh the the trends . 	
+ES2016d.A.dialog-act.dharshi.16	We had uh the fashion trends that people want a fancy look-and-feel . 	
+ES2016d.A.dialog-act.dharshi.17	It was twice as important as anything else . 	
+ES2016d.A.dialog-act.dharshi.18	Um they liked fruit and vegetables in the new styles . 	
+ES2016d.A.dialog-act.dharshi.19	Um and a spongy feel . 	
+ES2016d.A.dialog-act.dharshi.20	So we were talking about trying to incorporate those into our prototype . 	
+ES2016d.A.dialog-act.dharshi.21	Um they wanted limited buttons and simplicity . 	
+ES2016d.A.dialog-act.dharshi.22	Um then we looked at the uh the method for coming up with our own remote . 	
+ES2016d.A.dialog-act.dharshi.23	Um looking at other other devices . 	
+ES2016d.A.dialog-act.dharshi.24	Um the iPod , we really liked the look of that . 	
+ES2016d.A.dialog-act.dharshi.25	Um we also had uh the kid's remote for a simple idea . 	
+ES2016d.A.dialog-act.dharshi.26	Um a two part remote , which was what were were originally looking at . 	
+ES2016d.A.dialog-act.dharshi.27	Uh and then um there was talk of spee uh speech recognition um becoming more uh predominant and easier to use . 	
+ES2016d.A.dialog-act.dharshi.28	But I think we've still decided not to go with that . 	
+ES2016d.A.dialog-act.dharshi.29	Then we looked at the components um 	
+ES2016d.A.dialog-act.dharshi.30	the materials for the case , the different energy sources , the different types of chips , 	
+ES2016d.A.dialog-act.dharshi.31	um and made a decision on what we were going to use to make our remote . 	
+ES2016d.A.dialog-act.dharshi.32	Um and basically how , 	
+ES2016d.A.dialog-act.dharshi.33	what were making for the prototype . 	
+ES2016d.A.dialog-act.dharshi.34	So I'm going to leave it at that 	
+ES2016d.A.dialog-act.dharshi.35	and let you guys take over . 	
+ES2016d.C.dialog-act.dharshi.1	The prototype discussion . 	
+ES2016d.A.dialog-act.dharshi.36	The prototype yeah . 	
+ES2016d.A.dialog-act.dharshi.37	Do you need a this ? 	
+ES2016d.C.dialog-act.dharshi.2	No . 	
+ES2016d.A.dialog-act.dharshi.38	Okay . 	
+ES2016d.B.dialog-act.dharshi.1	Can try to plug that in there 	
+ES2016d.C.dialog-act.dharshi.4	There is our remo the banana . 	
+ES2016d.D.dialog-act.dharshi.1		
+ES2016d.B.dialog-act.dharshi.2	but 	
+ES2016d.C.dialog-act.dharshi.5	Um yeah 	
+ES2016d.C.dialog-act.dharshi.6	basically we we st went with the colour yellow . 	
+ES2016d.C.dialog-act.dharshi.7	Um working on the principle of a fruit which was mentioned , it's basically designed around a banana . 	
+ES2016d.C.dialog-act.dharshi.8	Um but it would be held in such a fashion , 	
+ES2016d.A.dialog-act.dharshi.39		
+ES2016d.D.dialog-act.dharshi.2		
+ES2016d.C.dialog-act.dharshi.9	where it is , 	
+ES2016d.C.dialog-act.dharshi.10	obviously it wouldn't be that floppy 'cause this would be hard plastic . 	
+ES2016d.C.dialog-act.dharshi.11	These would be like the rubber , the rubber grips . 	
+ES2016d.C.dialog-act.dharshi.12	So that's 	
+ES2016d.C.dialog-act.dharshi.13	so that would hopefully help with grip , or like the ergonomics of it . 	
+ES2016d.C.dialog-act.dharshi.14	Um but all the controlling would be done with this scroll wheel . 	
+ES2016d.C.dialog-act.dharshi.15	You have to use your imagination a little bit . 	
+ES2016d.C.dialog-act.dharshi.16	And this here represents the screen , where you , where you'd go through . 	
+ES2016d.A.dialog-act.dharshi.40	Very nice . 	
+ES2016d.C.dialog-act.dharshi.17	And the the simplest functions would be um almost identical to an iPod , 	
+ES2016d.C.dialog-act.dharshi.18	where that one way ch through channels , that way th other way through channels . 	
+ES2016d.C.dialog-act.dharshi.19	Volume up and down . 	
+ES2016d.C.dialog-act.dharshi.20	And then to access the more complicated functions you'd you sorta go , you press that and go through the menus . 	
+ES2016d.C.dialog-act.dharshi.21	It's that that simple . 	
+ES2016d.C.dialog-act.dharshi.22	That just represents the infrared uh beam . 	
+ES2016d.C.dialog-act.dharshi.23	That's a simple on and off switch . 	
+ES2016d.C.dialog-act.dharshi.24	Um I don't know , 	
+ES2016d.C.dialog-act.dharshi.25	we could use the voice . 	
+ES2016d.C.dialog-act.dharshi.26	T that blue bits should be yellow , 	
+ES2016d.C.dialog-act.dharshi.27	that that'd be where the batteries would be I suppose . 	
+ES2016d.C.dialog-act.dharshi.29	And um 	
+ES2016d.C.dialog-act.dharshi.30	that's about it . 	
+ES2016d.C.dialog-act.dharshi.31	It's as simple as you , we could make it really . 	
+ES2016d.C.dialog-act.dharshi.32	Is there anything you want to add ? 	
+ES2016d.B.dialog-act.dharshi.3	Right . 	
+ES2016d.B.dialog-act.dharshi.4	That's what we have there . 	
+ES2016d.B.dialog-act.dharshi.5	That's plastic . 	
+ES2016d.B.dialog-act.dharshi.6	Plastic covered with rubber . 	
+ES2016d.B.dialog-act.dharshi.7	We might uh add some more underneath here . 	
+ES2016d.B.dialog-act.dharshi.8	Maybe give it , give it a form . 	
+ES2016d.B.dialog-act.dharshi.10	I mean you're supposed to hold it like that , 	
+ES2016d.B.dialog-act.dharshi.11	but um just if you grab it , take it from somewhere , 	
+ES2016d.C.dialog-act.dharshi.33	Yeah . 	
+ES2016d.C.dialog-act.dharshi.34	Doesn't make much make much difference . 	
+ES2016d.B.dialog-act.dharshi.12	so yeah , 	
+ES2016d.A.dialog-act.dharshi.41	Mm-hmm . 	
+ES2016d.C.dialog-act.dharshi.35	You could work left-handed or right-handed I suppose . 	
+ES2016d.B.dialog-act.dharshi.19	you have some rub yeah . 	
+ES2016d.B.dialog-act.dharshi.17	Exactly , 	
+ES2016d.B.dialog-act.dharshi.18	use both . 	
+ES2016d.B.dialog-act.dharshi.13	Might as well think about 	
+ES2016d.C.dialog-act.dharshi.36	T the actual thing might be smaller . 	
+ES2016d.B.dialog-act.dharshi.14	Th think about the button as well . 	
+ES2016d.C.dialog-act.dharshi.37	Yeah . 	
+ES2016d.B.dialog-act.dharshi.15	Like either put either one one on either side or 	
+ES2016d.A.dialog-act.dharshi.43	What but 	
+ES2016d.A.dialog-act.dharshi.44	what's that button ? 	
+ES2016d.B.dialog-act.dharshi.16	not do it at all . 	
+ES2016d.C.dialog-act.dharshi.38	Just the on and off . 	
+ES2016d.B.dialog-act.dharshi.20	It's a quick on-off button . 	
+ES2016d.A.dialog-act.dharshi.45	Uh , 'kay . 	
+ES2016d.D.dialog-act.dharshi.3		
+ES2016d.B.dialog-act.dharshi.21	That's um 	
+ES2016d.B.dialog-act.dharshi.22	yeah I think it's pretty important . 	
+ES2016d.B.dialog-act.dharshi.23	So you don't have to fiddle with that . 	
+ES2016d.A.dialog-act.dharshi.46	'Kay . 	
+ES2016d.B.dialog-act.dharshi.24	Right ? 	
+ES2016d.B.dialog-act.dharshi.25	Um that's not um 	
+ES2016d.A.dialog-act.dharshi.47		
+ES2016d.B.dialog-act.dharshi.26	I'd say a bit smaller would probably be nice . 	
+ES2016d.C.dialog-act.dharshi.39	Yeah . 	
+ES2016d.B.dialog-act.dharshi.27	You wanna play with that over there . 	
+ES2016d.B.dialog-act.dharshi.28	There you go . 	
+ES2016d.D.dialog-act.dharshi.4		
+ES2016d.C.dialog-act.dharshi.40	It's you know it's flimsy 'cause it's made out of heavy Play-Doh , 	
+ES2016d.A.dialog-act.dharshi.48	Would you like to uh 	
+ES2016d.C.dialog-act.dharshi.41	but 	
+ES2016d.B.dialog-act.dharshi.29	Right . 	
+ES2016d.D.dialog-act.dharshi.5	Pretty impressive . 	
+ES2016d.A.dialog-act.dharshi.49	Well done . 	
+ES2016d.C.dialog-act.dharshi.42		
+ES2016d.D.dialog-act.dharshi.6		
+ES2016d.D.dialog-act.dharshi.7	Kind of a banana . 	
+ES2016d.C.dialog-act.dharshi.43	And whether or not it would fall into the cost everything I suppose . 	
+ES2016d.C.dialog-act.dharshi.44	With the scroll and the L_C_D_ . 	
+ES2016d.A.dialog-act.dharshi.50	Well luckily we are going to find out . 	
+ES2016d.A.dialog-act.dharshi.51	Or not luckily . 	
+ES2016d.B.dialog-act.dharshi.30		
+ES2016d.D.dialog-act.dharshi.8	I do . 	
+ES2016d.A.dialog-act.dharshi.52	Um do you have a marketing presentation for us . 	
+ES2016d.D.dialog-act.dharshi.9	Okay . 	
+ES2016d.D.dialog-act.dharshi.10	You guys are gonna help me do an evaluation of the criteria . 	
+ES2016d.D.dialog-act.dharshi.11	Um . 	
+ES2016d.D.dialog-act.dharshi.12	Okay . 	
+ES2016d.D.dialog-act.dharshi.13	So first I'll just discuss some of the criteria that I found . 	
+ES2016d.D.dialog-act.dharshi.14	Just based on the past trend reports that I was looking at earlier . 	
+ES2016d.D.dialog-act.dharshi.15	And then we'll do a group evaluation of the prototype . 	
+ES2016d.D.dialog-act.dharshi.16	And then we will calculate the average score to see how we did . 	
+ES2016d.D.dialog-act.dharshi.17	Um so the criteria we're gonna be looking at are the complaints um that we heard from the users who were interviewed earlier . 	
+ES2016d.D.dialog-act.dharshi.18	So 	
+ES2016d.D.dialog-act.dharshi.19	we're gonna be doing it based on a seven point scale . 	
+ES2016d.D.dialog-act.dharshi.20	And one is going to mean true , that we did actually achieve that . 	
+ES2016d.D.dialog-act.dharshi.21	With seven being false , we did not achieve that . 	
+ES2016d.D.dialog-act.dharshi.22	. 	
+ES2016d.D.dialog-act.dharshi.23	Okay . 	
+ES2016d.D.dialog-act.dharshi.24	So for the first one , we need to decide , did we solved the problem of the users who complained about an ugly remote ? 	
+ES2016d.C.dialog-act.dharshi.45		
+ES2016d.B.dialog-act.dharshi.31	. 	
+ES2016d.C.dialog-act.dharshi.46		
+ES2016d.A.dialog-act.dharshi.53	I think it's definitely different than anything else out there . 	
+ES2016d.D.dialog-act.dharshi.25	Mm . 	
+ES2016d.C.dialog-act.dharshi.47	Yeah . 	
+ES2016d.A.dialog-act.dharshi.54	So if they think that what is out there is ugly , then yes I would say , I would say most definitely . 	
+ES2016d.D.dialog-act.dharshi.26		
+ES2016d.C.dialog-act.dharshi.48	I would . 	
+ES2016d.A.dialog-act.dharshi.55	It's bright . 	
+ES2016d.C.dialog-act.dharshi.49	It's bright . 	
+ES2016d.C.dialog-act.dharshi.50	It's 	
+ES2016d.A.dialog-act.dharshi.56	It still has your traditional black . 	
+ES2016d.C.dialog-act.dharshi.51	It's curved . 	
+ES2016d.C.dialog-act.dharshi.52	It's not 	
+ES2016d.C.dialog-act.dharshi.53	there's no sharp 	
+ES2016d.B.dialog-act.dharshi.32		
+ES2016d.C.dialog-act.dharshi.54	angles to it . 	
+ES2016d.A.dialog-act.dharshi.57	Yep , not angular . 	
+ES2016d.D.dialog-act.dharshi.27	Mm . 	
+ES2016d.B.dialog-act.dharshi.33	I'd say , when it comes to the ergonomics , the form and stuff , yes that's definitely more beautiful than your average . 	
+ES2016d.D.dialog-act.dharshi.28		
+ES2016d.B.dialog-act.dharshi.34	However the colour , we don't have a say in that . 	
+ES2016d.D.dialog-act.dharshi.29	Yeah I think the colours detract a little bit . 	
+ES2016d.C.dialog-act.dharshi.55	Some people might say it . Yeah . 	
+ES2016d.B.dialog-act.dharshi.35	That has been , that has been dictated pretty much by the company . 	
+ES2016d.A.dialog-act.dharshi.58	Mm . 	
+ES2016d.B.dialog-act.dharshi.36	So uh to answer that honestly I would rather say like uh , we have not solved the problem completely with the ugly remote because the colour is ugly , definitely . 	
+ES2016d.D.dialog-act.dharshi.30	That's true . 	
+ES2016d.A.dialog-act.dharshi.59	Yep . 	
+ES2016d.D.dialog-act.dharshi.31	Yeah . 	
+ES2016d.A.dialog-act.dharshi.60		
+ES2016d.C.dialog-act.dharshi.56	Yeah . 	
+ES2016d.B.dialog-act.dharshi.37	'S nothing you can say about that . 	
+ES2016d.B.dialog-act.dharshi.38	I mean I much prefer something like brushed chrome with that form . 	
+ES2016d.C.dialog-act.dharshi.57	Yeah . 	
+ES2016d.B.dialog-act.dharshi.39	But 	
+ES2016d.A.dialog-act.dharshi.61	Yeah something more modern to go 	
+ES2016d.B.dialog-act.dharshi.40	Right . 	
+ES2016d.A.dialog-act.dharshi.62	a a modern colour to go with the modern form . 	
+ES2016d.B.dialog-act.dharshi.41	Right . 	
+ES2016d.B.dialog-act.dharshi.42	It's different . 	
+ES2016d.B.dialog-act.dharshi.43	You don't want your uh three feet huge L_C_D_ dis display in your living room that's hanging from the wall to be controlled with something like that . 	
+ES2016d.D.dialog-act.dharshi.32	Um okay so , 	
+ES2016d.D.dialog-act.dharshi.33	do you think , since we This was a a sign criteria , do you think maybe we should put it somewhere in the middle then ? 	
+ES2016d.D.dialog-act.dharshi.34	Does that sound good ? 	
+ES2016d.B.dialog-act.dharshi.45	Yeah . 	
+ES2016d.A.dialog-act.dharshi.63	Yeah . 	
+ES2016d.C.dialog-act.dharshi.58	Yeah . 	
+ES2016d.B.dialog-act.dharshi.44		
+ES2016d.D.dialog-act.dharshi.35	What do you think ? 	
+ES2016d.D.dialog-act.dharshi.36	Three ? Four ? 	
+ES2016d.A.dialog-act.dharshi.64	I would say 	
+ES2016d.D.dialog-act.dharshi.37	Five ? 	
+ES2016d.A.dialog-act.dharshi.65	four . 	
+ES2016d.D.dialog-act.dharshi.38	Four is fair . 	
+ES2016d.B.dialog-act.dharshi.46	Yeah . 	
+ES2016d.D.dialog-act.dharshi.39	Okay . 	
+ES2016d.A.dialog-act.dharshi.66	Very non-committal , four . 	
+ES2016d.D.dialog-act.dharshi.40	Okay , 	
+ES2016d.D.dialog-act.dharshi.41	the second one . 	
+ES2016d.D.dialog-act.dharshi.42	Did we make it simple for new users ? 	
+ES2016d.B.dialog-act.dharshi.47	It's very intuitive , I think yeah . 	
+ES2016d.C.dialog-act.dharshi.59	Yeah . 	
+ES2016d.C.dialog-act.dharshi.60	I think that was the main aim , one of the main aims that we had . 	
+ES2016d.B.dialog-act.dharshi.48	S give it a one . 	
+ES2016d.D.dialog-act.dharshi.43	One , 	
+ES2016d.A.dialog-act.dharshi.67	Yeah . 	
+ES2016d.D.dialog-act.dharshi.44	'kay . 	
+ES2016d.D.dialog-act.dharshi.45	Okay . 	
+ES2016d.D.dialog-act.dharshi.46	Um , do the controls now match the operating behaviour of the users ? 	
+ES2016d.C.dialog-act.dharshi.61	Uh yeah . 	
+ES2016d.D.dialog-act.dharshi.47	I'd say that 	
+ES2016d.C.dialog-act.dharshi.62	'Cause we've we've brought it down to basically four controls most common , which are channel and volume . 	
+ES2016d.B.dialog-act.dharshi.49	Right . 	
+ES2016d.A.dialog-act.dharshi.68	Mm-hmm . 	
+ES2016d.C.dialog-act.dharshi.63	And then the other ones are just a matter of just going , just scrolling further . 	
+ES2016d.A.dialog-act.dharshi.69	S scrolling through and selecting a few . 	
+ES2016d.B.dialog-act.dharshi.50	Right . 	
+ES2016d.D.dialog-act.dharshi.48	So one ? 	
+ES2016d.B.dialog-act.dharshi.51	So that's a one . 	
+ES2016d.D.dialog-act.dharshi.49	Yeah ? 	
+ES2016d.A.dialog-act.dharshi.70	I think that's a one . 	
+ES2016d.D.dialog-act.dharshi.50	Okay . 	
+ES2016d.D.dialog-act.dharshi.54	Okay 	
+ES2016d.D.dialog-act.dharshi.55	um the fourth one . 	
+ES2016d.D.dialog-act.dharshi.52	How about the problem of a remote being easily lost ? 	
+ES2016d.D.dialog-act.dharshi.53	One of the number one complaints . 	
+ES2016d.B.dialog-act.dharshi.53	Something that big and that yellow you just don't lose anymore . 	
+ES2016d.C.dialog-act.dharshi.64	Yeah . 	
+ES2016d.D.dialog-act.dharshi.56	Whether you want to or not , you're not gonna lose it . 	
+ES2016d.A.dialog-act.dharshi.71		
+ES2016d.C.dialog-act.dharshi.65	It's bright yellow . 	
+ES2016d.B.dialog-act.dharshi.52		
+ES2016d.C.dialog-act.dharshi.66	Bright yellow's hard to lose . 	
+ES2016d.C.dialog-act.dharshi.67	But um if we were to , if we were , that , the speech recognition . That , we could maybe just use that solely for the the finding thing . 	
+ES2016d.C.dialog-act.dharshi.68	That was what we'd we'd mentioned . 	
+ES2016d.A.dialog-act.dharshi.72	So if we incorporate speech recognition into it then it could 	
+ES2016d.C.dialog-act.dharshi.69	Just just to use , to find it when it was lost . 	
+ES2016d.C.dialog-act.dharshi.70	But like I said , like I don't think you'd lose something so yellow so easily . 	
+ES2016d.B.dialog-act.dharshi.54	Oops . 	
+ES2016d.C.dialog-act.dharshi.71	And it's not gonna fall , like a rectangle would slip down behind things . 	
+ES2016d.B.dialog-act.dharshi.55	Hmm . 	
+ES2016d.C.dialog-act.dharshi.72	That's gonna be a difficult shape to 	
+ES2016d.B.dialog-act.dharshi.56	Well what 	
+ES2016d.A.dialog-act.dharshi.74	And it is quite bright 	
+ES2016d.A.dialog-act.dharshi.75	and 	
+ES2016d.D.dialog-act.dharshi.57		
+ES2016d.C.dialog-act.dharshi.73	Yeah . 	
+ES2016d.C.dialog-act.dharshi.74	Maybe in the middle again , three or four or something ? 	
+ES2016d.B.dialog-act.dharshi.57	S 	
+ES2016d.D.dialog-act.dharshi.58	Okay . 	
+ES2016d.A.dialog-act.dharshi.73	Uh 	
+ES2016d.C.dialog-act.dharshi.75	I mean you know loo losing things is one of those things that people can lose , I mean a million ways . 	
+ES2016d.A.dialog-act.dharshi.76	Yeah . 	
+ES2016d.C.dialog-act.dharshi.76	You can pick it up and walk away with it and then you've lost it . 	
+ES2016d.D.dialog-act.dharshi.59	That's true . 	
+ES2016d.B.dialog-act.dharshi.58	Mm . 	
+ES2016d.A.dialog-act.dharshi.77	But if we do go with the , with the speech recognition , then it , then our scale goes up quite a bit I think . 	
+ES2016d.D.dialog-act.dharshi.60	Mm . 	
+ES2016d.B.dialog-act.dharshi.59	Oh yeah . 	
+ES2016d.C.dialog-act.dharshi.77	Yeah . 	
+ES2016d.B.dialog-act.dharshi.60	You probably 	
+ES2016d.A.dialog-act.dharshi.78	Probably two . 	
+ES2016d.A.dialog-act.dharshi.79	You know . 	
+ES2016d.A.dialog-act.dharshi.80	If we eliminate the fact that you know it's impossible to guarantee that it's not gonna be lost then 	
+ES2016d.C.dialog-act.dharshi.78	Yeah . 	
+ES2016d.B.dialog-act.dharshi.62	Mm . 	
+ES2016d.A.dialog-act.dharshi.81	I'd say two . 	
+ES2016d.B.dialog-act.dharshi.61		
+ES2016d.D.dialog-act.dharshi.61		
+ES2016d.A.dialog-act.dharshi.82	With the speech recognition , which of course may be changed depending on budget . 	
+ES2016d.C.dialog-act.dharshi.79	Yeah . 	
+ES2016d.B.dialog-act.dharshi.63	Y you could add an extra feature actually . 	
+ES2016d.B.dialog-act.dharshi.64	Which makes this thing raise hell when you remove it too far from the television . 	
+ES2016d.C.dialog-act.dharshi.80	Yeah . 	
+ES2016d.B.dialog-act.dharshi.66	We could add that but that's nothing we have thought of so far . 	
+ES2016d.A.dialog-act.dharshi.83	Which , which may be cheaper than speech recognition if it were just a 	
+ES2016d.B.dialog-act.dharshi.68	Yes . 	
+ES2016d.C.dialog-act.dharshi.81	Yeah true . 	
+ES2016d.C.dialog-act.dharshi.82	But I mean d just those whistling , clapping key rings you have . They're cheap . 	
+ES2016d.D.dialog-act.dharshi.62	Annoying alarm or something ? 	
+ES2016d.D.dialog-act.dharshi.63	Yeah . 	
+ES2016d.B.dialog-act.dharshi.67	It's it's 	
+ES2016d.A.dialog-act.dharshi.84		
+ES2016d.C.dialog-act.dharshi.83	So it can't be that 	
+ES2016d.B.dialog-act.dharshi.69	Um the 	
+ES2016d.B.dialog-act.dharshi.70	it's based on this anti anti-theft technology for suitcases and stuff , 	
+ES2016d.C.dialog-act.dharshi.84	expensive . 	
+ES2016d.A.dialog-act.dharshi.85	Some sort of proximity 	
+ES2016d.C.dialog-act.dharshi.85	Yeah . 	
+ES2016d.B.dialog-act.dharshi.71	where you have one piece that's attached to your luggage , another piece that starts beeping . 	
+ES2016d.B.dialog-act.dharshi.72	That can't cost much . 	
+ES2016d.C.dialog-act.dharshi.86	Yeah . 	
+ES2016d.B.dialog-act.dharshi.73	So that can also easily be integrated because these things are small enough to to hide , 	
+ES2016d.B.dialog-act.dharshi.74	so you have one piece , you have to glue somewhere behind your stick it behind your T_V_ and the other 	
+ES2016d.C.dialog-act.dharshi.87	stick it on the T_V_ . 	
+ES2016d.A.dialog-act.dharshi.86	Pray that you don't accidentally lose that piece . 	
+ES2016d.D.dialog-act.dharshi.64		
+ES2016d.C.dialog-act.dharshi.88		
+ES2016d.B.dialog-act.dharshi.75	Right . 	
+ES2016d.B.dialog-act.dharshi.76	That'd be tough then . 	
+ES2016d.B.dialog-act.dharshi.77	Well also your remote would uh alarm you if somebody stole you t your television , yeah . 	
+ES2016d.B.dialog-act.dharshi.78	Ran off with it without taking the beautiful remote control . 	
+ES2016d.A.dialog-act.dharshi.87		
+ES2016d.C.dialog-act.dharshi.89	Yeah . 	
+ES2016d.D.dialog-act.dharshi.65	So . 	
+ES2016d.D.dialog-act.dharshi.66	Are we adding one of these two features ? 	
+ES2016d.B.dialog-act.dharshi.79	Let's add one of those features and say yes . 	
+ES2016d.D.dialog-act.dharshi.67	gonna say 	
+ES2016d.D.dialog-act.dharshi.68	okay . 	
+ES2016d.A.dialog-act.dharshi.88	Okay . 	
+ES2016d.D.dialog-act.dharshi.69	So we're back to a one ? 	
+ES2016d.D.dialog-act.dharshi.70	Or a two ? 	
+ES2016d.C.dialog-act.dharshi.90	Two . 	
+ES2016d.B.dialog-act.dharshi.80	Two . 	
+ES2016d.D.dialog-act.dharshi.71	Two , 'kay . 	
+ES2016d.A.dialog-act.dharshi.89	Two . 	
+ES2016d.D.dialog-act.dharshi.72	Okay . 	
+ES2016d.D.dialog-act.dharshi.73	Are we technologically innovative ? 	
+ES2016d.B.dialog-act.dharshi.81	Uh 	
+ES2016d.C.dialog-act.dharshi.91	I'd say so . 	
+ES2016d.B.dialog-act.dharshi.82		
+ES2016d.C.dialog-act.dharshi.92	Uh don't get many mo remote controls with 	
+ES2016d.B.dialog-act.dharshi.83	It's all just 	
+ES2016d.C.dialog-act.dharshi.93	screens on . 	
+ES2016d.B.dialog-act.dharshi.84	It's all just stolen technology when it comes down to 	
+ES2016d.C.dialog-act.dharshi.94	Yeah it's stolen technology . 	
+ES2016d.D.dialog-act.dharshi.74	From iPod yeah . 	
+ES2016d.A.dialog-act.dharshi.90	It's 	
+ES2016d.C.dialog-act.dharshi.95	But we have . 	
+ES2016d.A.dialog-act.dharshi.91	But there's not a lot of yellow , there's not a lotta yellow . 	
+ES2016d.D.dialog-act.dharshi.76	But for remotes 	
+ES2016d.B.dialog-act.dharshi.85	right 	
+ES2016d.D.dialog-act.dharshi.75	yeah . 	
+ES2016d.A.dialog-act.dharshi.92	Course that wasn't really 	
+ES2016d.C.dialog-act.dharshi.96	Fa 	
+ES2016d.B.dialog-act.dharshi.87	right 	
+ES2016d.B.dialog-act.dharshi.88	right right . 	
+ES2016d.A.dialog-act.dharshi.93	we were kinda forced to take that colour . 	
+ES2016d.D.dialog-act.dharshi.77	Two ? Three ? 	
+ES2016d.C.dialog-act.dharshi.98	'cause it's stolen . 	
+ES2016d.A.dialog-act.dharshi.94	I don't know that we are that innovative , to tell you the truth . 	
+ES2016d.C.dialog-act.dharshi.99	No maybe not . 	
+ES2016d.B.dialog-act.dharshi.90	Yeah not really . 	
+ES2016d.D.dialog-act.dharshi.78	But how many remotes do you see like this ? 	
+ES2016d.C.dialog-act.dharshi.97		
+ES2016d.B.dialog-act.dharshi.89		
+ES2016d.D.dialog-act.dharshi.79	Not so many . 	
+ES2016d.A.dialog-act.dharshi.95	If we added the screaming factor then we go up . 	
+ES2016d.B.dialog-act.dharshi.92		
+ES2016d.D.dialog-act.dharshi.80		
+ES2016d.C.dialog-act.dharshi.100		
+ES2016d.B.dialog-act.dharshi.91	Right . 	
+ES2016d.A.dialog-act.dharshi.96	Um I would say we're probably at four . 	
+ES2016d.D.dialog-act.dharshi.83	Really ? 	
+ES2016d.D.dialog-act.dharshi.84	Okay . 	
+ES2016d.D.dialog-act.dharshi.85	That's gonna hurt us . 	
+ES2016d.C.dialog-act.dharshi.101		
+ES2016d.D.dialog-act.dharshi.81	Okay . 	
+ES2016d.D.dialog-act.dharshi.82	Um spongy material ? 	
+ES2016d.B.dialog-act.dharshi.93	Yeah well you have that , kind of , sort of . 	
+ES2016d.A.dialog-act.dharshi.97	We have some spongy , yeah . 	
+ES2016d.C.dialog-act.dharshi.102	Yeah as much as as needed , I think . 	
+ES2016d.D.dialog-act.dharshi.86	'Kay . 	
+ES2016d.B.dialog-act.dharshi.94	It's not a one though . 	
+ES2016d.A.dialog-act.dharshi.98	No . 	
+ES2016d.B.dialog-act.dharshi.95	One would be the whole thing 	
+ES2016d.A.dialog-act.dharshi.99	Yeah . 	
+ES2016d.A.dialog-act.dharshi.100	Because it's only got what , these parts are the grips and perhaps the back side the bottom the underneath on the back . 	
+ES2016d.B.dialog-act.dharshi.96	to fold and stuff . 	
+ES2016d.B.dialog-act.dharshi.97	Yeah . 	
+ES2016d.C.dialog-act.dharshi.103	Yeah . 	
+ES2016d.B.dialog-act.dharshi.98	So that's a four at most . 	
+ES2016d.A.dialog-act.dharshi.101	Probably a four at most . 	
+ES2016d.D.dialog-act.dharshi.88	And lastly , 	
+ES2016d.A.dialog-act.dharshi.102	Possibly even a five . 	
+ES2016d.D.dialog-act.dharshi.89	did we put the fashion in electronics ? 	
+ES2016d.A.dialog-act.dharshi.103		
+ES2016d.B.dialog-act.dharshi.99	Y yes . 	
+ES2016d.D.dialog-act.dharshi.90	I'd say we did . 	
+ES2016d.C.dialog-act.dharshi.104	Yeah . 	
+ES2016d.A.dialog-act.dharshi.104	If your fashion is b is Carmen Miranda , you betcha . 	
+ES2016d.B.dialog-act.dharshi.100	More 	
+ES2016d.B.dialog-act.dharshi.101		
+ES2016d.D.dialog-act.dharshi.91		
+ES2016d.C.dialog-act.dharshi.105	Yeah . 	
+ES2016d.B.dialog-act.dharshi.102	Well the recent fashion is rather displayed in the in the L_C_D_ and the way you operate it than the form and the colour , 	
+ES2016d.C.dialog-act.dharshi.106	On the 	
+ES2016d.A.dialog-act.dharshi.105	It's true . 	
+ES2016d.C.dialog-act.dharshi.107	Yeah . 	
+ES2016d.B.dialog-act.dharshi.103	but it definitely is 	
+ES2016d.C.dialog-act.dharshi.108	Be what we were told , and they'd say yeah , definitely . 	
+ES2016d.B.dialog-act.dharshi.104	. 	
+ES2016d.D.dialog-act.dharshi.92	'Kay . 	
+ES2016d.D.dialog-act.dharshi.93	Alright . 	
+ES2016d.D.dialog-act.dharshi.94	Now we just gotta calculate . 	
+ES2016d.D.dialog-act.dharshi.95	Six eight twelve sixteen . 	
+ES2016d.D.dialog-act.dharshi.96	Seventeen divided by s 	
+ES2016d.C.dialog-act.dharshi.109	. 	
+ES2016d.A.dialog-act.dharshi.108	Seven is 	
+ES2016d.D.dialog-act.dharshi.99	Eight . 	
+ES2016d.A.dialog-act.dharshi.106	Two point 	
+ES2016d.D.dialog-act.dharshi.97		
+ES2016d.A.dialog-act.dharshi.107	two point four ? 	
+ES2016d.C.dialog-act.dharshi.111	Is that some long division ? 	
+ES2016d.C.dialog-act.dharshi.113	No . 	
+ES2016d.D.dialog-act.dharshi.98	Well I haven't done math in years . 	
+ES2016d.A.dialog-act.dharshi.109	Something . 	
+ES2016d.D.dialog-act.dharshi.100	What two 	
+ES2016d.B.dialog-act.dharshi.105		
+ES2016d.C.dialog-act.dharshi.110		
+ES2016d.D.dialog-act.dharshi.101	I dunno . 	
+ES2016d.C.dialog-act.dharshi.112	Just , I'm sure there's a . 	
+ES2016d.D.dialog-act.dharshi.102	Okay we'll say two point four two . 	
+ES2016d.D.dialog-act.dharshi.103	Right ? 	
+ES2016d.D.dialog-act.dharshi.104	How does that look ? 	
+ES2016d.B.dialog-act.dharshi.106	I'm impressed . 	
+ES2016d.B.dialog-act.dharshi.107	I can't do that without a calculator . 	
+ES2016d.D.dialog-act.dharshi.105	It's been a while . 	
+ES2016d.C.dialog-act.dharshi.114	No I can't do long 	
+ES2016d.C.dialog-act.dharshi.115	very impressive . 	
+ES2016d.A.dialog-act.dharshi.110	And what what is the acceptable criteria ? 	
+ES2016d.A.dialog-act.dharshi.111	Is there like a scale that we have to hit ? 	
+ES2016d.D.dialog-act.dharshi.106	Oh no . 	
+ES2016d.D.dialog-act.dharshi.107	They just told me to 	
+ES2016d.B.dialog-act.dharshi.108		
+ES2016d.D.dialog-act.dharshi.108	pick my own criteria and have you guys evaluate it basically . 	
+ES2016d.A.dialog-act.dharshi.112		
+ES2016d.A.dialog-act.dharshi.113	Alright then . 	
+ES2016d.D.dialog-act.dharshi.109	So that's that . 	
+ES2016d.A.dialog-act.dharshi.114	Okay . 	
+ES2016d.A.dialog-act.dharshi.115	Well , let's see . 	
+ES2016d.D.dialog-act.dharshi.110		
+ES2016d.A.dialog-act.dharshi.116	Now we get to do the budget numbers . 	
+ES2016d.A.dialog-act.dharshi.117	You didn't know that you were gonna have a budget . 	
+ES2016d.A.dialog-act.dharshi.118	But we do . 	
+ES2016d.A.dialog-act.dharshi.119	Okay . 	
+ES2016d.C.dialog-act.dharshi.116	Yeah . Yeah so . 	
+ES2016d.C.dialog-act.dharshi.117	You'd been going a long time dividing that . 	
+ES2016d.C.dialog-act.dharshi.118	It's two point four two eight five se it just keeps going on . 	
+ES2016d.D.dialog-act.dharshi.111	Oh my god . 	
+ES2016d.D.dialog-act.dharshi.112	Okay . 	
+ES2016d.C.dialog-act.dharshi.119	Two point four two basically . 	
+ES2016d.D.dialog-act.dharshi.113	Yeah we'll go with that . 	
+ES2016d.B.dialog-act.dharshi.109	Fifty percent , you're kidding . 	
+ES2016d.D.dialog-act.dharshi.114	Not too shabby . 	
+ES2016d.A.dialog-act.dharshi.120	So I have here an 	
+ES2016d.A.dialog-act.dharshi.121	Yeah . 	
+ES2016d.B.dialog-act.dharshi.110	P 	
+ES2016d.A.dialog-act.dharshi.122	We want a fifty percent profit on this . 	
+ES2016d.A.dialog-act.dharshi.123	Oh you can't really see that very well . 	
+ES2016d.C.dialog-act.dharshi.120	Charge about three hundred quid for it . 	
+ES2016d.A.dialog-act.dharshi.124	Twelve and a half Euros is what supposed to cost us . 	
+ES2016d.A.dialog-act.dharshi.125	Okay , so 	
+ES2016d.B.dialog-act.dharshi.112	It's too much . 	
+ES2016d.A.dialog-act.dharshi.126	Well let's see . 	
+ES2016d.B.dialog-act.dharshi.111	Um 	
+ES2016d.A.dialog-act.dharshi.127	The f the 	
+ES2016d.A.dialog-act.dharshi.129	Wonder if I can make this 	
+ES2016d.B.dialog-act.dharshi.113	Uh 	
+ES2016d.A.dialog-act.dharshi.130	What the 	
+ES2016d.A.dialog-act.dharshi.128		
+ES2016d.A.dialog-act.dharshi.131	Oh it won't let me do that . 	
+ES2016d.A.dialog-act.dharshi.132	Okay . 	
+ES2016d.A.dialog-act.dharshi.133	Alright so at top , I don't know if you guys can read that or not . 	
+ES2016d.B.dialog-act.dharshi.114		
+ES2016d.A.dialog-act.dharshi.134	I can't 'cause I don't have my glasses on , 	
+ES2016d.A.dialog-act.dharshi.135	but so we've got the energy source . 	
+ES2016d.A.dialog-act.dharshi.136	There's uh four , five , six categories . 	
+ES2016d.B.dialog-act.dharshi.115	Battery . 	
+ES2016d.A.dialog-act.dharshi.137	We have energy source , electronics , case . 	
+ES2016d.A.dialog-act.dharshi.138	Then we have case material supplements , interface type , and then button supplements . 	
+ES2016d.A.dialog-act.dharshi.139	Okay so 	
+ES2016d.A.dialog-act.dharshi.140	Uh first of all energy source , we picked battery . 	
+ES2016d.A.dialog-act.dharshi.141	Um and how many batteries do we think this will probably take ? 	
+ES2016d.C.dialog-act.dharshi.121		
+ES2016d.A.dialog-act.dharshi.142	Probably 	
+ES2016d.A.dialog-act.dharshi.143	some e either two or four . 	
+ES2016d.B.dialog-act.dharshi.116	Two . 	
+ES2016d.A.dialog-act.dharshi.144	Two ? 	
+ES2016d.A.dialog-act.dharshi.145	Like it . 	
+ES2016d.B.dialog-act.dharshi.119	At four it's gonna be too heavy , 	
+ES2016d.B.dialog-act.dharshi.120	so that that's not our problem . 	
+ES2016d.B.dialog-act.dharshi.118	People can change it every month . 	
+ES2016d.A.dialog-act.dharshi.146	Excellent . 	
+ES2016d.D.dialog-act.dharshi.115		
+ES2016d.C.dialog-act.dharshi.122		
+ES2016d.B.dialog-act.dharshi.121	They won't know until after they bought it . 	
+ES2016d.B.dialog-act.dharshi.122		
+ES2016d.A.dialog-act.dharshi.147	This is consumerism . 	
+ES2016d.A.dialog-act.dharshi.148	Alright so 	
+ES2016d.A.dialog-act.dharshi.149	for the electronics our choices are simpl simple chip-on-print , regular chip-on-print , advanced chip-on-print , sample sensor , sample speaker . 	
+ES2016d.B.dialog-act.dharshi.123	. 	
+ES2016d.C.dialog-act.dharshi.123	We're advanced chip are we ? 	
+ES2016d.B.dialog-act.dharshi.124	That's the advanced chip-on-print , yeah . 	
+ES2016d.A.dialog-act.dharshi.150	'Kay , 	
+ES2016d.A.dialog-act.dharshi.151	we have one of those . 	
+ES2016d.A.dialog-act.dharshi.152	'Kay then the case is a Probably it's double curved . 	
+ES2016d.B.dialog-act.dharshi.125	Double curved , yes . 	
+ES2016d.A.dialog-act.dharshi.153	Case materials are 	
+ES2016d.B.dialog-act.dharshi.126	Plastic . 	
+ES2016d.A.dialog-act.dharshi.154	plastic . 	
+ES2016d.A.dialog-act.dharshi.155	Um I guess it's two , since one for the top , one for the bottom . 	
+ES2016d.B.dialog-act.dharshi.127	N no . 	
+ES2016d.A.dialog-act.dharshi.156	Is that right or is it just one ? 	
+ES2016d.B.dialog-act.dharshi.128	No that's just one . 	
+ES2016d.A.dialog-act.dharshi.157	Maybe it's one because of the 	
+ES2016d.B.dialog-act.dharshi.129	It's just one mo single mould , we can do that . 	
+ES2016d.A.dialog-act.dharshi.159	'Kay . 	
+ES2016d.C.dialog-act.dharshi.124	Yeah yeah . 	
+ES2016d.D.dialog-act.dharshi.117	Right . 	
+ES2016d.A.dialog-act.dharshi.160	I guess it doesn't matter 'cause the price on that one is zero , 	
+ES2016d.A.dialog-act.dharshi.161	which is nice . 	
+ES2016d.B.dialog-act.dharshi.130	Exactly , right . 	
+ES2016d.D.dialog-act.dharshi.118	Oh . 	
+ES2016d.A.dialog-act.dharshi.162	Special colour ? 	
+ES2016d.B.dialog-act.dharshi.131	That's not a special colour . 	
+ES2016d.D.dialog-act.dharshi.119	Bright yellow . 	
+ES2016d.B.dialog-act.dharshi.132	It's a specially ugly colour , but it's not special . 	
+ES2016d.D.dialog-act.dharshi.116		
+ES2016d.C.dialog-act.dharshi.125		
+ES2016d.A.dialog-act.dharshi.163	Interface type . We have pushbutton , scroll-wheel interface , integrated scroll-wheel pushbutton , and an L_C_D_ display . 	
+ES2016d.C.dialog-act.dharshi.126	S 	
+ES2016d.B.dialog-act.dharshi.133	S 	
+ES2016d.C.dialog-act.dharshi.127	That's 	
+ES2016d.C.dialog-act.dharshi.128	Yeah . 	
+ES2016d.A.dialog-act.dharshi.164	So we actually have the L_C_D_ display 	
+ES2016d.D.dialog-act.dharshi.120		
+ES2016d.C.dialog-act.dharshi.129	And then 	
+ES2016d.A.dialog-act.dharshi.165	and then is it the integrated or is it 	
+ES2016d.C.dialog-act.dharshi.130	I'd say the integrated . 	
+ES2016d.B.dialog-act.dharshi.134	Yes unfortunately . 	
+ES2016d.A.dialog-act.dharshi.166	Yeah . 	
+ES2016d.A.dialog-act.dharshi.167	'Kay . 	
+ES2016d.A.dialog-act.dharshi.168	Button supplement ? Special colour ? 	
+ES2016d.C.dialog-act.dharshi.131	Mm . 	
+ES2016d.A.dialog-act.dharshi.169	Um special form ? Special material . 	
+ES2016d.B.dialog-act.dharshi.136	We could of course make the buttons wood . 	
+ES2016d.C.dialog-act.dharshi.132		
+ES2016d.A.dialog-act.dharshi.170		
+ES2016d.D.dialog-act.dharshi.122		
+ES2016d.B.dialog-act.dharshi.137	Say mahogany or so 	
+ES2016d.D.dialog-act.dharshi.123	It'd look really lovely . 	
+ES2016d.A.dialog-act.dharshi.171	Or titanium . 	
+ES2016d.B.dialog-act.dharshi.138	Mm-hmm or titanium . 	
+ES2016d.D.dialog-act.dharshi.124	Yeah . 	
+ES2016d.A.dialog-act.dharshi.172	They cost us all the same . 	
+ES2016d.C.dialog-act.dharshi.133	remote control . 	
+ES2016d.B.dialog-act.dharshi.139	Uh just 	
+ES2016d.A.dialog-act.dharshi.173	Well we only have one button so really we shouldn't be charged , 	
+ES2016d.D.dialog-act.dharshi.121		
+ES2016d.B.dialog-act.dharshi.135		
+ES2016d.A.dialog-act.dharshi.174	we shouldn't be charged anything for the the button supplements . 	
+ES2016d.C.dialog-act.dharshi.135	No 	
+ES2016d.C.dialog-act.dharshi.136	that's getting a bit 	
+ES2016d.C.dialog-act.dharshi.137	tiny . 	
+ES2016d.A.dialog-act.dharshi.180	Um 	
+ES2016d.D.dialog-act.dharshi.125		
+ES2016d.C.dialog-act.dharshi.138	Yeah . 	
+ES2016d.C.dialog-act.dharshi.139	I'd ignore that . 	
+ES2016d.D.dialog-act.dharshi.126	Leave it blank . 	
+ES2016d.A.dialog-act.dharshi.175	Okay . 	
+ES2016d.A.dialog-act.dharshi.176	We're gonna leave that one blank because we run on a L_C_D_ and scroll . 	
+ES2016d.A.dialog-act.dharshi.177	So our total is fifteen point five . 	
+ES2016d.A.dialog-act.dharshi.178	Which I believe is 	
+ES2016d.B.dialog-act.dharshi.140	Yeah that's too much . 	
+ES2016d.A.dialog-act.dharshi.179	by three Euros over . 	
+ES2016d.B.dialog-act.dharshi.141	It's hard to believe . 	
+ES2016d.B.dialog-act.dharshi.142	So we'll go for the hand dynamo huh ? 	
+ES2016d.A.dialog-act.dharshi.181		
+ES2016d.D.dialog-act.dharshi.127		
+ES2016d.C.dialog-act.dharshi.140		
+ES2016d.A.dialog-act.dharshi.182	So the only thing better than um a banana-shaped remote is one that you shake . 	
+ES2016d.C.dialog-act.dharshi.141	If it w 	
+ES2016d.D.dialog-act.dharshi.128		
+ES2016d.C.dialog-act.dharshi.142	What if we completely took out the the one single button we've got on . 	
+ES2016d.B.dialog-act.dharshi.143		
+ES2016d.C.dialog-act.dharshi.143	And just had a scroll wheel interface . 	
+ES2016d.C.dialog-act.dharshi.144	And the L_C_D_ display . 	
+ES2016d.C.dialog-act.dharshi.145	I suppose the L_C_D_ C_ display's the one that's pushing it up a bit though . 	
+ES2016d.A.dialog-act.dharshi.183	Yeah 	
+ES2016d.D.dialog-act.dharshi.129		
+ES2016d.A.dialog-act.dharshi.184	'cause the 	
+ES2016d.A.dialog-act.dharshi.185	Well 'cause we have to have both right ? 	
+ES2016d.C.dialog-act.dharshi.146	Yeah . 	
+ES2016d.B.dialog-act.dharshi.145	I mean let's let's face it , 	
+ES2016d.B.dialog-act.dharshi.146	it also depends on the software on the on the television . 	
+ES2016d.C.dialog-act.dharshi.147	Yeah . 	
+ES2016d.B.dialog-act.dharshi.147	You can have the the information that this thing transmits be being displayed on the on the screen . 	
+ES2016d.A.dialog-act.dharshi.186	Mm-hmm . 	
+ES2016d.B.dialog-act.dharshi.148	So s yeah let's take away the 	
+ES2016d.C.dialog-act.dharshi.148	Yeah 	
+ES2016d.C.dialog-act.dharshi.149	you could maybe take out the L_C_D_ dis display even , 	
+ES2016d.B.dialog-act.dharshi.149	Yeah . Yeah . 	
+ES2016d.C.dialog-act.dharshi.150	if it if it comes up on the computer itsel on the T_V_ itself . 	
+ES2016d.B.dialog-act.dharshi.150	Right . 	
+ES2016d.A.dialog-act.dharshi.187	So we may not need the L_C_D_ display ? 	
+ES2016d.C.dialog-act.dharshi.151	Uh that is possible yeah . 	
+ES2016d.B.dialog-act.dharshi.151	Right . We may not need it . 	
+ES2016d.B.dialog-act.dharshi.152	There you go . 	
+ES2016d.A.dialog-act.dharshi.188	Well there we go . 	
+ES2016d.B.dialog-act.dharshi.153	Perfect . 	
+ES2016d.C.dialog-act.dharshi.152	There we go . 	
+ES2016d.D.dialog-act.dharshi.130	Perfect . 	
+ES2016d.A.dialog-act.dharshi.189	Twelve point five . 	
+ES2016d.A.dialog-act.dharshi.190	Okay . 	
+ES2016d.A.dialog-act.dharshi.191	So we just remove our 	
+ES2016d.D.dialog-act.dharshi.131		
+ES2016d.B.dialog-act.dharshi.154		
+ES2016d.C.dialog-act.dharshi.153	Screen . 	
+ES2016d.D.dialog-act.dharshi.132		
+ES2016d.A.dialog-act.dharshi.192	screen here . 	
+ES2016d.C.dialog-act.dharshi.154	Make it a bigger dial . 	
+ES2016d.B.dialog-act.dharshi.155		
+ES2016d.C.dialog-act.dharshi.155	Easier to use . 	
+ES2016d.C.dialog-act.dharshi.156	Even easier to use then . 	
+ES2016d.A.dialog-act.dharshi.193		
+ES2016d.D.dialog-act.dharshi.133		
+ES2016d.C.dialog-act.dharshi.157		
+ES2016d.B.dialog-act.dharshi.156	Okay , the 	
+ES2016d.A.dialog-act.dharshi.194	Besides look at what the L_C_D_ does to our lovely remote . 	
+ES2016d.C.dialog-act.dharshi.158		
+ES2016d.D.dialog-act.dharshi.134		
+ES2016d.A.dialog-act.dharshi.195	Back to the design room boys . 	
+ES2016d.D.dialog-act.dharshi.135		
+ES2016d.B.dialog-act.dharshi.157	So we can just take away a heck of a lot of the 	
+ES2016d.D.dialog-act.dharshi.136	. 	
+ES2016d.C.dialog-act.dharshi.159		
+ES2016d.B.dialog-act.dharshi.158	there you go . 	
+ES2016d.B.dialog-act.dharshi.160	central ? 	
+ES2016d.D.dialog-act.dharshi.139	What's the blue part ? 	
+ES2016d.C.dialog-act.dharshi.160	That was just 	
+ES2016d.D.dialog-act.dharshi.140	Oh that's the batteries . 	
+ES2016d.B.dialog-act.dharshi.161	Oh that's just 	
+ES2016d.C.dialog-act.dharshi.161	we ran out of yellow . 	
+ES2016d.B.dialog-act.dharshi.162	yeah . 	
+ES2016d.D.dialog-act.dharshi.141	Okay . 	
+ES2016d.B.dialog-act.dharshi.163	There you go 	
+ES2016d.C.dialog-act.dharshi.162	There you go . 	
+ES2016d.B.dialog-act.dharshi.159	. Oops . 	
+ES2016d.C.dialog-act.dharshi.163	Even simpler . 	
+ES2016d.D.dialog-act.dharshi.137		
+ES2016d.D.dialog-act.dharshi.138	Looks more like a banana . 	
+ES2016d.C.dialog-act.dharshi.164	Yeah . 	
+ES2016d.C.dialog-act.dharshi.165	For all those fruit lovers out there . 	
+ES2016d.B.dialog-act.dharshi.164	There you go . 	
+ES2016d.B.dialog-act.dharshi.165	One more criteria . 	
+ES2016d.D.dialog-act.dharshi.142		
+ES2016d.A.dialog-act.dharshi.196		
+ES2016d.A.dialog-act.dharshi.197	Okay so 	
+ES2016d.A.dialog-act.dharshi.198	the costs under twelve point five Euro . 	
+ES2016d.A.dialog-act.dharshi.199	Was no . We redesigned it . Now it's yes . 	
+ES2016d.C.dialog-act.dharshi.166	Yeah . 	
+ES2016d.D.dialog-act.dharshi.143		
+ES2016d.A.dialog-act.dharshi.200	Next slide . 	
+ES2016d.A.dialog-act.dharshi.201	Project evaluation . 	
+ES2016d.A.dialog-act.dharshi.202	Uh project process , satisfaction with , for example , room for creativity , leadership , teamwork , means , new ideas found . 	
+ES2016d.A.dialog-act.dharshi.203	Um 	
+ES2016d.A.dialog-act.dharshi.204	So 	
+ES2016d.A.dialog-act.dharshi.205	I guess that 	
+ES2016d.A.dialog-act.dharshi.206	Let's see here . 	
+ES2016d.A.dialog-act.dharshi.207	I think that perhaps the project evaluation's just supposed to be completed by me . 	
+ES2016d.A.dialog-act.dharshi.208	But I'd like to hear your thoughts . 	
+ES2016d.D.dialog-act.dharshi.144		
+ES2016d.B.dialog-act.dharshi.166	Fair enough . 	
+ES2016d.A.dialog-act.dharshi.209		
+ES2016d.C.dialog-act.dharshi.167		
+ES2016d.D.dialog-act.dharshi.145	Trying to fill in some time there . 	
+ES2016d.A.dialog-act.dharshi.210	Uh h what did you think of our project process ? 	
+ES2016d.C.dialog-act.dharshi.168	I think we did 	
+ES2016d.B.dialog-act.dharshi.167	Great . 	
+ES2016d.A.dialog-act.dharshi.211		
+ES2016d.C.dialog-act.dharshi.169	yeah I think we did quite well . Um 	
+ES2016d.B.dialog-act.dharshi.168	Yeah . 	
+ES2016d.A.dialog-act.dharshi.212	Good . 	
+ES2016d.D.dialog-act.dharshi.146	Good teamwork . 	
+ES2016d.B.dialog-act.dharshi.169	Just half a day , you have a remote . 	
+ES2016d.C.dialog-act.dharshi.170	Yeah . 	
+ES2016d.B.dialog-act.dharshi.170	There you go . 	
+ES2016d.C.dialog-act.dharshi.171	Right from the start of the day . 	
+ES2016d.A.dialog-act.dharshi.213	Yeah I think 	
+ES2016d.C.dialog-act.dharshi.172	We sort of knew where we were going straight away I thought . 	
+ES2016d.A.dialog-act.dharshi.214	we st we started off a little little weak . 	
+ES2016d.A.dialog-act.dharshi.215	Our leadership was quite weak in the beginning . 	
+ES2016d.D.dialog-act.dharshi.147		
+ES2016d.A.dialog-act.dharshi.216	Um um 	
+ES2016d.D.dialog-act.dharshi.148		
+ES2016d.A.dialog-act.dharshi.217	But as the day went along we had more idea of what we were doing . 	
+ES2016d.A.dialog-act.dharshi.220	Um room for creativity ? 	
+ES2016d.A.dialog-act.dharshi.221	There was that . 	
+ES2016d.A.dialog-act.dharshi.219	Um I think we tried a lotta different things 	
+ES2016d.A.dialog-act.dharshi.222	and um I think it was um interesting as you guys brought up more um information and studies that we were right on with a lot of those things . 	
+ES2016d.A.dialog-act.dharshi.223	Um you guys worked together well as a team . 	
+ES2016d.A.dialog-act.dharshi.227	And um the means ? 	
+ES2016d.A.dialog-act.dharshi.228	Which was the whiteboard and the pens . 	
+ES2016d.C.dialog-act.dharshi.178	Yeah . 	
+ES2016d.C.dialog-act.dharshi.179	We've used the whiteboard . 	
+ES2016d.B.dialog-act.dharshi.172	Super super . 	
+ES2016d.A.dialog-act.dharshi.229	I had some problem with the pen I think , 	
+ES2016d.D.dialog-act.dharshi.150	Minus your PowerPoint fiasco . 	
+ES2016d.A.dialog-act.dharshi.230	but minus your p 	
+ES2016d.B.dialog-act.dharshi.173	Well that's not my fault . 	
+ES2016d.B.dialog-act.dharshi.174	That's obviously the people I work for uh that work for me , 	
+ES2016d.D.dialog-act.dharshi.151	No I know . 	
+ES2016d.D.dialog-act.dharshi.152	I'm 	
+ES2016d.D.dialog-act.dharshi.153	yeah . 	
+ES2016d.A.dialog-act.dharshi.231	Well 	
+ES2016d.D.dialog-act.dharshi.154	Incom 	
+ES2016d.B.dialog-act.dharshi.175	uh they've just you know 	
+ES2016d.C.dialog-act.dharshi.175		
+ES2016d.A.dialog-act.dharshi.224		
+ES2016d.B.dialog-act.dharshi.171	Heads are gonna roll , believe me . 	
+ES2016d.A.dialog-act.dharshi.225	Have a 	
+ES2016d.D.dialog-act.dharshi.149		
+ES2016d.A.dialog-act.dharshi.226	we have a list of employees that you would like fired . 	
+ES2016d.C.dialog-act.dharshi.173		
+ES2016d.C.dialog-act.dharshi.174		
+ES2016d.B.dialog-act.dharshi.178	Yes yes . 	
+ES2016d.A.dialog-act.dharshi.232	Okay . 	
+ES2016d.A.dialog-act.dharshi.233	N new ideas found ? 	
+ES2016d.A.dialog-act.dharshi.234	Um 	
+ES2016d.B.dialog-act.dharshi.176		
+ES2016d.D.dialog-act.dharshi.156	Mm . Kinda . 	
+ES2016d.A.dialog-act.dharshi.235	Yes for the remote . 	
+ES2016d.A.dialog-act.dharshi.236	Maybe no not f for 	
+ES2016d.C.dialog-act.dharshi.180	Technology used . 	
+ES2016d.A.dialog-act.dharshi.237	technology . 	
+ES2016d.A.dialog-act.dharshi.238	Alright . 	
+ES2016d.A.dialog-act.dharshi.239	Closing . 	
+ES2016d.A.dialog-act.dharshi.240	Costs are within the budget . 	
+ES2016d.A.dialog-act.dharshi.241	Project is evaluated . 	
+ES2016d.A.dialog-act.dharshi.242	Um complete the final questionnaire and meeting summary . 	
+ES2016d.A.dialog-act.dharshi.243	That's it . 	
+ES2016d.C.dialog-act.dharshi.181	Excellent . 	
+ES2016d.A.dialog-act.dharshi.244	And I still have to do my minutes for the last meeting . 	
+ES2016d.D.dialog-act.dharshi.155		
+ES2016d.A.dialog-act.dharshi.245	Actually . 	
+ES2016d.A.dialog-act.dharshi.246	Um so there will probably be another questionnaire coming up . 	
+ES2016d.D.dialog-act.dharshi.157	We might have a while though . 	
+ES2016d.A.dialog-act.dharshi.247	And then we'll have to check with the main boss whether we can , what goes on after that . 	
+ES2016d.B.dialog-act.dharshi.177	. 	
+ES2016d.A.dialog-act.dharshi.248	But that's the end of our meeting . 	
+

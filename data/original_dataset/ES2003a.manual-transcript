@@ -1,0 +1,312 @@
+Observation: ES2003a; Result size: 309; atts: 2
+$d@nite:id	$d	
+ES2003a.B.dialog-act.vkaraisk.1	Okay , well 	
+ES2003a.B.dialog-act.vkaraisk.2	I think we're ready to begin . 	
+ES2003a.B.dialog-act.vkaraisk.3	Right , 	
+ES2003a.B.dialog-act.vkaraisk.4	my name's Adam Duguid , 	
+ES2003a.B.dialog-act.vkaraisk.5	we're here because of real reaction , 	
+ES2003a.B.dialog-act.vkaraisk.6	um , we have in the group 	
+ES2003a.C.dialog-act.vkaraisk.1	Oh , 	
+ES2003a.C.dialog-act.vkaraisk.2	Ebenezer Ademesoye . 	
+ES2003a.C.dialog-act.vkaraisk.3	Would you like me to spell that ? 	
+ES2003a.C.dialog-act.vkaraisk.4	S 	
+ES2003a.B.dialog-act.vkaraisk.7	Um , yeah , 	
+ES2003a.B.dialog-act.vkaraisk.8	go for it mate . 	
+ES2003a.C.dialog-act.vkaraisk.5	Um , N_E_Z_ 	
+ES2003a.B.dialog-act.vkaraisk.9	N_ E_ Z_ . 	
+ES2003a.C.dialog-act.vkaraisk.6	E_R_ . 	
+ES2003a.B.dialog-act.vkaraisk.10	Ebenezer . 	
+ES2003a.B.dialog-act.vkaraisk.11	And your role is ? 	
+ES2003a.C.dialog-act.vkaraisk.7	I'm the Marketing Expert . 	
+ES2003a.B.dialog-act.vkaraisk.12	You're the Marketing Expert , okay . 	
+ES2003a.B.dialog-act.vkaraisk.13	Next we have ? 	
+ES2003a.D.dialog-act.vkaraisk.1	Tarik Rahman . T_A_R_I_K_ . 	
+ES2003a.B.dialog-act.vkaraisk.14	T_ R_ I_ K_ . 	
+ES2003a.B.dialog-act.vkaraisk.15	And your role in this is ? 	
+ES2003a.D.dialog-act.vkaraisk.2	Industrial Designer . 	
+ES2003a.B.dialog-act.vkaraisk.16	Industrial Designer . 	
+ES2003a.B.dialog-act.vkaraisk.17	And , lastly we have ? 	
+ES2003a.A.dialog-act.vkaraisk.1	Uh , Dave Cochrane . 	
+ES2003a.B.dialog-act.vkaraisk.18	And you're going to be the User Interface , 	
+ES2003a.A.dialog-act.vkaraisk.2	User Interface Defin Designer , yes . 	
+ES2003a.B.dialog-act.vkaraisk.19	is it ? 	
+ES2003a.B.dialog-act.vkaraisk.20	Designer . Okay . 	
+ES2003a.B.dialog-act.vkaraisk.21	Right . 	
+ES2003a.B.dialog-act.vkaraisk.22	This is the agenda for today's meeting . As you can see , w opening , acquaintance , tool training , project plan discussion , and closing . 	
+ES2003a.B.dialog-act.vkaraisk.23	Um , we already got n through opening , and partially through acquaintance . 	
+ES2003a.B.dialog-act.vkaraisk.24	So , 	
+ES2003a.B.dialog-act.vkaraisk.25	the reason we're here , we're gonna design a new remote control , 	
+ES2003a.B.dialog-act.vkaraisk.26	as you probably all know . 	
+ES2003a.B.dialog-act.vkaraisk.27	The very broad overview is original , trendy , and user-friendly . 	
+ES2003a.B.dialog-act.vkaraisk.28	Course , we'll have to go into a bit more um detail than that , 	
+ES2003a.B.dialog-act.vkaraisk.29	but uh personally I think that the original is gonna be a very key aspect to this design . 	
+ES2003a.B.dialog-act.vkaraisk.30	Um , there's a lot of remote controls out there anyway , 	
+ES2003a.B.dialog-act.vkaraisk.31	so we're gonna need something that's really gonna set it apart . 	
+ES2003a.B.dialog-act.vkaraisk.32	This is how today seems to be going to work . 	
+ES2003a.B.dialog-act.vkaraisk.33	We're gonna have the three kay phases , 	
+ES2003a.B.dialog-act.vkaraisk.34	as you've probably already been told , 	
+ES2003a.B.dialog-act.vkaraisk.35	the functional , architectural , and the detailed design . Um 	
+ES2003a.B.dialog-act.vkaraisk.36	First one's gonna be covering the user requirement spec , technical functions , working design . 	
+ES2003a.B.dialog-act.vkaraisk.37	Second seems to be conceptual components , properties , materials , 	
+ES2003a.B.dialog-act.vkaraisk.38	and the last one is a detailed analysis of our design so far . 	
+ES2003a.B.dialog-act.vkaraisk.39	Of course , you've all got the similar emails , I believe , 	
+ES2003a.B.dialog-act.vkaraisk.40	right . 	
+ES2003a.B.dialog-act.vkaraisk.41	What can I say ? 	
+ES2003a.D.dialog-act.vkaraisk.3		
+ES2003a.B.dialog-act.vkaraisk.42	Ebenezer , you wanna have a you wanna draw your favourite animal ? 	
+ES2003a.C.dialog-act.vkaraisk.8	Sure . 	
+ES2003a.C.dialog-act.vkaraisk.9	Whiteboard . 	
+ES2003a.C.dialog-act.vkaraisk.10	'Kay . 	
+ES2003a.C.dialog-act.vkaraisk.11	S 	
+ES2003a.C.dialog-act.vkaraisk.12	okay . 	
+ES2003a.C.dialog-act.vkaraisk.13	I will make this quick , 	
+ES2003a.C.dialog-act.vkaraisk.14	since we don't have much time . 	
+ES2003a.C.dialog-act.vkaraisk.15	Um . 'Kay , so 	
+ES2003a.C.dialog-act.vkaraisk.16	it's not the best picture in the world . 	
+ES2003a.B.dialog-act.vkaraisk.43		
+ES2003a.C.dialog-act.vkaraisk.17	Here we have an elephant . 	
+ES2003a.C.dialog-act.vkaraisk.18	First point , begins with an E_ , same like Ebenezer . 	
+ES2003a.C.dialog-act.vkaraisk.19	Also , elephants have a very good memory , much like myself , 	
+ES2003a.D.dialog-act.vkaraisk.4		
+ES2003a.C.dialog-act.vkaraisk.20	and I can't remember 	
+ES2003a.C.dialog-act.vkaraisk.22	back when I used to live back in Nigeria , 	
+ES2003a.C.dialog-act.vkaraisk.21	but I think I used to have a pet elephant . 	
+ES2003a.C.dialog-act.vkaraisk.23	So 	
+ES2003a.C.dialog-act.vkaraisk.24	elephants are big , strong and gentle , 	
+ES2003a.C.dialog-act.vkaraisk.25	and they have great memories , 	
+ES2003a.C.dialog-act.vkaraisk.26	and they begin with the letter E_ , just like Ebenezer . 	
+ES2003a.B.dialog-act.vkaraisk.44	Brilliantly done . 	
+ES2003a.C.dialog-act.vkaraisk.27	Thank you . 	
+ES2003a.B.dialog-act.vkaraisk.45	Thank you . 	
+ES2003a.B.dialog-act.vkaraisk.46	Tarik , would you like to have a shot at a bit of artistry ? 	
+ES2003a.D.dialog-act.vkaraisk.5	. 	
+ES2003a.C.dialog-act.vkaraisk.28	Oh . Oh oh 	
+ES2003a.B.dialog-act.vkaraisk.47	Oh , um , 	
+ES2003a.B.dialog-act.vkaraisk.48	you can clip them to your belt . 	
+ES2003a.D.dialog-act.vkaraisk.6	Do we take them off ? 	
+ES2003a.C.dialog-act.vkaraisk.29	I think you ga 	
+ES2003a.D.dialog-act.vkaraisk.7	Oh right , 	
+ES2003a.D.dialog-act.vkaraisk.8	okay . 	
+ES2003a.B.dialog-act.vkaraisk.49	You should also l um have your the lapel mic on as well . 	
+ES2003a.C.dialog-act.vkaraisk.30	The little 	
+ES2003a.D.dialog-act.vkaraisk.9	Ah-ha . 	
+ES2003a.C.dialog-act.vkaraisk.31	The the 	
+ES2003a.C.dialog-act.vkaraisk.32	Oh that's good , 	
+ES2003a.C.dialog-act.vkaraisk.33	we can clip them on . 	
+ES2003a.C.dialog-act.vkaraisk.34	Okay . 	
+ES2003a.C.dialog-act.vkaraisk.35	Yeah , 	
+ES2003a.D.dialog-act.vkaraisk.10	Now 	
+ES2003a.D.dialog-act.vkaraisk.11	where do I put the 	
+ES2003a.C.dialog-act.vkaraisk.36	Just um somewhere 	
+ES2003a.B.dialog-act.vkaraisk.50	Yep , 	
+ES2003a.B.dialog-act.vkaraisk.51	the , it's just across there , 	
+ES2003a.B.dialog-act.vkaraisk.52	that's it . 	
+ES2003a.B.dialog-act.vkaraisk.53	Yep . 	
+ES2003a.D.dialog-act.vkaraisk.12	Is this supposed to be clipped as well ? 	
+ES2003a.C.dialog-act.vkaraisk.37	I think so . 	
+ES2003a.B.dialog-act.vkaraisk.54	Yeah . 	
+ES2003a.B.dialog-act.vkaraisk.55	It'll follow you 	
+ES2003a.B.dialog-act.vkaraisk.56	if you 	
+ES2003a.C.dialog-act.vkaraisk.38	Yeah . There you go . 	
+ES2003a.B.dialog-act.vkaraisk.57	You can probably just stick it in your pocket for now , 	
+ES2003a.B.dialog-act.vkaraisk.58	I wouldn't worry too much . 	
+ES2003a.B.dialog-act.vkaraisk.59	Should have good range . 	
+ES2003a.D.dialog-act.vkaraisk.13	Uh , destroying your elephant here . 	
+ES2003a.C.dialog-act.vkaraisk.39		
+ES2003a.B.dialog-act.vkaraisk.60		
+ES2003a.D.dialog-act.vkaraisk.14		
+ES2003a.D.dialog-act.vkaraisk.15	Uh , here we have a tiger . Uh 	
+ES2003a.D.dialog-act.vkaraisk.16	I've always loved tigers . 	
+ES2003a.D.dialog-act.vkaraisk.17	They're just 	
+ES2003a.D.dialog-act.vkaraisk.18	they're big , they're biggest cats , 	
+ES2003a.D.dialog-act.vkaraisk.19	uh I did a project on cats in the wild 	
+ES2003a.D.dialog-act.vkaraisk.20	when I was a kid 	
+ES2003a.D.dialog-act.vkaraisk.21	and uh it was my favourite cat , 	
+ES2003a.D.dialog-act.vkaraisk.22	just 'cause it was looks the best , the stripes , orange . 	
+ES2003a.D.dialog-act.vkaraisk.23	My dad used to talk about 	
+ES2003a.D.dialog-act.vkaraisk.24	he's from Bangladesh 	
+ES2003a.D.dialog-act.vkaraisk.25	so he used to tell me all about them 	
+ES2003a.D.dialog-act.vkaraisk.26	when he was 	
+ES2003a.D.dialog-act.vkaraisk.27	when I was a kid . 	
+ES2003a.D.dialog-act.vkaraisk.28	And uh they're just the most feared of of uh animals in the wild . 	
+ES2003a.D.dialog-act.vkaraisk.29	So uh 	
+ES2003a.D.dialog-act.vkaraisk.30	that's why I like them . 	
+ES2003a.D.dialog-act.vkaraisk.31	Didn't say an anything about me really 	
+ES2003a.D.dialog-act.vkaraisk.32	but 	
+ES2003a.B.dialog-act.vkaraisk.61	Excellent , 	
+ES2003a.B.dialog-act.vkaraisk.62	thank you very much . 	
+ES2003a.B.dialog-act.vkaraisk.63	Dave , if you'd like to uh have a dash . 	
+ES2003a.A.dialog-act.vkaraisk.3	Um Um , the monkey , um . 	
+ES2003a.A.dialog-act.vkaraisk.4	The one f uh 	
+ES2003a.A.dialog-act.vkaraisk.5	in fact this is a somewhat oblique reference 	
+ES2003a.A.dialog-act.vkaraisk.6	in fact to 	
+ES2003a.A.dialog-act.vkaraisk.7	uh well 	
+ES2003a.A.dialog-act.vkaraisk.8	my 	
+ES2003a.A.dialog-act.vkaraisk.9	I have a three uh three y year old daughter 	
+ES2003a.A.dialog-act.vkaraisk.10	who h who who who is affectionately known as Miss Monkey . 	
+ES2003a.A.dialog-act.vkaraisk.11	Um , monkeys have attitude . 	
+ES2003a.A.dialog-act.vkaraisk.12	Which I think is a good thing . 	
+ES2003a.A.dialog-act.vkaraisk.13	And I mean fr and from uh from the point of view of sort of the study of human evolution they and other primates are terribly interesting . 	
+ES2003a.A.dialog-act.vkaraisk.14	Um , so I like monkeys . 	
+ES2003a.A.dialog-act.vkaraisk.15	And and th th th th thi thi this one seems to have perhaps more attitude than most . 	
+ES2003a.D.dialog-act.vkaraisk.33		
+ES2003a.B.dialog-act.vkaraisk.64	Cheers . 	
+ES2003a.B.dialog-act.vkaraisk.65	Hardly what I'd call the best drawing in the world 	
+ES2003a.B.dialog-act.vkaraisk.66	but it'll do for now . 	
+ES2003a.B.dialog-act.vkaraisk.67	Also not quite as feared as your average tiger , 	
+ES2003a.B.dialog-act.vkaraisk.68	but uh cats are one of my favourite animals , 	
+ES2003a.B.dialog-act.vkaraisk.69	they're very independent , 	
+ES2003a.B.dialog-act.vkaraisk.70	they're snotty as hell at the best of times , 	
+ES2003a.B.dialog-act.vkaraisk.72	and uh , what can you say , you got to love those qualities in an animal . 	
+ES2003a.B.dialog-act.vkaraisk.73	Right . 	
+ES2003a.B.dialog-act.vkaraisk.74	I think we've all managed to master the whiteboard there by looks of it , 	
+ES2003a.B.dialog-act.vkaraisk.75	so , 	
+ES2003a.B.dialog-act.vkaraisk.76	on to it . 	
+ES2003a.B.dialog-act.vkaraisk.77	Project finance . As you can see , twelve point five Euros per unit . 	
+ES2003a.B.dialog-act.vkaraisk.78	That's not a terrible lot as far as I'm aware , 	
+ES2003a.B.dialog-act.vkaraisk.81	and we're hoping to sell them for twenty five . 	
+ES2003a.B.dialog-act.vkaraisk.82	If we're aiming for fifty million Euros we're gonna have to be selling an awful lot of them . 	
+ES2003a.C.dialog-act.vkaraisk.40	Oh , 	
+ES2003a.C.dialog-act.vkaraisk.41	that was profiting , 	
+ES2003a.C.dialog-act.vkaraisk.42	that was an amount , so that's the amount made , 	
+ES2003a.B.dialog-act.vkaraisk.83	Yep . 	
+ES2003a.C.dialog-act.vkaraisk.43	okay . 	
+ES2003a.B.dialog-act.vkaraisk.84	Well , 	
+ES2003a.B.dialog-act.vkaraisk.85	fifty million , 	
+ES2003a.B.dialog-act.vkaraisk.86	and if you're making twelve point five Euros on each one , then , awful lot need to be sold . 	
+ES2003a.C.dialog-act.vkaraisk.44	Yeah . 	
+ES2003a.B.dialog-act.vkaraisk.87	Okay . 	
+ES2003a.B.dialog-act.vkaraisk.88	Now we better actually just get on with the uh the meat of the project . 	
+ES2003a.B.dialog-act.vkaraisk.89	So 	
+ES2003a.B.dialog-act.vkaraisk.90	I'm gonna guess that we've all used remote controls . 	
+ES2003a.B.dialog-act.vkaraisk.91	Any ideas of where you think a new remote control could go into this market ? 	
+ES2003a.A.dialog-act.vkaraisk.16	Well , 	
+ES2003a.A.dialog-act.vkaraisk.17	one thing I'm aware of is , th there uh um at the sort of v very high price end of the market there's there's a em emerging market for sort of touch screen L_C_D_ remotes 	
+ES2003a.A.dialog-act.vkaraisk.18	that can be uh programmed in m much more sophisticated ways than sort of conventional models , 	
+ES2003a.A.dialog-act.vkaraisk.19	so you get the sort of you get um you 	
+ES2003a.A.dialog-act.vkaraisk.20	you can redesign the interface to your own needs , 	
+ES2003a.A.dialog-act.vkaraisk.21	you can programme in macros , 	
+ES2003a.A.dialog-act.vkaraisk.22	and you get a much greater degree 	
+ES2003a.A.dialog-act.vkaraisk.23	um um I mean you get in these sort of three in one , five in one , whatevers , 	
+ES2003a.A.dialog-act.vkaraisk.24	but you can get integration between the different uh the the the diff the different things that it's designed to control , to a much greater extent , 	
+ES2003a.A.dialog-act.vkaraisk.25	and you can have one uh you know one macro to turn the uh you know turn the T_V_ to the right channel , get the uh re uh rewind the tape in the V_C_R_ and get it to play once it's rewound , for instance . 	
+ES2003a.B.dialog-act.vkaraisk.92	Okay . 	
+ES2003a.A.dialog-act.vkaraisk.26	Um b it occurs to me there might be a niche for uh for a remote that aimed towards some of that sort of functionality but using a just conventional push button design . 	
+ES2003a.A.dialog-act.vkaraisk.27	And therefore putting it into a um well much lower price bracket . 	
+ES2003a.B.dialog-act.vkaraisk.93	Okay , 	
+ES2003a.B.dialog-act.vkaraisk.94	yeah , tha that's true , 	
+ES2003a.B.dialog-act.vkaraisk.95	with the price range we're looking at , going for a touch screen would probably be possibly out of our 	
+ES2003a.A.dialog-act.vkaraisk.28	Absolutely prohibitive , 	
+ES2003a.B.dialog-act.vkaraisk.96	yeah . 	
+ES2003a.A.dialog-act.vkaraisk.29	yeah . 	
+ES2003a.C.dialog-act.vkaraisk.45	Oh . 	
+ES2003a.B.dialog-act.vkaraisk.97	But you think uh again something to control multiple units in uh a simple fashion . 	
+ES2003a.A.dialog-act.vkaraisk.30	Yeah , 	
+ES2003a.A.dialog-act.vkaraisk.31	I mean I wouldn't like to say you g 	
+ES2003a.A.dialog-act.vkaraisk.32	I mean you get ones that you can switch between multiple units , 	
+ES2003a.A.dialog-act.vkaraisk.33	but something that could um operate between multiple units in a more integrated fashion . 	
+ES2003a.A.dialog-act.vkaraisk.34	Some 	
+ES2003a.A.dialog-act.vkaraisk.35	and ideally something into which it would have some at least limited facility for um running macros . 	
+ES2003a.B.dialog-act.vkaraisk.98	Would the the idea something along the lines of , one on button would turn on say the video recorder , the T_V_ , maybe the sound system as well , all in one go , is that kind of 	
+ES2003a.A.dialog-act.vkaraisk.36	For instance , 	
+ES2003a.A.dialog-act.vkaraisk.37	um let's say oh oh um , or um you know 	
+ES2003a.A.dialog-act.vkaraisk.38	you pr uh you press uh say the play button for the D_V_D_ player and it turns the T_V_ on and onto the right channel as well , um 	
+ES2003a.B.dialog-act.vkaraisk.100	Okay , that sounds like a a good strong idea . Um 	
+ES2003a.C.dialog-act.vkaraisk.46	'Kay 	
+ES2003a.B.dialog-act.vkaraisk.101	Any takes on this ? 	
+ES2003a.C.dialog-act.vkaraisk.47	Well 	
+ES2003a.C.dialog-act.vkaraisk.48	um I've noticed that uh gaming c is becoming quite popular with television , 	
+ES2003a.C.dialog-act.vkaraisk.49	um when I was younger 	
+ES2003a.C.dialog-act.vkaraisk.50	we used to e play games using our cable , using the cable subscribed the cable providers , 	
+ES2003a.A.dialog-act.vkaraisk.39	Mm-hmm . 	
+ES2003a.C.dialog-act.vkaraisk.51	but our remote controls would get worn out really easily , 	
+ES2003a.C.dialog-act.vkaraisk.52	and the remote control was not a great kind of keyboar , um keypad , for playing games . 	
+ES2003a.C.dialog-act.vkaraisk.53	So perhaps one that was more um 	
+ES2003a.B.dialog-act.vkaraisk.102	Okay . 	
+ES2003a.C.dialog-act.vkaraisk.54	specialised for game playing or interactive television . 	
+ES2003a.C.dialog-act.vkaraisk.55	They they've recently brought out this new remote control , 	
+ES2003a.C.dialog-act.vkaraisk.56	for people to set their favourite channels , or um to record things . 	
+ES2003a.C.dialog-act.vkaraisk.57	Instead of people entering in what time things start , you simply stri slide a bar to say what time it begins , 	
+ES2003a.C.dialog-act.vkaraisk.58	and slide another bar to say what time it ends , 	
+ES2003a.B.dialog-act.vkaraisk.103	Okay . 	
+ES2003a.C.dialog-act.vkaraisk.59	you know that's 	
+ES2003a.B.dialog-act.vkaraisk.104	Yeah 	
+ES2003a.B.dialog-act.vkaraisk.105	I've heard 	
+ES2003a.B.dialog-act.vkaraisk.106	I've seen the bar-code design before , 	
+ES2003a.D.dialog-act.vkaraisk.34	Mm . 	
+ES2003a.B.dialog-act.vkaraisk.107	yeah . 	
+ES2003a.A.dialog-act.vkaraisk.40	Mm-hmm . 	
+ES2003a.C.dialog-act.vkaraisk.60	Yeah , 	
+ES2003a.C.dialog-act.vkaraisk.61	it's it's taken out the 	
+ES2003a.C.dialog-act.vkaraisk.62	Y you don't have to be uh really clever to use a remote control . 	
+ES2003a.C.dialog-act.vkaraisk.63	I think for gaming , you know you want you want some big buttons for up , down , left and right , shoot . 	
+ES2003a.C.dialog-act.vkaraisk.64		
+ES2003a.B.dialog-act.vkaraisk.108		
+ES2003a.C.dialog-act.vkaraisk.65	Uh , you wanna be able to change angles in interactive television , 	
+ES2003a.C.dialog-act.vkaraisk.66	so you need buttons to change the television angle , the camera angles and stuff like that . 	
+ES2003a.B.dialog-act.vkaraisk.109	Okay , well 	
+ES2003a.D.dialog-act.vkaraisk.35	'Kay . 	
+ES2003a.B.dialog-act.vkaraisk.110	we're beginning to run out of time now , 	
+ES2003a.B.dialog-act.vkaraisk.111	so , 	
+ES2003a.C.dialog-act.vkaraisk.67	Yeah . 	
+ES2003a.B.dialog-act.vkaraisk.112	we've got a couple of ideas , 	
+ES2003a.B.dialog-act.vkaraisk.113	we can 	
+ES2003a.B.dialog-act.vkaraisk.114	we'll have to work fast , 	
+ES2003a.B.dialog-act.vkaraisk.115	um , alright 	
+ES2003a.B.dialog-act.vkaraisk.116	as you can see we've got thirty minutes until the next meeting , 	
+ES2003a.B.dialog-act.vkaraisk.117	so we'll have to try and decide on some of the basic functionality , 	
+ES2003a.B.dialog-act.vkaraisk.118	um , how the user interface might work , 	
+ES2003a.B.dialog-act.vkaraisk.119	that'll be a key aspect especially if the idea of um some kind of macros facility 	
+ES2003a.B.dialog-act.vkaraisk.120	because you have to program it , 	
+ES2003a.B.dialog-act.vkaraisk.121	you have to have a lot of response back , or at least some kind . Um 	
+ES2003a.A.dialog-act.vkaraisk.41	Mm-hmm . 	
+ES2003a.B.dialog-act.vkaraisk.122	And we're gonna maybe n try and have to figure out 	
+ES2003a.C.dialog-act.vkaraisk.68	What the user wants uh . 	
+ES2003a.B.dialog-act.vkaraisk.123	what the user wants , yes . 	
+ES2003a.C.dialog-act.vkaraisk.69	Okay . 	
+ES2003a.B.dialog-act.vkaraisk.124	Um , right . 	
+ES2003a.B.dialog-act.vkaraisk.125	Has anybody got anything they'd like to add at this stage , anything they think that might have been missed so far ? 	
+ES2003a.D.dialog-act.vkaraisk.36	Well 	
+ES2003a.D.dialog-act.vkaraisk.37	when you're talking about gaming and stuff , 	
+ES2003a.D.dialog-act.vkaraisk.38	do you think they should have some sort of stick on it , rather than buttons ? 	
+ES2003a.C.dialog-act.vkaraisk.70	Oh . Okay , . 	
+ES2003a.D.dialog-act.vkaraisk.39	Like uh control pads , you know of games , 	
+ES2003a.D.dialog-act.vkaraisk.40	but 	
+ES2003a.C.dialog-act.vkaraisk.71	Mm-hmm . 	
+ES2003a.D.dialog-act.vkaraisk.41	or is that a bit ridiculous ? 	
+ES2003a.B.dialog-act.vkaraisk.126	I I don't see why not , 	
+ES2003a.B.dialog-act.vkaraisk.127	almost everybody is probably used to a console by now , 	
+ES2003a.B.dialog-act.vkaraisk.128	and all of them incorporate small keypads on them , 	
+ES2003a.B.dialog-act.vkaraisk.129	in fact even the mobile phones these days are beginning to use them as well , 	
+ES2003a.B.dialog-act.vkaraisk.130	so it's probably an interface that most people are used to . Um 	
+ES2003a.D.dialog-act.vkaraisk.42	Yeah . 	
+ES2003a.B.dialog-act.vkaraisk.131	and that could allow n easy navigation , used as a joystick as well . 	
+ES2003a.A.dialog-act.vkaraisk.42	Mm-hmm . The other key feature that uh that would be a good idea built into it is t is is to make something you know fairly sort of ergonomic , 	
+ES2003a.A.dialog-act.vkaraisk.43	something that just fits fits as comfortably as possible into the hand . 	
+ES2003a.A.dialog-act.vkaraisk.44	But of course , uh al al also allows for the possibility of a more sort of slightly unconventional or attractive uh sha shape for it overall , . 	
+ES2003a.B.dialog-act.vkaraisk.132	Okay . 	
+ES2003a.B.dialog-act.vkaraisk.133	So , 	
+ES2003a.B.dialog-act.vkaraisk.134	small , stylish , and something that's just a little different . 	
+ES2003a.A.dialog-act.vkaraisk.45	A curve , 	
+ES2003a.A.dialog-act.vkaraisk.46	mm-hmm . 	
+ES2003a.A.dialog-act.vkaraisk.47	Something sort of sort of sl slightly sort of biomorphic in form , 	
+ES2003a.A.dialog-act.vkaraisk.48	uh which it would need to be to sort of conform to the shape of the hand more efficiently anyway . 	
+ES2003a.B.dialog-act.vkaraisk.135	Okay . 	
+ES2003a.B.dialog-act.vkaraisk.136	That's definitely something that we should be able to do quite easily . 	
+ES2003a.B.dialog-act.vkaraisk.137	I would I would have hoped so anyway . 	
+ES2003a.B.dialog-act.vkaraisk.138	Um , right . 	
+ES2003a.B.dialog-act.vkaraisk.139	I'd say we finish this one up , 	
+ES2003a.B.dialog-act.vkaraisk.140	we get started , 	
+ES2003a.B.dialog-act.vkaraisk.141	I'll get in , 	
+ES2003a.B.dialog-act.vkaraisk.142	I'll write up what we've um kind of quickly done , 	
+ES2003a.B.dialog-act.vkaraisk.143	and I'll get that out to everybody . 	
+ES2003a.C.dialog-act.vkaraisk.72	'Kay . 	
+ES2003a.B.dialog-act.vkaraisk.144	Yeah ? 	
+ES2003a.C.dialog-act.vkaraisk.73	So . 	
+ES2003a.B.dialog-act.vkaraisk.145	Okay . 	
+ES2003a.B.dialog-act.vkaraisk.146		
+ES2003a.D.dialog-act.vkaraisk.43	. 	
+ES2003a.C.dialog-act.vkaraisk.74	. 	
+ES2003a.B.dialog-act.vkaraisk.147	Um , as far as I'm aware we leave the microphones here , um unless we get told otherwise , 	
+ES2003a.B.dialog-act.vkaraisk.148	and just take the laptops with us . 	
+

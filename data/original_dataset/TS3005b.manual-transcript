@@ -1,0 +1,1404 @@
+Observation: TS3005b; Result size: 1401; atts: 2
+$d@nite:id	$d	
+TS3005b.A.dialog-act.vkaraisk.1	Good morning , again . 	
+TS3005b.C.dialog-act.vkaraisk.1	One question . 	
+TS3005b.B.dialog-act.vkaraisk.1	Yeah . 	
+TS3005b.C.dialog-act.vkaraisk.2	Send . 	
+TS3005b.B.dialog-act.vkaraisk.2	Choose a number ? 	
+TS3005b.C.dialog-act.vkaraisk.3	Submit . 	
+TS3005b.D.dialog-act.vkaraisk.1	Yep yep yep yep . 	
+TS3005b.A.dialog-act.vkaraisk.2	All set ? 	
+TS3005b.C.dialog-act.vkaraisk.4	Mm . Yeah . 	
+TS3005b.D.dialog-act.vkaraisk.2	Mm-hmm . 	
+TS3005b.A.dialog-act.vkaraisk.3	Good . 	
+TS3005b.A.dialog-act.vkaraisk.4	Okay . 	
+TS3005b.A.dialog-act.vkaraisk.5	Let's see what we can find here . 	
+TS3005b.A.dialog-act.vkaraisk.6	Okay . 	
+TS3005b.A.dialog-act.vkaraisk.7	A very warm welcome again to everyone . 	
+TS3005b.B.dialog-act.vkaraisk.4		
+TS3005b.A.dialog-act.vkaraisk.8	Um here we are already at our uh functional design meeting . 	
+TS3005b.A.dialog-act.vkaraisk.9	Um and this is what we are going to do . 	
+TS3005b.A.dialog-act.vkaraisk.10	The opening , which we are doing now , um and the special note , 	
+TS3005b.A.dialog-act.vkaraisk.11	I'm project manager but on the meetings I'm also the secretary , 	
+TS3005b.A.dialog-act.vkaraisk.12	which means I will make uh minutes 	
+TS3005b.A.dialog-act.vkaraisk.13	as I did of the previous meeting . 	
+TS3005b.C.dialog-act.vkaraisk.5		
+TS3005b.A.dialog-act.vkaraisk.14	And uh I also put these as fast as possible in the uh project folder , 	
+TS3005b.A.dialog-act.vkaraisk.15	so you can see them 	
+TS3005b.A.dialog-act.vkaraisk.16	and review what we have discussed . 	
+TS3005b.A.dialog-act.vkaraisk.17	Um if I'm right , there are three presentations , 	
+TS3005b.A.dialog-act.vkaraisk.18	I guess each one of you has prepared one ? 	
+TS3005b.B.dialog-act.vkaraisk.3	Yes . 	
+TS3005b.A.dialog-act.vkaraisk.19	Good . 	
+TS3005b.A.dialog-act.vkaraisk.20	And um we will also take a look at new project requirements , um if you haven't heard about them yet . 	
+TS3005b.A.dialog-act.vkaraisk.21	And then of course we have to take a decision on the remote control functions 	
+TS3005b.A.dialog-act.vkaraisk.22	and we have some more time , forty minutes . 	
+TS3005b.A.dialog-act.vkaraisk.23	But I think we will need it . 	
+TS3005b.A.dialog-act.vkaraisk.24	Um well I don't know who wants to go first with his presentation . 	
+TS3005b.C.dialog-act.vkaraisk.6	I'll go first . Okay . I'll go first yeah . 	
+TS3005b.D.dialog-act.vkaraisk.3	Yeah . 	
+TS3005b.B.dialog-act.vkaraisk.5	Well . 	
+TS3005b.A.dialog-act.vkaraisk.25	You can go first , okay . 	
+TS3005b.D.dialog-act.vkaraisk.4	Well , 	
+TS3005b.D.dialog-act.vkaraisk.5	shall I go first with the users ? 	
+TS3005b.B.dialog-act.vkaraisk.6	Well 	
+TS3005b.D.dialog-act.vkaraisk.6	I think 	
+TS3005b.D.dialog-act.vkaraisk.7	well 	
+TS3005b.D.dialog-act.vkaraisk.8	okay no problem . 	
+TS3005b.A.dialog-act.vkaraisk.26	Is there an order ? 	
+TS3005b.B.dialog-act.vkaraisk.7	everybody already has his presentation , 	
+TS3005b.A.dialog-act.vkaraisk.27	I haven't 	
+TS3005b.D.dialog-act.vkaraisk.9	Ja precies , ja precies , ja precies 	
+TS3005b.B.dialog-act.vkaraisk.8	so you can adjust it . 	
+TS3005b.C.dialog-act.vkaraisk.7	So . 	
+TS3005b.C.dialog-act.vkaraisk.8	Huh ? 	
+TS3005b.C.dialog-act.vkaraisk.9	Okay , um 	
+TS3005b.A.dialog-act.vkaraisk.28	And one question , 	
+TS3005b.A.dialog-act.vkaraisk.29	uh your name Denni , is it with a 	
+TS3005b.D.dialog-act.vkaraisk.10	E_I_E_ . 	
+TS3005b.A.dialog-act.vkaraisk.30	I_E_ E_I_E_ , okay . 	
+TS3005b.B.dialog-act.vkaraisk.9		
+TS3005b.A.dialog-act.vkaraisk.31	Thank you . 	
+TS3005b.C.dialog-act.vkaraisk.10	Okay , um 	
+TS3005b.C.dialog-act.vkaraisk.11	I wanted to explain the working design of the remote control . 	
+TS3005b.C.dialog-act.vkaraisk.12	It's possibly very handy if you want to uh design one of those . Um 	
+TS3005b.C.dialog-act.vkaraisk.13	well so 	
+TS3005b.C.dialog-act.vkaraisk.14	it basically works uh as I uh uh r wrote down uh in this uh little uh summary . 	
+TS3005b.C.dialog-act.vkaraisk.15	Uh when you press a button , uh that's when you do pr for example when you uh want to turn up the volume , um a little connection is made 	
+TS3005b.C.dialog-act.vkaraisk.16	uh the the rubber uh button just presses on a 	
+TS3005b.D.dialog-act.vkaraisk.11		
+TS3005b.A.dialog-act.vkaraisk.32	Sorry . 	
+TS3005b.C.dialog-act.vkaraisk.17	on a little print plate 	
+TS3005b.B.dialog-act.vkaraisk.10		
+TS3005b.C.dialog-act.vkaraisk.18	uh which uh makes uh uh a connection 	
+TS3005b.C.dialog-act.vkaraisk.19	that uh 	
+TS3005b.C.dialog-act.vkaraisk.20	gives the chips , 	
+TS3005b.C.dialog-act.vkaraisk.21	uh which is uh mounted beneath those uh that plastic of a rubber button . 	
+TS3005b.C.dialog-act.vkaraisk.22	Uh senses that a connection has been made , 	
+TS3005b.C.dialog-act.vkaraisk.23	and know 	
+TS3005b.C.dialog-act.vkaraisk.24	and knows what button you pressed , becau uh for example the the volume up or volume down button . 	
+TS3005b.C.dialog-act.vkaraisk.25	Um uh the the chip uh makes a Morse code uh like uh signal 	
+TS3005b.C.dialog-act.vkaraisk.26	which uh then is si uh signalled to uh several transistors 	
+TS3005b.C.dialog-act.vkaraisk.27	which makes 	
+TS3005b.C.dialog-act.vkaraisk.28	uh which sends the signal to a little let . 	
+TS3005b.C.dialog-act.vkaraisk.29	You know what a let is ? 	
+TS3005b.B.dialog-act.vkaraisk.11	Yeah . 	
+TS3005b.C.dialog-act.vkaraisk.30	Okay . 	
+TS3005b.C.dialog-act.vkaraisk.31	And that makes uh the the infra-red lights signal 	
+TS3005b.C.dialog-act.vkaraisk.32	which is sent to the television set . 	
+TS3005b.C.dialog-act.vkaraisk.33	Uh which has a sensor in it to uh sense uh the signal of the infra-red . 	
+TS3005b.C.dialog-act.vkaraisk.34	That's basically uh how it works . 	
+TS3005b.C.dialog-act.vkaraisk.35	Um the findings uh uh that I found uh searching up some uh detailed information about the remote controls , are that uh they are very easy to produce , 	
+TS3005b.C.dialog-act.vkaraisk.36	uh it is pis 	
+TS3005b.C.dialog-act.vkaraisk.37	uh it's possible to uh make them in mass production 	
+TS3005b.C.dialog-act.vkaraisk.38	because it is as eas it is as easy as uh printing a page , 	
+TS3005b.C.dialog-act.vkaraisk.39	uh just uh fibreglass plate um is b uh is uh covered with uh some uh coatings and uh uh and chips . 	
+TS3005b.B.dialog-act.vkaraisk.12		
+TS3005b.C.dialog-act.vkaraisk.40	Uh and the technology's already available , 	
+TS3005b.C.dialog-act.vkaraisk.41	we don't have to find out how remote controls uh have to work 	
+TS3005b.C.dialog-act.vkaraisk.42	or uh how that how uh to make some chips that are possible to uh to to transmit those uh signals . 	
+TS3005b.C.dialog-act.vkaraisk.43	Uh I made a little uh uh animation of about how a tran our uh remote controller works . 	
+TS3005b.B.dialog-act.vkaraisk.13		
+TS3005b.D.dialog-act.vkaraisk.12		
+TS3005b.B.dialog-act.vkaraisk.14	Oh right . 	
+TS3005b.D.dialog-act.vkaraisk.13	Animation . 	
+TS3005b.B.dialog-act.vkaraisk.15		
+TS3005b.C.dialog-act.vkaraisk.44	we tel 	
+TS3005b.B.dialog-act.vkaraisk.16	There is something turning . 	
+TS3005b.C.dialog-act.vkaraisk.45	There . 	
+TS3005b.A.dialog-act.vkaraisk.33	Yeah , 	
+TS3005b.A.dialog-act.vkaraisk.34	it's a little bug 	
+TS3005b.A.dialog-act.vkaraisk.35	it's in the in the smart board . 	
+TS3005b.C.dialog-act.vkaraisk.46	Okay . Uh well 	
+TS3005b.B.dialog-act.vkaraisk.17		
+TS3005b.C.dialog-act.vkaraisk.47	the sub-component , I suppose that you understand what a sub-component is , is f in this example it's the button . 	
+TS3005b.C.dialog-act.vkaraisk.48	Uh when it is pressed down , um , the switch is ter is uh is switched on , 	
+TS3005b.C.dialog-act.vkaraisk.49	so with uh the wire is sent to the to the chip in uh co-operation with the battery of course , 	
+TS3005b.C.dialog-act.vkaraisk.50	because to make uh a a signal possible you have to have some sort of uh 	
+TS3005b.C.dialog-act.vkaraisk.51	li uh a d ad uh electronic uh 	
+TS3005b.B.dialog-act.vkaraisk.18		
+TS3005b.D.dialog-act.vkaraisk.14	Infrared light . 	
+TS3005b.C.dialog-act.vkaraisk.52	Yes , 	
+TS3005b.C.dialog-act.vkaraisk.53	uh , okay . Um 	
+TS3005b.C.dialog-act.vkaraisk.54	w 	
+TS3005b.C.dialog-act.vkaraisk.55	after it's being composed by the chip uh the signal uh is transported uh to the infra-red bulb , 	
+TS3005b.C.dialog-act.vkaraisk.56	and from there it signals a Morse code-like signal to the to the b to the bulb in uh in the television set . 	
+TS3005b.C.dialog-act.vkaraisk.57	Okay . 	
+TS3005b.C.dialog-act.vkaraisk.58	S 	
+TS3005b.C.dialog-act.vkaraisk.59	Uh I wrote down some personal preferences about uh the remote control . 	
+TS3005b.C.dialog-act.vkaraisk.60	Of course it is very handy if the remote control is hand held , 	
+TS3005b.C.dialog-act.vkaraisk.61	so you don't have to uh uh wind it up or something , 	
+TS3005b.C.dialog-act.vkaraisk.62	or just is it's it's very light to uh to make uh to use it . 	
+TS3005b.C.dialog-act.vkaraisk.63	Uh I personally uh pref prefer that uh it would be p uh come available in the various colours , and uh easy to use buttons . 	
+TS3005b.C.dialog-act.vkaraisk.64	But I suppose that the one of the other team members uh uh thought of that uh too . 	
+TS3005b.B.dialog-act.vkaraisk.19	Yeah , 	
+TS3005b.B.dialog-act.vkaraisk.20	I've got it there too . 	
+TS3005b.B.dialog-act.vkaraisk.21		
+TS3005b.C.dialog-act.vkaraisk.65	And it is possible for several designs and um easy to use b uh sorry , easy to use buttons . 	
+TS3005b.C.dialog-act.vkaraisk.66	Perhaps soft touch , uh touch screen uh buttons 	
+TS3005b.C.dialog-act.vkaraisk.67	because uh the rubber buttons are always uh uh they uh slightly uh they can be slightly damaged , 	
+TS3005b.D.dialog-act.vkaraisk.15		
+TS3005b.C.dialog-act.vkaraisk.68	uh so the numbers on the buttons are not possible uh to read anymore . 	
+TS3005b.C.dialog-act.vkaraisk.69	And uh well as I said uh before th uh we can uh make several designs . 	
+TS3005b.B.dialog-act.vkaraisk.22	Yeah . 	
+TS3005b.C.dialog-act.vkaraisk.70	Okay , well , 	
+TS3005b.C.dialog-act.vkaraisk.71	that's my contribution to this meeting , 	
+TS3005b.C.dialog-act.vkaraisk.72	and uh 	
+TS3005b.D.dialog-act.vkaraisk.16	To this meeting . 	
+TS3005b.A.dialog-act.vkaraisk.36	Okay , 	
+TS3005b.B.dialog-act.vkaraisk.23		
+TS3005b.C.dialog-act.vkaraisk.73	two of these this meeting . So . 	
+TS3005b.A.dialog-act.vkaraisk.37	thank you . 	
+TS3005b.B.dialog-act.vkaraisk.24	Shall I go uh next ? 	
+TS3005b.A.dialog-act.vkaraisk.38	Yep . 	
+TS3005b.B.dialog-act.vkaraisk.25	'Kay . 	
+TS3005b.A.dialog-act.vkaraisk.39	Please . 	
+TS3005b.B.dialog-act.vkaraisk.26	So . 	
+TS3005b.D.dialog-act.vkaraisk.17		
+TS3005b.D.dialog-act.vkaraisk.18	Smoking . 	
+TS3005b.B.dialog-act.vkaraisk.27	Well uh , 	
+TS3005b.B.dialog-act.vkaraisk.28	my name's , 	
+TS3005b.B.dialog-act.vkaraisk.30	and I looked at uh technical functions design of the remote . 	
+TS3005b.B.dialog-act.vkaraisk.31	Uh I did this by uh looking at examples of other remote controls , of how they uh they look , and information from the web that I found . 	
+TS3005b.B.dialog-act.vkaraisk.32	Um well what I found was that uh th the actual use of the remote control is to send messages to television set , 	
+TS3005b.B.dialog-act.vkaraisk.33	how you uh d 	
+TS3005b.B.dialog-act.vkaraisk.34	what you described uh just early . 	
+TS3005b.B.dialog-act.vkaraisk.35	And this can be all sorts of medsa messages , 	
+TS3005b.B.dialog-act.vkaraisk.36	turn it on , 	
+TS3005b.B.dialog-act.vkaraisk.37	turn it off , 	
+TS3005b.B.dialog-act.vkaraisk.38	uh change the channel , 	
+TS3005b.B.dialog-act.vkaraisk.39	adjust volume , that kind of thing . 	
+TS3005b.B.dialog-act.vkaraisk.40	Uh play video , teletext , 	
+TS3005b.B.dialog-act.vkaraisk.41	but also t uh play C_D_ 	
+TS3005b.B.dialog-act.vkaraisk.42	if you use it your C_D_ player the remote control will that one . 	
+TS3005b.B.dialog-act.vkaraisk.43	There are some uh examples of remote controls . 	
+TS3005b.B.dialog-act.vkaraisk.44	You can see they are very different . 	
+TS3005b.B.dialog-act.vkaraisk.45	The one has got all the functions that you could possibly need and an lot of uh buttons etcetera . 	
+TS3005b.B.dialog-act.vkaraisk.46	And the other is uh more user friendly , little with big buttons . 	
+TS3005b.B.dialog-act.vkaraisk.47	And uh not n all the the the the stuff you can do with it , 	
+TS3005b.B.dialog-act.vkaraisk.48	but uh the the essential stuff is there . 	
+TS3005b.B.dialog-act.vkaraisk.49	Um I guess you could better y you should look at a a user centred uh approach , 	
+TS3005b.B.dialog-act.vkaraisk.50	because the customers have to use them 	
+TS3005b.B.dialog-act.vkaraisk.51	and 	
+TS3005b.B.dialog-act.vkaraisk.52	and if they don't think it's usable they won't uh buy it . 	
+TS3005b.B.dialog-act.vkaraisk.53	A lot of buttons they may think from I don't need s as much as that . 	
+TS3005b.B.dialog-act.vkaraisk.54	Uh , well 	
+TS3005b.B.dialog-act.vkaraisk.55	perf 	
+TS3005b.B.dialog-act.vkaraisk.56	personal preferences is is uh a simple remote , with uh the basic functions that you can need that you could use . 	
+TS3005b.B.dialog-act.vkaraisk.57	But uh keep in mind the new functions of T_V_ what we discussed earlier , 	
+TS3005b.B.dialog-act.vkaraisk.58	split screen and uh is that a function that you should have ? 	
+TS3005b.B.dialog-act.vkaraisk.59	Because all the T_V_s will have them . 	
+TS3005b.B.dialog-act.vkaraisk.60	Or because of only a few and isn't really necessary . 	
+TS3005b.B.dialog-act.vkaraisk.61	And then uh make it I would make so that you can could uh use it on more than one appliance . 	
+TS3005b.B.dialog-act.vkaraisk.62	If you have one that uh uh does with the vi the the video , it could also work with uh with the stereo , 	
+TS3005b.B.dialog-act.vkaraisk.63	because play is play and stop stop and that sort of thing . 	
+TS3005b.B.dialog-act.vkaraisk.64	The shu c 	
+TS3005b.B.dialog-act.vkaraisk.65	you could reuse the buttons 	
+TS3005b.B.dialog-act.vkaraisk.66	so that you don't have to have a lot of buttons for uh anything . 	
+TS3005b.B.dialog-act.vkaraisk.67	And it should be a user friendly , clear buttons , and not too much . 	
+TS3005b.B.dialog-act.vkaraisk.68	And that is my presentation . 	
+TS3005b.A.dialog-act.vkaraisk.41	Okay , 	
+TS3005b.C.dialog-act.vkaraisk.74	Okay . 	
+TS3005b.A.dialog-act.vkaraisk.40	thank you . 	
+TS3005b.D.dialog-act.vkaraisk.19	'Kay . Check . 	
+TS3005b.C.dialog-act.vkaraisk.75		
+TS3005b.B.dialog-act.vkaraisk.69	You must still have it open . 	
+TS3005b.D.dialog-act.vkaraisk.21	Kijke 	
+TS3005b.D.dialog-act.vkaraisk.22	'Kay , so . 	
+TS3005b.D.dialog-act.vkaraisk.23	We're going to j discuss the functional requirements of the remote , 	
+TS3005b.D.dialog-act.vkaraisk.24	that m 	
+TS3005b.D.dialog-act.vkaraisk.25	that means that functions user n want to have on the remote control , 	
+TS3005b.D.dialog-act.vkaraisk.26	or just 	
+TS3005b.D.dialog-act.vkaraisk.27	Yeah , and the users , actually . 	
+TS3005b.C.dialog-act.vkaraisk.76		
+TS3005b.D.dialog-act.vkaraisk.28	The methods I I prefer is we're going to look which section of the users we are going to focus a l on more . 	
+TS3005b.D.dialog-act.vkaraisk.29	Are the younger people going to buy the remote control or the elderly people ? 	
+TS3005b.D.dialog-act.vkaraisk.30	And then tho that section we're going to focus 	
+TS3005b.D.dialog-act.vkaraisk.31	and adjust the remote more to that section than the whole user section . 	
+TS3005b.D.dialog-act.vkaraisk.32	Okay . 	
+TS3005b.D.dialog-act.vkaraisk.33	Some data . 	
+TS3005b.D.dialog-act.vkaraisk.34	Younger people , from sixteen to thir forty five um years are more interested in fj features like L_C_D_ screens , speech recognition e etcetera . 	
+TS3005b.D.dialog-act.vkaraisk.35	And we possess about two third of the market from in that range of age . 	
+TS3005b.D.dialog-act.vkaraisk.36	The elderly people , from forty five years to sixty five years are not that much interested in features , 	
+TS3005b.D.dialog-act.vkaraisk.37	and we possess less than two third , that's two fifth , of the market share in that area . 	
+TS3005b.D.dialog-act.vkaraisk.39	Goed so . 	
+TS3005b.C.dialog-act.vkaraisk.77	Hmm . 	
+TS3005b.A.dialog-act.vkaraisk.42		
+TS3005b.D.dialog-act.vkaraisk.38	'Kay . 	
+TS3005b.D.dialog-act.vkaraisk.40	Findings . 	
+TS3005b.D.dialog-act.vkaraisk.41	Fifty percent of the users lose their remote often . 	
+TS3005b.C.dialog-act.vkaraisk.78		
+TS3005b.D.dialog-act.vkaraisk.42	So we don't have to make it very small , like uh like a mobile phone or something , 	
+TS3005b.B.dialog-act.vkaraisk.70	Yeah . 	
+TS3005b.D.dialog-act.vkaraisk.43	but some somewhat bi bigger than small , 	
+TS3005b.D.dialog-act.vkaraisk.44	so you don't lose it that much anymore . 	
+TS3005b.D.dialog-act.vkaraisk.45	Seventy five percent of the users also find it ugly , 	
+TS3005b.C.dialog-act.vkaraisk.79	Mm . 	
+TS3005b.D.dialog-act.vkaraisk.46	and fif seventy five of the users zap a lot , 	
+TS3005b.D.dialog-act.vkaraisk.47	so the buttons sh should be that small , 	
+TS3005b.D.dialog-act.vkaraisk.48	or shouldn't be that complex 	
+TS3005b.D.dialog-act.vkaraisk.49	because we have to search for the buttons , which one are you going to use . 	
+TS3005b.D.dialog-act.vkaraisk.50	Next . 	
+TS3005b.D.dialog-act.vkaraisk.51	Important issues about the remote . 	
+TS3005b.D.dialog-act.vkaraisk.52	I think it would be better with a personal reference , but okay . 	
+TS3005b.D.dialog-act.vkaraisk.53	Remote control has to have to have a low power usage , 	
+TS3005b.D.dialog-act.vkaraisk.54	because s w seventy five percent of the users only zap one time an hour , 	
+TS3005b.D.dialog-act.vkaraisk.55	so the power usage is also one one time an hour , or so , 	
+TS3005b.D.dialog-act.vkaraisk.56	with a high power usage we would use a lot of but batteries . 	
+TS3005b.D.dialog-act.vkaraisk.57	The volume button and the channel buttons are the two most important buttons on the remote control , 	
+TS3005b.D.dialog-act.vkaraisk.58	so those they those have to h be find very easily . 	
+TS3005b.D.dialog-act.vkaraisk.59	And have to be somewhat like bigger etcetera . 	
+TS3005b.D.dialog-act.vkaraisk.60	It has also be have to find easily when the label is gone . 	
+TS3005b.D.dialog-act.vkaraisk.61	My colleague also announced it that labels should be scratched off 	
+TS3005b.C.dialog-act.vkaraisk.80	Mm . 	
+TS3005b.B.dialog-act.vkaraisk.71	Hmm . 	
+TS3005b.D.dialog-act.vkaraisk.62	or would be s uh 	
+TS3005b.D.dialog-act.vkaraisk.63	senden 	
+TS3005b.B.dialog-act.vkaraisk.72		
+TS3005b.D.dialog-act.vkaraisk.64	okay . So uh 	
+TS3005b.D.dialog-act.vkaraisk.65	if that's k uh if that's the problem , you also have to find it easily 	
+TS3005b.D.dialog-act.vkaraisk.66	on the remote . 	
+TS3005b.D.dialog-act.vkaraisk.67	Buttons . Like what all colleagues said , have to have to be minimalized . 	
+TS3005b.D.dialog-act.vkaraisk.68	or should be covered , 	
+TS3005b.D.dialog-act.vkaraisk.69	or in L_C_D_ screen . 	
+TS3005b.D.dialog-act.vkaraisk.70	L_C_D_ screen is easy 	
+TS3005b.D.dialog-act.vkaraisk.71	because we have the L_C_D_ screen , we have the various options . 	
+TS3005b.D.dialog-act.vkaraisk.72	Put one option 	
+TS3005b.D.dialog-act.vkaraisk.73	and then you have the all the buttons of that options , 	
+TS3005b.D.dialog-act.vkaraisk.74	so the other options would be gone . 	
+TS3005b.D.dialog-act.vkaraisk.75	And you don't see the buttons . 	
+TS3005b.D.dialog-act.vkaraisk.76	So L_C_D_ screens should be easy , 	
+TS3005b.D.dialog-act.vkaraisk.77	but an L_C_D_ screen , the problem with the L_ sc L_C_D_ screen is that elderly people fr from forty five to for sixty five years don't use the L_C_D_ screen a lot . 	
+TS3005b.D.dialog-act.vkaraisk.78	So we have to that keep that in mind that if you're going to implement L_C_D_ screen , you don't have to make it that hard to learn or to use . 	
+TS3005b.C.dialog-act.vkaraisk.81	Uh L_C_D_ screen as in uh touch screen ? 	
+TS3005b.D.dialog-act.vkaraisk.79	Yeah , touch screen , yeah . 	
+TS3005b.C.dialog-act.vkaraisk.82	Okay . 	
+TS3005b.D.dialog-act.vkaraisk.80	The last but not least , younger people are more critical about the features . 	
+TS3005b.D.dialog-act.vkaraisk.81	Because they use the remote control often more often , 	
+TS3005b.D.dialog-act.vkaraisk.82	and are more technical than the ol older people . 	
+TS3005b.D.dialog-act.vkaraisk.83	And the older people spend more money , and easily on a remote control . 	
+TS3005b.B.dialog-act.vkaraisk.73	Mm . 	
+TS3005b.C.dialog-act.vkaraisk.83	'Kay . 	
+TS3005b.D.dialog-act.vkaraisk.84	So we have to keep in mind to to focus not a lot not that much on the younger pep younger people , 	
+TS3005b.D.dialog-act.vkaraisk.85	but also somewhat on the elderly people . 	
+TS3005b.D.dialog-act.vkaraisk.86	And on my personal preferences , I don't have any mo more time to come with that , 	
+TS3005b.B.dialog-act.vkaraisk.74		
+TS3005b.D.dialog-act.vkaraisk.87	but like I said , L_C_D_ screen is easily to use 	
+TS3005b.C.dialog-act.vkaraisk.84		
+TS3005b.D.dialog-act.vkaraisk.88	because you have you can implement a lot of buttons in one remote with not that much buttons . 	
+TS3005b.D.dialog-act.vkaraisk.89	And it should be easy to use . Especially the volume buttons , the channel buttes buttons and the number buttons to zap through the channels . 	
+TS3005b.D.dialog-act.vkaraisk.90	And that is it . 	
+TS3005b.C.dialog-act.vkaraisk.85	Okay . 	
+TS3005b.A.dialog-act.vkaraisk.43	Okay , 	
+TS3005b.B.dialog-act.vkaraisk.75	Oh right . 	
+TS3005b.A.dialog-act.vkaraisk.44	thank you . 	
+TS3005b.A.dialog-act.vkaraisk.45	Um , well 	
+TS3005b.A.dialog-act.vkaraisk.46	thank you all , huh . 	
+TS3005b.B.dialog-act.vkaraisk.76	No . Res I did not . 	
+TS3005b.A.dialog-act.vkaraisk.47	I dunno uh did everyone receive an email with uh the new project requirements ? 	
+TS3005b.A.dialog-act.vkaraisk.48	No ? 	
+TS3005b.A.dialog-act.vkaraisk.49	Well , 	
+TS3005b.C.dialog-act.vkaraisk.86	No . 	
+TS3005b.B.dialog-act.vkaraisk.79	Perhaps the rest ? 	
+TS3005b.A.dialog-act.vkaraisk.50	then I think it's a good thing that I made a separate slide of them 	
+TS3005b.D.dialog-act.vkaraisk.91	Ja , 	
+TS3005b.A.dialog-act.vkaraisk.51	so you can 	
+TS3005b.A.dialog-act.vkaraisk.52	all read them . 	
+TS3005b.A.dialog-act.vkaraisk.53	Oh , well not in this presentation . Hmm 	
+TS3005b.B.dialog-act.vkaraisk.80		
+TS3005b.A.dialog-act.vkaraisk.54	Should be in there . 	
+TS3005b.A.dialog-act.vkaraisk.55	Well , 	
+TS3005b.A.dialog-act.vkaraisk.56	I can tell you them uh from my laptop . 	
+TS3005b.A.dialog-act.vkaraisk.57	Um teletext does has become outdated since the popularity of the internet . 	
+TS3005b.B.dialog-act.vkaraisk.81	Oh . Mm . 	
+TS3005b.A.dialog-act.vkaraisk.58	So that's uh the first thing we I think we should pay less attention to uh teletext . 	
+TS3005b.A.dialog-act.vkaraisk.59	Uh the remote control should only be used for the television , 	
+TS3005b.A.dialog-act.vkaraisk.60	otherwise the project becomes more complex , 	
+TS3005b.A.dialog-act.vkaraisk.61	which endangers the time to market , 	
+TS3005b.A.dialog-act.vkaraisk.62	and of course would make it more costly , I think . 	
+TS3005b.A.dialog-act.vkaraisk.63	Um our current customers are within the age group of forty plus , 	
+TS3005b.A.dialog-act.vkaraisk.64	and new product should reach a new market with customers that are younger than forty , 	
+TS3005b.A.dialog-act.vkaraisk.65	and you talked about that before . 	
+TS3005b.A.dialog-act.vkaraisk.66	And uh a last point , but also very important , our corporate image should stay recognisable in our products , 	
+TS3005b.A.dialog-act.vkaraisk.67	which means that our uh corporate colour and slogan must be implemented in the new design . 	
+TS3005b.A.dialog-act.vkaraisk.68	So we have to keep that in mind . 	
+TS3005b.A.dialog-act.vkaraisk.69	Um well uh 	
+TS3005b.A.dialog-act.vkaraisk.70	according to our agenda it's then time to take a decision on the remote control functions . 	
+TS3005b.A.dialog-act.vkaraisk.71	So , 	
+TS3005b.A.dialog-act.vkaraisk.72	who has any idea about what should be on it , and what shouldn't ? 	
+TS3005b.B.dialog-act.vkaraisk.82	Well 	
+TS3005b.B.dialog-act.vkaraisk.83	you said it should only uh work with one appliance ? 	
+TS3005b.D.dialog-act.vkaraisk.92	Be 	
+TS3005b.D.dialog-act.vkaraisk.93	television . 	
+TS3005b.B.dialog-act.vkaraisk.84	Or with one uh d che only the T_V_ ? 	
+TS3005b.A.dialog-act.vkaraisk.73	Yeah . Only be used for television . 	
+TS3005b.C.dialog-act.vkaraisk.87	Yeah . 	
+TS3005b.B.dialog-act.vkaraisk.85	And the video also , or not uh ? 	
+TS3005b.D.dialog-act.vkaraisk.94	Only the television . 	
+TS3005b.A.dialog-act.vkaraisk.74	Well 	
+TS3005b.A.dialog-act.vkaraisk.75	it says only for television here , huh . 	
+TS3005b.B.dialog-act.vkaraisk.86	Oh . Alright . Okay . 	
+TS3005b.A.dialog-act.vkaraisk.76	Makes it a lot easier , 	
+TS3005b.A.dialog-act.vkaraisk.77	huh ? 	
+TS3005b.B.dialog-act.vkaraisk.87	Yeah . 	
+TS3005b.C.dialog-act.vkaraisk.88	Mm . 	
+TS3005b.D.dialog-act.vkaraisk.95	So 	
+TS3005b.D.dialog-act.vkaraisk.96	yeah , then you can yeah . 	
+TS3005b.D.dialog-act.vkaraisk.98	Requirements , 	
+TS3005b.D.dialog-act.vkaraisk.97	no ? 	
+TS3005b.D.dialog-act.vkaraisk.99	Functions . 	
+TS3005b.A.dialog-act.vkaraisk.78	Mm-hmm . 	
+TS3005b.B.dialog-act.vkaraisk.88	Then it should have uh on , off , 	
+TS3005b.C.dialog-act.vkaraisk.89	Yeah 	
+TS3005b.C.dialog-act.vkaraisk.91	for 	
+TS3005b.D.dialog-act.vkaraisk.100	Yeah , 	
+TS3005b.C.dialog-act.vkaraisk.90	Standby options , 	
+TS3005b.B.dialog-act.vkaraisk.89	and uh 	
+TS3005b.D.dialog-act.vkaraisk.101	the basics then by a volume , channel , one till two zero numbers on it , 	
+TS3005b.C.dialog-act.vkaraisk.92	yeah ? 	
+TS3005b.C.dialog-act.vkaraisk.93	Uh yeah . 	
+TS3005b.B.dialog-act.vkaraisk.91	Yeah . 	
+TS3005b.B.dialog-act.vkaraisk.92	And per perhaps uh 	
+TS3005b.D.dialog-act.vkaraisk.102	oh teletext doesn't have to be ? 	
+TS3005b.B.dialog-act.vkaraisk.90	No . 	
+TS3005b.D.dialog-act.vkaraisk.103	Um other functions . 	
+TS3005b.B.dialog-act.vkaraisk.93	Well uh uh 	
+TS3005b.B.dialog-act.vkaraisk.94	yes yes s sh 	
+TS3005b.D.dialog-act.vkaraisk.104	Yeah 	
+TS3005b.B.dialog-act.vkaraisk.95	A button where you can uh change from one number to two numbers . 	
+TS3005b.D.dialog-act.vkaraisk.105	I had 	
+TS3005b.C.dialog-act.vkaraisk.94	Two s two 	
+TS3005b.D.dialog-act.vkaraisk.106	Yeah , yeah . 	
+TS3005b.C.dialog-act.vkaraisk.95	two digits , 	
+TS3005b.C.dialog-act.vkaraisk.96	oh okay . 	
+TS3005b.B.dialog-act.vkaraisk.96	Can you 	
+TS3005b.B.dialog-act.vkaraisk.97	Don't know if that's got a name , 	
+TS3005b.C.dialog-act.vkaraisk.97	Yeah 	
+TS3005b.C.dialog-act.vkaraisk.98	I understand what you mean . Yeah . 	
+TS3005b.D.dialog-act.vkaraisk.107	I think it's 	
+TS3005b.B.dialog-act.vkaraisk.98	but 	
+TS3005b.D.dialog-act.vkaraisk.108	I think it's easy to implement a button with a s s what which especially do that , 	
+TS3005b.D.dialog-act.vkaraisk.109	because some T_V_s , if you press the t one and then the two , it be between five secs it make twelve , 	
+TS3005b.C.dialog-act.vkaraisk.99	It makes it twelve , yeah . 	
+TS3005b.B.dialog-act.vkaraisk.99	Yeah . 	
+TS3005b.D.dialog-act.vkaraisk.110	and that's that's not relaxed 	
+TS3005b.C.dialog-act.vkaraisk.100	Indeed . Okay . 	
+TS3005b.B.dialog-act.vkaraisk.100	S 	
+TS3005b.C.dialog-act.vkaraisk.101	Well , 	
+TS3005b.C.dialog-act.vkaraisk.102	not really 	
+TS3005b.D.dialog-act.vkaraisk.111	to user . 	
+TS3005b.C.dialog-act.vkaraisk.103	And 	
+TS3005b.C.dialog-act.vkaraisk.104	and there are some models that don't uh accommodate that function . 	
+TS3005b.D.dialog-act.vkaraisk.112	Yeah . 	
+TS3005b.C.dialog-act.vkaraisk.105	So 	
+TS3005b.C.dialog-act.vkaraisk.106	d uh wh 	
+TS3005b.C.dialog-act.vkaraisk.107	the Philip's television makes it possible in that indeed to uh press one and then two to make uh the uh tj to reach channel twelve . 	
+TS3005b.D.dialog-act.vkaraisk.113	So that it easy and fast . 	
+TS3005b.B.dialog-act.vkaraisk.101	Yeah . 	
+TS3005b.C.dialog-act.vkaraisk.108	But uh all the television makes uh use of those button where you first press that button and then press two digits to uh to get 	
+TS3005b.D.dialog-act.vkaraisk.114	Yeah . 	
+TS3005b.B.dialog-act.vkaraisk.102	Yeah . 	
+TS3005b.B.dialog-act.vkaraisk.103	Yeah , 	
+TS3005b.B.dialog-act.vkaraisk.104	so you should have that one on . 	
+TS3005b.C.dialog-act.vkaraisk.109	Uh yeah , think so . 	
+TS3005b.D.dialog-act.vkaraisk.115	Our main targets' age are ? were ? Forty five plus , or ? 	
+TS3005b.B.dialog-act.vkaraisk.105	Mute misschien also . 	
+TS3005b.C.dialog-act.vkaraisk.110	Mm . 	
+TS3005b.A.dialog-act.vkaraisk.79	Uh well 	
+TS3005b.A.dialog-act.vkaraisk.80	new product should reach a market with customers that are younger than forty , 	
+TS3005b.A.dialog-act.vkaraisk.81	and now we have current customers uh of forty plus . 	
+TS3005b.D.dialog-act.vkaraisk.116	Forties , okay 	
+TS3005b.D.dialog-act.vkaraisk.117	because because younger people as 	
+TS3005b.D.dialog-act.vkaraisk.118	Uh younger people have now , sixteen till to twenty five age , are f eighty one percent interested in L_C_D_ screen . 	
+TS3005b.D.dialog-act.vkaraisk.119	From twenty six to thirty five have sixty six percent , 	
+TS3005b.D.dialog-act.vkaraisk.120	and thirty six to forty five , fifty five percent , 	
+TS3005b.D.dialog-act.vkaraisk.121	so I think to um 	
+TS3005b.D.dialog-act.vkaraisk.122	Because on most recog remote controls um the print plate will be broken how much , two years . 	
+TS3005b.D.dialog-act.vkaraisk.123	You have to press h very hard to go to the next channel . 	
+TS3005b.C.dialog-act.vkaraisk.111	Mm-hmm . 	
+TS3005b.A.dialog-act.vkaraisk.82	Mm-hmm . 	
+TS3005b.D.dialog-act.vkaraisk.124	With the L_C_D_ screen it's easier 	
+TS3005b.D.dialog-act.vkaraisk.125	because you only have to wipe the screen to uh for fingerprint , 	
+TS3005b.C.dialog-act.vkaraisk.112	Yeah , 	
+TS3005b.C.dialog-act.vkaraisk.113	we 	
+TS3005b.C.dialog-act.vkaraisk.114	we could yeah . 	
+TS3005b.D.dialog-act.vkaraisk.126	and then you can use it again . 	
+TS3005b.C.dialog-act.vkaraisk.115	But I think that uh that collides with our mission to make it very cheap . 	
+TS3005b.C.dialog-act.vkaraisk.116	Because L_C_D_ screens are very expensive . 	
+TS3005b.D.dialog-act.vkaraisk.127	Yeah , okay . 	
+TS3005b.D.dialog-act.vkaraisk.128	Yeah 	
+TS3005b.D.dialog-act.vkaraisk.129	but a you don't know 	
+TS3005b.C.dialog-act.vkaraisk.117	A touch screen uh probably uh even more . 	
+TS3005b.B.dialog-act.vkaraisk.106	An 	
+TS3005b.C.dialog-act.vkaraisk.118	So , 	
+TS3005b.D.dialog-act.vkaraisk.131	True . 	
+TS3005b.C.dialog-act.vkaraisk.119	true , true . 	
+TS3005b.D.dialog-act.vkaraisk.130		
+TS3005b.B.dialog-act.vkaraisk.107		
+TS3005b.C.dialog-act.vkaraisk.120	But uh 	
+TS3005b.C.dialog-act.vkaraisk.121	Well um 	
+TS3005b.C.dialog-act.vkaraisk.122	is it possible to make an L_C_D_ screen uh , 	
+TS3005b.C.dialog-act.vkaraisk.123	how was the information ? 	
+TS3005b.D.dialog-act.vkaraisk.132	Yeah , 	
+TS3005b.D.dialog-act.vkaraisk.133	it only says that this perce percentage like L_C_D_ screen . 	
+TS3005b.D.dialog-act.vkaraisk.134	Because , yeah and it says that younger age between sixteen and forty five highly interesting features more critical . 	
+TS3005b.C.dialog-act.vkaraisk.124	So 	
+TS3005b.D.dialog-act.vkaraisk.135	And if the only f 	
+TS3005b.C.dialog-act.vkaraisk.125	perhaps we should we should focus on that L_C_D_ screen . 	
+TS3005b.D.dialog-act.vkaraisk.136	Yeah , 	
+TS3005b.D.dialog-act.vkaraisk.137	because our target is sixteen to forty five . 	
+TS3005b.B.dialog-act.vkaraisk.108	But , 	
+TS3005b.C.dialog-act.vkaraisk.126	Yeah 	
+TS3005b.C.dialog-act.vkaraisk.127	but uh will we not uh exceed our uh our uh production uh 	
+TS3005b.B.dialog-act.vkaraisk.109	do you 	
+TS3005b.D.dialog-act.vkaraisk.138	Yeah 	
+TS3005b.D.dialog-act.vkaraisk.139	you don't know how much it costs . 	
+TS3005b.D.dialog-act.vkaraisk.140	Yeah , 	
+TS3005b.D.dialog-act.vkaraisk.141	you don't know how much it costs , the L_C_D_ screen . 	
+TS3005b.C.dialog-act.vkaraisk.128	Is it possible to find out , anyway ? 	
+TS3005b.D.dialog-act.vkaraisk.142	No , 	
+TS3005b.D.dialog-act.vkaraisk.143	I don't have any costs here , 	
+TS3005b.C.dialog-act.vkaraisk.129	You know ? 	
+TS3005b.D.dialog-act.vkaraisk.144	I only have percentages . 	
+TS3005b.B.dialog-act.vkaraisk.110	But if you would do an L_C_D_ screen do we have don don't you have any buttons ? 	
+TS3005b.B.dialog-act.vkaraisk.111	Or because if it only directs at the T_V_ , then you only have uh I don't know what you want to do with the L_C_D_ screen . 	
+TS3005b.D.dialog-act.vkaraisk.145	Yeah . 	
+TS3005b.C.dialog-act.vkaraisk.130	No , 	
+TS3005b.C.dialog-act.vkaraisk.131	an L_C_D_ screen's just like uh like a drawn here . 	
+TS3005b.C.dialog-act.vkaraisk.132	Um just uh displays several buttons , 	
+TS3005b.B.dialog-act.vkaraisk.112	Yeah ? 	
+TS3005b.C.dialog-act.vkaraisk.133	for example um if you wanted the minimal uh use b uh buttons , such as channel and volume , you just h uh displays four buttons on the screen 	
+TS3005b.B.dialog-act.vkaraisk.113	Oh right , 	
+TS3005b.C.dialog-act.vkaraisk.134	and it's possible to p uh press them down , just like a touch screen . 	
+TS3005b.B.dialog-act.vkaraisk.114	so you can 	
+TS3005b.B.dialog-act.vkaraisk.115	Oh , yeah alright . 	
+TS3005b.B.dialog-act.vkaraisk.116	So 	
+TS3005b.B.dialog-act.vkaraisk.117	you can adjust which buttons you want on that s screen . 	
+TS3005b.D.dialog-act.vkaraisk.146	Yeah , 	
+TS3005b.D.dialog-act.vkaraisk.147	if you want to adjust , like for example , adjust the audio settings , you press audio on the touchscreen 	
+TS3005b.C.dialog-act.vkaraisk.136	Yeah , we can make it possible to do that , yeah . 	
+TS3005b.D.dialog-act.vkaraisk.148	and you get the buttons for audio settings , 	
+TS3005b.C.dialog-act.vkaraisk.135	Yeah yeah . 	
+TS3005b.B.dialog-act.vkaraisk.118	Yeah alright , oh right . 	
+TS3005b.D.dialog-act.vkaraisk.149	so the other buttons are gone . 	
+TS3005b.B.dialog-act.vkaraisk.119	Yeah . 	
+TS3005b.C.dialog-act.vkaraisk.138	Yeah , yeah . 	
+TS3005b.A.dialog-act.vkaraisk.83	So 	
+TS3005b.A.dialog-act.vkaraisk.84	we're going for an L_C_D_ screen ? 	
+TS3005b.B.dialog-act.vkaraisk.120	Yeah . 	
+TS3005b.D.dialog-act.vkaraisk.150	I think it's the most easier thing , 	
+TS3005b.B.dialog-act.vkaraisk.121	Would be yeah . 	
+TS3005b.C.dialog-act.vkaraisk.139	That's my uh 	
+TS3005b.D.dialog-act.vkaraisk.151	yeah . 	
+TS3005b.A.dialog-act.vkaraisk.85	And hoping that when we produce a lot it won't be too expensive . 	
+TS3005b.B.dialog-act.vkaraisk.122		
+TS3005b.D.dialog-act.vkaraisk.152	No . 	
+TS3005b.C.dialog-act.vkaraisk.140	Yeah . 	
+TS3005b.B.dialog-act.vkaraisk.123	Well 	
+TS3005b.B.dialog-act.vkaraisk.124	we had twelve fifty , I guess , for uh production ? 	
+TS3005b.D.dialog-act.vkaraisk.153	Yeah . 	
+TS3005b.C.dialog-act.vkaraisk.141	Twelve fifty . 	
+TS3005b.D.dialog-act.vkaraisk.154		
+TS3005b.C.dialog-act.vkaraisk.142	Um . 	
+TS3005b.B.dialog-act.vkaraisk.125	Any guesses ? 	
+TS3005b.C.dialog-act.vkaraisk.143		
+TS3005b.D.dialog-act.vkaraisk.155		
+TS3005b.C.dialog-act.vkaraisk.144	Well 	
+TS3005b.C.dialog-act.vkaraisk.145	I suppose wi if the mar if our um if the i 	
+TS3005b.C.dialog-act.vkaraisk.146	if the young people are interested in L_C_D_ screens , we should make 'em . 	
+TS3005b.D.dialog-act.vkaraisk.156	Highly . 	
+TS3005b.A.dialog-act.vkaraisk.86	Mm-hmm . 	
+TS3005b.C.dialog-act.vkaraisk.147	And if that is our d uh market share to uh and our goal to uh deliver those uh remote controls 	
+TS3005b.B.dialog-act.vkaraisk.126	Yeah . 	
+TS3005b.B.dialog-act.vkaraisk.127	But 	
+TS3005b.B.dialog-act.vkaraisk.128	But he also said that we should not only focus on the younger people , 	
+TS3005b.B.dialog-act.vkaraisk.129	but also on the older , 	
+TS3005b.D.dialog-act.vkaraisk.157	Yeah , 	
+TS3005b.B.dialog-act.vkaraisk.130	and will they use it if it only has an L_C_D_ screen ? 	
+TS3005b.D.dialog-act.vkaraisk.158	but 	
+TS3005b.D.dialog-act.vkaraisk.159	Um , 	
+TS3005b.D.dialog-act.vkaraisk.160	s 	
+TS3005b.D.dialog-act.vkaraisk.161	forty six to forty five , thirty three percent , 	
+TS3005b.D.dialog-act.vkaraisk.162	and sixty fifty six to sixty five twelve percent . 	
+TS3005b.D.dialog-act.vkaraisk.163	But our our our what's it , project requirements are the new products should be reached for new markets , to customers that are younger than forty . 	
+TS3005b.B.dialog-act.vkaraisk.131	Oh , 	
+TS3005b.B.dialog-act.vkaraisk.132	so still a little bit people 	
+TS3005b.C.dialog-act.vkaraisk.148	Yeah . 	
+TS3005b.B.dialog-act.vkaraisk.133	Yeah that's right . 	
+TS3005b.B.dialog-act.vkaraisk.134	But you don't want to alienate the other uh 	
+TS3005b.D.dialog-act.vkaraisk.164	No , that not now , 	
+TS3005b.D.dialog-act.vkaraisk.165	but , so 	
+TS3005b.B.dialog-act.vkaraisk.135	But if they also buy it then it's alright . I guess . 	
+TS3005b.D.dialog-act.vkaraisk.166	Yeah , 	
+TS3005b.D.dialog-act.vkaraisk.167	but market share fro for for forty years and younger is higher than that of sixty five and younger . 	
+TS3005b.C.dialog-act.vkaraisk.149	Yeah . 	
+TS3005b.B.dialog-act.vkaraisk.136	Yeah . Alright . 	
+TS3005b.A.dialog-act.vkaraisk.87	Okay , so 	
+TS3005b.B.dialog-act.vkaraisk.137	An 	
+TS3005b.A.dialog-act.vkaraisk.88	L_C_D_ it is ? 	
+TS3005b.B.dialog-act.vkaraisk.138	Yes . 	
+TS3005b.C.dialog-act.vkaraisk.150	Mm . It's treasure . 	
+TS3005b.A.dialog-act.vkaraisk.89	Okay . 	
+TS3005b.A.dialog-act.vkaraisk.90	And what else ? 	
+TS3005b.C.dialog-act.vkaraisk.151	I hope we uh h and 	
+TS3005b.D.dialog-act.vkaraisk.168	Yeah , 	
+TS3005b.C.dialog-act.vkaraisk.152	let's hope to reach those uh those sales . 	
+TS3005b.D.dialog-act.vkaraisk.169	i i if it 	
+TS3005b.D.dialog-act.vkaraisk.170	Yeah , 	
+TS3005b.D.dialog-act.vkaraisk.171	if it costs gets too much , too expensive , then yeah , we should be sticking to rubber buttons . 	
+TS3005b.A.dialog-act.vkaraisk.91		
+TS3005b.B.dialog-act.vkaraisk.139	Yeah . 	
+TS3005b.C.dialog-act.vkaraisk.153	Yeah , 	
+TS3005b.C.dialog-act.vkaraisk.154	can you um uh s 	
+TS3005b.C.dialog-act.vkaraisk.155	I think that that they will send you some information about uh the cost of L_C_D_ uh screens . 	
+TS3005b.D.dialog-act.vkaraisk.172	N 	
+TS3005b.B.dialog-act.vkaraisk.140	Yeah . 	
+TS3005b.D.dialog-act.vkaraisk.173	nothing , no costs at all . 	
+TS3005b.C.dialog-act.vkaraisk.156	Uh so if you uh 	
+TS3005b.B.dialog-act.vkaraisk.141	But perhaps later , 	
+TS3005b.C.dialog-act.vkaraisk.157	Yeah , so 	
+TS3005b.B.dialog-act.vkaraisk.142	so uh 	
+TS3005b.C.dialog-act.vkaraisk.158	if you uh you receive an email about that , uh can you post it in the 	
+TS3005b.D.dialog-act.vkaraisk.174	Yeah , 	
+TS3005b.C.dialog-act.vkaraisk.159	or shouldn't we post that in uh our projects mail uh folder . 	
+TS3005b.D.dialog-act.vkaraisk.175	in 	
+TS3005b.D.dialog-act.vkaraisk.176	I think that should 	
+TS3005b.B.dialog-act.vkaraisk.143	Yeah . 	
+TS3005b.D.dialog-act.vkaraisk.177	yeah 	
+TS3005b.D.dialog-act.vkaraisk.178	I think we all get the costs of everything . 	
+TS3005b.B.dialog-act.vkaraisk.144	I don't 	
+TS3005b.C.dialog-act.vkaraisk.160	Because you are the the Marketing uh Expert . 	
+TS3005b.D.dialog-act.vkaraisk.179	Yeah , okay , I'll I'll post it . 	
+TS3005b.C.dialog-act.vkaraisk.161	I uh 	
+TS3005b.B.dialog-act.vkaraisk.145	Well 	
+TS3005b.B.dialog-act.vkaraisk.146	perhaps we should have a backup plan 	
+TS3005b.B.dialog-act.vkaraisk.147	that we would use buttons if it's uh too expensive . 	
+TS3005b.C.dialog-act.vkaraisk.162	Yeah sure , sure . 	
+TS3005b.D.dialog-act.vkaraisk.180	Yeah . 	
+TS3005b.A.dialog-act.vkaraisk.92	Yeah , okay . 	
+TS3005b.A.dialog-act.vkaraisk.93	But for now it's L_C_D_ . Okay . 	
+TS3005b.D.dialog-act.vkaraisk.181	Okay , L_C_D_ , yeah . 	
+TS3005b.B.dialog-act.vkaraisk.148	Yeah . 	
+TS3005b.D.dialog-act.vkaraisk.182	Then you have the seventy five percent of users find it r ugly . 	
+TS3005b.C.dialog-act.vkaraisk.163		
+TS3005b.B.dialog-act.vkaraisk.149	The L_C_D_ ? 	
+TS3005b.D.dialog-act.vkaraisk.183	Yeah , 	
+TS3005b.B.dialog-act.vkaraisk.150	Oh that's a bit of a problem . 	
+TS3005b.D.dialog-act.vkaraisk.184	and eighty percent of the users would spend more money with a when a remote would look fancy . 	
+TS3005b.B.dialog-act.vkaraisk.151	Oh , that's a bit of a problem . 	
+TS3005b.C.dialog-act.vkaraisk.164	Mm . 	
+TS3005b.D.dialog-act.vkaraisk.185	Tha i l i 	
+TS3005b.D.dialog-act.vkaraisk.186	it'll look fancy with L_C_D_ screen . Yeah . 	
+TS3005b.C.dialog-act.vkaraisk.165	It's looks fancy one yeah , of L_C_D_ screen . 	
+TS3005b.B.dialog-act.vkaraisk.152	Yeah , 	
+TS3005b.B.dialog-act.vkaraisk.153	but they don't they don't like it . 	
+TS3005b.A.dialog-act.vkaraisk.94	Yeah . 	
+TS3005b.B.dialog-act.vkaraisk.154	They think it's ugly . When it has an L_C_D_ screen . 	
+TS3005b.D.dialog-act.vkaraisk.187	Yeah , 	
+TS3005b.D.dialog-act.vkaraisk.188	just a the plain remotes , not not specific L_C_D_ remotes . 	
+TS3005b.B.dialog-act.vkaraisk.155	Oh , alright , 	
+TS3005b.B.dialog-act.vkaraisk.156	I thought that you said that . 	
+TS3005b.D.dialog-act.vkaraisk.189	So 	
+TS3005b.A.dialog-act.vkaraisk.95	Yeah , 	
+TS3005b.A.dialog-act.vkaraisk.96	and maybe you can make something fancy out of an L_C_D_ remote , 	
+TS3005b.B.dialog-act.vkaraisk.157	Yeah . 	
+TS3005b.A.dialog-act.vkaraisk.97	because it's new , as far as I know . 	
+TS3005b.D.dialog-act.vkaraisk.190	Mm-hmm . 	
+TS3005b.D.dialog-act.vkaraisk.191	Yeah , of course . 	
+TS3005b.C.dialog-act.vkaraisk.166	Mm yeah . 	
+TS3005b.B.dialog-act.vkaraisk.158		
+TS3005b.D.dialog-act.vkaraisk.192	And then you have the other thing , that seventy five percent zap a lot , 	
+TS3005b.C.dialog-act.vkaraisk.167	And then not yeah . 	
+TS3005b.D.dialog-act.vkaraisk.193	but that's not a f question with the L_C_D_ screen . 	
+TS3005b.C.dialog-act.vkaraisk.168	Um . Yeah . 	
+TS3005b.D.dialog-act.vkaraisk.194	Only thing you have to do is wipe the screen off once each time , to get all the fingerprints off it . 	
+TS3005b.B.dialog-act.vkaraisk.159	Yeah . 	
+TS3005b.C.dialog-act.vkaraisk.169	Mm . 	
+TS3005b.C.dialog-act.vkaraisk.170	Okay ? 	
+TS3005b.A.dialog-act.vkaraisk.98	Okay , 	
+TS3005b.A.dialog-act.vkaraisk.99	what else does our remote need ? 	
+TS3005b.D.dialog-act.vkaraisk.195	Um 	
+TS3005b.B.dialog-act.vkaraisk.160	A mute button . 	
+TS3005b.A.dialog-act.vkaraisk.100	Mute button . 	
+TS3005b.D.dialog-act.vkaraisk.196	Mm-hmm . 	
+TS3005b.B.dialog-act.vkaraisk.161	I think . 	
+TS3005b.D.dialog-act.vkaraisk.197	The most important things on a f on an on an uh remote control are channel selection , volume con selection , 	
+TS3005b.B.dialog-act.vkaraisk.162	And 	
+TS3005b.C.dialog-act.vkaraisk.171	Yeah . 	
+TS3005b.D.dialog-act.vkaraisk.198	and power s power usage . 	
+TS3005b.B.dialog-act.vkaraisk.163	Yeah . 	
+TS3005b.D.dialog-act.vkaraisk.199	And a teletext , but that is not of the question . 	
+TS3005b.B.dialog-act.vkaraisk.164	But 	
+TS3005b.D.dialog-act.vkaraisk.200	Other things are 	
+TS3005b.B.dialog-act.vkaraisk.165	But shouldn't you put a button of for teletext on the for the people who want to use it ? 	
+TS3005b.D.dialog-act.vkaraisk.201	Sorry ? 	
+TS3005b.D.dialog-act.vkaraisk.202	Yeah , it could be . 	
+TS3005b.B.dialog-act.vkaraisk.166	Remembering we have got a big remote that you have to fill . 	
+TS3005b.D.dialog-act.vkaraisk.203	Yeah . 	
+TS3005b.A.dialog-act.vkaraisk.101	Mm-hmm . Yeah , 	
+TS3005b.A.dialog-act.vkaraisk.102	and we could make an a a separate menu on the L_C_D_ uh screen for teletext . 	
+TS3005b.D.dialog-act.vkaraisk.204	Yeah , teletext . 	
+TS3005b.C.dialog-act.vkaraisk.172	Yeah . 	
+TS3005b.B.dialog-act.vkaraisk.167	Yeah . 	
+TS3005b.C.dialog-act.vkaraisk.173	And there's also a 	
+TS3005b.D.dialog-act.vkaraisk.205	And other other less important things are screen settings , audio settings , and channel settings , 	
+TS3005b.B.dialog-act.vkaraisk.168	Yeah , 	
+TS3005b.B.dialog-act.vkaraisk.169	they are less important , 	
+TS3005b.B.dialog-act.vkaraisk.170	but I think they should be there , 	
+TS3005b.D.dialog-act.vkaraisk.206	Less important . 	
+TS3005b.D.dialog-act.vkaraisk.208	Yeah , 	
+TS3005b.B.dialog-act.vkaraisk.171	or not ? 	
+TS3005b.D.dialog-act.vkaraisk.207	should be there , 	
+TS3005b.D.dialog-act.vkaraisk.209	but not press 	
+TS3005b.C.dialog-act.vkaraisk.174	A sh 	
+TS3005b.C.dialog-act.vkaraisk.175	but in a sub sub-menu or something like that . 	
+TS3005b.D.dialog-act.vkaraisk.210	Yeah , sub-menu , yeah . 	
+TS3005b.C.dialog-act.vkaraisk.176	Uh I think it's also important to uh make it possible to um how do you call it in English , uh , to not use batteries , 	
+TS3005b.C.dialog-act.vkaraisk.178	and use ac uh bat uh batteries to uh to be 	
+TS3005b.A.dialog-act.vkaraisk.103	Mm-hmm . 	
+TS3005b.B.dialog-act.vkaraisk.172	Like with a with a mouse , you have not , yeah . 	
+TS3005b.C.dialog-act.vkaraisk.177	yeah yeah sure . Indeed . 	
+TS3005b.C.dialog-act.vkaraisk.179	So uh you can mount uh the the the uh 	
+TS3005b.D.dialog-act.vkaraisk.211	Yeah , 	
+TS3005b.D.dialog-act.vkaraisk.212	in a breath it's 	
+TS3005b.C.dialog-act.vkaraisk.180	uh the remote control to um 	
+TS3005b.A.dialog-act.vkaraisk.104	Mm-hmm . 	
+TS3005b.D.dialog-act.vkaraisk.213	Charted . 	
+TS3005b.B.dialog-act.vkaraisk.173	We should think of the twelve fifty we have 	
+TS3005b.C.dialog-act.vkaraisk.181	to refill the 	
+TS3005b.B.dialog-act.vkaraisk.174	but 	
+TS3005b.D.dialog-act.vkaraisk.214	Yeah , 	
+TS3005b.D.dialog-act.vkaraisk.215	but we don't we don't have any costs now , 	
+TS3005b.B.dialog-act.vkaraisk.175	I don't know how much that's going to uh 	
+TS3005b.C.dialog-act.vkaraisk.182	Yeah . Okay , 	
+TS3005b.D.dialog-act.vkaraisk.216	so Yeah . 	
+TS3005b.C.dialog-act.vkaraisk.183	because i uh when you get an L_C_D_ screen , you run it on batteries , 	
+TS3005b.B.dialog-act.vkaraisk.176	Yeah . 	
+TS3005b.C.dialog-act.vkaraisk.184	the batteries will be uh empty very soon , very fast . 	
+TS3005b.D.dialog-act.vkaraisk.217	Yeah 	
+TS3005b.D.dialog-act.vkaraisk.218	e e 	
+TS3005b.D.dialog-act.vkaraisk.219	power supply is one of the most important things . 	
+TS3005b.B.dialog-act.vkaraisk.177	You should 	
+TS3005b.B.dialog-act.vkaraisk.178	Perhaps you should be able to to switch the control off . 	
+TS3005b.C.dialog-act.vkaraisk.185	Yeah . 	
+TS3005b.B.dialog-act.vkaraisk.179	If you have an L_C_D_ screen that's burns all the time I dunno . 	
+TS3005b.C.dialog-act.vkaraisk.186	Yeah , yeah . Yeah . 	
+TS3005b.B.dialog-act.vkaraisk.180	You shouldn't on and off 	
+TS3005b.B.dialog-act.vkaraisk.181	because that's ver extra , that you have t first you have to turn the remote on , 	
+TS3005b.B.dialog-act.vkaraisk.182	and then you can uh 	
+TS3005b.A.dialog-act.vkaraisk.105	Mm-hmm . 	
+TS3005b.C.dialog-act.vkaraisk.187	Uh 	
+TS3005b.B.dialog-act.vkaraisk.183	I don't know . 	
+TS3005b.D.dialog-act.vkaraisk.220	Yeah , 	
+TS3005b.D.dialog-act.vkaraisk.221	I think it's it's not that easy 	
+TS3005b.D.dialog-act.vkaraisk.222	because I don't think people will like it who who uh that you have to turn it on first and then use it , 	
+TS3005b.B.dialog-act.vkaraisk.184	Nee that's that's 	
+TS3005b.D.dialog-act.vkaraisk.223	so I think it's better when th the T_V_ shuts down , the remote shuts down . 	
+TS3005b.B.dialog-act.vkaraisk.185	uh yeah . 	
+TS3005b.B.dialog-act.vkaraisk.186	But then you can't 	
+TS3005b.C.dialog-act.vkaraisk.188	And go to standby mode when you don't use it , 	
+TS3005b.D.dialog-act.vkaraisk.224	Yeah . 	
+TS3005b.B.dialog-act.vkaraisk.187	Yeah . 	
+TS3005b.C.dialog-act.vkaraisk.189	so that 	
+TS3005b.B.dialog-act.vkaraisk.188	Yeah yeah 	
+TS3005b.B.dialog-act.vkaraisk.189	au 	
+TS3005b.B.dialog-act.vkaraisk.190	automac matically , 	
+TS3005b.B.dialog-act.vkaraisk.191	that it yeah . 	
+TS3005b.C.dialog-act.vkaraisk.190	Yeah , automatically . 	
+TS3005b.D.dialog-act.vkaraisk.225	Yeah . 	
+TS3005b.C.dialog-act.vkaraisk.191	After two minutes or three minutes , something like that . 	
+TS3005b.D.dialog-act.vkaraisk.226	After two minutes , 	
+TS3005b.D.dialog-act.vkaraisk.227	yeah two three minutes , yeah . 	
+TS3005b.B.dialog-act.vkaraisk.192	Yeah . 	
+TS3005b.A.dialog-act.vkaraisk.106	Yeah . 	
+TS3005b.A.dialog-act.vkaraisk.107	And maybe a low battery indicator ? On the screen . 	
+TS3005b.C.dialog-act.vkaraisk.192	Yeah . Sure . 	
+TS3005b.D.dialog-act.vkaraisk.228	Yeah . 	
+TS3005b.A.dialog-act.vkaraisk.108		
+TS3005b.B.dialog-act.vkaraisk.193		
+TS3005b.D.dialog-act.vkaraisk.229	And then b that uh 	
+TS3005b.C.dialog-act.vkaraisk.193		
+TS3005b.D.dialog-act.vkaraisk.230	before an hour when its get again gets empty . 	
+TS3005b.C.dialog-act.vkaraisk.194	Yeah . 	
+TS3005b.D.dialog-act.vkaraisk.231	Then you have plenty of time to recharge it , 	
+TS3005b.D.dialog-act.vkaraisk.232	of put it in a recharger . Charger . 	
+TS3005b.C.dialog-act.vkaraisk.195	Mm . 	
+TS3005b.B.dialog-act.vkaraisk.194		
+TS3005b.A.dialog-act.vkaraisk.109	So we are going for the for the recharger . 	
+TS3005b.C.dialog-act.vkaraisk.196	Yeah . 	
+TS3005b.D.dialog-act.vkaraisk.233	Yeah , 	
+TS3005b.A.dialog-act.vkaraisk.110	Okay . 	
+TS3005b.D.dialog-act.vkaraisk.234	if it's . 	
+TS3005b.D.dialog-act.vkaraisk.235	Uh . 	
+TS3005b.B.dialog-act.vkaraisk.195	If it's sensible . 	
+TS3005b.D.dialog-act.vkaraisk.236	Yeah , 	
+TS3005b.D.dialog-act.vkaraisk.237	because when you're watching T_V_ , you're zapping and you have to put it in a recharger , 	
+TS3005b.B.dialog-act.vkaraisk.196	Yeah . 	
+TS3005b.B.dialog-act.vkaraisk.197	Yeah , 	
+TS3005b.D.dialog-act.vkaraisk.238	and I don't think it 	
+TS3005b.B.dialog-act.vkaraisk.198	b when the batteries are low 	
+TS3005b.C.dialog-act.vkaraisk.197	No , 	
+TS3005b.C.dialog-act.vkaraisk.198	when you 	
+TS3005b.C.dialog-act.vkaraisk.199	when you're done with s uh w uh watching your television , you have to put it 	
+TS3005b.D.dialog-act.vkaraisk.239	Yeah , 	
+TS3005b.D.dialog-act.vkaraisk.240	okay , 	
+TS3005b.D.dialog-act.vkaraisk.241	but then we have to be sure that the the the the batteries go hours , six hours , five , six hours , then . 	
+TS3005b.C.dialog-act.vkaraisk.200	Yeah sure , of course . 	
+TS3005b.B.dialog-act.vkaraisk.199	But you'll also forget to put it in , 	
+TS3005b.D.dialog-act.vkaraisk.242	Yeah , 	
+TS3005b.D.dialog-act.vkaraisk.243	then you have a problem . 	
+TS3005b.B.dialog-act.vkaraisk.200	because you throw it on the couch 	
+TS3005b.C.dialog-act.vkaraisk.201	Yeah , 	
+TS3005b.C.dialog-act.vkaraisk.202	but 	
+TS3005b.B.dialog-act.vkaraisk.201	and you don't remember . 	
+TS3005b.C.dialog-act.vkaraisk.203	But you also forget to buy batteries , 	
+TS3005b.B.dialog-act.vkaraisk.202	Yeah . That's right . 	
+TS3005b.C.dialog-act.vkaraisk.204	and then you can you can't use it , 	
+TS3005b.C.dialog-act.vkaraisk.205	so I 	
+TS3005b.B.dialog-act.vkaraisk.203	Yeah . 	
+TS3005b.D.dialog-act.vkaraisk.244	Or we have to be sure that the batteries last couple of days when they're recharged . 	
+TS3005b.C.dialog-act.vkaraisk.206	Yeah . 	
+TS3005b.D.dialog-act.vkaraisk.245	So . 	
+TS3005b.B.dialog-act.vkaraisk.204	Well 	
+TS3005b.B.dialog-act.vkaraisk.205	I think the batteries should should w should work a lot longer than a couple of days , 	
+TS3005b.D.dialog-act.vkaraisk.246	Yeah 	
+TS3005b.D.dialog-act.vkaraisk.247	because you have b 	
+TS3005b.B.dialog-act.vkaraisk.206	or not ? 	
+TS3005b.D.dialog-act.vkaraisk.248	but you have L_C_D_ screen . 	
+TS3005b.B.dialog-act.vkaraisk.207	'Cause 	
+TS3005b.B.dialog-act.vkaraisk.208	Yeah , that's right , 	
+TS3005b.D.dialog-act.vkaraisk.249	High power usage . 	
+TS3005b.B.dialog-act.vkaraisk.209	but 	
+TS3005b.C.dialog-act.vkaraisk.207	High power user cell , i 	
+TS3005b.C.dialog-act.vkaraisk.208	uh it should be uh a standard move to to put your remote control in the charger when you're done watching television , 	
+TS3005b.D.dialog-act.vkaraisk.250	Yes . 	
+TS3005b.C.dialog-act.vkaraisk.209	that's also a a a great advantage 	
+TS3005b.C.dialog-act.vkaraisk.210	because you can't lose it anymore . 	
+TS3005b.C.dialog-act.vkaraisk.211	Because you are obliged to uh put it in the charger and not to uh leave it in a couch uh between some cushions . 	
+TS3005b.D.dialog-act.vkaraisk.251	True . 	
+TS3005b.D.dialog-act.vkaraisk.252	Yeah . Yeah . 	
+TS3005b.D.dialog-act.vkaraisk.253	True . 	
+TS3005b.B.dialog-act.vkaraisk.210	Yeah . 	
+TS3005b.B.dialog-act.vkaraisk.211	Right . 	
+TS3005b.C.dialog-act.vkaraisk.212	Okay . 	
+TS3005b.D.dialog-act.vkaraisk.254	Yeah , 	
+TS3005b.D.dialog-act.vkaraisk.255	you made a point there . 	
+TS3005b.B.dialog-act.vkaraisk.212	But then you also have to s have somewhere where you can put a remo recharger near your couch 	
+TS3005b.A.dialog-act.vkaraisk.111	Yeah , 	
+TS3005b.A.dialog-act.vkaraisk.112	also . 	
+TS3005b.B.dialog-act.vkaraisk.213	because otherwise you have to walk a long way when you twoft want to turn on the T_V_ . 	
+TS3005b.D.dialog-act.vkaraisk.256	Yeah , 	
+TS3005b.D.dialog-act.vkaraisk.257	otherwise all your yeah . 	
+TS3005b.D.dialog-act.vkaraisk.258	Just a small device . 	
+TS3005b.B.dialog-act.vkaraisk.214	Yeah . 	
+TS3005b.C.dialog-act.vkaraisk.213	Yeah 	
+TS3005b.C.dialog-act.vkaraisk.214	it hasn't 	
+TS3005b.D.dialog-act.vkaraisk.259	Plug it in , that's it . 	
+TS3005b.B.dialog-act.vkaraisk.215	I think everything has it for and I guess . 	
+TS3005b.C.dialog-act.vkaraisk.215	It doesn't have to be big . 	
+TS3005b.D.dialog-act.vkaraisk.260	Yeah , 	
+TS3005b.D.dialog-act.vkaraisk.261	like a like telephone charger or something . 	
+TS3005b.C.dialog-act.vkaraisk.216	Yeah 	
+TS3005b.C.dialog-act.vkaraisk.217	just 	
+TS3005b.C.dialog-act.vkaraisk.218	just a cable , or a even a a a a a charger where you can mount it on . Something like that , 	
+TS3005b.D.dialog-act.vkaraisk.262	Yeah . Yeah . 	
+TS3005b.C.dialog-act.vkaraisk.219	just u 	
+TS3005b.B.dialog-act.vkaraisk.216	Yeah . 	
+TS3005b.C.dialog-act.vkaraisk.220	Okay . 	
+TS3005b.B.dialog-act.vkaraisk.217	Alright . 	
+TS3005b.A.dialog-act.vkaraisk.113	Okay , well 	
+TS3005b.D.dialog-act.vkaraisk.263	It has to be easy to use also , or things . Uh market share , speaker re speech recognition . 	
+TS3005b.A.dialog-act.vkaraisk.114	I've 	
+TS3005b.A.dialog-act.vkaraisk.115	Yeah , 	
+TS3005b.A.dialog-act.vkaraisk.116	you have some more 	
+TS3005b.B.dialog-act.vkaraisk.218		
+TS3005b.A.dialog-act.vkaraisk.117	points . 	
+TS3005b.D.dialog-act.vkaraisk.264	I think . 	
+TS3005b.C.dialog-act.vkaraisk.221	Functional designs uh for the elderly uh you could make it possible to enlarge the screen , 	
+TS3005b.C.dialog-act.vkaraisk.222	so make it possible to not uh display uh a button at ten points 	
+TS3005b.D.dialog-act.vkaraisk.265	Also . 	
+TS3005b.C.dialog-act.vkaraisk.223	uh , or 	
+TS3005b.D.dialog-act.vkaraisk.266	Well 	
+TS3005b.D.dialog-act.vkaraisk.267	I think that this should be standard . Large button large buttons . 	
+TS3005b.C.dialog-act.vkaraisk.224	Yeah 	
+TS3005b.C.dialog-act.vkaraisk.225	but it is uh one of the functions you have to uh specify . 	
+TS3005b.D.dialog-act.vkaraisk.268	Yeah ? 	
+TS3005b.D.dialog-act.vkaraisk.269	Okay . 	
+TS3005b.C.dialog-act.vkaraisk.226	Because we can look at uh uh perhaps uh forty buttons at a screen , 	
+TS3005b.C.dialog-act.vkaraisk.227	but the elderly only look at two buttons . 	
+TS3005b.D.dialog-act.vkaraisk.270		
+TS3005b.A.dialog-act.vkaraisk.118		
+TS3005b.C.dialog-act.vkaraisk.228	Okay . 	
+TS3005b.D.dialog-act.vkaraisk.271	. 	
+TS3005b.A.dialog-act.vkaraisk.119	And you said something about speech recognition ? 	
+TS3005b.D.dialog-act.vkaraisk.272	Yeah , 	
+TS3005b.D.dialog-act.vkaraisk.273	it says also 	
+TS3005b.C.dialog-act.vkaraisk.229	Speech recognition ? 	
+TS3005b.D.dialog-act.vkaraisk.274	Yeah . 	
+TS3005b.C.dialog-act.vkaraisk.230	Hello . 	
+TS3005b.C.dialog-act.vkaraisk.231	Twelve Euro 	
+TS3005b.B.dialog-act.vkaraisk.219	Yeah , 	
+TS3005b.C.dialog-act.vkaraisk.232	twelve Euro fifty . 	
+TS3005b.D.dialog-act.vkaraisk.275	Twelve . That's an 	
+TS3005b.B.dialog-act.vkaraisk.220	twelve fifty , twelve fifty . 	
+TS3005b.D.dialog-act.vkaraisk.276	also ninety one percent sixteen to twenty five , twenty six to thirty five years , seventy six percent , and thirty six to forty five , thirty five percent . 	
+TS3005b.B.dialog-act.vkaraisk.221	So it's pretty big . 	
+TS3005b.C.dialog-act.vkaraisk.233	Well , 	
+TS3005b.C.dialog-act.vkaraisk.234	spread it by a big market . 	
+TS3005b.D.dialog-act.vkaraisk.277	But then I I I 	
+TS3005b.A.dialog-act.vkaraisk.120	Even bigger than for L_C_D_ . 	
+TS3005b.B.dialog-act.vkaraisk.222	Yeah . 	
+TS3005b.C.dialog-act.vkaraisk.235	Well 	
+TS3005b.D.dialog-act.vkaraisk.278	Yeah . 	
+TS3005b.B.dialog-act.vkaraisk.223	W 	
+TS3005b.B.dialog-act.vkaraisk.224	I know let's do a speech . 	
+TS3005b.C.dialog-act.vkaraisk.236	let's leave out all the remote controls 	
+TS3005b.C.dialog-act.vkaraisk.237	and just put a microphone on top of the television to 	
+TS3005b.B.dialog-act.vkaraisk.225	Yeah . Yeah . 	
+TS3005b.D.dialog-act.vkaraisk.279	Yeah . 	
+TS3005b.D.dialog-act.vkaraisk.280	Ninety . Twenty five . 	
+TS3005b.B.dialog-act.vkaraisk.226	You can clap or something . 	
+TS3005b.C.dialog-act.vkaraisk.239	Yeah Yeah . 	
+TS3005b.D.dialog-act.vkaraisk.281	channel . 	
+TS3005b.C.dialog-act.vkaraisk.238	Turn volume up . 	
+TS3005b.B.dialog-act.vkaraisk.227	Yeah . 	
+TS3005b.C.dialog-act.vkaraisk.240	Hey , 	
+TS3005b.C.dialog-act.vkaraisk.241	that 	
+TS3005b.C.dialog-act.vkaraisk.242	that's an idea . 	
+TS3005b.D.dialog-act.vkaraisk.282		
+TS3005b.B.dialog-act.vkaraisk.228	Now you shouldn't say the wrong thing , I dunno . 	
+TS3005b.D.dialog-act.vkaraisk.283	Yeah . 	
+TS3005b.C.dialog-act.vkaraisk.243	Okay , well 	
+TS3005b.C.dialog-act.vkaraisk.244	that should 	
+TS3005b.C.dialog-act.vkaraisk.245	it has to be remote control , 	
+TS3005b.C.dialog-act.vkaraisk.246	not 	
+TS3005b.D.dialog-act.vkaraisk.284	Yeah , 	
+TS3005b.C.dialog-act.vkaraisk.247	Yeah . 	
+TS3005b.D.dialog-act.vkaraisk.285	twelve . 	
+TS3005b.B.dialog-act.vkaraisk.229	But they want to talk into the remo remote control , or something , 	
+TS3005b.D.dialog-act.vkaraisk.286	Yeah . 	
+TS3005b.C.dialog-act.vkaraisk.248	Sure why not why not 	
+TS3005b.B.dialog-act.vkaraisk.230	or ? 	
+TS3005b.D.dialog-act.vkaraisk.287	Is this only would you 	
+TS3005b.D.dialog-act.vkaraisk.288	would you pay more for speech recognition in a remote control . It's the only thing it says . 	
+TS3005b.C.dialog-act.vkaraisk.250	Yeah , mm . 	
+TS3005b.B.dialog-act.vkaraisk.231	Oh , 	
+TS3005b.B.dialog-act.vkaraisk.232	but do we want to implement that , 	
+TS3005b.B.dialog-act.vkaraisk.233	or ? 	
+TS3005b.D.dialog-act.vkaraisk.289	I think an L_C_D_ screen should be suf sufficient . 	
+TS3005b.C.dialog-act.vkaraisk.251	Yeah . 	
+TS3005b.A.dialog-act.vkaraisk.121	But when you look at the percentages 	
+TS3005b.D.dialog-act.vkaraisk.290	Yeah , 	
+TS3005b.D.dialog-act.vkaraisk.291	it says a lot , 	
+TS3005b.D.dialog-act.vkaraisk.292	but 	
+TS3005b.C.dialog-act.vkaraisk.252	Perhaps the options should be uh 	
+TS3005b.A.dialog-act.vkaraisk.122	Speech recognition scores even higher , huh ? 	
+TS3005b.C.dialog-act.vkaraisk.253	Why not ? 	
+TS3005b.B.dialog-act.vkaraisk.234		
+TS3005b.A.dialog-act.vkaraisk.123	Yeah , well , 	
+TS3005b.C.dialog-act.vkaraisk.254	Why not ? 	
+TS3005b.A.dialog-act.vkaraisk.124	maybe because of the cost , 	
+TS3005b.A.dialog-act.vkaraisk.125	but uh nobody knows uh how much uh it will cost uh . 	
+TS3005b.B.dialog-act.vkaraisk.235	Yeah . 	
+TS3005b.C.dialog-act.vkaraisk.255	Let's hope uh to have some uh d 	
+TS3005b.B.dialog-act.vkaraisk.236	I know 	
+TS3005b.D.dialog-act.vkaraisk.293	No 	
+TS3005b.D.dialog-act.vkaraisk.294	I think I think it's better to have L_ L_C_D_ screen , 	
+TS3005b.D.dialog-act.vkaraisk.295	because in the area of tw thirty six to forty five , we have about thirty percent of the market share in in our hands , 	
+TS3005b.D.dialog-act.vkaraisk.296	and fifty five of those people want L_C_D_ screen 	
+TS3005b.D.dialog-act.vkaraisk.297	and thirty five want speech recognition . 	
+TS3005b.D.dialog-act.vkaraisk.298	So I think it's better to keep it with L_C_D_ screen . 	
+TS3005b.B.dialog-act.vkaraisk.237	Mm . 	
+TS3005b.A.dialog-act.vkaraisk.126	But would it be useful to imple implement both ? 	
+TS3005b.D.dialog-act.vkaraisk.299	Yeah , if the costs al allow it . 	
+TS3005b.A.dialog-act.vkaraisk.127	On one remote ? 	
+TS3005b.B.dialog-act.vkaraisk.238	Well 	
+TS3005b.A.dialog-act.vkaraisk.128	Or 	
+TS3005b.A.dialog-act.vkaraisk.129	Yeah , I dunno . 	
+TS3005b.B.dialog-act.vkaraisk.239	I don't know if that can be done with the cost of twelve fifty . 	
+TS3005b.D.dialog-act.vkaraisk.300	Nee . 	
+TS3005b.B.dialog-act.vkaraisk.240	With that uh 	
+TS3005b.D.dialog-act.vkaraisk.301	If it should be done , 	
+TS3005b.D.dialog-act.vkaraisk.302	if it could be done , I won't matter . Yeah . 	
+TS3005b.B.dialog-act.vkaraisk.241	Yeah , 	
+TS3005b.C.dialog-act.vkaraisk.256	We should do it . Yeah . Sure . 	
+TS3005b.B.dialog-act.vkaraisk.242	but how would you like to implement that , 	
+TS3005b.B.dialog-act.vkaraisk.243	that you say volume up , and then it goes up , 	
+TS3005b.C.dialog-act.vkaraisk.257	Yeah . 	
+TS3005b.D.dialog-act.vkaraisk.303	Yeah . 	
+TS3005b.B.dialog-act.vkaraisk.244	or ? 	
+TS3005b.B.dialog-act.vkaraisk.245	Uh . 	
+TS3005b.C.dialog-act.vkaraisk.258	Certain systems already exist , I think . 	
+TS3005b.D.dialog-act.vkaraisk.304	Mm-hmm . 	
+TS3005b.B.dialog-act.vkaraisk.246	Then you also have to have different languages if we go international . 	
+TS3005b.B.dialog-act.vkaraisk.247	Then uh it's y it's yours to do a French and Dutch and English 	
+TS3005b.D.dialog-act.vkaraisk.305	True . 	
+TS3005b.C.dialog-act.vkaraisk.259	True , yeah . 	
+TS3005b.D.dialog-act.vkaraisk.306	Yeah . True . 	
+TS3005b.C.dialog-act.vkaraisk.260	Yeah . 	
+TS3005b.D.dialog-act.vkaraisk.307	But that should also be with f should be also with L_C_D_ screen . 	
+TS3005b.C.dialog-act.vkaraisk.261	This should be uh accommodated with some software , 	
+TS3005b.C.dialog-act.vkaraisk.262	uh , uh . Yeah . 	
+TS3005b.D.dialog-act.vkaraisk.308	Because then I think in Chinese is different written , volume is different written than um Swahili or something . 	
+TS3005b.B.dialog-act.vkaraisk.248	Yeah , that's right . 	
+TS3005b.B.dialog-act.vkaraisk.249	Yeah . 	
+TS3005b.C.dialog-act.vkaraisk.263	Right . 	
+TS3005b.C.dialog-act.vkaraisk.265	Swahili . Swahili . 	
+TS3005b.B.dialog-act.vkaraisk.250	Yeah 	
+TS3005b.B.dialog-act.vkaraisk.251	you can use icons 	
+TS3005b.B.dialog-act.vkaraisk.252	for the 	
+TS3005b.C.dialog-act.vkaraisk.266	Yeah . 	
+TS3005b.D.dialog-act.vkaraisk.309	Ja , well possible . 	
+TS3005b.B.dialog-act.vkaraisk.253	a speaker and uh 	
+TS3005b.C.dialog-act.vkaraisk.267	Indeed . 	
+TS3005b.B.dialog-act.vkaraisk.254	But if that's better than language for the for the remote . 	
+TS3005b.D.dialog-act.vkaraisk.310	Yeah , yeah yeah yeah 	
+TS3005b.C.dialog-act.vkaraisk.268	Yeah . 	
+TS3005b.C.dialog-act.vkaraisk.269	So we want to uh yeah it's international uh okay . 	
+TS3005b.B.dialog-act.vkaraisk.255	Then it's Yeah . 	
+TS3005b.C.dialog-act.vkaraisk.270	Okay . 	
+TS3005b.D.dialog-act.vkaraisk.311	'Kay , 	
+TS3005b.D.dialog-act.vkaraisk.312	what else ? 	
+TS3005b.A.dialog-act.vkaraisk.130	So , 	
+TS3005b.A.dialog-act.vkaraisk.132	no speech recognition ? 	
+TS3005b.A.dialog-act.vkaraisk.131	Or 	
+TS3005b.B.dialog-act.vkaraisk.256	Well , 	
+TS3005b.A.dialog-act.vkaraisk.133		
+TS3005b.B.dialog-act.vkaraisk.257	if it could be done , we 	
+TS3005b.D.dialog-act.vkaraisk.313	Yeah , 	
+TS3005b.D.dialog-act.vkaraisk.314	we have to keep Yeah . 	
+TS3005b.C.dialog-act.vkaraisk.271	Y 	
+TS3005b.C.dialog-act.vkaraisk.272	it should be done . If it could be done , should be done . 	
+TS3005b.B.dialog-act.vkaraisk.258	Yeah . 	
+TS3005b.A.dialog-act.vkaraisk.134	Yeah , 	
+TS3005b.A.dialog-act.vkaraisk.135	and then we have different languages . 	
+TS3005b.B.dialog-act.vkaraisk.259	Yeah , 	
+TS3005b.B.dialog-act.vkaraisk.260	that should be uh anything matters . 	
+TS3005b.C.dialog-act.vkaraisk.273	That's not so difficult at all , 	
+TS3005b.A.dialog-act.vkaraisk.136	Okay , 	
+TS3005b.C.dialog-act.vkaraisk.274	because I already use on several voice operated systems , 	
+TS3005b.A.dialog-act.vkaraisk.137	just make a separate remote for each uh 	
+TS3005b.C.dialog-act.vkaraisk.275	and they are all possible to uh not all , but 	
+TS3005b.B.dialog-act.vkaraisk.261	Well , 	
+TS3005b.B.dialog-act.vkaraisk.262	you sh you should to adjust the thing . 	
+TS3005b.D.dialog-act.vkaraisk.315	I think it's difficult . 	
+TS3005b.D.dialog-act.vkaraisk.316	Every language of dialects 	
+TS3005b.B.dialog-act.vkaraisk.263	Yeah . 	
+TS3005b.D.dialog-act.vkaraisk.317	I think it's very differen difficult . 	
+TS3005b.B.dialog-act.vkaraisk.264	And you have to speak the 	
+TS3005b.B.dialog-act.vkaraisk.265	so that it can understand . 	
+TS3005b.D.dialog-act.vkaraisk.318	Yeah . 	
+TS3005b.D.dialog-act.vkaraisk.319	I think it can't be implemented , 	
+TS3005b.D.dialog-act.vkaraisk.320	but maybe 	
+TS3005b.B.dialog-act.vkaraisk.266	You could use that n as an option , if you have money left , or something . 	
+TS3005b.D.dialog-act.vkaraisk.321	Yeah , 's an option , yes . 	
+TS3005b.C.dialog-act.vkaraisk.276	Yeah , sure , indeed . 	
+TS3005b.D.dialog-act.vkaraisk.322	Fifty Euro cents . 	
+TS3005b.B.dialog-act.vkaraisk.267	Yeah . 	
+TS3005b.C.dialog-act.vkaraisk.277		
+TS3005b.B.dialog-act.vkaraisk.268	Let's do speech . 	
+TS3005b.D.dialog-act.vkaraisk.323	Yeah . 	
+TS3005b.C.dialog-act.vkaraisk.278	For speech recognition . 	
+TS3005b.A.dialog-act.vkaraisk.138	Okay , 	
+TS3005b.A.dialog-act.vkaraisk.139	so we only do this when we have enough money left . 	
+TS3005b.B.dialog-act.vkaraisk.269	Yeah . 	
+TS3005b.A.dialog-act.vkaraisk.140	Okay . Well 	
+TS3005b.A.dialog-act.vkaraisk.143	I've written down an an on or off button , volume selection , channel selection , uh the digits from one to zero , huh . Um or from zero to nine . Uh a digits button to switch uh between one and two digits , mute button , a separate menu for teletext , a battery indicator . 	
+TS3005b.A.dialog-act.vkaraisk.142	Um we're going to use a docking station and uh probably L_C_D_ 	
+TS3005b.A.dialog-act.vkaraisk.144	and if there's enough money , speech recognition . 	
+TS3005b.B.dialog-act.vkaraisk.270	Mm . 	
+TS3005b.A.dialog-act.vkaraisk.145	And uh the possibility to uh enlarge buttons or to have large buttons 	
+TS3005b.D.dialog-act.vkaraisk.324	Mm , yes . 	
+TS3005b.B.dialog-act.vkaraisk.271	Yeah . 	
+TS3005b.B.dialog-act.vkaraisk.272	I 	
+TS3005b.A.dialog-act.vkaraisk.146	in general . 	
+TS3005b.B.dialog-act.vkaraisk.274	With uh teletext if it wasn't ver very important , 	
+TS3005b.D.dialog-act.vkaraisk.325	No , 	
+TS3005b.B.dialog-act.vkaraisk.275	it was but 	
+TS3005b.D.dialog-act.vkaraisk.326	but 	
+TS3005b.B.dialog-act.vkaraisk.273	You also now have colours . 	
+TS3005b.B.dialog-act.vkaraisk.276	I don't know if we should implement that . 	
+TS3005b.D.dialog-act.vkaraisk.327	Curved ? 	
+TS3005b.B.dialog-act.vkaraisk.277	Yeah , 	
+TS3005b.B.dialog-act.vkaraisk.278	when you press the red button , you go to page one hundred two , 	
+TS3005b.B.dialog-act.vkaraisk.279	and when you press the 	
+TS3005b.C.dialog-act.vkaraisk.279	Uh yeah . 	
+TS3005b.B.dialog-act.vkaraisk.280	I don't know if we should implement that , 	
+TS3005b.D.dialog-act.vkaraisk.328	Um . 	
+TS3005b.B.dialog-act.vkaraisk.281	because it says that teletext not really important , 	
+TS3005b.C.dialog-act.vkaraisk.280	S 	
+TS3005b.C.dialog-act.vkaraisk.281	Shortcuts . Uh . 	
+TS3005b.B.dialog-act.vkaraisk.282	but yeah , the shortcut , 	
+TS3005b.D.dialog-act.vkaraisk.329	I think we should we could that 	
+TS3005b.B.dialog-act.vkaraisk.283	and you can't go to sport . 	
+TS3005b.D.dialog-act.vkaraisk.330	we could also implement a audio settings , screen settings and channel settings , but as sub-menus . 	
+TS3005b.B.dialog-act.vkaraisk.284	Yeah . 	
+TS3005b.C.dialog-act.vkaraisk.284	Mm . 	
+TS3005b.D.dialog-act.vkaraisk.331	D 	
+TS3005b.D.dialog-act.vkaraisk.332	Mainly if you turn the uh remote control on , you have to u you have to see from one till zero , channel and volume . 	
+TS3005b.D.dialog-act.vkaraisk.333	And if you want to use teletext screen or audio , then you can press it . 	
+TS3005b.C.dialog-act.vkaraisk.285	Sh 	
+TS3005b.C.dialog-act.vkaraisk.286	Yeah , 	
+TS3005b.D.dialog-act.vkaraisk.334	It should be available 	
+TS3005b.C.dialog-act.vkaraisk.287	just 	
+TS3005b.C.dialog-act.vkaraisk.288	just sub-menu . Yeah . 	
+TS3005b.D.dialog-act.vkaraisk.335	but not 	
+TS3005b.B.dialog-act.vkaraisk.285	'Cause it should be there . 	
+TS3005b.C.dialog-act.vkaraisk.289	Not directly uh available . 	
+TS3005b.D.dialog-act.vkaraisk.336	not Yeah . 	
+TS3005b.D.dialog-act.vkaraisk.338	Yeah . 	
+TS3005b.C.dialog-act.vkaraisk.290	Okay . 	
+TS3005b.A.dialog-act.vkaraisk.147	Okay , 	
+TS3005b.A.dialog-act.vkaraisk.148	so not too much teletext support , but in a separate menu , 	
+TS3005b.A.dialog-act.vkaraisk.150	and 	
+TS3005b.D.dialog-act.vkaraisk.339	Yeah . 	
+TS3005b.C.dialog-act.vkaraisk.291	Mm . 	
+TS3005b.B.dialog-act.vkaraisk.286	So actually it is there but it's just not r ready there . 	
+TS3005b.D.dialog-act.vkaraisk.340	Yeah , 	
+TS3005b.D.dialog-act.vkaraisk.341	but s 	
+TS3005b.C.dialog-act.vkaraisk.292	Directly available . 	
+TS3005b.D.dialog-act.vkaraisk.342	Yeah . 	
+TS3005b.C.dialog-act.vkaraisk.293	So does it confuse uh the user ? 	
+TS3005b.B.dialog-act.vkaraisk.287	You'll have to search for it . 	
+TS3005b.D.dialog-act.vkaraisk.343	They'd have to be easy to use . 	
+TS3005b.C.dialog-act.vkaraisk.294	Uh . I'll search um . 	
+TS3005b.B.dialog-act.vkaraisk.288		
+TS3005b.C.dialog-act.vkaraisk.295	If you want to use teletext , you can push the teletext button and then the options uh become available . 	
+TS3005b.B.dialog-act.vkaraisk.289	Yeah . 	
+TS3005b.B.dialog-act.vkaraisk.290	Yeah , 	
+TS3005b.B.dialog-act.vkaraisk.291	that's a 	
+TS3005b.D.dialog-act.vkaraisk.344	The sign of it . 	
+TS3005b.A.dialog-act.vkaraisk.151	Okay , 	
+TS3005b.A.dialog-act.vkaraisk.152	but no more buttons or functions , 	
+TS3005b.A.dialog-act.vkaraisk.153	or ? 	
+TS3005b.D.dialog-act.vkaraisk.346	Uh , 	
+TS3005b.C.dialog-act.vkaraisk.296	No . 	
+TS3005b.B.dialog-act.vkaraisk.292	I guess not . 	
+TS3005b.D.dialog-act.vkaraisk.347	no . 	
+TS3005b.D.dialog-act.vkaraisk.345	What else can you do with a television ? 	
+TS3005b.B.dialog-act.vkaraisk.293	We've got anon 	
+TS3005b.A.dialog-act.vkaraisk.154	Aren't we forgetting something very important ? 	
+TS3005b.B.dialog-act.vkaraisk.294	Have got got two examples here , 	
+TS3005b.B.dialog-act.vkaraisk.295	but I don't think there's anything we're missing . 	
+TS3005b.D.dialog-act.vkaraisk.348	Uh 	
+TS3005b.D.dialog-act.vkaraisk.349	play , pause , doesn't n need to be there . 	
+TS3005b.B.dialog-act.vkaraisk.296	Well , 	
+TS3005b.B.dialog-act.vkaraisk.297	we don't have the video orders 	
+TS3005b.D.dialog-act.vkaraisk.350	Yes , 	
+TS3005b.D.dialog-act.vkaraisk.351	so 	
+TS3005b.D.dialog-act.vkaraisk.352	this is your presentation . 	
+TS3005b.D.dialog-act.vkaraisk.353	We could check the other remote controls with technical functions . 	
+TS3005b.B.dialog-act.vkaraisk.298	Yeah , 	
+TS3005b.B.dialog-act.vkaraisk.299	you could look here 	
+TS3005b.B.dialog-act.vkaraisk.300	all the the 	
+TS3005b.D.dialog-act.vkaraisk.354	Which ones were yours ? 	
+TS3005b.B.dialog-act.vkaraisk.301	Uh 	
+TS3005b.B.dialog-act.vkaraisk.302	th th th th 	
+TS3005b.B.dialog-act.vkaraisk.303	I don't know , 	
+TS3005b.B.dialog-act.vkaraisk.304	technical functions . 	
+TS3005b.D.dialog-act.vkaraisk.355	Techni 	
+TS3005b.B.dialog-act.vkaraisk.305	They're a bit small , you can we should stretch them , 	
+TS3005b.B.dialog-act.vkaraisk.306	because 	
+TS3005b.A.dialog-act.vkaraisk.155	Ping . 	
+TS3005b.D.dialog-act.vkaraisk.356	Ja ja ja ja ja . Technical functions . Yeah okay . 	
+TS3005b.B.dialog-act.vkaraisk.307	I guess we've got them all . 	
+TS3005b.D.dialog-act.vkaraisk.357	Uh I think I go to have volume , mute but I Yeah . Very slow . 	
+TS3005b.D.dialog-act.vkaraisk.358	Yeah , 	
+TS3005b.D.dialog-act.vkaraisk.359	the zoom buttons . 	
+TS3005b.B.dialog-act.vkaraisk.308	And for a T_V_ ? Can you zoom in a T_V_ ? 	
+TS3005b.D.dialog-act.vkaraisk.360	Yeah , 	
+TS3005b.D.dialog-act.vkaraisk.361	b 	
+TS3005b.D.dialog-act.vkaraisk.362	wide screen , high screen , different things you have , 	
+TS3005b.B.dialog-act.vkaraisk.309	Or that you can put 'em on uh on on wide and 	
+TS3005b.D.dialog-act.vkaraisk.363	yeah 	
+TS3005b.D.dialog-act.vkaraisk.364	different uh 	
+TS3005b.D.dialog-act.vkaraisk.365	Yeah . 	
+TS3005b.B.dialog-act.vkaraisk.310	yeah . 	
+TS3005b.B.dialog-act.vkaraisk.311	But that should also be a sub then , a sub uh menu thing . 	
+TS3005b.C.dialog-act.vkaraisk.297	Menu . 	
+TS3005b.D.dialog-act.vkaraisk.366	Yeah 	
+TS3005b.D.dialog-act.vkaraisk.367	it should be available , but then in separate screen settings or something . 	
+TS3005b.B.dialog-act.vkaraisk.313	Yeah , 	
+TS3005b.C.dialog-act.vkaraisk.298	Mm . 	
+TS3005b.B.dialog-act.vkaraisk.315	so we should also implement se screen settings . 	
+TS3005b.D.dialog-act.vkaraisk.368	Yeah , 	
+TS3005b.D.dialog-act.vkaraisk.369	screen settings , audio settings , teletext settings you have . 	
+TS3005b.B.dialog-act.vkaraisk.316	Oh right . 	
+TS3005b.B.dialog-act.vkaraisk.317	Yeah . 	
+TS3005b.D.dialog-act.vkaraisk.370	Channel settings . 	
+TS3005b.B.dialog-act.vkaraisk.318	Yeah , 	
+TS3005b.B.dialog-act.vkaraisk.319	so you can program the 	
+TS3005b.D.dialog-act.vkaraisk.371	So those four , and of course the main . 	
+TS3005b.B.dialog-act.vkaraisk.320	Yeah , 	
+TS3005b.B.dialog-act.vkaraisk.321	so the first you see the main , 	
+TS3005b.B.dialog-act.vkaraisk.322	and the other ones you can uh go to uh 	
+TS3005b.D.dialog-act.vkaraisk.372	Yeah . Yeah . 	
+TS3005b.D.dialog-act.vkaraisk.373	Like tap screens or something 	
+TS3005b.B.dialog-act.vkaraisk.323	Yeah . 	
+TS3005b.D.dialog-act.vkaraisk.374	or , I dunno . 	
+TS3005b.B.dialog-act.vkaraisk.324	I hope we can do this . 	
+TS3005b.D.dialog-act.vkaraisk.375	Something 	
+TS3005b.C.dialog-act.vkaraisk.299	There are a lot of options depending uh on what kind of television you got . 	
+TS3005b.D.dialog-act.vkaraisk.376	Yeah , 	
+TS3005b.D.dialog-act.vkaraisk.377	if uh 	
+TS3005b.C.dialog-act.vkaraisk.300	'Cause if you don't got a wide screen television you don't need the uh the screen settings 	
+TS3005b.D.dialog-act.vkaraisk.378	No , 	
+TS3005b.D.dialog-act.vkaraisk.379	you don't yu a no you then you don't no ni don't 	
+TS3005b.C.dialog-act.vkaraisk.301	uh for uh 	
+TS3005b.D.dialog-act.vkaraisk.380	then you don't use it . 	
+TS3005b.C.dialog-act.vkaraisk.302	Yeah 	
+TS3005b.C.dialog-act.vkaraisk.303	and if the television does not support such uh operations 	
+TS3005b.D.dialog-act.vkaraisk.381	Mm-hmm . 	
+TS3005b.B.dialog-act.vkaraisk.325	We don't have to use that top . Yeah . 	
+TS3005b.D.dialog-act.vkaraisk.382	Yeah . 	
+TS3005b.C.dialog-act.vkaraisk.304	Yeah . 	
+TS3005b.D.dialog-act.vkaraisk.383	So you leave it alone . 	
+TS3005b.C.dialog-act.vkaraisk.305	Yeah . 	
+TS3005b.D.dialog-act.vkaraisk.384	Yeah . 	
+TS3005b.D.dialog-act.vkaraisk.385	Or it could be possible to have a a standard version of the remote , an expanded version . 	
+TS3005b.B.dialog-act.vkaraisk.326	Yeah . 	
+TS3005b.B.dialog-act.vkaraisk.327	And do we want them in different colours , 	
+TS3005b.D.dialog-act.vkaraisk.386	Yeah . 	
+TS3005b.B.dialog-act.vkaraisk.328	or 	
+TS3005b.B.dialog-act.vkaraisk.329	And 	
+TS3005b.D.dialog-act.vkaraisk.387	Colours . Yeah . 	
+TS3005b.B.dialog-act.vkaraisk.330	and the buttons , should they have colours ? 	
+TS3005b.C.dialog-act.vkaraisk.306	Colours I think the main colour of the remote control is uh the colour of the L_C_D_ screen . 	
+TS3005b.B.dialog-act.vkaraisk.331	Oh 	
+TS3005b.B.dialog-act.vkaraisk.332	but we don't have any buttons . 	
+TS3005b.B.dialog-act.vkaraisk.333	Yeah . 	
+TS3005b.C.dialog-act.vkaraisk.307	I Because we don't want a lot a devi yeah a device self s g 	
+TS3005b.A.dialog-act.vkaraisk.156	Yeah . 	
+TS3005b.D.dialog-act.vkaraisk.389	Yeah , 	
+TS3005b.D.dialog-act.vkaraisk.390	then defines itself . 	
+TS3005b.D.dialog-act.vkaraisk.391	Because uh how many percent ? 	
+TS3005b.D.dialog-act.vkaraisk.392	Eighty percent ? 	
+TS3005b.B.dialog-act.vkaraisk.334	They think it's ugly , 	
+TS3005b.D.dialog-act.vkaraisk.393	Would spend more money if it looks fancy . 	
+TS3005b.B.dialog-act.vkaraisk.335	right ? 	
+TS3005b.C.dialog-act.vkaraisk.308	Okay , 	
+TS3005b.C.dialog-act.vkaraisk.309	so use uh very uh lot of peo 	
+TS3005b.B.dialog-act.vkaraisk.336	Perhaps you can uh make adjustable fronts , like with the telephones . 	
+TS3005b.C.dialog-act.vkaraisk.310	Adjust with phones , yes 	
+TS3005b.B.dialog-act.vkaraisk.337	You can uh But I don't think that uh 	
+TS3005b.C.dialog-act.vkaraisk.311	Okay . 	
+TS3005b.C.dialog-act.vkaraisk.312	Twelve Euro fifty . 	
+TS3005b.C.dialog-act.vkaraisk.313	Well , 	
+TS3005b.C.dialog-act.vkaraisk.314	make it available in different colours , you mean ? 	
+TS3005b.C.dialog-act.vkaraisk.315	Sure . 	
+TS3005b.B.dialog-act.vkaraisk.338	Yeah . 	
+TS3005b.D.dialog-act.vkaraisk.394	Yeah . 	
+TS3005b.C.dialog-act.vkaraisk.316	Red , white , blue , black . 	
+TS3005b.B.dialog-act.vkaraisk.339		
+TS3005b.D.dialog-act.vkaraisk.395	Rasta colours . 	
+TS3005b.A.dialog-act.vkaraisk.157	And a see-through uh 	
+TS3005b.C.dialog-act.vkaraisk.317	Grey . 	
+TS3005b.C.dialog-act.vkaraisk.318	Yeah sea view , yes , Simpson's versions and 	
+TS3005b.B.dialog-act.vkaraisk.340	Yeah . 	
+TS3005b.D.dialog-act.vkaraisk.396	Yeah , 	
+TS3005b.D.dialog-act.vkaraisk.397	see through version . Yeah . 	
+TS3005b.D.dialog-act.vkaraisk.398	If you press a button , it turns green . 	
+TS3005b.B.dialog-act.vkaraisk.341	Yeah . 	
+TS3005b.A.dialog-act.vkaraisk.158	Okay , well 	
+TS3005b.C.dialog-act.vkaraisk.319	Leave . 	
+TS3005b.B.dialog-act.vkaraisk.342	A disco version . 	
+TS3005b.A.dialog-act.vkaraisk.159	that's the 	
+TS3005b.B.dialog-act.vkaraisk.343	Five minutes ? 	
+TS3005b.A.dialog-act.vkaraisk.160	signal for las final five minutes . 	
+TS3005b.A.dialog-act.vkaraisk.161	Um so 	
+TS3005b.A.dialog-act.vkaraisk.162	I have uh the things I just read . 	
+TS3005b.A.dialog-act.vkaraisk.163	Um then we have uh separate menus for teletext , screen settings , audio settings , 	
+TS3005b.A.dialog-act.vkaraisk.164	and what else ? 	
+TS3005b.C.dialog-act.vkaraisk.320	Yeah . 	
+TS3005b.D.dialog-act.vkaraisk.399	Channel settings ? 	
+TS3005b.B.dialog-act.vkaraisk.344	Oh yeah , right . 	
+TS3005b.A.dialog-act.vkaraisk.165	Channel settings . 	
+TS3005b.B.dialog-act.vkaraisk.345	So you can program the T_V_ . 	
+TS3005b.D.dialog-act.vkaraisk.400	Yeah . 	
+TS3005b.A.dialog-act.vkaraisk.166	Okay . 	
+TS3005b.D.dialog-act.vkaraisk.401	Mm . 	
+TS3005b.B.dialog-act.vkaraisk.346	Perhaps you should you'd throw them on on in one pile . 	
+TS3005b.B.dialog-act.vkaraisk.347	So , options , and then you sub them . 	
+TS3005b.D.dialog-act.vkaraisk.402	Yeah . Could be possible . 	
+TS3005b.B.dialog-act.vkaraisk.348	Otherwise you have all those teletext , perhaps teletext not , 	
+TS3005b.C.dialog-act.vkaraisk.321	Mm . 	
+TS3005b.B.dialog-act.vkaraisk.349	but 	
+TS3005b.D.dialog-act.vkaraisk.403	Or like uh you have a menu button , you press 	
+TS3005b.A.dialog-act.vkaraisk.167	No , 	
+TS3005b.A.dialog-act.vkaraisk.168	we said teletext also a separate menu . 	
+TS3005b.D.dialog-act.vkaraisk.404	Yeah , 	
+TS3005b.D.dialog-act.vkaraisk.405	or otherwise you have a menu button , 	
+TS3005b.B.dialog-act.vkaraisk.350	Yeah , 	
+TS3005b.B.dialog-act.vkaraisk.351	but I 	
+TS3005b.D.dialog-act.vkaraisk.406	press menu 	
+TS3005b.D.dialog-act.vkaraisk.407	then you have uh main uh menu search uh all the all the settings . 	
+TS3005b.B.dialog-act.vkaraisk.352	Yeah . 	
+TS3005b.B.dialog-act.vkaraisk.353	Yeah . 	
+TS3005b.A.dialog-act.vkaraisk.169	Okay , 	
+TS3005b.B.dialog-act.vkaraisk.354	But 	
+TS3005b.A.dialog-act.vkaraisk.170	but we can work that out later , I guess . 	
+TS3005b.D.dialog-act.vkaraisk.408	Yeah , no problem . Yep . 	
+TS3005b.A.dialog-act.vkaraisk.171	So 	
+TS3005b.A.dialog-act.vkaraisk.172	we're having a a general menu with the most used functions , uh teletext , screen settings , audio settings , channel settings , 	
+TS3005b.A.dialog-act.vkaraisk.173	and maybe there are options for the remote itself ? Like uh large icons or small icons 	
+TS3005b.B.dialog-act.vkaraisk.355	I don't know . 	
+TS3005b.A.dialog-act.vkaraisk.174	and 	
+TS3005b.D.dialog-act.vkaraisk.409	Um , 	
+TS3005b.A.dialog-act.vkaraisk.175	I don't know what else , 	
+TS3005b.C.dialog-act.vkaraisk.322	No . 	
+TS3005b.A.dialog-act.vkaraisk.176	but 	
+TS3005b.D.dialog-act.vkaraisk.410	I think b 	
+TS3005b.D.dialog-act.vkaraisk.411	because we don't have a lot of buttons on the one screen , 	
+TS3005b.D.dialog-act.vkaraisk.412	I think the buttons 	
+TS3005b.B.dialog-act.vkaraisk.356	Or do we have any buttons ? On the remote . 	
+TS3005b.D.dialog-act.vkaraisk.413	Yeah , 	
+TS3005b.D.dialog-act.vkaraisk.414	but but or like you have 	
+TS3005b.B.dialog-act.vkaraisk.357	Which one ? 	
+TS3005b.D.dialog-act.vkaraisk.415	you only have channel button or volume button . 	
+TS3005b.D.dialog-act.vkaraisk.416	Those buttons you can you can 	
+TS3005b.B.dialog-act.vkaraisk.358	But that's also in the L_C_D_ , 	
+TS3005b.A.dialog-act.vkaraisk.177	Yeah , 	
+TS3005b.A.dialog-act.vkaraisk.178	but on the L_C_D_ , 	
+TS3005b.A.dialog-act.vkaraisk.179	huh ? 	
+TS3005b.B.dialog-act.vkaraisk.359	right ? 	
+TS3005b.D.dialog-act.vkaraisk.417	Yeah . 	
+TS3005b.A.dialog-act.vkaraisk.180	Right , yeah , okay . 	
+TS3005b.D.dialog-act.vkaraisk.418	Yeah , 	
+TS3005b.B.dialog-act.vkaraisk.360	So we don't have any normal buttons 	
+TS3005b.D.dialog-act.vkaraisk.419	th 	
+TS3005b.D.dialog-act.vkaraisk.420	No , no normal buttons , yeah . 	
+TS3005b.B.dialog-act.vkaraisk.361	that uh 	
+TS3005b.B.dialog-act.vkaraisk.362	No , alright . 	
+TS3005b.D.dialog-act.vkaraisk.421	Maybe only the on and o on and off button . 	
+TS3005b.B.dialog-act.vkaraisk.363	Yet on and off is p is perhaps you kno 	
+TS3005b.A.dialog-act.vkaraisk.181	But we don't need a special 	
+TS3005b.C.dialog-act.vkaraisk.323	Uh not button 	
+TS3005b.D.dialog-act.vkaraisk.422	But I don't think 	
+TS3005b.A.dialog-act.vkaraisk.182	we don't need a special options menu for the remote itself . 	
+TS3005b.D.dialog-act.vkaraisk.423	Mm , 	
+TS3005b.B.dialog-act.vkaraisk.364	No , no . 	
+TS3005b.D.dialog-act.vkaraisk.424	no . 	
+TS3005b.A.dialog-act.vkaraisk.183	Okay . 	
+TS3005b.B.dialog-act.vkaraisk.365	Oh well , 	
+TS3005b.B.dialog-act.vkaraisk.366	you should be able to set which T_V_ you have . 	
+TS3005b.B.dialog-act.vkaraisk.367	If you have if you have uh 	
+TS3005b.C.dialog-act.vkaraisk.324	Yeah sure , of course you need uh a settings button , uh or a settings option for the remote control . 	
+TS3005b.B.dialog-act.vkaraisk.368	Yeah . 	
+TS3005b.B.dialog-act.vkaraisk.369	But isn't idea to use uh uh what you said , uh normal on and off button for the T_V_ , 	
+TS3005b.D.dialog-act.vkaraisk.425	No no no , 	
+TS3005b.B.dialog-act.vkaraisk.370	that you don't have to use a 	
+TS3005b.D.dialog-act.vkaraisk.426	because we we discussed that you could charge it , 	
+TS3005b.D.dialog-act.vkaraisk.427	otherwise is it it jumps to stand-by mode automatically . 	
+TS3005b.B.dialog-act.vkaraisk.371	Yeah 	
+TS3005b.B.dialog-act.vkaraisk.372	but 	
+TS3005b.B.dialog-act.vkaraisk.373	but not for the remote but for the T_V_ , 	
+TS3005b.B.dialog-act.vkaraisk.374	that you use 	
+TS3005b.D.dialog-act.vkaraisk.428	Yeah , 	
+TS3005b.D.dialog-act.vkaraisk.429	but a T_V_ of course , th that's the I think that's a best thing is that to implement that one in the menu with the volume and channel . 	
+TS3005b.B.dialog-act.vkaraisk.375	But a not as normal button , in the L_C_D_ , 	
+TS3005b.D.dialog-act.vkaraisk.430	No . 	
+TS3005b.B.dialog-act.vkaraisk.376	yeah . 	
+TS3005b.A.dialog-act.vkaraisk.184	Well 	
+TS3005b.A.dialog-act.vkaraisk.185	maybe there should be a separate button apart from the L_C_D_ , 	
+TS3005b.A.dialog-act.vkaraisk.186	because you can't turn it on when the L_C_D_ is off . 	
+TS3005b.A.dialog-act.vkaraisk.187	So how do you turn the thing on ? 	
+TS3005b.A.dialog-act.vkaraisk.188	There has to be a on button on the remote , 	
+TS3005b.B.dialog-act.vkaraisk.377	No 	
+TS3005b.B.dialog-act.vkaraisk.378	you just tap I think . 	
+TS3005b.D.dialog-act.vkaraisk.431	Yeah , you tap . 	
+TS3005b.C.dialog-act.vkaraisk.325	Just tap it . 	
+TS3005b.A.dialog-act.vkaraisk.189	huh ? 	
+TS3005b.D.dialog-act.vkaraisk.432	Touch screen , 	
+TS3005b.A.dialog-act.vkaraisk.190	Tap the thing . Okay . 	
+TS3005b.D.dialog-act.vkaraisk.433	yeah 	
+TS3005b.D.dialog-act.vkaraisk.434	then it's turn turn off , turn on . 	
+TS3005b.A.dialog-act.vkaraisk.191	And then the television is on also , 	
+TS3005b.A.dialog-act.vkaraisk.192	or just the remote ? 	
+TS3005b.D.dialog-act.vkaraisk.435	No , 	
+TS3005b.D.dialog-act.vkaraisk.436	just the remote . 	
+TS3005b.D.dialog-act.vkaraisk.437	A television don't have to be on , 	
+TS3005b.B.dialog-act.vkaraisk.379	But 	
+TS3005b.D.dialog-act.vkaraisk.438	that one you can press on , 	
+TS3005b.C.dialog-act.vkaraisk.326	Yeah , 	
+TS3005b.C.dialog-act.vkaraisk.327	it should be in standby mode , 	
+TS3005b.D.dialog-act.vkaraisk.439	yeah stand-by , 	
+TS3005b.C.dialog-act.vkaraisk.328	but 	
+TS3005b.D.dialog-act.vkaraisk.440	then press on remote , 	
+TS3005b.D.dialog-act.vkaraisk.441	press on 	
+TS3005b.D.dialog-act.vkaraisk.442	and then T_V_ should be available . Or not . 	
+TS3005b.B.dialog-act.vkaraisk.380	Yeah a yeah . 	
+TS3005b.B.dialog-act.vkaraisk.381	I don't know whether it's handy to have a n a normal on button , a r just uh rubber uh for for T_V_ , 	
+TS3005b.D.dialog-act.vkaraisk.443	Separate . 	
+TS3005b.B.dialog-act.vkaraisk.382	so you can turn it on 	
+TS3005b.B.dialog-act.vkaraisk.383	and then you can choose the channel . 	
+TS3005b.B.dialog-act.vkaraisk.384	Otherwise you I don't know whether or not that's 	
+TS3005b.C.dialog-act.vkaraisk.329	A A 	
+TS3005b.C.dialog-act.vkaraisk.330	A normal button on the remote control , 	
+TS3005b.B.dialog-act.vkaraisk.385	Yeah , yeah . 	
+TS3005b.C.dialog-act.vkaraisk.331	or norm ? 	
+TS3005b.B.dialog-act.vkaraisk.386	To turn it on . 	
+TS3005b.B.dialog-act.vkaraisk.387	Of 	
+TS3005b.B.dialog-act.vkaraisk.388	or you should put it in the L_C_D_ screen . 	
+TS3005b.C.dialog-act.vkaraisk.332	Yeah , 	
+TS3005b.C.dialog-act.vkaraisk.333	because uh when you touch the L_C_D_ screen when it is in standby mode , it should pop on . 	
+TS3005b.B.dialog-act.vkaraisk.389	Yeah , 	
+TS3005b.B.dialog-act.vkaraisk.390	I have , 	
+TS3005b.B.dialog-act.vkaraisk.391	yeah . 	
+TS3005b.A.dialog-act.vkaraisk.193	Okay , well 	
+TS3005b.C.dialog-act.vkaraisk.334	Wh uh 	
+TS3005b.C.dialog-act.vkaraisk.335	why would it be a a need to have a normal button ? 	
+TS3005b.B.dialog-act.vkaraisk.392	Well 	
+TS3005b.B.dialog-act.vkaraisk.393	I 	
+TS3005b.B.dialog-act.vkaraisk.394	I guess if you use the L_C_D_ screen , you first have to search where is the on button , 	
+TS3005b.B.dialog-act.vkaraisk.395	then you uh you you 	
+TS3005b.B.dialog-act.vkaraisk.396	then turn it , 	
+TS3005b.B.dialog-act.vkaraisk.397	and then the T_V_ goes on . 	
+TS3005b.B.dialog-act.vkaraisk.398	But if you have a normal on button on the on the remote , then you do the on , 	
+TS3005b.B.dialog-act.vkaraisk.399	and then you search the channel which you want . 	
+TS3005b.D.dialog-act.vkaraisk.444	Yeah , 	
+TS3005b.D.dialog-act.vkaraisk.445	but I think the re the remote control , if you press tap the screen , it always should jump to the screen which has the volume button , channel button , and of course of also the on and off button . 	
+TS3005b.C.dialog-act.vkaraisk.336	Mm . 	
+TS3005b.B.dialog-act.vkaraisk.400	Oh right . 	
+TS3005b.C.dialog-act.vkaraisk.337	I think it looks a lot more fancy if you use uh if you don't have any buttons on the s on on remote control . 	
+TS3005b.B.dialog-act.vkaraisk.401	Yeah , I think so too . 	
+TS3005b.B.dialog-act.vkaraisk.402	Otherwise y wet e k Yeah . 	
+TS3005b.A.dialog-act.vkaraisk.194	Yeah . 	
+TS3005b.D.dialog-act.vkaraisk.446	Yeah . 	
+TS3005b.A.dialog-act.vkaraisk.195	So actually we're going to create a a button-less uh remote . No buttons at all . 	
+TS3005b.B.dialog-act.vkaraisk.403	Yeah . 	
+TS3005b.A.dialog-act.vkaraisk.196	Okay , well 	
+TS3005b.A.dialog-act.vkaraisk.197	that's might be a unique selling point , huh for a remote . 	
+TS3005b.D.dialog-act.vkaraisk.447	Mm-hmm . 	
+TS3005b.B.dialog-act.vkaraisk.404	If we can afford it . 	
+TS3005b.A.dialog-act.vkaraisk.198	Okay , well 	
+TS3005b.D.dialog-act.vkaraisk.448	Yeah , if we can afford it . Yeah . 	
+TS3005b.A.dialog-act.vkaraisk.199	I guess we have to 	
+TS3005b.C.dialog-act.vkaraisk.338	Oh , okay 	
+TS3005b.A.dialog-act.vkaraisk.200	postpone further discussion to uh our next meeting , 	
+TS3005b.A.dialog-act.vkaraisk.201	because we're running out of time . 	
+TS3005b.A.dialog-act.vkaraisk.202	Um 	
+TS3005b.A.dialog-act.vkaraisk.203	for now , we're having a lunch break , 	
+TS3005b.C.dialog-act.vkaraisk.339	Oh . 	
+TS3005b.A.dialog-act.vkaraisk.204	and then there will be uh half an hour for the uh next share of individual work . 	
+TS3005b.A.dialog-act.vkaraisk.205	I will uh write uh minutes , if I can create them out of this . 	
+TS3005b.B.dialog-act.vkaraisk.405		
+TS3005b.A.dialog-act.vkaraisk.206	And uh put them in the the project documents uh folder . 	
+TS3005b.C.dialog-act.vkaraisk.340	Mm . 	
+TS3005b.A.dialog-act.vkaraisk.207	And here are the individual actions for the for the other roles . 	
+TS3005b.A.dialog-act.vkaraisk.208	And of course specific instructions will be sent to you again by your uh personal coach . 	
+TS3005b.B.dialog-act.vkaraisk.406	Alright . 	
+TS3005b.A.dialog-act.vkaraisk.209	Luckily as we are . 	
+TS3005b.B.dialog-act.vkaraisk.407		
+TS3005b.A.dialog-act.vkaraisk.210	Okay , well 	
+TS3005b.A.dialog-act.vkaraisk.211	thank you very much , for now , 	
+TS3005b.D.dialog-act.vkaraisk.449	Mm-hmm . 	
+TS3005b.A.dialog-act.vkaraisk.212	and uh have a nice lunch , huh ? 	
+TS3005b.B.dialog-act.vkaraisk.408	Lunch . 	
+TS3005b.C.dialog-act.vkaraisk.341	Okay . 	
+TS3005b.B.dialog-act.vkaraisk.409		
+TS3005b.C.dialog-act.vkaraisk.342	Food . 	
+TS3005b.B.dialog-act.vkaraisk.410	Should we put this back in our rooms , 	
+TS3005b.B.dialog-act.vkaraisk.412	or uh ? 	
+TS3005b.C.dialog-act.vkaraisk.343	Yeah , think so . 	
+TS3005b.B.dialog-act.vkaraisk.411	Yeah . 	
+

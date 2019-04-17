@@ -1,0 +1,643 @@
+Observation: IS1008b; Result size: 640; atts: 2
+$d@nite:id	$d	
+IS1008b.A.dialog-act.vkaraisk.1	Okay uh 	
+IS1008b.A.dialog-act.vkaraisk.2	Agnes , you can help me for the slide when 	
+IS1008b.C.dialog-act.vkaraisk.2	Yep . 	
+IS1008b.C.dialog-act.vkaraisk.1	Sure . 	
+IS1008b.A.dialog-act.vkaraisk.4	okay . 	
+IS1008b.A.dialog-act.vkaraisk.5	Okay , 	
+IS1008b.A.dialog-act.vkaraisk.6	welcome back . 	
+IS1008b.A.dialog-act.vkaraisk.7	I hope uh you have a fresh head and a fresh time . 	
+IS1008b.A.dialog-act.vkaraisk.8	How t now the meeting 	
+IS1008b.A.dialog-act.vkaraisk.9	actually we gathering here to discuss about the functional design meeting . 	
+IS1008b.A.dialog-act.vkaraisk.10	Okay , 	
+IS1008b.A.dialog-act.vkaraisk.11	and uh we'll issue some information from uh all of you . 	
+IS1008b.A.dialog-act.vkaraisk.12	And it's in the , I think uh , in the sharing folder . 	
+IS1008b.A.dialog-act.vkaraisk.13	And uh I will invite uh the Christine and the Ed and uh Agnes to discuss about on the various subjects . 	
+IS1008b.A.dialog-act.vkaraisk.14	So 	
+IS1008b.A.dialog-act.vkaraisk.15	can you go to the next slide ? 	
+IS1008b.A.dialog-act.vkaraisk.16	Yeah uh 	
+IS1008b.A.dialog-act.vkaraisk.17	the agenda of the meeting is opening . 	
+IS1008b.A.dialog-act.vkaraisk.18	Then uh I'm going to talk about uh the project management , 	
+IS1008b.A.dialog-act.vkaraisk.19	what I'm going to do , 	
+IS1008b.A.dialog-act.vkaraisk.20	and uh , of course , I'm doing the project management and secretary both , 	
+IS1008b.A.dialog-act.vkaraisk.21	okay , 	
+IS1008b.A.dialog-act.vkaraisk.22	to take the minutes of the meeting . 	
+IS1008b.A.dialog-act.vkaraisk.23	And there are three presentations . 	
+IS1008b.A.dialog-act.vkaraisk.24	One is uh new project requirements . 	
+IS1008b.A.dialog-act.vkaraisk.25	And the second one about uh decision on remote control functions . 	
+IS1008b.A.dialog-act.vkaraisk.26	And uh finally we are closing . 	
+IS1008b.A.dialog-act.vkaraisk.27	Uh and the meeting time will be uh forty minutes , 	
+IS1008b.A.dialog-act.vkaraisk.28	so you have to be very quick . 	
+IS1008b.A.dialog-act.vkaraisk.29	And I have come up with the 	
+IS1008b.A.dialog-act.vkaraisk.30	management come with the new proposal , 	
+IS1008b.A.dialog-act.vkaraisk.31	okay , 	
+IS1008b.A.dialog-act.vkaraisk.32	and I have to discuss a few points on this . 	
+IS1008b.A.dialog-act.vkaraisk.33	Uh both says new insights in the aim of your project . 	
+IS1008b.A.dialog-act.vkaraisk.34	Uh the one is uh the teletext becomes uh outmoded , okay because if uh because of the computer systems and the new technology . 	
+IS1008b.A.dialog-act.vkaraisk.36	So 	
+IS1008b.A.dialog-act.vkaraisk.37	we don't need to consider really about the teletext all in our new project design . 	
+IS1008b.A.dialog-act.vkaraisk.38	And the second one is about uh the remote control . 	
+IS1008b.A.dialog-act.vkaraisk.39	Should be used only for the T_V_ . 	
+IS1008b.A.dialog-act.vkaraisk.40	That's what our uh management says . 	
+IS1008b.A.dialog-act.vkaraisk.41	And the third point , it's very very important to establish our uh marketing or uh corporate image , okay , with this new project or new product . 	
+IS1008b.A.dialog-act.vkaraisk.42	Okay . 	
+IS1008b.A.dialog-act.vkaraisk.43	So 	
+IS1008b.A.dialog-act.vkaraisk.44	I will invite uh 	
+IS1008b.A.dialog-act.vkaraisk.45	Agnes , can you go to the third slide ? 	
+IS1008b.C.dialog-act.vkaraisk.3	No , 	
+IS1008b.C.dialog-act.vkaraisk.4	this is the third slide . 	
+IS1008b.A.dialog-act.vkaraisk.46	Okay , . 	
+IS1008b.A.dialog-act.vkaraisk.47	So , 	
+IS1008b.A.dialog-act.vkaraisk.48	I'll invite uh Christine to discuss about uh the functional design . 	
+IS1008b.B.dialog-act.vkaraisk.1	'Kay , 	
+IS1008b.B.dialog-act.vkaraisk.2	do you wanna open the 	
+IS1008b.C.dialog-act.vkaraisk.5	Sure . 	
+IS1008b.C.dialog-act.vkaraisk.6	Um . You're participant 	
+IS1008b.C.dialog-act.vkaraisk.7	s 	
+IS1008b.B.dialog-act.vkaraisk.3	I'm number two . 	
+IS1008b.C.dialog-act.vkaraisk.8	Two ? 	
+IS1008b.A.dialog-act.vkaraisk.49		
+IS1008b.B.dialog-act.vkaraisk.4	That's it . 	
+IS1008b.C.dialog-act.vkaraisk.9	Do you want the mouse , 	
+IS1008b.C.dialog-act.vkaraisk.10	or do you want me to 	
+IS1008b.B.dialog-act.vkaraisk.5	I'll do the notes . 	
+IS1008b.B.dialog-act.vkaraisk.6	Yeah , 	
+IS1008b.B.dialog-act.vkaraisk.7	thanks . 	
+IS1008b.A.dialog-act.vkaraisk.50		
+IS1008b.B.dialog-act.vkaraisk.8	So um well 	
+IS1008b.B.dialog-act.vkaraisk.9	I I figured uh we should um identify some user requirements , 	
+IS1008b.B.dialog-act.vkaraisk.11	and from my experience , I wanna uh , and from research I did , uh the the device has to turn the television on and off the first time you press on the big button , 	
+IS1008b.B.dialog-act.vkaraisk.12	you can't uh can't have like uh waffling on this point , you know . 	
+IS1008b.A.dialog-act.vkaraisk.51		
+IS1008b.B.dialog-act.vkaraisk.10	Really have 	
+IS1008b.B.dialog-act.vkaraisk.13	It needs to be able 	
+IS1008b.B.dialog-act.vkaraisk.14	y y have to be able to find it . 	
+IS1008b.B.dialog-act.vkaraisk.15	Because one of the biggest problems with remote controls is finding them . 	
+IS1008b.B.dialog-act.vkaraisk.16	So uh , 	
+IS1008b.B.dialog-act.vkaraisk.18	I also , 	
+IS1008b.B.dialog-act.vkaraisk.17	since we have to establish our corporate image on the basis of this new product , 	
+IS1008b.B.dialog-act.vkaraisk.20	thought we better look at things that are popular 	
+IS1008b.B.dialog-act.vkaraisk.21	and um ex go beyond those , 	
+IS1008b.B.dialog-act.vkaraisk.19	and , as I said in the first meeting , 	
+IS1008b.B.dialog-act.vkaraisk.22	um and then uh we might wanna talk eventually about the materials that are appropriate to use in uh in the construction , especially in the the uh the outside of the product 	
+IS1008b.A.dialog-act.vkaraisk.52		
+IS1008b.B.dialog-act.vkaraisk.24	so that it gives the appearance , 	
+IS1008b.B.dialog-act.vkaraisk.23	and it is reliable , and so forth . 	
+IS1008b.B.dialog-act.vkaraisk.25	I did a little history on uh the the uh remote controls 	
+IS1008b.B.dialog-act.vkaraisk.26	and when they were invented and so forth , 	
+IS1008b.B.dialog-act.vkaraisk.27	so , 	
+IS1008b.B.dialog-act.vkaraisk.28	I guess this guy Zenith uh created the Flashmatic , 	
+IS1008b.B.dialog-act.vkaraisk.29	which I kinda like the idea , 	
+IS1008b.B.dialog-act.vkaraisk.30	'cause it made me think of um um maybe the remote control made a big flash when uh you turn the T_V_ on and off , 	
+IS1008b.B.dialog-act.vkaraisk.31	that might be interesting . 	
+IS1008b.B.dialog-act.vkaraisk.32	And um so 	
+IS1008b.B.dialog-act.vkaraisk.33	it was highly directional flash light 	
+IS1008b.B.dialog-act.vkaraisk.34	that uh you could turn the picture on and off , 	
+IS1008b.B.dialog-act.vkaraisk.35	and the sound on and off , 	
+IS1008b.B.dialog-act.vkaraisk.36	and change channels 	
+IS1008b.B.dialog-act.vkaraisk.37	c 	
+IS1008b.B.dialog-act.vkaraisk.38	so I think um those are still requirements we have today , uh fifty years later . 	
+IS1008b.A.dialog-act.vkaraisk.53		
+IS1008b.C.dialog-act.vkaraisk.11	Mm-hmm . 	
+IS1008b.B.dialog-act.vkaraisk.39	And uh it was really a pioneering innovation , 	
+IS1008b.B.dialog-act.vkaraisk.40	but it was uh sensitive to the sun , 	
+IS1008b.B.dialog-act.vkaraisk.41	so that uh it would get would start off by the you'd get 	
+IS1008b.B.dialog-act.vkaraisk.42	it would easily cause um problems . 	
+IS1008b.B.dialog-act.vkaraisk.43	So , uh 	
+IS1008b.B.dialog-act.vkaraisk.44	I in addition to uh looking at the um uh the functional requir 	
+IS1008b.B.dialog-act.vkaraisk.45	so 	
+IS1008b.B.dialog-act.vkaraisk.46	all these devices are examples of where uh mm they represent examples that are available today 	
+IS1008b.B.dialog-act.vkaraisk.47	which I think the one in the middle is r um really uh something to keep in mind . 	
+IS1008b.D.dialog-act.vkaraisk.1	Fantastic . 	
+IS1008b.C.dialog-act.vkaraisk.12		
+IS1008b.B.dialog-act.vkaraisk.48	It'd be easy to find . 	
+IS1008b.B.dialog-act.vkaraisk.49	And um it would uh y you'd 	
+IS1008b.B.dialog-act.vkaraisk.50	you could throw it at things 	
+IS1008b.B.dialog-act.vkaraisk.51	if if the T_V_ didn't turn on and off , you could use it for something else . 	
+IS1008b.B.dialog-act.vkaraisk.52	And since I'm not really um Industrial Designer , 	
+IS1008b.B.dialog-act.vkaraisk.53	I didn't really know what to do with this slide . 	
+IS1008b.B.dialog-act.vkaraisk.54	But um I just took some different uh schematics 	
+IS1008b.B.dialog-act.vkaraisk.55	and I put them into this , 	
+IS1008b.B.dialog-act.vkaraisk.56	and I guess this is what a slide might look like if you were drawing a circuit board . 	
+IS1008b.B.dialog-act.vkaraisk.57	I don't know why um we were asked to do this . 	
+IS1008b.B.dialog-act.vkaraisk.58	So , uh 	
+IS1008b.B.dialog-act.vkaraisk.59	personal preferences , um 	
+IS1008b.C.dialog-act.vkaraisk.13		
+IS1008b.B.dialog-act.vkaraisk.60	I think we could 	
+IS1008b.B.dialog-act.vkaraisk.61	uh I I'm really thinking outside the box here , 	
+IS1008b.B.dialog-act.vkaraisk.62	and I think that we should consider perhaps having an an an a a size uh a remote control that changes in size depending on the user preference . 	
+IS1008b.C.dialog-act.vkaraisk.14		
+IS1008b.B.dialog-act.vkaraisk.63	So something that's very very flexible and inflatable 	
+IS1008b.B.dialog-act.vkaraisk.64	and then you could shrink it . 	
+IS1008b.B.dialog-act.vkaraisk.65	I think um it could either be you could go either one extreme , 	
+IS1008b.B.dialog-act.vkaraisk.66	be very colourful , 	
+IS1008b.B.dialog-act.vkaraisk.67	or you could make it clear , 	
+IS1008b.B.dialog-act.vkaraisk.68	and um kind of blend in with things , 	
+IS1008b.B.dialog-act.vkaraisk.69	so you didn't have to um uh have a problem with the th the decoration of the of the user's home . 	
+IS1008b.B.dialog-act.vkaraisk.70	Um I think uh it needs to be waterproof , 	
+IS1008b.B.dialog-act.vkaraisk.71	because uh sometimes they fall into cups 	
+IS1008b.B.dialog-act.vkaraisk.72	and , you know , 	
+IS1008b.A.dialog-act.vkaraisk.54		
+IS1008b.B.dialog-act.vkaraisk.73	it might be out by the swimming pool or something like that . 	
+IS1008b.B.dialog-act.vkaraisk.74	Um 	
+IS1008b.B.dialog-act.vkaraisk.75	if you uh mi one of 	
+IS1008b.B.dialog-act.vkaraisk.76	one of my requirements was about needs t to tell you when it's done its job or not , 	
+IS1008b.B.dialog-act.vkaraisk.77	because half the time , I keep pushing on the remote control , 	
+IS1008b.B.dialog-act.vkaraisk.78	and I don't know if it's actually understood my message , 	
+IS1008b.B.dialog-act.vkaraisk.79	so I think it should give you some sort of an oral cue . 	
+IS1008b.B.dialog-act.vkaraisk.80	And uh , course I never wanna replace the battery . 	
+IS1008b.D.dialog-act.vkaraisk.2		
+IS1008b.B.dialog-act.vkaraisk.81	So , 	
+IS1008b.B.dialog-act.vkaraisk.82	that's 	
+IS1008b.B.dialog-act.vkaraisk.83	those are my f preferences , 	
+IS1008b.B.dialog-act.vkaraisk.84	and that's my presentation . 	
+IS1008b.A.dialog-act.vkaraisk.55	Yeah , 	
+IS1008b.A.dialog-act.vkaraisk.56	let me uh interrupt you uh 	
+IS1008b.A.dialog-act.vkaraisk.57	if you can add other facility , other feature , like uh unbreakable . 	
+IS1008b.B.dialog-act.vkaraisk.85	Yes . 	
+IS1008b.A.dialog-act.vkaraisk.58	Okay , 	
+IS1008b.A.dialog-act.vkaraisk.59	because uh especially today , you know , you have the family and the kids , 	
+IS1008b.C.dialog-act.vkaraisk.15		
+IS1008b.A.dialog-act.vkaraisk.60	okay , 	
+IS1008b.A.dialog-act.vkaraisk.61	and the kids throw it 	
+IS1008b.A.dialog-act.vkaraisk.62	and they they play with their remotes 	
+IS1008b.B.dialog-act.vkaraisk.86	Run over it with a car . 	
+IS1008b.A.dialog-act.vkaraisk.63	and . 	
+IS1008b.A.dialog-act.vkaraisk.64	Yes . 	
+IS1008b.A.dialog-act.vkaraisk.65	Okay , so 	
+IS1008b.A.dialog-act.vkaraisk.66	if you can add the feature , okay , for your uh fabric whatever in your outline design okay , with unbreakable , 	
+IS1008b.A.dialog-act.vkaraisk.67	okay , 	
+IS1008b.A.dialog-act.vkaraisk.68	I think that will give a lot of advantage for our product , 	
+IS1008b.B.dialog-act.vkaraisk.87	Good idea . Good idea , 	
+IS1008b.A.dialog-act.vkaraisk.69	if I'm not wrong . Maybe you can uh add it in that . 	
+IS1008b.B.dialog-act.vkaraisk.88	I'll I'll uh um 	
+IS1008b.B.dialog-act.vkaraisk.89	Yes , 	
+IS1008b.B.dialog-act.vkaraisk.90	very good . 	
+IS1008b.A.dialog-act.vkaraisk.70	Okay , uh 	
+IS1008b.A.dialog-act.vkaraisk.71	thank you Christine , 	
+IS1008b.A.dialog-act.vkaraisk.72	and uh uh any questions or uh clarifications , or any discussion on the functional design ? 	
+IS1008b.C.dialog-act.vkaraisk.16	Do you have any preconceived ideas in terms of materials ? 	
+IS1008b.C.dialog-act.vkaraisk.17	'Cause , for example , in the unbreakable thing , doing something plastic would be harder , 	
+IS1008b.C.dialog-act.vkaraisk.18	whereas having something like , I dunno , steel or titanium isn't really economically viable . 	
+IS1008b.B.dialog-act.vkaraisk.91	Hmm . 	
+IS1008b.B.dialog-act.vkaraisk.92	Titanium . 	
+IS1008b.B.dialog-act.vkaraisk.93	Titanium would be be heavy , too , 	
+IS1008b.D.dialog-act.vkaraisk.3	Titanium . 	
+IS1008b.B.dialog-act.vkaraisk.94	wouldn't it ? 	
+IS1008b.C.dialog-act.vkaraisk.19	Yeah . 	
+IS1008b.B.dialog-act.vkaraisk.95	No , I haven't really 	
+IS1008b.B.dialog-act.vkaraisk.96	um I wanted feedback , 	
+IS1008b.B.dialog-act.vkaraisk.97	I think we need to rate rank these , 	
+IS1008b.C.dialog-act.vkaraisk.20	Yeah . 	
+IS1008b.B.dialog-act.vkaraisk.98	but we'll see what your uh personal preferences are and your thoughts . 	
+IS1008b.C.dialog-act.vkaraisk.21	Sure , yeah . 	
+IS1008b.C.dialog-act.vkaraisk.22	No , 	
+IS1008b.C.dialog-act.vkaraisk.23	I just wondering whether that you had any sort of 	
+IS1008b.B.dialog-act.vkaraisk.99	I like titanium . 	
+IS1008b.B.dialog-act.vkaraisk.100	It's light . 	
+IS1008b.C.dialog-act.vkaraisk.24	Yeah . 	
+IS1008b.D.dialog-act.vkaraisk.4	Expensive . 	
+IS1008b.B.dialog-act.vkaraisk.101	Uh yeah 	
+IS1008b.C.dialog-act.vkaraisk.25	The marketing comes out . 	
+IS1008b.B.dialog-act.vkaraisk.102	but uh who who said who said we were , 	
+IS1008b.D.dialog-act.vkaraisk.5		
+IS1008b.A.dialog-act.vkaraisk.73	Yes . 	
+IS1008b.B.dialog-act.vkaraisk.103	you know , 	
+IS1008b.B.dialog-act.vkaraisk.104	nobody told me how mu what our financial objective is , so um 	
+IS1008b.A.dialog-act.vkaraisk.74		
+IS1008b.A.dialog-act.vkaraisk.75	Yeah so 	
+IS1008b.B.dialog-act.vkaraisk.105	It'd be hard to inflate something ou made out of titanium though . 	
+IS1008b.A.dialog-act.vkaraisk.76	Yeah 	
+IS1008b.A.dialog-act.vkaraisk.77	the the 	
+IS1008b.A.dialog-act.vkaraisk.78	I'm sorry 	
+IS1008b.C.dialog-act.vkaraisk.26		
+IS1008b.D.dialog-act.vkaraisk.6		
+IS1008b.A.dialog-act.vkaraisk.79	because uh the last meeting we supposed to discuss about the financial thing . 	
+IS1008b.A.dialog-act.vkaraisk.80	Uh let me go quickly , maybe if I can go back . 	
+IS1008b.A.dialog-act.vkaraisk.81	I know the project plan and the budget . 	
+IS1008b.A.dialog-act.vkaraisk.82	So I can close this , not sure . 	
+IS1008b.A.dialog-act.vkaraisk.83	Was in uh S This . 	
+IS1008b.A.dialog-act.vkaraisk.84	So let me see where is this file . 	
+IS1008b.C.dialog-act.vkaraisk.27	That's Christine's . 	
+IS1008b.A.dialog-act.vkaraisk.85	This is Christine . 	
+IS1008b.C.dialog-act.vkaraisk.28	And that's mine , I think . 	
+IS1008b.A.dialog-act.vkaraisk.86	That's yours , okay . 	
+IS1008b.A.dialog-act.vkaraisk.87	Saving . 	
+IS1008b.D.dialog-act.vkaraisk.7		
+IS1008b.C.dialog-act.vkaraisk.29	In modified . 	
+IS1008b.D.dialog-act.vkaraisk.9	I don't know , 	
+IS1008b.D.dialog-act.vkaraisk.8	I think verbally we can we can pretty much sell . 	
+IS1008b.A.dialog-act.vkaraisk.88	Okay , uh 	
+IS1008b.A.dialog-act.vkaraisk.89	I will I will send you a mail , 	
+IS1008b.A.dialog-act.vkaraisk.90	okay ? 	
+IS1008b.A.dialog-act.vkaraisk.91	The project may be the the project aim , 	
+IS1008b.A.dialog-act.vkaraisk.92	okay . 	
+IS1008b.A.dialog-act.vkaraisk.93	At the end of the day , the company uh wants to make at least uh the fifty million Euro . 	
+IS1008b.A.dialog-act.vkaraisk.94	Okay , 	
+IS1008b.A.dialog-act.vkaraisk.95	and uh of course the price will be very reasonable on the the sales side . 	
+IS1008b.A.dialog-act.vkaraisk.96	Okay , 	
+IS1008b.A.dialog-act.vkaraisk.97	that maybe Eddie will talk to you about uh how much uh the price 	
+IS1008b.A.dialog-act.vkaraisk.98	and uh what's uh 	
+IS1008b.A.dialog-act.vkaraisk.99	how much its cost for the manufacturing 	
+IS1008b.A.dialog-act.vkaraisk.100	and how much it's going to be we sell in the market . 	
+IS1008b.A.dialog-act.vkaraisk.101	Okay . 	
+IS1008b.A.dialog-act.vkaraisk.102	Then uh you can come back with your feedback . 	
+IS1008b.A.dialog-act.vkaraisk.103	And I I have one maybe the suggestion or opinion . 	
+IS1008b.A.dialog-act.vkaraisk.104	This remote control , okay , it can be for like universal , to use for any T_V_ . 	
+IS1008b.A.dialog-act.vkaraisk.105	Okay , 	
+IS1008b.A.dialog-act.vkaraisk.106	and it will be slim , 	
+IS1008b.A.dialog-act.vkaraisk.107	okay , 	
+IS1008b.B.dialog-act.vkaraisk.106	Not fat ? 	
+IS1008b.A.dialog-act.vkaraisk.108	and uh 	
+IS1008b.A.dialog-act.vkaraisk.109	Not fat . 	
+IS1008b.B.dialog-act.vkaraisk.107	Not fat , huh . 	
+IS1008b.A.dialog-act.vkaraisk.110	Okay . 	
+IS1008b.B.dialog-act.vkaraisk.108		
+IS1008b.B.dialog-act.vkaraisk.109	Might be hard to find , though . 	
+IS1008b.A.dialog-act.vkaraisk.111	Yep . 	
+IS1008b.D.dialog-act.vkaraisk.10	Hmm . 	
+IS1008b.A.dialog-act.vkaraisk.112	But let's try it , okay , with the different uh the designs , okay , the functional designs . 	
+IS1008b.B.dialog-act.vkaraisk.110	Oh , okay . 	
+IS1008b.A.dialog-act.vkaraisk.114	Okay ? 	
+IS1008b.A.dialog-act.vkaraisk.115	So 	
+IS1008b.A.dialog-act.vkaraisk.116	any other questions ? 	
+IS1008b.D.dialog-act.vkaraisk.11	Uh from her side , I don't think uh there's too many more questions . 	
+IS1008b.A.dialog-act.vkaraisk.117	Okay . 	
+IS1008b.D.dialog-act.vkaraisk.12	If you can come to the 	
+IS1008b.A.dialog-act.vkaraisk.118	Thank you Christine for uh time being , 	
+IS1008b.A.dialog-act.vkaraisk.119	so then uh Ed , so can you tell about 	
+IS1008b.D.dialog-act.vkaraisk.13	Okay , 	
+IS1008b.D.dialog-act.vkaraisk.14	from the marketing yeah , from the marketing side , just to to give an idea what the management is looking for , I was looking for a a remote control to have a s 	
+IS1008b.C.dialog-act.vkaraisk.30	S 'scuse me for one sec . 	
+IS1008b.D.dialog-act.vkaraisk.16	I have a sales price of twenty-five Euro , 	
+IS1008b.D.dialog-act.vkaraisk.17	with a production price of uh twelve and a half Euro . 	
+IS1008b.D.dialog-act.vkaraisk.18	For what uh I think from what we're trying to find , we're tr we're looking for , I don't think that price is exactly in the market . 	
+IS1008b.D.dialog-act.vkaraisk.19	Okay ? 	
+IS1008b.A.dialog-act.vkaraisk.120	Mm-hmm . 	
+IS1008b.D.dialog-act.vkaraisk.20	I'll explain myself here now 	
+IS1008b.D.dialog-act.vkaraisk.21	in the sense that uh in a 	
+IS1008b.D.dialog-act.vkaraisk.22	in the recent surveys , uh from the ages fr from fifteen to thirty-five , eighty percent are willing to spend more money for something as fancy as trendy . 	
+IS1008b.A.dialog-act.vkaraisk.121		
+IS1008b.D.dialog-act.vkaraisk.23	Twenty-five Euros , uh that's that's a preson reasonable price . 	
+IS1008b.D.dialog-act.vkaraisk.24	That's a market price right now . 	
+IS1008b.D.dialog-act.vkaraisk.25	Now if we're gonna take a risk , and push this up a bit , make it more expensive , 	
+IS1008b.A.dialog-act.vkaraisk.122	Yep . 	
+IS1008b.D.dialog-act.vkaraisk.26	but give them added things that they don't have now , 	
+IS1008b.A.dialog-act.vkaraisk.123	Yep . 	
+IS1008b.D.dialog-act.vkaraisk.27	then it w it could possibly sell . 	
+IS1008b.D.dialog-act.vkaraisk.28	Obviously the risk is there . 	
+IS1008b.D.dialog-act.vkaraisk.29	Too expensive , they're not gonna buy . 	
+IS1008b.D.dialog-act.vkaraisk.30	But , I think uh there's one other thing interesting two things that are interesting 	
+IS1008b.D.dialog-act.vkaraisk.31	is that uh from the fifteen to thirty-five year-old group , which always spends more money on trendy new things , speech recognition is requested . 	
+IS1008b.B.dialog-act.vkaraisk.111	Speech recognition? . 	
+IS1008b.D.dialog-act.vkaraisk.32	And we're talking between seventy-five to ninety percent of this group is willing to pay for speech recognition on a remote . 	
+IS1008b.A.dialog-act.vkaraisk.124	Mm-hmm . 	
+IS1008b.D.dialog-act.vkaraisk.33	Obviously , we can't make a remote into a computer , 	
+IS1008b.D.dialog-act.vkaraisk.34	but maybe simple commands . 	
+IS1008b.D.dialog-act.vkaraisk.36	I dunno , 	
+IS1008b.D.dialog-act.vkaraisk.37	louder , softer , on , off . 	
+IS1008b.D.dialog-act.vkaraisk.40	That might be a possibility , even though it costs more , to be the first on the market to produce this . 	
+IS1008b.A.dialog-act.vkaraisk.125		
+IS1008b.D.dialog-act.vkaraisk.41	Thirty-five percent say they're too difficult to use . 	
+IS1008b.D.dialog-act.vkaraisk.42	So we have to figure out a way of making it um more user friendly . 	
+IS1008b.D.dialog-act.vkaraisk.43	Uh fifty percent say they can't find the remote half the time . 	
+IS1008b.B.dialog-act.vkaraisk.112		
+IS1008b.D.dialog-act.vkaraisk.44	So maybe one word speech recognition commands , 	
+IS1008b.D.dialog-act.vkaraisk.45	say remote , and there's a beep beep beep , 	
+IS1008b.D.dialog-act.vkaraisk.46	and they can find it through , you know , ten tons of newspapers , magazines , whatever you have at home . 	
+IS1008b.A.dialog-act.vkaraisk.126		
+IS1008b.D.dialog-act.vkaraisk.47	But , in the cost that uh the management is looking for , that's not gonna be possible . 	
+IS1008b.D.dialog-act.vkaraisk.50	But if it's trendy , 	
+IS1008b.D.dialog-act.vkaraisk.51	if it's fancy , 	
+IS1008b.D.dialog-act.vkaraisk.52	it's got some colour to it , 	
+IS1008b.D.dialog-act.vkaraisk.53	if it's very easy easy to use , 	
+IS1008b.D.dialog-act.vkaraisk.54	if it's got simple remote speech remote uh control , like I said , louder , softer , change channel , on , off , remote , it goes beep beep , 	
+IS1008b.D.dialog-act.vkaraisk.55	I can find my my remote without spending half a day looking for it and getting all upset 	
+IS1008b.D.dialog-act.vkaraisk.56	'cause I can't turn the T_V_ on . 	
+IS1008b.D.dialog-act.vkaraisk.48	So we're gonna have to look at it in a in this global idea , with the ideas of the industrial uh design . 	
+IS1008b.A.dialog-act.vkaraisk.127		
+IS1008b.D.dialog-act.vkaraisk.49	But , price obviously we have to talk about . 	
+IS1008b.A.dialog-act.vkaraisk.128	Yep . 	
+IS1008b.A.dialog-act.vkaraisk.129	So what do you think about uh the design ? 	
+IS1008b.A.dialog-act.vkaraisk.130	Do you think you can make it or uh 	
+IS1008b.B.dialog-act.vkaraisk.113	D 	
+IS1008b.B.dialog-act.vkaraisk.114	uh I'm sorry ? 	
+IS1008b.A.dialog-act.vkaraisk.131	What do you think about uh the design , uh what he was talking about of the speech recognition ? 	
+IS1008b.D.dialog-act.vkaraisk.57	Speech recognition . 	
+IS1008b.B.dialog-act.vkaraisk.115		
+IS1008b.B.dialog-act.vkaraisk.116	Well , uh 	
+IS1008b.B.dialog-act.vkaraisk.117	training is always an issue with uh commands . 	
+IS1008b.A.dialog-act.vkaraisk.132	Mm-hmm . 	
+IS1008b.B.dialog-act.vkaraisk.118	So um 	
+IS1008b.B.dialog-act.vkaraisk.119	might 	
+IS1008b.B.dialog-act.vkaraisk.120	uh we can perhaps um do it if the user is willing to spend some time in the training process , 	
+IS1008b.B.dialog-act.vkaraisk.121	uh it could reduce th th uh the overall um cost . 	
+IS1008b.B.dialog-act.vkaraisk.122	Not sure how . 	
+IS1008b.B.dialog-act.vkaraisk.123	But um anyway , um I I think also that uh this might impact the battery life . 	
+IS1008b.B.dialog-act.vkaraisk.124	And um so , 	
+IS1008b.B.dialog-act.vkaraisk.125	maybe what we'll have to do is um add something where you can um recharge it wirelessly 	
+IS1008b.B.dialog-act.vkaraisk.126	so that uh y you know sen send power to it . 	
+IS1008b.B.dialog-act.vkaraisk.127	So uh 	
+IS1008b.B.dialog-act.vkaraisk.128	or maybe uh set it out in the sun 	
+IS1008b.B.dialog-act.vkaraisk.129	and it uh , you know , gets uh , from the light , um a a solar cell inside there 	
+IS1008b.C.dialog-act.vkaraisk.31	Hmm . 	
+IS1008b.B.dialog-act.vkaraisk.130	so that uh you have enough uh juice to do all these fancy things . 	
+IS1008b.C.dialog-act.vkaraisk.32	It seems also like with the speech recognition , yeah , it's a great feature , 	
+IS1008b.C.dialog-act.vkaraisk.33	but if you're watching T_V_ , there's a lot of ambient sound , 	
+IS1008b.C.dialog-act.vkaraisk.34	and it's words . 	
+IS1008b.C.dialog-act.vkaraisk.35	It's not just , you know , noises like something hitting . 	
+IS1008b.C.dialog-act.vkaraisk.36	It's actual speech , 	
+IS1008b.C.dialog-act.vkaraisk.37	so then you have to make sure that the speech recognizer is good enough to filter out the T_V_ speech , and the the user's speech . 	
+IS1008b.C.dialog-act.vkaraisk.38	Otherwise , you can say remote . 	
+IS1008b.B.dialog-act.vkaraisk.131	Off . 	
+IS1008b.C.dialog-act.vkaraisk.39	But if someone on the screen is saying the same thing , all of a sudden , you have someone in a movie saying off and your screen dies , 	
+IS1008b.C.dialog-act.vkaraisk.40	because they've triggered the remote control 	
+IS1008b.C.dialog-act.vkaraisk.41	and it's turned off your T_V_ . 	
+IS1008b.C.dialog-act.vkaraisk.42	So , I think if we can find a speech recognizer that can handle those types of problems , then yeah , it'd be a really good marketing gimmick . 	
+IS1008b.D.dialog-act.vkaraisk.58	Mm . 	
+IS1008b.C.dialog-act.vkaraisk.43	But , I think we seriously need to consider how that would impact 	
+IS1008b.C.dialog-act.vkaraisk.44	the situation . 	
+IS1008b.B.dialog-act.vkaraisk.132	Very good point . 	
+IS1008b.D.dialog-act.vkaraisk.59	Because tha w with speech recognition uh th I'm not that good at that idea 	
+IS1008b.D.dialog-act.vkaraisk.60	but th 	
+IS1008b.C.dialog-act.vkaraisk.45	Mm-hmm . 	
+IS1008b.D.dialog-act.vkaraisk.64	if it's a one-word recognition , 	
+IS1008b.D.dialog-act.vkaraisk.61	'cause I know with telephones and cars and things I've seen in the States , 	
+IS1008b.C.dialog-act.vkaraisk.46	Yeah . 	
+IS1008b.D.dialog-act.vkaraisk.62	a friend of mine says call Mom , 	
+IS1008b.D.dialog-act.vkaraisk.63	and it calls up Mom . 	
+IS1008b.C.dialog-act.vkaraisk.47	Yeah . 	
+IS1008b.D.dialog-act.vkaraisk.65	'Kay 	
+IS1008b.D.dialog-act.vkaraisk.66	the radio can be on and everything . 	
+IS1008b.A.dialog-act.vkaraisk.133	Yep . 	
+IS1008b.D.dialog-act.vkaraisk.67	Because I think s with speech recognition , if uh the the remote or like the telephone it has a exact word that it has to hear . 	
+IS1008b.C.dialog-act.vkaraisk.48	Mm-hmm . 	
+IS1008b.D.dialog-act.vkaraisk.68	I don't think it would come through a sentence in a television . 	
+IS1008b.D.dialog-act.vkaraisk.69	If somebody's speaking on the se the television , they're not gonna stop and say remote , 	
+IS1008b.D.dialog-act.vkaraisk.70	okay . 	
+IS1008b.C.dialog-act.vkaraisk.49	Mm-hmm . 	
+IS1008b.D.dialog-act.vkaraisk.71	So I think that uh something could be designed to recognise single word 	
+IS1008b.C.dialog-act.vkaraisk.50	Oh yeah . Yeah . 	
+IS1008b.D.dialog-act.vkaraisk.72	Like the t like the telephone . 	
+IS1008b.C.dialog-act.vkaraisk.51	No , 	
+IS1008b.C.dialog-act.vkaraisk.52	I think it's a great idea if we can design it to to suit those requirements . 	
+IS1008b.D.dialog-act.vkaraisk.73	No 	
+IS1008b.D.dialog-act.vkaraisk.74	because I this is this is years ago in the United States 	
+IS1008b.D.dialog-act.vkaraisk.75	where we're driving down 	
+IS1008b.D.dialog-act.vkaraisk.76	and he said call home , 	
+IS1008b.D.dialog-act.vkaraisk.77	and the telephone called immediately 	
+IS1008b.C.dialog-act.vkaraisk.53	Yeah . 	
+IS1008b.D.dialog-act.vkaraisk.78	so well , 	
+IS1008b.D.dialog-act.vkaraisk.79	that's kinda cute . 	
+IS1008b.A.dialog-act.vkaraisk.134	Well , 	
+IS1008b.A.dialog-act.vkaraisk.135	what I can uh suggest to you , Christine , 	
+IS1008b.A.dialog-act.vkaraisk.136	okay , 	
+IS1008b.A.dialog-act.vkaraisk.137	uh if you need some uh the technical feedback , or some training , okay , about uh this facility , especially for the speech recognition , I can recommend you some companies like uh Intel or I_B_M_ , 	
+IS1008b.A.dialog-act.vkaraisk.138	okay , 	
+IS1008b.A.dialog-act.vkaraisk.139	because they're already in this uh speech recognition part , 	
+IS1008b.A.dialog-act.vkaraisk.140	okay . 	
+IS1008b.A.dialog-act.vkaraisk.141	And uh you can maybe have some uh technical backup from them , some kind of a technical tie-up . 	
+IS1008b.A.dialog-act.vkaraisk.142	Okay , 	
+IS1008b.A.dialog-act.vkaraisk.143	and uh if you want , I can coordinate , okay , to get some information , 	
+IS1008b.A.dialog-act.vkaraisk.145	okay , 	
+IS1008b.A.dialog-act.vkaraisk.146	and uh you can uh let me know , okay , so what kind of uh the details you require okay , to add this feature in this project . 	
+IS1008b.A.dialog-act.vkaraisk.147	I don't think it's uh the difficult . 	
+IS1008b.A.dialog-act.vkaraisk.148	And uh 	
+IS1008b.A.dialog-act.vkaraisk.149	we need to know how much is the timeframe you need to develop , apart from uh what today . 	
+IS1008b.B.dialog-act.vkaraisk.133	Okay , 	
+IS1008b.B.dialog-act.vkaraisk.134	we'll find that out . 	
+IS1008b.A.dialog-act.vkaraisk.150	Yep . 	
+IS1008b.D.dialog-act.vkaraisk.80	From from your side uh , you're gonna have to go back the management 	
+IS1008b.D.dialog-act.vkaraisk.81	and s be more s precise . 	
+IS1008b.A.dialog-act.vkaraisk.151	Yes . 	
+IS1008b.D.dialog-act.vkaraisk.82	What do they want ? 	
+IS1008b.A.dialog-act.vkaraisk.152	Yes . 	
+IS1008b.D.dialog-act.vkaraisk.83	Uh , a risk , take a risk on the market ? 	
+IS1008b.D.dialog-act.vkaraisk.84	Something that's gonna cost more , but could very easily s make a boom in the market ? 	
+IS1008b.A.dialog-act.vkaraisk.153	Yes . 	
+IS1008b.A.dialog-act.vkaraisk.154	Yep . 	
+IS1008b.D.dialog-act.vkaraisk.85	Because it has to be something totally different , 	
+IS1008b.D.dialog-act.vkaraisk.86	has to be total totally new . 	
+IS1008b.D.dialog-act.vkaraisk.87	Something that nobody has right now . 	
+IS1008b.A.dialog-act.vkaraisk.155	Yeah but 	
+IS1008b.D.dialog-act.vkaraisk.88	And it's gonna cost . 	
+IS1008b.A.dialog-act.vkaraisk.156	but end of the day , you're the sales guy , 	
+IS1008b.A.dialog-act.vkaraisk.157	so I will come back 	
+IS1008b.A.dialog-act.vkaraisk.158	and sit on your head 	
+IS1008b.A.dialog-act.vkaraisk.159	because uh you are going to give your sales projection , 	
+IS1008b.D.dialog-act.vkaraisk.89		
+IS1008b.C.dialog-act.vkaraisk.54		
+IS1008b.A.dialog-act.vkaraisk.160	okay . 	
+IS1008b.A.dialog-act.vkaraisk.161	It's uh of course it's uh good to uh tell the management how much it's cost us 	
+IS1008b.D.dialog-act.vkaraisk.90	Mm-hmm . 	
+IS1008b.A.dialog-act.vkaraisk.162	and how much you are going to benefit , 	
+IS1008b.D.dialog-act.vkaraisk.91	Sure . Sure . 	
+IS1008b.A.dialog-act.vkaraisk.163	okay . 	
+IS1008b.A.dialog-act.vkaraisk.164	And uh , so 	
+IS1008b.A.dialog-act.vkaraisk.165	I don't mind to convince , okay , the management to spend some more money on the project , okay , if you can make out of 	
+IS1008b.D.dialog-act.vkaraisk.92	Obviously . 	
+IS1008b.A.dialog-act.vkaraisk.167	the money from this project . 	
+IS1008b.D.dialog-act.vkaraisk.93	If the bottom line is positive . 	
+IS1008b.A.dialog-act.vkaraisk.168	Yes , 	
+IS1008b.A.dialog-act.vkaraisk.169	okay 	
+IS1008b.C.dialog-act.vkaraisk.55		
+IS1008b.A.dialog-act.vkaraisk.170	I don't mind to convince the the management , 	
+IS1008b.D.dialog-act.vkaraisk.94	Mm . 	
+IS1008b.A.dialog-act.vkaraisk.171	okay . 	
+IS1008b.A.dialog-act.vkaraisk.172	The management says , okay , so they they don't want certain facilities , 	
+IS1008b.A.dialog-act.vkaraisk.173	which it's already worked , 	
+IS1008b.A.dialog-act.vkaraisk.174	okay , 	
+IS1008b.A.dialog-act.vkaraisk.175	they want something uh new , 	
+IS1008b.A.dialog-act.vkaraisk.176	okay . 	
+IS1008b.A.dialog-act.vkaraisk.177	I think uh like uh speech recognit definitely they will agree , 	
+IS1008b.A.dialog-act.vkaraisk.178	I don't think they'll say no for that , 	
+IS1008b.A.dialog-act.vkaraisk.179	okay . 	
+IS1008b.A.dialog-act.vkaraisk.180	And uh I hope I can convince the management on that , 	
+IS1008b.A.dialog-act.vkaraisk.181	okay . 	
+IS1008b.A.dialog-act.vkaraisk.182	So 	
+IS1008b.A.dialog-act.vkaraisk.183	if you have any uh new ideas , okay , for uh your you can always come up 	
+IS1008b.A.dialog-act.vkaraisk.184	and uh you can tell me if you need any uh s special , okay , coordination , okay , between any uh technical companies , 	
+IS1008b.A.dialog-act.vkaraisk.185	which you can uh hide their technology backup , okay , for your uh functional design or technical design , 	
+IS1008b.A.dialog-act.vkaraisk.186	okay , 	
+IS1008b.A.dialog-act.vkaraisk.187	then I am ready to do that . 	
+IS1008b.A.dialog-act.vkaraisk.188	And uh what's your comments about uh 	
+IS1008b.C.dialog-act.vkaraisk.56	Um well , I mean , 	
+IS1008b.C.dialog-act.vkaraisk.57	maybe if I go through my presentation , you can sort of see what the user perspective is , and how it ties into the other two comments . 	
+IS1008b.D.dialog-act.vkaraisk.95	Mm . 	
+IS1008b.A.dialog-act.vkaraisk.189	Yeah , 	
+IS1008b.A.dialog-act.vkaraisk.190	so you are finish , Ed , 	
+IS1008b.A.dialog-act.vkaraisk.191	uh so I can uh 	
+IS1008b.D.dialog-act.vkaraisk.96	Yes . Mm . 	
+IS1008b.A.dialog-act.vkaraisk.192	Okay , 	
+IS1008b.A.dialog-act.vkaraisk.193	I'll uh hand over to Agnes . 	
+IS1008b.A.dialog-act.vkaraisk.194	Just gonna close this . 	
+IS1008b.A.dialog-act.vkaraisk.195	T 	
+IS1008b.A.dialog-act.vkaraisk.196	Uh where are you , here ? 	
+IS1008b.C.dialog-act.vkaraisk.58	Mm participant three . 	
+IS1008b.A.dialog-act.vkaraisk.197	Participant three . 	
+IS1008b.C.dialog-act.vkaraisk.59	Nope , 	
+IS1008b.C.dialog-act.vkaraisk.60	here 	
+IS1008b.A.dialog-act.vkaraisk.198	Okay , 	
+IS1008b.A.dialog-act.vkaraisk.199	so I'll yep . 	
+IS1008b.A.dialog-act.vkaraisk.200	Okay . 	
+IS1008b.C.dialog-act.vkaraisk.61	Good . 	
+IS1008b.C.dialog-act.vkaraisk.62	Thanks . 	
+IS1008b.A.dialog-act.vkaraisk.201	Is it okay ? 	
+IS1008b.A.dialog-act.vkaraisk.202	Alri 	
+IS1008b.C.dialog-act.vkaraisk.63	Yeah , and that's fine . 	
+IS1008b.C.dialog-act.vkaraisk.64	Okay . So , basically , 	
+IS1008b.C.dialog-act.vkaraisk.65	the method that we usually use in the user interface design is that we need to look at what people like and what people don't like about existing products . 	
+IS1008b.C.dialog-act.vkaraisk.66	So , in our case , existing remote controls . 	
+IS1008b.C.dialog-act.vkaraisk.67	And then , what the good ideas are , 	
+IS1008b.C.dialog-act.vkaraisk.68	and what the bad ideas are , 	
+IS1008b.C.dialog-act.vkaraisk.69	and why they're bad and good , 	
+IS1008b.C.dialog-act.vkaraisk.70	which isn't always as obvious . 	
+IS1008b.C.dialog-act.vkaraisk.71	We seem to have intuitions about why things are good or things are bad , 	
+IS1008b.C.dialog-act.vkaraisk.72	but when you look , technically , at how it works , sometimes that's not the case . 	
+IS1008b.C.dialog-act.vkaraisk.73	Then we need to decide what functionalities we really want to keep , 	
+IS1008b.C.dialog-act.vkaraisk.74	'cause that'll feed into both Ed's work and Christine's work . 	
+IS1008b.C.dialog-act.vkaraisk.75	Um and then what the remote control should look like , 	
+IS1008b.C.dialog-act.vkaraisk.76	obviously , once we've got a good idea of what the functionalities are . 	
+IS1008b.C.dialog-act.vkaraisk.77	So , 	
+IS1008b.C.dialog-act.vkaraisk.78	in terms of the functionalities that we need , you obviously need to be able to turn the T_V_ on and off . 	
+IS1008b.C.dialog-act.vkaraisk.79	You need to change channels , both by directly going to a specific channel or by channel surfing . 	
+IS1008b.C.dialog-act.vkaraisk.80	You need to be able to control the volume 	
+IS1008b.C.dialog-act.vkaraisk.81	and then control any menus on the T_V_ to regulate contrast or whatever . 	
+IS1008b.C.dialog-act.vkaraisk.82	So , 	
+IS1008b.C.dialog-act.vkaraisk.83	the problems that people have expressed is that there's too many buttons on remote controls , in general . 	
+IS1008b.C.dialog-act.vkaraisk.84	The buttons it's not clear what they're supposed to do . 	
+IS1008b.C.dialog-act.vkaraisk.85	Um often , you need to know specific button sequences to get certain functionalities done , 	
+IS1008b.C.dialog-act.vkaraisk.86	um which you don't necessarily always remember , especially if it's a functionality that you don't use very often . 	
+IS1008b.C.dialog-act.vkaraisk.87	And that the buttons are too small . 	
+IS1008b.C.dialog-act.vkaraisk.88	So , 	
+IS1008b.C.dialog-act.vkaraisk.89	here we've got two examples 	
+IS1008b.C.dialog-act.vkaraisk.90	where here on the left-hand side , you can see a remote control that has lots and lots of buttons . 	
+IS1008b.C.dialog-act.vkaraisk.91	The buttons , in a lot of cases , are tiny . 	
+IS1008b.B.dialog-act.vkaraisk.135		
+IS1008b.C.dialog-act.vkaraisk.92	Um they're hard to see , 	
+IS1008b.C.dialog-act.vkaraisk.94	and okay , 	
+IS1008b.C.dialog-act.vkaraisk.93	they're labelled , 	
+IS1008b.C.dialog-act.vkaraisk.95	but the labels don't necessarily tell you too much . 	
+IS1008b.C.dialog-act.vkaraisk.96	Whereas , on the other side , you have a much simpler remote control 	
+IS1008b.C.dialog-act.vkaraisk.97	that I think basically has the minimum functionalities that are needed . 	
+IS1008b.C.dialog-act.vkaraisk.98	And it sort of looks simpler and just less imposing when you first look at it . 	
+IS1008b.C.dialog-act.vkaraisk.99	So , I would be inclined to go sort of towards this , in terms of design , rather than this . 	
+IS1008b.C.dialog-act.vkaraisk.100	And if there's specific functionalities that require more buttons , then we can figure out how to do it with existing um buttons . 	
+IS1008b.C.dialog-act.vkaraisk.101	So my personal preferences are to keep the number of buttons to a limit , or to a minimum , 	
+IS1008b.C.dialog-act.vkaraisk.102	sorry , 	
+IS1008b.C.dialog-act.vkaraisk.103	make frequently used buttons bigger and more strategically placed , so like the on button being really obvious one , the channel changing and the volume , 	
+IS1008b.C.dialog-act.vkaraisk.104	and to keep the design basically sleek and simple . 	
+IS1008b.A.dialog-act.vkaraisk.203	Click mm . 	
+IS1008b.C.dialog-act.vkaraisk.105	Which , I think ties into what Christine and Ed have both said fairly reasonably . 	
+IS1008b.C.dialog-act.vkaraisk.106	Um so , 	
+IS1008b.C.dialog-act.vkaraisk.107	that's pretty much it , 	
+IS1008b.C.dialog-act.vkaraisk.108	an 	
+IS1008b.C.dialog-act.vkaraisk.109	I don't know if you guys have any questions or 	
+IS1008b.B.dialog-act.vkaraisk.136	Oh , 	
+IS1008b.B.dialog-act.vkaraisk.137	it's um , seems very understandable . 	
+IS1008b.B.dialog-act.vkaraisk.138	Clearly your research and uh and ours uh heading in the same direction , 	
+IS1008b.C.dialog-act.vkaraisk.110	Yep . 	
+IS1008b.B.dialog-act.vkaraisk.139	and um uh 	
+IS1008b.B.dialog-act.vkaraisk.140	the only thing that I saw missing from uh your your research that we found was this uh ability to find the doggone thing when you need it . 	
+IS1008b.D.dialog-act.vkaraisk.97		
+IS1008b.C.dialog-act.vkaraisk.111	Yes , that's true . Yeah . 	
+IS1008b.B.dialog-act.vkaraisk.141	So uh , you know , 	
+IS1008b.B.dialog-act.vkaraisk.142	but that's okay . 	
+IS1008b.B.dialog-act.vkaraisk.143	That's why we're all here at the table , 	
+IS1008b.B.dialog-act.vkaraisk.144	so that if we think of it and our research indicates certain things and um w we it's complementary . 	
+IS1008b.C.dialog-act.vkaraisk.112	Yeah . 	
+IS1008b.B.dialog-act.vkaraisk.145	I also think that um uh th f the the feel of it is uh , when you hold it , is something that um uh was expressed more in in in in my uh design 	
+IS1008b.C.dialog-act.vkaraisk.113	Mm-hmm . Yeah . 	
+IS1008b.B.dialog-act.vkaraisk.146	and that's logical and normal 	
+IS1008b.B.dialog-act.vkaraisk.147	'cause those are the parameters that an Industrial Designer's more thinking about , th th the look and the feel , 	
+IS1008b.C.dialog-act.vkaraisk.114	Yeah . 	
+IS1008b.B.dialog-act.vkaraisk.148	and uh , you're 	
+IS1008b.C.dialog-act.vkaraisk.115	Oh , 	
+IS1008b.C.dialog-act.vkaraisk.116	that's definitely a very important factor , especially to users who are gonna be buying the thing and then using it almost on an daily basis in a lot of cases , I think . 	
+IS1008b.B.dialog-act.vkaraisk.149	First . 	
+IS1008b.B.dialog-act.vkaraisk.150	Yep . 	
+IS1008b.B.dialog-act.vkaraisk.151	Mm-hmm . 	
+IS1008b.B.dialog-act.vkaraisk.152	Okay , 	
+IS1008b.B.dialog-act.vkaraisk.153	so I don't have any questions . 	
+IS1008b.B.dialog-act.vkaraisk.154	Sounds good . 	
+IS1008b.A.dialog-act.vkaraisk.204	So 	
+IS1008b.A.dialog-act.vkaraisk.205	for anybody need uh any help , for time being , on this uh subjects , okay , so please come back to me , 	
+IS1008b.C.dialog-act.vkaraisk.117	Oh 	
+IS1008b.A.dialog-act.vkaraisk.206	and uh Christine , maybe I can uh try to help you to get some uh the technical uh the companies 	
+IS1008b.A.dialog-act.vkaraisk.207	to help you for uh make a design uh slim , 	
+IS1008b.A.dialog-act.vkaraisk.208	okay , 	
+IS1008b.A.dialog-act.vkaraisk.209	and to add some features , like we are talking about , the speech recognition and all . 	
+IS1008b.C.dialog-act.vkaraisk.118	Should we maybe make a decision about what features we actually want to include , 	
+IS1008b.A.dialog-act.vkaraisk.210	Yeah . 	
+IS1008b.C.dialog-act.vkaraisk.119	'cause we've thrown a lot of features onto the table , 	
+IS1008b.C.dialog-act.vkaraisk.120	but 	
+IS1008b.C.dialog-act.vkaraisk.121	do we actually want to incorporate all of them , 	
+IS1008b.C.dialog-act.vkaraisk.122	or have we missed anything ? 	
+IS1008b.D.dialog-act.vkaraisk.98	Hmm . 	
+IS1008b.B.dialog-act.vkaraisk.155	Do you wanna go back and look at the closing slide , 	
+IS1008b.B.dialog-act.vkaraisk.156	maybe that would provide some guidance ? 	
+IS1008b.C.dialog-act.vkaraisk.123	Sure . 	
+IS1008b.B.dialog-act.vkaraisk.157	Doesn't really tell us . 	
+IS1008b.A.dialog-act.vkaraisk.211	So 	
+IS1008b.A.dialog-act.vkaraisk.212	not really 	
+IS1008b.A.dialog-act.vkaraisk.213	this one we are talk ab 	
+IS1008b.D.dialog-act.vkaraisk.99	Individual actions . 	
+IS1008b.B.dialog-act.vkaraisk.158	Well 	
+IS1008b.B.dialog-act.vkaraisk.159	it says individual actions , 	
+IS1008b.B.dialog-act.vkaraisk.160	it says user interf 	
+IS1008b.A.dialog-act.vkaraisk.214	Yep . 	
+IS1008b.B.dialog-act.vkaraisk.161	so I'm supposed to do the components concept , 	
+IS1008b.B.dialog-act.vkaraisk.162	supposed to work on the user interface concept , 	
+IS1008b.C.dialog-act.vkaraisk.124	Mm-hmm . 	
+IS1008b.B.dialog-act.vkaraisk.163	and you're supposed to keep watching the trends . 	
+IS1008b.B.dialog-act.vkaraisk.164	Um and specific instructions will be sent by our our coach . 	
+IS1008b.B.dialog-act.vkaraisk.165	I think we should do as many features as uh start with all of them right now 	
+IS1008b.C.dialog-act.vkaraisk.125	I thought 	
+IS1008b.B.dialog-act.vkaraisk.166	and eliminate them later in the process , 	
+IS1008b.B.dialog-act.vkaraisk.167	that's my suggestion . 	
+IS1008b.A.dialog-act.vkaraisk.215	Okay , 	
+IS1008b.A.dialog-act.vkaraisk.216	that will be great . 	
+IS1008b.A.dialog-act.vkaraisk.217	And uh I'll send you the the minutes of meet 	
+IS1008b.B.dialog-act.vkaraisk.168	You can object if you want to 	
+IS1008b.C.dialog-act.vkaraisk.126	No , 	
+IS1008b.D.dialog-act.vkaraisk.100	She's objecting . 	
+IS1008b.C.dialog-act.vkaraisk.128	I I'm just thinking in terms of time , 	
+IS1008b.C.dialog-act.vkaraisk.127	like if 	
+IS1008b.C.dialog-act.vkaraisk.129	Yes , now I'm objecting . 	
+IS1008b.A.dialog-act.vkaraisk.218	Yeah . 	
+IS1008b.C.dialog-act.vkaraisk.130	No , 	
+IS1008b.C.dialog-act.vkaraisk.131	I mean , 	
+IS1008b.C.dialog-act.vkaraisk.132	I was just thinking is it really practical to start designing something with features that we're just gonna end up throwing away ? 	
+IS1008b.C.dialog-act.vkaraisk.133	I mean , it takes a lot of time and effort for everyone to consider different features , um 	
+IS1008b.C.dialog-act.vkaraisk.134	and s if we spend that time and effort on features that we're not gonna use , maybe it's better to spend it on the f thinking more about features that we actually do want , 	
+IS1008b.C.dialog-act.vkaraisk.135	but 	
+IS1008b.D.dialog-act.vkaraisk.101	Oh 	
+IS1008b.D.dialog-act.vkaraisk.102	th we s we still have 	
+IS1008b.B.dialog-act.vkaraisk.169	I think we should take that as an action item for after the meeting , 	
+IS1008b.C.dialog-act.vkaraisk.136	guess 	
+IS1008b.B.dialog-act.vkaraisk.170	'cause w our meeting time has run out . 	
+IS1008b.D.dialog-act.vkaraisk.103	Yeah . 	
+IS1008b.D.dialog-act.vkaraisk.104	Right . 	
+IS1008b.B.dialog-act.vkaraisk.171	Somebody else has go to use this room , 	
+IS1008b.C.dialog-act.vkaraisk.137	Sure . 	
+IS1008b.B.dialog-act.vkaraisk.172	and , you know , we can't hang out here 	
+IS1008b.C.dialog-act.vkaraisk.138	Yeah . 	
+IS1008b.B.dialog-act.vkaraisk.173	and talk about this , so 	
+IS1008b.C.dialog-act.vkaraisk.139	Yeah . Sure . 	
+IS1008b.A.dialog-act.vkaraisk.219	Okay , 	
+IS1008b.A.dialog-act.vkaraisk.220	what we'll do is now we'll take for lunch break , 	
+IS1008b.A.dialog-act.vkaraisk.221	okay , 	
+IS1008b.A.dialog-act.vkaraisk.222	then uh we can discuss furthermore , okay , with our areas , 	
+IS1008b.A.dialog-act.vkaraisk.223	and uh then we will come back again in the in the next meeting . 	
+IS1008b.A.dialog-act.vkaraisk.224	So thanks for coming 	
+IS1008b.A.dialog-act.vkaraisk.225	and uh I'll send you minutes of meeting , 	
+IS1008b.A.dialog-act.vkaraisk.226	and uh please put your all information in the sharing folder 	
+IS1008b.A.dialog-act.vkaraisk.227	so everybody can share the information . 	
+IS1008b.A.dialog-act.vkaraisk.228	Okay ? 	
+IS1008b.C.dialog-act.vkaraisk.140	Okay . 	
+IS1008b.A.dialog-act.vkaraisk.229	So let's go for lunch then . 	
+IS1008b.B.dialog-act.vkaraisk.174	Thank you very much . 	
+IS1008b.D.dialog-act.vkaraisk.105	Agreed . 	
+IS1008b.A.dialog-act.vkaraisk.230	Thank you . 	
+

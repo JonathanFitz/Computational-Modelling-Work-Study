@@ -1,0 +1,845 @@
+Observation: IS1000c; Result size: 842; atts: 2
+$d@nite:id	$d	
+IS1000c.A.dialog-act.vkaraisk.1	Right first time this time . 	
+IS1000c.A.dialog-act.vkaraisk.2	Nu 	
+IS1000c.A.dialog-act.vkaraisk.3	There we go . 	
+IS1000c.A.dialog-act.vkaraisk.4	It's not that complicated , 	
+IS1000c.A.dialog-act.vkaraisk.5	but I get it wrong every time . 	
+IS1000c.A.dialog-act.vkaraisk.6		
+IS1000c.D.dialog-act.vkaraisk.1	Okay so 	
+IS1000c.D.dialog-act.vkaraisk.2	we are just waiting for Matthew . 	
+IS1000c.A.dialog-act.vkaraisk.7	For Matthew , yep . 	
+IS1000c.B.dialog-act.vkaraisk.1	Mm . 	
+IS1000c.B.dialog-act.vkaraisk.2	Uh So 	
+IS1000c.B.dialog-act.vkaraisk.3	I suggest we start the meeting uh without Matthew uh 	
+IS1000c.A.dialog-act.vkaraisk.8	Mm-hmm . 	
+IS1000c.D.dialog-act.vkaraisk.3	Mm 'kay . 	
+IS1000c.B.dialog-act.vkaraisk.4	he's uh obviously late for some reason . 	
+IS1000c.B.dialog-act.vkaraisk.6	Good . Um . 	
+IS1000c.B.dialog-act.vkaraisk.7	Today uh we will uh talk about uh conceptual design . 	
+IS1000c.B.dialog-act.vkaraisk.8	I hope uh you both did some uh some work uh concerning a uh conceptual design . 	
+IS1000c.A.dialog-act.vkaraisk.9	Mm-hmm . 	
+IS1000c.B.dialog-act.vkaraisk.9	Um this will be the uh agenda for the meeting uh . 	
+IS1000c.B.dialog-act.vkaraisk.10	Uh I will take some minutes uh again . 	
+IS1000c.A.dialog-act.vkaraisk.10	Mm-hmm . 	
+IS1000c.B.dialog-act.vkaraisk.11	Um we will have the presentations of y of you different team members , 	
+IS1000c.A.dialog-act.vkaraisk.11	Yep . 	
+IS1000c.D.dialog-act.vkaraisk.4	Yep . 	
+IS1000c.B.dialog-act.vkaraisk.12	and then try to come to decisions uh about the concepts uh you have presented . 	
+IS1000c.B.dialog-act.vkaraisk.13	So 	
+IS1000c.B.dialog-act.vkaraisk.14	and that uh will uh 	
+IS1000c.D.dialog-act.vkaraisk.5	Mm-hmm . 	
+IS1000c.B.dialog-act.vkaraisk.15	we have some uh forty minutes uh to complete this uh . 	
+IS1000c.A.dialog-act.vkaraisk.12	Mm-hmm . 	
+IS1000c.B.dialog-act.vkaraisk.16	So um 	
+IS1000c.B.dialog-act.vkaraisk.17	who has the fir 	
+IS1000c.B.dialog-act.vkaraisk.18	do you ha Anna do you have your presentation ready ? 	
+IS1000c.A.dialog-act.vkaraisk.13	I have a presentation , 	
+IS1000c.A.dialog-act.vkaraisk.14	I'm just making this 	
+IS1000c.D.dialog-act.vkaraisk.6	Yeah 	
+IS1000c.D.dialog-act.vkaraisk.7	I think yeah the Matthew it is it's important that Matthew yeah is here 	
+IS1000c.B.dialog-act.vkaraisk.19	Okay . 	
+IS1000c.D.dialog-act.vkaraisk.9	because it's really a a team uh project with a team 	
+IS1000c.B.dialog-act.vkaraisk.20	Ah 	
+IS1000c.B.dialog-act.vkaraisk.21	there is Matthew . 	
+IS1000c.D.dialog-act.vkaraisk.10	and if someone is not here then we cannot 	
+IS1000c.C.dialog-act.vkaraisk.1	Sorry . 	
+IS1000c.D.dialog-act.vkaraisk.11	but it's okay it's good . 	
+IS1000c.A.dialog-act.vkaraisk.15	Okay 	
+IS1000c.A.dialog-act.vkaraisk.16	I'll just email you this file , my presentation . 	
+IS1000c.B.dialog-act.vkaraisk.22	So . 	
+IS1000c.B.dialog-act.vkaraisk.23	Good . 	
+IS1000c.B.dialog-act.vkaraisk.24	Do presentation ready ? 	
+IS1000c.A.dialog-act.vkaraisk.17	Mm-hmm 	
+IS1000c.A.dialog-act.vkaraisk.18	I'm just emailing it to you . 	
+IS1000c.B.dialog-act.vkaraisk.25	Oh okay . 	
+IS1000c.D.dialog-act.vkaraisk.12		
+IS1000c.C.dialog-act.vkaraisk.2	So 	
+IS1000c.B.dialog-act.vkaraisk.26	So 	
+IS1000c.B.dialog-act.vkaraisk.27	did you manage uh 	
+IS1000c.C.dialog-act.vkaraisk.3	Yeah 	
+IS1000c.C.dialog-act.vkaraisk.4	I sent you the slides , 	
+IS1000c.C.dialog-act.vkaraisk.5	you didn't see them ? 	
+IS1000c.B.dialog-act.vkaraisk.28	Oh yes I see him , good yes . 	
+IS1000c.C.dialog-act.vkaraisk.6	Okay . 	
+IS1000c.C.dialog-act.vkaraisk.7	. 	
+IS1000c.B.dialog-act.vkaraisk.29	No . 	
+IS1000c.C.dialog-act.vkaraisk.8	So 	
+IS1000c.C.dialog-act.vkaraisk.9	'Kay . 	
+IS1000c.A.dialog-act.vkaraisk.19	Okay it should've gone through to you . 	
+IS1000c.C.dialog-act.vkaraisk.10		
+IS1000c.B.dialog-act.vkaraisk.31	Okay mm yes I have it . 	
+IS1000c.C.dialog-act.vkaraisk.11		
+IS1000c.A.dialog-act.vkaraisk.20	Mm-hmm . Okay so 	
+IS1000c.A.dialog-act.vkaraisk.21	this is just a presentation on uh the trends that we're gonna use to make the product stand out from the rest of the products out there at the moment . 	
+IS1000c.A.dialog-act.vkaraisk.22	Um can I just put this on ? 	
+IS1000c.A.dialog-act.vkaraisk.23	So 	
+IS1000c.A.dialog-act.vkaraisk.24	we have to work out a way what we can do with our product to make it stand out and make it so people wanna buy it . 	
+IS1000c.A.dialog-act.vkaraisk.25	Um . This is to do this I will not remove my microphone . 	
+IS1000c.A.dialog-act.vkaraisk.26	We basically used um some focus group surveys 	
+IS1000c.A.dialog-act.vkaraisk.27	which I went through with you last time , the main results of that , 	
+IS1000c.A.dialog-act.vkaraisk.28	and um some research on the current design um and fashion trends that are out there at the moment um , 	
+IS1000c.D.dialog-act.vkaraisk.13		
+IS1000c.A.dialog-act.vkaraisk.29	and as part of this 	
+IS1000c.A.dialog-act.vkaraisk.30	The important aspects that came out were things that we've already discussed really . 	
+IS1000c.A.dialog-act.vkaraisk.31	The most important by far was the look and feel of it . 	
+IS1000c.A.dialog-act.vkaraisk.32	It needs to be something that's very different from everything else out there . It needs to stand out . 	
+IS1000c.A.dialog-act.vkaraisk.33	It needs to be not functional like the rest of the things out there at the moment . 	
+IS1000c.A.dialog-act.vkaraisk.34	Most people find remote controls boring at the moment , 	
+IS1000c.A.dialog-act.vkaraisk.35	we need to have something that looks interesting , that looks exciting , that will stand out . 	
+IS1000c.A.dialog-act.vkaraisk.36	People will wanna buy it . Um 	
+IS1000c.A.dialog-act.vkaraisk.37	That was twice as i important as the next item on here 	
+IS1000c.A.dialog-act.vkaraisk.38	which is that it has to be technologically innovative 	
+IS1000c.A.dialog-act.vkaraisk.39	has to have something else , apart from just the look of it . 	
+IS1000c.A.dialog-act.vkaraisk.40	People have to then think about it and say got something there that I want . That's a really cool feature , 	
+IS1000c.A.dialog-act.vkaraisk.41	and it has to make them wanna buy it again . 	
+IS1000c.A.dialog-act.vkaraisk.42	Third on the list , and again innovative was twice as important as this last um aspect , 	
+IS1000c.A.dialog-act.vkaraisk.43	it has to be easy to use . 	
+IS1000c.A.dialog-act.vkaraisk.44	So they have to be able to be able to look at it and have some intuitive idea of how to use it um . 	
+IS1000c.A.dialog-act.vkaraisk.45	Drawing on the fashion trends at the moment , uh fruit and vegetables um . 	
+IS1000c.C.dialog-act.vkaraisk.12		
+IS1000c.A.dialog-act.vkaraisk.46	This is basically talking about just the the feel of it , so probably not the smell of it , but the bright colours , um eye-catching , really bold designs , and a spongy feel . 	
+IS1000c.B.dialog-act.vkaraisk.32	Mm . 	
+IS1000c.D.dialog-act.vkaraisk.14	Mm-hmm . 	
+IS1000c.B.dialog-act.vkaraisk.33	Mm . 	
+IS1000c.A.dialog-act.vkaraisk.47	Um I had a talk to the design people about this , 	
+IS1000c.A.dialog-act.vkaraisk.48	but having a remote that's tactile , that feels different , that would be really cool . 	
+IS1000c.A.dialog-act.vkaraisk.49	That would make it stand out . Um . 	
+IS1000c.B.dialog-act.vkaraisk.34	Hmm . 	
+IS1000c.D.dialog-act.vkaraisk.15	So 	
+IS1000c.D.dialog-act.vkaraisk.16	can you repeat 	
+IS1000c.D.dialog-act.vkaraisk.17	and be more precise about what you just said ? 	
+IS1000c.B.dialog-act.vkaraisk.35	Spongy feel ? 	
+IS1000c.D.dialog-act.vkaraisk.18	Uh about the feeling 	
+IS1000c.D.dialog-act.vkaraisk.19	yeah 	
+IS1000c.D.dialog-act.vkaraisk.20	uh yo 	
+IS1000c.C.dialog-act.vkaraisk.13	You can 	
+IS1000c.A.dialog-act.vkaraisk.50	Well 	
+IS1000c.A.dialog-act.vkaraisk.51	ma make it not necessar sp 	
+IS1000c.A.dialog-act.vkaraisk.52	spongy is the current thing . Spongy is the current texture , 	
+IS1000c.A.dialog-act.vkaraisk.53	but basically there are no reports no remotes at the moment which are spongy or tactile at all , 	
+IS1000c.A.dialog-act.vkaraisk.54	so if we make it like maybe furry or soft or something , that'll be something that sets it apart , 	
+IS1000c.D.dialog-act.vkaraisk.21	Okay . 	
+IS1000c.B.dialog-act.vkaraisk.36	Mm . 	
+IS1000c.A.dialog-act.vkaraisk.55	rather than just bare plastic which they all are at the moment . 	
+IS1000c.D.dialog-act.vkaraisk.22	Yeah . 	
+IS1000c.B.dialog-act.vkaraisk.37	Okay . 	
+IS1000c.A.dialog-act.vkaraisk.56	So 	
+IS1000c.A.dialog-act.vkaraisk.57	as far as the design goes , the very most important aspect was the design , to the customers . 	
+IS1000c.A.dialog-act.vkaraisk.58	So 	
+IS1000c.A.dialog-act.vkaraisk.59	going with the fruit and vegetable idea , we've got the bright colours , so makes it stand out , the oranges and the the bright yellows and the florescent colours , part of the fruit and vegetables um . 	
+IS1000c.A.dialog-act.vkaraisk.60	Going back to the idea of taking inspiration from mobile phones , 	
+IS1000c.A.dialog-act.vkaraisk.61	they've all got those 	
+IS1000c.A.dialog-act.vkaraisk.62	a lot of them have the changeable covers , 	
+IS1000c.A.dialog-act.vkaraisk.63	so they can choose what colour the outside is . 	
+IS1000c.A.dialog-act.vkaraisk.64	That's one way of looking at it um . 	
+IS1000c.A.dialog-act.vkaraisk.65	Textured feel we just talked about . 	
+IS1000c.A.dialog-act.vkaraisk.66	Maybe it's another way of doing that . 	
+IS1000c.B.dialog-act.vkaraisk.38	Mm-hmm . 	
+IS1000c.A.dialog-act.vkaraisk.67	So if it's part of the the changeable covers then may maybe they can choose a different texture , a spongy one or a soft one or something like that . 	
+IS1000c.A.dialog-act.vkaraisk.68	So they can choose it li as they want to to maybe to fit in with their decor in their living room , or just what they like , their sports team or whatever . 	
+IS1000c.D.dialog-act.vkaraisk.23	Yeah that's a very good idea , yeah . 	
+IS1000c.D.dialog-act.vkaraisk.24	Yeah . 	
+IS1000c.A.dialog-act.vkaraisk.69	Um and yeah , 	
+IS1000c.A.dialog-act.vkaraisk.70	still taking the inspiration from the mobile phone design so functionality , the way the mobile phones work , the way the keypad looks . 	
+IS1000c.A.dialog-act.vkaraisk.71	Also just the way that a lot of industrial design is going into mobile phones at the moment . 	
+IS1000c.A.dialog-act.vkaraisk.72	They're big selling items . 	
+IS1000c.A.dialog-act.vkaraisk.73	People put a lot of thought into that 	
+IS1000c.A.dialog-act.vkaraisk.74	so we can leverage off that , 	
+IS1000c.A.dialog-act.vkaraisk.75	and we can start using some of their ideas . 	
+IS1000c.A.dialog-act.vkaraisk.76	Um back to technological in in innovation , not quite as important , 	
+IS1000c.A.dialog-act.vkaraisk.77	but still a big issue . 	
+IS1000c.A.dialog-act.vkaraisk.78	Um we talked about having a way of finding a remote control if it's been lost , 	
+IS1000c.A.dialog-act.vkaraisk.79	uh that's one thing we could look at . 	
+IS1000c.A.dialog-act.vkaraisk.80	There are other aspects like L_C_D_ screens and speech recognition which weren't I don't think , in my personal opinion , gonna be worth the extra expense and the extra effort that will go into them . 	
+IS1000c.D.dialog-act.vkaraisk.25	Mm-hmm . 	
+IS1000c.A.dialog-act.vkaraisk.81	I think we're better doing something basic like this 	
+IS1000c.A.dialog-act.vkaraisk.82	which is very important 	
+IS1000c.A.dialog-act.vkaraisk.83	and very will be a really cool feature to put in . 	
+IS1000c.A.dialog-act.vkaraisk.84	And use . I had no real specific ideas for this , 	
+IS1000c.A.dialog-act.vkaraisk.85	maybe we just , the basic idea of having your core functions big and at the top maybe , by themselves , 	
+IS1000c.B.dialog-act.vkaraisk.39	Mm . 	
+IS1000c.B.dialog-act.vkaraisk.40	Yes well 	
+IS1000c.B.dialog-act.vkaraisk.41	maybe Matthew can can give some more information on the 	
+IS1000c.A.dialog-act.vkaraisk.86	and then 	
+IS1000c.A.dialog-act.vkaraisk.87	yeah 	
+IS1000c.C.dialog-act.vkaraisk.14	Yeah . 	
+IS1000c.A.dialog-act.vkaraisk.88	and then th th the finer details of buttons you don't use as much either hidden away or completely separate . 	
+IS1000c.B.dialog-act.vkaraisk.42	Mm . 	
+IS1000c.C.dialog-act.vkaraisk.15	Voila . 	
+IS1000c.A.dialog-act.vkaraisk.89	Yep and that's the presentation . 	
+IS1000c.B.dialog-act.vkaraisk.44	Okay good , 	
+IS1000c.B.dialog-act.vkaraisk.43	that's very clear . 	
+IS1000c.D.dialog-act.vkaraisk.26	Yeah very clear . 	
+IS1000c.C.dialog-act.vkaraisk.16	Yeah . 	
+IS1000c.B.dialog-act.vkaraisk.45	'Kay . Um . Uh 	
+IS1000c.A.dialog-act.vkaraisk.90	So 	
+IS1000c.A.dialog-act.vkaraisk.91	does anyone have any comments or ideas on that ? 	
+IS1000c.A.dialog-act.vkaraisk.92	I think you 	
+IS1000c.B.dialog-act.vkaraisk.46	Maybe we yes well we maybe can decide later on um the l the the look and feel 	
+IS1000c.B.dialog-act.vkaraisk.47	of uh I've 	
+IS1000c.B.dialog-act.vkaraisk.48	it was a good idea maybe to to 	
+IS1000c.D.dialog-act.vkaraisk.27	To let the people choose , you mean ? 	
+IS1000c.B.dialog-act.vkaraisk.49	Yes the the the there are changeable covers , 	
+IS1000c.D.dialog-act.vkaraisk.28	Yeah . 	
+IS1000c.B.dialog-act.vkaraisk.50	but on the other hand I I don't know whether my superiors would be so glad with it 	
+IS1000c.B.dialog-act.vkaraisk.51	because you have to introduce a complete uh uh new l line of uh of supplies 	
+IS1000c.B.dialog-act.vkaraisk.52	uh it would be uh very complicated uh organisational 	
+IS1000c.A.dialog-act.vkaraisk.93	Hmm . 	
+IS1000c.D.dialog-act.vkaraisk.29		
+IS1000c.A.dialog-act.vkaraisk.94	Well 	
+IS1000c.A.dialog-act.vkaraisk.95	we're selling so many units of this . 	
+IS1000c.A.dialog-act.vkaraisk.96	This is gonna be a mass marketed product , 	
+IS1000c.B.dialog-act.vkaraisk.53	Hmm . Mm-hmm . 	
+IS1000c.A.dialog-act.vkaraisk.97	we can afford to have two or three different designs at least . 	
+IS1000c.D.dialog-act.vkaraisk.30	Yeah a range of uh yeah , a set of three , four different aspects . 	
+IS1000c.B.dialog-act.vkaraisk.54	Yes . 	
+IS1000c.A.dialog-act.vkaraisk.98	Mm mm . 	
+IS1000c.B.dialog-act.vkaraisk.55	Mm-hmm . 	
+IS1000c.D.dialog-act.vkaraisk.31	Sure that fits the 	
+IS1000c.B.dialog-act.vkaraisk.56	Yes 	
+IS1000c.B.dialog-act.vkaraisk.57	and of course it will be a we we get a 	
+IS1000c.B.dialog-act.vkaraisk.58	if it works we can get uh after-sales 	
+IS1000c.A.dialog-act.vkaraisk.99	Mm . 	
+IS1000c.B.dialog-act.vkaraisk.59	I mean that would would be very good 	
+IS1000c.B.dialog-act.vkaraisk.60	I mean those covers could go for for three , five Euro . 	
+IS1000c.D.dialog-act.vkaraisk.32	Yeah . 	
+IS1000c.A.dialog-act.vkaraisk.100	Mm . 	
+IS1000c.B.dialog-act.vkaraisk.61	That's a very good idea um 	
+IS1000c.B.dialog-act.vkaraisk.62	And then uh maybe uh we can go a th Matthew's presentation 	
+IS1000c.B.dialog-act.vkaraisk.63	because 	
+IS1000c.C.dialog-act.vkaraisk.17	Yeah 	
+IS1000c.C.dialog-act.vkaraisk.18	s 	
+IS1000c.A.dialog-act.vkaraisk.101	Mm-hmm . 	
+IS1000c.B.dialog-act.vkaraisk.64	the 	
+IS1000c.C.dialog-act.vkaraisk.19	then we could discuss later 	
+IS1000c.C.dialog-act.vkaraisk.21	like 	
+IS1000c.C.dialog-act.vkaraisk.22	we can put all ideas together . 	
+IS1000c.B.dialog-act.vkaraisk.65	Together indeed uh , 	
+IS1000c.A.dialog-act.vkaraisk.102	Mm . 	
+IS1000c.D.dialog-act.vkaraisk.33	Yeah yeah I agree . 	
+IS1000c.B.dialog-act.vkaraisk.66	because you ma might have some some information on the the easy to use , 	
+IS1000c.C.dialog-act.vkaraisk.23	It should be easier with that . 	
+IS1000c.B.dialog-act.vkaraisk.67	what you were already mentioning . 	
+IS1000c.C.dialog-act.vkaraisk.24	Yeah . 	
+IS1000c.A.dialog-act.vkaraisk.103	Mm-hmm , yeah . 	
+IS1000c.D.dialog-act.vkaraisk.34	Yeah . 	
+IS1000c.D.dialog-act.vkaraisk.35	And your part is very related to mine 	
+IS1000c.C.dialog-act.vkaraisk.25	So 	
+IS1000c.D.dialog-act.vkaraisk.36	because when you suggest something then it has to be integrated inside . 	
+IS1000c.C.dialog-act.vkaraisk.26	Yeah . 	
+IS1000c.C.dialog-act.vkaraisk.27	Yeah so 	
+IS1000c.C.dialog-act.vkaraisk.28	I'll I'll go with that actually 	
+IS1000c.A.dialog-act.vkaraisk.104	Mm-hmm . 	
+IS1000c.C.dialog-act.vkaraisk.29	so um 	
+IS1000c.C.dialog-act.vkaraisk.30	Okay so m so 	
+IS1000c.C.dialog-act.vkaraisk.31	then the the idea of uh having a remote is generally you have uh different keys and uh different structures , different forms , 	
+IS1000c.C.dialog-act.vkaraisk.32	and uh they could be like buttons 	
+IS1000c.C.dialog-act.vkaraisk.33	and um they could be of uh a varying sizes if you want to to uh basically emphasize a particular key more than the other , 	
+IS1000c.C.dialog-act.vkaraisk.34	and uh maybe like you can have different colours 	
+IS1000c.C.dialog-act.vkaraisk.35	for example having the r red for the on off switching on and off the button . 	
+IS1000c.C.dialog-act.vkaraisk.36	So this this is the general trend to ha the method they do . 	
+IS1000c.D.dialog-act.vkaraisk.37	Yeah . 	
+IS1000c.A.dialog-act.vkaraisk.105	Mm-hmm . 	
+IS1000c.C.dialog-act.vkaraisk.37	So what I have found was that uh currently uh the they are mostly that the T_V_ , V_C_R_ , music system operated ones actually , 	
+IS1000c.C.dialog-act.vkaraisk.38	and they are very specific to each other , 	
+IS1000c.C.dialog-act.vkaraisk.39	but there are some common keys 	
+IS1000c.C.dialog-act.vkaraisk.40	for example if you want to follow the V_C_R_ and if you want to follow the uh g uh s some uh soundtrack on the w w see they have the common thing actually you can have 	
+IS1000c.A.dialog-act.vkaraisk.106	Mm . 	
+IS1000c.C.dialog-act.vkaraisk.41	and uh 	
+IS1000c.C.dialog-act.vkaraisk.42	There is also um a speech recognition to store channel information , names , 	
+IS1000c.C.dialog-act.vkaraisk.43	like 	
+IS1000c.C.dialog-act.vkaraisk.44	You can basically 	
+IS1000c.C.dialog-act.vkaraisk.45	if you have a multiple functionality , say T_V_ , V_C_R_ or something I say it to the T_V_ and the T_V_ , and you can programme the keys if you want to , certain keys are even the channel information . 	
+IS1000c.A.dialog-act.vkaraisk.107	Mm . 	
+IS1000c.A.dialog-act.vkaraisk.108	Mm . 	
+IS1000c.A.dialog-act.vkaraisk.109	I like the idea though of having speech recognition for like the n the name of a channel like B_B_C_ , rather than having to remember the the number of it on the keypad . 	
+IS1000c.C.dialog-act.vkaraisk.46	Yeah yeah 	
+IS1000c.A.dialog-act.vkaraisk.110	That's a good idea . 	
+IS1000c.C.dialog-act.vkaraisk.47	so you you you can just uh 	
+IS1000c.C.dialog-act.vkaraisk.48	because uh as more and more channels come then you have more and more problems to remember the v v exact channel numbers ex exactly , 	
+IS1000c.D.dialog-act.vkaraisk.38	. 	
+IS1000c.A.dialog-act.vkaraisk.111	Mm . 	
+IS1000c.D.dialog-act.vkaraisk.39	Yeah . 	
+IS1000c.C.dialog-act.vkaraisk.49	even if you arrange it by however you arrange it , you still have the problem to remember exactly which channel you want to 	
+IS1000c.A.dialog-act.vkaraisk.112	Hmm . 	
+IS1000c.A.dialog-act.vkaraisk.113	Mm . Yeah I really like that idea . 	
+IS1000c.D.dialog-act.vkaraisk.41	So 	
+IS1000c.D.dialog-act.vkaraisk.40	what functionalities do you suggest for that ? For facing this problem ? 	
+IS1000c.C.dialog-act.vkaraisk.50	So 	
+IS1000c.C.dialog-act.vkaraisk.51	it it it's like 	
+IS1000c.C.dialog-act.vkaraisk.52	it limited one . 	
+IS1000c.C.dialog-act.vkaraisk.53	In the present market I saw it that says something like they are looking for eighty word thing , eighty word , 	
+IS1000c.A.dialog-act.vkaraisk.114	Mm-hmm . 	
+IS1000c.C.dialog-act.vkaraisk.54	which shouldn't be th that difficult to implement , like eighty to hundred word . 	
+IS1000c.C.dialog-act.vkaraisk.55	Basically you want you don't want to store all the channels in the remote control , 	
+IS1000c.A.dialog-act.vkaraisk.115	Mm . 	
+IS1000c.C.dialog-act.vkaraisk.56	you want to st store your favourite channel . 	
+IS1000c.A.dialog-act.vkaraisk.116	Maybe ten channels , yeah at the most . 	
+IS1000c.C.dialog-act.vkaraisk.57	Yeah some ten twelve channel information . 	
+IS1000c.C.dialog-act.vkaraisk.58	You know 	
+IS1000c.D.dialog-act.vkaraisk.42	Okay . 	
+IS1000c.C.dialog-act.vkaraisk.59	you don't want to st store all the hundred channel information into that . 	
+IS1000c.A.dialog-act.vkaraisk.117	Mm . 	
+IS1000c.C.dialog-act.vkaraisk.60	And uh basically uh 	
+IS1000c.C.dialog-act.vkaraisk.61	it depends 	
+IS1000c.C.dialog-act.vkaraisk.62	like the remote with L_C_D_ display for browsing 	
+IS1000c.C.dialog-act.vkaraisk.63	because you have multiple functionalities 	
+IS1000c.C.dialog-act.vkaraisk.64	for example you are watching a movie , and uh uh you are having a universal remote control and you want to uh you don't know really which functionality is now , 	
+IS1000c.C.dialog-act.vkaraisk.65	so I am using the T_V_ so every time I use it , it could be like , 	
+IS1000c.C.dialog-act.vkaraisk.67	for example I can use a simple toggle switch , and a display , 	
+IS1000c.C.dialog-act.vkaraisk.68	so I press it so the display says , okay , I'm in T_V_ or D_V_D_ or whatever it is , instead of having three keys separately for four keys , 	
+IS1000c.A.dialog-act.vkaraisk.118	Mm-hmm . 	
+IS1000c.D.dialog-act.vkaraisk.43	Mm-hmm . 	
+IS1000c.D.dialog-act.vkaraisk.44	Oh yeah yeah yeah mm . 	
+IS1000c.C.dialog-act.vkaraisk.69	to model the functionalities will increase actually , 	
+IS1000c.A.dialog-act.vkaraisk.119	Mm . 	
+IS1000c.D.dialog-act.vkaraisk.45	Mm . 	
+IS1000c.C.dialog-act.vkaraisk.70	and for you and you might want 	
+IS1000c.A.dialog-act.vkaraisk.120	Mm . 	
+IS1000c.C.dialog-act.vkaraisk.71	you don't want separate keys for all of them . 	
+IS1000c.C.dialog-act.vkaraisk.72	You can't . 	
+IS1000c.C.dialog-act.vkaraisk.73	And uh well 	
+IS1000c.C.dialog-act.vkaraisk.74	there can be children friendly 	
+IS1000c.C.dialog-act.vkaraisk.75	where you can programme your remote 	
+IS1000c.C.dialog-act.vkaraisk.76	so that they they are not allowed uh to browse certain channels which you can block them , and you can operate them . 	
+IS1000c.D.dialog-act.vkaraisk.46	Mm-hmm . 	
+IS1000c.C.dialog-act.vkaraisk.77	So these are the things presently which are seen in the market scenarios at present . 	
+IS1000c.C.dialog-act.vkaraisk.78	I personally would look at things like having a u universal remote , 	
+IS1000c.C.dialog-act.vkaraisk.79	is uh um is a good idea , 	
+IS1000c.C.dialog-act.vkaraisk.80	like 	
+IS1000c.C.dialog-act.vkaraisk.81	instead of having unusual ones for all of them you can think of having , um with multiple functionality possibly with speech recognition . 	
+IS1000c.A.dialog-act.vkaraisk.121	Mm-hmm . 	
+IS1000c.C.dialog-act.vkaraisk.82	I got a mail from the the coffee machine interface unit 	
+IS1000c.C.dialog-act.vkaraisk.83	that uh they have uh integrated the s speech recognition into a into the coffee machine , 	
+IS1000c.D.dialog-act.vkaraisk.47		
+IS1000c.C.dialog-act.vkaraisk.84	and so if you say hello coffee machine , it say hi Joe , or something like that , 	
+IS1000c.A.dialog-act.vkaraisk.122	Mm b 	
+IS1000c.C.dialog-act.vkaraisk.85	you know , and uh 	
+IS1000c.A.dialog-act.vkaraisk.123	But a coffee machine , there's not too many words they'd be using with that it's a it's a small vocabulary . 	
+IS1000c.C.dialog-act.vkaraisk.86	Yeah 	
+IS1000c.C.dialog-act.vkaraisk.87	you you won't be using it , 	
+IS1000c.C.dialog-act.vkaraisk.88	so it's a limited vocabulary mm thing , and very isolated word 	
+IS1000c.A.dialog-act.vkaraisk.124	Mm . 	
+IS1000c.C.dialog-act.vkaraisk.89	and it's uh it is interesting , and basically storing the channel through voice or other ways of programming your keys , on the display for the browsing 	
+IS1000c.A.dialog-act.vkaraisk.125	Mm . 	
+IS1000c.A.dialog-act.vkaraisk.126	Mm . 	
+IS1000c.C.dialog-act.vkaraisk.90	which is again 	
+IS1000c.C.dialog-act.vkaraisk.91	and maybe having something like a blinking thing , 	
+IS1000c.C.dialog-act.vkaraisk.92	like uh it could indicate you're uh it it could indicate what is cal like the uh whether uh you you have enough battery in your in your uh remote , the blinking . 	
+IS1000c.A.dialog-act.vkaraisk.127	Mm . 	
+IS1000c.D.dialog-act.vkaraisk.48	Yeah . 	
+IS1000c.C.dialog-act.vkaraisk.93	At the same time , if it's a dark room , it can be used to locate the remote also 	
+IS1000c.C.dialog-act.vkaraisk.94	or 	
+IS1000c.A.dialog-act.vkaraisk.128		
+IS1000c.D.dialog-act.vkaraisk.49	And you want 	
+IS1000c.D.dialog-act.vkaraisk.50	okay 	
+IS1000c.D.dialog-act.vkaraisk.51	for 	
+IS1000c.D.dialog-act.vkaraisk.52	coming back to one point 	
+IS1000c.A.dialog-act.vkaraisk.129	Two thirty five supposed to finish . 	
+IS1000c.D.dialog-act.vkaraisk.53	y you want to let the user to programming the keys ? Some of them ? 	
+IS1000c.C.dialog-act.vkaraisk.95	Yeah you can let them to do that . 	
+IS1000c.D.dialog-act.vkaraisk.54	And uh isn't that too difficult 	
+IS1000c.D.dialog-act.vkaraisk.55	for the we want w 	
+IS1000c.D.dialog-act.vkaraisk.56	I don't know if we still want the um R_C_ to be easy to use , 	
+IS1000c.A.dialog-act.vkaraisk.130	Hmm . 	
+IS1000c.D.dialog-act.vkaraisk.57	that's the compromise . 	
+IS1000c.C.dialog-act.vkaraisk.96	N no 	
+IS1000c.C.dialog-act.vkaraisk.97	but the if you give 	
+IS1000c.C.dialog-act.vkaraisk.98	it d depends on the easiness like the user how much effort he can put . 	
+IS1000c.D.dialog-act.vkaraisk.58	Yeah . 	
+IS1000c.A.dialog-act.vkaraisk.131	Hmm . 	
+IS1000c.C.dialog-act.vkaraisk.99	Like for example uh I would like to store in certain way , 	
+IS1000c.C.dialog-act.vkaraisk.100	so if you want to give the full freedom to the user 	
+IS1000c.A.dialog-act.vkaraisk.132	Mm . 	
+IS1000c.C.dialog-act.vkaraisk.101	or you want to keep some constraints and let the user use it with that constraint . 	
+IS1000c.D.dialog-act.vkaraisk.59	Yeah . 	
+IS1000c.A.dialog-act.vkaraisk.133	Yeah . 	
+IS1000c.A.dialog-act.vkaraisk.134	Mm . 	
+IS1000c.D.dialog-act.vkaraisk.60	Yeah . 	
+IS1000c.A.dialog-act.vkaraisk.135	I think you can do it both ways . 	
+IS1000c.C.dialog-act.vkaraisk.102	So it de 	
+IS1000c.A.dialog-act.vkaraisk.136	You can have it so it's easy they can pick it up and use it straight away without doing anythi without customizing it , 	
+IS1000c.D.dialog-act.vkaraisk.61	A standard . 	
+IS1000c.D.dialog-act.vkaraisk.62	Yeah . 	
+IS1000c.A.dialog-act.vkaraisk.137	or if they want to they have the option of using these extra features . 	
+IS1000c.B.dialog-act.vkaraisk.68	Um yes 	
+IS1000c.C.dialog-act.vkaraisk.103	So 	
+IS1000c.D.dialog-act.vkaraisk.63	Yeah . 	
+IS1000c.B.dialog-act.vkaraisk.69	but but I do 	
+IS1000c.B.dialog-act.vkaraisk.70	maybe you can give a hand to us 	
+IS1000c.B.dialog-act.vkaraisk.71	because I I'm not sure whether that that we can implement that for twelve Euro and fifty cents . 	
+IS1000c.C.dialog-act.vkaraisk.104	So 	
+IS1000c.B.dialog-act.vkaraisk.72	I'm sorry to have Every time I have to come down on this price again 	
+IS1000c.A.dialog-act.vkaraisk.138	Hmm . 	
+IS1000c.A.dialog-act.vkaraisk.139	Hmm . 	
+IS1000c.B.dialog-act.vkaraisk.74	to 	
+IS1000c.B.dialog-act.vkaraisk.75	so this might be a little limiting for your creativity , 	
+IS1000c.B.dialog-act.vkaraisk.76	but it's it's it's the real 	
+IS1000c.A.dialog-act.vkaraisk.140	Hmm . 	
+IS1000c.B.dialog-act.vkaraisk.77	We have to consider it . 	
+IS1000c.B.dialog-act.vkaraisk.78	S so 	
+IS1000c.D.dialog-act.vkaraisk.64	Yeah . 	
+IS1000c.B.dialog-act.vkaraisk.79	do we think these ideas an and my uh sp speech recognition , I mean maybe it's possible for for twelve Euro 	
+IS1000c.B.dialog-act.vkaraisk.80	but then then it will be at cost of other functionality we might implement like the uh uh the the the furry uh uh case of the 	
+IS1000c.A.dialog-act.vkaraisk.141	Mm . 	
+IS1000c.A.dialog-act.vkaraisk.142	Hmm . 	
+IS1000c.D.dialog-act.vkaraisk.65	Mm-hmm 	
+IS1000c.D.dialog-act.vkaraisk.66	yeah like 	
+IS1000c.D.dialog-act.vkaraisk.67	I would say that for programming uh keys , you said , uh it could be uh easily uh done within the the package of twel twelve Euros , 	
+IS1000c.C.dialog-act.vkaraisk.105	Yeah . 	
+IS1000c.B.dialog-act.vkaraisk.81	Mm . 	
+IS1000c.C.dialog-act.vkaraisk.106	Yeah . 	
+IS1000c.D.dialog-act.vkaraisk.68	but for the A_S_R_ system , uh I'm not sure if it's feasible to have this 	
+IS1000c.C.dialog-act.vkaraisk.107	We well 	
+IS1000c.C.dialog-act.vkaraisk.108	we can still look at 	
+IS1000c.D.dialog-act.vkaraisk.69	We 	
+IS1000c.C.dialog-act.vkaraisk.109	we can talk with the coffee unit 	
+IS1000c.C.dialog-act.vkaraisk.110	and you can uh check how much how much they 	
+IS1000c.D.dialog-act.vkaraisk.70	Exactly yeah 	
+IS1000c.D.dialog-act.vkaraisk.71	i if if it's a low vocabulary it's already implemented , 	
+IS1000c.C.dialog-act.vkaraisk.111	yeah yeah 	
+IS1000c.A.dialog-act.vkaraisk.143	Mm . 	
+IS1000c.C.dialog-act.vkaraisk.112	yeah . 	
+IS1000c.D.dialog-act.vkaraisk.72	and w how much it's cost , maybe with a f cheap chip . 	
+IS1000c.C.dialog-act.vkaraisk.113	Maybe we can come we we can talk to them , and we can come with that , 	
+IS1000c.B.dialog-act.vkaraisk.82	Mm mm . 	
+IS1000c.C.dialog-act.vkaraisk.114	you know . 	
+IS1000c.D.dialog-act.vkaraisk.73	Yeah . 	
+IS1000c.C.dialog-act.vkaraisk.115	And also well you can think of having uh since you have a you know something 	
+IS1000c.C.dialog-act.vkaraisk.116	maybe if you added little bit of display , 	
+IS1000c.C.dialog-act.vkaraisk.117	you might need the to che keep checking the battery , 	
+IS1000c.C.dialog-act.vkaraisk.118	so you really need a some kind of indicator , 	
+IS1000c.C.dialog-act.vkaraisk.119	so it could be a blinking option of L_E_D_ 	
+IS1000c.A.dialog-act.vkaraisk.144	Hmm . 	
+IS1000c.B.dialog-act.vkaraisk.83	Hmm . 	
+IS1000c.C.dialog-act.vkaraisk.120	it could actually be used to detect also . 	
+IS1000c.D.dialog-act.vkaraisk.74	Yeah . 	
+IS1000c.C.dialog-act.vkaraisk.121	If it's in a dark room you can basically detect it also . 	
+IS1000c.A.dialog-act.vkaraisk.145	Mm . 	
+IS1000c.A.dialog-act.vkaraisk.146	Hmm . 	
+IS1000c.D.dialog-act.vkaraisk.75	Yeah . 	
+IS1000c.B.dialog-act.vkaraisk.84	Hmm . 	
+IS1000c.C.dialog-act.vkaraisk.122	So 	
+IS1000c.B.dialog-act.vkaraisk.85	Mm . 	
+IS1000c.A.dialog-act.vkaraisk.147	I like the idea too of being able to use the remote in the dark , 	
+IS1000c.A.dialog-act.vkaraisk.148	so either having the buttons so you can feel the difference between them 	
+IS1000c.A.dialog-act.vkaraisk.149	or if they if they light up or something . 	
+IS1000c.C.dialog-act.vkaraisk.123	No 	
+IS1000c.C.dialog-act.vkaraisk.124	actually 	
+IS1000c.C.dialog-act.vkaraisk.125	i if i it is like 	
+IS1000c.C.dialog-act.vkaraisk.126	you know 	
+IS1000c.C.dialog-act.vkaraisk.127	it tells you um , 	
+IS1000c.C.dialog-act.vkaraisk.128	it can be for two purposes , 	
+IS1000c.A.dialog-act.vkaraisk.150	Mm . 	
+IS1000c.C.dialog-act.vkaraisk.129	like if you have an L_C_D_ display and all those things it's not going to be the standard remote , 	
+IS1000c.A.dialog-act.vkaraisk.151	Mm . 	
+IS1000c.A.dialog-act.vkaraisk.152	Hmm . 	
+IS1000c.C.dialog-act.vkaraisk.130	which is having 	
+IS1000c.C.dialog-act.vkaraisk.131	uh which need just uh six six volt uh th sorry three volts um of D_C_ . 	
+IS1000c.A.dialog-act.vkaraisk.153	Mm . 	
+IS1000c.C.dialog-act.vkaraisk.132	It may need more actually , 	
+IS1000c.C.dialog-act.vkaraisk.133	so y you you may need to check your battery usage 	
+IS1000c.C.dialog-act.vkaraisk.134	it 	
+IS1000c.C.dialog-act.vkaraisk.135	and then you need that , some functionality to indicate the battery limit . 	
+IS1000c.D.dialog-act.vkaraisk.76	Mm . 	
+IS1000c.A.dialog-act.vkaraisk.154	Hmm . 	
+IS1000c.D.dialog-act.vkaraisk.77	It's true . 	
+IS1000c.C.dialog-act.vkaraisk.136	And then if the battery limit is indicated , if it could be ind indicated through a blinking something 	
+IS1000c.A.dialog-act.vkaraisk.155	Mm . 	
+IS1000c.C.dialog-act.vkaraisk.137	and it can change the colour depending on your uh how much is the battery , 	
+IS1000c.C.dialog-act.vkaraisk.138	well 	
+IS1000c.C.dialog-act.vkaraisk.139	that is good enough to even locate even if you want to . 	
+IS1000c.D.dialog-act.vkaraisk.78	Mm-hmm . 	
+IS1000c.C.dialog-act.vkaraisk.140	You know . 	
+IS1000c.D.dialog-act.vkaraisk.79	. 	
+IS1000c.B.dialog-act.vkaraisk.86	'Kay good . 	
+IS1000c.C.dialog-act.vkaraisk.141	Yeah 	
+IS1000c.C.dialog-act.vkaraisk.142	so 	
+IS1000c.D.dialog-act.vkaraisk.80	I don't know how if if I have time to talk about the 	
+IS1000c.B.dialog-act.vkaraisk.87	Mm yes um 	
+IS1000c.C.dialog-act.vkaraisk.143	You you have time some more ? 	
+IS1000c.B.dialog-act.vkaraisk.88	I would 	
+IS1000c.C.dialog-act.vkaraisk.144	Yep . 	
+IS1000c.B.dialog-act.vkaraisk.89	Yes yes you can you can still . We have time . 	
+IS1000c.D.dialog-act.vkaraisk.81	Okay . 	
+IS1000c.C.dialog-act.vkaraisk.145	Sure you can you know . 	
+IS1000c.A.dialog-act.vkaraisk.156		
+IS1000c.D.dialog-act.vkaraisk.82	So 	
+IS1000c.D.dialog-act.vkaraisk.83	what I'm gonna present here is very uh um yeah basic knowledge about the all the the components that are inside a a R_C_ a remote control , and how is it manufactured h what is the process , just to explain you . 	
+IS1000c.A.dialog-act.vkaraisk.157	Mm-hmm . 	
+IS1000c.D.dialog-act.vkaraisk.84	So 	
+IS1000c.D.dialog-act.vkaraisk.85	the method is ther 	
+IS1000c.D.dialog-act.vkaraisk.86	there is a a set of components in a in a remote control 	
+IS1000c.D.dialog-act.vkaraisk.87	like , and uh what cost 	
+IS1000c.D.dialog-act.vkaraisk.88	the the components in themself do not cost a lot 	
+IS1000c.D.dialog-act.vkaraisk.89	but the the way to assemble everything costs obviously , 	
+IS1000c.D.dialog-act.vkaraisk.90	and I will uh show you my preferences uh uh at the end . 	
+IS1000c.D.dialog-act.vkaraisk.91	So 	
+IS1000c.D.dialog-act.vkaraisk.92	there are two uh different types of uh um Two different ways of using the the components for making a a remote control . 	
+IS1000c.B.dialog-act.vkaraisk.90	Nice . 	
+IS1000c.C.dialog-act.vkaraisk.146	Hmm . 	
+IS1000c.D.dialog-act.vkaraisk.93	Uh the basic way is to use a an integrated circuit and some uh transistors with an 	
+IS1000c.D.dialog-act.vkaraisk.94	that aims at communicating uh uh the message and to to send the message to the um to the led 	
+IS1000c.D.dialog-act.vkaraisk.95	that will uh transmit to the receiver . 	
+IS1000c.D.dialog-act.vkaraisk.96	And uh yeah 	
+IS1000c.D.dialog-act.vkaraisk.97	the other components and the circuit board buttons , infrared , led , etcetera , for the components 	
+IS1000c.D.dialog-act.vkaraisk.98	um . So 	
+IS1000c.D.dialog-act.vkaraisk.99	you finding , 	
+IS1000c.D.dialog-act.vkaraisk.100	just to say that the chip can detect uh when a key is pressed , 	
+IS1000c.D.dialog-act.vkaraisk.101	and then it translate to the key , to a sequence , something like morse code , as you know , uh with a different sequence for each key , 	
+IS1000c.C.dialog-act.vkaraisk.147	Mm-hmm . 	
+IS1000c.B.dialog-act.vkaraisk.91	Mm-hmm . 	
+IS1000c.D.dialog-act.vkaraisk.102	and uh uh 	
+IS1000c.D.dialog-act.vkaraisk.103	that's , 	
+IS1000c.D.dialog-act.vkaraisk.104	with the components we will use , we will have different uh messages , different sequences , 	
+IS1000c.D.dialog-act.vkaraisk.105	and the chips sends that signal signal to the transistor 	
+IS1000c.D.dialog-act.vkaraisk.106	that amplify to make it stronger 	
+IS1000c.D.dialog-act.vkaraisk.107	um . So 	
+IS1000c.D.dialog-act.vkaraisk.108	electronic parts are assembled onto uh printed boards 	
+IS1000c.D.dialog-act.vkaraisk.109	uh because it's easier to mass produce and assemble . 	
+IS1000c.D.dialog-act.vkaraisk.110	And uh so 	
+IS1000c.D.dialog-act.vkaraisk.111	I think for our design we want some b uh programmable uh you know V_ V_L_S_I_ or F_P_G_A_ uh high technology , 	
+IS1000c.C.dialog-act.vkaraisk.148	Yeah mm mm-hmm . 	
+IS1000c.D.dialog-act.vkaraisk.112	and this is important , 	
+IS1000c.D.dialog-act.vkaraisk.113	and also we'll use uh yeah like in any uh high-tech uh devices a chip of fi fibreglass to them and connect them . 	
+IS1000c.C.dialog-act.vkaraisk.149	Mm-hmm . 	
+IS1000c.D.dialog-act.vkaraisk.114	So 	
+IS1000c.D.dialog-act.vkaraisk.115	my personal design 	
+IS1000c.D.dialog-act.vkaraisk.116	we need to find a solution what um what is the material of the cover we want to use . 	
+IS1000c.D.dialog-act.vkaraisk.117	If it's plastic 	
+IS1000c.D.dialog-act.vkaraisk.118	or you said that yeah you had some ideas uh like fruit , veg or 	
+IS1000c.A.dialog-act.vkaraisk.158	Mm . 	
+IS1000c.D.dialog-act.vkaraisk.119	I dunno . 	
+IS1000c.B.dialog-act.vkaraisk.92	Well well 	
+IS1000c.A.dialog-act.vkaraisk.159		
+IS1000c.B.dialog-act.vkaraisk.93	m m maybe m maybe we can give the uh the uh the case a very uh uh normal a v very normal case but , with the changeable covers to fancy it up . 	
+IS1000c.D.dialog-act.vkaraisk.120	Yes . 	
+IS1000c.D.dialog-act.vkaraisk.121	Yes . 	
+IS1000c.A.dialog-act.vkaraisk.160	Mm-hmm . 	
+IS1000c.B.dialog-act.vkaraisk.94	So like a normal cheap plastic case which can be covered up in , for instance , a wooden case . 	
+IS1000c.A.dialog-act.vkaraisk.161	Mm-hmm . 	
+IS1000c.C.dialog-act.vkaraisk.150	Yeah . 	
+IS1000c.D.dialog-act.vkaraisk.122	Yes . 	
+IS1000c.A.dialog-act.vkaraisk.162	Mm just have a yeah 	
+IS1000c.D.dialog-act.vkaraisk.123	Yeah 	
+IS1000c.D.dialog-act.vkaraisk.124	like they do in with cars I think . Yeah inside the car 	
+IS1000c.A.dialog-act.vkaraisk.163	Just the veneer on it , 	
+IS1000c.D.dialog-act.vkaraisk.125	yeah . 	
+IS1000c.A.dialog-act.vkaraisk.164	yeah . 	
+IS1000c.D.dialog-act.vkaraisk.126	So 	
+IS1000c.D.dialog-act.vkaraisk.127	they also emailed me that uh they have available a bunch of different buttons , a scroll wheels , integrated push buttons s such as a computer mouse . And uh very cheap L_C_D_s , so liquid crystal displays , 	
+IS1000c.C.dialog-act.vkaraisk.151	Yeah . 	
+IS1000c.D.dialog-act.vkaraisk.128	so I'm wondering , I think we might be able to integrate L_C_D_ into our R_C_ . 	
+IS1000c.D.dialog-act.vkaraisk.129	And the final point okay is um we have yeah there are some uh compromise to to do . 	
+IS1000c.A.dialog-act.vkaraisk.165	Hmm . 	
+IS1000c.D.dialog-act.vkaraisk.130	So 	
+IS1000c.D.dialog-act.vkaraisk.131	we have to know that the push button requires a simple chip , 	
+IS1000c.D.dialog-act.vkaraisk.132	but the scroll wheel uh and that kind of higher high-tech stuff needs more money um which is a higher price range 	
+IS1000c.D.dialog-act.vkaraisk.133	alright . 	
+IS1000c.D.dialog-act.vkaraisk.134	And the display requires an advanced chip , 	
+IS1000c.D.dialog-act.vkaraisk.135	which in turns is more expensive than the regular chip , 	
+IS1000c.D.dialog-act.vkaraisk.136	but I think uh with twelve Euros um and if it's uh uh made for mm four million uh items , then I think w we could be able to handle that . 	
+IS1000c.B.dialog-act.vkaraisk.95	Mm-hmm . 	
+IS1000c.D.dialog-act.vkaraisk.137	So 	
+IS1000c.D.dialog-act.vkaraisk.138	to to sum up um 	
+IS1000c.D.dialog-act.vkaraisk.139	we need 	
+IS1000c.D.dialog-act.vkaraisk.140	yeah so 	
+IS1000c.D.dialog-act.vkaraisk.141	I I just said that the components uh the list of components uh has to be uh yeah listed 	
+IS1000c.D.dialog-act.vkaraisk.142	and um and um assembly is a an important process 	
+IS1000c.D.dialog-act.vkaraisk.143	that has to be taken into account . 	
+IS1000c.D.dialog-act.vkaraisk.144	And uh for the designing of the cove uh uh cover layout then it's better to to to maybe see that with uh the the U_R_ exp U_R_I_ Expert 	
+IS1000c.C.dialog-act.vkaraisk.152	Sorry . 	
+IS1000c.A.dialog-act.vkaraisk.166	Mm . 	
+IS1000c.D.dialog-act.vkaraisk.145	so that we can it's really a team-working 	
+IS1000c.D.dialog-act.vkaraisk.146	uh . So 	
+IS1000c.B.dialog-act.vkaraisk.96	Mm . 	
+IS1000c.D.dialog-act.vkaraisk.147	I I cannot design something without your agreement , 	
+IS1000c.C.dialog-act.vkaraisk.153	Yeah so 	
+IS1000c.D.dialog-act.vkaraisk.148	right ? 	
+IS1000c.B.dialog-act.vkaraisk.97	No of course . 	
+IS1000c.C.dialog-act.vkaraisk.154	of course 	
+IS1000c.C.dialog-act.vkaraisk.155	for example uh I wanted to know like if you want to have a a fo if you want to have the L_C_D_ display over there , 	
+IS1000c.D.dialog-act.vkaraisk.149	Yes . 	
+IS1000c.C.dialog-act.vkaraisk.156	or if you want to store a programmes with a keys 	
+IS1000c.C.dialog-act.vkaraisk.158	What kind of things you'll need inside your thin inside 	
+IS1000c.C.dialog-act.vkaraisk.159	W wh what 	
+IS1000c.D.dialog-act.vkaraisk.150	Yeah 	
+IS1000c.D.dialog-act.vkaraisk.151	it's kind of um simple pro progra programmable device , and we have to insert . 	
+IS1000c.C.dialog-act.vkaraisk.160	W what 	
+IS1000c.C.dialog-act.vkaraisk.161	Okay . 	
+IS1000c.D.dialog-act.vkaraisk.152	I think we could insert one that could underlie several functions 	
+IS1000c.C.dialog-act.vkaraisk.162	Okay . 	
+IS1000c.D.dialog-act.vkaraisk.153	of 	
+IS1000c.C.dialog-act.vkaraisk.163	Okay so 	
+IS1000c.C.dialog-act.vkaraisk.164	in that case you can even look at the technology what the mobile phone is trying to use with the card . 	
+IS1000c.D.dialog-act.vkaraisk.154	Exactly yeah , for customizing and yeah . 	
+IS1000c.C.dialog-act.vkaraisk.165	Yeah 	
+IS1000c.C.dialog-act.vkaraisk.166	where they do all the wi with with them actually . 	
+IS1000c.D.dialog-act.vkaraisk.156	Okay . 	
+IS1000c.C.dialog-act.vkaraisk.167	How f cost effective it would be to put that car chip into it and do the programmable things . 	
+IS1000c.D.dialog-act.vkaraisk.157	Yeah . Yeah good idea . 	
+IS1000c.B.dialog-act.vkaraisk.98	So 	
+IS1000c.B.dialog-act.vkaraisk.99	So 	
+IS1000c.B.dialog-act.vkaraisk.100	I f 	
+IS1000c.B.dialog-act.vkaraisk.101	I think we we should come to some decisions now uh a about this . 	
+IS1000c.D.dialog-act.vkaraisk.158	Yeah . 	
+IS1000c.B.dialog-act.vkaraisk.102	Um so 	
+IS1000c.B.dialog-act.vkaraisk.103	I understand uh when we want a display we need a expensive chip , 	
+IS1000c.B.dialog-act.vkaraisk.104	but when we want a scrolling wheel w we also need the expensive chip , 	
+IS1000c.B.dialog-act.vkaraisk.105	so can we use same chip , 	
+IS1000c.B.dialog-act.vkaraisk.106	so with one expensive chip we can uh implement several complicated uh or advanced features . 	
+IS1000c.D.dialog-act.vkaraisk.159	Exactly yeah that's a very good idea , 	
+IS1000c.B.dialog-act.vkaraisk.107	Yes . 	
+IS1000c.D.dialog-act.vkaraisk.160	we could have uh one main chip uh that could handle , uh it's called F_P_G_A_ chip , that could handle both uh like scrolling wheels as well as uh L_C_D_ 	
+IS1000c.B.dialog-act.vkaraisk.108	Mm-hmm . 	
+IS1000c.B.dialog-act.vkaraisk.109	Mm-hmm . 	
+IS1000c.A.dialog-act.vkaraisk.167	Mm-hmm . 	
+IS1000c.D.dialog-act.vkaraisk.161	and 	
+IS1000c.D.dialog-act.vkaraisk.162	yeah . 	
+IS1000c.B.dialog-act.vkaraisk.110	So 	
+IS1000c.B.dialog-act.vkaraisk.111	when the more expensive chip you mentioned there is is possible in the in the given budget , uh maybe we should go for for the more expensive chip , 	
+IS1000c.B.dialog-act.vkaraisk.112	so all features uh which you mentioned can be implemented based on the same chip . 	
+IS1000c.D.dialog-act.vkaraisk.163	Yes . 	
+IS1000c.C.dialog-act.vkaraisk.168	D 	
+IS1000c.C.dialog-act.vkaraisk.169	well 	
+IS1000c.B.dialog-act.vkaraisk.113	Do you think that's feasible ? 	
+IS1000c.C.dialog-act.vkaraisk.170	Well 	
+IS1000c.C.dialog-act.vkaraisk.171	I don't know if it'll fit into our cost of twelve point five Euro you know . 	
+IS1000c.B.dialog-act.vkaraisk.114	Uh You th you think it's possible . 	
+IS1000c.C.dialog-act.vkaraisk.172	Is it possible to fit in to that ? 	
+IS1000c.D.dialog-act.vkaraisk.164	Yeah 	
+IS1000c.D.dialog-act.vkaraisk.165	also thinking , 	
+IS1000c.D.dialog-act.vkaraisk.166	I think both uh if we had a budget of twenty twenty uh Euros , it will be okay , 	
+IS1000c.C.dialog-act.vkaraisk.173	Sorry . 	
+IS1000c.B.dialog-act.vkaraisk.115	Hmm . 	
+IS1000c.D.dialog-act.vkaraisk.167	but uh . 	
+IS1000c.A.dialog-act.vkaraisk.168	Well 	
+IS1000c.A.dialog-act.vkaraisk.169	maybe we need specific costings then . 	
+IS1000c.A.dialog-act.vkaraisk.170	Actually 	
+IS1000c.A.dialog-act.vkaraisk.171	do maybe two designs 	
+IS1000c.A.dialog-act.vkaraisk.172	and then cost them out 	
+IS1000c.A.dialog-act.vkaraisk.173	and see which one is gonna fit in our budget better . 	
+IS1000c.D.dialog-act.vkaraisk.168	Yeah that's an excellent idea . 	
+IS1000c.B.dialog-act.vkaraisk.116	Mm yes 	
+IS1000c.B.dialog-act.vkaraisk.117	wh when you make a a design ca you can next meeting you can give an quite an exact cost price . 	
+IS1000c.D.dialog-act.vkaraisk.169	Yeah yeah . Yeah 	
+IS1000c.B.dialog-act.vkaraisk.118	That w that would be a very good idea . 	
+IS1000c.A.dialog-act.vkaraisk.174	Mm . 	
+IS1000c.D.dialog-act.vkaraisk.170	because right now I don't have price in in head 	
+IS1000c.D.dialog-act.vkaraisk.171	but for next meeting I'm sure yeah be able to do that . 	
+IS1000c.B.dialog-act.vkaraisk.119	Mm . 	
+IS1000c.B.dialog-act.vkaraisk.120	Good good . 	
+IS1000c.C.dialog-act.vkaraisk.174	Yeah 	
+IS1000c.C.dialog-act.vkaraisk.175	that's uh that's something which I wanted to ask you also , 	
+IS1000c.C.dialog-act.vkaraisk.176	like what will be the each individually the cost of it . 	
+IS1000c.D.dialog-act.vkaraisk.172	Yeah . 	
+IS1000c.C.dialog-act.vkaraisk.177	For example if f if you want to put wood I wouldn't suggest for wood 	
+IS1000c.D.dialog-act.vkaraisk.173	Okay . 	
+IS1000c.C.dialog-act.vkaraisk.178	uh 'cause it's I think it's m much easier to use a plastic or a rubber rather than wood . 	
+IS1000c.D.dialog-act.vkaraisk.174	I agree on that . Yeah . 	
+IS1000c.A.dialog-act.vkaraisk.175	Mm . 	
+IS1000c.C.dialog-act.vkaraisk.179	It will be much ch much expensive 	
+IS1000c.C.dialog-act.vkaraisk.180	th though it's the most natural thing , 	
+IS1000c.C.dialog-act.vkaraisk.181	but 	
+IS1000c.B.dialog-act.vkaraisk.121	Yes 	
+IS1000c.B.dialog-act.vkaraisk.122	but I can 	
+IS1000c.B.dialog-act.vkaraisk.123	I think uh I think we can just use more cheap plastic for a kind of basic edition , 	
+IS1000c.B.dialog-act.vkaraisk.124	and then people can fancy it up with with more expensive materials 	
+IS1000c.C.dialog-act.vkaraisk.182	Yeah . 	
+IS1000c.A.dialog-act.vkaraisk.176	Hmm . 	
+IS1000c.C.dialog-act.vkaraisk.183	Yeah 	
+IS1000c.C.dialog-act.vkaraisk.184	it's uh 	
+IS1000c.B.dialog-act.vkaraisk.125	which which come with a with another price . 	
+IS1000c.C.dialog-act.vkaraisk.185	Yeah we we can give a preference to them , 	
+IS1000c.C.dialog-act.vkaraisk.187	but it is 	
+IS1000c.C.dialog-act.vkaraisk.188	but with plastic or the rubber or whatever it is it's much better with that rather than going for 	
+IS1000c.B.dialog-act.vkaraisk.126	Do do you agree ? 	
+IS1000c.D.dialog-act.vkaraisk.175	Yeah 	
+IS1000c.D.dialog-act.vkaraisk.176	but i it's a detailed uh yeah yeah uh plastic versus uh wood , 	
+IS1000c.A.dialog-act.vkaraisk.177	Mm yeah sure . 	
+IS1000c.C.dialog-act.vkaraisk.189	Yeah . 	
+IS1000c.D.dialog-act.vkaraisk.177	and we need maybe to centre our description on uh the the really the what buttons what uh functionality we want to offer to the user , and maybe with uh graphs or I don't know uh 	
+IS1000c.C.dialog-act.vkaraisk.190	Yeah . 	
+IS1000c.D.dialog-act.vkaraisk.178	User Interface Designer you could maybe uh help us on that . 	
+IS1000c.B.dialog-act.vkaraisk.127	Ma I 	
+IS1000c.B.dialog-act.vkaraisk.128	I think uh for next meeting we c you two can present a real design . Uh so drawing it on the board . 	
+IS1000c.D.dialog-act.vkaraisk.179	Yeah . 	
+IS1000c.C.dialog-act.vkaraisk.191	Yea 	
+IS1000c.A.dialog-act.vkaraisk.178	Mm-hmm . 	
+IS1000c.C.dialog-act.vkaraisk.192	Okay . 	
+IS1000c.D.dialog-act.vkaraisk.180	Perfect yeah . 	
+IS1000c.B.dialog-act.vkaraisk.129	And then we now sh only have to t to decide the general function uh . 	
+IS1000c.B.dialog-act.vkaraisk.130	So um 	
+IS1000c.B.dialog-act.vkaraisk.131	Let let's say next meeting w you produce two designs , one one one less advanced and one more advanced and with the cost price . 	
+IS1000c.C.dialog-act.vkaraisk.193	Yeah sure . 	
+IS1000c.C.dialog-act.vkaraisk.194	Yeah 	
+IS1000c.C.dialog-act.vkaraisk.196	we will uh 	
+IS1000c.D.dialog-act.vkaraisk.181	Yeah . 	
+IS1000c.C.dialog-act.vkaraisk.197	Yeah . 	
+IS1000c.A.dialog-act.vkaraisk.179	Mm . 	
+IS1000c.B.dialog-act.vkaraisk.132	Uh furthermore we go for the for the uh basic plastic case 	
+IS1000c.C.dialog-act.vkaraisk.198	Uh . 	
+IS1000c.B.dialog-act.vkaraisk.133	which can be later uh fancied up with uh with addit uh additional uh , how do you call them , these like like mobile telephones you can put a cover over it . 	
+IS1000c.A.dialog-act.vkaraisk.180	Mm . 	
+IS1000c.C.dialog-act.vkaraisk.199	Yeah . 	
+IS1000c.B.dialog-act.vkaraisk.134	But that that that that can be done later . 	
+IS1000c.D.dialog-act.vkaraisk.182	Yeah customized . 	
+IS1000c.C.dialog-act.vkaraisk.200	. 	
+IS1000c.B.dialog-act.vkaraisk.135	We now can concentrate on the on the basic remote control . 	
+IS1000c.A.dialog-act.vkaraisk.181	Mm . 	
+IS1000c.B.dialog-act.vkaraisk.136	Um . 	
+IS1000c.C.dialog-act.vkaraisk.201	Okay . 	
+IS1000c.C.dialog-act.vkaraisk.202	We can give them smooth keys , 	
+IS1000c.C.dialog-act.vkaraisk.203	you know . 	
+IS1000c.C.dialog-act.vkaraisk.204	Smooth keys with bigger s uh So that you know 	
+IS1000c.C.dialog-act.vkaraisk.205	The the problem most of the time we've seen , the keys is that it's small , 	
+IS1000c.D.dialog-act.vkaraisk.183	Yeah . 	
+IS1000c.B.dialog-act.vkaraisk.137	Mm . 	
+IS1000c.C.dialog-act.vkaraisk.206	and every time we have to be very but if i the if we 	
+IS1000c.C.dialog-act.vkaraisk.207	if we go to a different ways of designing those keys , then you can merge them together 	
+IS1000c.A.dialog-act.vkaraisk.182	So 	
+IS1000c.A.dialog-act.vkaraisk.183	is there any of these that you're looking at particularly 	
+IS1000c.C.dialog-act.vkaraisk.208	to 	
+IS1000c.A.dialog-act.vkaraisk.184	or is this just ideas ? 	
+IS1000c.C.dialog-act.vkaraisk.209	Oh 	
+IS1000c.C.dialog-act.vkaraisk.210	you can actually , 	
+IS1000c.C.dialog-act.vkaraisk.211	for example , if you see , they are they are they are quite small over here , 	
+IS1000c.A.dialog-act.vkaraisk.185	Mm-hmm . 	
+IS1000c.C.dialog-act.vkaraisk.212	and uh now you can , 	
+IS1000c.C.dialog-act.vkaraisk.213	for example , as I was if you make them big , it may change the look of the thing also to the people . 	
+IS1000c.A.dialog-act.vkaraisk.186	Hmm . 	
+IS1000c.A.dialog-act.vkaraisk.187	Mm . 	
+IS1000c.C.dialog-act.vkaraisk.214	At the same time , it is m more uh like it would be more interesting for people who are having this R_S_I_ and all problem . 	
+IS1000c.A.dialog-act.vkaraisk.188	Mm . 	
+IS1000c.B.dialog-act.vkaraisk.138	Mm-hmm . 	
+IS1000c.A.dialog-act.vkaraisk.189	Mm yeah . 	
+IS1000c.B.dialog-act.vkaraisk.139	Yes yes yes 	
+IS1000c.B.dialog-act.vkaraisk.140	bi big keys is is good thing I think . 	
+IS1000c.C.dialog-act.vkaraisk.215	Uh big keys may better for them actually and uh 	
+IS1000c.A.dialog-act.vkaraisk.190	You see ? 	
+IS1000c.D.dialog-act.vkaraisk.184	I agree yeah , 	
+IS1000c.D.dialog-act.vkaraisk.185	and not too m too many keys of course yeah . 	
+IS1000c.A.dialog-act.vkaraisk.191	Yeah . 	
+IS1000c.B.dialog-act.vkaraisk.141	No no . 	
+IS1000c.A.dialog-act.vkaraisk.192	Mm well 	
+IS1000c.C.dialog-act.vkaraisk.216	Yeah . 	
+IS1000c.A.dialog-act.vkaraisk.193	one I've had before , a r r remote control we have at home is one that's actually got a cover on the bottom 	
+IS1000c.A.dialog-act.vkaraisk.194	so the bottom bit is just , covers half the keys most of the time , 	
+IS1000c.B.dialog-act.vkaraisk.142	Mm mm mm . 	
+IS1000c.A.dialog-act.vkaraisk.195	and then you can slide the cover back to get to the the more advanced keys . 	
+IS1000c.B.dialog-act.vkaraisk.143	Mm w but then you have still have uh 	
+IS1000c.C.dialog-act.vkaraisk.217	Yeah . 	
+IS1000c.B.dialog-act.vkaraisk.144	when you don't use it you have such a a an extent of your remote control 	
+IS1000c.B.dialog-act.vkaraisk.145	which you don't use . 	
+IS1000c.A.dialog-act.vkaraisk.196	Mm . 	
+IS1000c.B.dialog-act.vkaraisk.146	So maybe it's possible uh , I don't know whether you can can indicate this , that you can elsewhere open your remote control and on the inside are uh buttons you don't use that much . 	
+IS1000c.D.dialog-act.vkaraisk.186	Yeah . 	
+IS1000c.A.dialog-act.vkaraisk.197	Mm . 	
+IS1000c.A.dialog-act.vkaraisk.198	Yeah . 	
+IS1000c.A.dialog-act.vkaraisk.199	Um yeah 	
+IS1000c.A.dialog-act.vkaraisk.200	I've seen that before too . 	
+IS1000c.C.dialog-act.vkaraisk.218	Yeah . 	
+IS1000c.A.dialog-act.vkaraisk.201	Anoth another like b 	
+IS1000c.A.dialog-act.vkaraisk.202	it flips up 	
+IS1000c.A.dialog-act.vkaraisk.203	and then you've got another layer of buttons underneath . 	
+IS1000c.B.dialog-act.vkaraisk.147	Yes . 	
+IS1000c.C.dialog-act.vkaraisk.219	Yes . 	
+IS1000c.C.dialog-act.vkaraisk.220	Yeah 	
+IS1000c.C.dialog-act.vkaraisk.221	so it's something like this , the model here 	
+IS1000c.C.dialog-act.vkaraisk.222	s you can put the keys 	
+IS1000c.A.dialog-act.vkaraisk.204	Mm . 	
+IS1000c.D.dialog-act.vkaraisk.187	Mm . 	
+IS1000c.A.dialog-act.vkaraisk.205	But I've seen also with keys and buttons on the top of here as well . 	
+IS1000c.D.dialog-act.vkaraisk.188	That's what you mean ? 	
+IS1000c.B.dialog-act.vkaraisk.148	Yes I I th that's what I mean 	
+IS1000c.C.dialog-act.vkaraisk.223	Yeah . Yeah . 	
+IS1000c.B.dialog-act.vkaraisk.149	so I mean something like like a book . 	
+IS1000c.A.dialog-act.vkaraisk.206	I like this one . I like the shape of this one . 	
+IS1000c.C.dialog-act.vkaraisk.224	Yeah . 	
+IS1000c.A.dialog-act.vkaraisk.207	Can we have 	
+IS1000c.A.dialog-act.vkaraisk.208	can we think about maybe having a a non-recta non non-rectangular one , so with not just the straight little box 	
+IS1000c.D.dialog-act.vkaraisk.189	Yeah I like also this one . 	
+IS1000c.A.dialog-act.vkaraisk.209	that's a 	
+IS1000c.D.dialog-act.vkaraisk.190	Yeah , 	
+IS1000c.A.dialog-act.vkaraisk.210	maybe curved or something . 	
+IS1000c.C.dialog-act.vkaraisk.225	Yeah , mm . 	
+IS1000c.D.dialog-act.vkaraisk.191	the point is w 	
+IS1000c.D.dialog-act.vkaraisk.193	maybe we need to also to make a decision on how how how big we want to be 	
+IS1000c.D.dialog-act.vkaraisk.192	and how many buttons like n we should dec decide numbers or 	
+IS1000c.A.dialog-act.vkaraisk.211	Mm mm 'kay . 	
+IS1000c.C.dialog-act.vkaraisk.226	We should make a 	
+IS1000c.A.dialog-act.vkaraisk.212	Is this for the next meeting though ? 	
+IS1000c.A.dialog-act.vkaraisk.213	I think we might be out of time out of time for this meeting . 	
+IS1000c.B.dialog-act.vkaraisk.150	Mm . 	
+IS1000c.C.dialog-act.vkaraisk.228	Yeah 	
+IS1000c.C.dialog-act.vkaraisk.227	that yeah next meeting we should be 	
+IS1000c.D.dialog-act.vkaraisk.194	Okay . 	
+IS1000c.B.dialog-act.vkaraisk.151	Ju just make two designs , 	
+IS1000c.C.dialog-act.vkaraisk.229	Yeah 	
+IS1000c.C.dialog-act.vkaraisk.230	that would depend upon us actually . 	
+IS1000c.D.dialog-act.vkaraisk.195	Yeah yeah yeah . 	
+IS1000c.B.dialog-act.vkaraisk.152	and the we we can decide decide between th those designs . 	
+IS1000c.A.dialog-act.vkaraisk.214	Yep . 	
+IS1000c.C.dialog-act.vkaraisk.231	Yeah okay . 	
+IS1000c.B.dialog-act.vkaraisk.153	I think that would be a good idea . 	
+IS1000c.D.dialog-act.vkaraisk.196	Perfect . 	
+IS1000c.B.dialog-act.vkaraisk.154	So 	
+IS1000c.B.dialog-act.vkaraisk.155	anyone uh any questions for now ? 	
+IS1000c.C.dialog-act.vkaraisk.232	No no . I don't have . 	
+IS1000c.A.dialog-act.vkaraisk.215	No . 	
+IS1000c.A.dialog-act.vkaraisk.216	So 	
+IS1000c.A.dialog-act.vkaraisk.217	is this 	
+IS1000c.A.dialog-act.vkaraisk.218	is there anything else I need to do from a marketing point of view for the next meeting ? 	
+IS1000c.B.dialog-act.vkaraisk.156	Um yes 	
+IS1000c.B.dialog-act.vkaraisk.157	I come to that uh uh 	
+IS1000c.C.dialog-act.vkaraisk.233	Maybe it would be interesting if you could look um for the cost inventories of other devices , if you're using speech recognition or something like that . 	
+IS1000c.B.dialog-act.vkaraisk.158	Yes well 	
+IS1000c.B.dialog-act.vkaraisk.159	m maybe 	
+IS1000c.B.dialog-act.vkaraisk.160	uh , I don't know whether that's possible , 	
+IS1000c.B.dialog-act.vkaraisk.161	maybe you can start evaluating uh their work somehow . 	
+IS1000c.A.dialog-act.vkaraisk.219	Mm . 	
+IS1000c.A.dialog-act.vkaraisk.220	Okay 	
+IS1000c.A.dialog-act.vkaraisk.221	well 	
+IS1000c.A.dialog-act.vkaraisk.222	is this me designing a way to evaluate it 	
+IS1000c.A.dialog-act.vkaraisk.223	so 	
+IS1000c.A.dialog-act.vkaraisk.224	Thinking about how to set up test groups and things ? 	
+IS1000c.B.dialog-act.vkaraisk.162	I don't know whether that's possible uh in the given time 	
+IS1000c.A.dialog-act.vkaraisk.225	Mm . 	
+IS1000c.B.dialog-act.vkaraisk.163	but a as far as possible . 	
+IS1000c.A.dialog-act.vkaraisk.226	Okay . Yep . 	
+IS1000c.B.dialog-act.vkaraisk.164	So uh 	
+IS1000c.B.dialog-act.vkaraisk.165	you two will be together w working on a o on two prototypes 	
+IS1000c.D.dialog-act.vkaraisk.197	Exactly . 	
+IS1000c.C.dialog-act.vkaraisk.234	Mm . 	
+IS1000c.D.dialog-act.vkaraisk.198	Yeah . 	
+IS1000c.B.dialog-act.vkaraisk.166	and further instructions will be uh will be sent to you by uh by email . 	
+IS1000c.D.dialog-act.vkaraisk.199	Two or three prototypes ? 	
+IS1000c.C.dialog-act.vkaraisk.235	Two . 	
+IS1000c.B.dialog-act.vkaraisk.167	Two . 	
+IS1000c.D.dialog-act.vkaraisk.200	Two ? 	
+IS1000c.C.dialog-act.vkaraisk.236	One for like cost and the one with like higher-end 	
+IS1000c.B.dialog-act.vkaraisk.168	I 	
+IS1000c.D.dialog-act.vkaraisk.201	Okay . 	
+IS1000c.B.dialog-act.vkaraisk.169	Mm and then 	
+IS1000c.A.dialog-act.vkaraisk.227	Mm . 	
+IS1000c.C.dialog-act.vkaraisk.237	so that then we can be easily comparing them 	
+IS1000c.D.dialog-act.vkaraisk.202	Yeah 	
+IS1000c.C.dialog-act.vkaraisk.238	or you know find a compromise between both of them , 	
+IS1000c.B.dialog-act.vkaraisk.170	Hmm . 	
+IS1000c.D.dialog-act.vkaraisk.203	and find maybe a compromise . 	
+IS1000c.A.dialog-act.vkaraisk.228	Hmm . 	
+IS1000c.B.dialog-act.vkaraisk.171	Yes okay . 	
+IS1000c.C.dialog-act.vkaraisk.239	yeah that's how it is . 	
+IS1000c.D.dialog-act.vkaraisk.204	Perfect yeah . 	
+IS1000c.A.dialog-act.vkaraisk.229	Mm-hmm . 	
+IS1000c.C.dialog-act.vkaraisk.240	Yep . 	
+IS1000c.B.dialog-act.vkaraisk.172	Okay 	
+IS1000c.B.dialog-act.vkaraisk.173	let's call this to an end . 	
+IS1000c.A.dialog-act.vkaraisk.230	Mm 'kay . 	
+IS1000c.C.dialog-act.vkaraisk.241	Okay . 	
+IS1000c.A.dialog-act.vkaraisk.231	Thanks guys . 	
+IS1000c.D.dialog-act.vkaraisk.205	Thanks . 	
+IS1000c.C.dialog-act.vkaraisk.242	So 	
+IS1000c.C.dialog-act.vkaraisk.243	we are done for now . . 	
+

@@ -1,0 +1,991 @@
+Observation: IS1004d; Result size: 988; atts: 2
+$d@nite:id	$d	
+IS1004d.A.dialog-act.dharshi.1		
+IS1004d.D.dialog-act.dharshi.1		
+IS1004d.A.dialog-act.dharshi.2	Okay . 	
+IS1004d.A.dialog-act.dharshi.3	Good afternoon again . 	
+IS1004d.B.dialog-act.dharshi.1		
+IS1004d.A.dialog-act.dharshi.4	So we should have our final meeting about the detail designed of detail design of the product of the remote control . 	
+IS1004d.A.dialog-act.dharshi.5	Um So here is the agenda for today . 	
+IS1004d.A.dialog-act.dharshi.6	Uh uh just going to go quickly through the minutes of the last last uh meeting 	
+IS1004d.A.dialog-act.dharshi.7	then we have a p presentation of prototype of you two , 	
+IS1004d.A.dialog-act.dharshi.8	sounds interesting . 	
+IS1004d.A.dialog-act.dharshi.9	And we'll have um presentation of evaluation crit criteria by ou our Marketing Experts . 	
+IS1004d.A.dialog-act.dharshi.10	Then we'll have to go through finance evaluation of the of the cost of the thing 	
+IS1004d.A.dialog-act.dharshi.11	and um hopefully uh we should fit the target o tw of twelve point five uh uh Euro . 	
+IS1004d.A.dialog-act.dharshi.12	Okay . 	
+IS1004d.A.dialog-act.dharshi.13	So let's go . 	
+IS1004d.A.dialog-act.dharshi.14	Uh if I go quickly through the minutes of the last meeting . 	
+IS1004d.A.dialog-act.dharshi.15	So we went through th uh 	
+IS1004d.A.dialog-act.dharshi.16	w we took this following decisions . 	
+IS1004d.A.dialog-act.dharshi.17	No L_C_D_ , no speech recognition technology , okay , 	
+IS1004d.A.dialog-act.dharshi.18	we went through a b to a banana look and feel for the remote control . 	
+IS1004d.A.dialog-act.dharshi.19	We went through the use of wheels and but buttons . 	
+IS1004d.A.dialog-act.dharshi.20	And also the use of a basis station for battery ch charging and uh also to um call the to call the mot mote remote control when it is lost . 	
+IS1004d.A.dialog-act.dharshi.21	Okay . Um . Good . 	
+IS1004d.A.dialog-act.dharshi.22	So guys let this uh wonderful thing . 	
+IS1004d.C.dialog-act.dharshi.1	Okay so we can go to the slides . 	
+IS1004d.A.dialog-act.dharshi.23	Oh yeah . 	
+IS1004d.A.dialog-act.dharshi.24	Sorry . Um . 	
+IS1004d.C.dialog-act.dharshi.2	Yeah . 	
+IS1004d.C.dialog-act.dharshi.3	Number three . 	
+IS1004d.C.dialog-act.dharshi.4	Oh number two 	
+IS1004d.C.dialog-act.dharshi.5	sorry . 	
+IS1004d.A.dialog-act.dharshi.25	Which is 	
+IS1004d.C.dialog-act.dharshi.6	So final design . Final design . 	
+IS1004d.C.dialog-act.dharshi.7	Okay so 	
+IS1004d.C.dialog-act.dharshi.8	Michael you can go ahead . 	
+IS1004d.B.dialog-act.dharshi.2	Yeah so uh following our decision to uh make a yellow well to make a banana 	
+IS1004d.A.dialog-act.dharshi.26	Yeah can you show it to the the camera maybe . 	
+IS1004d.B.dialog-act.dharshi.3	remote 	
+IS1004d.B.dialog-act.dharshi.4	okay so 	
+IS1004d.B.dialog-act.dharshi.12	we actually have a 	
+IS1004d.C.dialog-act.dharshi.9	You can pull it out first , maybe . 	
+IS1004d.B.dialog-act.dharshi.13	We've 	
+IS1004d.B.dialog-act.dharshi.14	well first first of all we made a an attractive base station uh with a banana leaf uh look and feel um and uh 	
+IS1004d.A.dialog-act.dharshi.28	Mm-hmm . 	
+IS1004d.A.dialog-act.dharshi.27		
+IS1004d.B.dialog-act.dharshi.5	bana sit 	
+IS1004d.B.dialog-act.dharshi.15	the banana sits in there k you know nicely weighted so that it's not gonna tip over 	
+IS1004d.B.dialog-act.dharshi.16	and um this is the remote itself , 	
+IS1004d.B.dialog-act.dharshi.17	it's kind of it's it's ergonomic , it fits in the hand uh rather well . 	
+IS1004d.B.dialog-act.dharshi.6	We've got the two uh uh scroll wheels here 	
+IS1004d.B.dialog-act.dharshi.7	which you know one on the the left for the uh volume and the one on the right for for the channel 	
+IS1004d.B.dialog-act.dharshi.9	and uh underneath we have the uh the turbo button 	
+IS1004d.B.dialog-act.dharshi.10	which is in like a nice uh trigger position for you know for pressing quite naturally . 	
+IS1004d.A.dialog-act.dharshi.29	What's the use uh of the t turbo button already ? 	
+IS1004d.B.dialog-act.dharshi.11	This is when you when you uh are scrolling the uh through the channels you can tell it to to skip th past channels that you quickly rather th 	
+IS1004d.A.dialog-act.dharshi.30	Ah yeah yeah 	
+IS1004d.A.dialog-act.dharshi.31	an then you stop when you stop it stops . 	
+IS1004d.B.dialog-act.dharshi.18	Yeah . 	
+IS1004d.B.dialog-act.dharshi.19	Well when you stop scrolling the wheel it stops . 	
+IS1004d.B.dialog-act.dharshi.20	But normally with uh it will just uh s stay on each station briefly so you can see the the picture . 	
+IS1004d.C.dialog-act.dharshi.10	Uh 	
+IS1004d.A.dialog-act.dharshi.32	Uh-huh . 	
+IS1004d.C.dialog-act.dharshi.11	And we we do have one more functionality . 	
+IS1004d.C.dialog-act.dharshi.12	If you take the banana as such and uh you press the turbo button , so it switch ons the switch ons the T_V_ . 	
+IS1004d.B.dialog-act.dharshi.21	The T_V_ yeah . 	
+IS1004d.A.dialog-act.dharshi.33	Which one ? 	
+IS1004d.B.dialog-act.dharshi.22	The s the turbo button . 	
+IS1004d.C.dialog-act.dharshi.13	The turbo button . 	
+IS1004d.B.dialog-act.dharshi.23	So rather than having uh an extra button for um for the on off switch you just use the turbo button . 	
+IS1004d.A.dialog-act.dharshi.34	Okay . 	
+IS1004d.C.dialog-act.dharshi.14	Additional button . 	
+IS1004d.D.dialog-act.dharshi.2	What this button for ? 	
+IS1004d.B.dialog-act.dharshi.24	This is a teletext button . 	
+IS1004d.D.dialog-act.dharshi.3	Okay . 	
+IS1004d.B.dialog-act.dharshi.25	So once you press that then you get teletext 	
+IS1004d.B.dialog-act.dharshi.26	and you can use the the channel selector scroll wheel as uh 	
+IS1004d.A.dialog-act.dharshi.35	To navigate it through th through teletext . 	
+IS1004d.D.dialog-act.dharshi.4	But if you want to go to page seven hundred ? 	
+IS1004d.B.dialog-act.dharshi.27	To navigate yeah . 	
+IS1004d.C.dialog-act.dharshi.15	That's right , that's right . 	
+IS1004d.B.dialog-act.dharshi.28	Yeah . 	
+IS1004d.A.dialog-act.dharshi.36	with the wheel it's easy . 	
+IS1004d.D.dialog-act.dharshi.5	How man 	
+IS1004d.B.dialog-act.dharshi.29	Well then you can you you have like a little uh number selection thing , 	
+IS1004d.B.dialog-act.dharshi.30	you press the the the teletext button uh to move between uh the fields 	
+IS1004d.B.dialog-act.dharshi.31	and then you can just scroll the number back and forth so you have s you go you scroll to seven and then zero zero and then you can uh 	
+IS1004d.D.dialog-act.dharshi.6	I don't understand it . 	
+IS1004d.D.dialog-act.dharshi.7	Can you repeat it ? 	
+IS1004d.B.dialog-act.dharshi.32	Well you can you can press press the teletext button 	
+IS1004d.C.dialog-act.dharshi.16		
+IS1004d.D.dialog-act.dharshi.8	Yeah . 	
+IS1004d.B.dialog-act.dharshi.33	and then you then you can you can f 	
+IS1004d.C.dialog-act.dharshi.17	So then then both the scroll buttons they are for teletext browsing . 	
+IS1004d.C.dialog-act.dharshi.18	And you can tele 	
+IS1004d.D.dialog-act.dharshi.9	Ah okay okay . Okay . Okay okay . 	
+IS1004d.C.dialog-act.dharshi.19	yeah , 	
+IS1004d.C.dialog-act.dharshi.20	once you press the teletext button then the scroll buttons they are more for teletext , they are no more for channel or vol volume . 	
+IS1004d.B.dialog-act.dharshi.35	Mm uh 	
+IS1004d.D.dialog-act.dharshi.10	Okay . 	
+IS1004d.D.dialog-act.dharshi.11	I see . I see . Okay . Okay . 	
+IS1004d.C.dialog-act.dharshi.21	Yeah . 	
+IS1004d.B.dialog-act.dharshi.34	And this is the uh the infrared uh port . 	
+IS1004d.C.dialog-act.dharshi.22	That's right . 	
+IS1004d.B.dialog-act.dharshi.36	Also the top of the banana . 	
+IS1004d.C.dialog-act.dharshi.23	Yeah . 	
+IS1004d.A.dialog-act.dharshi.37	Excellent . 	
+IS1004d.B.dialog-act.dharshi.37	So . And then we have 	
+IS1004d.B.dialog-act.dharshi.38	in the uh in the base station we have the the button at the front for uh for calling the uh the banana . 	
+IS1004d.A.dialog-act.dharshi.38	Calling . 	
+IS1004d.C.dialog-act.dharshi.24	Yeah . 	
+IS1004d.A.dialog-act.dharshi.39	Excellent . 	
+IS1004d.A.dialog-act.dharshi.40	And the the leaves plays the roles of of antennas ? 	
+IS1004d.B.dialog-act.dharshi.39	Actually they do . 	
+IS1004d.B.dialog-act.dharshi.40	That's that's 	
+IS1004d.A.dialog-act.dharshi.41	Oh . 	
+IS1004d.B.dialog-act.dharshi.41	yeah that's uh that's form and function in the one in the one uh object . 	
+IS1004d.C.dialog-act.dharshi.25	Yeah . 	
+IS1004d.C.dialog-act.dharshi.26	So it always means , whatever the rays goes by they they get reflected and then you are having a better coverage . 	
+IS1004d.B.dialog-act.dharshi.42		
+IS1004d.C.dialog-act.dharshi.27	It's like antennas . 	
+IS1004d.B.dialog-act.dharshi.43	Yeah . 	
+IS1004d.B.dialog-act.dharshi.44	So . 	
+IS1004d.D.dialog-act.dharshi.12		
+IS1004d.B.dialog-act.dharshi.45	But yeah that's um that's just like 	
+IS1004d.B.dialog-act.dharshi.46	that's an attractive um base station . 	
+IS1004d.A.dialog-act.dharshi.42	Great . 	
+IS1004d.B.dialog-act.dharshi.47	So . 	
+IS1004d.B.dialog-act.dharshi.48	Okay . 	
+IS1004d.A.dialog-act.dharshi.43	So , what else ? 	
+IS1004d.C.dialog-act.dharshi.28	And for the power source we are having solar cells and rechargeable batteries 	
+IS1004d.C.dialog-act.dharshi.29	and this and uh the basis station is going to have the input from the mm power line for for charging the batteries . 	
+IS1004d.D.dialog-act.dharshi.13	Is it really weight ? 	
+IS1004d.D.dialog-act.dharshi.14	Is it light or 	
+IS1004d.C.dialog-act.dharshi.30	It is very light . 	
+IS1004d.A.dialog-act.dharshi.44	Yeah , they're light . 	
+IS1004d.D.dialog-act.dharshi.15	Okay . 	
+IS1004d.B.dialog-act.dharshi.49	It's it's uh it's about the weight of a banana . 	
+IS1004d.A.dialog-act.dharshi.45		
+IS1004d.D.dialog-act.dharshi.16	Okay . 	
+IS1004d.B.dialog-act.dharshi.50	You know , to give you the correct look and feel . 	
+IS1004d.A.dialog-act.dharshi.46		
+IS1004d.C.dialog-act.dharshi.31	Yeah . 	
+IS1004d.D.dialog-act.dharshi.17	Ok 	
+IS1004d.C.dialog-act.dharshi.32	And we have put these different colours so that people don't mistake them mistake it as a banana . 	
+IS1004d.B.dialog-act.dharshi.51		
+IS1004d.D.dialog-act.dharshi.18	Okay . 	
+IS1004d.C.dialog-act.dharshi.33	Otherwise it's you know a child comes and so 	
+IS1004d.D.dialog-act.dharshi.19	Yeah yeah yeah , I see . I under I understand . 	
+IS1004d.B.dialog-act.dharshi.52	I think a child would try to eat it anyway , 	
+IS1004d.B.dialog-act.dharshi.53	so maybe we should 	
+IS1004d.C.dialog-act.dharshi.34	Yeah . 	
+IS1004d.B.dialog-act.dharshi.54	consider that . 	
+IS1004d.B.dialog-act.dharshi.55	maybe health and safety aspects . 	
+IS1004d.A.dialog-act.dharshi.47	Ah yeah . 	
+IS1004d.C.dialog-act.dharshi.35	Mm-hmm . 	
+IS1004d.B.dialog-act.dharshi.56		
+IS1004d.C.dialog-act.dharshi.36	Oh we didn't think of that yet . Yeah . 	
+IS1004d.B.dialog-act.dharshi.57	Yeah . 	
+IS1004d.A.dialog-act.dharshi.48	So for the power source , apparently you still you you want to use both solar cells and batteries . 	
+IS1004d.C.dialog-act.dharshi.37	Oh yeah that's right . 	
+IS1004d.A.dialog-act.dharshi.49	Uh you mean 	
+IS1004d.A.dialog-act.dharshi.50	okay . So 	
+IS1004d.B.dialog-act.dharshi.58	I don't really know if the solar cells are actually necessary any more if you have a recharging base station . 	
+IS1004d.A.dialog-act.dharshi.51	Yeah , 	
+IS1004d.A.dialog-act.dharshi.52	where are going to 	
+IS1004d.A.dialog-act.dharshi.53	where are you are you going to place them ? 	
+IS1004d.C.dialog-act.dharshi.38	Mm-hmm mm-hmm . 	
+IS1004d.C.dialog-act.dharshi.39	It'll It'll be always at top somewhere at there . 	
+IS1004d.B.dialog-act.dharshi.59	If I was gonna place them I'd put them on the on the top here since that's like uh the black bit 	
+IS1004d.A.dialog-act.dharshi.54	You have enough surface ? 	
+IS1004d.A.dialog-act.dharshi.55	You 	
+IS1004d.B.dialog-act.dharshi.62	but yeah I don't I really don't think it's necessary to have the solar cells anymore . 	
+IS1004d.C.dialog-act.dharshi.40	Yeah because now we are having rechargeable batteries 	
+IS1004d.A.dialog-act.dharshi.56	Okay . 	
+IS1004d.C.dialog-act.dharshi.41	so that that is . 	
+IS1004d.B.dialog-act.dharshi.65	Mm . 	
+IS1004d.A.dialog-act.dharshi.57	What will be the autonomy ? Roughly ? 	
+IS1004d.B.dialog-act.dharshi.66	The what sorry ? 	
+IS1004d.A.dialog-act.dharshi.58	The autonomy . 	
+IS1004d.A.dialog-act.dharshi.59	Autonomy . 	
+IS1004d.B.dialog-act.dharshi.67	What do you mean ? 	
+IS1004d.A.dialog-act.dharshi.60	Uh I mean how long does i how how how long can it be held off a station ? 	
+IS1004d.D.dialog-act.dharshi.21	How long the 	
+IS1004d.D.dialog-act.dharshi.22	how long the bit the batteries long . 	
+IS1004d.B.dialog-act.dharshi.68	Ah . 	
+IS1004d.B.dialog-act.dharshi.69	Ah . 	
+IS1004d.B.dialog-act.dharshi.70	A long time . 	
+IS1004d.A.dialog-act.dharshi.61	Yeah . 	
+IS1004d.B.dialog-act.dharshi.71	No no no , 	
+IS1004d.C.dialog-act.dharshi.44	Eight to ten eight to ten hours . 	
+IS1004d.A.dialog-act.dharshi.62	A long 	
+IS1004d.D.dialog-act.dharshi.20		
+IS1004d.B.dialog-act.dharshi.72	it can 	
+IS1004d.B.dialog-act.dharshi.73	it should be weeks . 	
+IS1004d.C.dialog-act.dharshi.42	N most 	
+IS1004d.C.dialog-act.dharshi.43	no most of the time it's not being used . 	
+IS1004d.A.dialog-act.dharshi.68	Yeah , 	
+IS1004d.A.dialog-act.dharshi.69	so it's 	
+IS1004d.B.dialog-act.dharshi.76	Yeah but y people don't like to put it back in the base station all the time people leave wanna leave it on the couch so 	
+IS1004d.C.dialog-act.dharshi.47	So when when you are making it on 	
+IS1004d.A.dialog-act.dharshi.64	It's used only when you 	
+IS1004d.C.dialog-act.dharshi.45	Mm . 	
+IS1004d.C.dialog-act.dharshi.46	Mm-hmm . 	
+IS1004d.C.dialog-act.dharshi.54	No eight or eight or ten hours of working . 	
+IS1004d.C.dialog-act.dharshi.48	If you are just leaving like that it'll be much longer . 	
+IS1004d.B.dialog-act.dharshi.78	Ah , okay . 	
+IS1004d.B.dialog-act.dharshi.79	Okay . 	
+IS1004d.A.dialog-act.dharshi.71	Yeah . 	
+IS1004d.A.dialog-act.dharshi.72	F weeks . 	
+IS1004d.C.dialog-act.dharshi.57	Yeah . That's right . 	
+IS1004d.B.dialog-act.dharshi.80	Yeah . 	
+IS1004d.A.dialog-act.dharshi.73	Right . 	
+IS1004d.A.dialog-act.dharshi.65	Next slide ? 	
+IS1004d.C.dialog-act.dharshi.49	Yeah . 	
+IS1004d.C.dialog-act.dharshi.50	And we are having the speakers regular chip for control . 	
+IS1004d.C.dialog-act.dharshi.51	Pricing is was a factor so that's why we have gone for a regular chip only not the advanced chip . 	
+IS1004d.C.dialog-act.dharshi.52	And uh that's it . 	
+IS1004d.A.dialog-act.dharshi.75	Okay . 	
+IS1004d.A.dialog-act.dharshi.76	Okay . 	
+IS1004d.A.dialog-act.dharshi.67	Those really sounds very good . 	
+IS1004d.C.dialog-act.dharshi.53	That's right . 	
+IS1004d.A.dialog-act.dharshi.66	Nothing else to add ? 	
+IS1004d.B.dialog-act.dharshi.77	It seems to be falling over . 	
+IS1004d.D.dialog-act.dharshi.26	I l yeah . 	
+IS1004d.A.dialog-act.dharshi.77	Yeah . 	
+IS1004d.D.dialog-act.dharshi.23	I like I like it . 	
+IS1004d.D.dialog-act.dharshi.24	Maybe the the thing that convince me the less is the the multifunctional buttons . 	
+IS1004d.D.dialog-act.dharshi.25	Looks a bit 	
+IS1004d.C.dialog-act.dharshi.55	You want to have more functional buttons ? 	
+IS1004d.D.dialog-act.dharshi.27	Looks a bit puzzled 	
+IS1004d.D.dialog-act.dharshi.28	uh I dunno how to say that . 	
+IS1004d.D.dialog-act.dharshi.29	You the the b the buttons change h h their function depending if y it's teletext or not 	
+IS1004d.C.dialog-act.dharshi.58	You are not convinced . 	
+IS1004d.C.dialog-act.dharshi.59	Not not many , we we want to keep it simple . 	
+IS1004d.C.dialog-act.dharshi.60	So that this button fo is for teletext which is usually also the case , 	
+IS1004d.C.dialog-act.dharshi.61	that usually there is a teletext button and once you press that , the channel buttons , they baco become the scrolling buttons . 	
+IS1004d.D.dialog-act.dharshi.30	And the volume button will will become 	
+IS1004d.C.dialog-act.dharshi.62	It's up to you , means . 	
+IS1004d.C.dialog-act.dharshi.63	Now that 	
+IS1004d.A.dialog-act.dharshi.78	Well in fact b both will be could be useful , navigating through teletext . 	
+IS1004d.C.dialog-act.dharshi.64	Means let's say this this can move the the larger digits and this can move the smaller digits . 	
+IS1004d.B.dialog-act.dharshi.81	Or can move between positions in the in the number . 	
+IS1004d.C.dialog-act.dharshi.65	That's right . 	
+IS1004d.D.dialog-act.dharshi.31	And what about people who want to use digits ? 	
+IS1004d.A.dialog-act.dharshi.79	Yeah . 	
+IS1004d.D.dialog-act.dharshi.32	Butto real buttons ? 	
+IS1004d.A.dialog-act.dharshi.80	Wow . 	
+IS1004d.C.dialog-act.dharshi.66	Yeah . So there was there was a constraint that the surface area which we have on this banana on one side because of the shape . 	
+IS1004d.D.dialog-act.dharshi.33		
+IS1004d.C.dialog-act.dharshi.67	So we are targeting a segment which is which is just very trendy kind of thing , they they don't care about the buttons any more . 	
+IS1004d.D.dialog-act.dharshi.34	Okay . 	
+IS1004d.C.dialog-act.dharshi.68	And anyway 	
+IS1004d.D.dialog-act.dharshi.35	Because have you thought about configuration and all this kind of uh stuff ? 	
+IS1004d.B.dialog-act.dharshi.82	It's all automatic . 	
+IS1004d.D.dialog-act.dharshi.36	It's all automatic . 	
+IS1004d.B.dialog-act.dharshi.83	Yep . 	
+IS1004d.C.dialog-act.dharshi.69		
+IS1004d.A.dialog-act.dharshi.81		
+IS1004d.B.dialog-act.dharshi.84		
+IS1004d.D.dialog-act.dharshi.37	Okay . 	
+IS1004d.D.dialog-act.dharshi.38	Okay yeah it's fine . 	
+IS1004d.A.dialog-act.dharshi.82	Very good uh yeah 	
+IS1004d.D.dialog-act.dharshi.39	W we are living in a wonderful world . 	
+IS1004d.A.dialog-act.dharshi.83	you th 	
+IS1004d.A.dialog-act.dharshi.84	yeah . 	
+IS1004d.B.dialog-act.dharshi.85	Uh . 	
+IS1004d.C.dialog-act.dharshi.70		
+IS1004d.A.dialog-act.dharshi.85	Bananas everywhere . 	
+IS1004d.C.dialog-act.dharshi.71		
+IS1004d.A.dialog-act.dharshi.86	Okay , so 	
+IS1004d.D.dialog-act.dharshi.40	Automatically configure . 	
+IS1004d.A.dialog-act.dharshi.87		
+IS1004d.D.dialog-act.dharshi.41		
+IS1004d.A.dialog-act.dharshi.88	So we have to go through now evaluations . 	
+IS1004d.C.dialog-act.dharshi.73	Evalua yeah . 	
+IS1004d.D.dialog-act.dharshi.43	Yeah . 	
+IS1004d.A.dialog-act.dharshi.91	So your slides are ready ? 	
+IS1004d.D.dialog-act.dharshi.42	S 	
+IS1004d.A.dialog-act.dharshi.92	Uh you're four I think . 	
+IS1004d.D.dialog-act.dharshi.44	Yeah . 	
+IS1004d.A.dialog-act.dharshi.93	So this is one , which one is this one ? 	
+IS1004d.D.dialog-act.dharshi.45	Yeah . 	
+IS1004d.A.dialog-act.dharshi.90		
+IS1004d.A.dialog-act.dharshi.89		
+IS1004d.D.dialog-act.dharshi.46	Okay . 	
+IS1004d.D.dialog-act.dharshi.47	I I const 	
+IS1004d.D.dialog-act.dharshi.48	I constructed a a list of criteria based on the on the general user requirements . 	
+IS1004d.D.dialog-act.dharshi.49	And each criteria is will be evaluated it's uh logical criteria 	
+IS1004d.D.dialog-act.dharshi.50	so we must users must say i if it's true or is or if it's false in a in a scale ranging from zero to seven . 	
+IS1004d.C.dialog-act.dharshi.74	Why this strange factor of seven ? 	
+IS1004d.D.dialog-act.dharshi.53	Because i 	
+IS1004d.D.dialog-act.dharshi.52	I'm sorry . Sorry . 	
+IS1004d.C.dialog-act.dharshi.76	Usually I have seen that scales are from one to ten . 	
+IS1004d.D.dialog-act.dharshi.54	Ah yeah . 	
+IS1004d.D.dialog-act.dharshi.55	It's from 	
+IS1004d.D.dialog-act.dharshi.56	sorry , 	
+IS1004d.D.dialog-act.dharshi.57	it's from one to seven . It's from from one to seven 	
+IS1004d.D.dialog-act.dharshi.58	sorry . 	
+IS1004d.D.dialog-act.dharshi.59	Because it should be an even it should be an even uh scale , 	
+IS1004d.C.dialog-act.dharshi.77	Okay . 	
+IS1004d.A.dialog-act.dharshi.94	Num number 	
+IS1004d.C.dialog-act.dharshi.78	Okay . Mm-hmm . 	
+IS1004d.D.dialog-act.dharshi.60	and five 	
+IS1004d.D.dialog-act.dharshi.61	is too short and nine is too long . 	
+IS1004d.C.dialog-act.dharshi.79	Okay . 	
+IS1004d.D.dialog-act.dharshi.51	I'm a I I'm 	
+IS1004d.C.dialog-act.dharshi.75	Okay fine , got the idea . 	
+IS1004d.A.dialog-act.dharshi.95	So to have in order to have enough granularity 	
+IS1004d.D.dialog-act.dharshi.62	Sorry ? 	
+IS1004d.A.dialog-act.dharshi.96	it's in order to have enough granularity in the evaluation . 	
+IS1004d.D.dialog-act.dharshi.63	Yeah yeah . 	
+IS1004d.C.dialog-act.dharshi.80	Okay . 	
+IS1004d.D.dialog-act.dharshi.64	The variance is mi it's is minimal . 	
+IS1004d.A.dialog-act.dharshi.97	Okay . 	
+IS1004d.C.dialog-act.dharshi.81	Okay , 	
+IS1004d.C.dialog-act.dharshi.82	okay , great . 	
+IS1004d.D.dialog-act.dharshi.65	I'm um answering your question . 	
+IS1004d.C.dialog-act.dharshi.83	Okay . Yeah yeah . 	
+IS1004d.D.dialog-act.dharshi.67	Okay . 	
+IS1004d.C.dialog-act.dharshi.84	Go ahead . 	
+IS1004d.D.dialog-act.dharshi.66	And that's the criteria I I found more useful . 	
+IS1004d.D.dialog-act.dharshi.68	I think I sh I I could write the criteria in the on the whiteboard ? 	
+IS1004d.C.dialog-act.dharshi.85	Mm-hmm . Sure . 	
+IS1004d.D.dialog-act.dharshi.69	And we all four could range 	
+IS1004d.C.dialog-act.dharshi.86	Okay . Yeah yeah . Yeah . 	
+IS1004d.D.dialog-act.dharshi.70	could evaluate the 	
+IS1004d.A.dialog-act.dharshi.98	Okay . 	
+IS1004d.D.dialog-act.dharshi.71		
+IS1004d.C.dialog-act.dharshi.88	So you can say fancy , 	
+IS1004d.C.dialog-act.dharshi.89	handy . 	
+IS1004d.C.dialog-act.dharshi.90	Handy . 	
+IS1004d.D.dialog-act.dharshi.72	Okay let's let's evaluate if it's fancy or 	
+IS1004d.C.dialog-act.dharshi.91	Yeah , it's fancy , according to me . 	
+IS1004d.D.dialog-act.dharshi.73	Seven but 	
+IS1004d.B.dialog-act.dharshi.86		
+IS1004d.C.dialog-act.dharshi.87		
+IS1004d.A.dialog-act.dharshi.99	Yeah , six . 	
+IS1004d.C.dialog-act.dharshi.92	Seven . Seven by me . 	
+IS1004d.A.dialog-act.dharshi.100	S seven . 	
+IS1004d.A.dialog-act.dharshi.101	Six . 	
+IS1004d.D.dialog-act.dharshi.74	I would say seven . 	
+IS1004d.C.dialog-act.dharshi.93	Okay . 	
+IS1004d.D.dialog-act.dharshi.75	It's quite fancy . 	
+IS1004d.C.dialog-act.dharshi.94	So you can add seven plus six plus seven plus 	
+IS1004d.B.dialog-act.dharshi.87		
+IS1004d.A.dialog-act.dharshi.102	No , wait . 	
+IS1004d.B.dialog-act.dharshi.88	Yeah uh five . 	
+IS1004d.A.dialog-act.dharshi.103	What do you say seven ? 	
+IS1004d.C.dialog-act.dharshi.95	Five . 	
+IS1004d.A.dialog-act.dharshi.104	Five ? 	
+IS1004d.B.dialog-act.dharshi.89	Five , 	
+IS1004d.B.dialog-act.dharshi.91	maybe maybe maybe six 	
+IS1004d.B.dialog-act.dharshi.92	it's it's I guess it's 	
+IS1004d.A.dialog-act.dharshi.105	Okay , six point five . 	
+IS1004d.B.dialog-act.dharshi.93	yeah . 	
+IS1004d.A.dialog-act.dharshi.106	Handy ? 	
+IS1004d.B.dialog-act.dharshi.90		
+IS1004d.C.dialog-act.dharshi.96	Again I'll give seven . 	
+IS1004d.A.dialog-act.dharshi.107	Seven . 	
+IS1004d.B.dialog-act.dharshi.94	I'd give it a six 	
+IS1004d.B.dialog-act.dharshi.95	like I'd I think it's probably more handy than my current remote , 'cause of the scroll wheels 	
+IS1004d.D.dialog-act.dharshi.76	Six . 	
+IS1004d.C.dialog-act.dharshi.97	Yep . 	
+IS1004d.B.dialog-act.dharshi.96	but maybe loses the point for not having you know the extra buttons when you reall if you do need them for some reason 	
+IS1004d.B.dialog-act.dharshi.97	but you know you can always use your other 	
+IS1004d.B.dialog-act.dharshi.98	remote . 	
+IS1004d.A.dialog-act.dharshi.110	So seven , seven , 	
+IS1004d.C.dialog-act.dharshi.99	Seven for me . 	
+IS1004d.A.dialog-act.dharshi.111	six , 	
+IS1004d.B.dialog-act.dharshi.100	Yeah . 	
+IS1004d.D.dialog-act.dharshi.78	Six . 	
+IS1004d.A.dialog-act.dharshi.112	six point five . 	
+IS1004d.A.dialog-act.dharshi.113	Functional . 	
+IS1004d.A.dialog-act.dharshi.108		
+IS1004d.B.dialog-act.dharshi.99		
+IS1004d.C.dialog-act.dharshi.100	I'll give five . 	
+IS1004d.A.dialog-act.dharshi.114	Four . 	
+IS1004d.D.dialog-act.dharshi.77	I would say 	
+IS1004d.C.dialog-act.dharshi.98		
+IS1004d.A.dialog-act.dharshi.109		
+IS1004d.B.dialog-act.dharshi.102	Well it depends when you say functional , do you mean it does what we want it to do , or d does what it does , you know , can it make you coffee ? 	
+IS1004d.D.dialog-act.dharshi.79	Everything ar 	
+IS1004d.A.dialog-act.dharshi.115	Uh for a remote control , does he have all the 	
+IS1004d.B.dialog-act.dharshi.103	You know . 	
+IS1004d.D.dialog-act.dharshi.80	Mm everything 	
+IS1004d.B.dialog-act.dharshi.104	Yeah . 	
+IS1004d.B.dialog-act.dharshi.105	Yeah . 	
+IS1004d.A.dialog-act.dharshi.116	you could expect . 	
+IS1004d.D.dialog-act.dharshi.81	It's compared to the all 	
+IS1004d.C.dialog-act.dharshi.102	That's right . 	
+IS1004d.D.dialog-act.dharshi.82	remote controls . 	
+IS1004d.C.dialog-act.dharshi.103	That's right . 	
+IS1004d.B.dialog-act.dharshi.106	That's before 	
+IS1004d.C.dialog-act.dharshi.104	The standards . What is available in the market off the shelf . 	
+IS1004d.B.dialog-act.dharshi.107	Yeah . I have to say four . 	
+IS1004d.D.dialog-act.dharshi.84	Actually I don't know what are the r the real specification of a of a universal remote contro 	
+IS1004d.B.dialog-act.dharshi.108	Well it's not a universal remote . 	
+IS1004d.C.dialog-act.dharshi.107	We 	
+IS1004d.B.dialog-act.dharshi.109	Remember we're focus we're supposed to focus just on T_V_s . 	
+IS1004d.D.dialog-act.dharshi.85	Ah it's not an univer but it's for all kind of T_V_s ? 	
+IS1004d.A.dialog-act.dharshi.118	Yeah . 	
+IS1004d.B.dialog-act.dharshi.110	Well all T_V_s but only T_ only T_V_s I guess . 	
+IS1004d.A.dialog-act.dharshi.119		
+IS1004d.A.dialog-act.dharshi.120	So it's universal but for T_V_s . 	
+IS1004d.A.dialog-act.dharshi.121	So s uh four ? 	
+IS1004d.D.dialog-act.dharshi.86	Yeah . 	
+IS1004d.C.dialog-act.dharshi.108	Five . 	
+IS1004d.A.dialog-act.dharshi.122	Five ? 	
+IS1004d.B.dialog-act.dharshi.111	Four . 	
+IS1004d.A.dialog-act.dharshi.123	Four . 	
+IS1004d.D.dialog-act.dharshi.87	Four . 	
+IS1004d.D.dialog-act.dharshi.88	Four . 	
+IS1004d.C.dialog-act.dharshi.109	So four point two ? 	
+IS1004d.B.dialog-act.dharshi.112	Just four . 	
+IS1004d.A.dialog-act.dharshi.124	Four . 	
+IS1004d.C.dialog-act.dharshi.110	four . 	
+IS1004d.D.dialog-act.dharshi.89	So four ? 	
+IS1004d.B.dialog-act.dharshi.113	Obviously there are some outliers so 	
+IS1004d.A.dialog-act.dharshi.125	Okay cool ? Cool device . 	
+IS1004d.C.dialog-act.dharshi.105		
+IS1004d.D.dialog-act.dharshi.83		
+IS1004d.C.dialog-act.dharshi.106	There I'll give it seven . 	
+IS1004d.A.dialog-act.dharshi.117		
+IS1004d.D.dialog-act.dharshi.90	It means cool features , like new features actually . 	
+IS1004d.C.dialog-act.dharshi.111	That's right . 	
+IS1004d.B.dialog-act.dharshi.114		
+IS1004d.B.dialog-act.dharshi.115	Which 	
+IS1004d.C.dialog-act.dharshi.112	For a T_V_ the most important feature which I felt was the locator which is a cool feature . 	
+IS1004d.C.dialog-act.dharshi.113	And then the scroll buttons are again cool features . 	
+IS1004d.C.dialog-act.dharshi.114	We don't have L_C_D_ for it but that we decided we don't want to have . 	
+IS1004d.A.dialog-act.dharshi.126	Yeah . Seven . 	
+IS1004d.D.dialog-act.dharshi.91	I would say five . 	
+IS1004d.B.dialog-act.dharshi.116	I'll say five . 	
+IS1004d.C.dialog-act.dharshi.115	Mm-hmm . 	
+IS1004d.A.dialog-act.dharshi.127	Six . 	
+IS1004d.C.dialog-act.dharshi.116	Seven . 	
+IS1004d.A.dialog-act.dharshi.128	Plus six , 	
+IS1004d.B.dialog-act.dharshi.117	Yeah . 	
+IS1004d.A.dialog-act.dharshi.129	I say I said seven . 	
+IS1004d.A.dialog-act.dharshi.130	So it's six . 	
+IS1004d.B.dialog-act.dharshi.118	S yeah . 	
+IS1004d.D.dialog-act.dharshi.92	You said seven ? 	
+IS1004d.A.dialog-act.dharshi.131	Yeah . 	
+IS1004d.B.dialog-act.dharshi.119	'Cause it's five five seven seven so 	
+IS1004d.C.dialog-act.dharshi.117	Okay . 	
+IS1004d.B.dialog-act.dharshi.120	Uh , okay , definitely easy to use . 	
+IS1004d.C.dialog-act.dharshi.118	Definitely seven . 	
+IS1004d.B.dialog-act.dharshi.121	Seven . 	
+IS1004d.A.dialog-act.dharshi.132	Seven . 	
+IS1004d.A.dialog-act.dharshi.133	Seven . 	
+IS1004d.A.dialog-act.dharshi.134	And you ? 	
+IS1004d.D.dialog-act.dharshi.93	Five . 	
+IS1004d.A.dialog-act.dharshi.135	Outl you are not lik outlier . 	
+IS1004d.B.dialog-act.dharshi.122		
+IS1004d.C.dialog-act.dharshi.119		
+IS1004d.A.dialog-act.dharshi.136	Seven 	
+IS1004d.A.dialog-act.dharshi.137	Okay okay okay okay . 	
+IS1004d.C.dialog-act.dharshi.120	Okay . 	
+IS1004d.D.dialog-act.dharshi.94	Sorry , 	
+IS1004d.D.dialog-act.dharshi.95	I have them 	
+IS1004d.B.dialog-act.dharshi.123	Alright , now here's the sixty million Dollar question , 	
+IS1004d.A.dialog-act.dharshi.138		
+IS1004d.B.dialog-act.dharshi.124	well , twenty five twenty five Euro question . 	
+IS1004d.A.dialog-act.dharshi.140	Of course I'll buy the banana . 	
+IS1004d.B.dialog-act.dharshi.125	What do you what do you guys reckon ? 	
+IS1004d.D.dialog-act.dharshi.96	Of cour Of course the most difficult question for the end . 	
+IS1004d.C.dialog-act.dharshi.122	I'll say five . 	
+IS1004d.A.dialog-act.dharshi.141	Well 	
+IS1004d.C.dialog-act.dharshi.123	I'll say five . 	
+IS1004d.B.dialog-act.dharshi.126	Hmm . 	
+IS1004d.A.dialog-act.dharshi.142	Twenty five Euros . 	
+IS1004d.A.dialog-act.dharshi.139	Cheap . 	
+IS1004d.C.dialog-act.dharshi.121		
+IS1004d.D.dialog-act.dharshi.97	I find it quite cheap actually . 	
+IS1004d.B.dialog-act.dharshi.127		
+IS1004d.D.dialog-act.dharshi.99	I dunno . If i i it depends , if you live in in Switzerland or you live in 	
+IS1004d.A.dialog-act.dharshi.143	Yeah , 	
+IS1004d.A.dialog-act.dharshi.144	so the target price is for all Europe , or only for rich countries ? 	
+IS1004d.A.dialog-act.dharshi.145	It's more targeting U_K_ or 	
+IS1004d.D.dialog-act.dharshi.100	I don't know . 	
+IS1004d.D.dialog-act.dharshi.101	Wha the initial specifications were for the whole all Europe or 	
+IS1004d.B.dialog-act.dharshi.128	Uh 	
+IS1004d.A.dialog-act.dharshi.146	So this is selling costs , not production costs . 	
+IS1004d.D.dialog-act.dharshi.102	Yeah this is the the initial specifications . 	
+IS1004d.B.dialog-act.dharshi.129	Yeah . Yeah . 	
+IS1004d.A.dialog-act.dharshi.147	Yeah yeah sure . 	
+IS1004d.A.dialog-act.dharshi.148	Um 	
+IS1004d.A.dialog-act.dharshi.149	Five . 	
+IS1004d.D.dialog-act.dharshi.103	I would say six . 	
+IS1004d.D.dialog-act.dharshi.104	It's quite cheap actually . 	
+IS1004d.B.dialog-act.dharshi.130	I'd say two . 	
+IS1004d.A.dialog-act.dharshi.150	Aw , should be nice in your 	
+IS1004d.C.dialog-act.dharshi.124	Why ? 	
+IS1004d.D.dialog-act.dharshi.105		
+IS1004d.B.dialog-act.dharshi.131	I don't want a banana on my living room table , a banana remote . 	
+IS1004d.C.dialog-act.dharshi.125	No but it's really handy actually if you see . 	
+IS1004d.B.dialog-act.dharshi.132	It is handy , it's handy , but it it's terrible . 	
+IS1004d.C.dialog-act.dharshi.126	It's it's so handy . 	
+IS1004d.C.dialog-act.dharshi.127	And then 	
+IS1004d.A.dialog-act.dharshi.151	It's kitsch . 	
+IS1004d.C.dialog-act.dharshi.128	Anyb anybody who comes here anybody who comes to your home he'll at least ask once what is this . 	
+IS1004d.B.dialog-act.dharshi.133	Yeah . 	
+IS1004d.B.dialog-act.dharshi.134	Yeah , but it's not a positive thing . 	
+IS1004d.C.dialog-act.dharshi.129	It's a very positive thing if you see like that . 	
+IS1004d.B.dialog-act.dharshi.135	Well , you know , it's it's handy , it's ergonomic , but it's a banana . 	
+IS1004d.A.dialog-act.dharshi.152	Well , don't forget well , don't for 	
+IS1004d.A.dialog-act.dharshi.153	don't forget who we're targeting also 	
+IS1004d.A.dialog-act.dharshi.154	who are f f who are wh 	
+IS1004d.C.dialog-act.dharshi.130	Youngsters . 	
+IS1004d.D.dialog-act.dharshi.106	Actually maybe 	
+IS1004d.A.dialog-act.dharshi.155	yeah , youngst youngst 	
+IS1004d.B.dialog-act.dharshi.136	Yeah but it says I , I would buy this , so . 	
+IS1004d.A.dialog-act.dharshi.156	No well yeah 	
+IS1004d.A.dialog-act.dharshi.157	I 	
+IS1004d.A.dialog-act.dharshi.158	if you would be young . 	
+IS1004d.D.dialog-act.dharshi.107	Yeah 	
+IS1004d.A.dialog-act.dharshi.159	Not telling that you are young . 	
+IS1004d.C.dialog-act.dharshi.131		
+IS1004d.B.dialog-act.dharshi.142	No , it's I . I would buy 	
+IS1004d.A.dialog-act.dharshi.160	Li li like a teenager for instance . 	
+IS1004d.A.dialog-act.dharshi.167	Okay 	
+IS1004d.A.dialog-act.dharshi.168	you're you're crazy teenager and you like fun things . 	
+IS1004d.C.dialog-act.dharshi.137	You want to flaunt . 	
+IS1004d.A.dialog-act.dharshi.169	Yeah . 	
+IS1004d.B.dialog-act.dharshi.137		
+IS1004d.C.dialog-act.dharshi.138	You with your girlfriend or something . 	
+IS1004d.A.dialog-act.dharshi.170	Yeah , you want to show the beautiful banana you have . 	
+IS1004d.B.dialog-act.dharshi.138	S s 	
+IS1004d.C.dialog-act.dharshi.139	Or might be it does some other kind of thing but 	
+IS1004d.B.dialog-act.dharshi.139	Still I I'd say two . 	
+IS1004d.B.dialog-act.dharshi.140	I don't think I at any stage in my life I would want a banana remote control , really . 	
+IS1004d.C.dialog-act.dharshi.140	Uh yeah , crazy . 	
+IS1004d.A.dialog-act.dharshi.171	Okay so you s you give 	
+IS1004d.B.dialog-act.dharshi.143	I can say , maybe there is a market for it , I dunno . 	
+IS1004d.A.dialog-act.dharshi.172	oh yeah yeah I know I know . 	
+IS1004d.C.dialog-act.dharshi.132		
+IS1004d.A.dialog-act.dharshi.174	So you say two . 	
+IS1004d.B.dialog-act.dharshi.144	Yeah . 	
+IS1004d.C.dialog-act.dharshi.136	I say five . 	
+IS1004d.A.dialog-act.dharshi.164	F I d I say five . 	
+IS1004d.A.dialog-act.dharshi.173	You say ? 	
+IS1004d.D.dialog-act.dharshi.108	I change the question . 	
+IS1004d.A.dialog-act.dharshi.162	So what's the new question ? 	
+IS1004d.C.dialog-act.dharshi.133	And you have saved it ? 	
+IS1004d.D.dialog-act.dharshi.109	So yeah upload the 	
+IS1004d.C.dialog-act.dharshi.134	You'll have to reload . 	
+IS1004d.A.dialog-act.dharshi.163	Uh yeah , I think so . 	
+IS1004d.A.dialog-act.dharshi.161		
+IS1004d.B.dialog-act.dharshi.145	Okay , so , it depends if uh 	
+IS1004d.D.dialog-act.dharshi.113	Yeah it's two different situations 	
+IS1004d.D.dialog-act.dharshi.111	. If you really need an universal remote control or if you would change your remote control for a n for a new one . 	
+IS1004d.A.dialog-act.dharshi.166	Yeah that's two different question . 	
+IS1004d.B.dialog-act.dharshi.146	If I had t if I had to spend twenty five Euro , if that was like my limit , maybe I would buy it . 	
+IS1004d.B.dialog-act.dharshi.147	Because the other twenty five Euro remote controls are probably gonna look 	
+IS1004d.C.dialog-act.dharshi.141	They're not going to be as 	
+IS1004d.A.dialog-act.dharshi.175	Ugly . 	
+IS1004d.B.dialog-act.dharshi.148	worse than a banana . 	
+IS1004d.D.dialog-act.dharshi.112		
+IS1004d.C.dialog-act.dharshi.142	And they they might not be a as easy as this 	
+IS1004d.B.dialog-act.dharshi.149	And it 	
+IS1004d.B.dialog-act.dharshi.150	yeah this is gonna f you know handy to use . 	
+IS1004d.C.dialog-act.dharshi.143	yeah . 	
+IS1004d.C.dialog-act.dharshi.144	Yeah . 	
+IS1004d.D.dialog-act.dharshi.114	So ? What now ? What range ? 	
+IS1004d.C.dialog-act.dharshi.135	S 	
+IS1004d.A.dialog-act.dharshi.176	I stick to five . 	
+IS1004d.C.dialog-act.dharshi.145	I go slightly up . 	
+IS1004d.B.dialog-act.dharshi.156	Although it still has it still has the word of course at the beginning 	
+IS1004d.C.dialog-act.dharshi.146	Six . 	
+IS1004d.D.dialog-act.dharshi.116	Six . 	
+IS1004d.B.dialog-act.dharshi.157	so I dunno . Um . 	
+IS1004d.A.dialog-act.dharshi.177	W we have six , five 	
+IS1004d.B.dialog-act.dharshi.151	I'd give it I'd give it a 	
+IS1004d.A.dialog-act.dharshi.178	Three 	
+IS1004d.B.dialog-act.dharshi.152	I give it a four now . 	
+IS1004d.D.dialog-act.dharshi.117	Six ? Six ? 	
+IS1004d.C.dialog-act.dharshi.147		
+IS1004d.A.dialog-act.dharshi.179	So we are 	
+IS1004d.C.dialog-act.dharshi.148	Six , five , four . 	
+IS1004d.A.dialog-act.dharshi.180	six , five , four 	
+IS1004d.D.dialog-act.dharshi.118	Six , so it's uh five point five , or less . 	
+IS1004d.A.dialog-act.dharshi.181	Yeah . 	
+IS1004d.A.dialog-act.dharshi.182	So 	
+IS1004d.C.dialog-act.dharshi.149	Okay . 	
+IS1004d.A.dialog-act.dharshi.183	So and last question , 	
+IS1004d.A.dialog-act.dharshi.184	will I change my rem change my remote control from Mando banana . 	
+IS1004d.A.dialog-act.dharshi.185	Um , zero . 	
+IS1004d.A.dialog-act.dharshi.186	No uh we can't . 	
+IS1004d.D.dialog-act.dharshi.115		
+IS1004d.A.dialog-act.dharshi.187	So one . 	
+IS1004d.B.dialog-act.dharshi.153		
+IS1004d.D.dialog-act.dharshi.121	Actually yeah , 	
+IS1004d.D.dialog-act.dharshi.122	I we 	
+IS1004d.A.dialog-act.dharshi.188	Well if . 	
+IS1004d.B.dialog-act.dharshi.162	Yeah . 	
+IS1004d.A.dialog-act.dharshi.189	No uh let's say I'll put two . 	
+IS1004d.B.dialog-act.dharshi.159	I'd say three , 	
+IS1004d.B.dialog-act.dharshi.160	I mean my remote control is kinda at home is pretty terrible . 	
+IS1004d.B.dialog-act.dharshi.161	If it was change my remote control of my D_V_D_ player for a Mando banana then I would be more inclined to 	
+IS1004d.A.dialog-act.dharshi.190	It's for the T_V_ . 	
+IS1004d.B.dialog-act.dharshi.163	but uh 'cause it's really bad but uh 	
+IS1004d.D.dialog-act.dharshi.119		
+IS1004d.B.dialog-act.dharshi.164	I'd say a three . 	
+IS1004d.B.dialog-act.dharshi.158		
+IS1004d.C.dialog-act.dharshi.150	I'll still give it five . 	
+IS1004d.D.dialog-act.dharshi.120	Five ? 	
+IS1004d.C.dialog-act.dharshi.151	Yeah . 	
+IS1004d.D.dialog-act.dharshi.123	You are romantic , really . 	
+IS1004d.A.dialog-act.dharshi.192	Two three five two three fi and two . 	
+IS1004d.C.dialog-act.dharshi.153	So it's somewhere three point five I think . 	
+IS1004d.D.dialog-act.dharshi.124	I would say two . 	
+IS1004d.A.dialog-act.dharshi.193	So it's r 	
+IS1004d.A.dialog-act.dharshi.191	Yeah , three point five . 	
+IS1004d.D.dialog-act.dharshi.125	Who is the outlier ? 	
+IS1004d.D.dialog-act.dharshi.126	Wh wh you said five ? 	
+IS1004d.B.dialog-act.dharshi.165		
+IS1004d.A.dialog-act.dharshi.194	No no you say five , he is the outlier . 	
+IS1004d.C.dialog-act.dharshi.154	No I said five . 	
+IS1004d.A.dialog-act.dharshi.195	Okay just just do a sum . 	
+IS1004d.D.dialog-act.dharshi.127	I don't know if it's a 	
+IS1004d.B.dialog-act.dharshi.167	It's not very promising but you know we're not young trendsetters . 	
+IS1004d.D.dialog-act.dharshi.128	No because there are more 	
+IS1004d.D.dialog-act.dharshi.129	yeah , we shouldn't sum like that . 	
+IS1004d.A.dialog-act.dharshi.196	Well maybe we should we should uh have a look globally glob 	
+IS1004d.D.dialog-act.dharshi.130	Because the the last two questions is much more important than the rest actually . 	
+IS1004d.C.dialog-act.dharshi.152	Mm-hmm . 	
+IS1004d.D.dialog-act.dharshi.131	Otherwise we wouldn't we will not sell . 	
+IS1004d.B.dialog-act.dharshi.166	Is there some some formula you're using that says you have to sum them up ? 	
+IS1004d.D.dialog-act.dharshi.132	Uh no I didn't anything . 	
+IS1004d.B.dialog-act.dharshi.168	Well just leave it at that then . 	
+IS1004d.A.dialog-act.dharshi.199	Yeah . 	
+IS1004d.C.dialog-act.dharshi.155	Oops . 	
+IS1004d.D.dialog-act.dharshi.133	Yeah , 	
+IS1004d.D.dialog-act.dharshi.134	the uh 	
+IS1004d.A.dialog-act.dharshi.197	So maybe maybe w we can we should stick to general feeling . We can had uh have a out of these numbers , which which is that well we should go for it . 	
+IS1004d.D.dialog-act.dharshi.135	Yeah . 	
+IS1004d.A.dialog-act.dharshi.198	Problem with connectors ? 	
+IS1004d.D.dialog-act.dharshi.137	Do you want me to sum 	
+IS1004d.D.dialog-act.dharshi.138	o I think it's not 	
+IS1004d.C.dialog-act.dharshi.156	Yeah it's it's funny . 	
+IS1004d.B.dialog-act.dharshi.172	No . 	
+IS1004d.B.dialog-act.dharshi.173	I think it it kind of you just lose information if you sum it , so . 	
+IS1004d.A.dialog-act.dharshi.206	Okay 	
+IS1004d.A.dialog-act.dharshi.201	. So let's move uh let's move on . 	
+IS1004d.C.dialog-act.dharshi.159	Yeah , sure . 	
+IS1004d.A.dialog-act.dharshi.210	Okay , now now we have to mm to estimate uh the cost okay 	
+IS1004d.A.dialog-act.dharshi.202	. So I prepare an Excel sh uh an Excel sheet . 	
+IS1004d.A.dialog-act.dharshi.203	Um well we are going to calculate the production costs . 	
+IS1004d.A.dialog-act.dharshi.204	We should we should be below twelve point five . 	
+IS1004d.A.dialog-act.dharshi.207	So I already uh put some pu some numbers here , okay . 	
+IS1004d.A.dialog-act.dharshi.211	We are going to go through 	
+IS1004d.A.dialog-act.dharshi.212	so this is the number the mm number of components we need for this thing . 	
+IS1004d.A.dialog-act.dharshi.213	So it appears that there were things that we didn't thought about . 	
+IS1004d.A.dialog-act.dharshi.214	Uh and also things that I uh I d I forget to uh to put like solar cells . 	
+IS1004d.C.dialog-act.dharshi.158	Mm-hmm . 	
+IS1004d.B.dialog-act.dharshi.171	Well we decided against the solar cells so 	
+IS1004d.A.dialog-act.dharshi.208	Oh yeah finally we say no . 	
+IS1004d.C.dialog-act.dharshi.160	Solar cells , yeah yeah yeah yeah yeah , we said no to that . 	
+IS1004d.A.dialog-act.dharshi.215	Okay so let's let's go let's go let go through all the lines . 	
+IS1004d.A.dialog-act.dharshi.216	So hand dynamo . 	
+IS1004d.A.dialog-act.dharshi.217	This something we didn't thought about . 	
+IS1004d.A.dialog-act.dharshi.205	But 	
+IS1004d.B.dialog-act.dharshi.175	You mean , charging it by shaking the banana . 	
+IS1004d.A.dialog-act.dharshi.218	Yeah . 	
+IS1004d.C.dialog-act.dharshi.162	I think rechargeable batteries will take care of the power thing . 	
+IS1004d.A.dialog-act.dharshi.222	Yeah . 	
+IS1004d.C.dialog-act.dharshi.163	Yeah . 	
+IS1004d.C.dialog-act.dharshi.164	To bring the cost 	
+IS1004d.A.dialog-act.dharshi.224	Okay so we we stick to battery , one . 	
+IS1004d.C.dialog-act.dharshi.166	Yeah . 	
+IS1004d.A.dialog-act.dharshi.220	No kinetic also . 	
+IS1004d.A.dialog-act.dharshi.219	I don't I don't see the difference between kinetic and dynamo . 	
+IS1004d.B.dialog-act.dharshi.176	Well maybe dynamo is like you have to actually 	
+IS1004d.A.dialog-act.dharshi.225	Ah you have to ah okay I see so kinetic is really uh shaking the banana . 	
+IS1004d.B.dialog-act.dharshi.174		
+IS1004d.D.dialog-act.dharshi.139	S 	
+IS1004d.B.dialog-act.dharshi.177	Yeah . 	
+IS1004d.C.dialog-act.dharshi.167	Yeah . 	
+IS1004d.A.dialog-act.dharshi.226	Crazy . 	
+IS1004d.A.dialog-act.dharshi.227	Okay . 	
+IS1004d.A.dialog-act.dharshi.228	So those banana is falling . 	
+IS1004d.A.dialog-act.dharshi.221	Let's go ahead . 	
+IS1004d.A.dialog-act.dharshi.223	So we we st only have one for battery . 	
+IS1004d.A.dialog-act.dharshi.229	Uh then for electronics um so I didn't put anything for the . 	
+IS1004d.C.dialog-act.dharshi.165	So we have the regular chip on the print , which is one . 	
+IS1004d.A.dialog-act.dharshi.230	Yeah . 	
+IS1004d.A.dialog-act.dharshi.231	Yeah . 	
+IS1004d.C.dialog-act.dharshi.168	And that's it . 	
+IS1004d.A.dialog-act.dharshi.232	Okay . 	
+IS1004d.A.dialog-act.dharshi.233	No so we hin 	
+IS1004d.C.dialog-act.dharshi.161	And we have sample speaker . 	
+IS1004d.A.dialog-act.dharshi.234	Yeah so one . 	
+IS1004d.C.dialog-act.dharshi.169	Yeah . Yeah . 	
+IS1004d.C.dialog-act.dharshi.170	the cost of that is very high . 	
+IS1004d.A.dialog-act.dharshi.235	Ooh ye ye ye 	
+IS1004d.A.dialog-act.dharshi.236	the cost is increasing . 	
+IS1004d.B.dialog-act.dharshi.180	Well actually that that no that sample speaker is not we we're not using that , 	
+IS1004d.A.dialog-act.dharshi.237	So we are 	
+IS1004d.B.dialog-act.dharshi.181	we're just using the the very beep simple beep , 	
+IS1004d.A.dialog-act.dharshi.241	The beep . 	
+IS1004d.B.dialog-act.dharshi.182	that s that sample thing is like the voice recording and everything . 	
+IS1004d.C.dialog-act.dharshi.172	Uh-huh . 	
+IS1004d.A.dialog-act.dharshi.240	That's what 	
+IS1004d.C.dialog-act.dharshi.171	Mm-hmm . Mm-hmm . 	
+IS1004d.A.dialog-act.dharshi.238	Okay 	
+IS1004d.A.dialog-act.dharshi.239	so I'll remove it . 	
+IS1004d.B.dialog-act.dharshi.179	So 	
+IS1004d.B.dialog-act.dharshi.183	Yeah . 	
+IS1004d.B.dialog-act.dharshi.184	I say that 	
+IS1004d.A.dialog-act.dharshi.200	S 	
+IS1004d.B.dialog-act.dharshi.185	Yeah . 	
+IS1004d.C.dialog-act.dharshi.157	And we have sev 	
+IS1004d.A.dialog-act.dharshi.242	So don't we need a 	
+IS1004d.A.dialog-act.dharshi.243	Oh there is no listing for r radio frequency thing . 	
+IS1004d.B.dialog-act.dharshi.169		
+IS1004d.C.dialog-act.dharshi.174	Yeah . 	
+IS1004d.A.dialog-act.dharshi.244	So 	
+IS1004d.C.dialog-act.dharshi.173	So we we'll put some extras , if there is something . 	
+IS1004d.A.dialog-act.dharshi.245	Yeah maybe . 	
+IS1004d.A.dialog-act.dharshi.246	We'll see later . 	
+IS1004d.B.dialog-act.dharshi.170	Mm . 	
+IS1004d.A.dialog-act.dharshi.247	Okay so in for the case um 	
+IS1004d.A.dialog-act.dharshi.248	I put single curved . 	
+IS1004d.C.dialog-act.dharshi.175	Okay . 	
+IS1004d.C.dialog-act.dharshi.176	To reduce the cost , it's okay . 	
+IS1004d.B.dialog-act.dharshi.186	Well , wait a second , 	
+IS1004d.A.dialog-act.dharshi.249	Because we have two things . 	
+IS1004d.B.dialog-act.dharshi.187	no , it's it's double curved , 	
+IS1004d.B.dialog-act.dharshi.188	it's got a c , it's uh 	
+IS1004d.C.dialog-act.dharshi.177	Oh it's got all the directions 	
+IS1004d.A.dialog-act.dharshi.250	No . 	
+IS1004d.C.dialog-act.dharshi.178	so don't worry . 	
+IS1004d.B.dialog-act.dharshi.189	Well d yeah it's monotonic but 	
+IS1004d.D.dialog-act.dharshi.136		
+IS1004d.C.dialog-act.dharshi.179	It's got a direction . 	
+IS1004d.B.dialog-act.dharshi.190	it's got but if you hold it if you hold it that way that's two curved , 	
+IS1004d.B.dialog-act.dharshi.191	one on this side , one on that side , but they're opposite sides . 	
+IS1004d.A.dialog-act.dharshi.251	Well . 	
+IS1004d.D.dialog-act.dharshi.140	Actually what's the differen 	
+IS1004d.A.dialog-act.dharshi.252	What a 	
+IS1004d.A.dialog-act.dharshi.253	what i if I put one here . 	
+IS1004d.B.dialog-act.dharshi.192	This is actually I mean this probably 	
+IS1004d.B.dialog-act.dharshi.193	this probably actually costs more than three 	
+IS1004d.A.dialog-act.dharshi.254	Yeah 	
+IS1004d.B.dialog-act.dharshi.194	if you 	
+IS1004d.A.dialog-act.dharshi.256	so let's put one here in the then instead of single 	
+IS1004d.C.dialog-act.dharshi.180	Okay . Okay . 	
+IS1004d.A.dialog-act.dharshi.257	oka all right . 	
+IS1004d.B.dialog-act.dharshi.195	Yeah . 	
+IS1004d.A.dialog-act.dharshi.258	So we stick to plastic , it cost nothing . 	
+IS1004d.C.dialog-act.dharshi.181	Yeah . 	
+IS1004d.C.dialog-act.dharshi.182	That's right . 	
+IS1004d.B.dialog-act.dharshi.196	Well no didn't we say we wanted to do a rubber 	
+IS1004d.A.dialog-act.dharshi.259	No , 	
+IS1004d.A.dialog-act.dharshi.260	it's too 	
+IS1004d.A.dialog-act.dharshi.261	no . 	
+IS1004d.D.dialog-act.dharshi.141	Too expensive . 	
+IS1004d.B.dialog-act.dharshi.197	if you drop it ? 	
+IS1004d.A.dialog-act.dharshi.262	It's too expensive . 	
+IS1004d.B.dialog-act.dharshi.198	Well when 	
+IS1004d.A.dialog-act.dharshi.263	We're already at eleven . 	
+IS1004d.B.dialog-act.dharshi.199	okay . 	
+IS1004d.B.dialog-act.dharshi.200	Well we we'll come back we'll come back and see if we can fit it in . 	
+IS1004d.A.dialog-act.dharshi.264	Okay 	
+IS1004d.A.dialog-act.dharshi.265	so I put rubber one . 	
+IS1004d.A.dialog-act.dharshi.266	Okay so special colour , yellow . 	
+IS1004d.B.dialog-act.dharshi.201	Yeah . 	
+IS1004d.A.dialog-act.dharshi.267	Uh for the interface we have 	
+IS1004d.C.dialog-act.dharshi.183	We don't have any push buttons . 	
+IS1004d.B.dialog-act.dharshi.202	No , we have two push buttons . 	
+IS1004d.A.dialog-act.dharshi.268	We have three . 	
+IS1004d.C.dialog-act.dharshi.184	No that is a scroll wheel itself , it'll be put in that . 	
+IS1004d.B.dialog-act.dharshi.204	Huh . 	
+IS1004d.A.dialog-act.dharshi.270	No no . 	
+IS1004d.A.dialog-act.dharshi.271	We have two scroll , and we have three push buttons . 	
+IS1004d.C.dialog-act.dharshi.185	Ah okay , okay . 	
+IS1004d.B.dialog-act.dharshi.203	Uh . 	
+IS1004d.C.dialog-act.dharshi.186	Okay , okay . 	
+IS1004d.A.dialog-act.dharshi.269		
+IS1004d.D.dialog-act.dharshi.142	Actually whe whe when you wrote regular chip you should put two , because there is another chip here . 	
+IS1004d.B.dialog-act.dharshi.205	Okay it's gonna have to be plastic . 	
+IS1004d.A.dialog-act.dharshi.272	And 	
+IS1004d.A.dialog-act.dharshi.273	No it's no chip . 	
+IS1004d.A.dialog-act.dharshi.274	This is just radio frequency . 	
+IS1004d.C.dialog-act.dharshi.187	Yeah . 	
+IS1004d.A.dialog-act.dharshi.275	Th This is no chip . 	
+IS1004d.D.dialog-act.dharshi.143	Yeah but 	
+IS1004d.C.dialog-act.dharshi.188	No . There's no chip there . 	
+IS1004d.D.dialog-act.dharshi.144	you need 	
+IS1004d.C.dialog-act.dharshi.189	It just emits the signal . 	
+IS1004d.A.dialog-act.dharshi.276	It's just 	
+IS1004d.C.dialog-act.dharshi.190	And the receiver accepts it and that's it . 	
+IS1004d.A.dialog-act.dharshi.277	Yeah . 	
+IS1004d.D.dialog-act.dharshi.145	Fo i it does nothing actually ? 	
+IS1004d.A.dialog-act.dharshi.278	No . 	
+IS1004d.C.dialog-act.dharshi.191	Just se sends the signal , that's it . 	
+IS1004d.A.dialog-act.dharshi.279	Just only . 	
+IS1004d.B.dialog-act.dharshi.206	It's a recharger thing 	
+IS1004d.B.dialog-act.dharshi.207	and uh 	
+IS1004d.A.dialog-act.dharshi.280	Okay w we didn't think a thought about uh integrated scroll wheel push buttons . 	
+IS1004d.B.dialog-act.dharshi.208	Well I actually did um think about it myself 	
+IS1004d.B.dialog-act.dharshi.209	but I thought you know because you could potentially you know you could be pushing it down as you scroll it for a instead of a turbo button 	
+IS1004d.A.dialog-act.dharshi.281	Yeah , 	
+IS1004d.B.dialog-act.dharshi.210	but you know the turbo button does add that extra class . 	
+IS1004d.A.dialog-act.dharshi.282	so 	
+IS1004d.A.dialog-act.dharshi.283	Yeah . 	
+IS1004d.B.dialog-act.dharshi.211	You know . 	
+IS1004d.B.dialog-act.dharshi.212	So I mean if we're if we're over budget then maybe we could we could rethink that . 	
+IS1004d.A.dialog-act.dharshi.284	Okay . 	
+IS1004d.A.dialog-act.dharshi.285	So no L_C_D_ , 	
+IS1004d.A.dialog-act.dharshi.286	so for we have no button supplements , 	
+IS1004d.C.dialog-act.dharshi.192	Yep . 	
+IS1004d.A.dialog-act.dharshi.287	right ? 	
+IS1004d.C.dialog-act.dharshi.193	No . 	
+IS1004d.A.dialog-act.dharshi.288	Uh 	
+IS1004d.A.dialog-act.dharshi.289	well in fact could we could not we consider this button as a button supplement 	
+IS1004d.A.dialog-act.dharshi.290	because 	
+IS1004d.A.dialog-act.dharshi.291	oh no , 	
+IS1004d.A.dialog-act.dharshi.292	these are these are for colours , co and special forms , special colours and special materials . 	
+IS1004d.B.dialog-act.dharshi.213	Yeah . 	
+IS1004d.B.dialog-act.dharshi.214	No we're not 	
+IS1004d.B.dialog-act.dharshi.215	we don't need anything special for the buttons . 	
+IS1004d.A.dialog-act.dharshi.293	So 	
+IS1004d.A.dialog-act.dharshi.294	Okay so we are over budget . 	
+IS1004d.C.dialog-act.dharshi.194	Yeah . 	
+IS1004d.C.dialog-act.dharshi.195	So first thing which we should take care of is , 	
+IS1004d.B.dialog-act.dharshi.216	Make it plastic instead of rubber . 	
+IS1004d.C.dialog-act.dharshi.196	instead of rubber , let it be plastic . 	
+IS1004d.A.dialog-act.dharshi.295	Yeah . 	
+IS1004d.B.dialog-act.dharshi.217	And then we're basically o on budget except for you know ten cents . 	
+IS1004d.C.dialog-act.dharshi.197	And uh that much money will be required for the base station , which is not there . 	
+IS1004d.A.dialog-act.dharshi.296	Yeah . 	
+IS1004d.B.dialog-act.dharshi.218	Yeah . 	
+IS1004d.D.dialog-act.dharshi.146		
+IS1004d.A.dialog-act.dharshi.297	So mayb in fact n we have to put two here 	
+IS1004d.A.dialog-act.dharshi.298	because it cost nothing . 	
+IS1004d.D.dialog-act.dharshi.147		
+IS1004d.B.dialog-act.dharshi.219	Yeah well pl the base station is made out of m many units of plastic . 	
+IS1004d.C.dialog-act.dharshi.198	Yeah . 	
+IS1004d.C.dialog-act.dharshi.199	That's right . 	
+IS1004d.A.dialog-act.dharshi.299		
+IS1004d.C.dialog-act.dharshi.200	So might be ninety centimes for the the remaining things which the cord and everything which'll go 	
+IS1004d.A.dialog-act.dharshi.300	Exactly exactly 	
+IS1004d.A.dialog-act.dharshi.301	so we have margin for that stuff . 	
+IS1004d.C.dialog-act.dharshi.201	That's right . 	
+IS1004d.B.dialog-act.dharshi.220	Does that include charging circuitry and everything ? 	
+IS1004d.A.dialog-act.dharshi.302	Yeah maybe . 	
+IS1004d.A.dialog-act.dharshi.303	Okay good . 	
+IS1004d.C.dialog-act.dharshi.202	Yeah . 	
+IS1004d.A.dialog-act.dharshi.304	Wha 	
+IS1004d.A.dialog-act.dharshi.305	Excellent . 	
+IS1004d.B.dialog-act.dharshi.221	So what do we do with the extra profits ? 	
+IS1004d.A.dialog-act.dharshi.306	Um we'll invest in R_ and D_ . 	
+IS1004d.B.dialog-act.dharshi.222	Okay . 	
+IS1004d.D.dialog-act.dharshi.148		
+IS1004d.B.dialog-act.dharshi.223	The next fruit . 	
+IS1004d.A.dialog-act.dharshi.307	Yeah . 	
+IS1004d.A.dialog-act.dharshi.308	So well we're under the the the cost . 	
+IS1004d.A.dialog-act.dharshi.309	So we can go to through to project evaluation . 	
+IS1004d.A.dialog-act.dharshi.310		
+IS1004d.D.dialog-act.dharshi.149	Okay so now we have a product which nobody would would buy . 	
+IS1004d.D.dialog-act.dharshi.150	Would yeah , would buy . 	
+IS1004d.A.dialog-act.dharshi.311	Sorry ? 	
+IS1004d.B.dialog-act.dharshi.224	No we have a product which none of us would buy . 	
+IS1004d.D.dialog-act.dharshi.152	Yeah because th th the evaluation project 	
+IS1004d.A.dialog-act.dharshi.314	Which is different . Which is different . 	
+IS1004d.A.dialog-act.dharshi.315	None of us will buy it . 	
+IS1004d.B.dialog-act.dharshi.229	No it's people in in in Milan and uh in Paris that are gonna buy it . 	
+IS1004d.D.dialog-act.dharshi.153	Ah would buy , yeah . 	
+IS1004d.D.dialog-act.dharshi.154	Massively , yeah . 	
+IS1004d.B.dialog-act.dharshi.230	We're n 	
+IS1004d.B.dialog-act.dharshi.232	yeah . 	
+IS1004d.B.dialog-act.dharshi.231	We're not in Milan or Paris . 	
+IS1004d.C.dialog-act.dharshi.203		
+IS1004d.D.dialog-act.dharshi.155	Yeah . Okay . 	
+IS1004d.D.dialog-act.dharshi.156	Uh you have been in Milan a couple of times , so . 	
+IS1004d.B.dialog-act.dharshi.236	Actually there were a lot of 	
+IS1004d.A.dialog-act.dharshi.318	This is a battery . 	
+IS1004d.C.dialog-act.dharshi.204		
+IS1004d.D.dialog-act.dharshi.157	And you said the lowest . 	
+IS1004d.B.dialog-act.dharshi.225		
+IS1004d.A.dialog-act.dharshi.319	This is what we which you can mm 	
+IS1004d.C.dialog-act.dharshi.205	S 	
+IS1004d.C.dialog-act.dharshi.208	Detachable battery . 	
+IS1004d.B.dialog-act.dharshi.235	That's 'cause I'm sick of Milan . 	
+IS1004d.A.dialog-act.dharshi.320	It did yeah . 	
+IS1004d.D.dialog-act.dharshi.158	Yeah , for the batteries 	
+IS1004d.A.dialog-act.dharshi.321	Extra battery , yeah . 	
+IS1004d.C.dialog-act.dharshi.206		
+IS1004d.B.dialog-act.dharshi.233	Okay so um project process . 	
+IS1004d.A.dialog-act.dharshi.313	Exac 	
+IS1004d.A.dialog-act.dharshi.312		
+IS1004d.A.dialog-act.dharshi.316	Well in fact I I did not know I didn't know really what to say here . 	
+IS1004d.D.dialog-act.dharshi.151		
+IS1004d.C.dialog-act.dharshi.207		
+IS1004d.B.dialog-act.dharshi.226		
+IS1004d.A.dialog-act.dharshi.322	If uh if you have any ideas of what we can we can say . 	
+IS1004d.A.dialog-act.dharshi.323	So 	
+IS1004d.A.dialog-act.dharshi.324	I don't I don't I don't understand what what they mean by satisfaction um and for and for example . 	
+IS1004d.B.dialog-act.dharshi.227		
+IS1004d.B.dialog-act.dharshi.228		
+IS1004d.A.dialog-act.dharshi.317	Should it be more like um like a status of of the these meetings in fact . 	
+IS1004d.B.dialog-act.dharshi.234	Yeah . 	
+IS1004d.A.dialog-act.dharshi.326	Yeah well in fact uh we we use a little bit the white board and the digital pen , not that much . 	
+IS1004d.B.dialog-act.dharshi.237	I dunno I think we had a fair bit of creativity . 	
+IS1004d.A.dialog-act.dharshi.325	Oh yeah it's really creative . 	
+IS1004d.C.dialog-act.dharshi.209		
+IS1004d.B.dialog-act.dharshi.238	And uh but I think one thing we m missed out of this whole process was a um like a focus group with the actual people we're targeting . 	
+IS1004d.B.dialog-act.dharshi.239	We needed some of these kind of young trendsetters to come in and play with the banana and you know see if they 	
+IS1004d.A.dialog-act.dharshi.327	Yeah . 	
+IS1004d.C.dialog-act.dharshi.212	They like that . 	
+IS1004d.B.dialog-act.dharshi.240	see if they like it . 	
+IS1004d.C.dialog-act.dharshi.210	Mm-hmm . 	
+IS1004d.A.dialog-act.dharshi.328	Yeah maybe we should go through , yeah an uh evaluation . 	
+IS1004d.B.dialog-act.dharshi.241	Because yeah the evaluation for us is is kind of 	
+IS1004d.C.dialog-act.dharshi.211	Biased . 	
+IS1004d.B.dialog-act.dharshi.242	pointless . 	
+IS1004d.A.dialog-act.dharshi.329	So maybe you should we should do a kinda evaluation in the streets like asking to young peoples well , do you like to have a banana as a remote control . 	
+IS1004d.B.dialog-act.dharshi.243	Yeah . 	
+IS1004d.D.dialog-act.dharshi.159		
+IS1004d.B.dialog-act.dharshi.244	Because it it would also be interesting to uh you to know find out if we have a market in really young children as well , to see you know how to how to market this thing . 	
+IS1004d.C.dialog-act.dharshi.213	Mm-hmm . 	
+IS1004d.C.dialog-act.dharshi.214	Mm-hmm . 	
+IS1004d.A.dialog-act.dharshi.330	Yeah . 	
+IS1004d.B.dialog-act.dharshi.245	'Cause you know if 	
+IS1004d.B.dialog-act.dharshi.246	well I mean maybe you don't wanna give all your kids their own remote because they'll be changing the channel all the time 	
+IS1004d.B.dialog-act.dharshi.247	but you know maybe in some households where there is you know a T_V_ for each kid , then you know , banana remote control could be fun for them as well . 	
+IS1004d.B.dialog-act.dharshi.248	Might have to draw a face on it . 	
+IS1004d.A.dialog-act.dharshi.331	Mm-hmm . 	
+IS1004d.B.dialog-act.dharshi.249	So but I think that's something we need to to work on next time is really finding out more about the target market . 	
+IS1004d.A.dialog-act.dharshi.332	Yep . 	
+IS1004d.A.dialog-act.dharshi.333	Any any new ideas we could uh we could investigate next time ? 	
+IS1004d.A.dialog-act.dharshi.338	Dunno , oranges ? 	
+IS1004d.C.dialog-act.dharshi.223	Yeah . 	
+IS1004d.C.dialog-act.dharshi.224	The cost of the thing can be made more than might be . 	
+IS1004d.C.dialog-act.dharshi.225	Because I think it's just the optimal , what we have done for the cost which we are looking forward to . 	
+IS1004d.B.dialog-act.dharshi.250		
+IS1004d.B.dialog-act.dharshi.255	Yeah . 	
+IS1004d.B.dialog-act.dharshi.256	I think there are ways we could maybe simplify the 	
+IS1004d.C.dialog-act.dharshi.222	Interface . 	
+IS1004d.B.dialog-act.dharshi.257	Well just the the the circuit board that we're using inside , 	
+IS1004d.D.dialog-act.dharshi.163	Mm-hmm . 	
+IS1004d.B.dialog-act.dharshi.258	I'm not sure really how complicated our um 	
+IS1004d.C.dialog-act.dharshi.219	Mm-hmm . 	
+IS1004d.B.dialog-act.dharshi.259	our needs are . 	
+IS1004d.B.dialog-act.dharshi.252	I mean all we have is two push buttons and two scrollers , 	
+IS1004d.B.dialog-act.dharshi.253	do we really need an integrated circuit to 	
+IS1004d.A.dialog-act.dharshi.335	Hmm . 	
+IS1004d.B.dialog-act.dharshi.254	you know to process that . 	
+IS1004d.C.dialog-act.dharshi.226	Mm-hmm . 	
+IS1004d.C.dialog-act.dharshi.227	Mm-hmm . 	
+IS1004d.C.dialog-act.dharshi.228	Mm-hmm . 	
+IS1004d.D.dialog-act.dharshi.165	So more general remote control instead of just focusing on uh on T_V_ . 	
+IS1004d.C.dialog-act.dharshi.218	That's right . 	
+IS1004d.D.dialog-act.dharshi.164	The complexity shouldn't be much higher . 	
+IS1004d.C.dialog-act.dharshi.229	Yeah . 	
+IS1004d.D.dialog-act.dharshi.166	For 	
+IS1004d.D.dialog-act.dharshi.167	you said if it good for D_V_D_ then I would 	
+IS1004d.B.dialog-act.dharshi.260	And also fo you know for mood lighting and and stuff , 	
+IS1004d.B.dialog-act.dharshi.261	that would be rather cool . 	
+IS1004d.B.dialog-act.dharshi.262	I think that's actually something that should be in version two , is the ability to you know to control things other than the T_V_ 	
+IS1004d.C.dialog-act.dharshi.230	Integrate . 	
+IS1004d.B.dialog-act.dharshi.263	and not just electronic equipment but you know the whole environment of the room . 	
+IS1004d.C.dialog-act.dharshi.216	Mm-hmm . 	
+IS1004d.D.dialog-act.dharshi.160		
+IS1004d.A.dialog-act.dharshi.340	Okay . 	
+IS1004d.A.dialog-act.dharshi.339	Very good . 	
+IS1004d.C.dialog-act.dharshi.215	So 	
+IS1004d.A.dialog-act.dharshi.334	So 	
+IS1004d.C.dialog-act.dharshi.220	What else ? 	
+IS1004d.A.dialog-act.dharshi.336	Well done . 	
+IS1004d.A.dialog-act.dharshi.337	I think we we can go 	
+IS1004d.C.dialog-act.dharshi.221	Okay . 	
+IS1004d.C.dialog-act.dharshi.231	Home ? 	
+IS1004d.A.dialog-act.dharshi.343	home . 	
+IS1004d.D.dialog-act.dharshi.162		
+IS1004d.C.dialog-act.dharshi.233	Happily satisfied . 	
+IS1004d.A.dialog-act.dharshi.344	Yeah . 	
+IS1004d.A.dialog-act.dharshi.345	Maybe maybe we can hassle the the 	
+IS1004d.A.dialog-act.dharshi.346	production department to to make a a real prototype that we can use at home to to evaluate . 	
+IS1004d.C.dialog-act.dharshi.232	Mm-hmm . 	
+IS1004d.A.dialog-act.dharshi.341	Okay so thanks very much . 	
+IS1004d.B.dialog-act.dharshi.264	Yep . 	
+IS1004d.B.dialog-act.dharshi.265	Okay . 	
+IS1004d.C.dialog-act.dharshi.217	Thank you . 	
+IS1004d.A.dialog-act.dharshi.342	Bye . 	
+IS1004d.B.dialog-act.dharshi.251	Thank you . 	
+IS1004d.D.dialog-act.dharshi.161	Bye . 	
+

@@ -1,0 +1,749 @@
+Observation: TS3003b; Result size: 746; atts: 2
+$d@nite:id	$d	
+TS3003b.A.dialog-act.vkaraisk.1	Okay . 	
+TS3003b.A.dialog-act.vkaraisk.2	Everybody found his place again ? Yeah ? 	
+TS3003b.D.dialog-act.vkaraisk.1	Yes . 	
+TS3003b.A.dialog-act.vkaraisk.3	That's nice . 	
+TS3003b.A.dialog-act.vkaraisk.4	Okay so 	
+TS3003b.A.dialog-act.vkaraisk.5	this is our second meeting . 	
+TS3003b.A.dialog-act.vkaraisk.6	And uh 	
+TS3003b.A.dialog-act.vkaraisk.7	still failing ? 	
+TS3003b.D.dialog-act.vkaraisk.2	Yeah . 	
+TS3003b.A.dialog-act.vkaraisk.8	Uh now we're going um into the functional design . 	
+TS3003b.A.dialog-act.vkaraisk.9	Um important thing of this phase is that we're going to uh try to get an agreement about the user requirements , technical function design , and the working design . So that we can move onto the second uh phase . 	
+TS3003b.A.dialog-act.vkaraisk.10	But first this phase . 	
+TS3003b.A.dialog-act.vkaraisk.11	Um first an announcement . 	
+TS3003b.A.dialog-act.vkaraisk.12	There's a little adaptation in the air conditioning system . 	
+TS3003b.A.dialog-act.vkaraisk.13	So 	
+TS3003b.D.dialog-act.vkaraisk.3		
+TS3003b.A.dialog-act.vkaraisk.14	There's our ghost mouse again . 	
+TS3003b.A.dialog-act.vkaraisk.15	That that means that you can have a little trouble with , little trouble with the air conditioning , 	
+TS3003b.A.dialog-act.vkaraisk.16	that's because of this uh 	
+TS3003b.B.dialog-act.vkaraisk.1	Okay . 	
+TS3003b.D.dialog-act.vkaraisk.4	Okay . 	
+TS3003b.A.dialog-act.vkaraisk.17	It's in wing C_ and E_ . 	
+TS3003b.A.dialog-act.vkaraisk.18	So 	
+TS3003b.A.dialog-act.vkaraisk.19	it should be over in a in a while , couple of days . 	
+TS3003b.A.dialog-act.vkaraisk.20	But it's going to be cold anyway , 	
+TS3003b.A.dialog-act.vkaraisk.21	so I don't think you're gonna need it . 	
+TS3003b.B.dialog-act.vkaraisk.2		
+TS3003b.D.dialog-act.vkaraisk.5	No . 	
+TS3003b.A.dialog-act.vkaraisk.22	Then our agenda . 	
+TS3003b.A.dialog-act.vkaraisk.23	Now 	
+TS3003b.A.dialog-act.vkaraisk.24	first the opening . 	
+TS3003b.A.dialog-act.vkaraisk.25	Uh this time I will take the minutes . 	
+TS3003b.A.dialog-act.vkaraisk.26	Uh you're going to have a presentation . All of you . 	
+TS3003b.A.dialog-act.vkaraisk.27	Um and we've got forty minutes for the whole uh prese for the whole uh presentations . 	
+TS3003b.A.dialog-act.vkaraisk.28	So uh I suggest we take about seven minutes per presentation , 	
+TS3003b.A.dialog-act.vkaraisk.29	and then we can have a little discussion about the new project requirements 	
+TS3003b.A.dialog-act.vkaraisk.30	uh which have been sent to me . 	
+TS3003b.A.dialog-act.vkaraisk.31	And then the decision on the control functions uh which we wanna include and those which we don't wanna include . 	
+TS3003b.A.dialog-act.vkaraisk.32	So 	
+TS3003b.A.dialog-act.vkaraisk.33	we've got forty minutes for all of it . 	
+TS3003b.A.dialog-act.vkaraisk.34	So 	
+TS3003b.A.dialog-act.vkaraisk.35	I suggest um let's start with the first presentation . 	
+TS3003b.D.dialog-act.vkaraisk.6	Yes . 	
+TS3003b.A.dialog-act.vkaraisk.36	Um who wants to be first ? 	
+TS3003b.D.dialog-act.vkaraisk.7	Think I'll go first . 	
+TS3003b.A.dialog-act.vkaraisk.37	Okay . 	
+TS3003b.A.dialog-act.vkaraisk.38	So 	
+TS3003b.D.dialog-act.vkaraisk.8		
+TS3003b.A.dialog-act.vkaraisk.39	Just maybe it's easier if you um 	
+TS3003b.A.dialog-act.vkaraisk.40	Yeah 	
+TS3003b.A.dialog-act.vkaraisk.41	I think you will tell your presentation as well . Just which function you have 	
+TS3003b.A.dialog-act.vkaraisk.42	and what you're gonna talk about . 	
+TS3003b.D.dialog-act.vkaraisk.9	'Kay . 	
+TS3003b.D.dialog-act.vkaraisk.10	My name is Freek Van Ponnen . 	
+TS3003b.D.dialog-act.vkaraisk.11	I'm the Market Expert . 	
+TS3003b.D.dialog-act.vkaraisk.12	But you already knew that . 	
+TS3003b.D.dialog-act.vkaraisk.13	Um I've done some research . 	
+TS3003b.D.dialog-act.vkaraisk.14	We have we uh have been doing research in a usability lab 	
+TS3003b.D.dialog-act.vkaraisk.15	where we observed um users operating remote controls . 	
+TS3003b.D.dialog-act.vkaraisk.16	Uh we let them fill out a questionnaire . 	
+TS3003b.D.dialog-act.vkaraisk.17	We had one hundred of these uh test subjects . 	
+TS3003b.D.dialog-act.vkaraisk.18	Uh in addition we did some market research . Uh see what the market consists of . What ages are involved . 	
+TS3003b.D.dialog-act.vkaraisk.19	Well 	
+TS3003b.D.dialog-act.vkaraisk.21	these are three quite astonishing results , I thought . 	
+TS3003b.D.dialog-act.vkaraisk.22	Um remotes are being considered ugly . 	
+TS3003b.D.dialog-act.vkaraisk.23	F 	
+TS3003b.D.dialog-act.vkaraisk.24	uh seventy five percent of the um people questioned uh indicated that they thought their remote were was ugly . 	
+TS3003b.D.dialog-act.vkaraisk.25	Um and an additional eighty percent indicated that they would spend more money on a fancy-looking remote control . 	
+TS3003b.D.dialog-act.vkaraisk.26	So 	
+TS3003b.D.dialog-act.vkaraisk.27	Um in addition remotes were not very functional . 	
+TS3003b.D.dialog-act.vkaraisk.28	Fifty percent of the people indicated they only loo used about ten percent of the buttons on a remote control . 	
+TS3003b.D.dialog-act.vkaraisk.29	And fifty percent of the people indicated that their remote tended to get lost in their room . 	
+TS3003b.D.dialog-act.vkaraisk.30	So 	
+TS3003b.B.dialog-act.vkaraisk.3	Mm . 	
+TS3003b.D.dialog-act.vkaraisk.31	some things . 	
+TS3003b.D.dialog-act.vkaraisk.32	Then we did some research to the most relevant functions . 	
+TS3003b.D.dialog-act.vkaraisk.33	Channel selection and volume selection um both got a ten on a scale of one to ten for relevancy . 	
+TS3003b.D.dialog-act.vkaraisk.34	The power button got a nine . 	
+TS3003b.D.dialog-act.vkaraisk.35	And teletext got a six and a half . 	
+TS3003b.D.dialog-act.vkaraisk.36	So these are the most most uh important functions on a remote control . 	
+TS3003b.D.dialog-act.vkaraisk.37	Then there are some one-time use function . 	
+TS3003b.D.dialog-act.vkaraisk.38	That's what I like to call them . 	
+TS3003b.D.dialog-act.vkaraisk.39	That uh audio settings , video settings , and channel settings buttons . 	
+TS3003b.D.dialog-act.vkaraisk.40	Which are not really used very frequently , 	
+TS3003b.D.dialog-act.vkaraisk.41	but are still considered to be of some importance . 	
+TS3003b.D.dialog-act.vkaraisk.42	Um channel selection was also indicated to be used very frequently . One hundred and sixty eight times per hour . 	
+TS3003b.D.dialog-act.vkaraisk.43	Then these are the 	
+TS3003b.D.dialog-act.vkaraisk.44	This is the market . 	
+TS3003b.D.dialog-act.vkaraisk.45	Um sixty percent of the market consists of users between the ages sixteen and forty f six . 	
+TS3003b.D.dialog-act.vkaraisk.46	Um Main characteristic of this group is that they're very critical on the remote control . 	
+TS3003b.D.dialog-act.vkaraisk.47	Um they like to use new f new functions . 	
+TS3003b.D.dialog-act.vkaraisk.48	But they also are very critical . 	
+TS3003b.D.dialog-act.vkaraisk.49	They won't spend their money very easily . 	
+TS3003b.D.dialog-act.vkaraisk.50	So Um 	
+TS3003b.D.dialog-act.vkaraisk.51	the users of forty six to sixty five years cons The make up forty percent of the market . 	
+TS3003b.D.dialog-act.vkaraisk.52	They are not really very interested in features . 	
+TS3003b.D.dialog-act.vkaraisk.53	But they do tend to spend their money a lot easier . 	
+TS3003b.D.dialog-act.vkaraisk.54	What I think this indicates for our um design . I think we should make a remote for the future . 	
+TS3003b.D.dialog-act.vkaraisk.55	And this means we would um have to focus on the age ages sixteen to forty five . 	
+TS3003b.D.dialog-act.vkaraisk.56	Uh this also makes up most the biggest part of the market , 	
+TS3003b.D.dialog-act.vkaraisk.57	so that will also be where our main profit would be gettable . 	
+TS3003b.D.dialog-act.vkaraisk.58	Um this would mean we would have to make a fancy design . 	
+TS3003b.D.dialog-act.vkaraisk.59	Um The results also indicated that um about one quarter of the people questioned thought that the remote control caused R_S_ R_S_I_ . 	
+TS3003b.D.dialog-act.vkaraisk.60	Um this is certainly something to take into account . 	
+TS3003b.D.dialog-act.vkaraisk.61	And thirty four percent thought that it was hard to learn a n how to operate a new control , remote control . 	
+TS3003b.D.dialog-act.vkaraisk.62	So these are two factors that I think should be included in the design . 	
+TS3003b.D.dialog-act.vkaraisk.63	Besides of course that the remote must look very nice . 	
+TS3003b.D.dialog-act.vkaraisk.64	And the functionality As a lot of people indicated , they only use about ten percent of the buttons , 	
+TS3003b.D.dialog-act.vkaraisk.65	I think we should make very few buttons . 	
+TS3003b.D.dialog-act.vkaraisk.66	Uh this will also be uh beneficial to the design of the remote . 	
+TS3003b.D.dialog-act.vkaraisk.67	Uh I think the most frequently used buttons should be emphasised . Especially the channel selection and audio uh selection buttons . 	
+TS3003b.D.dialog-act.vkaraisk.68	'Cause they're used most 	
+TS3003b.D.dialog-act.vkaraisk.69	and so they should be robust . 	
+TS3003b.D.dialog-act.vkaraisk.70	They shouldn't break down easily . 	
+TS3003b.D.dialog-act.vkaraisk.71	Um Then as mo as a lot of people indicated that their um remote got lost in the room , 	
+TS3003b.D.dialog-act.vkaraisk.74	it might be 	
+TS3003b.D.dialog-act.vkaraisk.75	and I say might be 	
+TS3003b.D.dialog-act.vkaraisk.72	because it would um certainly boost the uh production costs a lot . 	
+TS3003b.D.dialog-act.vkaraisk.76	But it might be a good idea to make a docking station . 	
+TS3003b.D.dialog-act.vkaraisk.77	And this would , could get a button in it 	
+TS3003b.D.dialog-act.vkaraisk.78	which would send a signal to the remote 	
+TS3003b.D.dialog-act.vkaraisk.79	which would then beep . 	
+TS3003b.D.dialog-act.vkaraisk.80	So you'd know where it is in the room . 	
+TS3003b.D.dialog-act.vkaraisk.81	And in addition to this it could um recharge the batteries in the remote if you put it in . 	
+TS3003b.D.dialog-act.vkaraisk.82	Then um a surprisingly great deal of people w indicated that um an L_C_D_ screen in the remote control would be preferred . 	
+TS3003b.D.dialog-act.vkaraisk.83	This was um mostly people in the age of sixteen to twenty five . 	
+TS3003b.D.dialog-act.vkaraisk.84	But up till forty five it remains feasible . 	
+TS3003b.D.dialog-act.vkaraisk.85	This would also greatly increase the production costs 	
+TS3003b.D.dialog-act.vkaraisk.86	but I think these are just some small factors we could consider . 	
+TS3003b.A.dialog-act.vkaraisk.43	Okay . 	
+TS3003b.D.dialog-act.vkaraisk.87	That would be all . 	
+TS3003b.A.dialog-act.vkaraisk.44	Thank you . 	
+TS3003b.A.dialog-act.vkaraisk.45	So 	
+TS3003b.A.dialog-act.vkaraisk.46	anybody have um any questions until now ? 	
+TS3003b.D.dialog-act.vkaraisk.88	Any questions ? 	
+TS3003b.B.dialog-act.vkaraisk.4	Mm-hmm . 	
+TS3003b.A.dialog-act.vkaraisk.47	About functional requirements ? 	
+TS3003b.C.dialog-act.vkaraisk.1	No . 	
+TS3003b.A.dialog-act.vkaraisk.49	Okay 	
+TS3003b.A.dialog-act.vkaraisk.48	that's clear . 	
+TS3003b.A.dialog-act.vkaraisk.50	Now to the second . 	
+TS3003b.D.dialog-act.vkaraisk.89	'Kay . 	
+TS3003b.D.dialog-act.vkaraisk.90		
+TS3003b.A.dialog-act.vkaraisk.51		
+TS3003b.B.dialog-act.vkaraisk.5	Uh okay . Um 	
+TS3003b.B.dialog-act.vkaraisk.6	I've been looking at uh the user interface of it . Um f for the techno f functions uh of of it . Um 	
+TS3003b.A.dialog-act.vkaraisk.52	Yeah . 	
+TS3003b.A.dialog-act.vkaraisk.53	Yeah 	
+TS3003b.A.dialog-act.vkaraisk.54	you can take your time . 	
+TS3003b.B.dialog-act.vkaraisk.7	Okay . 	
+TS3003b.A.dialog-act.vkaraisk.55	We've got uh plenty of time , 	
+TS3003b.B.dialog-act.vkaraisk.8	Mm ? 	
+TS3003b.D.dialog-act.vkaraisk.91	Yeah 	
+TS3003b.D.dialog-act.vkaraisk.92	you should go to the top thingy . Slide show . 	
+TS3003b.A.dialog-act.vkaraisk.56	so 	
+TS3003b.B.dialog-act.vkaraisk.9	Oh . 	
+TS3003b.A.dialog-act.vkaraisk.57		
+TS3003b.B.dialog-act.vkaraisk.10	Uh . 	
+TS3003b.D.dialog-act.vkaraisk.93	Oh yeah . 	
+TS3003b.A.dialog-act.vkaraisk.58	Yeah . There it is . Yeah . 	
+TS3003b.B.dialog-act.vkaraisk.11	Okay . 	
+TS3003b.B.dialog-act.vkaraisk.12	Um yeah . 	
+TS3003b.B.dialog-act.vkaraisk.13	I think uh we uh must use the general functions uh of the uh remote control . 	
+TS3003b.B.dialog-act.vkaraisk.14	Uh uh I've do I've uh done a little uh research on the internet 	
+TS3003b.B.dialog-act.vkaraisk.15	and not much information about it , Um about uh interface 	
+TS3003b.B.dialog-act.vkaraisk.16	but uh Uh Yeah 	
+TS3003b.B.dialog-act.vkaraisk.17	I I've been thinking about a simple manner uh to put a lot of functions uh uh in one um in one uh remote control . 	
+TS3003b.B.dialog-act.vkaraisk.18	Uh so uh you've got a lot of devi uh devices like uh D_V_D_ uh uh television , uh stereo . 	
+TS3003b.B.dialog-act.vkaraisk.19	So um 	
+TS3003b.B.dialog-act.vkaraisk.20	But uh it must be uh user-friendly . 	
+TS3003b.B.dialog-act.vkaraisk.21	So um uh 	
+TS3003b.B.dialog-act.vkaraisk.22	you c you can't put a a lot of uh functions uh in one uh Yeah . Uh uh uh Yeah . In one um remote control . 	
+TS3003b.A.dialog-act.vkaraisk.59	One remote . 	
+TS3003b.B.dialog-act.vkaraisk.23	But um 	
+TS3003b.B.dialog-act.vkaraisk.24	Yeah . 	
+TS3003b.A.dialog-act.vkaraisk.60		
+TS3003b.B.dialog-act.vkaraisk.25	Um yeah . 	
+TS3003b.B.dialog-act.vkaraisk.26	Got uh many functions in one uh remote control , 	
+TS3003b.B.dialog-act.vkaraisk.27	um but um yeah 	
+TS3003b.B.dialog-act.vkaraisk.28	you can see , this is uh quite simple uh remote control . 	
+TS3003b.B.dialog-act.vkaraisk.29	Um few uh buttons 	
+TS3003b.A.dialog-act.vkaraisk.61		
+TS3003b.B.dialog-act.vkaraisk.30	but uh This uh re uh remote control got a a lot of uh buttons . 	
+TS3003b.B.dialog-act.vkaraisk.31	Um uh people uh don't like it , 	
+TS3003b.B.dialog-act.vkaraisk.32	uh so um 	
+TS3003b.B.dialog-act.vkaraisk.33	Well 	
+TS3003b.B.dialog-act.vkaraisk.34	what uh I was uh thinking about was um uh keep the general functions uh like they are . 	
+TS3003b.B.dialog-act.vkaraisk.35	So uh 	
+TS3003b.B.dialog-act.vkaraisk.36	like uh the on-off uh button . Uh keep it uh yeah l like a red button . 	
+TS3003b.B.dialog-act.vkaraisk.37	Uh everybody everybody knows it 	
+TS3003b.B.dialog-act.vkaraisk.38	so uh uh you don't have to change that . Um 	
+TS3003b.B.dialog-act.vkaraisk.39	My personal uh preferences um . 	
+TS3003b.B.dialog-act.vkaraisk.40	Use a display for uh specific uh functions of the different uh device . 	
+TS3003b.B.dialog-act.vkaraisk.41	So um 	
+TS3003b.B.dialog-act.vkaraisk.42	Wh what I was th uh thinking about was um you've got um Uh this the remote control uh 	
+TS3003b.A.dialog-act.vkaraisk.62		
+TS3003b.C.dialog-act.vkaraisk.2		
+TS3003b.B.dialog-act.vkaraisk.43	and uh you got here the general functions , uh like uh the on-off button uh sound uh I dunno um 	
+TS3003b.B.dialog-act.vkaraisk.44	And um here you've got a s kind of a display . 	
+TS3003b.B.dialog-act.vkaraisk.45	It's a touchscreen . 	
+TS3003b.B.dialog-act.vkaraisk.46	So um yeah 	
+TS3003b.B.dialog-act.vkaraisk.47	you got a general f uh f the functions of the device uh for a D_V_D_ player or uh so um the pl yeah um f for uh playing uh reverse uh . 	
+TS3003b.B.dialog-act.vkaraisk.48	And um you got here uh real buttons for uh selecting uh a device . 	
+TS3003b.B.dialog-act.vkaraisk.49	So um 	
+TS3003b.B.dialog-act.vkaraisk.50	this button is for a D_V_D_ 	
+TS3003b.B.dialog-act.vkaraisk.51	or 	
+TS3003b.B.dialog-act.vkaraisk.52	So um 	
+TS3003b.B.dialog-act.vkaraisk.53	for every um device you've got a uh a f a b a part uh display of a part buttons . 	
+TS3003b.B.dialog-act.vkaraisk.54	So uh 	
+TS3003b.B.dialog-act.vkaraisk.55	you you never got uh all the buttons uh on w one device . 	
+TS3003b.B.dialog-act.vkaraisk.56	So uh 	
+TS3003b.A.dialog-act.vkaraisk.63	Hmm . 	
+TS3003b.B.dialog-act.vkaraisk.57	that's uh my uh idea about it . 	
+TS3003b.A.dialog-act.vkaraisk.64	'Kay . 	
+TS3003b.B.dialog-act.vkaraisk.58	Um yeah and 	
+TS3003b.B.dialog-act.vkaraisk.59	Uh let's see . Uh yeah . So 	
+TS3003b.B.dialog-act.vkaraisk.60	a touchscreen . 	
+TS3003b.B.dialog-act.vkaraisk.61	Uh and um th the buttons uh the real buttons uh we have to use um . 	
+TS3003b.B.dialog-act.vkaraisk.62	We better c um uh use uh quite uh large buttons uh 	
+TS3003b.B.dialog-act.vkaraisk.63	for 	
+TS3003b.B.dialog-act.vkaraisk.64	um yeah . 	
+TS3003b.B.dialog-act.vkaraisk.65	Everybody uh have to use it so Uh ol even even old people um young people . 	
+TS3003b.B.dialog-act.vkaraisk.66	So uh 	
+TS3003b.B.dialog-act.vkaraisk.67	we must keep uh buttons uh quite s uh simple and quite large . 	
+TS3003b.B.dialog-act.vkaraisk.68	So uh Um 	
+TS3003b.A.dialog-act.vkaraisk.65	Yeah . 	
+TS3003b.B.dialog-act.vkaraisk.69	Yeah . Uh yeah . 	
+TS3003b.B.dialog-act.vkaraisk.70	That was uh my uh part of it . 	
+TS3003b.A.dialog-act.vkaraisk.66	Okay . 	
+TS3003b.B.dialog-act.vkaraisk.71	So 	
+TS3003b.A.dialog-act.vkaraisk.67	Anybody has questions about the technical functions ? 	
+TS3003b.C.dialog-act.vkaraisk.3	Well 	
+TS3003b.C.dialog-act.vkaraisk.4	I think if we are gonna use a touchscreen uh we're gonna go way above the twelve and a half Euros . 	
+TS3003b.A.dialog-act.vkaraisk.68		
+TS3003b.B.dialog-act.vkaraisk.72	N I I don't think so . 	
+TS3003b.A.dialog-act.vkaraisk.69	Yeah . 	
+TS3003b.B.dialog-act.vkaraisk.73	Uh you got uh quite a cheap uh touchscreen . S um it's uh not uh in colour or something . 	
+TS3003b.A.dialog-act.vkaraisk.70	Touchscreen . 	
+TS3003b.B.dialog-act.vkaraisk.74	Uh it's just uh um one colo Uh 	
+TS3003b.B.dialog-act.vkaraisk.75	yeah . 	
+TS3003b.B.dialog-act.vkaraisk.76	Uh I seen uh w uh something on the internet uh not today but uh a few uh weeks ago . 	
+TS3003b.B.dialog-act.vkaraisk.77	Uh you got uh yeah quite an uh a kind of uh touchscreen um and it's uh for uh twenty uh Euros or uh less uh . 	
+TS3003b.A.dialog-act.vkaraisk.71	Huh . 	
+TS3003b.B.dialog-act.vkaraisk.78	So it's possible . 	
+TS3003b.D.dialog-act.vkaraisk.94	Hmm . 	
+TS3003b.A.dialog-act.vkaraisk.72	'Kay . That's nice . Uh 	
+TS3003b.D.dialog-act.vkaraisk.95	Well 	
+TS3003b.D.dialog-act.vkaraisk.96	it would certainly make a fancy design . 	
+TS3003b.B.dialog-act.vkaraisk.79	Yeah . 	
+TS3003b.A.dialog-act.vkaraisk.73	Yeah . 	
+TS3003b.C.dialog-act.vkaraisk.5	But the It wouldn't be very robust . 	
+TS3003b.D.dialog-act.vkaraisk.97	So 	
+TS3003b.C.dialog-act.vkaraisk.6	It's very fragile 	
+TS3003b.C.dialog-act.vkaraisk.7	and you can get scratches on it . 	
+TS3003b.D.dialog-act.vkaraisk.98	That is true . 	
+TS3003b.A.dialog-act.vkaraisk.74	That's right . 	
+TS3003b.B.dialog-act.vkaraisk.80	Yeah that's true . 	
+TS3003b.D.dialog-act.vkaraisk.99	We would have to look into that . 	
+TS3003b.A.dialog-act.vkaraisk.75	Uh maybe we can first um listen to your presentation ? 	
+TS3003b.A.dialog-act.vkaraisk.76	Uh And then we have a little discussion about the requirements and uh design . 	
+TS3003b.B.dialog-act.vkaraisk.81	Uh . 	
+TS3003b.D.dialog-act.vkaraisk.100	Yeah . 	
+TS3003b.C.dialog-act.vkaraisk.8	That's . Okay . 	
+TS3003b.A.dialog-act.vkaraisk.77		
+TS3003b.D.dialog-act.vkaraisk.101		
+TS3003b.A.dialog-act.vkaraisk.78	I think it's going to 	
+TS3003b.A.dialog-act.vkaraisk.79	Uh it's not too much . 	
+TS3003b.A.dialog-act.vkaraisk.80	Okay . 	
+TS3003b.C.dialog-act.vkaraisk.9	Okay 	
+TS3003b.C.dialog-act.vkaraisk.10	I've got a presentation about the working design . 	
+TS3003b.C.dialog-act.vkaraisk.11	Um first about how it works . 	
+TS3003b.C.dialog-act.vkaraisk.12	It's really simple of course . 	
+TS3003b.C.dialog-act.vkaraisk.13	Everybody knows how a remote works . 	
+TS3003b.C.dialog-act.vkaraisk.14	The user presses a button . 	
+TS3003b.C.dialog-act.vkaraisk.15	The remote determines what button it is , 	
+TS3003b.C.dialog-act.vkaraisk.16	uses the infrared to send a signal to the T_V_ . 	
+TS3003b.C.dialog-act.vkaraisk.17	The T_V_ switches to the frequency , or what function it is . 	
+TS3003b.C.dialog-act.vkaraisk.18	So 	
+TS3003b.C.dialog-act.vkaraisk.19	we've got um the the plate . 	
+TS3003b.C.dialog-act.vkaraisk.20	It gots conductive disks for every button . 	
+TS3003b.C.dialog-act.vkaraisk.21	When the user presses a button , a signal got sent , 	
+TS3003b.C.dialog-act.vkaraisk.22	goes to the LED 	
+TS3003b.C.dialog-act.vkaraisk.23	and transmits tranmi transmits its to the T_V_ . 	
+TS3003b.C.dialog-act.vkaraisk.24	It's a very simple device , technically speaking . 	
+TS3003b.C.dialog-act.vkaraisk.25	So 	
+TS3003b.C.dialog-act.vkaraisk.26	this is a schematic overview . 	
+TS3003b.C.dialog-act.vkaraisk.27	You've got the buttons . 	
+TS3003b.C.dialog-act.vkaraisk.28	The power source . 	
+TS3003b.C.dialog-act.vkaraisk.29	And uh when a button gets pressed , its goes to the chip . 	
+TS3003b.C.dialog-act.vkaraisk.30	The chip uh controls the infrared bulb and perf perhaps a normal bulb . 	
+TS3003b.C.dialog-act.vkaraisk.31	When you press a button you can actually see your pressed button . 	
+TS3003b.C.dialog-act.vkaraisk.32	Well um 	
+TS3003b.C.dialog-act.vkaraisk.33	I think we should use default materials , simple plastics . 	
+TS3003b.C.dialog-act.vkaraisk.34	Keep the inner workings simple , 	
+TS3003b.C.dialog-act.vkaraisk.35	so it's robust . 	
+TS3003b.C.dialog-act.vkaraisk.36	Uh I think we should focus on aesthetics , the design and the user interface , 	
+TS3003b.C.dialog-act.vkaraisk.37	because if you're going to use high-tech materials the price is going to go sky-high . 	
+TS3003b.C.dialog-act.vkaraisk.38	And uh you only have to design a remote once , 	
+TS3003b.C.dialog-act.vkaraisk.39	and if you use high-tech materials it come back in every product . 	
+TS3003b.C.dialog-act.vkaraisk.40	So 	
+TS3003b.C.dialog-act.vkaraisk.41	it's , in my idea , it's uh it's gonna be smart to invest in di in design and not in uh in the product itself . 	
+TS3003b.C.dialog-act.vkaraisk.42	That's it . 	
+TS3003b.A.dialog-act.vkaraisk.81	Okay . 	
+TS3003b.A.dialog-act.vkaraisk.82	Thank you . 	
+TS3003b.A.dialog-act.vkaraisk.83	Okay . 	
+TS3003b.D.dialog-act.vkaraisk.102		
+TS3003b.A.dialog-act.vkaraisk.84	Uh Okay 	
+TS3003b.A.dialog-act.vkaraisk.85	now I hope everybody has a little bit more insight in the functions we all have 	
+TS3003b.A.dialog-act.vkaraisk.86	and what we are doing right now . 	
+TS3003b.A.dialog-act.vkaraisk.87	Um I'm the Project Manager 	
+TS3003b.A.dialog-act.vkaraisk.88	so I'm here to mess things up 	
+TS3003b.B.dialog-act.vkaraisk.82		
+TS3003b.A.dialog-act.vkaraisk.89	and uh tell you some new uh requirements . 	
+TS3003b.C.dialog-act.vkaraisk.43		
+TS3003b.D.dialog-act.vkaraisk.103		
+TS3003b.A.dialog-act.vkaraisk.90	Um that's , 	
+TS3003b.A.dialog-act.vkaraisk.91	we've uh got to design a um remote which is only suitable for T_V_ . 	
+TS3003b.A.dialog-act.vkaraisk.92	Um that's because uh it will be too complex 	
+TS3003b.B.dialog-act.vkaraisk.83	Okay . 	
+TS3003b.A.dialog-act.vkaraisk.93	and the time to market will be too big , if we wanna have it uh for more functions . 	
+TS3003b.B.dialog-act.vkaraisk.84	Mm . 	
+TS3003b.A.dialog-act.vkaraisk.94	So it has to be simple . 	
+TS3003b.A.dialog-act.vkaraisk.95	Uh another point is we have to skip the teletext , 	
+TS3003b.A.dialog-act.vkaraisk.96	because in the world of uh upcoming internet uh we think teletext is going to be uh a thing of the past . 	
+TS3003b.A.dialog-act.vkaraisk.97	And uh it's a function we don't need in our remote control . 	
+TS3003b.D.dialog-act.vkaraisk.104		
+TS3003b.A.dialog-act.vkaraisk.98	Um internet is also mentioned in a function we can use . 	
+TS3003b.A.dialog-act.vkaraisk.99	Uh maybe also on televisions it will be available as well . 	
+TS3003b.A.dialog-act.vkaraisk.100	Another one is uh the customer is uh forty plus . Uh that's the the market we have to to to target , 	
+TS3003b.A.dialog-act.vkaraisk.101	because we are going to develop a new product which is specially designed for the younger customers . 	
+TS3003b.A.dialog-act.vkaraisk.102	Um this is uh a bit pity for the Marketing uh Expert . 	
+TS3003b.D.dialog-act.vkaraisk.105		
+TS3003b.B.dialog-act.vkaraisk.85		
+TS3003b.A.dialog-act.vkaraisk.103	Because he was uh aiming on the the younger persons . 	
+TS3003b.A.dialog-act.vkaraisk.104	So we have to find a market which is above forty plus 	
+TS3003b.A.dialog-act.vkaraisk.105	uh but which will suit our 	
+TS3003b.A.dialog-act.vkaraisk.106	uh remote control , 	
+TS3003b.A.dialog-act.vkaraisk.107	and the other way round . 	
+TS3003b.A.dialog-act.vkaraisk.108	And we have to be very uh attent in uh putting the corporate image uh in our product . 	
+TS3003b.A.dialog-act.vkaraisk.109	So it has to be visible in our design , in the way our device works . 	
+TS3003b.A.dialog-act.vkaraisk.110	And uh we have to be uh very clear on this point as well . 	
+TS3003b.A.dialog-act.vkaraisk.111	So 	
+TS3003b.A.dialog-act.vkaraisk.112	I suggest let's have a discussion on the control functions . 	
+TS3003b.A.dialog-act.vkaraisk.113	Yeah . 	
+TS3003b.D.dialog-act.vkaraisk.106	So 	
+TS3003b.D.dialog-act.vkaraisk.107	is there any discussion possible about the new product requirement ? 	
+TS3003b.A.dialog-act.vkaraisk.114	Uh we can see if we can find a way uh between the functions we wanna use and the market we wanna reach with our product . Um 	
+TS3003b.B.dialog-act.vkaraisk.86		
+TS3003b.B.dialog-act.vkaraisk.87	Mm . 	
+TS3003b.D.dialog-act.vkaraisk.108	Yeah 	
+TS3003b.D.dialog-act.vkaraisk.109	'cause you're you're saying that teletext is gonna be an old feature 	
+TS3003b.D.dialog-act.vkaraisk.110	and it's not gonna be used anymore anyway pretty soon . 	
+TS3003b.D.dialog-act.vkaraisk.111	And new T_V_s will have internet access on them . 	
+TS3003b.A.dialog-act.vkaraisk.115		
+TS3003b.D.dialog-act.vkaraisk.112	But I think if you're targeting people of forty plus , the chance that they will have a T_V_ with internet access 	
+TS3003b.D.dialog-act.vkaraisk.113	within the next like twenty years is very slim . 	
+TS3003b.D.dialog-act.vkaraisk.114	In addition people indicated that teletext simply was an important feature for the remote control . 	
+TS3003b.B.dialog-act.vkaraisk.88	Yeah . 	
+TS3003b.D.dialog-act.vkaraisk.115	So I think it's pretty dumb to put no teletext feature on it . 	
+TS3003b.D.dialog-act.vkaraisk.116	I'm pretty much against it . 	
+TS3003b.A.dialog-act.vkaraisk.116	Against the no teletext ? 	
+TS3003b.B.dialog-act.vkaraisk.89	Mm . 	
+TS3003b.D.dialog-act.vkaraisk.117	Yes . 	
+TS3003b.A.dialog-act.vkaraisk.117	Um 	
+TS3003b.D.dialog-act.vkaraisk.118	Besides that , I think the market for forty plus is like pretty small . 	
+TS3003b.D.dialog-act.vkaraisk.119	But I mean if I s if I see this , it's I think we're just gonna go for another 	
+TS3003b.B.dialog-act.vkaraisk.90	forty 	
+TS3003b.A.dialog-act.vkaraisk.118	Yeah 	
+TS3003b.A.dialog-act.vkaraisk.119	it's it is 	
+TS3003b.A.dialog-act.vkaraisk.120	Standard remote . 	
+TS3003b.D.dialog-act.vkaraisk.120	pretty 	
+TS3003b.A.dialog-act.vkaraisk.121	No 	
+TS3003b.A.dialog-act.vkaraisk.122	I think we can 	
+TS3003b.D.dialog-act.vkaraisk.121	and not innovative 	
+TS3003b.A.dialog-act.vkaraisk.123	I think we can do a lot with the design and the simple buttons 	
+TS3003b.D.dialog-act.vkaraisk.122	remote control . 	
+TS3003b.A.dialog-act.vkaraisk.124	which were also mentioned . 	
+TS3003b.A.dialog-act.vkaraisk.125	Uh if we put a lot of effort in those , we can make a remote control with uh just two or three buttons . Or just a remote which is suitable for the market we wanna reach 	
+TS3003b.A.dialog-act.vkaraisk.127	because it is forty percent of the market . 	
+TS3003b.B.dialog-act.vkaraisk.91	Yeah . 	
+TS3003b.A.dialog-act.vkaraisk.128	And um 	
+TS3003b.A.dialog-act.vkaraisk.129	if you look in Holland at the whole generation of forty plus , fifty plus , it it's the the biggest share of the of the whole population now . 	
+TS3003b.D.dialog-act.vkaraisk.123	Yes 	
+TS3003b.D.dialog-act.vkaraisk.124	but it's not the biggest part of the market . 	
+TS3003b.A.dialog-act.vkaraisk.130	No . 	
+TS3003b.D.dialog-act.vkaraisk.125	And besides that , they're not very critical 	
+TS3003b.D.dialog-act.vkaraisk.126	so 	
+TS3003b.D.dialog-act.vkaraisk.127	I mean they don't really care what the remote control is like . 	
+TS3003b.D.dialog-act.vkaraisk.128	They'll just pretty much take the first thing they see and which looks acceptable . 	
+TS3003b.B.dialog-act.vkaraisk.92		
+TS3003b.A.dialog-act.vkaraisk.132	But don't you think that if we make a remote which is uh typically made for this market , that people think the people think that's the the device I've looked for although I didn't realise it . 	
+TS3003b.A.dialog-act.vkaraisk.133	So 	
+TS3003b.A.dialog-act.vkaraisk.134	let's try it . 	
+TS3003b.D.dialog-act.vkaraisk.129	No . 	
+TS3003b.D.dialog-act.vkaraisk.130	I think that would be the case in the sixteen to forty five age category . 	
+TS3003b.D.dialog-act.vkaraisk.131	because they are critical 	
+TS3003b.D.dialog-act.vkaraisk.132	and they they want to have a fancy remote control . 	
+TS3003b.B.dialog-act.vkaraisk.93	Yeah . 	
+TS3003b.D.dialog-act.vkaraisk.133	People of forty plus , I mean they want it to work , 	
+TS3003b.D.dialog-act.vkaraisk.134	but as soo as soon as it works it's okay with them . 	
+TS3003b.B.dialog-act.vkaraisk.94	Mm . 	
+TS3003b.A.dialog-act.vkaraisk.135	Yeah . 	
+TS3003b.C.dialog-act.vkaraisk.44	I think that if we're If we put our marketing right um we can sell this just like um I don't know if you've heard about it in the news , the the elderly mobile phone ? 	
+TS3003b.D.dialog-act.vkaraisk.135	So 	
+TS3003b.A.dialog-act.vkaraisk.136	Yeah . 	
+TS3003b.A.dialog-act.vkaraisk.137	It's a big success . 	
+TS3003b.C.dialog-act.vkaraisk.45	Yeah 	
+TS3003b.C.dialog-act.vkaraisk.46	if we if we make a remote control just l with that idea in mind , we could make tons of money , I think . 	
+TS3003b.D.dialog-act.vkaraisk.136	I haven't heard of it . 	
+TS3003b.A.dialog-act.vkaraisk.138	Very big success . 	
+TS3003b.A.dialog-act.vkaraisk.139	Yeah . 	
+TS3003b.D.dialog-act.vkaraisk.137	Hmm . 	
+TS3003b.A.dialog-act.vkaraisk.140	Uh . I think so as well . 	
+TS3003b.B.dialog-act.vkaraisk.95	Mm . 	
+TS3003b.C.dialog-act.vkaraisk.47	We don't have to focus on on on the on the design then but on functionality . 	
+TS3003b.C.dialog-act.vkaraisk.48	We just 	
+TS3003b.C.dialog-act.vkaraisk.49	change our focus on the project , 	
+TS3003b.C.dialog-act.vkaraisk.50	and I think we can uh we can sell this . 	
+TS3003b.A.dialog-act.vkaraisk.141	Uh I simply think um 	
+TS3003b.B.dialog-act.vkaraisk.96		
+TS3003b.A.dialog-act.vkaraisk.142	uh that the new products we are gonna make , uh spef specifically design , are designed for uh younger people , 	
+TS3003b.A.dialog-act.vkaraisk.143	uh so maybe we can focus ourself on the elderly people . 	
+TS3003b.A.dialog-act.vkaraisk.144	And I think we have to um see what requirements we need for those um remote controls . 	
+TS3003b.A.dialog-act.vkaraisk.145	'Cause what you told is the channel selection is important . Volume selection , power and teletext . 	
+TS3003b.D.dialog-act.vkaraisk.138		
+TS3003b.D.dialog-act.vkaraisk.139	Yes . 	
+TS3003b.B.dialog-act.vkaraisk.97	Mm . 	
+TS3003b.D.dialog-act.vkaraisk.140	Yes . 	
+TS3003b.B.dialog-act.vkaraisk.98	Yeah . 	
+TS3003b.A.dialog-act.vkaraisk.146	Okay . Um 	
+TS3003b.D.dialog-act.vkaraisk.141	But obviously the board tends to disagree . 	
+TS3003b.A.dialog-act.vkaraisk.147	No 	
+TS3003b.A.dialog-act.vkaraisk.148	we we haven't voted yet , 	
+TS3003b.A.dialog-act.vkaraisk.149	so 	
+TS3003b.B.dialog-act.vkaraisk.99		
+TS3003b.A.dialog-act.vkaraisk.150	Uh I think teletext can be uh 	
+TS3003b.A.dialog-act.vkaraisk.151	um can be a function as well . But only if uh if it won't higher the the cost , 	
+TS3003b.A.dialog-act.vkaraisk.152	because I don't know if it will be a lot more money to implement teletext as well , 	
+TS3003b.A.dialog-act.vkaraisk.153	but I don't think it will be a problem . 	
+TS3003b.A.dialog-act.vkaraisk.154	Or is teletext a 	
+TS3003b.B.dialog-act.vkaraisk.100	But um deaf people need uh teletext for uh for subtitles . 	
+TS3003b.A.dialog-act.vkaraisk.155	Yeah . 	
+TS3003b.D.dialog-act.vkaraisk.142	Yeah , also . 	
+TS3003b.B.dialog-act.vkaraisk.101	So it's 	
+TS3003b.B.dialog-act.vkaraisk.102	Yeah . 	
+TS3003b.A.dialog-act.vkaraisk.156	Yeah . 	
+TS3003b.A.dialog-act.vkaraisk.157	So 	
+TS3003b.A.dialog-act.vkaraisk.158	I suggest uh 	
+TS3003b.D.dialog-act.vkaraisk.143	I think it'd definitely be a bad idea not to include teletext . 	
+TS3003b.B.dialog-act.vkaraisk.103	It's 	
+TS3003b.B.dialog-act.vkaraisk.104	Mm . 	
+TS3003b.A.dialog-act.vkaraisk.159	Yeah . 	
+TS3003b.A.dialog-act.vkaraisk.160	Is anybody um really against teletext ? 	
+TS3003b.C.dialog-act.vkaraisk.51	No . 	
+TS3003b.A.dialog-act.vkaraisk.161	No ? 	
+TS3003b.A.dialog-act.vkaraisk.162	Just that , that we just keep the teletext . 	
+TS3003b.A.dialog-act.vkaraisk.163	I think that's a good idea as well , especially for the subtitles . 	
+TS3003b.A.dialog-act.vkaraisk.164	Maybe we can make that um another point of advantage in our remote control , if we uh make a k a button ex for example for big subtitles , 	
+TS3003b.A.dialog-act.vkaraisk.165	which is instantly on the remote control . 	
+TS3003b.B.dialog-act.vkaraisk.105	Yeah yeah . 	
+TS3003b.A.dialog-act.vkaraisk.166	For elderly people they can think , oh I wanna have subtitles , 	
+TS3003b.A.dialog-act.vkaraisk.167	and they push the button 	
+TS3003b.A.dialog-act.vkaraisk.168	and they get the big subtitles . 	
+TS3003b.C.dialog-act.vkaraisk.52	Uh that's a good idea . 	
+TS3003b.B.dialog-act.vkaraisk.106	Yeah . Yeah . 	
+TS3003b.A.dialog-act.vkaraisk.169	Um so 	
+TS3003b.A.dialog-act.vkaraisk.170	I think teletext can v can be very useful in our advantage . Um 	
+TS3003b.A.dialog-act.vkaraisk.171	Functionality should be few buttons , you said . 	
+TS3003b.D.dialog-act.vkaraisk.144	Yes . 	
+TS3003b.A.dialog-act.vkaraisk.172	I think uh that's very important we have a few buttons . 	
+TS3003b.B.dialog-act.vkaraisk.107	Yeah . 	
+TS3003b.D.dialog-act.vkaraisk.145	Mm-hmm . 	
+TS3003b.A.dialog-act.vkaraisk.173	So to keep it simple . 	
+TS3003b.D.dialog-act.vkaraisk.146	But I don't think that's really an issue any more 	
+TS3003b.D.dialog-act.vkaraisk.147	'cause 	
+TS3003b.D.dialog-act.vkaraisk.148	Well 	
+TS3003b.D.dialog-act.vkaraisk.149	might be . 	
+TS3003b.B.dialog-act.vkaraisk.108	If it's only for televi 	
+TS3003b.D.dialog-act.vkaraisk.150	But I mean it , if it's only for T_V_ you're not gonna need a lot of buttons anyway . 	
+TS3003b.B.dialog-act.vkaraisk.109	Yeah . 	
+TS3003b.B.dialog-act.vkaraisk.110	Yeah . 	
+TS3003b.D.dialog-act.vkaraisk.151	You need a one to zero button , next channel , previous channel , 	
+TS3003b.A.dialog-act.vkaraisk.174	No . 	
+TS3003b.B.dialog-act.vkaraisk.111	Yeah . 	
+TS3003b.D.dialog-act.vkaraisk.152	volume up , volume down , and some teletext buttons 	
+TS3003b.D.dialog-act.vkaraisk.153	but 	
+TS3003b.A.dialog-act.vkaraisk.175	Yeah . 	
+TS3003b.A.dialog-act.vkaraisk.176	But do you need 	
+TS3003b.D.dialog-act.vkaraisk.154	I think if you if you only l 	
+TS3003b.B.dialog-act.vkaraisk.112	So we can s we can skip the display , 	
+TS3003b.B.dialog-act.vkaraisk.113	so uh we don't need it . 	
+TS3003b.A.dialog-act.vkaraisk.177	But do you need the buttons for one to zero . 	
+TS3003b.D.dialog-act.vkaraisk.156	Nah . 	
+TS3003b.A.dialog-act.vkaraisk.178	Maybe c we can 	
+TS3003b.B.dialog-act.vkaraisk.114	Uh 	
+TS3003b.D.dialog-act.vkaraisk.155	Think if you're gonna include teletext you do . 	
+TS3003b.D.dialog-act.vkaraisk.157	I think many people like to use that . 	
+TS3003b.A.dialog-act.vkaraisk.179	Maybe we can use uh 	
+TS3003b.D.dialog-act.vkaraisk.158	'Cause if you should , if you want to switch from channel one to like thirty five , you don't wanna push the next channel button thirty five times . 	
+TS3003b.B.dialog-act.vkaraisk.115	Yeah . 	
+TS3003b.B.dialog-act.vkaraisk.116	Yeah . 	
+TS3003b.A.dialog-act.vkaraisk.180	No , 	
+TS3003b.A.dialog-act.vkaraisk.181	maybe we can implement the scroll button ? 	
+TS3003b.A.dialog-act.vkaraisk.182	Or a joystick like ? 	
+TS3003b.B.dialog-act.vkaraisk.117	Mm . 	
+TS3003b.A.dialog-act.vkaraisk.183	There are other ways too . 	
+TS3003b.A.dialog-act.vkaraisk.184	Just look if you look at telephones . The Sony telephone has a scroll button which is very useful in searching names or 	
+TS3003b.B.dialog-act.vkaraisk.118	Yeah . 	
+TS3003b.B.dialog-act.vkaraisk.119	Mm-hmm . 	
+TS3003b.B.dialog-act.vkaraisk.120	Yeah . 	
+TS3003b.D.dialog-act.vkaraisk.159	That's true 	
+TS3003b.D.dialog-act.vkaraisk.160	but um I don't think there are many T_V_s that can switch channels that fast . 	
+TS3003b.D.dialog-act.vkaraisk.161	And so you would need like the T_V_ would need an a function where you can actually view all channels and scroll through it . 	
+TS3003b.D.dialog-act.vkaraisk.162	And I dunno if many channels would do have that . If many T_V_s have that . 	
+TS3003b.C.dialog-act.vkaraisk.53	Yeah . 	
+TS3003b.B.dialog-act.vkaraisk.121	Mm . 	
+TS3003b.C.dialog-act.vkaraisk.54	And besides that it's um 	
+TS3003b.C.dialog-act.vkaraisk.55	If we're gonna focus on elderly people they'll have to adapt . 	
+TS3003b.C.dialog-act.vkaraisk.56	They're not used to using scroll buttons . 	
+TS3003b.A.dialog-act.vkaraisk.185	That's right . 	
+TS3003b.C.dialog-act.vkaraisk.57	So perhaps we should s stick to the basic layout . 	
+TS3003b.D.dialog-act.vkaraisk.163	Mm-hmm . 	
+TS3003b.B.dialog-act.vkaraisk.122	Mm . 	
+TS3003b.A.dialog-act.vkaraisk.186	the numbers yeah . 	
+TS3003b.A.dialog-act.vkaraisk.187	Yeah 	
+TS3003b.A.dialog-act.vkaraisk.188	they can see how much buttons there are going to be on on the display , 	
+TS3003b.A.dialog-act.vkaraisk.189	and if it's too much we can uh reconsider it . 	
+TS3003b.A.dialog-act.vkaraisk.190	But I think there won't be very much buttons . 	
+TS3003b.B.dialog-act.vkaraisk.123	Yeah . 	
+TS3003b.A.dialog-act.vkaraisk.191	Or there don't have to be a lot . 	
+TS3003b.D.dialog-act.vkaraisk.164	But I don't think I think if you're gonna make a remote control only to operate a T_V_ , you there's not much you can gain on um having as few buttons as possible . 	
+TS3003b.D.dialog-act.vkaraisk.165	'Cause I think there are pretty many remote controls that can only operate a T_V_ , 	
+TS3003b.D.dialog-act.vkaraisk.166	which already only have the minimum number of buttons . 	
+TS3003b.D.dialog-act.vkaraisk.167	I don't think there's much to be gained in that area . 	
+TS3003b.A.dialog-act.vkaraisk.192	The number of buttons ? 	
+TS3003b.B.dialog-act.vkaraisk.124	Hmm . 	
+TS3003b.D.dialog-act.vkaraisk.168	Yeah . 	
+TS3003b.A.dialog-act.vkaraisk.193	I think it's very important in the in the design . 	
+TS3003b.A.dialog-act.vkaraisk.194	You can make a very fancy design uh with putting the buttons on the right places . 	
+TS3003b.A.dialog-act.vkaraisk.195	And if you have less buttons you can do a lot more with 	
+TS3003b.D.dialog-act.vkaraisk.169	That is true 	
+TS3003b.D.dialog-act.vkaraisk.170	but I think there's simply not much to gain on the competition when you when you're making a remote control only for to operate only the T_V_ . 	
+TS3003b.A.dialog-act.vkaraisk.196	To operate only the T_V_ yeah . 	
+TS3003b.D.dialog-act.vkaraisk.171	'Cause if you have a a remote control only to operate a T_V_ there's simply not a lot of buttons required . 	
+TS3003b.D.dialog-act.vkaraisk.172	There's not a lot of functions required 	
+TS3003b.D.dialog-act.vkaraisk.173	so most existing remote controls simply don't have a lot of buttons either . 	
+TS3003b.A.dialog-act.vkaraisk.197	No . 	
+TS3003b.B.dialog-act.vkaraisk.125	No . 	
+TS3003b.A.dialog-act.vkaraisk.198	So . 	
+TS3003b.D.dialog-act.vkaraisk.174	So 	
+TS3003b.D.dialog-act.vkaraisk.175	I think it would be very hard to actually gain on the competition here . 	
+TS3003b.A.dialog-act.vkaraisk.199	'Kay . 	
+TS3003b.A.dialog-act.vkaraisk.200	So 	
+TS3003b.A.dialog-act.vkaraisk.201	we can 	
+TS3003b.D.dialog-act.vkaraisk.176	That would that would cost a a big marketing expedition 	
+TS3003b.A.dialog-act.vkaraisk.202	Yeah . That's right . 	
+TS3003b.D.dialog-act.vkaraisk.177	which was one of the arguments to make it only for the T_V_ 	
+TS3003b.D.dialog-act.vkaraisk.178	because we didn't have the time to market a lot . 	
+TS3003b.A.dialog-act.vkaraisk.203	Yeah . 	
+TS3003b.A.dialog-act.vkaraisk.204	So 	
+TS3003b.A.dialog-act.vkaraisk.205	you suggest we could better um focus on for example the docking station . 	
+TS3003b.B.dialog-act.vkaraisk.126		
+TS3003b.A.dialog-act.vkaraisk.206	Uh uh like other functions . Instead of f of less buttons . 	
+TS3003b.D.dialog-act.vkaraisk.179	Maybe . 	
+TS3003b.D.dialog-act.vkaraisk.180	Well yeah 	
+TS3003b.D.dialog-act.vkaraisk.181	I think , mean we obviously need a good way to position all the buttons 	
+TS3003b.D.dialog-act.vkaraisk.182	and 	
+TS3003b.D.dialog-act.vkaraisk.183	But I don't think we should spend very much time in that . 	
+TS3003b.A.dialog-act.vkaraisk.207	Mm . No . 	
+TS3003b.A.dialog-act.vkaraisk.208	Do you think the docking station will uh is allowed in the budget we have ? 	
+TS3003b.C.dialog-act.vkaraisk.58	It should be possible yes . If it's not too fancy . 	
+TS3003b.A.dialog-act.vkaraisk.209	'Cause it can be 	
+TS3003b.B.dialog-act.vkaraisk.127	No . 	
+TS3003b.C.dialog-act.vkaraisk.59	And if the remote stays rather small , it should be possible 	
+TS3003b.A.dialog-act.vkaraisk.210	No . 	
+TS3003b.C.dialog-act.vkaraisk.60	yeah . 	
+TS3003b.A.dialog-act.vkaraisk.211	Yeah . 	
+TS3003b.B.dialog-act.vkaraisk.128	No . 	
+TS3003b.A.dialog-act.vkaraisk.212	Because I think that's uh 	
+TS3003b.A.dialog-act.vkaraisk.213	That's a good advantage point as well . If we have a fancy-looking docking station 	
+TS3003b.C.dialog-act.vkaraisk.61	Yes . 	
+TS3003b.A.dialog-act.vkaraisk.214	or very 	
+TS3003b.B.dialog-act.vkaraisk.129	Hmm . 	
+TS3003b.A.dialog-act.vkaraisk.215	That's a nice requirement . 	
+TS3003b.A.dialog-act.vkaraisk.216	Docking station . 	
+TS3003b.D.dialog-act.vkaraisk.184		
+TS3003b.C.dialog-act.vkaraisk.62	So 	
+TS3003b.C.dialog-act.vkaraisk.63	we're just gonna focus on the extras ? 	
+TS3003b.A.dialog-act.vkaraisk.217	I think so . 	
+TS3003b.C.dialog-act.vkaraisk.64	Yeah . 	
+TS3003b.B.dialog-act.vkaraisk.130	Mm . 	
+TS3003b.D.dialog-act.vkaraisk.185	Yeah 	
+TS3003b.D.dialog-act.vkaraisk.186	I think maybe we should do some research into what elderly people like to have in a 	
+TS3003b.A.dialog-act.vkaraisk.218	Yeah . 	
+TS3003b.D.dialog-act.vkaraisk.187	like to have extra in a new remote control . 	
+TS3003b.A.dialog-act.vkaraisk.219	That's a good point . Um 	
+TS3003b.A.dialog-act.vkaraisk.220	You said they easily get lost as well . 	
+TS3003b.D.dialog-act.vkaraisk.188	Yes 	
+TS3003b.D.dialog-act.vkaraisk.189	well 	
+TS3003b.D.dialog-act.vkaraisk.190	fifty percent of the people indicated that remote control tended to get lost . 	
+TS3003b.A.dialog-act.vkaraisk.221	Yeah . 	
+TS3003b.A.dialog-act.vkaraisk.222	So maybe we should implement the audio sign , or something . 	
+TS3003b.D.dialog-act.vkaraisk.191	Yeah 	
+TS3003b.D.dialog-act.vkaraisk.192	that was what I suggested . 	
+TS3003b.A.dialog-act.vkaraisk.223	Yeah . 	
+TS3003b.C.dialog-act.vkaraisk.65	Like with your key-chain , if you whistle it goes uh it makes a sound . 	
+TS3003b.D.dialog-act.vkaraisk.193	You have it on 	
+TS3003b.A.dialog-act.vkaraisk.224	Yeah . 	
+TS3003b.D.dialog-act.vkaraisk.194	Yeah 	
+TS3003b.B.dialog-act.vkaraisk.131	Hm . 	
+TS3003b.D.dialog-act.vkaraisk.195	you have it's on some phones too , 	
+TS3003b.D.dialog-act.vkaraisk.196	which have a docking station . 	
+TS3003b.C.dialog-act.vkaraisk.66	Yeah . 	
+TS3003b.D.dialog-act.vkaraisk.197	And you just press a button 	
+TS3003b.D.dialog-act.vkaraisk.198	and the phone goes ringing . 	
+TS3003b.A.dialog-act.vkaraisk.225	Yeah . So 	
+TS3003b.D.dialog-act.vkaraisk.199	So you know where it is . 	
+TS3003b.A.dialog-act.vkaraisk.226	audio signal should be possible as well . 	
+TS3003b.A.dialog-act.vkaraisk.227	I think it's not too expensive . 	
+TS3003b.B.dialog-act.vkaraisk.132	No . 	
+TS3003b.A.dialog-act.vkaraisk.228	Uh another 	
+TS3003b.A.dialog-act.vkaraisk.229	point is the L_C_D_ screen . 	
+TS3003b.A.dialog-act.vkaraisk.230	Um I don't know if that will rise the cost too much , 	
+TS3003b.C.dialog-act.vkaraisk.67	Y i 	
+TS3003b.A.dialog-act.vkaraisk.231	because 	
+TS3003b.C.dialog-act.vkaraisk.68	um I think we'll have to choose between the docking station or the screen , 	
+TS3003b.C.dialog-act.vkaraisk.69	'cause 	
+TS3003b.A.dialog-act.vkaraisk.232	Yeah . 	
+TS3003b.C.dialog-act.vkaraisk.70	it's uh 	
+TS3003b.B.dialog-act.vkaraisk.133	Mm . 	
+TS3003b.A.dialog-act.vkaraisk.233	It will be too much as well . 	
+TS3003b.C.dialog-act.vkaraisk.71		
+TS3003b.D.dialog-act.vkaraisk.200	I think since a lot of people indicated that a new remote control is hard to learn , 	
+TS3003b.D.dialog-act.vkaraisk.201	and we're focusing on elderly people here 	
+TS3003b.D.dialog-act.vkaraisk.202	which tend to have a hard time understanding new devices , 	
+TS3003b.D.dialog-act.vkaraisk.203	it might be a good idea to have just a little screen on it , 	
+TS3003b.D.dialog-act.vkaraisk.204	which would explain a button if you press it . 	
+TS3003b.D.dialog-act.vkaraisk.205	Which would tell you what it does . 	
+TS3003b.A.dialog-act.vkaraisk.234	Yeah . 	
+TS3003b.D.dialog-act.vkaraisk.206	And it wouldn't have to be touchscreen or a very expensive screen , 	
+TS3003b.A.dialog-act.vkaraisk.235	Based . 	
+TS3003b.B.dialog-act.vkaraisk.134	Okay . Yeah . 	
+TS3003b.D.dialog-act.vkaraisk.207	but 	
+TS3003b.A.dialog-act.vkaraisk.236	Just the L_C_D_ . 	
+TS3003b.A.dialog-act.vkaraisk.237	Oh just the normal screen . 	
+TS3003b.D.dialog-act.vkaraisk.208	Just a small screen 	
+TS3003b.A.dialog-act.vkaraisk.238	That's a good idea . 	
+TS3003b.D.dialog-act.vkaraisk.209	with two 	
+TS3003b.A.dialog-act.vkaraisk.239	So 	
+TS3003b.A.dialog-act.vkaraisk.240	Some extra info . Feedback . 	
+TS3003b.D.dialog-act.vkaraisk.210	Yeah . 	
+TS3003b.A.dialog-act.vkaraisk.241	Yeah . I think that's a good idea as well . 	
+TS3003b.B.dialog-act.vkaraisk.135	Yeah . 	
+TS3003b.D.dialog-act.vkaraisk.211	But I dunno if that would 	
+TS3003b.A.dialog-act.vkaraisk.242	As the small screen . 	
+TS3003b.D.dialog-act.vkaraisk.212	that would fit into the costs . 	
+TS3003b.A.dialog-act.vkaraisk.243	Extra button info . 	
+TS3003b.A.dialog-act.vkaraisk.244	I think that should be possible as well . 	
+TS3003b.A.dialog-act.vkaraisk.245	Um let's see what did we say . Mm . More . 	
+TS3003b.A.dialog-act.vkaraisk.246	Should be fancy to , fancy design , easy to learn . 	
+TS3003b.A.dialog-act.vkaraisk.247	Few buttons , we talked about that . Docking station , L_C_D_ . Um general functions 	
+TS3003b.A.dialog-act.vkaraisk.248	Yeah . 'Kay . 	
+TS3003b.A.dialog-act.vkaraisk.249	And default materials . I think that's a good idea as well , 	
+TS3003b.A.dialog-act.vkaraisk.250	because um elderly people don't mind if it's a titanium cover or just a plastic one . 	
+TS3003b.B.dialog-act.vkaraisk.137		
+TS3003b.A.dialog-act.vkaraisk.251	So that doesn't really matter . 	
+TS3003b.D.dialog-act.vkaraisk.213	No . 	
+TS3003b.B.dialog-act.vkaraisk.136	Mm . 	
+TS3003b.A.dialog-act.vkaraisk.252	So 	
+TS3003b.A.dialog-act.vkaraisk.253	I think we nee 	
+TS3003b.D.dialog-act.vkaraisk.214	I think probably elderly people would be a little bit more careful with their remote controls than youngsters . 	
+TS3003b.A.dialog-act.vkaraisk.254	Uh let's um specify the target group . 	
+TS3003b.A.dialog-act.vkaraisk.255	Because are we talking about elderly elderly people or people from forty to eighty . 	
+TS3003b.A.dialog-act.vkaraisk.256	Because I think what we're going to design now is for people above sixty , maybe . 	
+TS3003b.B.dialog-act.vkaraisk.138	Mm . Yeah . 	
+TS3003b.D.dialog-act.vkaraisk.215	Yeah . 	
+TS3003b.A.dialog-act.vkaraisk.257	Uh what do we want ? 	
+TS3003b.D.dialog-act.vkaraisk.216	I think 	
+TS3003b.A.dialog-act.vkaraisk.258	If we want um a with uh for example the the telephone for elderly people , we can 	
+TS3003b.A.dialog-act.vkaraisk.259	target the real elderly people . 	
+TS3003b.D.dialog-act.vkaraisk.217	I think that would be a 	
+TS3003b.D.dialog-act.vkaraisk.218	If we should do something like that it would be a , I think it would be really good for uh for the image of the company . 	
+TS3003b.A.dialog-act.vkaraisk.260	Yeah . 	
+TS3003b.D.dialog-act.vkaraisk.219	And I think , I think there would be a good market for it . 	
+TS3003b.A.dialog-act.vkaraisk.262	So 	
+TS3003b.A.dialog-act.vkaraisk.261	that's the 	
+TS3003b.D.dialog-act.vkaraisk.220	If we're able to really bring an innovative product . 	
+TS3003b.A.dialog-act.vkaraisk.263	Now you're talking about sixty to eighty for example . 	
+TS3003b.D.dialog-act.vkaraisk.221	Yeah the really 	
+TS3003b.A.dialog-act.vkaraisk.264	Yeah . 	
+TS3003b.B.dialog-act.vkaraisk.139	Mm . 	
+TS3003b.D.dialog-act.vkaraisk.222	But I'd have to look into that a little more . 	
+TS3003b.A.dialog-act.vkaraisk.265	Sixty . 	
+TS3003b.A.dialog-act.vkaraisk.266	Okay . 	
+TS3003b.A.dialog-act.vkaraisk.267	And different cultures . Are we 	
+TS3003b.C.dialog-act.vkaraisk.72	Well 	
+TS3003b.C.dialog-act.vkaraisk.73	I don't think they have different television sets uh 	
+TS3003b.B.dialog-act.vkaraisk.140	Mm . 	
+TS3003b.A.dialog-act.vkaraisk.268	Okay . 	
+TS3003b.C.dialog-act.vkaraisk.74	in uh every country . 	
+TS3003b.A.dialog-act.vkaraisk.269	No . 	
+TS3003b.B.dialog-act.vkaraisk.141	No . 	
+TS3003b.C.dialog-act.vkaraisk.75	'Cause 	
+TS3003b.A.dialog-act.vkaraisk.270	We've got five minutes left just now . 	
+TS3003b.B.dialog-act.vkaraisk.142	So 	
+TS3003b.B.dialog-act.vkaraisk.143	'Kay . 	
+TS3003b.D.dialog-act.vkaraisk.223	'Kay . 	
+TS3003b.A.dialog-act.vkaraisk.271	Small warning . 	
+TS3003b.D.dialog-act.vkaraisk.224	And with uh the little screen in it , which explains the buttons . You could I think we n it would be a lot easier to 	
+TS3003b.A.dialog-act.vkaraisk.272	Should 	
+TS3003b.D.dialog-act.vkaraisk.225	adapt it to different cultures . 	
+TS3003b.A.dialog-act.vkaraisk.273	Yeah . 	
+TS3003b.A.dialog-act.vkaraisk.274	In different languages , you know . 	
+TS3003b.D.dialog-act.vkaraisk.226	Yeah . 	
+TS3003b.C.dialog-act.vkaraisk.76	Yeah . 	
+TS3003b.A.dialog-act.vkaraisk.275	Yeah . 	
+TS3003b.B.dialog-act.vkaraisk.144	Yeah . 	
+TS3003b.A.dialog-act.vkaraisk.276	or you have to put a language button in it , 	
+TS3003b.B.dialog-act.vkaraisk.145	Right . 	
+TS3003b.A.dialog-act.vkaraisk.277	but that will be a bit unnecessary I think . 	
+TS3003b.B.dialog-act.vkaraisk.146	No . Yeah . 	
+TS3003b.D.dialog-act.vkaraisk.227	Yeah . 	
+TS3003b.A.dialog-act.vkaraisk.278	It's better to put it on different markets with it all . 	
+TS3003b.B.dialog-act.vkaraisk.147	Yeah . 	
+TS3003b.C.dialog-act.vkaraisk.77	Yeah . 	
+TS3003b.A.dialog-act.vkaraisk.279	Okay . So 	
+TS3003b.A.dialog-act.vkaraisk.280	that's the the target . 	
+TS3003b.A.dialog-act.vkaraisk.281	Uh then a few small things . 	
+TS3003b.D.dialog-act.vkaraisk.228		
+TS3003b.A.dialog-act.vkaraisk.282	Uh okay . 	
+TS3003b.A.dialog-act.vkaraisk.283	I will put the minutes in the project uh project document folder . 	
+TS3003b.A.dialog-act.vkaraisk.284	Um what we're going to do for the next meeting is the Industrial Designer will do the components concept , 	
+TS3003b.A.dialog-act.vkaraisk.285	User Interface Designer the user interface concept , 	
+TS3003b.A.dialog-act.vkaraisk.286	and the trend-watching . 	
+TS3003b.A.dialog-act.vkaraisk.287	So 	
+TS3003b.A.dialog-act.vkaraisk.288	just keep in mind the things we've said about the target group , uh requirements , and the trends which are uh going on . 	
+TS3003b.A.dialog-act.vkaraisk.289	And uh specific instructions will be sent to you by uh the personal coach . 	
+TS3003b.D.dialog-act.vkaraisk.229	'Kay . 	
+TS3003b.A.dialog-act.vkaraisk.290	So um 	
+TS3003b.A.dialog-act.vkaraisk.291	I thank you for this meeting . 	
+TS3003b.A.dialog-act.vkaraisk.292	And I think we have a lunch-break now . 	
+TS3003b.D.dialog-act.vkaraisk.230	That's good . 	
+TS3003b.B.dialog-act.vkaraisk.148	Yeah . 	
+TS3003b.A.dialog-act.vkaraisk.293	So 	
+TS3003b.A.dialog-act.vkaraisk.294	that's a good thing . 	
+TS3003b.D.dialog-act.vkaraisk.231		
+

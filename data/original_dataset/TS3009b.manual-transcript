@@ -1,0 +1,1309 @@
+Observation: TS3009b; Result size: 1306; atts: 2
+$d@nite:id	$d	
+TS3009b.D.dialog-act.s9553330.1	Great man . 	
+TS3009b.D.dialog-act.s9553330.2	Who starts ? 	
+TS3009b.A.dialog-act.s9553330.1	Well I'll uh start just with another presentation , 	
+TS3009b.A.dialog-act.s9553330.2	so then we can uh look at th at the agenda uh for this meeting . 	
+TS3009b.D.dialog-act.s9553330.3	Alright , great . 	
+TS3009b.D.dialog-act.s9553330.4	Alright . 	
+TS3009b.A.dialog-act.s9553330.3	Okay . 	
+TS3009b.A.dialog-act.s9553330.4	I've put some uh new things in the in the map . 	
+TS3009b.D.dialog-act.s9553330.5	Mm-hmm . 	
+TS3009b.A.dialog-act.s9553330.5	Uh oh . 	
+TS3009b.A.dialog-act.s9553330.6	This is it . 	
+TS3009b.A.dialog-act.s9553330.7	I don't know the shortcut , so 	
+TS3009b.A.dialog-act.s9553330.8	Ah F_ five . 	
+TS3009b.A.dialog-act.s9553330.9	Well our functional design meeting , that's the stage we're in . 	
+TS3009b.C.dialog-act.s9553330.1	Mm . 	
+TS3009b.A.dialog-act.s9553330.10	And you also ha all three of you have uh prepared something about it . 	
+TS3009b.D.dialog-act.s9553330.6	Yes . 	
+TS3009b.A.dialog-act.s9553330.11	Well um in we'll uh just have a look at the at the notes from the previous meeting , what we uh thought we had dec decided . 	
+TS3009b.A.dialog-act.s9553330.12	But uh 	
+TS3009b.A.dialog-act.s9553330.13	Uh then we'll uh look at uh the three uh presentations uh from you . 	
+TS3009b.D.dialog-act.s9553330.7	'Kay . 	
+TS3009b.A.dialog-act.s9553330.14	I think you have prepared uh all three uh ? 	
+TS3009b.C.dialog-act.s9553330.2	Well , yeah . 	
+TS3009b.D.dialog-act.s9553330.8	Yeah . 	
+TS3009b.A.dialog-act.s9553330.15	Um we'll look at th the new project requirements 	
+TS3009b.A.dialog-act.s9553330.16	we uh I dunno . 	
+TS3009b.A.dialog-act.s9553330.17	Y you also have uh received that mail , the new project requirements from our bosses ? 	
+TS3009b.C.dialog-act.s9553330.3	No . 	
+TS3009b.D.dialog-act.s9553330.9	No . 	
+TS3009b.A.dialog-act.s9553330.18	Oh I've received a mail with uh some additional requirements , 	
+TS3009b.D.dialog-act.s9553330.10	You're the only one . 	
+TS3009b.C.dialog-act.s9553330.4	Oh . 	
+TS3009b.D.dialog-act.s9553330.11	Alright . 	
+TS3009b.A.dialog-act.s9553330.19	and I'll have a look if 	
+TS3009b.A.dialog-act.s9553330.20	Well I think we should show them before your presentations , 	
+TS3009b.A.dialog-act.s9553330.21	because it's not really uh smart uh to uh to include some things uh we can't , because of the new requirements . 	
+TS3009b.D.dialog-act.s9553330.12	'Kay . 	
+TS3009b.A.dialog-act.s9553330.22	Well um then we can make some decisions about our remote control functions . 	
+TS3009b.A.dialog-act.s9553330.23	We have to deb we have to decide it in this meeting what our function will be . 	
+TS3009b.A.dialog-act.s9553330.24	And then uh we can discuss uh some more closely . Uh 	
+TS3009b.C.dialog-act.s9553330.5	We have forty minutes for this uh discussion ? 	
+TS3009b.A.dialog-act.s9553330.25	Uh yeah , I think so . 	
+TS3009b.C.dialog-act.s9553330.6	Alright . 	
+TS3009b.A.dialog-act.s9553330.26	Well uh the closing uh we'll not uh look at it yet . 	
+TS3009b.B.dialog-act.s9553330.1		
+TS3009b.D.dialog-act.s9553330.14	Alright . 	
+TS3009b.A.dialog-act.s9553330.27	Um now I'll look at show this board . 	
+TS3009b.A.dialog-act.s9553330.28	Um 	
+TS3009b.A.dialog-act.s9553330.30	Well uh notes , first meeting . 	
+TS3009b.A.dialog-act.s9553330.29	Now . 	
+TS3009b.A.dialog-act.s9553330.31	I gave a disc a a presentation . 	
+TS3009b.A.dialog-act.s9553330.32	Uh we familiarised ourself with the boards 	
+TS3009b.A.dialog-act.s9553330.33	and then we discussed some first ideas . 	
+TS3009b.A.dialog-act.s9553330.34	So we said that uh we have to merge the strong points from our uh competitors , 	
+TS3009b.D.dialog-act.s9553330.15	Right . 	
+TS3009b.A.dialog-act.s9553330.35	and uh look at their uh remote controls . 	
+TS3009b.A.dialog-act.s9553330.36	We should make it uh compatible with our new D_V_D_ and other releases we have , our technical releases . 	
+TS3009b.C.dialog-act.s9553330.8	Huh ? 	
+TS3009b.A.dialog-act.s9553330.37	Uh not too many one buttons . 	
+TS3009b.A.dialog-act.s9553330.38	One recognisable button in the middle , where you do the most important functions with . 	
+TS3009b.A.dialog-act.s9553330.39	And um well they can have two functions , 	
+TS3009b.A.dialog-act.s9553330.40	because uh you have a D_V_D_ and a television . 	
+TS3009b.C.dialog-act.s9553330.9	Yeah . 	
+TS3009b.A.dialog-act.s9553330.41	Um the design has to fit the hand , be original , but also be familiar . 	
+TS3009b.A.dialog-act.s9553330.42	It's uh one of our ideas . 	
+TS3009b.C.dialog-act.s9553330.7		
+TS3009b.D.dialog-act.s9553330.13		
+TS3009b.B.dialog-act.s9553330.2		
+TS3009b.A.dialog-act.s9553330.43	Yeah well that wa It's just thirty minutes ago , 	
+TS3009b.A.dialog-act.s9553330.44	so it's not quite uh But well I have to do it . 	
+TS3009b.D.dialog-act.s9553330.16	Yeah . 	
+TS3009b.C.dialog-act.s9553330.10	Mm-hmm , now it's right . 	
+TS3009b.A.dialog-act.s9553330.45	The materials uh well should be hard plastic with rubber from , 	
+TS3009b.A.dialog-act.s9553330.46	and uh well the labelling of the buttons should be indestructible . 	
+TS3009b.B.dialog-act.s9553330.3		
+TS3009b.A.dialog-act.s9553330.47	It should be uh recognisable at all times . 	
+TS3009b.C.dialog-act.s9553330.11	It's meant to be easily wiped out , yeah . 	
+TS3009b.B.dialog-act.s9553330.4	Mm . 	
+TS3009b.A.dialog-act.s9553330.48	Yes . 	
+TS3009b.D.dialog-act.s9553330.17	Okay . 	
+TS3009b.A.dialog-act.s9553330.49	Well fronts were to be just like mobile telephones . 	
+TS3009b.A.dialog-act.s9553330.50	And uh the technical aspects um And also labelling of the buttons , the functions should be universal standards . 	
+TS3009b.A.dialog-act.s9553330.51	Well that's just uh some ideas from the first meeting . 	
+TS3009b.C.dialog-act.s9553330.12	Mm-hmm . 	
+TS3009b.A.dialog-act.s9553330.52	It's quite logical al all of it . 	
+TS3009b.A.dialog-act.s9553330.53	Um now the new project requirements , I'll just show them . 	
+TS3009b.A.dialog-act.s9553330.54	I got this mail from uh our bosses . 	
+TS3009b.A.dialog-act.s9553330.55	Well , teletext goes out . 	
+TS3009b.B.dialog-act.s9553330.5	Oh . 	
+TS3009b.A.dialog-act.s9553330.56	We will not use teletext . 	
+TS3009b.D.dialog-act.s9553330.19	Okay . 	
+TS3009b.A.dialog-act.s9553330.57	Maybe a new sort of thing , but n but not teletext . 	
+TS3009b.C.dialog-act.s9553330.13	I I disagree , 	
+TS3009b.C.dialog-act.s9553330.14	but uh it's not uh t it's not my place to disagree I guess . 	
+TS3009b.A.dialog-act.s9553330.58	Well 	
+TS3009b.A.dialog-act.s9553330.59	the second is a bit sh pity 	
+TS3009b.A.dialog-act.s9553330.60	because we just said we wanted to d include the D_V_D_ 	
+TS3009b.B.dialog-act.s9553330.6	Oh . 	
+TS3009b.A.dialog-act.s9553330.61	and they don't want it , 	
+TS3009b.A.dialog-act.s9553330.62	because of our time we have for this project . 	
+TS3009b.D.dialog-act.s9553330.20	Alright . 	
+TS3009b.C.dialog-act.s9553330.15	Oh , alright . 	
+TS3009b.B.dialog-act.s9553330.7	Oh , that's a shame . 	
+TS3009b.A.dialog-act.s9553330.63	So that's a shame , 	
+TS3009b.A.dialog-act.s9553330.64	because uh especially for the third requirement we want to reach people under the thirty years . 	
+TS3009b.A.dialog-act.s9553330.65	Because uh we don't have those customers a lot at th at this point . 	
+TS3009b.A.dialog-act.s9553330.66	Um well it's a bit pity 	
+TS3009b.A.dialog-act.s9553330.67	because it's just those people want to have uh one remote control for all those technical devices they can uh reach it . 	
+TS3009b.D.dialog-act.s9553330.21	Yeah . 	
+TS3009b.D.dialog-act.s9553330.22	But let's forget about it . 	
+TS3009b.D.dialog-act.s9553330.23	It's just time-consuming , 	
+TS3009b.A.dialog-act.s9553330.68	Yeah . 	
+TS3009b.D.dialog-act.s9553330.24	so we uh have to go on . 	
+TS3009b.B.dialog-act.s9553330.8		
+TS3009b.A.dialog-act.s9553330.71	Well and uh our corporate image should stay rec recognisable in our products . 	
+TS3009b.A.dialog-act.s9553330.73	So uh we have to uh use uh maybe a slogan , maybe a colour , and um 	
+TS3009b.A.dialog-act.s9553330.74	Yeah well uh on our remote controls the design has to be uh , well as we already said a actually , uh familiar . 	
+TS3009b.D.dialog-act.s9553330.27	Yes . 	
+TS3009b.A.dialog-act.s9553330.75	Uh not only just uh the shape but also our company . 	
+TS3009b.C.dialog-act.s9553330.18	Yeah , we are a real fashionable company . 	
+TS3009b.C.dialog-act.s9553330.19	I read uh I read it on the 	
+TS3009b.A.dialog-act.s9553330.76	Yeah . Yeah . 	
+TS3009b.B.dialog-act.s9553330.11	Yeah . 	
+TS3009b.D.dialog-act.s9553330.28	Mm . 	
+TS3009b.C.dialog-act.s9553330.20	I didn't know what company we were , 	
+TS3009b.D.dialog-act.s9553330.25		
+TS3009b.C.dialog-act.s9553330.21	but we we design uh especially trendy uh trendy trendy stuff . 	
+TS3009b.A.dialog-act.s9553330.77	Yeah . 	
+TS3009b.C.dialog-act.s9553330.22	So it has to be uh a modern design . 	
+TS3009b.A.dialog-act.s9553330.78	Okay . 	
+TS3009b.C.dialog-act.s9553330.23	That's important to know , uh when you design a thing of course . 	
+TS3009b.A.dialog-act.s9553330.79	Yes . 	
+TS3009b.A.dialog-act.s9553330.80	I I uh noted uh our uh slogan that we have , our company . 	
+TS3009b.A.dialog-act.s9553330.81	It's uh we mm put the fashion in electronics . 	
+TS3009b.C.dialog-act.s9553330.24	Yeah . 	
+TS3009b.D.dialog-act.s9553330.29	Right . 	
+TS3009b.A.dialog-act.s9553330.82	So maybe that's a slogan we can put uh somewhere on our remote control or something . 	
+TS3009b.B.dialog-act.s9553330.12	Yeah . 	
+TS3009b.A.dialog-act.s9553330.83	Alright then um we're going to uh have three presentations . 	
+TS3009b.D.dialog-act.s9553330.30	Yeah . 	
+TS3009b.A.dialog-act.s9553330.84	You want to start ? 	
+TS3009b.C.dialog-act.s9553330.16		
+TS3009b.D.dialog-act.s9553330.31	Yeah . 	
+TS3009b.D.dialog-act.s9553330.32	I think I have to start . 	
+TS3009b.A.dialog-act.s9553330.85	Oh you have to start ? 	
+TS3009b.A.dialog-act.s9553330.86	I didn't see anything about uh who had to start . 	
+TS3009b.D.dialog-act.s9553330.33	Oh no , no problem . 	
+TS3009b.C.dialog-act.s9553330.26	The order ? No . 	
+TS3009b.A.dialog-act.s9553330.87	Well s then start . 	
+TS3009b.B.dialog-act.s9553330.13	Mm . 	
+TS3009b.D.dialog-act.s9553330.34	I I just have to uh to think which file's mine , 	
+TS3009b.D.dialog-act.s9553330.35	'cause I was uh bit in a hurry . 	
+TS3009b.B.dialog-act.s9553330.9		
+TS3009b.A.dialog-act.s9553330.88	Okay . 	
+TS3009b.A.dialog-act.s9553330.89	Well uh 	
+TS3009b.D.dialog-act.s9553330.36	I think it's this one . 	
+TS3009b.D.dialog-act.s9553330.37	But I'm not sure . 	
+TS3009b.D.dialog-act.s9553330.26		
+TS3009b.A.dialog-act.s9553330.90	You already uh opened uh PowerPoint . 	
+TS3009b.D.dialog-act.s9553330.38	Hmm ? Yeah . S 	
+TS3009b.D.dialog-act.s9553330.39	Right . 	
+TS3009b.B.dialog-act.s9553330.10		
+TS3009b.D.dialog-act.s9553330.40	Yes . This is it . 	
+TS3009b.A.dialog-act.s9553330.91	Yeah . 	
+TS3009b.D.dialog-act.s9553330.41	Well , I'm going to tell you something about functional requirements . 	
+TS3009b.A.dialog-act.s9553330.92	Mm-hmm . 	
+TS3009b.D.dialog-act.s9553330.42	Um to start with these points . 	
+TS3009b.D.dialog-act.s9553330.43	Uh next sheet ? 	
+TS3009b.D.dialog-act.s9553330.44	Um at first I tell you something about what people dislike about the current uh controls , 	
+TS3009b.D.dialog-act.s9553330.45	because it's uh a smart thing to exclude those things . 	
+TS3009b.D.dialog-act.s9553330.46	Uh , furthermore it's very important what they do like and what they do use . 	
+TS3009b.D.dialog-act.s9553330.47	Um then I tell something about um the most important issues . 	
+TS3009b.D.dialog-act.s9553330.48	So we have to focus on those three thing three things . 	
+TS3009b.D.dialog-act.s9553330.49	And in the end I'll um show you our target audience or our target product users , customers . 	
+TS3009b.D.dialog-act.s9553330.50	Well , um the first findings are that people um think most controls are very kind of ug ugly . 	
+TS3009b.A.dialog-act.s9553330.69		
+TS3009b.D.dialog-act.s9553330.51	That's seventy five per cent of the current users . 	
+TS3009b.D.dialog-act.s9553330.52	They don't like it , 	
+TS3009b.D.dialog-act.s9553330.53	so we might think about fronts in that section . Um 	
+TS3009b.D.dialog-act.s9553330.54	They also say , that's about uh I thought it was fifty per cent , uh that more money will be spent on uh better looking controls . 	
+TS3009b.D.dialog-act.s9553330.55	So it's very important that you design a a nice looking control . 	
+TS3009b.D.dialog-act.s9553330.56	Um the current user uses his machine just about well all of the time for a few functions . 	
+TS3009b.D.dialog-act.s9553330.57	Uh , almost every user uses it d the the control for just ten per cent of its capacity . 	
+TS3009b.D.dialog-act.s9553330.58	So it's really important to make the the buttons for the common uh tasks kind of big or kind of uh flashy . 	
+TS3009b.D.dialog-act.s9553330.59	Furthermore , it's uh seventy five per cent of the users uh zaps a lot . 	
+TS3009b.D.dialog-act.s9553330.61	Thus it might be uh might be smart to make a a big uh zapping button or something in the middle , so you can reach it with your thumb . 	
+TS3009b.C.dialog-act.s9553330.27	You can zap away . Yeah . 	
+TS3009b.D.dialog-act.s9553330.62	Yeah , yeah right . 	
+TS3009b.A.dialog-act.s9553330.93	Yeah . 	
+TS3009b.D.dialog-act.s9553330.63	Right . 	
+TS3009b.D.dialog-act.s9553330.64	A lot of losers um users lose their controls in their in their living room . 	
+TS3009b.C.dialog-act.s9553330.17		
+TS3009b.A.dialog-act.s9553330.70		
+TS3009b.D.dialog-act.s9553330.65	So it might be sensible to make some kind of a button on your television , that's your um your control beeps or something , that you can find this very easily . 	
+TS3009b.B.dialog-act.s9553330.14	Yeah . 	
+TS3009b.A.dialog-act.s9553330.94	Well 	
+TS3009b.D.dialog-act.s9553330.66	I dunno , maybe that's an idea . 	
+TS3009b.D.dialog-act.s9553330.67	'Cause it's uh a big I think fifty per cent of the users loses his its control , within the same room . 	
+TS3009b.C.dialog-act.s9553330.28	Oh . 	
+TS3009b.C.dialog-act.s9553330.29	Oh ? 	
+TS3009b.B.dialog-act.s9553330.15	Yeah . 	
+TS3009b.A.dialog-act.s9553330.95	It should actually uh It should actually be loose from the television , 	
+TS3009b.A.dialog-act.s9553330.96	because it can also be used for other televisions . 	
+TS3009b.A.dialog-act.s9553330.97	So if you deliver a small uh click-on device that you can put on your television , that bleeps to your remote control , everyone can use it . 	
+TS3009b.D.dialog-act.s9553330.69	Yeah 	
+TS3009b.D.dialog-act.s9553330.68	but what if you lose your click-on device ? 	
+TS3009b.A.dialog-act.s9553330.99	No 	
+TS3009b.A.dialog-act.s9553330.98	you can click it on your television . 	
+TS3009b.D.dialog-act.s9553330.70	Yeah but if someone d somebody else uses it in ano other room or something ? 	
+TS3009b.A.dialog-act.s9553330.101	Yeah in another room , yeah . 	
+TS3009b.C.dialog-act.s9553330.30		
+TS3009b.D.dialog-act.s9553330.71	Nee but it it specifically says it's uh the the control is lost in the same room . 	
+TS3009b.A.dialog-act.s9553330.100	Well yes . 	
+TS3009b.B.dialog-act.s9553330.16		
+TS3009b.C.dialog-act.s9553330.31	Mm-hmm . 	
+TS3009b.A.dialog-act.s9553330.102	Yeah . 	
+TS3009b.D.dialog-act.s9553330.72	So 	
+TS3009b.D.dialog-act.s9553330.73	Well a beeping device would be 	
+TS3009b.A.dialog-act.s9553330.103	Well we'll have a look at it , yeah . 	
+TS3009b.D.dialog-act.s9553330.74	Uh furthermore the learning time is a problem . 	
+TS3009b.D.dialog-act.s9553330.75	Uh thirty four thirty four per cent um thinks it's it's too uh too difficult to learn . 	
+TS3009b.D.dialog-act.s9553330.76	So the the learning curve should be very short uh for the dumbest people should be able to use it . 	
+TS3009b.B.dialog-act.s9553330.17		
+TS3009b.C.dialog-act.s9553330.32	I think our uh user uh expert should also consider manual a manual for the remote , of course . Uh 	
+TS3009b.D.dialog-act.s9553330.77	Yeah but people don't read manuals . 	
+TS3009b.C.dialog-act.s9553330.33	I didn't read it ? 	
+TS3009b.C.dialog-act.s9553330.34	Oh , alright . 	
+TS3009b.D.dialog-act.s9553330.78	No . 	
+TS3009b.B.dialog-act.s9553330.18	No . 	
+TS3009b.C.dialog-act.s9553330.35	users to uh add one ? Do you think ? 	
+TS3009b.B.dialog-act.s9553330.19	I don't think 	
+TS3009b.D.dialog-act.s9553330.79	I think you should put more time in the in the design of uh pick up and use , than a manual . 	
+TS3009b.B.dialog-act.s9553330.20	Yeah . 	
+TS3009b.C.dialog-act.s9553330.36	Mm-hmm . 	
+TS3009b.B.dialog-act.s9553330.22	Yes 	
+TS3009b.B.dialog-act.s9553330.23	you should You should could take a look at it and and and know how it how it's supposed to work . 	
+TS3009b.C.dialog-act.s9553330.37	Yeah alright . 	
+TS3009b.A.dialog-act.s9553330.104	Yep . 	
+TS3009b.C.dialog-act.s9553330.38	Because they don't use it ? Alright . 	
+TS3009b.D.dialog-act.s9553330.80	Yeah . Right . 	
+TS3009b.A.dialog-act.s9553330.105	Well there sh should always be a menu , 	
+TS3009b.A.dialog-act.s9553330.106	but it c can be very short . 	
+TS3009b.D.dialog-act.s9553330.81	And it should be consistent with consistent with older remotes . 	
+TS3009b.B.dialog-act.s9553330.24	Yeah but nobody reads a manual about a remote control , I think . 	
+TS3009b.A.dialog-act.s9553330.107	Yes okay . 	
+TS3009b.C.dialog-act.s9553330.39	Well maybe for the If you don't recognise a button who d who d who do I call uh wh when I don't know it ? 	
+TS3009b.D.dialog-act.s9553330.82	Alright . 	
+TS3009b.B.dialog-act.s9553330.25	Yeah right . 	
+TS3009b.B.dialog-act.s9553330.26	It sh it should be there , the manual . 	
+TS3009b.B.dialog-act.s9553330.27	But but not to explain how the remote works . 	
+TS3009b.B.dialog-act.s9553330.28	Only 	
+TS3009b.D.dialog-act.s9553330.83	And we don't have much time . 	
+TS3009b.D.dialog-act.s9553330.84	So it's better to uh put our attention to the the design . So you can pick up and use it , than I think . 	
+TS3009b.A.dialog-act.s9553330.108	Well we are a design team , 	
+TS3009b.B.dialog-act.s9553330.29	Hmm . 	
+TS3009b.A.dialog-act.s9553330.109	we can say to some uh writer uh make a manual point . 	
+TS3009b.D.dialog-act.s9553330.85	Yeah right , right . 	
+TS3009b.C.dialog-act.s9553330.40	Isn't it part of the of the u 	
+TS3009b.B.dialog-act.s9553330.30		
+TS3009b.A.dialog-act.s9553330.110	So 	
+TS3009b.C.dialog-act.s9553330.41	No . No . Never mind . 	
+TS3009b.A.dialog-act.s9553330.111	Well we'll have a look . 	
+TS3009b.D.dialog-act.s9553330.86	Next point . Um R_S_I_ . 	
+TS3009b.A.dialog-act.s9553330.112	Um yes ? 	
+TS3009b.B.dialog-act.s9553330.31		
+TS3009b.D.dialog-act.s9553330.87	Well that's about twenty per cent I thought . 	
+TS3009b.D.dialog-act.s9553330.88	But uh the designer should uh take it uh should uh Wie zeg ik dat ? Yeah , consider the consequences of using your remote . 	
+TS3009b.C.dialog-act.s9553330.42	Consider the m 	
+TS3009b.D.dialog-act.s9553330.89	It should be a good in your hand . 	
+TS3009b.C.dialog-act.s9553330.43	Yeah . 	
+TS3009b.C.dialog-act.s9553330.44	Mm-hmm . 	
+TS3009b.A.dialog-act.s9553330.113	Yep . 	
+TS3009b.D.dialog-act.s9553330.90	Right , 	
+TS3009b.D.dialog-act.s9553330.91	this is the most important part . 	
+TS3009b.D.dialog-act.s9553330.92	Um , we're 	
+TS3009b.D.dialog-act.s9553330.93	Like the requirements said , we're gonna specify of we're gonna target a younger audience . 	
+TS3009b.D.dialog-act.s9553330.94	Um , that's about sixty per cent of the market , 	
+TS3009b.D.dialog-act.s9553330.95	so it's uh quite important . 	
+TS3009b.D.dialog-act.s9553330.96	Um research shows that they like to have a little L_C_D_ screen on their on their uh zapping uh device . 	
+TS3009b.D.dialog-act.s9553330.97	Uh I thought it was the age between sixteen and twenty , ninety nine per cent of uh the people like that . 	
+TS3009b.A.dialog-act.s9553330.114	Well 	
+TS3009b.D.dialog-act.s9553330.98	So it's very important we should definitely have that in our uh designs . 	
+TS3009b.A.dialog-act.s9553330.115	Well with twelve Euro fifty as production cost , we can't uh afford an L_C_D_ uh 	
+TS3009b.C.dialog-act.s9553330.45	It's going to be expensive . Yeah . 	
+TS3009b.B.dialog-act.s9553330.33	No . 	
+TS3009b.D.dialog-act.s9553330.99	Yeah but they think it's really important . 	
+TS3009b.D.dialog-act.s9553330.101	So if we want to s 	
+TS3009b.A.dialog-act.s9553330.116	Yeah . 	
+TS3009b.D.dialog-act.s9553330.102	If we have a big 	
+TS3009b.D.dialog-act.s9553330.103	If we make lots of uh of the stuff , maybe we can uh buy it very cheap , I dunno . 	
+TS3009b.D.dialog-act.s9553330.104	We have to uh 	
+TS3009b.C.dialog-act.s9553330.46	Well we'll uh consider it uh . 	
+TS3009b.A.dialog-act.s9553330.117	Well 	
+TS3009b.A.dialog-act.s9553330.118	Yeah well uh it's your your task to uh look into the costs uh of those uh 	
+TS3009b.C.dialog-act.s9553330.47	We'll think abo we'll think 	
+TS3009b.D.dialog-act.s9553330.105	Yeah , 	
+TS3009b.D.dialog-act.s9553330.106	I don't know . 	
+TS3009b.D.dialog-act.s9553330.107	I don't have any information on that . So 	
+TS3009b.A.dialog-act.s9553330.119	Nigh 	
+TS3009b.B.dialog-act.s9553330.32		
+TS3009b.C.dialog-act.s9553330.48	No , we'll look we'll look into that later . 	
+TS3009b.A.dialog-act.s9553330.120	I know . 	
+TS3009b.D.dialog-act.s9553330.108	Right . 	
+TS3009b.C.dialog-act.s9553330.49	Alright ? 	
+TS3009b.D.dialog-act.s9553330.109	And uh another thing is uh speech uh recognition . 	
+TS3009b.D.dialog-act.s9553330.110	They also like that , 	
+TS3009b.D.dialog-act.s9553330.111	but research is very uh costly . So 	
+TS3009b.B.dialog-act.s9553330.34		
+TS3009b.B.dialog-act.s9553330.36	I think that's uh difficult to realise also . 	
+TS3009b.D.dialog-act.s9553330.112	Yeah , but it it might be important for the sale . 	
+TS3009b.C.dialog-act.s9553330.50	We have very demanding clients . 	
+TS3009b.A.dialog-act.s9553330.123	It's not yet a standard uh development uh those so 	
+TS3009b.B.dialog-act.s9553330.35		
+TS3009b.B.dialog-act.s9553330.37	No 	
+TS3009b.B.dialog-act.s9553330.38	and we have customers in multiple uh countries I think . 	
+TS3009b.D.dialog-act.s9553330.113	Well I do think L_C_D_ is more reachable than the speech recognition . 	
+TS3009b.A.dialog-act.s9553330.124	We sh 	
+TS3009b.A.dialog-act.s9553330.122	Yeah absolutely . 	
+TS3009b.B.dialog-act.s9553330.39	Yeah . 	
+TS3009b.D.dialog-act.s9553330.114	So we might consider L_C_D_ screens . 	
+TS3009b.B.dialog-act.s9553330.40	No . 	
+TS3009b.C.dialog-act.s9553330.51	Yeah , yeah , alright . 	
+TS3009b.C.dialog-act.s9553330.52	Well we'll consider both 	
+TS3009b.C.dialog-act.s9553330.53	and and see what uh what what we can find , I think . 	
+TS3009b.D.dialog-act.s9553330.115	Alright . 	
+TS3009b.A.dialog-act.s9553330.125	Yep . 	
+TS3009b.C.dialog-act.s9553330.54	We don't rule them out uh yet . 	
+TS3009b.A.dialog-act.s9553330.121		
+TS3009b.A.dialog-act.s9553330.126	'Kay . 	
+TS3009b.D.dialog-act.s9553330.116	Alright . 	
+TS3009b.D.dialog-act.s9553330.117	Um , I think that's it . Um 	
+TS3009b.A.dialog-act.s9553330.130	Alright . 	
+TS3009b.D.dialog-act.s9553330.118	I think it is sensible to u uh to take this take these points into the notes . 	
+TS3009b.A.dialog-act.s9553330.131	Yes . 	
+TS3009b.D.dialog-act.s9553330.119	So you can 	
+TS3009b.D.dialog-act.s9553330.120	Right . 	
+TS3009b.A.dialog-act.s9553330.132	Well you 	
+TS3009b.A.dialog-act.s9553330.133	I c I can uh still see your presentation . 	
+TS3009b.D.dialog-act.s9553330.121	Yeah . Right . 	
+TS3009b.A.dialog-act.s9553330.134	It's in the 	
+TS3009b.A.dialog-act.s9553330.136	Well uh next um I dunno who is next . 	
+TS3009b.C.dialog-act.s9553330.56	Shall I give a technical talk ? 	
+TS3009b.B.dialog-act.s9553330.43	Oh you go . 	
+TS3009b.A.dialog-act.s9553330.138	Yes . 	
+TS3009b.C.dialog-act.s9553330.57	Alright . 	
+TS3009b.A.dialog-act.s9553330.139	Well go ahead . 	
+TS3009b.A.dialog-act.s9553330.127		
+TS3009b.C.dialog-act.s9553330.58	Well uh it is my task to uh explain uh or to point out a working design . 	
+TS3009b.A.dialog-act.s9553330.140	Yip . 	
+TS3009b.C.dialog-act.s9553330.59	We have that here . 	
+TS3009b.C.dialog-act.s9553330.60	Okay , how do you enlarge it , so that you can have the 	
+TS3009b.A.dialog-act.s9553330.141	F_ five . 	
+TS3009b.C.dialog-act.s9553330.61	F_ F_ five . 	
+TS3009b.A.dialog-act.s9553330.142	F_ five . 	
+TS3009b.C.dialog-act.s9553330.62	Yep . 	
+TS3009b.D.dialog-act.s9553330.122	Alright . 	
+TS3009b.C.dialog-act.s9553330.63	Well , the working design , 	
+TS3009b.B.dialog-act.s9553330.41		
+TS3009b.C.dialog-act.s9553330.64	that's my uh 	
+TS3009b.A.dialog-act.s9553330.128		
+TS3009b.D.dialog-act.s9553330.123	Next button . 	
+TS3009b.C.dialog-act.s9553330.65	Well alright uh , you know who I am and what I do . 	
+TS3009b.C.dialog-act.s9553330.66	So uh we have this . 	
+TS3009b.C.dialog-act.s9553330.67	It's a bit uh unclear 	
+TS3009b.C.dialog-act.s9553330.68	because I wanted to copy paste something . 	
+TS3009b.C.dialog-act.s9553330.69	It was originally in black and white 	
+TS3009b.D.dialog-act.s9553330.125	Oh right . 	
+TS3009b.C.dialog-act.s9553330.70	but it became black and purple . 	
+TS3009b.D.dialog-act.s9553330.124	Purple . 	
+TS3009b.C.dialog-act.s9553330.71	But I think you can read it . 	
+TS3009b.B.dialog-act.s9553330.42		
+TS3009b.A.dialog-act.s9553330.129		
+TS3009b.D.dialog-act.s9553330.126	Yeah , yeah , yeah . A bit . 	
+TS3009b.C.dialog-act.s9553330.72	Um well um I think it's important uh for you to realise the basic function of a remote control . 	
+TS3009b.C.dialog-act.s9553330.73	Uh well you can see uh 	
+TS3009b.D.dialog-act.s9553330.127	Maybe you can select it . So it uh inverts . 	
+TS3009b.C.dialog-act.s9553330.55		
+TS3009b.C.dialog-act.s9553330.74	And I then can select I can select on the dings 	
+TS3009b.D.dialog-act.s9553330.128	the p the whole picture . 	
+TS3009b.C.dialog-act.s9553330.75	It goes to the next page . 	
+TS3009b.D.dialog-act.s9553330.129	Nah , uh never mind . 	
+TS3009b.A.dialog-act.s9553330.143	Click . 	
+TS3009b.C.dialog-act.s9553330.77	Well , you can read it , 	
+TS3009b.C.dialog-act.s9553330.78	it's not too difficult . 	
+TS3009b.B.dialog-act.s9553330.46	Yeah , go ahead . 	
+TS3009b.C.dialog-act.s9553330.79	Meanwhile , this is a schematic uh um view of uh how a basic remote control works . 	
+TS3009b.C.dialog-act.s9553330.80	You have uh basically uh the energy , the power of the of the remote control , 	
+TS3009b.C.dialog-act.s9553330.81	uh and the sender , w which is the LED , 	
+TS3009b.C.dialog-act.s9553330.82	the the the the the the the the the bulb that sends the the infrared beam to the , no , to the set . 	
+TS3009b.D.dialog-act.s9553330.132	Yeah . 	
+TS3009b.D.dialog-act.s9553330.133	Alright . 	
+TS3009b.C.dialog-act.s9553330.83	And uh the source is of course the user . 	
+TS3009b.C.dialog-act.s9553330.84	Uh the user interface is um uh the the the buttons of course . 	
+TS3009b.B.dialog-act.s9553330.44		
+TS3009b.C.dialog-act.s9553330.85	And the the user interface sends uh the the different signals of the different buttons to the chip , 	
+TS3009b.C.dialog-act.s9553330.86	and the chip uh sends it to the LED , 	
+TS3009b.C.dialog-act.s9553330.87	and the LED sends it to the receiver . 	
+TS3009b.C.dialog-act.s9553330.88	That's the that's the basic idea . 	
+TS3009b.A.dialog-act.s9553330.147	Yep . 	
+TS3009b.C.dialog-act.s9553330.89	Very basic . 	
+TS3009b.D.dialog-act.s9553330.130		
+TS3009b.C.dialog-act.s9553330.90	Um well I have uh uh put it in a in in in a a couple of basic steps . 	
+TS3009b.A.dialog-act.s9553330.148		
+TS3009b.C.dialog-act.s9553330.91	Uh the remote uh is basically just waiting for a user to press a key . 	
+TS3009b.C.dialog-act.s9553330.92	It does nothing until uh of course uh the key is pressed . 	
+TS3009b.C.dialog-act.s9553330.93	The key a signal to a chip , 	
+TS3009b.C.dialog-act.s9553330.94	uh the chip senses the connection . uh and recognise the key . 	
+TS3009b.C.dialog-act.s9553330.95	So well you understand . 	
+TS3009b.A.dialog-act.s9553330.144		
+TS3009b.C.dialog-act.s9553330.96	The chip uh produces Morse code , um a specific code to indicate that specific button that is pressed , of course . 	
+TS3009b.C.dialog-act.s9553330.97	And it uses transistors in the in the remote control to amplify and to send uh that signal again to the to the LED , which is the bulb , of course . 	
+TS3009b.A.dialog-act.s9553330.145		
+TS3009b.C.dialog-act.s9553330.98	Now the LED produces an infrared beam and signals the , well it's uh very simple , and signals the uh signals to the sensor on the T_V_ set , 	
+TS3009b.A.dialog-act.s9553330.149	Yeah . 	
+TS3009b.D.dialog-act.s9553330.131		
+TS3009b.C.dialog-act.s9553330.99	and the T_V_ set uh also recognises the the the signal , and performs the assigned task . 	
+TS3009b.A.dialog-act.s9553330.150	So it is also why we have to have a button that says uh I'm now busy with a D_V_D_ uh if we had done that . 	
+TS3009b.A.dialog-act.s9553330.151	And a button for T_V_ . So 	
+TS3009b.C.dialog-act.s9553330.100	Ah bu Yeah , but we don't . 	
+TS3009b.C.dialog-act.s9553330.101	Uh we 	
+TS3009b.B.dialog-act.s9553330.45		
+TS3009b.C.dialog-act.s9553330.102	No no , but Yeah . 	
+TS3009b.C.dialog-act.s9553330.103	Exactly . 	
+TS3009b.C.dialog-act.s9553330.104	Uh well this is uh the basic uh function of a remote . 	
+TS3009b.A.dialog-act.s9553330.146		
+TS3009b.C.dialog-act.s9553330.105	I've some couple of pictures here . 	
+TS3009b.C.dialog-act.s9553330.106	It's a very basic one . 	
+TS3009b.C.dialog-act.s9553330.107	And uh if we if we're going to add an uh an uh L_C_D_ screen to it , it uh won't look anything like this , but 	
+TS3009b.C.dialog-act.s9553330.108	This is very basic uh basically the the shape of um of a remote control . 	
+TS3009b.C.dialog-act.s9553330.109	It has uh very little buttons and 	
+TS3009b.B.dialog-act.s9553330.47		
+TS3009b.C.dialog-act.s9553330.110	But it it uh it's it's quite um 	
+TS3009b.C.dialog-act.s9553330.111	Yeah , you can easily recognise the buttons . 	
+TS3009b.C.dialog-act.s9553330.112	They're uh far enough apart and an anything . 	
+TS3009b.C.dialog-act.s9553330.113	It's not very um uh not very high-tech uh 	
+TS3009b.B.dialog-act.s9553330.48	High tech . 	
+TS3009b.C.dialog-act.s9553330.114	indeed , 	
+TS3009b.C.dialog-act.s9553330.115	and it's not very user-friendly . 	
+TS3009b.C.dialog-act.s9553330.116	Uh if you look at the shape , it's uh just a simple long box uh shape . 	
+TS3009b.C.dialog-act.s9553330.117	So we have to uh change a little bit uh to that , 	
+TS3009b.C.dialog-act.s9553330.118	uh so that uh it becomes more user-friendly , 	
+TS3009b.C.dialog-act.s9553330.119	and that uh problems like uh R_S_I_ and uh those kinds of thing don't don't oc don't occur . 	
+TS3009b.D.dialog-act.s9553330.134	Right . 	
+TS3009b.D.dialog-act.s9553330.135	Can I say something ? 	
+TS3009b.C.dialog-act.s9553330.120	Yeah . 	
+TS3009b.D.dialog-act.s9553330.136	Um I have a table here about uh the l the relevance of the buttons . 	
+TS3009b.D.dialog-act.s9553330.137	Uh the power button is used very much , channel selection , volume and teletext . 	
+TS3009b.D.dialog-act.s9553330.138	Well teletext is not an option , so that uh 	
+TS3009b.C.dialog-act.s9553330.121	Mm-hmm . 	
+TS3009b.D.dialog-act.s9553330.139	But I think it's very important to make um the power , channel and volume buttons uh near to the thumb , so you can't have R_S_I_ uh consequences . 	
+TS3009b.C.dialog-act.s9553330.122	Yeah , 	
+TS3009b.C.dialog-act.s9553330.123	because they are the the most important buttons 	
+TS3009b.D.dialog-act.s9553330.140	Right . 	
+TS3009b.C.dialog-act.s9553330.124	and you can immediately 	
+TS3009b.D.dialog-act.s9553330.141	Make them big , 	
+TS3009b.D.dialog-act.s9553330.142	make them easy to uh to press . 	
+TS3009b.A.dialog-act.s9553330.152	Well but but 	
+TS3009b.C.dialog-act.s9553330.125	You don't have to look and and search for them . 	
+TS3009b.B.dialog-act.s9553330.49	You can also like 	
+TS3009b.A.dialog-act.s9553330.153	if you have um the most used buttons all in one place , and you keep making the same um well moves . 	
+TS3009b.D.dialog-act.s9553330.143	Right . 	
+TS3009b.D.dialog-act.s9553330.144	Yeah , right . Right . 	
+TS3009b.B.dialog-act.s9553330.50	Yeah , I was thinking you can 	
+TS3009b.A.dialog-act.s9553330.154	But if y if you would put it at a different place , then you have to move your hands , 	
+TS3009b.B.dialog-act.s9553330.51		
+TS3009b.A.dialog-act.s9553330.155	and that's on of the things about R_S_I_ . 	
+TS3009b.D.dialog-act.s9553330.145	Yeah , that's right . 	
+TS3009b.B.dialog-act.s9553330.52	Are some of the the the um 	
+TS3009b.D.dialog-act.s9553330.146	That's right . That's right . 	
+TS3009b.C.dialog-act.s9553330.126	Well you you can't have any uh every button under the thumb , of course . 	
+TS3009b.D.dialog-act.s9553330.147	We 	
+TS3009b.A.dialog-act.s9553330.156	No 	
+TS3009b.A.dialog-act.s9553330.157	but the most important buttons m maybe you can just put them a bit apart so you would reject R_ R_S_I_ R_S_I_ . 	
+TS3009b.D.dialog-act.s9553330.148	But 	
+TS3009b.D.dialog-act.s9553330.151	Yeah . 	
+TS3009b.D.dialog-act.s9553330.150	That's very important . 	
+TS3009b.D.dialog-act.s9553330.149	And 	
+TS3009b.B.dialog-act.s9553330.53	Maybe you can make , for for channel changing , two little buttons on the side of the remote , so you can just do like this . 	
+TS3009b.B.dialog-act.s9553330.54	Like some uh little uh Gameboy things or some 	
+TS3009b.A.dialog-act.s9553330.158	Yes 	
+TS3009b.A.dialog-act.s9553330.159	I've saw that on m on mi mobile telephones they also have uh those buttons . 	
+TS3009b.D.dialog-act.s9553330.152	But is that is that useable ? 	
+TS3009b.B.dialog-act.s9553330.55	Hmm ? 	
+TS3009b.D.dialog-act.s9553330.153	Do people , uh when they pick up a remote , know that they have to do that ? 	
+TS3009b.A.dialog-act.s9553330.160		
+TS3009b.D.dialog-act.s9553330.154	It's a f it's a new feature , 	
+TS3009b.B.dialog-act.s9553330.56	Well 	
+TS3009b.A.dialog-act.s9553330.161	Well it it's 	
+TS3009b.D.dialog-act.s9553330.155	you can make make a double feature l like a button on the top and under it . 	
+TS3009b.C.dialog-act.s9553330.127	Yeah . 	
+TS3009b.B.dialog-act.s9553330.57	Yeah alright , but 	
+TS3009b.B.dialog-act.s9553330.58	Yeah , 	
+TS3009b.A.dialog-act.s9553330.162	Well also i if someone puts picks up his uh remote 	
+TS3009b.B.dialog-act.s9553330.59	but if you s say them up and down , they they'll understand it , I think . 	
+TS3009b.A.dialog-act.s9553330.163	Yeah . If someone puts up i uh picks up his remote , and he picks up it he he touches the side then he's a already on the next channel . 	
+TS3009b.B.dialog-act.s9553330.60	Eighty per cent would . 	
+TS3009b.C.dialog-act.s9553330.128	Well , . 	
+TS3009b.D.dialog-act.s9553330.156	Yeah , he feels it immediately . 	
+TS3009b.B.dialog-act.s9553330.61	Yeah that's true . 	
+TS3009b.A.dialog-act.s9553330.164	That's very irritating , I think . 	
+TS3009b.D.dialog-act.s9553330.157	Yeah , that's right . Yeah . 	
+TS3009b.B.dialog-act.s9553330.62	Yeah but 	
+TS3009b.D.dialog-act.s9553330.158	Right , continue . 	
+TS3009b.D.dialog-act.s9553330.159	Sorry . 	
+TS3009b.C.dialog-act.s9553330.129	But in e in any case the the basic function should be uh indeed , and as you say at the thumb . 	
+TS3009b.C.dialog-act.s9553330.130	I think that's a good idea , 	
+TS3009b.C.dialog-act.s9553330.131	and uh and that the less important uh buttons , like the the the different channels , uh the numbers one two three four five as well , should be uh yeah well not in reach , 	
+TS3009b.C.dialog-act.s9553330.132	because uh they don't use it uh all the time . 	
+TS3009b.C.dialog-act.s9553330.133	Well it's uh pretty pretty basically uh as you said . 	
+TS3009b.A.dialog-act.s9553330.165	Yep . 	
+TS3009b.C.dialog-act.s9553330.134	And I have some pictures of the inside workings , 	
+TS3009b.C.dialog-act.s9553330.135	but uh I don't want to get too technical , 	
+TS3009b.C.dialog-act.s9553330.136	because uh that's not uh very uh useful for you . 	
+TS3009b.A.dialog-act.s9553330.167	Mm-hmm . 	
+TS3009b.D.dialog-act.s9553330.160	Yeah , that's right . 	
+TS3009b.A.dialog-act.s9553330.166	That's your part of the job . 	
+TS3009b.C.dialog-act.s9553330.137	So yeah exactly 	
+TS3009b.C.dialog-act.s9553330.138	this is uh how it uh looks from the inside . 	
+TS3009b.A.dialog-act.s9553330.168	Yep . 	
+TS3009b.C.dialog-act.s9553330.139	And uh well that's about it I think . 	
+TS3009b.C.dialog-act.s9553330.140	Oh yeah , I still have this . 	
+TS3009b.C.dialog-act.s9553330.141	Oh I had to delete this , 	
+TS3009b.C.dialog-act.s9553330.142	but I had to make a schematic uh of the of the new 	
+TS3009b.D.dialog-act.s9553330.162	Alright . 	
+TS3009b.A.dialog-act.s9553330.169	Okay . 	
+TS3009b.D.dialog-act.s9553330.161		
+TS3009b.C.dialog-act.s9553330.143	But I had too too little time , 	
+TS3009b.C.dialog-act.s9553330.144	but uh don't uh don't look at it please . 	
+TS3009b.B.dialog-act.s9553330.63		
+TS3009b.A.dialog-act.s9553330.170	Well we understand . 	
+TS3009b.D.dialog-act.s9553330.163	Alright . 	
+TS3009b.C.dialog-act.s9553330.145	I I think it's it's clear uh how it works . 	
+TS3009b.A.dialog-act.s9553330.171	We understand . 	
+TS3009b.D.dialog-act.s9553330.164	Yeah , it's clear . 	
+TS3009b.C.dialog-act.s9553330.146	Alright . 	
+TS3009b.A.dialog-act.s9553330.172	Oh right , no . 	
+TS3009b.C.dialog-act.s9553330.147	That's the most important thing . 	
+TS3009b.A.dialog-act.s9553330.173	Nice . 	
+TS3009b.C.dialog-act.s9553330.148	Alright . Uh 	
+TS3009b.A.dialog-act.s9553330.174	Then uh Mike can uh give the third presentation . 	
+TS3009b.A.dialog-act.s9553330.175	How late is did we start his presentation uh ? 	
+TS3009b.C.dialog-act.s9553330.149	Right . 	
+TS3009b.D.dialog-act.s9553330.165	I dunno . 	
+TS3009b.D.dialog-act.s9553330.166	I think uh w About twenty minutes ago ? 	
+TS3009b.A.dialog-act.s9553330.178	Wha 	
+TS3009b.A.dialog-act.s9553330.179	Yeah . 	
+TS3009b.A.dialog-act.s9553330.180	Well then we have still the time , so 	
+TS3009b.D.dialog-act.s9553330.167	Losing time losing time . 	
+TS3009b.A.dialog-act.s9553330.182	But we do have to come to a decision , right later on . 	
+TS3009b.D.dialog-act.s9553330.168	Yeah right . 	
+TS3009b.D.dialog-act.s9553330.169	So 	
+TS3009b.A.dialog-act.s9553330.181	So 	
+TS3009b.B.dialog-act.s9553330.64	Mm . 	
+TS3009b.A.dialog-act.s9553330.183		
+TS3009b.B.dialog-act.s9553330.65	Well I thought um everybody on the website uh would see the same thing , 	
+TS3009b.B.dialog-act.s9553330.66	but obviously that's not the case . 	
+TS3009b.D.dialog-act.s9553330.170	I don't think so . 	
+TS3009b.C.dialog-act.s9553330.150	Yeah , 	
+TS3009b.C.dialog-act.s9553330.151	uh there are different uh We have all have different home pages , with different links . 	
+TS3009b.A.dialog-act.s9553330.184	Oh yeah ? 	
+TS3009b.B.dialog-act.s9553330.67	Yeah . 	
+TS3009b.C.dialog-act.s9553330.152	Yeah . 	
+TS3009b.D.dialog-act.s9553330.171	Yeah right . 	
+TS3009b.A.dialog-act.s9553330.185	Uh ? 	
+TS3009b.B.dialog-act.s9553330.68	For instance you couldn't see this . 	
+TS3009b.A.dialog-act.s9553330.186	Okay , yeah well . 	
+TS3009b.B.dialog-act.s9553330.70	Um 	
+TS3009b.B.dialog-act.s9553330.69	Yeah . Well I'm Mike , User Interface Designer . 	
+TS3009b.A.dialog-act.s9553330.187	Mm-hmm . 	
+TS3009b.B.dialog-act.s9553330.71	The the method ? 	
+TS3009b.B.dialog-act.s9553330.72	Well I used my own experience with remotes , 	
+TS3009b.B.dialog-act.s9553330.73	took a good l look uh at the remotes on the corporate website , which are these two . 	
+TS3009b.A.dialog-act.s9553330.188	Yeah . 	
+TS3009b.B.dialog-act.s9553330.74	Um 	
+TS3009b.D.dialog-act.s9553330.172	These are already in use ? 	
+TS3009b.B.dialog-act.s9553330.75	Yes , 	
+TS3009b.B.dialog-act.s9553330.76	these are from from another uh manufacturer . 	
+TS3009b.D.dialog-act.s9553330.173	Alright , okay . 	
+TS3009b.B.dialog-act.s9553330.77	Um This one is engineering-centred , 	
+TS3009b.B.dialog-act.s9553330.78	so this one has the most functions and um things . 	
+TS3009b.A.dialog-act.s9553330.189	Yeah . 	
+TS3009b.C.dialog-act.s9553330.153	Mm-hmm . 	
+TS3009b.B.dialog-act.s9553330.79	Um 	
+TS3009b.D.dialog-act.s9553330.174	Well 	
+TS3009b.A.dialog-act.s9553330.190	I like user-centred . 	
+TS3009b.D.dialog-act.s9553330.175	Yeah , me too . 	
+TS3009b.B.dialog-act.s9553330.80	I like user-centr centred uh uh also the best . 	
+TS3009b.A.dialog-act.s9553330.191	Yeah . 	
+TS3009b.A.dialog-act.s9553330.192	We also do that . 	
+TS3009b.B.dialog-act.s9553330.81	Um 	
+TS3009b.B.dialog-act.s9553330.82	Well , I thought uh that we uh reduce the the option to control the D_V_D_ also , and teletext and that kind of stuff . 	
+TS3009b.D.dialog-act.s9553330.176	Mm . 	
+TS3009b.B.dialog-act.s9553330.83	Uh so I thought we we we would use more or need more buttons than this one . 	
+TS3009b.D.dialog-act.s9553330.177	But we have to reject that , because of the requirements ? 	
+TS3009b.B.dialog-act.s9553330.84	But 	
+TS3009b.B.dialog-act.s9553330.85	Yes . 	
+TS3009b.A.dialog-act.s9553330.193	Yeah . 	
+TS3009b.B.dialog-act.s9553330.86	Th that's why this mm is not relevant any more I feel . 	
+TS3009b.A.dialog-act.s9553330.194		
+TS3009b.D.dialog-act.s9553330.178	Alright . 	
+TS3009b.B.dialog-act.s9553330.87	Um 	
+TS3009b.B.dialog-act.s9553330.88	I think this is about the maximum number of buttons uh we'll need . 	
+TS3009b.B.dialog-act.s9553330.89	I um I kinda like the shape . 	
+TS3009b.D.dialog-act.s9553330.179	Yeah , right . 	
+TS3009b.B.dialog-act.s9553330.90	I think this is what we talked about . 	
+TS3009b.B.dialog-act.s9553330.91	But 	
+TS3009b.D.dialog-act.s9553330.180	Yeah . 	
+TS3009b.C.dialog-act.s9553330.154	You can't really see uh the differ from different sides . 	
+TS3009b.C.dialog-act.s9553330.155	But I think uh 	
+TS3009b.B.dialog-act.s9553330.92	No 	
+TS3009b.B.dialog-act.s9553330.93	I've Well I showed it somewhere . Um 	
+TS3009b.C.dialog-act.s9553330.156	Uh you can draw it if you Yeah . 	
+TS3009b.B.dialog-act.s9553330.94	Oh yeah . 	
+TS3009b.B.dialog-act.s9553330.95	I think we should go further with the idea of a removable front . 	
+TS3009b.B.dialog-act.s9553330.96	So we can can uh yeah customise the 	
+TS3009b.A.dialog-act.s9553330.195	Mm-hmm . 	
+TS3009b.A.dialog-act.s9553330.196	Well absolutely , 	
+TS3009b.A.dialog-act.s9553330.197	but i th they all have to have something about um the recognition from our company . 	
+TS3009b.A.dialog-act.s9553330.198	So we cannot just uh make someone w 	
+TS3009b.B.dialog-act.s9553330.97	Mm ? 	
+TS3009b.B.dialog-act.s9553330.98	Yeah . 	
+TS3009b.B.dialog-act.s9553330.99	It's a front . 	
+TS3009b.B.dialog-act.s9553330.100	It's not the the whole remote that changes , of course . 	
+TS3009b.A.dialog-act.s9553330.199	No 	
+TS3009b.A.dialog-act.s9553330.200	but that's th the side they look uh look at is the front . 	
+TS3009b.D.dialog-act.s9553330.181	But it 	
+TS3009b.B.dialog-act.s9553330.101	You can 	
+TS3009b.A.dialog-act.s9553330.201	So if y if you make a a front with just a a tiger on it , then uh our recognition is totally gone . 	
+TS3009b.B.dialog-act.s9553330.102	Mm . 	
+TS3009b.D.dialog-act.s9553330.182	Yeah , that's right 	
+TS3009b.B.dialog-act.s9553330.103	Or you can you can can put the same symbol on on every remote . 	
+TS3009b.D.dialog-act.s9553330.183	Yeah , that's a must . 	
+TS3009b.B.dialog-act.s9553330.104	So l like Ericsson does every uh 	
+TS3009b.D.dialog-act.s9553330.184	We must have that . 	
+TS3009b.A.dialog-act.s9553330.202	Yeah , we must . 	
+TS3009b.C.dialog-act.s9553330.157	We can put it on the on the back side . 	
+TS3009b.A.dialog-act.s9553330.203	Yeah well and and 	
+TS3009b.B.dialog-act.s9553330.105	S something like this . 	
+TS3009b.A.dialog-act.s9553330.204	Yes . 	
+TS3009b.B.dialog-act.s9553330.106	It's recognisable . 	
+TS3009b.A.dialog-act.s9553330.205	'Kay . 	
+TS3009b.D.dialog-act.s9553330.185	We can make a symbol of the company right here . 	
+TS3009b.B.dialog-act.s9553330.107	Um 	
+TS3009b.D.dialog-act.s9553330.186	And if you put a front on it , there's a hole on the front . So the symbol's always on 	
+TS3009b.B.dialog-act.s9553330.108	Yeah ? 	
+TS3009b.C.dialog-act.s9553330.158	Yeah , so that you don't replace the symbol , yeah . 	
+TS3009b.B.dialog-act.s9553330.109	Yeah yeah . Something like that , 	
+TS3009b.A.dialog-act.s9553330.206	Yeah yeah yeah . 	
+TS3009b.B.dialog-act.s9553330.110	in the Yeah . 	
+TS3009b.A.dialog-act.s9553330.207	Or the th the the lowest part of the remote isn't changed by the front . 	
+TS3009b.D.dialog-act.s9553330.187	Yeah . 	
+TS3009b.D.dialog-act.s9553330.188	Yeah , yeah . 	
+TS3009b.C.dialog-act.s9553330.159	Mm-hmm . 	
+TS3009b.D.dialog-act.s9553330.189	But let's not focus on the front . 	
+TS3009b.B.dialog-act.s9553330.111	Yeah . 	
+TS3009b.A.dialog-act.s9553330.208	Those kind of things . 	
+TS3009b.A.dialog-act.s9553330.209	Yes . Okay . 	
+TS3009b.B.dialog-act.s9553330.112	Um Well so uh uh like I said I thought we'd we'd use more function . If we we had to include more functions . 	
+TS3009b.B.dialog-act.s9553330.113	But we don't . 	
+TS3009b.B.dialog-act.s9553330.114	So um 	
+TS3009b.A.dialog-act.s9553330.210	Mm-hmm . 	
+TS3009b.B.dialog-act.s9553330.115	Yeah . 	
+TS3009b.D.dialog-act.s9553330.190	Alright . 	
+TS3009b.B.dialog-act.s9553330.116	I think this is about the maximum number of buttons we need . 	
+TS3009b.B.dialog-act.s9553330.117	Maybe some less . 	
+TS3009b.B.dialog-act.s9553330.118	Like eject we don't need , and some other buttons we don't need . 	
+TS3009b.B.dialog-act.s9553330.120	I think uh 	
+TS3009b.C.dialog-act.s9553330.160	Mike , uh can you put uh that picture from me on the in the Word documents file ? In Map ? 	
+TS3009b.B.dialog-act.s9553330.119	Yeah , I will . 	
+TS3009b.B.dialog-act.s9553330.121	I think uh for the remote um uh less is more . 	
+TS3009b.B.dialog-act.s9553330.122	The less buttons the better the design . Um 	
+TS3009b.A.dialog-act.s9553330.211	Yeah . 	
+TS3009b.D.dialog-act.s9553330.191	Yeah , I agree . 	
+TS3009b.B.dialog-act.s9553330.123	We should go with that concept I think . 	
+TS3009b.B.dialog-act.s9553330.124	I know . 	
+TS3009b.A.dialog-act.s9553330.212	Alright . 	
+TS3009b.D.dialog-act.s9553330.192	I've I've got another point . 	
+TS3009b.A.dialog-act.s9553330.213	Yeah ? 	
+TS3009b.D.dialog-act.s9553330.193	Um there are two target audi audiences , 	
+TS3009b.D.dialog-act.s9553330.194	and we've uh chose for the younger one . 	
+TS3009b.D.dialog-act.s9553330.195	Um , research has shown that um it's a high interested uh in features . 	
+TS3009b.B.dialog-act.s9553330.125	Mm . 	
+TS3009b.D.dialog-act.s9553330.196	They are high high interested in feature . 	
+TS3009b.D.dialog-act.s9553330.197	But they are more critical . 	
+TS3009b.D.dialog-act.s9553330.198	Fo 	
+TS3009b.D.dialog-act.s9553330.199	Yeah , critical . 	
+TS3009b.C.dialog-act.s9553330.161	The younger uh 	
+TS3009b.D.dialog-act.s9553330.200	So 	
+TS3009b.D.dialog-act.s9553330.201	The younger audience . 	
+TS3009b.C.dialog-act.s9553330.162	Mm-hmm . 	
+TS3009b.D.dialog-act.s9553330.202	So we must um must design uh a control that really speaks to the people . 	
+TS3009b.A.dialog-act.s9553330.214	Well what if we um 	
+TS3009b.A.dialog-act.s9553330.215	I at I at home have a remote that has um the most familiar uh buttons on the top , 	
+TS3009b.D.dialog-act.s9553330.203	Mm-hmm . 	
+TS3009b.A.dialog-act.s9553330.216	and the bottom side of the front has a little clip , 	
+TS3009b.A.dialog-act.s9553330.217	a f a little uh 	
+TS3009b.A.dialog-act.s9553330.218	You can click away and then you have f much more functions that most people don't use but s some do do . 	
+TS3009b.C.dialog-act.s9553330.163	Mm-hmm . 	
+TS3009b.C.dialog-act.s9553330.164	I think uh the most functions uh underneath that uh 	
+TS3009b.D.dialog-act.s9553330.204	Clip aren't used much . 	
+TS3009b.C.dialog-act.s9553330.165	uh 	
+TS3009b.C.dialog-act.s9553330.166	No 	
+TS3009b.C.dialog-act.s9553330.168	um mm usually 	
+TS3009b.A.dialog-act.s9553330.219	Well but because you say they their features are important , they want m um a lot , 	
+TS3009b.D.dialog-act.s9553330.205	Yeah right . 	
+TS3009b.C.dialog-act.s9553330.169	But 	
+TS3009b.A.dialog-act.s9553330.220	but not 	
+TS3009b.B.dialog-act.s9553330.126	Yeah , 	
+TS3009b.B.dialog-act.s9553330.127	but what kind of features ? 	
+TS3009b.C.dialog-act.s9553330.170	Yeah I think m most 	
+TS3009b.B.dialog-act.s9553330.129	Like L_C_D_ screens and voice recognition . 	
+TS3009b.D.dialog-act.s9553330.206	Yeah but Yeah . 	
+TS3009b.B.dialog-act.s9553330.128	But I've 	
+TS3009b.C.dialog-act.s9553330.171	Most uh 	
+TS3009b.D.dialog-act.s9553330.207	Here , look at these numbers . 	
+TS3009b.D.dialog-act.s9553330.208	The newest features are , like I said , are uh L_C_D_ and uh speech uh control . 	
+TS3009b.D.dialog-act.s9553330.209	Our audience , these people , are very like these uh features . 	
+TS3009b.A.dialog-act.s9553330.221	Yeah . 	
+TS3009b.C.dialog-act.s9553330.172	Mm-hmm . Uh . 	
+TS3009b.D.dialog-act.s9553330.210	You see ? 	
+TS3009b.D.dialog-act.s9553330.211	So we must build in something , or they will to uh go to the concurrent . 	
+TS3009b.A.dialog-act.s9553330.222	Competitors . 	
+TS3009b.C.dialog-act.s9553330.173	Yeah . Our competitor . Yeah . 	
+TS3009b.B.dialog-act.s9553330.130		
+TS3009b.D.dialog-act.s9553330.212	The concurrent ? 	
+TS3009b.D.dialog-act.s9553330.213	Competitors , right . 	
+TS3009b.A.dialog-act.s9553330.223		
+TS3009b.D.dialog-act.s9553330.214	So , I do think we have to uh have some features . 	
+TS3009b.A.dialog-act.s9553330.224	Yeah . 	
+TS3009b.D.dialog-act.s9553330.215	Even though they cost a little more . 	
+TS3009b.A.dialog-act.s9553330.225	Well maybe w we could uh s 	
+TS3009b.A.dialog-act.s9553330.226	On um some uh calculators you have lo those little little L_C_D_ th that you can click on or something , 	
+TS3009b.D.dialog-act.s9553330.216	Right . Right . 	
+TS3009b.A.dialog-act.s9553330.227	or that you can click uh out uh of the remote . 	
+TS3009b.A.dialog-act.s9553330.228	And if if that's gives you a little bit of sta status information . 	
+TS3009b.D.dialog-act.s9553330.217	Like a ticker-tape . 	
+TS3009b.A.dialog-act.s9553330.229	Yeah . 	
+TS3009b.D.dialog-act.s9553330.219	Which programme you are l watching or something . 	
+TS3009b.B.dialog-act.s9553330.131	Yeah , that's nice . 	
+TS3009b.A.dialog-act.s9553330.230	Those kind of things , 	
+TS3009b.A.dialog-act.s9553330.231	uh because you also have those uh those program recognition for your V_ V_C_R_s . 	
+TS3009b.A.dialog-act.s9553330.233	And uh well if y if your remote picks that up also , you they can display which programme you're currently watching . 	
+TS3009b.D.dialog-act.s9553330.220	Yeah , right . Yeah right . 	
+TS3009b.C.dialog-act.s9553330.174	Yeah . 	
+TS3009b.C.dialog-act.s9553330.175	Yeah . 	
+TS3009b.C.dialog-act.s9553330.176	So it it just signals the the different uh sig uh the different symbols on the screen you have , 	
+TS3009b.A.dialog-act.s9553330.234	Yeah . 	
+TS3009b.C.dialog-act.s9553330.177	uh because if you change to s channel two you have two on the screen and two on your on your um on your L_C_D_ screen . 	
+TS3009b.A.dialog-act.s9553330.235	For example . 	
+TS3009b.A.dialog-act.s9553330.236	It it could be such a little uh th that you can click in and out and you and you have it . 	
+TS3009b.B.dialog-act.s9553330.133	Yeah , 	
+TS3009b.B.dialog-act.s9553330.134	we should keep that simple too . 	
+TS3009b.C.dialog-act.s9553330.178	But should it uh really be uh clickable , uh 	
+TS3009b.B.dialog-act.s9553330.132	It will 	
+TS3009b.A.dialog-act.s9553330.237	Yeah . 	
+TS3009b.D.dialog-act.s9553330.221	No not clickable . 	
+TS3009b.A.dialog-act.s9553330.238	Well maybe . 	
+TS3009b.B.dialog-act.s9553330.135	No , 	
+TS3009b.B.dialog-act.s9553330.136	it should be uh integrated . 	
+TS3009b.D.dialog-act.s9553330.222	Nah , no no no . 	
+TS3009b.C.dialog-act.s9553330.179	or or just integrate inside to try to make it d more trendy . 	
+TS3009b.B.dialog-act.s9553330.137	I think 	
+TS3009b.D.dialog-act.s9553330.223	Yeah , 	
+TS3009b.D.dialog-act.s9553330.224	just at at the top . 	
+TS3009b.D.dialog-act.s9553330.225	So when you s you sit like this you can can watch . 	
+TS3009b.D.dialog-act.s9553330.226	I think it should be at the top . 	
+TS3009b.A.dialog-act.s9553330.239	Yeah . Yeah . 	
+TS3009b.B.dialog-act.s9553330.138	Yeah , 	
+TS3009b.B.dialog-act.s9553330.139	something like on um some radios in car . 	
+TS3009b.B.dialog-act.s9553330.140	You 	
+TS3009b.B.dialog-act.s9553330.141	Where it's , yeah , walking to Yeah . 	
+TS3009b.D.dialog-act.s9553330.227	Yeah right . It's a ticker-tape idea . 	
+TS3009b.A.dialog-act.s9553330.240	R_D_S_s or something . 	
+TS3009b.C.dialog-act.s9553330.180	But that's of course uh a bit more uh expensive than uh the basic uh calculator design , with the scrolling text and that kind of thing . 	
+TS3009b.B.dialog-act.s9553330.143	Wa Yeah . 	
+TS3009b.D.dialog-act.s9553330.228	Well it's just one script . 	
+TS3009b.A.dialog-act.s9553330.242	Well I think it's you got It just means it's a script that's uh keeps it uh rolling , 	
+TS3009b.A.dialog-act.s9553330.243	and it's not uh That's five minutes off uh implementing time I think uh 	
+TS3009b.D.dialog-act.s9553330.229	Yeah , five minutes of ja ja for programming . 	
+TS3009b.B.dialog-act.s9553330.142		
+TS3009b.A.dialog-act.s9553330.244	Yeah . 	
+TS3009b.D.dialog-act.s9553330.230	So I don't think that's the issue . 	
+TS3009b.A.dialog-act.s9553330.245	No . 	
+TS3009b.C.dialog-act.s9553330.181	Alright . 	
+TS3009b.D.dialog-act.s9553330.231	Alright , we go with the L_C_D_ screen ? 	
+TS3009b.A.dialog-act.s9553330.246	Uh well I think so , yes . Um 	
+TS3009b.B.dialog-act.s9553330.144	Yeah well we we we still need to know how much that will cost . 	
+TS3009b.D.dialog-act.s9553330.232	'Kay . 	
+TS3009b.D.dialog-act.s9553330.233	Right , 	
+TS3009b.D.dialog-act.s9553330.234	I don't know if I can find that , but 	
+TS3009b.A.dialog-act.s9553330.247	We're g 	
+TS3009b.A.dialog-act.s9553330.248	No but we're we'll have to look into that . 	
+TS3009b.B.dialog-act.s9553330.145	Or maybe you will get that information uh 	
+TS3009b.D.dialog-act.s9553330.235	Next time . 	
+TS3009b.A.dialog-act.s9553330.249	Um we can use this board again , I think . 	
+TS3009b.D.dialog-act.s9553330.236	Yeah right . 	
+TS3009b.B.dialog-act.s9553330.146	Yeah . 	
+TS3009b.A.dialog-act.s9553330.250	Uh we can put some um decisions about um the controls we want , th the issue . 	
+TS3009b.A.dialog-act.s9553330.251	Where is my presentation ? Uh 	
+TS3009b.D.dialog-act.s9553330.237	Yeah , I understand what you're saying . 	
+TS3009b.A.dialog-act.s9553330.241		
+TS3009b.A.dialog-act.s9553330.252	Uh 	
+TS3009b.D.dialog-act.s9553330.238	We should have a general idea of how it's gonna look . 	
+TS3009b.A.dialog-act.s9553330.253	Well 	
+TS3009b.A.dialog-act.s9553330.254	I mean we're all here now , I think . 	
+TS3009b.A.dialog-act.s9553330.255	These I've already given you . 	
+TS3009b.A.dialog-act.s9553330.256	So we have to decide on the different remote control functions . 	
+TS3009b.D.dialog-act.s9553330.239	Right . 	
+TS3009b.A.dialog-act.s9553330.257	So we want to have a small L_C_D_ screen that's special . 	
+TS3009b.D.dialog-act.s9553330.240	At the top . 	
+TS3009b.C.dialog-act.s9553330.182	Shouldn't we start with the most important parts ? 	
+TS3009b.B.dialog-act.s9553330.147	At the top or at the bottom ? 	
+TS3009b.A.dialog-act.s9553330.258	Yes . 	
+TS3009b.C.dialog-act.s9553330.183	The L_C_D_ screen alright 	
+TS3009b.D.dialog-act.s9553330.241	I think the top is more uh 	
+TS3009b.C.dialog-act.s9553330.184	but we should start with the power button ? 	
+TS3009b.C.dialog-act.s9553330.185	Uh 	
+TS3009b.A.dialog-act.s9553330.259	Yeah . 	
+TS3009b.D.dialog-act.s9553330.242	When you s How do you zap ? 	
+TS3009b.B.dialog-act.s9553330.148	Yeah but 	
+TS3009b.A.dialog-act.s9553330.260		
+TS3009b.D.dialog-act.s9553330.243	You just sit in your chair ? 	
+TS3009b.A.dialog-act.s9553330.261		
+TS3009b.C.dialog-act.s9553330.186	Huh ? 	
+TS3009b.D.dialog-act.s9553330.244	With the remote ? 	
+TS3009b.B.dialog-act.s9553330.149	Yeah but with with the L_C_D_ screen on the top it gets a bit unnatural . 	
+TS3009b.A.dialog-act.s9553330.262	That thing is terrible . 	
+TS3009b.B.dialog-act.s9553330.150	'Cause most remotes have some space left at the bottom . 	
+TS3009b.D.dialog-act.s9553330.245	Yeah but that's where your hand ball might be . 	
+TS3009b.A.dialog-act.s9553330.263	Uh 	
+TS3009b.D.dialog-act.s9553330.246	Yeah , I dunno . 	
+TS3009b.B.dialog-act.s9553330.151	Yeah , no Mm . 	
+TS3009b.C.dialog-act.s9553330.187	And then uh 	
+TS3009b.D.dialog-act.s9553330.247	We'll draw two , 	
+TS3009b.D.dialog-act.s9553330.248	and then we'll see uh 	
+TS3009b.C.dialog-act.s9553330.188	Maybe we should uh centralise the discussion here . 	
+TS3009b.C.dialog-act.s9553330.189	I dunno what uh you were talking about but 	
+TS3009b.D.dialog-act.s9553330.249	No 	
+TS3009b.D.dialog-act.s9553330.250	Um he thinks 	
+TS3009b.C.dialog-act.s9553330.190	we are busy with something . 	
+TS3009b.D.dialog-act.s9553330.251	Yeah , right . 	
+TS3009b.D.dialog-act.s9553330.252	He thinks it's better to put the L_C_D_ at the bottom , 	
+TS3009b.D.dialog-act.s9553330.253	and I think it's better at the top . 	
+TS3009b.C.dialog-act.s9553330.191	Uh-huh . 	
+TS3009b.C.dialog-act.s9553330.192	Why do you think it's better at the bottom ? 	
+TS3009b.A.dialog-act.s9553330.264	Well 	
+TS3009b.B.dialog-act.s9553330.152	Uh well because most uh remotes have um some space left at the bottom , 	
+TS3009b.B.dialog-act.s9553330.153	and that way you can keep the shape recognisable for everybody . 	
+TS3009b.D.dialog-act.s9553330.254	But your 	
+TS3009b.C.dialog-act.s9553330.193	But you just can put uh the the the the the whole interface a bit down , 	
+TS3009b.B.dialog-act.s9553330.154	I c 	
+TS3009b.C.dialog-act.s9553330.194	so that there's room for the for the interface . 	
+TS3009b.D.dialog-act.s9553330.255	Yeah . 	
+TS3009b.B.dialog-act.s9553330.155	Well I d I think that's that's ugly but 	
+TS3009b.D.dialog-act.s9553330.256	The the ticker The L_C_D_ is like like small . 	
+TS3009b.D.dialog-act.s9553330.257	It's it's wide . 	
+TS3009b.D.dialog-act.s9553330.258	It's not not high . But 	
+TS3009b.C.dialog-act.s9553330.195	Uh-huh . 	
+TS3009b.B.dialog-act.s9553330.156	I th 	
+TS3009b.A.dialog-act.s9553330.265	Well I th I think Mike Mike has a point , 	
+TS3009b.C.dialog-act.s9553330.196	And and we can 	
+TS3009b.A.dialog-act.s9553330.266	because um when when uh when I use a remote I l I hate the buttons but buttons at the at the bottom . 	
+TS3009b.B.dialog-act.s9553330.157	Yeah . 	
+TS3009b.B.dialog-act.s9553330.159	Power button always 	
+TS3009b.B.dialog-act.s9553330.158	Yeah . 	
+TS3009b.C.dialog-act.s9553330.197	Bottom . 	
+TS3009b.B.dialog-act.s9553330.160	Yeah . 	
+TS3009b.A.dialog-act.s9553330.267	So and and I I like to use the ones on the top . 	
+TS3009b.B.dialog-act.s9553330.161	Yeah , y you gotta zap like this 	
+TS3009b.B.dialog-act.s9553330.162	or you want to Yeah . 	
+TS3009b.A.dialog-act.s9553330.268	So when I u when I have to have an L_C_D_ s scr window 	
+TS3009b.D.dialog-act.s9553330.259	Yeah right . 	
+TS3009b.D.dialog-act.s9553330.260	But We're making a remote with with a few functions you know . 	
+TS3009b.C.dialog-act.s9553330.198	Well that's a bit exaggerated . 	
+TS3009b.C.dialog-act.s9553330.199	Well , I agree with you . 	
+TS3009b.C.dialog-act.s9553330.200	It's it's also more recognisable . 	
+TS3009b.D.dialog-act.s9553330.261	We 	
+TS3009b.C.dialog-act.s9553330.201	It looks more like a calculator to people , if you have the l the the the thing on top . 	
+TS3009b.D.dialog-act.s9553330.262		
+TS3009b.A.dialog-act.s9553330.269	Yes 	
+TS3009b.A.dialog-act.s9553330.270	but we we we we don't want that . 	
+TS3009b.B.dialog-act.s9553330.163	Yeah you don't want 	
+TS3009b.A.dialog-act.s9553330.271	We don't want them to look like a calculator . 	
+TS3009b.B.dialog-act.s9553330.164	You want uh Yeah it it it must be a remote . 	
+TS3009b.A.dialog-act.s9553330.272	We want to look it like our original but familiar 	
+TS3009b.C.dialog-act.s9553330.202	Yeah w well , 	
+TS3009b.C.dialog-act.s9553330.203	but uh you don't have to throw uh um important aspe important aspect like familiarity uh completely away , 	
+TS3009b.B.dialog-act.s9553330.165	Yeah . 	
+TS3009b.D.dialog-act.s9553330.263	High-tech . 	
+TS3009b.A.dialog-act.s9553330.273	Yea 	
+TS3009b.C.dialog-act.s9553330.204	uh because I think it's uh 	
+TS3009b.D.dialog-act.s9553330.264		
+TS3009b.A.dialog-act.s9553330.274	Maybe a bic uh better uh white uh We White ? 	
+TS3009b.C.dialog-act.s9553330.205	I think it's still important to have it at the top , 	
+TS3009b.D.dialog-act.s9553330.265	Width . 	
+TS3009b.A.dialog-act.s9553330.275	Width . 	
+TS3009b.A.dialog-act.s9553330.276	Uh format yeah format ? Line width ? Width ? 	
+TS3009b.C.dialog-act.s9553330.206	because it's uh it's more familiar that way . 	
+TS3009b.D.dialog-act.s9553330.266	Th that's not a problem . 	
+TS3009b.A.dialog-act.s9553330.277	Yeah ? 	
+TS3009b.D.dialog-act.s9553330.267	When I draw here it 	
+TS3009b.B.dialog-act.s9553330.166		
+TS3009b.D.dialog-act.s9553330.268	Oh . Huh ? 	
+TS3009b.A.dialog-act.s9553330.278	It's a bit off . 	
+TS3009b.D.dialog-act.s9553330.269	Yeah , it's off . 	
+TS3009b.C.dialog-act.s9553330.207	A little a little bit . 	
+TS3009b.A.dialog-act.s9553330.279	Well . 	
+TS3009b.D.dialog-act.s9553330.270	It it needs to be calibrated again . Well 	
+TS3009b.A.dialog-act.s9553330.280	Well uh let's uh talk about that later uh 	
+TS3009b.C.dialog-act.s9553330.208	Maybe you should another pen . 	
+TS3009b.B.dialog-act.s9553330.167		
+TS3009b.C.dialog-act.s9553330.209	Maybe that's uh better . 	
+TS3009b.C.dialog-act.s9553330.210	You e you only have one pen for that screen . Yeah . 	
+TS3009b.D.dialog-act.s9553330.271	Where ? 	
+TS3009b.D.dialog-act.s9553330.272	Alright , we have to make a decision now , 	
+TS3009b.A.dialog-act.s9553330.281	It's special pen . 	
+TS3009b.D.dialog-act.s9553330.273	because we don't have much time . Um 	
+TS3009b.A.dialog-act.s9553330.282	Yeah . 	
+TS3009b.A.dialog-act.s9553330.283	No . 	
+TS3009b.D.dialog-act.s9553330.274	I think we have uh a few functions , 	
+TS3009b.D.dialog-act.s9553330.275	and we can put uh the L_C_D_ above it , 	
+TS3009b.D.dialog-act.s9553330.276	and still have lots of room at the bottom , where you can put your hand . 	
+TS3009b.C.dialog-act.s9553330.211	Yeah . I I agree . 	
+TS3009b.A.dialog-act.s9553330.284	I think it should be at the button , bottom . 	
+TS3009b.C.dialog-act.s9553330.212	Well I'm the I I'm the designer , so um 	
+TS3009b.B.dialog-act.s9553330.168	At the bottom ? 	
+TS3009b.A.dialog-act.s9553330.285	Bottom . The L_C_D_ . 	
+TS3009b.B.dialog-act.s9553330.169	In a few minutes 	
+TS3009b.D.dialog-act.s9553330.279	At the bot 	
+TS3009b.B.dialog-act.s9553330.170	Oh yeah , oh yeah , I totally agree . Yeah . 	
+TS3009b.A.dialog-act.s9553330.286	Yeah . 	
+TS3009b.D.dialog-act.s9553330.277	So 	
+TS3009b.D.dialog-act.s9553330.278	We are two uh V_S_ two . 	
+TS3009b.B.dialog-act.s9553330.171		
+TS3009b.A.dialog-act.s9553330.287	Well but uh what what if we we first decide the different functions , 	
+TS3009b.B.dialog-act.s9553330.172	He's the boss . 	
+TS3009b.C.dialog-act.s9553330.213	Yeah . 	
+TS3009b.A.dialog-act.s9553330.288	and then look at the design . 	
+TS3009b.D.dialog-act.s9553330.280	Right . Great . 	
+TS3009b.C.dialog-act.s9553330.214	Uh we uh we were busy with that . 	
+TS3009b.A.dialog-act.s9553330.289	Because we have to decide this . 	
+TS3009b.C.dialog-act.s9553330.215	Uh yeah we should uh summon the the different uh aspects of the thing . 	
+TS3009b.A.dialog-act.s9553330.290	Yeah . 	
+TS3009b.C.dialog-act.s9553330.216	So , we have the power button . 	
+TS3009b.D.dialog-act.s9553330.281	And moreover I think that you two should be uh come to consensus about the L_C_D_ s . 	
+TS3009b.A.dialog-act.s9553330.291	Yes . 	
+TS3009b.D.dialog-act.s9553330.282	It's uh your it's your job . 	
+TS3009b.C.dialog-act.s9553330.217	Yeah of course . 	
+TS3009b.A.dialog-act.s9553330.292	Well we have a power button . 	
+TS3009b.C.dialog-act.s9553330.218	Uh it's uh . Yeah . W wh 	
+TS3009b.B.dialog-act.s9553330.173	No it's our job . 	
+TS3009b.A.dialog-act.s9553330.293	Guys ? 	
+TS3009b.C.dialog-act.s9553330.219	While you have to agree , I can say it's like this and you must agree . Yeah . 	
+TS3009b.B.dialog-act.s9553330.174	For all of us I think . 	
+TS3009b.D.dialog-act.s9553330.283	Yeah , right . 	
+TS3009b.A.dialog-act.s9553330.294	Guys ? 	
+TS3009b.D.dialog-act.s9553330.284	Alright , let's keep it central . 	
+TS3009b.A.dialog-act.s9553330.295	We have a power button , setting buttons , L_C_D_ window , the number buttons 	
+TS3009b.B.dialog-act.s9553330.175	The ten numbers ? Yeah ? 	
+TS3009b.C.dialog-act.s9553330.220	Channel , yeah . 	
+TS3009b.A.dialog-act.s9553330.296	Uh 	
+TS3009b.B.dialog-act.s9553330.176	Volume ? 	
+TS3009b.C.dialog-act.s9553330.221	Volume control . 	
+TS3009b.A.dialog-act.s9553330.297	Yes . 	
+TS3009b.C.dialog-act.s9553330.222	Um 	
+TS3009b.D.dialog-act.s9553330.285	Mm . 	
+TS3009b.A.dialog-act.s9553330.298	Uh the mute button . 	
+TS3009b.C.dialog-act.s9553330.223	Well let's look at your uh design . Uh 	
+TS3009b.A.dialog-act.s9553330.299	I h love that one . 	
+TS3009b.D.dialog-act.s9553330.286		
+TS3009b.C.dialog-act.s9553330.224	Uh-huh . 	
+TS3009b.B.dialog-act.s9553330.177	I think we we should use something like this um to um The the channel up and channel down button ? Yeah , in circle , you know ? 	
+TS3009b.A.dialog-act.s9553330.300	Yes . 	
+TS3009b.A.dialog-act.s9553330.301	Yeah . Yeah yeah yeah . 	
+TS3009b.A.dialog-act.s9553330.302	Well that's that's also design . 	
+TS3009b.B.dialog-act.s9553330.178	And and a volume control also in it . 	
+TS3009b.A.dialog-act.s9553330.303	Yes . 	
+TS3009b.D.dialog-act.s9553330.287	Right . 	
+TS3009b.A.dialog-act.s9553330.304	Um 	
+TS3009b.C.dialog-act.s9553330.225	Yeah . 	
+TS3009b.A.dialog-act.s9553330.305	Well h ho 	
+TS3009b.C.dialog-act.s9553330.226	But th th on this remote th these controls are for something else , a D_V_D_ player or something . So 	
+TS3009b.A.dialog-act.s9553330.306	Yes . Yes . 	
+TS3009b.B.dialog-act.s9553330.179	Yes , 	
+TS3009b.A.dialog-act.s9553330.307	They are for some uh video uh 	
+TS3009b.B.dialog-act.s9553330.180	as I already said , we could drop some of these buttons . 	
+TS3009b.D.dialog-act.s9553330.288	You should put that uh power button , channel and volume should have the most uh importance . 	
+TS3009b.B.dialog-act.s9553330.181	Yeah . 	
+TS3009b.B.dialog-act.s9553330.182	I think these should be in one big circle in the middle . 	
+TS3009b.D.dialog-act.s9553330.289	Yeah , but what he said about R_S_I_ was t kinda true . 	
+TS3009b.D.dialog-act.s9553330.290	When when you uh put them all in the same place , the most used buttons , you're doing the same thing all the time , 	
+TS3009b.A.dialog-act.s9553330.308		
+TS3009b.D.dialog-act.s9553330.291	and that's just what R_S_I_'s all about . 	
+TS3009b.D.dialog-act.s9553330.292	So it might be smarter to put them a little more away from each other . 	
+TS3009b.A.dialog-act.s9553330.309	Apart . 	
+TS3009b.A.dialog-act.s9553330.310	So people have to move their hand . 	
+TS3009b.A.dialog-act.s9553330.311	And they get less uh complaints of R_S_I_ . 	
+TS3009b.C.dialog-act.s9553330.228	Yeah , 	
+TS3009b.C.dialog-act.s9553330.229	it's it's also not good to completely stay in one position constantly with one hand . 	
+TS3009b.A.dialog-act.s9553330.313		
+TS3009b.C.dialog-act.s9553330.232	Y 	
+TS3009b.A.dialog-act.s9553330.312	That's what I always do , 	
+TS3009b.B.dialog-act.s9553330.183		
+TS3009b.A.dialog-act.s9553330.314	because all my i important buttons are the same place . 	
+TS3009b.C.dialog-act.s9553330.233	Yeah . It's good to move uh from time to time . Yeah . 	
+TS3009b.B.dialog-act.s9553330.184	Yeah but people don't like it when their buttons are all over the place . 	
+TS3009b.D.dialog-act.s9553330.293	Um 	
+TS3009b.A.dialog-act.s9553330.315	Yes ? 	
+TS3009b.B.dialog-act.s9553330.185	They they need to be centred . 	
+TS3009b.C.dialog-act.s9553330.234	No but now y 	
+TS3009b.A.dialog-act.s9553330.316	Well not 	
+TS3009b.C.dialog-act.s9553330.235	W would we have to choose a way in middle ? 	
+TS3009b.D.dialog-act.s9553330.294	Frequency of uh button use . 	
+TS3009b.A.dialog-act.s9553330.317	Yes . 	
+TS3009b.D.dialog-act.s9553330.295	Um channels are uh most uh is most used within the hour . You can see . 	
+TS3009b.C.dialog-act.s9553330.230		
+TS3009b.B.dialog-act.s9553330.186	Volume hardly . 	
+TS3009b.A.dialog-act.s9553330.318	Uh-huh . 	
+TS3009b.D.dialog-act.s9553330.296	So the the channel uh channel buttons should be far far apart , I think , up and down . 	
+TS3009b.C.dialog-act.s9553330.236	Mm-hmm . 	
+TS3009b.B.dialog-act.s9553330.187	No I don't think . 	
+TS3009b.C.dialog-act.s9553330.237	Oh . 	
+TS3009b.A.dialog-act.s9553330.319	Up and down far apart from each other ? 	
+TS3009b.C.dialog-act.s9553330.238	Far apart ? 	
+TS3009b.D.dialog-act.s9553330.297	You 	
+TS3009b.D.dialog-act.s9553330.298	thinking uh about R_S_I_ ? 	
+TS3009b.B.dialog-act.s9553330.188	Yeah but 	
+TS3009b.B.dialog-act.s9553330.189	Yeah but 	
+TS3009b.A.dialog-act.s9553330.320	Well not too much . 	
+TS3009b.D.dialog-act.s9553330.299	Y look at uh look at the frequency . 	
+TS3009b.B.dialog-act.s9553330.190	No . 	
+TS3009b.C.dialog-act.s9553330.231		
+TS3009b.D.dialog-act.s9553330.300	Nei not too much , but 	
+TS3009b.B.dialog-act.s9553330.191	The other the other two uh frustrations are far more important . So 	
+TS3009b.C.dialog-act.s9553330.239	I think you can have the two buttons of up and down close together , 	
+TS3009b.C.dialog-act.s9553330.240	but you don't have uh have to have volume control and and zapping button close together . 	
+TS3009b.A.dialog-act.s9553330.321	Well for example the power button , 	
+TS3009b.A.dialog-act.s9553330.322	you can 	
+TS3009b.B.dialog-act.s9553330.192	Well they are used four times an hour , so 	
+TS3009b.A.dialog-act.s9553330.323	If someone is constantly z zapping , it's not going to miss , that it that the power button is not right beside it . 	
+TS3009b.A.dialog-act.s9553330.324	Because I have someone But the buttons is way . 	
+TS3009b.D.dialog-act.s9553330.301	Nei nei nei n I I totally agree . 	
+TS3009b.A.dialog-act.s9553330.325	So that one can be put away . 	
+TS3009b.D.dialog-act.s9553330.302	But just 	
+TS3009b.D.dialog-act.s9553330.303	Yeah . Right . 	
+TS3009b.D.dialog-act.s9553330.304	Yeah . I agree . 	
+TS3009b.A.dialog-act.s9553330.326	The power button can uh be uh uh 	
+TS3009b.B.dialog-act.s9553330.193	Power bu button should be left at the top . 	
+TS3009b.A.dialog-act.s9553330.327		
+TS3009b.A.dialog-act.s9553330.328	Yes . 	
+TS3009b.D.dialog-act.s9553330.305	And should and should be red . 	
+TS3009b.C.dialog-act.s9553330.241	Yeah . 	
+TS3009b.A.dialog-act.s9553330.330	Oh man , 	
+TS3009b.A.dialog-act.s9553330.331	five minutes . 	
+TS3009b.A.dialog-act.s9553330.332	Yeah , 	
+TS3009b.A.dialog-act.s9553330.333	well five minutes left . 	
+TS3009b.D.dialog-act.s9553330.306	Right , just make some decisions . 	
+TS3009b.A.dialog-act.s9553330.334	Yep . 	
+TS3009b.D.dialog-act.s9553330.307	The most important things we have to uh 	
+TS3009b.A.dialog-act.s9553330.335	Um how are we going to do it with those numbers ? 	
+TS3009b.C.dialog-act.s9553330.242	C c can you make you make 	
+TS3009b.C.dialog-act.s9553330.243	We can use uh the drawing board now , I think . 	
+TS3009b.C.dialog-act.s9553330.244	Uh it it doesn't work well 	
+TS3009b.C.dialog-act.s9553330.245	but But it it would be pretty pretty uh nice if we could just draw a simple thing . 	
+TS3009b.A.dialog-act.s9553330.336	Well I have it here . 	
+TS3009b.D.dialog-act.s9553330.308	I do think you have to keep you have to keep it central now . 	
+TS3009b.A.dialog-act.s9553330.337	Yeah well that's going to take too too much time . 	
+TS3009b.D.dialog-act.s9553330.309	Just uh you decide that , 	
+TS3009b.B.dialog-act.s9553330.194	Mm . Yeah . 	
+TS3009b.A.dialog-act.s9553330.338	Yes . 	
+TS3009b.D.dialog-act.s9553330.310	you decide that , 	
+TS3009b.C.dialog-act.s9553330.246	Mm . Alright . 	
+TS3009b.D.dialog-act.s9553330.311	and ready . 	
+TS3009b.A.dialog-act.s9553330.339	Yes . 	
+TS3009b.A.dialog-act.s9553330.340	Well the L_C_D_ . 	
+TS3009b.A.dialog-act.s9553330.341	Um you are Industrial , 	
+TS3009b.A.dialog-act.s9553330.342	you are User Interface . 	
+TS3009b.A.dialog-act.s9553330.343	So I think it's going to go to Mike . 	
+TS3009b.B.dialog-act.s9553330.195		
+TS3009b.D.dialog-act.s9553330.312	Yeah . 	
+TS3009b.A.dialog-act.s9553330.344	But you will have to make consensus with . 	
+TS3009b.A.dialog-act.s9553330.345	Well 	
+TS3009b.B.dialog-act.s9553330.196	Well consensus , um We we can put it in the middle , so 	
+TS3009b.A.dialog-act.s9553330.346	Well it's a bit hard , 	
+TS3009b.D.dialog-act.s9553330.313	Nei . We're No 	
+TS3009b.A.dialog-act.s9553330.347	because we are going to be uh individually . 	
+TS3009b.A.dialog-act.s9553330.348	That's a bit uh 	
+TS3009b.D.dialog-act.s9553330.314	We're deciding now , so 	
+TS3009b.A.dialog-act.s9553330.349	Yes . 	
+TS3009b.D.dialog-act.s9553330.315	Top or bottom ? 	
+TS3009b.C.dialog-act.s9553330.247	Well uh yeah I I still think it's it's quite important though to uh to have it at the top , so 	
+TS3009b.A.dialog-act.s9553330.350	Yes it is . 	
+TS3009b.C.dialog-act.s9553330.248	Yeah . 	
+TS3009b.C.dialog-act.s9553330.249	You say familiarity isn't important but 	
+TS3009b.A.dialog-act.s9553330.351	Well what if we're going to now decide about the functions , 	
+TS3009b.A.dialog-act.s9553330.352	and the design comes into the next round ? 	
+TS3009b.D.dialog-act.s9553330.316	Okay . 	
+TS3009b.A.dialog-act.s9553330.353	Plus the d th the design round is still to come huh ? 	
+TS3009b.C.dialog-act.s9553330.250	Yeah d 	
+TS3009b.D.dialog-act.s9553330.317	Yeah , right . Okay . 	
+TS3009b.C.dialog-act.s9553330.251	Yeah . 	
+TS3009b.B.dialog-act.s9553330.197	Alright . 	
+TS3009b.A.dialog-act.s9553330.354	Alright these functions . 	
+TS3009b.C.dialog-act.s9553330.252	As we we we we agreed , we do have a L_C_D_ . 	
+TS3009b.A.dialog-act.s9553330.355	The number f 	
+TS3009b.A.dialog-act.s9553330.356	Well yes , that's alright . 	
+TS3009b.C.dialog-act.s9553330.253	So that's that's enough . Yeah . 	
+TS3009b.D.dialog-act.s9553330.318	Yeah , okay . 	
+TS3009b.A.dialog-act.s9553330.357	W the number function . 	
+TS3009b.A.dialog-act.s9553330.358	Are we going to uh do it like uh on Mike's screen with uh one button that says I'm going to do a t two number digital ? 	
+TS3009b.B.dialog-act.s9553330.198	No . 	
+TS3009b.A.dialog-act.s9553330.359	How do you want it to do then ? 	
+TS3009b.C.dialog-act.s9553330.254	There's one two three four five six six seven eight nine zero . 	
+TS3009b.B.dialog-act.s9553330.199	Well just when you push a one one and 	
+TS3009b.A.dialog-act.s9553330.360	It it has to r recognise one as there could still come more . 	
+TS3009b.B.dialog-act.s9553330.200	No , 	
+TS3009b.B.dialog-act.s9553330.201	if you 	
+TS3009b.C.dialog-act.s9553330.255	Oh , like that . 	
+TS3009b.B.dialog-act.s9553330.202	On most T_V_s if you uh press two numbers shortly after each other , d it 	
+TS3009b.C.dialog-act.s9553330.256	Um 	
+TS3009b.A.dialog-act.s9553330.361	Yes . 	
+TS3009b.C.dialog-act.s9553330.257	They'd recognise it . 	
+TS3009b.B.dialog-act.s9553330.203	Yeah . 	
+TS3009b.C.dialog-act.s9553330.258	Th that's the most 	
+TS3009b.A.dialog-act.s9553330.362	Alright so no button for that . 	
+TS3009b.B.dialog-act.s9553330.204	Yeah . 	
+TS3009b.C.dialog-act.s9553330.259	That that's very easy . Yeah . 	
+TS3009b.B.dialog-act.s9553330.205	Yeah . 	
+TS3009b.D.dialog-act.s9553330.319	No . 	
+TS3009b.A.dialog-act.s9553330.363	Okay uh anyone any uh oth other functionalities of our uh remote ? 	
+TS3009b.C.dialog-act.s9553330.260	I think these are the the most important functions . 	
+TS3009b.D.dialog-act.s9553330.320	Do you still have the pictures over there ? 	
+TS3009b.B.dialog-act.s9553330.206	Yeah . 	
+TS3009b.A.dialog-act.s9553330.364	So 	
+TS3009b.D.dialog-act.s9553330.321	Yeah , that's about it . 	
+TS3009b.D.dialog-act.s9553330.322	You do need the uh multi Or did uh 	
+TS3009b.D.dialog-act.s9553330.323	No , like this one . 	
+TS3009b.D.dialog-act.s9553330.324	You do need them ? 	
+TS3009b.A.dialog-act.s9553330.365	No , 	
+TS3009b.A.dialog-act.s9553330.366	we'd uh just said we didn't uh 	
+TS3009b.D.dialog-act.s9553330.327	Yeah , I know . 	
+TS3009b.D.dialog-act.s9553330.328	But are we 	
+TS3009b.B.dialog-act.s9553330.207		
+TS3009b.D.dialog-act.s9553330.329	Alright , alright uh Now okay . 	
+TS3009b.A.dialog-act.s9553330.367	Well uh 	
+TS3009b.A.dialog-act.s9553330.368	Um well because we can't integrate it with any other uh remotes , all those buttons on those pictures are uh irrelevant . 	
+TS3009b.D.dialog-act.s9553330.330	Right . 	
+TS3009b.A.dialog-act.s9553330.369	So just for a television is that all we need ? 	
+TS3009b.D.dialog-act.s9553330.331	Yeah , 	
+TS3009b.D.dialog-act.s9553330.332	it's most useable this way . 	
+TS3009b.C.dialog-act.s9553330.261	basic function . 	
+TS3009b.B.dialog-act.s9553330.208	Yeah . 	
+TS3009b.A.dialog-act.s9553330.370	Teletext is gone . 	
+TS3009b.A.dialog-act.s9553330.371	So all those buttons that ar are to do with teletext 	
+TS3009b.D.dialog-act.s9553330.326		
+TS3009b.A.dialog-act.s9553330.372	Oh screen placing . 	
+TS3009b.A.dialog-act.s9553330.373	We'll have uh those uh buttons about uh And uh the two important ones we're l f forgetting . 	
+TS3009b.D.dialog-act.s9553330.325		
+TS3009b.A.dialog-act.s9553330.374	Uh there's um screen . You can make it wider and less wide . 	
+TS3009b.D.dialog-act.s9553330.333	Yeah . 	
+TS3009b.A.dialog-act.s9553330.375	And the button that you can go to A_V_ for your video . 	
+TS3009b.D.dialog-act.s9553330.334	Right . 	
+TS3009b.D.dialog-act.s9553330.335	I do think we have to put that underneath a clip . 	
+TS3009b.C.dialog-act.s9553330.262	Oh yeah . 	
+TS3009b.A.dialog-act.s9553330.376	Those two ? 	
+TS3009b.A.dialog-act.s9553330.377	But it's just two , and we make a clip ? 	
+TS3009b.C.dialog-act.s9553330.263	Uh just two just two under uh under uh 	
+TS3009b.D.dialog-act.s9553330.336		
+TS3009b.A.dialog-act.s9553330.378	Th that's a bit uh waste . 	
+TS3009b.B.dialog-act.s9553330.209	We we can make make uh a little row of like four buttons down here . 	
+TS3009b.A.dialog-act.s9553330.379	Yes . 	
+TS3009b.D.dialog-act.s9553330.337	Yeah . Okay , right . 	
+TS3009b.C.dialog-act.s9553330.264	I I think uh 	
+TS3009b.A.dialog-act.s9553330.380	Or at the top . 	
+TS3009b.A.dialog-act.s9553330.381	Your L_C_D_ screen is going to go . 	
+TS3009b.B.dialog-act.s9553330.210	Or at 	
+TS3009b.C.dialog-act.s9553330.265	But you you can put uh two or three buttons under uh another section . 	
+TS3009b.B.dialog-act.s9553330.211	Yeah alright then . 	
+TS3009b.C.dialog-act.s9553330.266	Uh that's that's too complicated . 	
+TS3009b.A.dialog-act.s9553330.382	Yes . 	
+TS3009b.C.dialog-act.s9553330.267	You can just put it somewhere 	
+TS3009b.C.dialog-act.s9553330.268	They they aren't used much , not as much as those other , 	
+TS3009b.A.dialog-act.s9553330.383	Yeah 	
+TS3009b.C.dialog-act.s9553330.269	so you can put it somewhere 	
+TS3009b.B.dialog-act.s9553330.212	Oh , they can be small or round like buttons . 	
+TS3009b.C.dialog-act.s9553330.270	Yeah s bit smaller and s 	
+TS3009b.C.dialog-act.s9553330.271	Well uh and and I think more at the bottom . Yeah . 	
+TS3009b.C.dialog-act.s9553330.272	Yeah or at the top , yeah . 	
+TS3009b.C.dialog-act.s9553330.273	What do you think uh those those buttons ? 	
+TS3009b.C.dialog-act.s9553330.274	Above or down ? 	
+TS3009b.A.dialog-act.s9553330.384	Well I think they should in an in an isolated part of the remote . 	
+TS3009b.C.dialog-act.s9553330.275	And w where ? 	
+TS3009b.C.dialog-act.s9553330.276	Well we design it later . 	
+TS3009b.C.dialog-act.s9553330.277	We have it , and we design later where everything goes . Yeah . 	
+TS3009b.A.dialog-act.s9553330.385	Yes ? Yes . Yes . 	
+TS3009b.A.dialog-act.s9553330.386	Well any other uh 	
+TS3009b.D.dialog-act.s9553330.338	Well if you you take those th If you 	
+TS3009b.B.dialog-act.s9553330.213	Why go to video ? 	
+TS3009b.A.dialog-act.s9553330.387	Go to video , that's always on your remote control . 	
+TS3009b.D.dialog-act.s9553330.339	Yeah , but you can z you can zap t you can you can zap to the video channel from zero to uh 	
+TS3009b.A.dialog-act.s9553330.388	To A_V_ uh to A_V_ A_V_ A_V_ . 	
+TS3009b.C.dialog-act.s9553330.279	The the video channel uh ? 	
+TS3009b.B.dialog-act.s9553330.214	That's just zero . 	
+TS3009b.B.dialog-act.s9553330.215	Yeah . 	
+TS3009b.A.dialog-act.s9553330.389	Well l n no not at not at my remote . 	
+TS3009b.C.dialog-act.s9553330.280	No no not always . 	
+TS3009b.C.dialog-act.s9553330.281	Ze yeah zero is a different channel than uh the the video channel . 	
+TS3009b.B.dialog-act.s9553330.216		
+TS3009b.A.dialog-act.s9553330.390	Yeah . 	
+TS3009b.B.dialog-act.s9553330.217	Yeah , but you can can zap down 	
+TS3009b.D.dialog-act.s9553330.340	Yeah , but when you zap down zero you get to A_V_ . 	
+TS3009b.A.dialog-act.s9553330.391	Yes . 	
+TS3009b.B.dialog-act.s9553330.218	Yes , I think th 	
+TS3009b.A.dialog-act.s9553330.392	I don't . 	
+TS3009b.A.dialog-act.s9553330.393	I go to ninety-nine . 	
+TS3009b.B.dialog-act.s9553330.219	No , then you press ninety nine . 	
+TS3009b.D.dialog-act.s9553330.341	Ah uh well whatever , . 	
+TS3009b.B.dialog-act.s9553330.220	I think go to video is an irrelevant button , but 	
+TS3009b.A.dialog-act.s9553330.394	Th that's the button uh No . 	
+TS3009b.C.dialog-act.s9553330.282	But it's easy to go 	
+TS3009b.C.dialog-act.s9553330.283	If you are at uh at channel uh fifty five and you want to uh go immediately to the video channel , you do you have to push a to to get below zero . 	
+TS3009b.A.dialog-act.s9553330.395	No you can ch push zero . 	
+TS3009b.C.dialog-act.s9553330.284	It's more easy to get to uh where the specific uh video channel button . 	
+TS3009b.A.dialog-act.s9553330.396	Yeah . Yeah , 	
+TS3009b.A.dialog-act.s9553330.397	I I think that one button is uh I use it uh 	
+TS3009b.D.dialog-act.s9553330.342	Yeah , but if we're choosing to uh incorporate these buttons , you have to have uh channel setting , 	
+TS3009b.B.dialog-act.s9553330.221		
+TS3009b.D.dialog-act.s9553330.343	if you wa if you have a new T_V_ . You have to set the channels . 	
+TS3009b.A.dialog-act.s9553330.399	Yeah ? 	
+TS3009b.D.dialog-act.s9553330.344	Right all th these uh different buttons you have to 	
+TS3009b.A.dialog-act.s9553330.398	These buttons , I don't have buttons for channel setting uh especially on my remote . 	
+TS3009b.D.dialog-act.s9553330.345	Ah , I do . 	
+TS3009b.C.dialog-act.s9553330.285	Yeah well uh d different screen settings a Yeah , sk 	
+TS3009b.A.dialog-act.s9553330.400	It's it's incorporated with p m plus and down , uh those 	
+TS3009b.B.dialog-act.s9553330.222	Yeah well y you must have . 	
+TS3009b.C.dialog-act.s9553330.286	Yeah y you you you you have screen width . 	
+TS3009b.B.dialog-act.s9553330.223	Yeah you yeah you have one one button from s set frequency o or something , 	
+TS3009b.A.dialog-act.s9553330.401		
+TS3009b.B.dialog-act.s9553330.224	and then with plus and min minus you can uh adjust the uh 	
+TS3009b.D.dialog-act.s9553330.348	Right . 	
+TS3009b.D.dialog-act.s9553330.349	That's the only one we put uh in there . 	
+TS3009b.A.dialog-act.s9553330.402	So we still have one uh four ? 	
+TS3009b.D.dialog-act.s9553330.350	For a screen uh fu uh channel setting . 	
+TS3009b.A.dialog-act.s9553330.403	Ch ch 	
+TS3009b.C.dialog-act.s9553330.287	Yeah to uh oh yeah of course 	
+TS3009b.C.dialog-act.s9553330.288	to configure the programme the Yeah . 	
+TS3009b.D.dialog-act.s9553330.351	Programme , right . 	
+TS3009b.A.dialog-act.s9553330.404	Okay . 	
+TS3009b.A.dialog-act.s9553330.405	Oh the Okay button ? 	
+TS3009b.D.dialog-act.s9553330.352	Uh 	
+TS3009b.A.dialog-act.s9553330.406	Oh you always have in the centre an Okay button , for your menu . 	
+TS3009b.C.dialog-act.s9553330.289	Yeah . 	
+TS3009b.B.dialog-act.s9553330.225	Yeah , alright . 	
+TS3009b.A.dialog-act.s9553330.407	Menu button . 	
+TS3009b.C.dialog-act.s9553330.290	You should 	
+TS3009b.C.dialog-act.s9553330.291	Yeah . I think that's important . 	
+TS3009b.C.dialog-act.s9553330.292	Uh And and the settings to change the brightness 	
+TS3009b.A.dialog-act.s9553330.408	Channel , setting , menu . 	
+TS3009b.A.dialog-act.s9553330.409		
+TS3009b.A.dialog-act.s9553330.410	We have to go . 	
+TS3009b.C.dialog-act.s9553330.293	the settings to change the brightness and the contrast . 	
+TS3009b.D.dialog-act.s9553330.346		
+TS3009b.A.dialog-act.s9553330.411	Okay . 	
+TS3009b.C.dialog-act.s9553330.294	Channel , yeah . 	
+TS3009b.D.dialog-act.s9553330.347		
+TS3009b.A.dialog-act.s9553330.412	So um Save . 	
+TS3009b.C.dialog-act.s9553330.295	Chief ? 	
+TS3009b.C.dialog-act.s9553330.296	Chief ? 	
+TS3009b.A.dialog-act.s9553330.413	Yes see . 	
+TS3009b.C.dialog-act.s9553330.297	Th the menu menu button is also important . 	
+TS3009b.C.dialog-act.s9553330.298	Then you can uh 	
+TS3009b.A.dialog-act.s9553330.414	Yes 	
+TS3009b.A.dialog-act.s9553330.415	I have put it in . 	
+TS3009b.C.dialog-act.s9553330.299	Where ? 	
+TS3009b.C.dialog-act.s9553330.300	I don't see it . 	
+TS3009b.A.dialog-act.s9553330.417	Here . 	
+TS3009b.C.dialog-act.s9553330.301	Oh Menu , alright . 	
+TS3009b.A.dialog-act.s9553330.416		
+TS3009b.B.dialog-act.s9553330.226	I think things like uh contrast and brightness should be um in the menu , yeah . 	
+TS3009b.C.dialog-act.s9553330.302	In the menu . 	
+TS3009b.C.dialog-act.s9553330.303	And you can uh then adjust it with the zapping buttons or something . 	
+TS3009b.B.dialog-act.s9553330.227	Yeah , the 	
+TS3009b.C.dialog-act.s9553330.304	Because uh the zapping buttons aren't used then if you are in the menu . 	
+TS3009b.A.dialog-act.s9553330.418	Alright . 	
+TS3009b.B.dialog-act.s9553330.228	Or the volume or something like that . 	
+TS3009b.A.dialog-act.s9553330.419	Guys ? 	
+TS3009b.C.dialog-act.s9553330.305	Yeah . Or the volume , yeah . 	
+TS3009b.A.dialog-act.s9553330.420	We're going to uh go to our uh rooms , 	
+TS3009b.A.dialog-act.s9553330.421	and uh we'll have to decide s things on our own I think . So 	
+TS3009b.B.dialog-act.s9553330.229	Your pen . 	
+TS3009b.D.dialog-act.s9553330.353	Ah . Great . 	
+TS3009b.C.dialog-act.s9553330.306	Yes chief . 	
+TS3009b.A.dialog-act.s9553330.422		
+TS3009b.D.dialog-act.s9553330.354	Alright . 	
+TS3009b.B.dialog-act.s9553330.231	I thought we'd uh lunch uh right now , or not ? 	
+TS3009b.A.dialog-act.s9553330.423	Well see you uh 	
+TS3009b.C.dialog-act.s9553330.309	Yeah this is this is your thing . 	
+TS3009b.A.dialog-act.s9553330.424	W w we have lunchtime , by the way , now uh so uh 	
+TS3009b.D.dialog-act.s9553330.356	Ah . Okay . 	
+TS3009b.B.dialog-act.s9553330.232	Yeah , lunch break . 	
+TS3009b.C.dialog-act.s9553330.308	I am hungry . 	
+TS3009b.A.dialog-act.s9553330.425	Lunch . 	
+TS3009b.D.dialog-act.s9553330.355	Get into my belly . 	
+TS3009b.A.dialog-act.s9553330.426	Ah . We didn't exactly do everything but So 	
+TS3009b.B.dialog-act.s9553330.230		
+TS3009b.C.dialog-act.s9553330.307	See you later mate . 	
+

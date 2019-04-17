@@ -1,0 +1,326 @@
+Observation: IS1001a; Result size: 323; atts: 2
+$d@nite:id	$d	
+IS1001a.B.dialog-act.s9553330.1		
+IS1001a.A.dialog-act.s9553330.1		
+IS1001a.B.dialog-act.s9553330.2		
+IS1001a.B.dialog-act.s9553330.6	How do you wear this thing ? 	
+IS1001a.A.dialog-act.s9553330.5	Hmm . Mm mm mm . 	
+IS1001a.A.dialog-act.s9553330.2		
+IS1001a.B.dialog-act.s9553330.7	Not too many cables and stuff . 	
+IS1001a.D.dialog-act.s9553330.1		
+IS1001a.B.dialog-act.s9553330.3		
+IS1001a.B.dialog-act.s9553330.4		
+IS1001a.A.dialog-act.s9553330.3		
+IS1001a.B.dialog-act.s9553330.5		
+IS1001a.B.dialog-act.s9553330.8	Original . 	
+IS1001a.A.dialog-act.s9553330.4		
+IS1001a.A.dialog-act.s9553330.6	Is recorded ? Okay ? 	
+IS1001a.A.dialog-act.s9553330.7	Okay so welcome everyone . 	
+IS1001a.A.dialog-act.s9553330.8	So we are here for the kickoff meeting of uh the process of designing a new remote control . 	
+IS1001a.A.dialog-act.s9553330.9	So I will first start with a warm welcome opening stuff , 	
+IS1001a.B.dialog-act.s9553330.9		
+IS1001a.A.dialog-act.s9553330.10	then uh we will uh see what will be uh our product and what will be the different step we will have to design it . 	
+IS1001a.A.dialog-act.s9553330.11	And uh then we will uh discuss if we have few ideas 	
+IS1001a.A.dialog-act.s9553330.12	and we will uh end uh by uh dispatching the different task you will be you will have to fulfil to complete this process . 	
+IS1001a.A.dialog-act.s9553330.13	So 	
+IS1001a.B.dialog-act.s9553330.10	Uh . Just one thing . 	
+IS1001a.B.dialog-act.s9553330.11	Uh , you said twenty-five minutes , 	
+IS1001a.B.dialog-act.s9553330.12	but I have something else to do uh , so gotta have another meeting uh soon , 	
+IS1001a.A.dialog-act.s9553330.14		
+IS1001a.B.dialog-act.s9553330.13	so maybe you could hurry up a bit 	
+IS1001a.A.dialog-act.s9553330.15	sorry ? 	
+IS1001a.B.dialog-act.s9553330.14	It's true . 	
+IS1001a.B.dialog-act.s9553330.15	I have another meeting 	
+IS1001a.B.dialog-act.s9553330.16	so if you could uh 	
+IS1001a.A.dialog-act.s9553330.16	You have another meeting soon ? 	
+IS1001a.B.dialog-act.s9553330.17	Yeah . 	
+IS1001a.C.dialog-act.s9553330.1		
+IS1001a.A.dialog-act.s9553330.17	So you have to be quick . 	
+IS1001a.B.dialog-act.s9553330.18	Yeah , 	
+IS1001a.B.dialog-act.s9553330.19	for the lawnmower project . 	
+IS1001a.A.dialog-act.s9553330.18	Okay . 	
+IS1001a.B.dialog-act.s9553330.20	Okay . 	
+IS1001a.A.dialog-act.s9553330.19	So the the goal is to have a remote control 	
+IS1001a.A.dialog-act.s9553330.20	so to have an advantage over our competitors we have to be original , we have to be trendy and we have to also try to be user-friendly . 	
+IS1001a.B.dialog-act.s9553330.21		
+IS1001a.A.dialog-act.s9553330.21	So uh the design step will be divided in three uh main points . 	
+IS1001a.A.dialog-act.s9553330.22	First it will be the functional design . 	
+IS1001a.A.dialog-act.s9553330.23	Third is the conceptual design 	
+IS1001a.A.dialog-act.s9553330.24	and then is the desired design . 	
+IS1001a.A.dialog-act.s9553330.25	So the functional design is to identify the main user needs , the technical function the remote control should fulfil . 	
+IS1001a.A.dialog-act.s9553330.29	And then we will move to f conceptual design where we'll specify the different component involved , what kind of user interf interface we want and what are the different uh trend in user interface and stuff like that . 	
+IS1001a.C.dialog-act.s9553330.2		
+IS1001a.A.dialog-act.s9553330.30	And then the desired devi design will consist in uh specifically implementing and detailing the choice we've uh made in the second point . 	
+IS1001a.A.dialog-act.s9553330.31	So I will now ask you which is very important for the design of a new remote control for to uh each of us to to draw uh your favourite animal on the white board . 	
+IS1001a.B.dialog-act.s9553330.25	What an original idea . 	
+IS1001a.A.dialog-act.s9553330.26		
+IS1001a.A.dialog-act.s9553330.32	Do you have any idea of which animal you want to show us ? 	
+IS1001a.B.dialog-act.s9553330.26	Orangutan . 	
+IS1001a.A.dialog-act.s9553330.33	Okay that's good . 	
+IS1001a.C.dialog-act.s9553330.3		
+IS1001a.B.dialog-act.s9553330.22		
+IS1001a.C.dialog-act.s9553330.5	No no n 	
+IS1001a.A.dialog-act.s9553330.34	n n 	
+IS1001a.B.dialog-act.s9553330.27	Can I give you the 	
+IS1001a.A.dialog-act.s9553330.35	You should 	
+IS1001a.B.dialog-act.s9553330.28	no ? 	
+IS1001a.B.dialog-act.s9553330.29	But I don't have to say anything . When I'm drawing the orangutan . 	
+IS1001a.A.dialog-act.s9553330.27		
+IS1001a.A.dialog-act.s9553330.28		
+IS1001a.A.dialog-act.s9553330.36	If you want to react uh about this wonderful drawing uh I'll let you uh comment . 	
+IS1001a.B.dialog-act.s9553330.23		
+IS1001a.B.dialog-act.s9553330.24		
+IS1001a.C.dialog-act.s9553330.4		
+IS1001a.D.dialog-act.s9553330.2		
+IS1001a.B.dialog-act.s9553330.30	It's an abstract drawing of an orangutan . 	
+IS1001a.A.dialog-act.s9553330.37	Okay it's an abstract drawing . 	
+IS1001a.B.dialog-act.s9553330.31	Yes . 	
+IS1001a.A.dialog-act.s9553330.38	I think it's nice and original . 	
+IS1001a.C.dialog-act.s9553330.7	You should write y the name I think . 	
+IS1001a.D.dialog-act.s9553330.3		
+IS1001a.B.dialog-act.s9553330.35	I don't have a red colour . 	
+IS1001a.B.dialog-act.s9553330.36	Usually orangutans have red hair 	
+IS1001a.B.dialog-act.s9553330.37	so this is a very important 	
+IS1001a.B.dialog-act.s9553330.38	but I don't have red pen , so 	
+IS1001a.A.dialog-act.s9553330.41	Okay . 	
+IS1001a.B.dialog-act.s9553330.39	Yes . 	
+IS1001a.A.dialog-act.s9553330.42	You want to draw something Christine ? 	
+IS1001a.D.dialog-act.s9553330.4		
+IS1001a.B.dialog-act.s9553330.32		
+IS1001a.D.dialog-act.s9553330.7	Okay 	
+IS1001a.D.dialog-act.s9553330.8	uh sorry . 	
+IS1001a.D.dialog-act.s9553330.9	You have to imagine a little bit um . 	
+IS1001a.A.dialog-act.s9553330.39		
+IS1001a.D.dialog-act.s9553330.10	This 	
+IS1001a.A.dialog-act.s9553330.43	Of course your animal is recorded so it's not lost . 	
+IS1001a.D.dialog-act.s9553330.11	Sorry too uh . 	
+IS1001a.B.dialog-act.s9553330.40	Yes . 	
+IS1001a.B.dialog-act.s9553330.41	I know . 	
+IS1001a.A.dialog-act.s9553330.40		
+IS1001a.D.dialog-act.s9553330.5		
+IS1001a.B.dialog-act.s9553330.33		
+IS1001a.C.dialog-act.s9553330.6		
+IS1001a.D.dialog-act.s9553330.6		
+IS1001a.B.dialog-act.s9553330.34		
+IS1001a.A.dialog-act.s9553330.44	Is this uh 	
+IS1001a.B.dialog-act.s9553330.42	Wha what is this strange beast ? 	
+IS1001a.D.dialog-act.s9553330.12	Is it beautiful ? 	
+IS1001a.C.dialog-act.s9553330.8		
+IS1001a.A.dialog-act.s9553330.45		
+IS1001a.B.dialog-act.s9553330.43	Is it a monster ? 	
+IS1001a.A.dialog-act.s9553330.47		
+IS1001a.D.dialog-act.s9553330.14	Do you know ? 	
+IS1001a.D.dialog-act.s9553330.15	It's a cat . 	
+IS1001a.C.dialog-act.s9553330.9		
+IS1001a.B.dialog-act.s9553330.44	It's a cat ? 	
+IS1001a.D.dialog-act.s9553330.16	Isn't it ? 	
+IS1001a.B.dialog-act.s9553330.45	I thought these things did not exist . 	
+IS1001a.D.dialog-act.s9553330.17	Yes yes 	
+IS1001a.A.dialog-act.s9553330.46		
+IS1001a.C.dialog-act.s9553330.11	Me 	
+IS1001a.D.dialog-act.s9553330.18	is it like that . 	
+IS1001a.D.dialog-act.s9553330.19	Is it better ? 	
+IS1001a.C.dialog-act.s9553330.12	Ah yeah . Yeah . 	
+IS1001a.B.dialog-act.s9553330.46	Ah yeah 	
+IS1001a.A.dialog-act.s9553330.48	Ah okay 	
+IS1001a.A.dialog-act.s9553330.49	it's pretty . 	
+IS1001a.D.dialog-act.s9553330.20	Okay . 	
+IS1001a.D.dialog-act.s9553330.21	It's my cat . 	
+IS1001a.A.dialog-act.s9553330.50	Okay it's your cat . 	
+IS1001a.B.dialog-act.s9553330.47	Does have a name ? 	
+IS1001a.D.dialog-act.s9553330.22	Yeah . 	
+IS1001a.C.dialog-act.s9553330.10		
+IS1001a.D.dialog-act.s9553330.23	The name is Caramel . 	
+IS1001a.B.dialog-act.s9553330.48	Caramel . Ah-ha . 	
+IS1001a.C.dialog-act.s9553330.13	Caramel . 	
+IS1001a.D.dialog-act.s9553330.24	Yeah . 	
+IS1001a.A.dialog-act.s9553330.51	Okay . 	
+IS1001a.A.dialog-act.s9553330.52	Olivier , do you want to 	
+IS1001a.C.dialog-act.s9553330.14	And you 	
+IS1001a.C.dialog-act.s9553330.15	I think I'm too short for the cables . 	
+IS1001a.D.dialog-act.s9553330.13		
+IS1001a.A.dialog-act.s9553330.53	Okay I go , 	
+IS1001a.A.dialog-act.s9553330.54	but next time you'll do something I'm sure . 	
+IS1001a.B.dialog-act.s9553330.49	Next time I concentrate . 	
+IS1001a.A.dialog-act.s9553330.55	I'm a bit short on cable . 	
+IS1001a.C.dialog-act.s9553330.16		
+IS1001a.A.dialog-act.s9553330.56	Okay . So what could I draw ? 	
+IS1001a.A.dialog-act.s9553330.57	Maybe I can draw like a very simplified cow . 	
+IS1001a.A.dialog-act.s9553330.58	I don't know if it looks like a cow 	
+IS1001a.D.dialog-act.s9553330.25		
+IS1001a.B.dialog-act.s9553330.51	He looks like a bong . 	
+IS1001a.C.dialog-act.s9553330.17		
+IS1001a.A.dialog-act.s9553330.59	Like a what ? 	
+IS1001a.B.dialog-act.s9553330.53	Okay . 	
+IS1001a.B.dialog-act.s9553330.54	Sorry . 	
+IS1001a.B.dialog-act.s9553330.55	No . 	
+IS1001a.C.dialog-act.s9553330.18	Quite squarey . 	
+IS1001a.B.dialog-act.s9553330.56	Scary ? 	
+IS1001a.A.dialog-act.s9553330.60		
+IS1001a.D.dialog-act.s9553330.27		
+IS1001a.C.dialog-act.s9553330.19	He also . 	
+IS1001a.A.dialog-act.s9553330.61	I dunno it it looks more like a donkey in fact I would say . 	
+IS1001a.B.dialog-act.s9553330.50		
+IS1001a.D.dialog-act.s9553330.26		
+IS1001a.B.dialog-act.s9553330.57	I I think we will be finished this uh 	
+IS1001a.C.dialog-act.s9553330.20	Mm . 	
+IS1001a.A.dialog-act.s9553330.62	Okay so I hope that it helps you uh in the process of designing a remote control . 	
+IS1001a.B.dialog-act.s9553330.58	Is it for uh for putting a for logos , no . 	
+IS1001a.A.dialog-act.s9553330.63	Okay . 	
+IS1001a.B.dialog-act.s9553330.59	That's 	
+IS1001a.A.dialog-act.s9553330.64	Let's move on . 	
+IS1001a.A.dialog-act.s9553330.65	So Here the uh financial objective of our project . 	
+IS1001a.A.dialog-act.s9553330.66	That is to say to to have a production cost lower than twelve point five Euros 	
+IS1001a.A.dialog-act.s9553330.67	and have a selling price of twice that price t in order to target a profe profit of uh fifty uh million Euros . 	
+IS1001a.B.dialog-act.s9553330.60	I is there a matter for a new remote control ? 	
+IS1001a.A.dialog-act.s9553330.68	Yeah if it's trendy , original I d fulfil the user needs . 	
+IS1001a.B.dialog-act.s9553330.61	Is it uh a single device remote control or is it a multi-device remote control ? 	
+IS1001a.A.dialog-act.s9553330.69	We have to discuss that point . 	
+IS1001a.B.dialog-act.s9553330.62	Ah 	
+IS1001a.B.dialog-act.s9553330.63	this is not defined at all ? 	
+IS1001a.A.dialog-act.s9553330.70	On 	
+IS1001a.A.dialog-act.s9553330.71	yeah you you can suggest points like this . 	
+IS1001a.B.dialog-act.s9553330.64	Ah , okay . 	
+IS1001a.A.dialog-act.s9553330.72	So what what 	
+IS1001a.A.dialog-act.s9553330.73	so we have to decide for example if it can control one device or multiple . 	
+IS1001a.B.dialog-act.s9553330.65		
+IS1001a.A.dialog-act.s9553330.74	So what's what are your ideas about that ? 	
+IS1001a.A.dialog-act.s9553330.75	Maybe I can have the your opinion from the marketing side ? 	
+IS1001a.B.dialog-act.s9553330.66	Well uh do we sell other stuff ? 	
+IS1001a.B.dialog-act.s9553330.67	Uh if if we bundle the remote control with something uh to sell then it could be a single device , otherwise it could be programmable one 	
+IS1001a.B.dialog-act.s9553330.68	otherwise who would buy a remote control from us . 	
+IS1001a.A.dialog-act.s9553330.76	Okay , so if it selled uh by its own i it it would rather be for multiple device . 	
+IS1001a.B.dialog-act.s9553330.69	Yeah . 	
+IS1001a.A.dialog-act.s9553330.77	Do you agree ? 	
+IS1001a.C.dialog-act.s9553330.21	Mm-hmm . 	
+IS1001a.A.dialog-act.s9553330.78	Yeah . 	
+IS1001a.A.dialog-act.s9553330.79	So maybe it should be for multiple devices . 	
+IS1001a.A.dialog-act.s9553330.80	And uh do you have any ideas um of uh design ideas or any uh uh technical requirement we we should uh fulfil ? 	
+IS1001a.C.dialog-act.s9553330.22	I think we shouldn't have too many b for my part . I think 	
+IS1001a.B.dialog-act.s9553330.70	No , I couldn I cannot fi think of any requirements right now . 	
+IS1001a.C.dialog-act.s9553330.24	If we don't have so many buttons could be nice . 	
+IS1001a.B.dialog-act.s9553330.71		
+IS1001a.A.dialog-act.s9553330.81	Few buttons . Okay . 	
+IS1001a.B.dialog-act.s9553330.72		
+IS1001a.A.dialog-act.s9553330.82	And do you have it also to be to be lighted in order to be used in the dark ? 	
+IS1001a.A.dialog-act.s9553330.83	Might be a good idea . 	
+IS1001a.C.dialog-act.s9553330.25	Yeah . 	
+IS1001a.A.dialog-act.s9553330.84	Okay . 	
+IS1001a.A.dialog-act.s9553330.85	And do you have any um any uh idea of the trend the trend in domain , what it shouldn't it should look like , or things like that ? 	
+IS1001a.C.dialog-act.s9553330.23		
+IS1001a.C.dialog-act.s9553330.26	Something which is not squarey maybe uh , not a box . 	
+IS1001a.B.dialog-act.s9553330.73	Mm . 	
+IS1001a.A.dialog-act.s9553330.86	With rou okay . 	
+IS1001a.A.dialog-act.s9553330.87	Like for okay . 	
+IS1001a.B.dialog-act.s9553330.74	Something like that , least fits in your hand . 	
+IS1001a.C.dialog-act.s9553330.27	Yeah . 	
+IS1001a.B.dialog-act.s9553330.75	Yeah . 	
+IS1001a.A.dialog-act.s9553330.88	Okay . 	
+IS1001a.B.dialog-act.s9553330.76	The basic requirement . 	
+IS1001a.A.dialog-act.s9553330.89	So . Fit in your hand , yeah . 	
+IS1001a.B.dialog-act.s9553330.77	Only a buck . 	
+IS1001a.A.dialog-act.s9553330.90	And also it have , i it may be it may be important for the remote control to be uh To , to resist to various shocks that can happen if it fall . 	
+IS1001a.B.dialog-act.s9553330.78		
+IS1001a.C.dialog-act.s9553330.28	Mm-hmm . 	
+IS1001a.B.dialog-act.s9553330.80	Waterproof . 	
+IS1001a.A.dialog-act.s9553330.91	Water-proof as well . 	
+IS1001a.C.dialog-act.s9553330.29	And I think we should have a device 	
+IS1001a.D.dialog-act.s9553330.28		
+IS1001a.B.dialog-act.s9553330.79		
+IS1001a.A.dialog-act.s9553330.92	Maybe it is original because you can uh use it in your uh in your bath whereas the others can't . 	
+IS1001a.A.dialog-act.s9553330.93	Maybe water-proof would be very original . 	
+IS1001a.D.dialog-act.s9553330.29		
+IS1001a.C.dialog-act.s9553330.30	Sorry . 	
+IS1001a.A.dialog-act.s9553330.94	Havin having a water-proof remote control so that the people can uh use it in their bath . 	
+IS1001a.B.dialog-act.s9553330.81	Mm . 	
+IS1001a.A.dialog-act.s9553330.95	That could be uh 	
+IS1001a.B.dialog-act.s9553330.82	B it seems uh so , 	
+IS1001a.B.dialog-act.s9553330.83	but uh if you don't have an waterproof remote control it means you can just cover it with some plastic and you can sort of f 	
+IS1001a.A.dialog-act.s9553330.96	Yeah but , it is still something uh you have to buy 	
+IS1001a.A.dialog-act.s9553330.97	and that is um not maybe very 	
+IS1001a.B.dialog-act.s9553330.84	And , and that's one of the that's one of the shock I mean there are people that have a remote control and they are worried that it's going to break and they put some extra plastic around it . 	
+IS1001a.A.dialog-act.s9553330.98	Yeah , mayb B 	
+IS1001a.B.dialog-act.s9553330.85	That's people they actually do it themselves . 	
+IS1001a.A.dialog-act.s9553330.99	But maybe we can bulk it with uh already this plastic thing and uh the waterproof uh stuff as well . 	
+IS1001a.C.dialog-act.s9553330.31	Yeah . 	
+IS1001a.C.dialog-act.s9553330.32	directly . 	
+IS1001a.B.dialog-act.s9553330.86	I it will look a bulky in that case . 	
+IS1001a.A.dialog-act.s9553330.100	Yeah . 	
+IS1001a.C.dialog-act.s9553330.33	Yeah . 	
+IS1001a.A.dialog-act.s9553330.101	Maybe we can sell uh all that together , so so plastic protection and uh and a waterproof box as well . 	
+IS1001a.A.dialog-act.s9553330.102	That might be good uh track to follow . 	
+IS1001a.B.dialog-act.s9553330.87	Like as an optional thing . 	
+IS1001a.A.dialog-act.s9553330.103	Optional or selled with it ? 	
+IS1001a.C.dialog-act.s9553330.34	And I I think we should have something , 	
+IS1001a.C.dialog-act.s9553330.35	most of the time I I lose my remote control . 	
+IS1001a.C.dialog-act.s9553330.36	We should have s uh special bu button on the T_V_ to make the remote control beeping . 	
+IS1001a.A.dialog-act.s9553330.105	Yeah . 	
+IS1001a.A.dialog-act.s9553330.104	Maybe we can have uh 	
+IS1001a.A.dialog-act.s9553330.106	But we don't design the T_V_ . 	
+IS1001a.D.dialog-act.s9553330.30		
+IS1001a.C.dialog-act.s9553330.37	Ah yeah . 	
+IS1001a.A.dialog-act.s9553330.107	Maybe we can have uh something you whistle and uh the remote control uh beep . 	
+IS1001a.D.dialog-act.s9553330.31		
+IS1001a.C.dialog-act.s9553330.38	Yeah . 	
+IS1001a.B.dialog-act.s9553330.88	Barks . 	
+IS1001a.C.dialog-act.s9553330.39	Barks . 	
+IS1001a.A.dialog-act.s9553330.108	Yeah , barks , yeah . 	
+IS1001a.A.dialog-act.s9553330.109	So we can uh have a whistle uh remote control ? 	
+IS1001a.C.dialog-act.s9553330.40	Yeah . 	
+IS1001a.C.dialog-act.s9553330.41	Yeah whistle . 	
+IS1001a.A.dialog-act.s9553330.110	I don't know , whistle-able ? 	
+IS1001a.C.dialog-act.s9553330.42	Whistle tracking . 	
+IS1001a.A.dialog-act.s9553330.111	Th 	
+IS1001a.A.dialog-act.s9553330.112	Whistle tracking yeah . 	
+IS1001a.A.dialog-act.s9553330.113	Whistle tracking remote control . 	
+IS1001a.A.dialog-act.s9553330.114	That's a good idea , that's very original and that's can uh improve . 	
+IS1001a.B.dialog-act.s9553330.89		
+IS1001a.B.dialog-act.s9553330.91	That's that's quite cool , 	
+IS1001a.B.dialog-act.s9553330.92	but uh of course we you don't normally need uh any audio uh recording stuff on your remote control right ? 	
+IS1001a.A.dialog-act.s9553330.115	Yeah d d uh . 	
+IS1001a.B.dialog-act.s9553330.93	So i it's just going to add t to the cost . 	
+IS1001a.A.dialog-act.s9553330.116	Yeah but s still we have to mm we have to have an advantage over our competitors . 	
+IS1001a.A.dialog-act.s9553330.117	I think this is a good advantage . 	
+IS1001a.B.dialog-act.s9553330.94	It's cool . 	
+IS1001a.B.dialog-act.s9553330.95	I think I like the idea , 	
+IS1001a.B.dialog-act.s9553330.96	but I'm not sure about the what you , 	
+IS1001a.B.dialog-act.s9553330.97	who is giving who's giving who's giving our budget . Who's 	
+IS1001a.A.dialog-act.s9553330.118	Yeah . We have to ask 	
+IS1001a.A.dialog-act.s9553330.119	Yeah . We have to ask the quest of that's uh design to the uh Industrial um Designer . 	
+IS1001a.B.dialog-act.s9553330.98	Yeah . Yeah . 	
+IS1001a.C.dialog-act.s9553330.43	Yeah . yeah 	
+IS1001a.A.dialog-act.s9553330.120	Which is you . 	
+IS1001a.B.dialog-act.s9553330.99	'Kay . 	
+IS1001a.A.dialog-act.s9553330.121	Okay so try to find that for next meeting . 	
+IS1001a.C.dialog-act.s9553330.44	Okay . 	
+IS1001a.A.dialog-act.s9553330.122	Okay . So 	
+IS1001a.A.dialog-act.s9553330.123	next meeting is in thirty minutes or 	
+IS1001a.A.dialog-act.s9553330.124	so uh . Don't pani . 	
+IS1001a.C.dialog-act.s9553330.45	Don't panic . 	
+IS1001a.A.dialog-act.s9553330.125	So so I will ask the Industrial Designer to find out more about this industrial design so any working any working function we have discussed . 	
+IS1001a.C.dialog-act.s9553330.46	Mm-hmm . 	
+IS1001a.A.dialog-act.s9553330.126	So then I will ask the User Interf Interface Designer to to think about the point we discussed like the number of buttons , the the fact that is lighted or not , things like that , and what would be convenient for the user . 	
+IS1001a.B.dialog-act.s9553330.100	Mm-hmm . 	
+IS1001a.A.dialog-act.s9553330.127	And also um I will ask the Market Expert to uh try to find out what are the absolute requirements , what is absolutely needed in a remote control uh for the user . 	
+IS1001a.A.dialog-act.s9553330.128	So . 	
+IS1001a.A.dialog-act.s9553330.129	And then uh I will uh just ask you to think about that 	
+IS1001a.A.dialog-act.s9553330.130	and uh look at your mail because you will receive uh some good advice soon . 	
+IS1001a.B.dialog-act.s9553330.101	Mm . 	
+IS1001a.A.dialog-act.s9553330.132	So . 	
+IS1001a.A.dialog-act.s9553330.133	Thank you 	
+IS1001a.A.dialog-act.s9553330.134	I think that's all for this point . 	
+IS1001a.B.dialog-act.s9553330.102	Good . 	
+IS1001a.C.dialog-act.s9553330.47	Mm-hmm . 	
+IS1001a.B.dialog-act.s9553330.103		
+IS1001a.D.dialog-act.s9553330.32	Thank you 	
+IS1001a.B.dialog-act.s9553330.104	Uh , so we come back in five minutes ? 	
+IS1001a.B.dialog-act.s9553330.106	Half an hour . 	
+IS1001a.A.dialog-act.s9553330.136	Anyway you will receive some messages . 	
+IS1001a.A.dialog-act.s9553330.135		
+IS1001a.A.dialog-act.s9553330.137	Be careful . 	
+IS1001a.A.dialog-act.s9553330.138	You eat it ? 	
+IS1001a.A.dialog-act.s9553330.139	Does it move uh ? 	
+IS1001a.A.dialog-act.s9553330.140	Okay , but I don't know if it uh is still correctly uh 	
+IS1001a.A.dialog-act.s9553330.141	We'll see . 	
+IS1001a.C.dialog-act.s9553330.48	Ah . 	
+

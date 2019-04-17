@@ -1,0 +1,1435 @@
+Observation: TS3009c; Result size: 1432; atts: 2
+$d@nite:id	$d	
+TS3009c.A.dialog-act.s9553330.1	Okay . 	
+TS3009c.A.dialog-act.s9553330.2	Uh door is closed . 	
+TS3009c.C.dialog-act.s9553330.1		
+TS3009c.A.dialog-act.s9553330.3	Well , let's begin . 	
+TS3009c.A.dialog-act.s9553330.4	Because if we have as much time as the last uh meeting , we'll have to hurry up . 	
+TS3009c.D.dialog-act.s9553330.3	I'm listening . 	
+TS3009c.D.dialog-act.s9553330.4	Right . 	
+TS3009c.C.dialog-act.s9553330.2		
+TS3009c.A.dialog-act.s9553330.5	Um well I'll start with the presentation again , the agenda . 	
+TS3009c.C.dialog-act.s9553330.3		
+TS3009c.D.dialog-act.s9553330.5	Great . 	
+TS3009c.A.dialog-act.s9553330.6	Yo . 	
+TS3009c.A.dialog-act.s9553330.7	So . 	
+TS3009c.A.dialog-act.s9553330.8	Uh 	
+TS3009c.A.dialog-act.s9553330.9	This one I think . 	
+TS3009c.D.dialog-act.s9553330.1		
+TS3009c.A.dialog-act.s9553330.10	Uh yeah . 	
+TS3009c.A.dialog-act.s9553330.11	Well alright . 	
+TS3009c.A.dialog-act.s9553330.17	Um well , I'll show you the notes . 	
+TS3009c.A.dialog-act.s9553330.18	It's not as uh interesting as it should be 	
+TS3009c.D.dialog-act.s9553330.2		
+TS3009c.A.dialog-act.s9553330.19	because we just uh had the meeting , 	
+TS3009c.A.dialog-act.s9553330.20	but I'll show them . 	
+TS3009c.A.dialog-act.s9553330.21	We'll get your presentations again on the conceptual design . 	
+TS3009c.A.dialog-act.s9553330.22	Um 	
+TS3009c.A.dialog-act.s9553330.23	Then we'll have to dec decide about the control , the remote control concepts . 	
+TS3009c.C.dialog-act.s9553330.11	Mm-hmm . 	
+TS3009c.A.dialog-act.s9553330.24	I've put a f uh a file in the project management folder , which says exactly uh what kind of decisions we should take . 	
+TS3009c.A.dialog-act.s9553330.25	So this time we exactly know what to decide about . 	
+TS3009c.D.dialog-act.s9553330.7	Alright , great . 	
+TS3009c.A.dialog-act.s9553330.26	And then we'll close again . 	
+TS3009c.C.dialog-act.s9553330.12	Alright . 	
+TS3009c.A.dialog-act.s9553330.27	Uh 	
+TS3009c.A.dialog-act.s9553330.28	Well these are some examples , 	
+TS3009c.A.dialog-act.s9553330.29	but we'll talk about them later . 	
+TS3009c.A.dialog-act.s9553330.30	We'll first look at your uh presentations . Alright ? 	
+TS3009c.C.dialog-act.s9553330.13	Mm-hmm . 	
+TS3009c.A.dialog-act.s9553330.31	Walter will uh start again this time ? 	
+TS3009c.D.dialog-act.s9553330.8	Yeah , great . 	
+TS3009c.A.dialog-act.s9553330.32	Yo . 	
+TS3009c.D.dialog-act.s9553330.9	Alright , Trendwatch . 	
+TS3009c.A.dialog-act.s9553330.33	'Kay . 	
+TS3009c.D.dialog-act.s9553330.6		
+TS3009c.A.dialog-act.s9553330.12		
+TS3009c.D.dialog-act.s9553330.10	Right . 	
+TS3009c.D.dialog-act.s9553330.11	I will speak about uh latest trends trends , latest fashion updates , 	
+TS3009c.D.dialog-act.s9553330.12	and uh things we must not do . 	
+TS3009c.A.dialog-act.s9553330.34	'Kay . 	
+TS3009c.D.dialog-act.s9553330.13	Uh the trends . 	
+TS3009c.D.dialog-act.s9553330.14	It's very important that uh the control is fancy looking and good uh feeling . 	
+TS3009c.D.dialog-act.s9553330.15	Uh this because of our last model was very functional , 	
+TS3009c.D.dialog-act.s9553330.16	but it uh people didn't like that , 	
+TS3009c.D.dialog-act.s9553330.17	so our new mo model must be very good-looking . 	
+TS3009c.D.dialog-act.s9553330.18	That's uh something you uh have to take a look at . 	
+TS3009c.C.dialog-act.s9553330.14	Mm-hmm . Alright . 	
+TS3009c.D.dialog-act.s9553330.19	And uh the feeling has to be very great . 	
+TS3009c.D.dialog-act.s9553330.20	Also the menus and things like that they have to they have to feel great . 	
+TS3009c.C.dialog-act.s9553330.15	Alright . 	
+TS3009c.D.dialog-act.s9553330.21	Um there's a minus uh two times here , because this is the most important point . 	
+TS3009c.D.dialog-act.s9553330.22	This is uh two times as less important , 	
+TS3009c.A.dialog-act.s9553330.35	Less . 	
+TS3009c.C.dialog-act.s9553330.4		
+TS3009c.D.dialog-act.s9553330.23	and uh same for this one . 	
+TS3009c.D.dialog-act.s9553330.24	Um , technological technological innovations , that's uh regarded very highly too . 	
+TS3009c.A.dialog-act.s9553330.13		
+TS3009c.D.dialog-act.s9553330.25	Uh such as an uh L_C_D_ screen , uh speech uh acknowledgement , as we uh talked about earlier . 	
+TS3009c.A.dialog-act.s9553330.36	Well , yeah . 	
+TS3009c.D.dialog-act.s9553330.26	So we have to have uh something like that , 	
+TS3009c.D.dialog-act.s9553330.27	like we uh 	
+TS3009c.A.dialog-act.s9553330.37	L_C_D_ and our uh our fronts . 	
+TS3009c.D.dialog-act.s9553330.28	Right . 	
+TS3009c.D.dialog-act.s9553330.29	Uh the last point is easy to use . 	
+TS3009c.D.dialog-act.s9553330.30	Well I think that uh speaks for s for itself . 	
+TS3009c.D.dialog-act.s9553330.31	I don't know who's uh who's going to look at that . 	
+TS3009c.C.dialog-act.s9553330.16	Easy to use ? 	
+TS3009c.A.dialog-act.s9553330.38	Well , easy to use uh s is a bit uh contradictionary with the first uh 	
+TS3009c.D.dialog-act.s9553330.32	Yeah ? 	
+TS3009c.C.dialog-act.s9553330.17	I think that's your ta 	
+TS3009c.B.dialog-act.s9553330.1		
+TS3009c.A.dialog-act.s9553330.39	Functional is not an issue , and then easy to use . 	
+TS3009c.D.dialog-act.s9553330.33	Yeah , I know . 	
+TS3009c.A.dialog-act.s9553330.40	Well we have to choose one of them . 	
+TS3009c.D.dialog-act.s9553330.34	I think we have to go for the first one . 	
+TS3009c.A.dialog-act.s9553330.41	Yeah . 	
+TS3009c.D.dialog-act.s9553330.35	It's the most important one . 	
+TS3009c.C.dialog-act.s9553330.18	Mm . 	
+TS3009c.D.dialog-act.s9553330.36	So we have to uh take that one . 	
+TS3009c.A.dialog-act.s9553330.42	Okay . 	
+TS3009c.D.dialog-act.s9553330.37	So it it it isn't very important that that it works easy . 	
+TS3009c.B.dialog-act.s9553330.6	Well something fancy looking can be can be easy to use . 	
+TS3009c.D.dialog-act.s9553330.38	But it has to look great . 	
+TS3009c.C.dialog-act.s9553330.5		
+TS3009c.A.dialog-act.s9553330.43	Yeah . 	
+TS3009c.A.dialog-act.s9553330.44	We'll we'll look at uh . 	
+TS3009c.D.dialog-act.s9553330.39	We'll see . 	
+TS3009c.C.dialog-act.s9553330.19	You 	
+TS3009c.C.dialog-act.s9553330.20	Yeah . Yeah , yeah , 	
+TS3009c.C.dialog-act.s9553330.21	you can make a very complicated uh uh remote anyway , 	
+TS3009c.C.dialog-act.s9553330.22	so ease of use It's not a very comp complicated device . 	
+TS3009c.D.dialog-act.s9553330.40	Yeah , right . 	
+TS3009c.D.dialog-act.s9553330.41	But the most important thing is that it looks great 	
+TS3009c.D.dialog-act.s9553330.42	and people say wow , that's real great uh great concept . 	
+TS3009c.C.dialog-act.s9553330.23	Alright . 	
+TS3009c.A.dialog-act.s9553330.45	'Kay . 	
+TS3009c.D.dialog-act.s9553330.43	Alright . 	
+TS3009c.D.dialog-act.s9553330.44	Uh these are the new colours of this year . 	
+TS3009c.C.dialog-act.s9553330.6		
+TS3009c.D.dialog-act.s9553330.45	So it must be very bright , very colourful . 	
+TS3009c.B.dialog-act.s9553330.2		
+TS3009c.A.dialog-act.s9553330.14		
+TS3009c.C.dialog-act.s9553330.7		
+TS3009c.D.dialog-act.s9553330.46	People like this . 	
+TS3009c.A.dialog-act.s9553330.15		
+TS3009c.B.dialog-act.s9553330.3		
+TS3009c.D.dialog-act.s9553330.47	So we we have to think uh in this direction . 	
+TS3009c.D.dialog-act.s9553330.48	So i set your mind to it . 	
+TS3009c.A.dialog-act.s9553330.46	So 	
+TS3009c.B.dialog-act.s9553330.4		
+TS3009c.A.dialog-act.s9553330.47	Well 	
+TS3009c.D.dialog-act.s9553330.49	Findings ? Fashion update ? 	
+TS3009c.D.dialog-act.s9553330.50	Fruit and vegetables are cool . 	
+TS3009c.D.dialog-act.s9553330.51	I am told . 	
+TS3009c.C.dialog-act.s9553330.24	Uh you think ? 	
+TS3009c.A.dialog-act.s9553330.16		
+TS3009c.B.dialog-act.s9553330.5		
+TS3009c.D.dialog-act.s9553330.52	The group we are targeting is uh very pleased with fruit and vegetables . 	
+TS3009c.C.dialog-act.s9553330.8		
+TS3009c.D.dialog-act.s9553330.53	So we we we might cons consider in front of uh in in that sort of uh way . 	
+TS3009c.C.dialog-act.s9553330.9		
+TS3009c.A.dialog-act.s9553330.48	Yeah , well 	
+TS3009c.B.dialog-act.s9553330.7	Bananas . 	
+TS3009c.D.dialog-act.s9553330.54	Uh furthermore uh material , that's your part , should be very strong . 	
+TS3009c.D.dialog-act.s9553330.55	I was thinking of something like uh well uh iron plate over it , 	
+TS3009c.D.dialog-act.s9553330.56	maybe in a colour or something , 	
+TS3009c.C.dialog-act.s9553330.25	Mm . 	
+TS3009c.D.dialog-act.s9553330.57	that looks so f really flashy 	
+TS3009c.A.dialog-act.s9553330.49	Yeah . 	
+TS3009c.D.dialog-act.s9553330.58	but it it is also strong . 	
+TS3009c.C.dialog-act.s9553330.10		
+TS3009c.D.dialog-act.s9553330.59	And that's uh also for the younger public . 	
+TS3009c.A.dialog-act.s9553330.50	B 	
+TS3009c.A.dialog-act.s9553330.51	Well the the handy thing about our fronts is that we can follow these trends e ev every year . 	
+TS3009c.A.dialog-act.s9553330.52	Th this year it's fruits 	
+TS3009c.A.dialog-act.s9553330.53	but next year it's it's something totally different . 	
+TS3009c.D.dialog-act.s9553330.60	Yeah , that's great . 	
+TS3009c.B.dialog-act.s9553330.8	Yeah . 	
+TS3009c.D.dialog-act.s9553330.61	But I think we can all make the the fronts of titanium or something uh really thin . 	
+TS3009c.A.dialog-act.s9553330.54	Yes . 	
+TS3009c.D.dialog-act.s9553330.62	So it looks very heavy 	
+TS3009c.D.dialog-act.s9553330.63	but you can still uh use it very easily . 	
+TS3009c.C.dialog-act.s9553330.26	Mm . 	
+TS3009c.A.dialog-act.s9553330.55	Yep , alright . 	
+TS3009c.D.dialog-act.s9553330.65	Well , the don'ts . 	
+TS3009c.D.dialog-act.s9553330.66	Older people like dark colours and simple shapes . 	
+TS3009c.D.dialog-act.s9553330.67	Well we don't want uh older people , 	
+TS3009c.D.dialog-act.s9553330.68	we want young people . 	
+TS3009c.B.dialog-act.s9553330.9		
+TS3009c.C.dialog-act.s9553330.27		
+TS3009c.D.dialog-act.s9553330.69	So uh we're gonna turn that around . 	
+TS3009c.A.dialog-act.s9553330.56		
+TS3009c.D.dialog-act.s9553330.70	We're gonna have real uh cool shapes and lots of colours . 	
+TS3009c.C.dialog-act.s9553330.28	Alright . 	
+TS3009c.D.dialog-act.s9553330.71	Right ? 	
+TS3009c.A.dialog-act.s9553330.58	Wood is popular . Aha . 	
+TS3009c.D.dialog-act.s9553330.72	Okay . 	
+TS3009c.D.dialog-act.s9553330.73	We don't want wood . 	
+TS3009c.A.dialog-act.s9553330.59	Yeah yeah yeah . 	
+TS3009c.C.dialog-act.s9553330.29	Yeah , among the old people , yeah . 	
+TS3009c.D.dialog-act.s9553330.74	Old people . 	
+TS3009c.D.dialog-act.s9553330.75	So , that's it for me . 	
+TS3009c.A.dialog-act.s9553330.60	Alright . 	
+TS3009c.A.dialog-act.s9553330.61	Nice , uh well show us . 	
+TS3009c.C.dialog-act.s9553330.31	Right , I am going to tell you something about the components design . 	
+TS3009c.C.dialog-act.s9553330.32	Uh again I have uh put up the specification properties . 	
+TS3009c.C.dialog-act.s9553330.33	This uh so um uh the different uh components of the of of the device . 	
+TS3009c.C.dialog-act.s9553330.34	And the materials ? Um I have heard several things , 	
+TS3009c.C.dialog-act.s9553330.35	so I uh I'll have to change that on the way . 	
+TS3009c.C.dialog-act.s9553330.36	But uh the case ? 	
+TS3009c.C.dialog-act.s9553330.37	Uh I suggested uh in the previous meeting hard plastic . 	
+TS3009c.C.dialog-act.s9553330.38	But uh as you indicated uh it should be strong . 	
+TS3009c.D.dialog-act.s9553330.76	Yeah , we should change that . 	
+TS3009c.C.dialog-act.s9553330.39	It should feel strong . 	
+TS3009c.C.dialog-act.s9553330.40	So maybe plastic is not uh sufficient . 	
+TS3009c.C.dialog-act.s9553330.41	We should move to uh something 	
+TS3009c.A.dialog-act.s9553330.62	Well maybe it it it is , 	
+TS3009c.A.dialog-act.s9553330.63	but it doesn't look strong . 	
+TS3009c.A.dialog-act.s9553330.64	So maybe 	
+TS3009c.C.dialog-act.s9553330.42	Well yeah . 	
+TS3009c.C.dialog-act.s9553330.43	Y Hard plastic i is of course uh pretty pretty tough , 	
+TS3009c.C.dialog-act.s9553330.44	but it doesn't have a really really tough look . So 	
+TS3009c.D.dialog-act.s9553330.77	No no no . 	
+TS3009c.A.dialog-act.s9553330.65	But we still have to look at our price of course . 	
+TS3009c.A.dialog-act.s9553330.66	Because uh if we want an L_C_D_ uh window etcetera uh 	
+TS3009c.C.dialog-act.s9553330.45	Yeah . 	
+TS3009c.C.dialog-act.s9553330.46	Also 	
+TS3009c.C.dialog-act.s9553330.47	Yeah . 	
+TS3009c.C.dialog-act.s9553330.48	Mm-hmm . 	
+TS3009c.C.dialog-act.s9553330.50	But we'll return to that . 	
+TS3009c.A.dialog-act.s9553330.67	Yeah ? 	
+TS3009c.C.dialog-act.s9553330.51	Uh the buttons of course rubber , 	
+TS3009c.C.dialog-act.s9553330.52	I think everyone agrees . 	
+TS3009c.C.dialog-act.s9553330.53	And electrical cables , copper is all pretty basic stuff . 	
+TS3009c.C.dialog-act.s9553330.54	The chips made of silicon , I guess . 	
+TS3009c.C.dialog-act.s9553330.55	I think that's the best uh way to do it . 	
+TS3009c.D.dialog-act.s9553330.64		
+TS3009c.C.dialog-act.s9553330.56	And infra infrared l LED is uh just a simple bulb . 	
+TS3009c.A.dialog-act.s9553330.57		
+TS3009c.C.dialog-act.s9553330.57	Then I've uh had a few findings , made a few findings . 	
+TS3009c.C.dialog-act.s9553330.58	Uh the target audience product style . 	
+TS3009c.C.dialog-act.s9553330.59	Um it's uh um generally the case that uh senior and wealthy people above uh forty five years old uh like , as you said , uh particularly the traditional materials as such as wood and materials such as that . 	
+TS3009c.C.dialog-act.s9553330.60	They also like straightforward shapes and luxurious style . 	
+TS3009c.C.dialog-act.s9553330.61	But of course that's not our uh things this . 	
+TS3009c.C.dialog-act.s9553330.62	So this is things we must not do . 	
+TS3009c.A.dialog-act.s9553330.68	Yes . 	
+TS3009c.C.dialog-act.s9553330.63	And then we have uh young uh and dynamic uh people , 	
+TS3009c.C.dialog-act.s9553330.64	which is of course our uh group , 	
+TS3009c.C.dialog-act.s9553330.65	the people we aim at . 	
+TS3009c.C.dialog-act.s9553330.66	Um under forty five years old . 	
+TS3009c.C.dialog-act.s9553330.67	Uh they like soft materials uh with primary colours . 	
+TS3009c.C.dialog-act.s9553330.68	Soft materials is of course uh agai again a bit a contradiction with uh our uh material choice of what you said , 	
+TS3009c.C.dialog-act.s9553330.69	that uh it should be hard an and and and and strong looking . 	
+TS3009c.D.dialog-act.s9553330.78	Mm . Yeah . 	
+TS3009c.C.dialog-act.s9553330.70	But they like soft materials , 	
+TS3009c.B.dialog-act.s9553330.10	Yeah . 	
+TS3009c.C.dialog-act.s9553330.71	uh so we might uh we have to consider that . 	
+TS3009c.C.dialog-act.s9553330.72	And also they like curved round shapes . 	
+TS3009c.C.dialog-act.s9553330.73	So not uh too formal like like uh the older people want . 	
+TS3009c.C.dialog-act.s9553330.74	And if uh also a finding but not very ap applicable here , that sports and gaming devices such as uh discmans for jogging and that those kind of devices , gaming devices , should define the characteristics of the device . 	
+TS3009c.C.dialog-act.s9553330.75	But uh since we don't have a really a sports or gaming device , so we don't really have to consider that . 	
+TS3009c.A.dialog-act.s9553330.69	Sports uh , they're uh that uh are accessible on on your L_C_D_ uh window uh 	
+TS3009c.B.dialog-act.s9553330.11	Soccer fronts . Mm . 	
+TS3009c.D.dialog-act.s9553330.79		
+TS3009c.A.dialog-act.s9553330.70	Huh ? 	
+TS3009c.C.dialog-act.s9553330.76	Mm . 	
+TS3009c.A.dialog-act.s9553330.71	That's nice . 	
+TS3009c.B.dialog-act.s9553330.12	Hmm . 	
+TS3009c.C.dialog-act.s9553330.77	Well I also have um several examples of uh styles , 	
+TS3009c.A.dialog-act.s9553330.72	All the results ? 	
+TS3009c.D.dialog-act.s9553330.80	We keep coming back to the fronts . 	
+TS3009c.A.dialog-act.s9553330.73		
+TS3009c.B.dialog-act.s9553330.13	Yeah . 	
+TS3009c.C.dialog-act.s9553330.78	so you can get a clear picture of uh what I mean . 	
+TS3009c.A.dialog-act.s9553330.74	Yeah . 	
+TS3009c.C.dialog-act.s9553330.79	Uh these are the basic uh older older peoples' stuff . 	
+TS3009c.B.dialog-act.s9553330.14		
+TS3009c.D.dialog-act.s9553330.81	Yeah . 	
+TS3009c.A.dialog-act.s9553330.75	Yeah . 	
+TS3009c.C.dialog-act.s9553330.80	It was not very uh interesting uh , 	
+TS3009c.C.dialog-act.s9553330.81	very classical looking , 	
+TS3009c.C.dialog-act.s9553330.82	but that's n that's not what we want . 	
+TS3009c.A.dialog-act.s9553330.76	Mm-hmm . Nai . Uh no . 	
+TS3009c.C.dialog-act.s9553330.83	We have these kind of things . 	
+TS3009c.B.dialog-act.s9553330.15	Hmm . 	
+TS3009c.D.dialog-act.s9553330.82	Fruity . Fruity . 	
+TS3009c.C.dialog-act.s9553330.84	I don't know what exactly they are . 	
+TS3009c.C.dialog-act.s9553330.85	It looks like 	
+TS3009c.C.dialog-act.s9553330.86	Well you know uh you recognise the shapes , 	
+TS3009c.C.dialog-act.s9553330.87	it's very primary colours , uh bright colours and uh round shapes . 	
+TS3009c.A.dialog-act.s9553330.77		
+TS3009c.A.dialog-act.s9553330.78		
+TS3009c.C.dialog-act.s9553330.88	You also uh see uh this device , it's not very round and 	
+TS3009c.C.dialog-act.s9553330.89	Fruity of course . 	
+TS3009c.C.dialog-act.s9553330.91	Yeah , it uh 	
+TS3009c.A.dialog-act.s9553330.79	It's t terrible . 	
+TS3009c.C.dialog-act.s9553330.92	That's true . 	
+TS3009c.A.dialog-act.s9553330.80	Alright . 	
+TS3009c.C.dialog-act.s9553330.93	And uh well round shapes , primary colours . 	
+TS3009c.C.dialog-act.s9553330.94	You can see it all here . 	
+TS3009c.A.dialog-act.s9553330.81		
+TS3009c.C.dialog-act.s9553330.95	And of course uh this famous device . 	
+TS3009c.A.dialog-act.s9553330.82	Hmm ? 	
+TS3009c.C.dialog-act.s9553330.96	I think as you know something uh some devices like this . 	
+TS3009c.A.dialog-act.s9553330.83	Yeah , alright . 	
+TS3009c.C.dialog-act.s9553330.97	So to give you an idea of uh 	
+TS3009c.D.dialog-act.s9553330.83	Well it's got a strong look , this . Yeah . 	
+TS3009c.C.dialog-act.s9553330.98	This has a strong look . 	
+TS3009c.C.dialog-act.s9553330.99	Although it's plastic , it's it's grey to to to give it iron look . 	
+TS3009c.D.dialog-act.s9553330.84	Yeah , it still has a strong look . 	
+TS3009c.A.dialog-act.s9553330.84	Yeah . And it's round . 	
+TS3009c.C.dialog-act.s9553330.100	That's uh 	
+TS3009c.D.dialog-act.s9553330.85	But then you are losing your fruity colours . 	
+TS3009c.C.dialog-act.s9553330.101	Yeah . 	
+TS3009c.C.dialog-act.s9553330.102	Well we have to make a 	
+TS3009c.A.dialog-act.s9553330.85	Well you can make th th th that middle ring can you you can make another colour . 	
+TS3009c.D.dialog-act.s9553330.86	That's true . 	
+TS3009c.A.dialog-act.s9553330.86	So uh those kind of things you can you can combine . 	
+TS3009c.C.dialog-act.s9553330.103	Well we can't really make a round uh a round remote control . 	
+TS3009c.C.dialog-act.s9553330.104	I don't think that's very practical , 	
+TS3009c.C.dialog-act.s9553330.105	but But uh it's important to to uh to think about the colour . 	
+TS3009c.A.dialog-act.s9553330.87	No , it isn't . 	
+TS3009c.A.dialog-act.s9553330.88	Okay . 	
+TS3009c.C.dialog-act.s9553330.106	Because if we make it grey or or silvery looking , it it does make it a lot more uh does make it looking a lot more stronger . 	
+TS3009c.D.dialog-act.s9553330.87	Yeah but the 	
+TS3009c.A.dialog-act.s9553330.89	Yes . 	
+TS3009c.C.dialog-act.s9553330.107	'Cause if you look at this , it it doesn't look very very strong , 	
+TS3009c.C.dialog-act.s9553330.108	becau But this is plastic , and and this too , but 	
+TS3009c.D.dialog-act.s9553330.102	But it doesn't have to look strong . 	
+TS3009c.D.dialog-act.s9553330.103	The the results are , the feel of the material is expected to be strongy . 	
+TS3009c.C.dialog-act.s9553330.113	The feel ? 	
+TS3009c.D.dialog-act.s9553330.104	The feel . 	
+TS3009c.C.dialog-act.s9553330.114	Uh alright . 	
+TS3009c.C.dialog-act.s9553330.115	Well 	
+TS3009c.A.dialog-act.s9553330.101	So , if you ti 	
+TS3009c.B.dialog-act.s9553330.24	And it it doesn't have to be strong , also . 	
+TS3009c.A.dialog-act.s9553330.102	Well 	
+TS3009c.D.dialog-act.s9553330.105	Nah yeah the feel 	
+TS3009c.A.dialog-act.s9553330.103	You you 	
+TS3009c.B.dialog-act.s9553330.25	Only the feel . 	
+TS3009c.A.dialog-act.s9553330.104	Maybe you should have uh some some coloured titanium or something . 	
+TS3009c.A.dialog-act.s9553330.105	So it it looks pretty but it feels strong . 	
+TS3009c.B.dialog-act.s9553330.16		
+TS3009c.D.dialog-act.s9553330.106	Right . 	
+TS3009c.C.dialog-act.s9553330.116	Mm-hmm . 	
+TS3009c.B.dialog-act.s9553330.26	Oh . 	
+TS3009c.D.dialog-act.s9553330.107	I agree . 	
+TS3009c.C.dialog-act.s9553330.117	And I Then I have some more findings . Um uh about the energy energy source of the of the device , 	
+TS3009c.C.dialog-act.s9553330.118	uh I uh suggest uh the basic battery . 	
+TS3009c.C.dialog-act.s9553330.119	I uh got some other um uh uh energy sources of course . 	
+TS3009c.C.dialog-act.s9553330.120	But solar energy is not very practical inside a house , 	
+TS3009c.C.dialog-act.s9553330.121	because you don't have a have a lot of uh sun . 	
+TS3009c.D.dialog-act.s9553330.88		
+TS3009c.C.dialog-act.s9553330.122	And uh kinetic and and and dynamos are are not very practical , I think , for uh for a simple remote , 	
+TS3009c.D.dialog-act.s9553330.89		
+TS3009c.C.dialog-act.s9553330.123	that's a bit , oh , that's a bit uh That's a bit uh much . 	
+TS3009c.A.dialog-act.s9553330.106	No titanium . 	
+TS3009c.B.dialog-act.s9553330.17		
+TS3009c.C.dialog-act.s9553330.124	And I also suggest uh as a shape uh a double curved case . 	
+TS3009c.A.dialog-act.s9553330.90		
+TS3009c.C.dialog-act.s9553330.125	Uh the disadvantage of that that you can use no titanium . 	
+TS3009c.C.dialog-act.s9553330.126	That that's the information I received . 	
+TS3009c.C.dialog-act.s9553330.127	If you use the curved case , uh a curved case , double curved then you can't use titanium . 	
+TS3009c.A.dialog-act.s9553330.107	What do you exactly mean with double curved ? 	
+TS3009c.C.dialog-act.s9553330.128	Now uh this uh to give it a more modern look . 	
+TS3009c.B.dialog-act.s9553330.18		
+TS3009c.C.dialog-act.s9553330.129	And uh now the the shape , yeah , a curved case . 	
+TS3009c.C.dialog-act.s9553330.130	Um yeah I think uh sort of triangle-shaped bottom or something . 	
+TS3009c.C.dialog-act.s9553330.131	Uh a more modern look not plain , long box style , but 	
+TS3009c.D.dialog-act.s9553330.108	I dunno . 	
+TS3009c.A.dialog-act.s9553330.108	Double curved ? 	
+TS3009c.C.dialog-act.s9553330.132	I'll draw it , 	
+TS3009c.B.dialog-act.s9553330.27	Yeah . Yeah . 	
+TS3009c.A.dialog-act.s9553330.109	It it mean 	
+TS3009c.C.dialog-act.s9553330.133	but maybe later . 	
+TS3009c.D.dialog-act.s9553330.90		
+TS3009c.A.dialog-act.s9553330.110	Yeah , well okay . 	
+TS3009c.C.dialog-act.s9553330.134	And it makes uh it gives it a more u user friendly shape , than if you have uh . 	
+TS3009c.C.dialog-act.s9553330.135	Um anyway 	
+TS3009c.D.dialog-act.s9553330.91		
+TS3009c.B.dialog-act.s9553330.19		
+TS3009c.C.dialog-act.s9553330.136	Um f as uh for the buttons , simple push buttons . 	
+TS3009c.C.dialog-act.s9553330.137	No uh otherwi uh no um difficult scroll things or some uh things like that , 	
+TS3009c.C.dialog-act.s9553330.138	because it makes more complex and expensive . 	
+TS3009c.C.dialog-act.s9553330.139	And , uh as we agreed , we don't use a speaker or a sensor or um uh speak uh speech uh controlled device . 	
+TS3009c.D.dialog-act.s9553330.109	Yeah right . 	
+TS3009c.D.dialog-act.s9553330.92		
+TS3009c.C.dialog-act.s9553330.140	Because it makes it also more complex and expensive . 	
+TS3009c.C.dialog-act.s9553330.141	But we do use an L_C_D_ screen , 	
+TS3009c.C.dialog-act.s9553330.142	so we uh we do have to consider uh of we have to use a more advanced chip , 	
+TS3009c.C.dialog-act.s9553330.143	which is more complex and expensive . 	
+TS3009c.C.dialog-act.s9553330.144	But It's worth the trouble I think , 	
+TS3009c.A.dialog-act.s9553330.111	Well 	
+TS3009c.B.dialog-act.s9553330.28	The buttons can be made of an uh a soft material . 	
+TS3009c.C.dialog-act.s9553330.145	because 	
+TS3009c.B.dialog-act.s9553330.29	Because people like that . 	
+TS3009c.A.dialog-act.s9553330.112	This soft material thing from uh Yeah . 	
+TS3009c.C.dialog-act.s9553330.146	Uh rubber is a soft material , I guess . 	
+TS3009c.D.dialog-act.s9553330.110	Yeah . Right . 	
+TS3009c.C.dialog-act.s9553330.147	Uh soft enough . 	
+TS3009c.B.dialog-act.s9553330.30	Yeah . Right . Yeah . 	
+TS3009c.C.dialog-act.s9553330.148	So that's uh basically what I want to talk about . 	
+TS3009c.A.dialog-act.s9553330.113	Alright . Okay . 	
+TS3009c.A.dialog-act.s9553330.114	We will take that . 	
+TS3009c.A.dialog-act.s9553330.115	And then uh Mike ? 	
+TS3009c.A.dialog-act.s9553330.116	Okay . 	
+TS3009c.B.dialog-act.s9553330.31	Yeah . 	
+TS3009c.B.dialog-act.s9553330.32	Well um nah the method um we will um include the buttons as we discussed uh earlier . 	
+TS3009c.B.dialog-act.s9553330.33	Um an L_C_D_ s screen will be implemented . 	
+TS3009c.B.dialog-act.s9553330.34	Um we must decide where , this meeting . 	
+TS3009c.A.dialog-act.s9553330.91		
+TS3009c.D.dialog-act.s9553330.93		
+TS3009c.B.dialog-act.s9553330.35	Um there are new developments in speech recognition um systems , 	
+TS3009c.B.dialog-act.s9553330.36	um and they are already being uh used on uh coffee machines . 	
+TS3009c.B.dialog-act.s9553330.37	And um well they're cheap , 	
+TS3009c.B.dialog-act.s9553330.38	so we could use them now . 	
+TS3009c.A.dialog-act.s9553330.117	Oh 	
+TS3009c.B.dialog-act.s9553330.39	Um it's not really speech recognition , 	
+TS3009c.A.dialog-act.s9553330.118	That's interesting . 	
+TS3009c.B.dialog-act.s9553330.40	it's more um like you can um talk to the chip , uh record the message and record an answer , 	
+TS3009c.B.dialog-act.s9553330.41	and then once you uh talk to the remote , then um he will a answer with the the prerecorded message that you left . 	
+TS3009c.B.dialog-act.s9553330.42	So if I say hi Mike , and you have recorded uh hi Mike back , then you will get that . 	
+TS3009c.C.dialog-act.s9553330.149	Oh , yeah , I understand . Yeah . 	
+TS3009c.D.dialog-act.s9553330.111	Oh okay . 	
+TS3009c.D.dialog-act.s9553330.94		
+TS3009c.A.dialog-act.s9553330.119	Okay . But you can also say that , when you say something , it does some function . 	
+TS3009c.D.dialog-act.s9553330.112	Right . 	
+TS3009c.B.dialog-act.s9553330.43	No it doesn't does not do anything . 	
+TS3009c.D.dialog-act.s9553330.113	No . 	
+TS3009c.A.dialog-act.s9553330.120	Oh . 	
+TS3009c.B.dialog-act.s9553330.44	But i it's just a 	
+TS3009c.A.dialog-act.s9553330.121	That's a bit uh 	
+TS3009c.D.dialog-act.s9553330.114	But that that makes it cheap . 	
+TS3009c.D.dialog-act.s9553330.115	It's it's just a an extra function , 	
+TS3009c.C.dialog-act.s9553330.150	Yeah . 	
+TS3009c.B.dialog-act.s9553330.45	Yeah it's it's cheap . 	
+TS3009c.A.dialog-act.s9553330.122	Yes . I understand . 	
+TS3009c.D.dialog-act.s9553330.116	and it's cheap . 	
+TS3009c.A.dialog-act.s9553330.123	But it has no functionality for our remote at all . 	
+TS3009c.D.dialog-act.s9553330.117	No but 	
+TS3009c.B.dialog-act.s9553330.46	No 	
+TS3009c.B.dialog-act.s9553330.47	but that's the gadget they want , or the gimmicks . 	
+TS3009c.D.dialog-act.s9553330.119	Yeah , right . 	
+TS3009c.C.dialog-act.s9553330.151	But it it's n nice for young people . 	
+TS3009c.D.dialog-act.s9553330.118	Young people love them . 	
+TS3009c.B.dialog-act.s9553330.48	Yes , we we should really uh include that one , I think . Um 	
+TS3009c.C.dialog-act.s9553330.152	They like gadgets . 	
+TS3009c.D.dialog-act.s9553330.120	Yeah , ple 	
+TS3009c.C.dialog-act.s9553330.153	Yeah . 	
+TS3009c.D.dialog-act.s9553330.121	Right . 	
+TS3009c.C.dialog-act.s9553330.154	If it's cheap . Yeah . 	
+TS3009c.A.dialog-act.s9553330.124	Hmm . 	
+TS3009c.B.dialog-act.s9553330.49	Well , as I said uh earlier I think the uh L_C_D_ screen should be uh positioned at the lower end of the remote . 	
+TS3009c.A.dialog-act.s9553330.92		
+TS3009c.B.dialog-act.s9553330.50	Um the buttons for screen width and general settings and uh and that kind of stuff 	
+TS3009c.D.dialog-act.s9553330.95		
+TS3009c.B.dialog-act.s9553330.51	um we can also do let that kind of functions um be shown in the L_C_D_ screen , uh instead of uh extra buttons . 	
+TS3009c.A.dialog-act.s9553330.125	So you put a menu in the L_C_D_ ? 	
+TS3009c.B.dialog-act.s9553330.52	I think young people and yeah w well every user would like that . 	
+TS3009c.B.dialog-act.s9553330.53	Um the buttons um should be positioned uh positioned the same way as they are on a , well , conventional remote , I think . 	
+TS3009c.B.dialog-act.s9553330.54	For the learnability 	
+TS3009c.B.dialog-act.s9553330.55	and uh well to keep it recognisable . 	
+TS3009c.B.dialog-act.s9553330.56	A voice recognition can be uh implemented . 	
+TS3009c.B.dialog-act.s9553330.57	And uh I drew an example , 	
+TS3009c.C.dialog-act.s9553330.109		
+TS3009c.B.dialog-act.s9553330.58	but it did not work quite the well uh the way I wanted it to do . 	
+TS3009c.D.dialog-act.s9553330.122	Alright . 	
+TS3009c.C.dialog-act.s9553330.155	Can you draw it now of uh 	
+TS3009c.D.dialog-act.s9553330.123	How How 	
+TS3009c.B.dialog-act.s9553330.59	Hmm ? 	
+TS3009c.C.dialog-act.s9553330.156	Can you draw it now ? 	
+TS3009c.A.dialog-act.s9553330.126	Ah . 	
+TS3009c.B.dialog-act.s9553330.60	Well I have the I can draw it again , 	
+TS3009c.B.dialog-act.s9553330.61	and I know what I did wrong . 	
+TS3009c.B.dialog-act.s9553330.62	I didn't tick the note bo box in the . Um 	
+TS3009c.C.dialog-act.s9553330.157	Mm . Alright . 	
+TS3009c.D.dialog-act.s9553330.124	How do you uh uh give input to the menu on the L_C_D_ screen ? 	
+TS3009c.B.dialog-act.s9553330.63	Um with the uh the up and down and and well buttons and the 	
+TS3009c.D.dialog-act.s9553330.125	Alright . 	
+TS3009c.D.dialog-act.s9553330.126	So you have a menu button , 	
+TS3009c.D.dialog-act.s9553330.127	and then you can go up and down . 	
+TS3009c.B.dialog-act.s9553330.64	Well I will draw what I had drawn on the screen . 	
+TS3009c.A.dialog-act.s9553330.127	But then we should also have an uh an Okay button . 	
+TS3009c.D.dialog-act.s9553330.128	Yeah right . 	
+TS3009c.B.dialog-act.s9553330.65	Yes . 	
+TS3009c.B.dialog-act.s9553330.66	Um I shall draw this . If it uh works . 	
+TS3009c.C.dialog-act.s9553330.158	button , yeah . 	
+TS3009c.A.dialog-act.s9553330.128	Just uh 	
+TS3009c.A.dialog-act.s9553330.129	There is already a blank . Yes ? 	
+TS3009c.A.dialog-act.s9553330.130	So Yeah . 	
+TS3009c.D.dialog-act.s9553330.129	Yeah . 	
+TS3009c.B.dialog-act.s9553330.67	Mm so have I . 	
+TS3009c.B.dialog-act.s9553330.20		
+TS3009c.D.dialog-act.s9553330.96		
+TS3009c.A.dialog-act.s9553330.93		
+TS3009c.B.dialog-act.s9553330.68	Nah . 	
+TS3009c.D.dialog-act.s9553330.97	. 	
+TS3009c.D.dialog-act.s9553330.130	You have to push hard . 	
+TS3009c.A.dialog-act.s9553330.94		
+TS3009c.D.dialog-act.s9553330.98		
+TS3009c.D.dialog-act.s9553330.99		
+TS3009c.C.dialog-act.s9553330.159	I suggest a banana shape . 	
+TS3009c.B.dialog-act.s9553330.21		
+TS3009c.A.dialog-act.s9553330.95		
+TS3009c.C.dialog-act.s9553330.160	Because of the fruity uh fashion . 	
+TS3009c.D.dialog-act.s9553330.131	Yeah . 	
+TS3009c.D.dialog-act.s9553330.132	Yeah . 	
+TS3009c.A.dialog-act.s9553330.131	No 	
+TS3009c.A.dialog-act.s9553330.132	m Next year that's out . 	
+TS3009c.D.dialog-act.s9553330.100		
+TS3009c.C.dialog-act.s9553330.161	Yellow and 	
+TS3009c.B.dialog-act.s9553330.22		
+TS3009c.C.dialog-act.s9553330.162	Yeah alright , yeah . 	
+TS3009c.C.dialog-act.s9553330.163	Just a hunch . 	
+TS3009c.A.dialog-act.s9553330.96		
+TS3009c.B.dialog-act.s9553330.69	Well these little buttons are a bit difficult to uh draw uh correct . 	
+TS3009c.A.dialog-act.s9553330.133	Yeah . 	
+TS3009c.C.dialog-act.s9553330.164	Those are the the cha the channel buttons of course ? 	
+TS3009c.B.dialog-act.s9553330.70	Yeah just uh the numbers . 	
+TS3009c.B.dialog-act.s9553330.23		
+TS3009c.C.dialog-act.s9553330.165	And then below is the L_C_D_ screen ? 	
+TS3009c.C.dialog-act.s9553330.110		
+TS3009c.B.dialog-act.s9553330.71	These these will be bigger in the the real design . 	
+TS3009c.A.dialog-act.s9553330.97		
+TS3009c.C.dialog-act.s9553330.166	Alright , yeah . 	
+TS3009c.B.dialog-act.s9553330.72	This must be the Okay button used to uh interact with the L_C_D_ screen . 	
+TS3009c.C.dialog-act.s9553330.167	Mm-hmm . 	
+TS3009c.B.dialog-act.s9553330.73	And with this you can uh , yes , go to through the menus 	
+TS3009c.A.dialog-act.s9553330.134	Yeah . 	
+TS3009c.B.dialog-act.s9553330.74	and that can 	
+TS3009c.B.dialog-act.s9553330.75	Um the video button should be uh an apart button , 	
+TS3009c.D.dialog-act.s9553330.133	You've 	
+TS3009c.A.dialog-act.s9553330.135	Yes . 	
+TS3009c.B.dialog-act.s9553330.76	because you want it to uh t , yeah , to use it fast within one uh click . 	
+TS3009c.D.dialog-act.s9553330.134	Right . 	
+TS3009c.A.dialog-act.s9553330.136	And what's the menu button ? 	
+TS3009c.D.dialog-act.s9553330.135	And you you need a you need a speaker . 	
+TS3009c.B.dialog-act.s9553330.77	Um it's 	
+TS3009c.D.dialog-act.s9553330.136	For the 	
+TS3009c.B.dialog-act.s9553330.78	Hmm ? 	
+TS3009c.B.dialog-act.s9553330.79	This button can also be the Menu button , we use in the menus 	
+TS3009c.C.dialog-act.s9553330.111		
+TS3009c.A.dialog-act.s9553330.137	But how did How do you get out of the menu then ? Yeah . 	
+TS3009c.B.dialog-act.s9553330.80	Well we we can add another button here , but 	
+TS3009c.A.dialog-act.s9553330.138	Maybe I you could j just do an an exit with Okay . Uh 	
+TS3009c.C.dialog-act.s9553330.168	Uh by pe pressing the menu button again . 	
+TS3009c.C.dialog-act.s9553330.169	By pressing the menu button again , you go uh out . 	
+TS3009c.D.dialog-act.s9553330.137	Yeah . Yeah . 	
+TS3009c.B.dialog-act.s9553330.81	Yeah . 	
+TS3009c.C.dialog-act.s9553330.170	It's usual the the the d kind of the way it works . 	
+TS3009c.A.dialog-act.s9553330.139	Yes , well but 	
+TS3009c.A.dialog-act.s9553330.140	bec because when you push Menu you get in , 	
+TS3009c.C.dialog-act.s9553330.171	Yeah ? Yeah ? 	
+TS3009c.A.dialog-act.s9553330.141	and then you have to push Okay when you get to a choice . 	
+TS3009c.B.dialog-act.s9553330.82	Ah right . 	
+TS3009c.C.dialog-act.s9553330.172	Yeah . 	
+TS3009c.B.dialog-act.s9553330.83	Well you you 	
+TS3009c.C.dialog-act.s9553330.173	But you can men you can press menu again to get out . 	
+TS3009c.A.dialog-act.s9553330.142	Well that's also the Okay button . 	
+TS3009c.A.dialog-act.s9553330.143	That's you you should have uh 	
+TS3009c.B.dialog-act.s9553330.84	No no , 	
+TS3009c.C.dialog-act.s9553330.174	No . 	
+TS3009c.B.dialog-act.s9553330.85	we we we should uh add uh a extra Menu button 	
+TS3009c.B.dialog-act.s9553330.86	and this the Okay button . 	
+TS3009c.A.dialog-act.s9553330.144	Or you can put in the L_C_D_'s uh window an option Get Out . 	
+TS3009c.D.dialog-act.s9553330.138	Exit . 	
+TS3009c.A.dialog-act.s9553330.145	Exit . 	
+TS3009c.B.dialog-act.s9553330.87	Ah once you have an extra Menu button , you don't need that that extra option . 	
+TS3009c.A.dialog-act.s9553330.146	Well , it's just a choice . 	
+TS3009c.B.dialog-act.s9553330.88	You have uh redundancy . 	
+TS3009c.D.dialog-act.s9553330.139	But we need a we need a a recording recording button for the speech uh part . 	
+TS3009c.C.dialog-act.s9553330.112		
+TS3009c.D.dialog-act.s9553330.140	Or don't 	
+TS3009c.B.dialog-act.s9553330.89	Yeah , 	
+TS3009c.B.dialog-act.s9553330.90	if we decide to uh to implement that , maybe we should . 	
+TS3009c.C.dialog-act.s9553330.175	Why would you put it uh then , 	
+TS3009c.C.dialog-act.s9553330.176	and where is the recording uh the microphone ? 	
+TS3009c.C.dialog-act.s9553330.177	Where would you put it ? 	
+TS3009c.B.dialog-act.s9553330.91	Well they that could be anywhere . 	
+TS3009c.B.dialog-act.s9553330.92	That's very small . 	
+TS3009c.B.dialog-act.s9553330.93	It could be uh down here . 	
+TS3009c.C.dialog-act.s9553330.178	Uh-huh . 	
+TS3009c.B.dialog-act.s9553330.94	Um . Well , not here . 	
+TS3009c.B.dialog-act.s9553330.95	I yeah I suggest here . 	
+TS3009c.B.dialog-act.s9553330.96	But that's just a little gap . Yeah . 	
+TS3009c.D.dialog-act.s9553330.141	Right , 	
+TS3009c.D.dialog-act.s9553330.142	and spea speaker at the back , or something . 	
+TS3009c.C.dialog-act.s9553330.179	Microphone , yeah . 	
+TS3009c.B.dialog-act.s9553330.97	Well the speaker and the microphone , I think , are the same uh little hole thingy . 	
+TS3009c.C.dialog-act.s9553330.180	Yeah I understand . 	
+TS3009c.A.dialog-act.s9553330.98		
+TS3009c.D.dialog-act.s9553330.143	Alright . 	
+TS3009c.B.dialog-act.s9553330.98	Yeah . 	
+TS3009c.C.dialog-act.s9553330.181	Uh but uh we could uh d do , but it's perhaps more expensive , uh the speaker on the back or something . 	
+TS3009c.B.dialog-act.s9553330.100	Well i 	
+TS3009c.B.dialog-act.s9553330.99	Um there are a all already being implemented in in coffee machines , 	
+TS3009c.B.dialog-act.s9553330.101	so they won't be uh very expensive . But 	
+TS3009c.A.dialog-act.s9553330.147	Huh ? 	
+TS3009c.C.dialog-act.s9553330.182	Alright . 	
+TS3009c.D.dialog-act.s9553330.144	Alright . 	
+TS3009c.A.dialog-act.s9553330.148	Yeah ? Okay . 	
+TS3009c.B.dialog-act.s9553330.102	This is my suggested design . 	
+TS3009c.A.dialog-act.s9553330.149	Well , okay , alright . 	
+TS3009c.B.dialog-act.s9553330.103	Um Yes . 	
+TS3009c.A.dialog-act.s9553330.150	Um then let's have a look at the decisions we are going to have to make . 	
+TS3009c.B.dialog-act.s9553330.104	And oh I think as you can see so , the L_C_D_ screen does look better uh at the lower end , or at the bottom . 	
+TS3009c.A.dialog-act.s9553330.151	I'd I agree . 	
+TS3009c.D.dialog-act.s9553330.145	Yeah , fine . 	
+TS3009c.B.dialog-act.s9553330.105	But 	
+TS3009c.A.dialog-act.s9553330.152	Fine . 	
+TS3009c.D.dialog-act.s9553330.146	Move on . 	
+TS3009c.C.dialog-act.s9553330.183	Well yeah yeah yeah . 	
+TS3009c.A.dialog-act.s9553330.153	Yeah . 	
+TS3009c.B.dialog-act.s9553330.106	Oh , um I had some uh examples . 	
+TS3009c.A.dialog-act.s9553330.99		
+TS3009c.C.dialog-act.s9553330.184	I can live with it . 	
+TS3009c.B.dialog-act.s9553330.107	You can uh 	
+TS3009c.A.dialog-act.s9553330.154	Yes ? 	
+TS3009c.D.dialog-act.s9553330.101		
+TS3009c.B.dialog-act.s9553330.108	But I did not like it very much , but 	
+TS3009c.B.dialog-act.s9553330.109	Well these are quite obvious , very ugly remote . Um 	
+TS3009c.A.dialog-act.s9553330.155	Too big . 	
+TS3009c.A.dialog-act.s9553330.100		
+TS3009c.D.dialog-act.s9553330.147	Yeah . 	
+TS3009c.C.dialog-act.s9553330.185	They do they don't look fruity enough . 	
+TS3009c.D.dialog-act.s9553330.148	Nei They're n they're not trendy . 	
+TS3009c.B.dialog-act.s9553330.110	No , well th 	
+TS3009c.A.dialog-act.s9553330.156	They're all black . 	
+TS3009c.B.dialog-act.s9553330.111	Yeah . 	
+TS3009c.B.dialog-act.s9553330.112	Well not all . 	
+TS3009c.A.dialog-act.s9553330.157	Hey , that one I like . 	
+TS3009c.B.dialog-act.s9553330.113	Uh this is for children but th 	
+TS3009c.C.dialog-act.s9553330.186	Tho Yeah those 	
+TS3009c.D.dialog-act.s9553330.149	It doesn't look strong . 	
+TS3009c.B.dialog-act.s9553330.114	No . 	
+TS3009c.A.dialog-act.s9553330.158	No . 	
+TS3009c.C.dialog-act.s9553330.187	But it doesn't uh the 	
+TS3009c.B.dialog-act.s9553330.115	W but with the colours i it's a bit the way we're going to . 	
+TS3009c.A.dialog-act.s9553330.159	The remote . 	
+TS3009c.D.dialog-act.s9553330.150	Yeah right . 	
+TS3009c.C.dialog-act.s9553330.188	Yeah , ok Yeah . 	
+TS3009c.B.dialog-act.s9553330.116	Well this is a terrible 	
+TS3009c.A.dialog-act.s9553330.160	Terrible . 	
+TS3009c.D.dialog-act.s9553330.151	This is just crazy . 	
+TS3009c.C.dialog-act.s9553330.189	But it it must not look too childish of course huh ? 	
+TS3009c.A.dialog-act.s9553330.161	It's it's all too much buttons . 	
+TS3009c.B.dialog-act.s9553330.117	Um this looks 	
+TS3009c.A.dialog-act.s9553330.162	Too many buttons . 	
+TS3009c.B.dialog-act.s9553330.118	Yeah . 	
+TS3009c.A.dialog-act.s9553330.163	That's 	
+TS3009c.B.dialog-act.s9553330.119	This uh these are the L_C_D_ screens . 	
+TS3009c.B.dialog-act.s9553330.120	I think we should , if it's um possible , uh one with colours , but 	
+TS3009c.D.dialog-act.s9553330.152	Nah th It's too expensive . 	
+TS3009c.B.dialog-act.s9553330.121	I don't know uh 	
+TS3009c.A.dialog-act.s9553330.164	Well , that's too expensive I think . 	
+TS3009c.B.dialog-act.s9553330.122	Too expensive ? 	
+TS3009c.D.dialog-act.s9553330.153	Yeah . 	
+TS3009c.B.dialog-act.s9553330.123	Alright . 	
+TS3009c.B.dialog-act.s9553330.124	Well Nah . 	
+TS3009c.C.dialog-act.s9553330.190	But it Yeah . 	
+TS3009c.A.dialog-act.s9553330.165	Alright . Yeah . 	
+TS3009c.A.dialog-act.s9553330.166	Okay . 	
+TS3009c.B.dialog-act.s9553330.125	Ha , even more . N 	
+TS3009c.A.dialog-act.s9553330.167	Huh . 	
+TS3009c.A.dialog-act.s9553330.168	Mm no . 	
+TS3009c.D.dialog-act.s9553330.154	But are we going for a strange uh form ? 	
+TS3009c.A.dialog-act.s9553330.169	'Kay . 	
+TS3009c.A.dialog-act.s9553330.170	No , not very strange . 	
+TS3009c.D.dialog-act.s9553330.155	'Cause people like that . 	
+TS3009c.C.dialog-act.s9553330.191	Not not too strange . No . 	
+TS3009c.D.dialog-act.s9553330.156	Not too strange . 	
+TS3009c.D.dialog-act.s9553330.157	You can make the the underside , you can make it more round , where the L_C_D_ is . 	
+TS3009c.A.dialog-act.s9553330.172	It still has t 	
+TS3009c.A.dialog-act.s9553330.173	Yes . 	
+TS3009c.A.dialog-act.s9553330.171	Th 	
+TS3009c.A.dialog-act.s9553330.174	a a kind of bridge . 	
+TS3009c.A.dialog-act.s9553330.175	So it f falls over the hand . 	
+TS3009c.D.dialog-act.s9553330.158	I dunno if you know the No Nokia telephone , with uh the round uh thing at at the bottoms , s something like that . 	
+TS3009c.B.dialog-act.s9553330.126	Well 	
+TS3009c.A.dialog-act.s9553330.176	Yeah ? Yeah ? 	
+TS3009c.A.dialog-act.s9553330.177	Yeah . 	
+TS3009c.D.dialog-act.s9553330.159	You know ? 	
+TS3009c.A.dialog-act.s9553330.178	Well I have at home a remote with a bridge . 	
+TS3009c.A.dialog-act.s9553330.179	It's just a half round half half circle at 	
+TS3009c.A.dialog-act.s9553330.180	And then it falls exactly over the hand , 	
+TS3009c.A.dialog-act.s9553330.181	and that's very nice . 	
+TS3009c.A.dialog-act.s9553330.182	That's It feels comfortable . 	
+TS3009c.D.dialog-act.s9553330.160	Yeah , 	
+TS3009c.D.dialog-act.s9553330.161	but people like something uh new you know . 	
+TS3009c.C.dialog-act.s9553330.192	Exotic yeah . 	
+TS3009c.D.dialog-act.s9553330.162	Yeah , different . 	
+TS3009c.C.dialog-act.s9553330.193	We have t 	
+TS3009c.C.dialog-act.s9553330.194	Yeah , yeah . 	
+TS3009c.A.dialog-act.s9553330.183	Yeah . 	
+TS3009c.C.dialog-act.s9553330.195	I will design it , we design it later . 	
+TS3009c.D.dialog-act.s9553330.163	Y yis 	
+TS3009c.C.dialog-act.s9553330.196	So we'll get to that later I guess . 	
+TS3009c.D.dialog-act.s9553330.164	Alright . Great . 	
+TS3009c.A.dialog-act.s9553330.184	Yeah , alright . 	
+TS3009c.A.dialog-act.s9553330.185	Um where did I put it ? 	
+TS3009c.C.dialog-act.s9553330.197	The specific shape . The 	
+TS3009c.A.dialog-act.s9553330.186	Um conceptual phase , I think this is it . 	
+TS3009c.B.dialog-act.s9553330.127		
+TS3009c.A.dialog-act.s9553330.188	I got this from our friends . 	
+TS3009c.B.dialog-act.s9553330.128		
+TS3009c.A.dialog-act.s9553330.189	So Uh yeah the conceptual design . 	
+TS3009c.C.dialog-act.s9553330.198	Our sources . 	
+TS3009c.A.dialog-act.s9553330.191	These are a few examples which we have to decide about . 	
+TS3009c.A.dialog-act.s9553330.192	All the the materials from the case , uh the electric cable that's all your uh your side of the story . 	
+TS3009c.A.dialog-act.s9553330.190	Um 	
+TS3009c.D.dialog-act.s9553330.167	Your bag . 	
+TS3009c.A.dialog-act.s9553330.193	Yeah . 	
+TS3009c.A.dialog-act.s9553330.195	Um now from the user interface , your uh package ? 	
+TS3009c.A.dialog-act.s9553330.196	Um where 	
+TS3009c.A.dialog-act.s9553330.197	No well , that's more like the buttons where they have to come . 	
+TS3009c.A.dialog-act.s9553330.198	And um B a bit of , yeah well , a bit of uh design . 	
+TS3009c.B.dialog-act.s9553330.130	Yeah , this is what we've just done . Right ? 	
+TS3009c.C.dialog-act.s9553330.199	But uh we should decide now . 	
+TS3009c.A.dialog-act.s9553330.199	Yes , 	
+TS3009c.A.dialog-act.s9553330.200	but we have to decide about these now . 	
+TS3009c.B.dialog-act.s9553330.131	Ah right . 	
+TS3009c.D.dialog-act.s9553330.168	Yeah . 	
+TS3009c.D.dialog-act.s9553330.169	Materials are the most , most impor 	
+TS3009c.A.dialog-act.s9553330.201	And uh the trend-watching . 	
+TS3009c.A.dialog-act.s9553330.202	So as you said , fruity is in , 	
+TS3009c.A.dialog-act.s9553330.203	well sells good . 	
+TS3009c.B.dialog-act.s9553330.129		
+TS3009c.A.dialog-act.s9553330.204	Wow . 	
+TS3009c.D.dialog-act.s9553330.170	Yeah . 	
+TS3009c.A.dialog-act.s9553330.205	Uh these things . 	
+TS3009c.C.dialog-act.s9553330.200	So we have to uh put it in one uh document . 	
+TS3009c.A.dialog-act.s9553330.206	Uh yes . 	
+TS3009c.A.dialog-act.s9553330.207	Um so if we uh go through them 	
+TS3009c.C.dialog-act.s9553330.201	Copy paste uh this story into a into a Word document , 	
+TS3009c.C.dialog-act.s9553330.202	and then uh put the answers after the subjects . 	
+TS3009c.C.dialog-act.s9553330.203	Yeah . 	
+TS3009c.A.dialog-act.s9553330.187		
+TS3009c.B.dialog-act.s9553330.132	Not everything . 	
+TS3009c.C.dialog-act.s9553330.204	Well we have to decide all these things ? 	
+TS3009c.B.dialog-act.s9553330.133	Yeah but all these examples are uh of a coffee machine . 	
+TS3009c.A.dialog-act.s9553330.208	Yeah well uh 	
+TS3009c.C.dialog-act.s9553330.205	W we can uh override them ? 	
+TS3009c.A.dialog-act.s9553330.209	Why should I uh 	
+TS3009c.D.dialog-act.s9553330.165		
+TS3009c.A.dialog-act.s9553330.210	Yeah . 	
+TS3009c.D.dialog-act.s9553330.166		
+TS3009c.A.dialog-act.s9553330.211	So 	
+TS3009c.C.dialog-act.s9553330.206	Well a case ? Uh that's me . 	
+TS3009c.C.dialog-act.s9553330.207	Uh I suggest 	
+TS3009c.C.dialog-act.s9553330.208	Well what do I suggest actually ? 	
+TS3009c.A.dialog-act.s9553330.212	What what kind of properties should it have ? 	
+TS3009c.C.dialog-act.s9553330.209	Uh s solid , 	
+TS3009c.A.dialog-act.s9553330.213	Well we just listened . 	
+TS3009c.B.dialog-act.s9553330.134	I think we 	
+TS3009c.C.dialog-act.s9553330.210	yeah . Yeah . 	
+TS3009c.B.dialog-act.s9553330.135	Why don't we um use uh titanium 	
+TS3009c.B.dialog-act.s9553330.136	or or a hard , yeah , some kind of metal for the uh the the whole remote except the front . 	
+TS3009c.D.dialog-act.s9553330.171	Do you know the new uh 	
+TS3009c.B.dialog-act.s9553330.138	That 	
+TS3009c.B.dialog-act.s9553330.137	Just like um most cell phones are . 	
+TS3009c.C.dialog-act.s9553330.211	Yeah , I understand . 	
+TS3009c.D.dialog-act.s9553330.172	No no 	
+TS3009c.C.dialog-act.s9553330.212	Yeah . 	
+TS3009c.C.dialog-act.s9553330.213	So we have titanium . 	
+TS3009c.D.dialog-act.s9553330.173	The front is the most important . 	
+TS3009c.C.dialog-act.s9553330.214	Yeah but the non-removable elements of the of the remote , so not the front , could be titanium , 	
+TS3009c.C.dialog-act.s9553330.215	to give that uh strong look . 	
+TS3009c.B.dialog-act.s9553330.140	Yeah . 	
+TS3009c.A.dialog-act.s9553330.214	You know what ? 	
+TS3009c.C.dialog-act.s9553330.216	And then the front is made of plastic . 	
+TS3009c.C.dialog-act.s9553330.217	And you can put that on and off , 	
+TS3009c.C.dialog-act.s9553330.218	and switch it . 	
+TS3009c.B.dialog-act.s9553330.139	Yeah . 	
+TS3009c.D.dialog-act.s9553330.174	But the feel of plastic isn't strong . 	
+TS3009c.C.dialog-act.s9553330.219	No but you have titanium of course . 	
+TS3009c.B.dialog-act.s9553330.141	No but you you have this 	
+TS3009c.B.dialog-act.s9553330.142	Yeah . 	
+TS3009c.C.dialog-act.s9553330.220	Uh you have the best of both worlds . 	
+TS3009c.D.dialog-act.s9553330.175	Yeah alright , alright . 'Kay . 	
+TS3009c.B.dialog-act.s9553330.143	Yeah , you have the re remote in your hand like this . 	
+TS3009c.B.dialog-act.s9553330.144	So you feel titanium . 	
+TS3009c.C.dialog-act.s9553330.221	And of course , yeah , you have the the the plastic front end . 	
+TS3009c.C.dialog-act.s9553330.222	But you also have the titanium . 	
+TS3009c.D.dialog-act.s9553330.176	Yeah . 	
+TS3009c.D.dialog-act.s9553330.177	Fronts are are cheaper than when they're from plas 	
+TS3009c.B.dialog-act.s9553330.145	Yeah . 	
+TS3009c.C.dialog-act.s9553330.223	Yeah of course , 	
+TS3009c.C.dialog-act.s9553330.224	but yeah you have to make a decision . 	
+TS3009c.B.dialog-act.s9553330.146	And I don't know if you can make steel just any way you want it to . 	
+TS3009c.D.dialog-act.s9553330.179	Yeah , but it it's expensive . 	
+TS3009c.C.dialog-act.s9553330.225	I guess so . 	
+TS3009c.C.dialog-act.s9553330.227	Uh titanium I sh I think uh 	
+TS3009c.B.dialog-act.s9553330.147	Yeah . 	
+TS3009c.D.dialog-act.s9553330.180	Bendable . 	
+TS3009c.C.dialog-act.s9553330.226	Huh ? 	
+TS3009c.D.dialog-act.s9553330.181	Bendable . 	
+TS3009c.C.dialog-act.s9553330.228	Well , well the 	
+TS3009c.B.dialog-act.s9553330.148	Well any colour 	
+TS3009c.C.dialog-act.s9553330.229	According to my sources , uh it's it's totally possible to make an entire uh uh uh Titanium is available , and uh we can uh make uh an entire remote out of it , if we want . 	
+TS3009c.B.dialog-act.s9553330.149	Yeah , 	
+TS3009c.B.dialog-act.s9553330.150	then you you paint it in the colour you want it . 	
+TS3009c.D.dialog-act.s9553330.182	Yeah . 	
+TS3009c.C.dialog-act.s9553330.230	Mm . 	
+TS3009c.B.dialog-act.s9553330.151	The plastic is is the colour you want it . 	
+TS3009c.D.dialog-act.s9553330.183	Paint spray . 	
+TS3009c.C.dialog-act.s9553330.231	Mm . 	
+TS3009c.D.dialog-act.s9553330.184	Yeah alright . 	
+TS3009c.B.dialog-act.s9553330.152	So Yeah . 	
+TS3009c.D.dialog-act.s9553330.185	So , 	
+TS3009c.A.dialog-act.s9553330.215	Alright . 	
+TS3009c.D.dialog-act.s9553330.186	we're going for a titanium back and a plastic front ? 	
+TS3009c.A.dialog-act.s9553330.216	I've uh 	
+TS3009c.C.dialog-act.s9553330.232	Yeah , 	
+TS3009c.B.dialog-act.s9553330.153	Mm . 	
+TS3009c.C.dialog-act.s9553330.233	I think that's a nice trade-off . 	
+TS3009c.A.dialog-act.s9553330.217	Titanium back , plastic front . 	
+TS3009c.A.dialog-act.s9553330.218	Okay . 	
+TS3009c.A.dialog-act.s9553330.219	Um well I am going to put it in here , 	
+TS3009c.A.dialog-act.s9553330.220	uh because we can uh look . 	
+TS3009c.D.dialog-act.s9553330.187	Yeah , great . 	
+TS3009c.B.dialog-act.s9553330.154	Yeah . 	
+TS3009c.A.dialog-act.s9553330.221	I Um solid feel and trendy look . 	
+TS3009c.C.dialog-act.s9553330.234	Alright . 	
+TS3009c.A.dialog-act.s9553330.222	So material , um hard plastic 	
+TS3009c.C.dialog-act.s9553330.235	Yeah , for the front 	
+TS3009c.A.dialog-act.s9553330.223	for the front ? 	
+TS3009c.C.dialog-act.s9553330.236	and then titanium for the back . 	
+TS3009c.D.dialog-act.s9553330.188	Yeah . 	
+TS3009c.C.dialog-act.s9553330.237	For the non-removable uh part . 	
+TS3009c.D.dialog-act.s9553330.194	But then you have the problem , when you have a titanium back , you can't switch it . 	
+TS3009c.D.dialog-act.s9553330.195	When you want an other colour on the front , it doesn't match . 	
+TS3009c.C.dialog-act.s9553330.241	Well but 	
+TS3009c.D.dialog-act.s9553330.196	You know ? 	
+TS3009c.B.dialog-act.s9553330.158	Well titanium is neutral . 	
+TS3009c.C.dialog-act.s9553330.242	The titan titanium isn't isn't v very 	
+TS3009c.C.dialog-act.s9553330.243	Yeah , i it doesn't uh curves . 	
+TS3009c.D.dialog-act.s9553330.197	I understand . 	
+TS3009c.A.dialog-act.s9553330.224		
+TS3009c.B.dialog-act.s9553330.155		
+TS3009c.C.dialog-act.s9553330.245	No uh I nei . Titanium is very 	
+TS3009c.C.dialog-act.s9553330.246	No no no , 	
+TS3009c.C.dialog-act.s9553330.244	but you know b Titanium is very basic colour , 	
+TS3009c.D.dialog-act.s9553330.198	Yeah , yeah , yeah . Yeah . 	
+TS3009c.C.dialog-act.s9553330.247	and it doesn't really matter if we have a purple front on it or a orange front . 	
+TS3009c.B.dialog-act.s9553330.159	Hmm . 	
+TS3009c.B.dialog-act.s9553330.160	Yeah . 	
+TS3009c.D.dialog-act.s9553330.199	Alright . 	
+TS3009c.C.dialog-act.s9553330.248	I dunno if if you disagree , 	
+TS3009c.B.dialog-act.s9553330.161	Well 	
+TS3009c.C.dialog-act.s9553330.249	but I think it's doesn't matter very much . 	
+TS3009c.D.dialog-act.s9553330.200	Yeah . Alright . 	
+TS3009c.B.dialog-act.s9553330.162	Our customers will use those uh funky uh trendy colours , 	
+TS3009c.D.dialog-act.s9553330.201	Funky customers . 	
+TS3009c.B.dialog-act.s9553330.163	and they don't use uh wood . 	
+TS3009c.C.dialog-act.s9553330.250	And even if it does uh doesn't match , it will uh People like mm colours that don't match . 	
+TS3009c.B.dialog-act.s9553330.164	Mm . Yeah . 	
+TS3009c.D.dialog-act.s9553330.202	Alright . 	
+TS3009c.A.dialog-act.s9553330.227	Okay . And well 	
+TS3009c.A.dialog-act.s9553330.228	the the electrical cable is just normal uh . 	
+TS3009c.C.dialog-act.s9553330.251	Cop copper uh material . 	
+TS3009c.B.dialog-act.s9553330.165	Yeah . 	
+TS3009c.C.dialog-act.s9553330.252	Excuse me ? 	
+TS3009c.D.dialog-act.s9553330.189		
+TS3009c.C.dialog-act.s9553330.238		
+TS3009c.B.dialog-act.s9553330.166	The electrical cable uh does 	
+TS3009c.A.dialog-act.s9553330.229	It's uh from uh our coffee uh 	
+TS3009c.C.dialog-act.s9553330.253	Yeah copper i just a ba basic uh 	
+TS3009c.B.dialog-act.s9553330.167	No we don't use an electrical cable . 	
+TS3009c.A.dialog-act.s9553330.225		
+TS3009c.B.dialog-act.s9553330.168	Yeah inside , 	
+TS3009c.B.dialog-act.s9553330.169	but this is for the coffee uh machine . 	
+TS3009c.C.dialog-act.s9553330.254	Yeah in 	
+TS3009c.A.dialog-act.s9553330.226		
+TS3009c.C.dialog-act.s9553330.255	Yeah well inside the remote control we use a couple of uh 	
+TS3009c.A.dialog-act.s9553330.230	Of course . 	
+TS3009c.B.dialog-act.s9553330.170	Yeah , 	
+TS3009c.B.dialog-act.s9553330.171	but that's not what's meant here , I think . 	
+TS3009c.D.dialog-act.s9553330.203	Nei . 	
+TS3009c.C.dialog-act.s9553330.239		
+TS3009c.D.dialog-act.s9553330.204	So external . 	
+TS3009c.B.dialog-act.s9553330.156		
+TS3009c.C.dialog-act.s9553330.256	Oh external ? 	
+TS3009c.D.dialog-act.s9553330.205	Yeah . 	
+TS3009c.B.dialog-act.s9553330.172	Yeah . 	
+TS3009c.C.dialog-act.s9553330.257	Well A coffee grind doesn't have 	
+TS3009c.C.dialog-act.s9553330.258	Na ja . Never mind the coffee grind . 	
+TS3009c.A.dialog-act.s9553330.231	Well uh 	
+TS3009c.D.dialog-act.s9553330.190		
+TS3009c.A.dialog-act.s9553330.232	all the all the inside work of our remote is uh standard work . 	
+TS3009c.A.dialog-act.s9553330.233	So 	
+TS3009c.C.dialog-act.s9553330.259	Right ? 	
+TS3009c.D.dialog-act.s9553330.191		
+TS3009c.A.dialog-act.s9553330.234	The chip is normal silicon . 	
+TS3009c.C.dialog-act.s9553330.240		
+TS3009c.A.dialog-act.s9553330.235	Uh the buttons are normal , etcetera . 	
+TS3009c.D.dialog-act.s9553330.192		
+TS3009c.A.dialog-act.s9553330.236	Okay ? 	
+TS3009c.C.dialog-act.s9553330.260	Alright . Mm-hmm . 	
+TS3009c.A.dialog-act.s9553330.237	So that's just easy . 	
+TS3009c.A.dialog-act.s9553330.238	Uh we decide about that just by looking at our competitors and our earlier uh remotes . 	
+TS3009c.A.dialog-act.s9553330.239	The conceptual specification of the user interface ? 	
+TS3009c.A.dialog-act.s9553330.240	Um well we have our beautiful drawing . 	
+TS3009c.D.dialog-act.s9553330.206	Alright . 	
+TS3009c.B.dialog-act.s9553330.173	Well I got a better one here 	
+TS3009c.B.dialog-act.s9553330.174	and I will um 	
+TS3009c.A.dialog-act.s9553330.242	Well you can put that in uh into the shared folder , 	
+TS3009c.B.dialog-act.s9553330.175	The shared folder . 	
+TS3009c.A.dialog-act.s9553330.243	and then I'll put it in our end report . 	
+TS3009c.B.dialog-act.s9553330.176	I will work this out uh for the uh next meeting . 	
+TS3009c.A.dialog-act.s9553330.244	Yes , 	
+TS3009c.A.dialog-act.s9553330.245	you can 	
+TS3009c.A.dialog-act.s9553330.246	Mm yeah . You can uh put some uh which button is what . 	
+TS3009c.D.dialog-act.s9553330.193		
+TS3009c.B.dialog-act.s9553330.177	Yeah yeah yeah . 	
+TS3009c.A.dialog-act.s9553330.247	Okay . Um 	
+TS3009c.A.dialog-act.s9553330.249	the trend-watching 	
+TS3009c.A.dialog-act.s9553330.250	included these days . 	
+TS3009c.B.dialog-act.s9553330.157		
+TS3009c.A.dialog-act.s9553330.251	And what do we ? 	
+TS3009c.A.dialog-act.s9553330.252	We thing that fruit and bright colours are 	
+TS3009c.C.dialog-act.s9553330.261	Yeah the the the front w 	
+TS3009c.D.dialog-act.s9553330.207	I think we can launch a couple of packages . 	
+TS3009c.D.dialog-act.s9553330.208	You can buy a different kind of of of machine , 	
+TS3009c.B.dialog-act.s9553330.178	Yeah . 	
+TS3009c.D.dialog-act.s9553330.209	but it's the same thing , but with another front . 	
+TS3009c.A.dialog-act.s9553330.253	Yes . 	
+TS3009c.C.dialog-act.s9553330.262	Mm-hmm . 	
+TS3009c.D.dialog-act.s9553330.210	So 	
+TS3009c.A.dialog-act.s9553330.254	We can also uh implement um we can also implement fronts from um movies that are very hot . 	
+TS3009c.B.dialog-act.s9553330.179	Yeah 	
+TS3009c.B.dialog-act.s9553330.180	that's the whole idea of the front . 	
+TS3009c.D.dialog-act.s9553330.211	And you can you can 	
+TS3009c.C.dialog-act.s9553330.263	Yeah . Yeah . 	
+TS3009c.A.dialog-act.s9553330.255	Uh those kind of things . 	
+TS3009c.B.dialog-act.s9553330.181	Yes . 	
+TS3009c.D.dialog-act.s9553330.212	Yeah right . 	
+TS3009c.B.dialog-act.s9553330.182	But that's for later on . 	
+TS3009c.B.dialog-act.s9553330.183	The fronts y you can do anything with them . 	
+TS3009c.A.dialog-act.s9553330.256	Yeah . 	
+TS3009c.D.dialog-act.s9553330.213	Yeah but if you if you launch uh five different packages like iPod mini 	
+TS3009c.B.dialog-act.s9553330.184	Yeah , right 	
+TS3009c.B.dialog-act.s9553330.185	For the uh initiative uh launch . 	
+TS3009c.D.dialog-act.s9553330.215	Yeah . 	
+TS3009c.C.dialog-act.s9553330.264	For the for the launch , yeah . 	
+TS3009c.D.dialog-act.s9553330.214	It's good marketing . 	
+TS3009c.B.dialog-act.s9553330.186	Mm . 	
+TS3009c.A.dialog-act.s9553330.257	Launch different lines at once . 	
+TS3009c.C.dialog-act.s9553330.265	So e th then a c couple of basic colours . 	
+TS3009c.C.dialog-act.s9553330.266	Not not very uh sim Not 	
+TS3009c.D.dialog-act.s9553330.216	Yeah , 	
+TS3009c.D.dialog-act.s9553330.217	n not too heavy . 	
+TS3009c.D.dialog-act.s9553330.218	You can always take another pick . 	
+TS3009c.C.dialog-act.s9553330.267	Yeah . 	
+TS3009c.A.dialog-act.s9553330.258	We should not give them the m the most lovely front when they buy it for the first time . 	
+TS3009c.D.dialog-act.s9553330.219	They have to buy it later on . 	
+TS3009c.C.dialog-act.s9553330.268	Yeah . 	
+TS3009c.B.dialog-act.s9553330.187	Oh yeah . 	
+TS3009c.A.dialog-act.s9553330.259	Yeah . 	
+TS3009c.D.dialog-act.s9553330.220	Yeah right . 	
+TS3009c.B.dialog-act.s9553330.188	Yeah . Yeah . 	
+TS3009c.A.dialog-act.s9553330.260	Come on . 	
+TS3009c.D.dialog-act.s9553330.222	More basic . 	
+TS3009c.A.dialog-act.s9553330.261	We still have to make those fifty million , yeah ? . 	
+TS3009c.D.dialog-act.s9553330.221	Yeah . 	
+TS3009c.C.dialog-act.s9553330.269	Very boring , yeah . 	
+TS3009c.B.dialog-act.s9553330.189	Well you can you can give them uh s s three or so , 	
+TS3009c.C.dialog-act.s9553330.270	The most boring fronts possible . 	
+TS3009c.A.dialog-act.s9553330.262	The most ugly . 	
+TS3009c.B.dialog-act.s9553330.190	so that they can uh experiment with it 	
+TS3009c.B.dialog-act.s9553330.191	and that they want more . 	
+TS3009c.D.dialog-act.s9553330.223	Yeah , right . 	
+TS3009c.A.dialog-act.s9553330.263	Two . 	
+TS3009c.C.dialog-act.s9553330.271	Yeah but you you can have some basic colours , 	
+TS3009c.C.dialog-act.s9553330.272	and then we come with the special patterns on them , 	
+TS3009c.B.dialog-act.s9553330.192	Red red , blue and green you give them or something , 	
+TS3009c.C.dialog-act.s9553330.273	and and uh 	
+TS3009c.A.dialog-act.s9553330.264	Yeah . 	
+TS3009c.D.dialog-act.s9553330.224	Yeah . 	
+TS3009c.C.dialog-act.s9553330.274	And uh 	
+TS3009c.B.dialog-act.s9553330.193	and then you can give them uh other ones . 	
+TS3009c.A.dialog-act.s9553330.265	Yeah . Alright . 	
+TS3009c.A.dialog-act.s9553330.269	Um well the buttons etcetera , we get from Mike . 	
+TS3009c.A.dialog-act.s9553330.270	Uh this fruit and bright colours , 	
+TS3009c.A.dialog-act.s9553330.271	yeah well I think we'll have to in the next uh half an hour , we'll have to uh s s specify the different uh types we want to launch , when we uh well introduce our remote . 	
+TS3009c.C.dialog-act.s9553330.280	Uh we still have to make We have still have to make the es the the real basic design . 	
+TS3009c.C.dialog-act.s9553330.281	Because yeah we have the sketch but 	
+TS3009c.D.dialog-act.s9553330.226	Yeah . 	
+TS3009c.D.dialog-act.s9553330.227	But we we must remember that fancy look-and-feel is the most important thing . 	
+TS3009c.A.dialog-act.s9553330.272	Yes . 	
+TS3009c.D.dialog-act.s9553330.228	Else it w won't sell . 	
+TS3009c.C.dialog-act.s9553330.275		
+TS3009c.D.dialog-act.s9553330.229	So 	
+TS3009c.A.dialog-act.s9553330.273	Yes . 	
+TS3009c.C.dialog-act.s9553330.282	Alright , yeah . 	
+TS3009c.A.dialog-act.s9553330.274	Well I'll have to , 	
+TS3009c.A.dialog-act.s9553330.275	before I get another warning for five minutes , I'm going to get 	
+TS3009c.A.dialog-act.s9553330.276	Where is my mouse ? 	
+TS3009c.A.dialog-act.s9553330.277	Uh where is my mouse ? 	
+TS3009c.C.dialog-act.s9553330.276		
+TS3009c.D.dialog-act.s9553330.230	Lost my mouse . 	
+TS3009c.B.dialog-act.s9553330.194		
+TS3009c.A.dialog-act.s9553330.278	Oh yeah . 	
+TS3009c.A.dialog-act.s9553330.279	Um this is it . 	
+TS3009c.C.dialog-act.s9553330.277		
+TS3009c.D.dialog-act.s9553330.231	Unbelievable . 	
+TS3009c.A.dialog-act.s9553330.266		
+TS3009c.A.dialog-act.s9553330.280	Well , um this we have . 	
+TS3009c.D.dialog-act.s9553330.232	Yeah . 	
+TS3009c.A.dialog-act.s9553330.281	Uh basic stuff . 	
+TS3009c.A.dialog-act.s9553330.282	Interface we have . Supplements , L_C_D_ . 	
+TS3009c.A.dialog-act.s9553330.283	Maybe a a cheap voice recording . 	
+TS3009c.A.dialog-act.s9553330.284	Well 	
+TS3009c.B.dialog-act.s9553330.198	Yeah we should do that . 	
+TS3009c.C.dialog-act.s9553330.283	The price ? 	
+TS3009c.A.dialog-act.s9553330.285	Yes . Alright . 	
+TS3009c.A.dialog-act.s9553330.286	Individual actions . 	
+TS3009c.C.dialog-act.s9553330.284	We all agree on that . Yeah . 	
+TS3009c.B.dialog-act.s9553330.199	Mm . 	
+TS3009c.A.dialog-act.s9553330.287	Industry designer , . User Interface , Mike . You're going to work together on a prototype drawing on the SMARTboard . 	
+TS3009c.B.dialog-act.s9553330.201	Yeah , 	
+TS3009c.B.dialog-act.s9553330.202	we can do that . 	
+TS3009c.C.dialog-act.s9553330.285	Together or uh 	
+TS3009c.C.dialog-act.s9553330.286	Yeah together . 	
+TS3009c.D.dialog-act.s9553330.233	Yeah togeth 	
+TS3009c.A.dialog-act.s9553330.288	That's what I got uh to hear . 	
+TS3009c.C.dialog-act.s9553330.287	How 	
+TS3009c.C.dialog-act.s9553330.288	Yeah yeah , but how do I 	
+TS3009c.B.dialog-act.s9553330.203	But bu we stay we stay here or something ? 	
+TS3009c.A.dialog-act.s9553330.289	Yes 	
+TS3009c.A.dialog-act.s9553330.290	well we'll get it to hear that I think . 	
+TS3009c.C.dialog-act.s9553330.278		
+TS3009c.A.dialog-act.s9553330.291	But I think so . 	
+TS3009c.D.dialog-act.s9553330.234	You can take the SMARTboard . 	
+TS3009c.A.dialog-act.s9553330.292	Th they're saying SMARTboard and that's it 	
+TS3009c.B.dialog-act.s9553330.204	Ah right . 	
+TS3009c.A.dialog-act.s9553330.293	This is the SMARTboard , so 	
+TS3009c.B.dialog-act.s9553330.205	And take it to our rooms 	
+TS3009c.B.dialog-act.s9553330.206	and uh 	
+TS3009c.A.dialog-act.s9553330.294	Um so you can uh you you are going to make a prototype , 	
+TS3009c.A.dialog-act.s9553330.295	and y Well that's includes uh specifying the buttons etcetera . 	
+TS3009c.B.dialog-act.s9553330.207	Ah , 	
+TS3009c.B.dialog-act.s9553330.208	specific instructions will be sent to you by your personal coach . 	
+TS3009c.A.dialog-act.s9553330.296	Yeah . 	
+TS3009c.A.dialog-act.s9553330.297	So you'll get it on your em on your laptop . 	
+TS3009c.A.dialog-act.s9553330.298	Um well you will go and do something else uh on the project 	
+TS3009c.D.dialog-act.s9553330.235	Have fun . 	
+TS3009c.C.dialog-act.s9553330.289	Some Some non functional tasks . 	
+TS3009c.B.dialog-act.s9553330.195		
+TS3009c.A.dialog-act.s9553330.299	yeah project evaluation . 	
+TS3009c.A.dialog-act.s9553330.300	So um 	
+TS3009c.D.dialog-act.s9553330.236	'Kay . 	
+TS3009c.A.dialog-act.s9553330.301	, what are you going to do ? 	
+TS3009c.A.dialog-act.s9553330.302	Uh I don't know what product evaluation exactly means , 	
+TS3009c.A.dialog-act.s9553330.303	but uh you'll get uh the specifications . 	
+TS3009c.D.dialog-act.s9553330.237	We don't have produ product yet , 	
+TS3009c.D.dialog-act.s9553330.238	so kind of difficult . 	
+TS3009c.A.dialog-act.s9553330.304	Yeah . 	
+TS3009c.A.dialog-act.s9553330.305	That's why I uh 	
+TS3009c.A.dialog-act.s9553330.306	But uh 	
+TS3009c.C.dialog-act.s9553330.290	You're fired . 	
+TS3009c.D.dialog-act.s9553330.225		
+TS3009c.B.dialog-act.s9553330.196		
+TS3009c.C.dialog-act.s9553330.291	No but 	
+TS3009c.A.dialog-act.s9553330.307	How long do we still have ? 	
+TS3009c.C.dialog-act.s9553330.292	Well , can we talk about something else ? Uh 	
+TS3009c.A.dialog-act.s9553330.308	Yeah . 	
+TS3009c.C.dialog-act.s9553330.293	Uh no I don't know anything , 	
+TS3009c.D.dialog-act.s9553330.239	Ajax . Nah . 	
+TS3009c.C.dialog-act.s9553330.294	but maybe uh anyone else uh 	
+TS3009c.B.dialog-act.s9553330.209	Yeah . Um 	
+TS3009c.C.dialog-act.s9553330.295	Yeah ? 	
+TS3009c.B.dialog-act.s9553330.210	Will we use uh round buttons or square ones for the for the numbers ? 	
+TS3009c.D.dialog-act.s9553330.240	Um round . 	
+TS3009c.C.dialog-act.s9553330.296	Round I think . 	
+TS3009c.D.dialog-act.s9553330.241	Yeah . Round . 	
+TS3009c.B.dialog-act.s9553330.211	Yeah I I I also uh thought Yeah . 	
+TS3009c.C.dialog-act.s9553330.297	To make it as uh as round as possible . 	
+TS3009c.B.dialog-act.s9553330.212	And these uh these s these buttons uh are more uh triangle-ish shaped 	
+TS3009c.A.dialog-act.s9553330.309	Why does 	
+TS3009c.D.dialog-act.s9553330.242	Curvy . Yeah . 	
+TS3009c.D.dialog-act.s9553330.243	So you can see you have to up or down . 	
+TS3009c.B.dialog-act.s9553330.213	with a square one in the middle . 	
+TS3009c.A.dialog-act.s9553330.310	Ah f fuck you . 	
+TS3009c.B.dialog-act.s9553330.214	Yeah . Yeah . 	
+TS3009c.C.dialog-act.s9553330.298	But now I see the 	
+TS3009c.D.dialog-act.s9553330.244	And this must be uh volume I think , 	
+TS3009c.A.dialog-act.s9553330.311	Heh ? 	
+TS3009c.D.dialog-act.s9553330.245	and this programme . 	
+TS3009c.B.dialog-act.s9553330.215	Mm . 	
+TS3009c.A.dialog-act.s9553330.267		
+TS3009c.A.dialog-act.s9553330.312	We can't get 	
+TS3009c.B.dialog-act.s9553330.216	Well most of the time uh up and down is programme 	
+TS3009c.B.dialog-act.s9553330.217	and left and right are volume , I think . 	
+TS3009c.C.dialog-act.s9553330.299	Well th th th th th that depends uh . 	
+TS3009c.D.dialog-act.s9553330.246	Yeah . 	
+TS3009c.B.dialog-act.s9553330.218	Yeah , it depends , but 	
+TS3009c.C.dialog-act.s9553330.300	Well we uh 	
+TS3009c.B.dialog-act.s9553330.219	If you turn up the volume , you always see this thingy go up . 	
+TS3009c.C.dialog-act.s9553330.301	We we j we'll just give them an uh 	
+TS3009c.D.dialog-act.s9553330.247	Yeah , that's right . 	
+TS3009c.C.dialog-act.s9553330.302	We'll design it , 	
+TS3009c.C.dialog-act.s9553330.303	and then they can give comments on it . 	
+TS3009c.B.dialog-act.s9553330.220	Yeah . 	
+TS3009c.B.dialog-act.s9553330.221	Yeah alright . 	
+TS3009c.D.dialog-act.s9553330.248	Yeah . Okay . 	
+TS3009c.A.dialog-act.s9553330.313	Ts 	
+TS3009c.A.dialog-act.s9553330.314	It doesn't work any more . 	
+TS3009c.A.dialog-act.s9553330.315	We can't save them . 	
+TS3009c.A.dialog-act.s9553330.316	So we'll just have them uh standing there . 	
+TS3009c.D.dialog-act.s9553330.249	Yeah , I noticed . 	
+TS3009c.D.dialog-act.s9553330.250	You can't uh click the corners . 	
+TS3009c.A.dialog-act.s9553330.317	No . 	
+TS3009c.B.dialog-act.s9553330.197		
+TS3009c.A.dialog-act.s9553330.318	It's a bit uh bit a pity . 	
+TS3009c.D.dialog-act.s9553330.251	It's a real real great thing . 	
+TS3009c.A.dialog-act.s9553330.319	Well we still have uh more than five minutes . 	
+TS3009c.A.dialog-act.s9553330.320	Um 	
+TS3009c.C.dialog-act.s9553330.279		
+TS3009c.A.dialog-act.s9553330.321	So 	
+TS3009c.A.dialog-act.s9553330.322	what are we going to do ? 	
+TS3009c.A.dialog-act.s9553330.268		
+TS3009c.A.dialog-act.s9553330.323	I as Project Manager ha don't have a clue . 	
+TS3009c.D.dialog-act.s9553330.252	Let's start the design . 	
+TS3009c.A.dialog-act.s9553330.324	Oh we can uh decide how we implement the feeling from our company into the remote . 	
+TS3009c.C.dialog-act.s9553330.304	Well yeah . Um I think um a logo , our company logo , and the slogan should be or could be 	
+TS3009c.B.dialog-act.s9553330.222	Mm . 	
+TS3009c.A.dialog-act.s9553330.325	Also the slogan ? On the 	
+TS3009c.C.dialog-act.s9553330.305	Yeah , why not ? 	
+TS3009c.C.dialog-act.s9553330.306	If there's enough space , you can put uh 	
+TS3009c.B.dialog-act.s9553330.223	Uh I I'd say only the logo . 	
+TS3009c.C.dialog-act.s9553330.307	We'll we'll 	
+TS3009c.D.dialog-act.s9553330.254	O 	
+TS3009c.D.dialog-act.s9553330.253	Yeah . Me too . 	
+TS3009c.B.dialog-act.s9553330.224	Too much text and it gets too too busy . 	
+TS3009c.C.dialog-act.s9553330.308	Well , our slogan is not very long . 	
+TS3009c.C.dialog-act.s9553330.309	It's just a simple 	
+TS3009c.C.dialog-act.s9553330.310	What is it ? 	
+TS3009c.B.dialog-act.s9553330.225	Well it's quite a long phrase . 	
+TS3009c.A.dialog-act.s9553330.326	We put the fashion in electronics . 	
+TS3009c.A.dialog-act.s9553330.327	We put the fashion in electronics . 	
+TS3009c.D.dialog-act.s9553330.255	But we kree we keep adjusting to the fashion with our fronts . So 	
+TS3009c.C.dialog-act.s9553330.311	You c 	
+TS3009c.C.dialog-act.s9553330.312	But you can put it on the back , 	
+TS3009c.C.dialog-act.s9553330.313	on the titanium part . 	
+TS3009c.C.dialog-act.s9553330.314	The logo and the and the 	
+TS3009c.D.dialog-act.s9553330.256	Yeah , right . 	
+TS3009c.B.dialog-act.s9553330.226	Ah the logo should be on the top I think . 	
+TS3009c.D.dialog-act.s9553330.257	The logo 	
+TS3009c.A.dialog-act.s9553330.328	On the top . Yeah . 	
+TS3009c.A.dialog-act.s9553330.329	Well in in in the right top corner ? 	
+TS3009c.C.dialog-act.s9553330.315	Yeah they do . Well yeah . 	
+TS3009c.D.dialog-act.s9553330.258	Yeah . 	
+TS3009c.B.dialog-act.s9553330.228	Right corner , yes . 	
+TS3009c.A.dialog-act.s9553330.330	And well you c 	
+TS3009c.C.dialog-act.s9553330.316	Right corner , 	
+TS3009c.A.dialog-act.s9553330.331	On the back , you can put uh h At the bottom , you can put the logo with the 	
+TS3009c.C.dialog-act.s9553330.317	or maybe here in the middle ? 	
+TS3009c.B.dialog-act.s9553330.229	uh the text ? 	
+TS3009c.A.dialog-act.s9553330.332	Yeah . 	
+TS3009c.B.dialog-act.s9553330.230	Yeah . 	
+TS3009c.D.dialog-act.s9553330.259	But the logo the logo shouldn't be exchangeable , when you get off the front . 	
+TS3009c.A.dialog-act.s9553330.333	Just just small . 	
+TS3009c.B.dialog-act.s9553330.231	Uh yeah , at the back ? 	
+TS3009c.C.dialog-act.s9553330.318	Yeah 	
+TS3009c.C.dialog-act.s9553330.319	it it should be hard on the on the on the board , 	
+TS3009c.B.dialog-act.s9553330.232	Well you c Well uh Yes . 	
+TS3009c.A.dialog-act.s9553330.334	Yeah well 	
+TS3009c.D.dialog-act.s9553330.260	Yeah . Yeah . 	
+TS3009c.C.dialog-act.s9553330.320	and you can remove the front . 	
+TS3009c.B.dialog-act.s9553330.233	You can 	
+TS3009c.B.dialog-act.s9553330.234	The logo can be on on every uh front . 	
+TS3009c.D.dialog-act.s9553330.261	Yeah , 	
+TS3009c.B.dialog-act.s9553330.235	Yeah , but then you must uh really uh yeah push it in or something . 	
+TS3009c.A.dialog-act.s9553330.335	Carved into the material . 	
+TS3009c.A.dialog-act.s9553330.336	No , 	
+TS3009c.A.dialog-act.s9553330.337	you you can carve it into the titanium at the back . 	
+TS3009c.C.dialog-act.s9553330.321	I l I like the idea of the of the slogan on the on the on the thing . 	
+TS3009c.B.dialog-act.s9553330.227		
+TS3009c.C.dialog-act.s9553330.322	But am I the only one , or uh 	
+TS3009c.B.dialog-act.s9553330.236	Yeah , on the backside . 	
+TS3009c.A.dialog-act.s9553330.338	Well , management would like it . 	
+TS3009c.B.dialog-act.s9553330.237	Well n n not not on the front side , I think . 	
+TS3009c.A.dialog-act.s9553330.339	The front side , no no l no slogan . 	
+TS3009c.C.dialog-act.s9553330.323	No not on the front , 	
+TS3009c.C.dialog-act.s9553330.324	but on the backside . Uh 	
+TS3009c.B.dialog-act.s9553330.238	On the back Yes , you you can , yeah , push that in , 	
+TS3009c.A.dialog-act.s9553330.340	Sorry . 	
+TS3009c.B.dialog-act.s9553330.239	so that it is always be there . 	
+TS3009c.C.dialog-act.s9553330.325	I think it's a nice idea , to make it more recognisable , 	
+TS3009c.D.dialog-act.s9553330.264	Yeah . 	
+TS3009c.C.dialog-act.s9553330.326	that the next to the logo you have the slogan . 	
+TS3009c.B.dialog-act.s9553330.240	Yeah . 	
+TS3009c.D.dialog-act.s9553330.265	I agree . 	
+TS3009c.C.dialog-act.s9553330.327	To make more uh of an impression . 	
+TS3009c.D.dialog-act.s9553330.266	But not too big . 	
+TS3009c.D.dialog-act.s9553330.267	Just uh 	
+TS3009c.C.dialog-act.s9553330.328	Not too big . No , 	
+TS3009c.C.dialog-act.s9553330.329	very small . 	
+TS3009c.C.dialog-act.s9553330.330	Not on the entire back , 	
+TS3009c.D.dialog-act.s9553330.269		
+TS3009c.C.dialog-act.s9553330.331	but uh just very small . 	
+TS3009c.C.dialog-act.s9553330.332	But readable enough of course . 	
+TS3009c.D.dialog-act.s9553330.271	Okay . 	
+TS3009c.A.dialog-act.s9553330.341	Yes , slogan from company on the back with logo 	
+TS3009c.C.dialog-act.s9553330.333	But we'll uh we'll take that uh with us into the design . 	
+TS3009c.B.dialog-act.s9553330.241	Yeah I think over here the logo . 	
+TS3009c.C.dialog-act.s9553330.334	Lo Uh yeah . 	
+TS3009c.C.dialog-act.s9553330.335	Or maybe here in the middle , 	
+TS3009c.C.dialog-act.s9553330.336	but we'll decide later . 	
+TS3009c.A.dialog-act.s9553330.342	and logo also on the front 	
+TS3009c.A.dialog-act.s9553330.343	but not exchange uh Uh ? Hmm ? Uh when changing fronts . 	
+TS3009c.D.dialog-act.s9553330.270		
+TS3009c.A.dialog-act.s9553330.345	Alright , that's decided . 	
+TS3009c.C.dialog-act.s9553330.337	Do you do you see a bit of the of the um of the uh titanium ? O on the front ? 	
+TS3009c.A.dialog-act.s9553330.344	Five minutes left . 	
+TS3009c.C.dialog-act.s9553330.338	Uh maybe if we make this this this lower part titanium , 	
+TS3009c.B.dialog-act.s9553330.242	Yes 	
+TS3009c.B.dialog-act.s9553330.243	we could 	
+TS3009c.C.dialog-act.s9553330.339	the front is the the upper part , 	
+TS3009c.C.dialog-act.s9553330.340	and the the bit with the with the L_C_D_ screen . So 	
+TS3009c.A.dialog-act.s9553330.346	So a bit of titanium between ? 	
+TS3009c.D.dialog-act.s9553330.272	Yeah . 	
+TS3009c.C.dialog-act.s9553330.341	Yeah . 	
+TS3009c.C.dialog-act.s9553330.342	No no betwe 	
+TS3009c.C.dialog-act.s9553330.343	of between 	
+TS3009c.A.dialog-act.s9553330.347	That's a bit Oh that that's that's pretty cool . 	
+TS3009c.C.dialog-act.s9553330.344	we can do 	
+TS3009c.C.dialog-act.s9553330.345	but But then you have two parts of front , two fronts that 	
+TS3009c.B.dialog-act.s9553330.245	No , they have two fronts , 	
+TS3009c.D.dialog-act.s9553330.273	No no no no . 	
+TS3009c.B.dialog-act.s9553330.246	that . You you can 	
+TS3009c.A.dialog-act.s9553330.348	No ? 	
+TS3009c.B.dialog-act.s9553330.244	Yeah . Yeah . Yeah . 	
+TS3009c.C.dialog-act.s9553330.346	This enti entire bottom ? 	
+TS3009c.D.dialog-act.s9553330.275	Else you you get problems with the L_C_D_ . 	
+TS3009c.B.dialog-act.s9553330.247	Yeah . 	
+TS3009c.A.dialog-act.s9553330.349	Yes . 	
+TS3009c.B.dialog-act.s9553330.248	Yeah . 	
+TS3009c.C.dialog-act.s9553330.347		
+TS3009c.A.dialog-act.s9553330.350	I already have uh all kinds of uh filth between the mobile . 	
+TS3009c.B.dialog-act.s9553330.249	No , you can you can just And then not a straight line but uh some sort of wave or something . 	
+TS3009c.C.dialog-act.s9553330.348	And then the lower part is titanium ? 	
+TS3009c.B.dialog-act.s9553330.250	This is titanium . 	
+TS3009c.C.dialog-act.s9553330.349	I think that's nice , yeah . 	
+TS3009c.D.dialog-act.s9553330.278	Yeah . Some some kind of wei weight in it . Yeah . 	
+TS3009c.B.dialog-act.s9553330.251	And this is uh 	
+TS3009c.A.dialog-act.s9553330.351	Yeah . Round forms . 	
+TS3009c.B.dialog-act.s9553330.252	F front . 	
+TS3009c.C.dialog-act.s9553330.350	Yeah . 	
+TS3009c.C.dialog-act.s9553330.351	I like that bit of uh titanium also on the uh 	
+TS3009c.B.dialog-act.s9553330.253	Yeah . 	
+TS3009c.D.dialog-act.s9553330.279	Yeah . 	
+TS3009c.B.dialog-act.s9553330.254	With the with the curved edge . 	
+TS3009c.A.dialog-act.s9553330.352	Yep . 	
+TS3009c.C.dialog-act.s9553330.352	A bit like uh a bit like your mobile phone . 	
+TS3009c.C.dialog-act.s9553330.353	Maybe you can show it . 	
+TS3009c.B.dialog-act.s9553330.255	Yeah . 	
+TS3009c.C.dialog-act.s9553330.360	It also has the those two distinct uh 	
+TS3009c.B.dialog-act.s9553330.260	Yeah . 	
+TS3009c.D.dialog-act.s9553330.280		
+TS3009c.A.dialog-act.s9553330.353		
+TS3009c.B.dialog-act.s9553330.261	Tada . 	
+TS3009c.C.dialog-act.s9553330.361	Mm bit like this . 	
+TS3009c.B.dialog-act.s9553330.262	Yeah . 	
+TS3009c.A.dialog-act.s9553330.359	Yeah . 	
+TS3009c.D.dialog-act.s9553330.288	Yeah , 	
+TS3009c.C.dialog-act.s9553330.362	Uh it's uh 	
+TS3009c.A.dialog-act.s9553330.360	What ? 	
+TS3009c.C.dialog-act.s9553330.363	Yeah yeah . 	
+TS3009c.B.dialog-act.s9553330.263	Ah . 	
+TS3009c.C.dialog-act.s9553330.364	That uh 	
+TS3009c.C.dialog-act.s9553330.365	Yeah . Maybe a nice touch , yeah . 	
+TS3009c.D.dialog-act.s9553330.291	So uh a little corner of titanium . 	
+TS3009c.A.dialog-act.s9553330.361	So round where ? 	
+TS3009c.B.dialog-act.s9553330.264	Yeah , 	
+TS3009c.B.dialog-act.s9553330.265	that's nice finishing touch you need . 	
+TS3009c.A.dialog-act.s9553330.362	Oh , yeah . 	
+TS3009c.A.dialog-act.s9553330.363	Yes , that also sounds uh pretty uh neat . 	
+TS3009c.C.dialog-act.s9553330.354		
+TS3009c.D.dialog-act.s9553330.292	So this this is the exchangeable part . 	
+TS3009c.C.dialog-act.s9553330.366	I think I'm going to buy it . 	
+TS3009c.A.dialog-act.s9553330.364	We want it . 	
+TS3009c.B.dialog-act.s9553330.266	Yeah , this is the front . 	
+TS3009c.A.dialog-act.s9553330.365	And it's only f twenty five Euros . 	
+TS3009c.D.dialog-act.s9553330.281		
+TS3009c.A.dialog-act.s9553330.366	Come on . 	
+TS3009c.C.dialog-act.s9553330.367	That's a bit too much , but 	
+TS3009c.C.dialog-act.s9553330.368	No , no no no , 	
+TS3009c.A.dialog-act.s9553330.368	No that's nothing . 	
+TS3009c.C.dialog-act.s9553330.369	but I think uh this looks uh pretty nice actually . 	
+TS3009c.A.dialog-act.s9553330.367	The Phillips remote uh costs more . 	
+TS3009c.C.dialog-act.s9553330.370	Of course , because it's my design but 	
+TS3009c.D.dialog-act.s9553330.293	Right . 	
+TS3009c.C.dialog-act.s9553330.371	No our d our design , alright . 	
+TS3009c.B.dialog-act.s9553330.267	My design . 	
+TS3009c.D.dialog-act.s9553330.294	Taking all the credit . 	
+TS3009c.A.dialog-act.s9553330.369	Well uh you two are going to work together . 	
+TS3009c.A.dialog-act.s9553330.370	You'll get your uh specifications on your uh laptop , 	
+TS3009c.A.dialog-act.s9553330.371	and then uh you uh 	
+TS3009c.B.dialog-act.s9553330.268	Yeah . 	
+TS3009c.B.dialog-act.s9553330.269	We'll stay here I guess ? 	
+TS3009c.D.dialog-act.s9553330.295	But there's a problem . 	
+TS3009c.A.dialog-act.s9553330.372	Well I think we can , 	
+TS3009c.A.dialog-act.s9553330.373	I just It's 	
+TS3009c.B.dialog-act.s9553330.270	Well we can uh erase an animal I guess . 	
+TS3009c.D.dialog-act.s9553330.298	Yeah . Nah that's alright , that's alright . 	
+TS3009c.B.dialog-act.s9553330.271	Uh the fourth one . 	
+TS3009c.C.dialog-act.s9553330.372	But don't erase my cat . 	
+TS3009c.D.dialog-act.s9553330.282		
+TS3009c.A.dialog-act.s9553330.374	Yeah , o 	
+TS3009c.B.dialog-act.s9553330.272	Uh the fourth one is empty , isn't it ? 	
+TS3009c.D.dialog-act.s9553330.299		
+TS3009c.B.dialog-act.s9553330.273	Yeah . 	
+TS3009c.A.dialog-act.s9553330.375	Oh 	
+TS3009c.C.dialog-act.s9553330.373	I want to preserve it . 	
+TS3009c.A.dialog-act.s9553330.354		
+TS3009c.B.dialog-act.s9553330.256		
+TS3009c.D.dialog-act.s9553330.300	This one is empty . 	
+TS3009c.B.dialog-act.s9553330.274	Yeah . 	
+TS3009c.C.dialog-act.s9553330.355		
+TS3009c.D.dialog-act.s9553330.301	You have to empty one huh ? 	
+TS3009c.A.dialog-act.s9553330.376	Oh , we have a one . 	
+TS3009c.D.dialog-act.s9553330.283		
+TS3009c.C.dialog-act.s9553330.374	What are you doing chief ? 	
+TS3009c.A.dialog-act.s9553330.377	So , you can uh draw a Yeah . 	
+TS3009c.D.dialog-act.s9553330.302	Alright . 	
+TS3009c.B.dialog-act.s9553330.275	Yeah I think we have to wait ? 	
+TS3009c.D.dialog-act.s9553330.303	No 	
+TS3009c.A.dialog-act.s9553330.378	Well I'll get a I'll get the message . 	
+TS3009c.C.dialog-act.s9553330.375	Yeah 	
+TS3009c.C.dialog-act.s9553330.376	until the until the beep goes . 	
+TS3009c.B.dialog-act.s9553330.257		
+TS3009c.C.dialog-act.s9553330.377	But I don't uh Do we have to stay here , 	
+TS3009c.D.dialog-act.s9553330.284		
+TS3009c.C.dialog-act.s9553330.378	or I think we have to return first . 	
+TS3009c.A.dialog-act.s9553330.379	No , I think uh 	
+TS3009c.D.dialog-act.s9553330.304	Yeah . 	
+TS3009c.A.dialog-act.s9553330.380	Well you'll 	
+TS3009c.A.dialog-act.s9553330.381	Maybe you can uh keep your uh laptop here . 	
+TS3009c.B.dialog-act.s9553330.276	Maybe . 	
+TS3009c.A.dialog-act.s9553330.382	Or get your mouse . 	
+TS3009c.A.dialog-act.s9553330.383	Because it's little bit uh hard to work with these uh plates . 	
+TS3009c.C.dialog-act.s9553330.379	The high powers from above will have to tell us , yeah . 	
+TS3009c.D.dialog-act.s9553330.305	Yeah . 	
+TS3009c.A.dialog-act.s9553330.384	I always have a mouse next to my laptop . 	
+TS3009c.A.dialog-act.s9553330.385	I hate these 	
+TS3009c.D.dialog-act.s9553330.307	I I don't have a laptop . 	
+TS3009c.C.dialog-act.s9553330.380	Yeah , touch-pads , yeah . 	
+TS3009c.A.dialog-act.s9553330.386	Ugh . 	
+TS3009c.C.dialog-act.s9553330.381	We can uh do a touch-pad on our remote . 	
+TS3009c.B.dialog-act.s9553330.258		
+TS3009c.A.dialog-act.s9553330.355		
+TS3009c.D.dialog-act.s9553330.308	Yeah right . 	
+TS3009c.C.dialog-act.s9553330.382	No just kidding . 	
+TS3009c.B.dialog-act.s9553330.277	Yeah . 	
+TS3009c.C.dialog-act.s9553330.383	Well we have uh b you have to have a bit of humour in the in the discussions too , 	
+TS3009c.C.dialog-act.s9553330.384	because it becomes too too too too stressy . 	
+TS3009c.A.dialog-act.s9553330.387	And in your remote control . 	
+TS3009c.A.dialog-act.s9553330.388	So we put a touch pad on it , 	
+TS3009c.A.dialog-act.s9553330.389	and say ha ha . 	
+TS3009c.C.dialog-act.s9553330.356		
+TS3009c.B.dialog-act.s9553330.278	Aha . This has no function . 	
+TS3009c.D.dialog-act.s9553330.310	Half 	
+TS3009c.A.dialog-act.s9553330.390	Yeah . 	
+TS3009c.C.dialog-act.s9553330.357		
+TS3009c.A.dialog-act.s9553330.391	We know you'll you'll you'll hate it but 	
+TS3009c.C.dialog-act.s9553330.385	But uh th youth doesn't care about functio functionality , so 	
+TS3009c.D.dialog-act.s9553330.311	No . 	
+TS3009c.A.dialog-act.s9553330.392	But they do want some gadgets . 	
+TS3009c.D.dialog-act.s9553330.312	It's all about cool things . 	
+TS3009c.A.dialog-act.s9553330.393	So that's wha what we're doing . 	
+TS3009c.D.dialog-act.s9553330.313	And it will sell . 	
+TS3009c.C.dialog-act.s9553330.386	Yeah . 	
+TS3009c.A.dialog-act.s9553330.356		
+TS3009c.D.dialog-act.s9553330.314	We will be rich . 	
+TS3009c.C.dialog-act.s9553330.387	Bless you . 	
+TS3009c.A.dialog-act.s9553330.394	Well we won't . 	
+TS3009c.A.dialog-act.s9553330.395	Our bosses will be rich . 	
+TS3009c.C.dialog-act.s9553330.388	Mm . 	
+TS3009c.B.dialog-act.s9553330.279	We've done too much in the previous meetings . 	
+TS3009c.C.dialog-act.s9553330.389	Too much ? 	
+TS3009c.B.dialog-act.s9553330.280	Yes , 	
+TS3009c.B.dialog-act.s9553330.281	we've got nothing to do now . 	
+TS3009c.C.dialog-act.s9553330.390	Well they uh 	
+TS3009c.A.dialog-act.s9553330.396	Well , that's not bad , is it ? 	
+TS3009c.D.dialog-act.s9553330.315	No . 	
+TS3009c.C.dialog-act.s9553330.391	I think that's good . 	
+TS3009c.C.dialog-act.s9553330.392	We all had uh our talk 	
+TS3009c.C.dialog-act.s9553330.393	and we agree I guess on uh several thing , on most uh on things . 	
+TS3009c.A.dialog-act.s9553330.397	Mm . 	
+TS3009c.B.dialog-act.s9553330.282	Its the best remote ever . 	
+TS3009c.A.dialog-act.s9553330.398	So 	
+TS3009c.B.dialog-act.s9553330.283	Pinball . 	
+TS3009c.A.dialog-act.s9553330.400	Oh . 	
+TS3009c.A.dialog-act.s9553330.401	Oh he's totally off again . 	
+TS3009c.D.dialog-act.s9553330.285		
+TS3009c.A.dialog-act.s9553330.399	Well 	
+TS3009c.D.dialog-act.s9553330.316	No man . 	
+TS3009c.C.dialog-act.s9553330.394	Yeah you have to push harder . 	
+TS3009c.A.dialog-act.s9553330.402	But when I start here , it's here . 	
+TS3009c.C.dialog-act.s9553330.395	Mm . 	
+TS3009c.D.dialog-act.s9553330.318	Yeah . 	
+TS3009c.A.dialog-act.s9553330.403	So is it 	
+TS3009c.B.dialog-act.s9553330.284	Yes , but you you get really close to the screen with your hand , 	
+TS3009c.C.dialog-act.s9553330.358		
+TS3009c.B.dialog-act.s9553330.285	and I don't think that's 	
+TS3009c.C.dialog-act.s9553330.359		
+TS3009c.D.dialog-act.s9553330.319	Mm . 	
+TS3009c.B.dialog-act.s9553330.286	Hmm . 	
+TS3009c.A.dialog-act.s9553330.357		
+TS3009c.D.dialog-act.s9553330.320	Recalibrate it . 	
+TS3009c.A.dialog-act.s9553330.404	Nope . 	
+TS3009c.B.dialog-act.s9553330.259		
+TS3009c.C.dialog-act.s9553330.396	Where's the good old chalk board with the the green board with the , how do you call it , chalk , yeah . 	
+TS3009c.D.dialog-act.s9553330.321	Yeah . 	
+TS3009c.A.dialog-act.s9553330.358		
+TS3009c.A.dialog-act.s9553330.405		
+TS3009c.B.dialog-act.s9553330.287	We can better uh draw a design on this . 	
+TS3009c.C.dialog-act.s9553330.397	Yeah , maybe . 	
+TS3009c.B.dialog-act.s9553330.288	Yeah , but we can't . 	
+TS3009c.C.dialog-act.s9553330.398	Maybe if i if that thing is recalibrated , we can draw a thing quick , and then before it uh goes off again . 	
+TS3009c.A.dialog-act.s9553330.406	Yeah . 	
+TS3009c.A.dialog-act.s9553330.407	Let's go . 	
+TS3009c.B.dialog-act.s9553330.289	Well 	
+TS3009c.D.dialog-act.s9553330.322	Finish meeting now . 	
+TS3009c.A.dialog-act.s9553330.408	Finish the meeting now . 	
+TS3009c.A.dialog-act.s9553330.409	Alright now we know what to do , so 	
+TS3009c.B.dialog-act.s9553330.290	We'll stay here ? 	
+TS3009c.A.dialog-act.s9553330.410	Um 	
+TS3009c.D.dialog-act.s9553330.323	Yeah . Oh . 	
+TS3009c.B.dialog-act.s9553330.291	Or we'll get the email . 	
+TS3009c.A.dialog-act.s9553330.411	Message ? 	
+TS3009c.C.dialog-act.s9553330.399	Maybe w maybe we maybe w m Can we get email here ? 	
+TS3009c.A.dialog-act.s9553330.412	No , get away . 	
+TS3009c.D.dialog-act.s9553330.286		
+TS3009c.C.dialog-act.s9553330.400	Huh ? Yeah . 	
+TS3009c.D.dialog-act.s9553330.287		
+TS3009c.B.dialog-act.s9553330.292	Yeah . 	
+TS3009c.C.dialog-act.s9553330.401	Guess so . 	
+TS3009c.A.dialog-act.s9553330.414	Um I I'm not sure . 	
+TS3009c.A.dialog-act.s9553330.415	Maybe you Yeah . 	
+TS3009c.A.dialog-act.s9553330.416	Well you'll have to work on this one . 	
+TS3009c.B.dialog-act.s9553330.293	Well we'll wait a few seconds 	
+TS3009c.A.dialog-act.s9553330.413	Yeah . That's a good idea . 	
+TS3009c.B.dialog-act.s9553330.294	and then we'll get an email . 	
+TS3009c.D.dialog-act.s9553330.324	Alright . Have fun lads . 	
+TS3009c.A.dialog-act.s9553330.418	Well 	
+TS3009c.B.dialog-act.s9553330.295	Yeah . 	
+TS3009c.C.dialog-act.s9553330.402	A happy hol happy holidays . 	
+TS3009c.A.dialog-act.s9553330.417	Good luck . 	
+TS3009c.D.dialog-act.s9553330.325		
+TS3009c.D.dialog-act.s9553330.262	but you can scratch it off or something . 	
+TS3009c.D.dialog-act.s9553330.263	It's better if you have it uh 	
+TS3009c.D.dialog-act.s9553330.268	Yeah . 	
+TS3009c.D.dialog-act.s9553330.274	You have to make this titanium too . 	
+TS3009c.D.dialog-act.s9553330.276	Like dust in it and so things like that . 	
+TS3009c.D.dialog-act.s9553330.277	When you exchange all the fronts and it's open . 	
+TS3009c.D.dialog-act.s9553330.289	you can make it go round this corner too where the logo is . 	
+TS3009c.D.dialog-act.s9553330.290	Because it has to be uh there all the time you know . 	
+TS3009c.D.dialog-act.s9553330.296	We can't uh take a blank one . 	
+TS3009c.D.dialog-act.s9553330.297	Or can we ? 	
+TS3009c.D.dialog-act.s9553330.306	It's not relaxing . 	
+TS3009c.D.dialog-act.s9553330.309	Dream on . 	
+TS3009c.D.dialog-act.s9553330.317	You just have to push harder . 	
+

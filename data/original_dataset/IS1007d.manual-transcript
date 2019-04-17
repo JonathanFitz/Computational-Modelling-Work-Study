@@ -1,0 +1,860 @@
+Observation: IS1007d; Result size: 857; atts: 2
+$d@nite:id	$d	
+IS1007d.C.dialog-act.s9553330.1		
+IS1007d.A.dialog-act.s9553330.1	So in last meeting we have discussed the conceptual design 	
+IS1007d.A.dialog-act.s9553330.2	and we asked you to prepare a prototype for the for the remote control . 	
+IS1007d.B.dialog-act.s9553330.3	Okay . 	
+IS1007d.C.dialog-act.s9553330.2		
+IS1007d.D.dialog-act.s9553330.1		
+IS1007d.A.dialog-act.s9553330.3	So . 	
+IS1007d.A.dialog-act.s9553330.4	So let's see the what did you prepare . 	
+IS1007d.B.dialog-act.s9553330.4	Yeah , 	
+IS1007d.B.dialog-act.s9553330.5	so can you go out to the shared folder ? 	
+IS1007d.B.dialog-act.s9553330.6	Mm the shared folder . 	
+IS1007d.A.dialog-act.s9553330.5	Sh share folder for th your presentation ? 	
+IS1007d.B.dialog-act.s9553330.7	Yes . 	
+IS1007d.B.dialog-act.s9553330.8	We have a presentation . 	
+IS1007d.A.dialog-act.s9553330.6	Because I have here 	
+IS1007d.C.dialog-act.s9553330.3		
+IS1007d.B.dialog-act.s9553330.1		
+IS1007d.B.dialog-act.s9553330.10	Uh 	
+IS1007d.B.dialog-act.s9553330.9		
+IS1007d.B.dialog-act.s9553330.11	So I got the participant uh three . 	
+IS1007d.B.dialog-act.s9553330.12	W uh . 	
+IS1007d.B.dialog-act.s9553330.13	Three . 	
+IS1007d.B.dialog-act.s9553330.14	It's the final design , 	
+IS1007d.B.dialog-act.s9553330.15	yeah . 	
+IS1007d.A.dialog-act.s9553330.7	Okay just one . 	
+IS1007d.C.dialog-act.s9553330.4		
+IS1007d.B.dialog-act.s9553330.2		
+IS1007d.B.dialog-act.s9553330.16	S so so I discussed with Guillaume . 	
+IS1007d.C.dialog-act.s9553330.5	Mm . 	
+IS1007d.C.dialog-act.s9553330.6	Yeah . 	
+IS1007d.B.dialog-act.s9553330.17	Right . 	
+IS1007d.B.dialog-act.s9553330.18	And uh so we have 	
+IS1007d.B.dialog-act.s9553330.19	and we we are both agreed on some two versions of the prototypes , 	
+IS1007d.B.dialog-act.s9553330.20	because we were no not decided whether we wanted to have an L_C_D_ or not because it's too expensive . 	
+IS1007d.B.dialog-act.s9553330.21	So we come up with two versions . 	
+IS1007d.B.dialog-act.s9553330.22	One with and one without L_C_D_s . 	
+IS1007d.B.dialog-act.s9553330.23	Um but both comes with a charger 	
+IS1007d.B.dialog-act.s9553330.24	and then detachable and uh or control module . 	
+IS1007d.B.dialog-act.s9553330.25	And detachable big buttons for all people um . 	
+IS1007d.C.dialog-act.s9553330.7	S okay so I'll show you the the two prototypes . 	
+IS1007d.B.dialog-act.s9553330.26	So . 	
+IS1007d.C.dialog-act.s9553330.8	Here we have the first one with the beautiful uh L_C_D_ um display . 	
+IS1007d.C.dialog-act.s9553330.9	You you can s here . 	
+IS1007d.C.dialog-act.s9553330.10	And you can uh just um browse into the the navigation menu by uh joystick joystick-like uh button . 	
+IS1007d.B.dialog-act.s9553330.27	Mm . 	
+IS1007d.C.dialog-act.s9553330.11	You can uh choose the direction 	
+IS1007d.C.dialog-act.s9553330.12	and if you just push on it it's considered like a enter function . 	
+IS1007d.B.dialog-act.s9553330.28	Mm . 	
+IS1007d.B.dialog-act.s9553330.29	Mm-hmm . 	
+IS1007d.C.dialog-act.s9553330.13	You have on the mm on the side here the microphone for the for the speech recognition system here . 	
+IS1007d.B.dialog-act.s9553330.30		
+IS1007d.C.dialog-act.s9553330.14	And here the the switch that control if you want 	
+IS1007d.A.dialog-act.s9553330.8	Why you why you you put it in the the side ? 	
+IS1007d.C.dialog-act.s9553330.15	Well I I I think uh it's the 	
+IS1007d.A.dialog-act.s9553330.9	It's not a good place maybe . 	
+IS1007d.C.dialog-act.s9553330.16	Yeah but 	
+IS1007d.B.dialog-act.s9553330.31	No i i it's the all around camer uh microphone isn't it . 	
+IS1007d.B.dialog-act.s9553330.32	The the microphone picks up the speeches from anywhere . 	
+IS1007d.C.dialog-act.s9553330.17	Yeah . 	
+IS1007d.D.dialog-act.s9553330.2	Is it an only a single mic or a microphone array ? 	
+IS1007d.C.dialog-act.s9553330.18	Well so it's a microphone array . 	
+IS1007d.B.dialog-act.s9553330.33		
+IS1007d.A.dialog-act.s9553330.10	Oh it's very costly , microphone array . 	
+IS1007d.D.dialog-act.s9553330.3	Mm-hmm . 	
+IS1007d.C.dialog-act.s9553330.19	No 	
+IS1007d.C.dialog-act.s9553330.20	it's just a single microphone , 	
+IS1007d.B.dialog-act.s9553330.34	Yeah 	
+IS1007d.C.dialog-act.s9553330.21	and you 	
+IS1007d.C.dialog-act.s9553330.22	I I think uh we we put it here because I think when you when you are browsing your L_C_D_ you will be close to 	
+IS1007d.D.dialog-act.s9553330.4	Yeah . 	
+IS1007d.B.dialog-act.s9553330.35	Mm . 	
+IS1007d.C.dialog-act.s9553330.23	well it's better to to to place it here th than here , for instance . 	
+IS1007d.B.dialog-act.s9553330.36	Yeah yeah . 	
+IS1007d.D.dialog-act.s9553330.5	Okay . 	
+IS1007d.C.dialog-act.s9553330.24	And here is a little switch that control if you want the the speaker uh recognition system to um to be on or off . 	
+IS1007d.C.dialog-act.s9553330.25	And uh so this remote control comes up with its charger . 	
+IS1007d.A.dialog-act.s9553330.11	How much does it cost this one ? 	
+IS1007d.C.dialog-act.s9553330.26	Well this this prototype is um made for about uh well fi fi fifteen fifteen dollars 	
+IS1007d.B.dialog-act.s9553330.37	For the 	
+IS1007d.B.dialog-act.s9553330.38	Yeah . 	
+IS1007d.A.dialog-act.s9553330.12	Fifteen dollars ? 	
+IS1007d.C.dialog-act.s9553330.27	fifteen dollars , 	
+IS1007d.C.dialog-act.s9553330.28	but uh well it's not it's not uh 	
+IS1007d.A.dialog-act.s9553330.13	Ah it's above it's above the budget . 	
+IS1007d.C.dialog-act.s9553330.29	yeah , 	
+IS1007d.C.dialog-act.s9553330.30	but uh it's just a prototype 	
+IS1007d.C.dialog-act.s9553330.31	and if we uh if we optimises the um the uh voila . 	
+IS1007d.D.dialog-act.s9553330.6	The cost would be le reduced . 	
+IS1007d.C.dialog-act.s9553330.32	Yeah 	
+IS1007d.C.dialog-act.s9553330.33	the and the the production costs we we can achieve uh about ten dollars . 	
+IS1007d.B.dialog-act.s9553330.39	Mm . 	
+IS1007d.B.dialog-act.s9553330.40	Hmm . 	
+IS1007d.A.dialog-act.s9553330.14	How many b battery is there ? 	
+IS1007d.C.dialog-act.s9553330.34	How many , excuse me ? 	
+IS1007d.A.dialog-act.s9553330.15	Battery . 	
+IS1007d.C.dialog-act.s9553330.36	Well uh f battery , we use uh about uh 	
+IS1007d.B.dialog-act.s9553330.41	Is it n the two A_A_s batteries in it . 	
+IS1007d.C.dialog-act.s9553330.37	Yeah . 	
+IS1007d.B.dialog-act.s9553330.42	A_A_ rechargeable batteries . 	
+IS1007d.C.dialog-act.s9553330.38	Rechargeable of course , 	
+IS1007d.B.dialog-act.s9553330.43	Yeah rechargeable batteries . 	
+IS1007d.C.dialog-act.s9553330.39	because we have the charger . 	
+IS1007d.B.dialog-act.s9553330.44	We have the charger so it's no problem . 	
+IS1007d.C.dialog-act.s9553330.40	Yeah and you just 	
+IS1007d.A.dialog-act.s9553330.16	So one one battery ? 	
+IS1007d.C.dialog-act.s9553330.41	On uh yeah one battery . 	
+IS1007d.D.dialog-act.s9553330.7	Is that two or one ? 	
+IS1007d.B.dialog-act.s9553330.45		
+IS1007d.A.dialog-act.s9553330.17	It's kinetic reserve . 	
+IS1007d.B.dialog-act.s9553330.46	Actually uh it's a flexible thing . 	
+IS1007d.C.dialog-act.s9553330.42		
+IS1007d.D.dialog-act.s9553330.8		
+IS1007d.B.dialog-act.s9553330.47	You just n uh 	
+IS1007d.D.dialog-act.s9553330.9	Now what is the whole day rating for that ? 	
+IS1007d.C.dialog-act.s9553330.43	The 	
+IS1007d.D.dialog-act.s9553330.10	Whole day's rating . 	
+IS1007d.C.dialog-act.s9553330.44	excuse me ? 	
+IS1007d.B.dialog-act.s9553330.48		
+IS1007d.D.dialog-act.s9553330.11	What type of battery ? 	
+IS1007d.C.dialog-act.s9553330.45	Oh yeah 	
+IS1007d.C.dialog-act.s9553330.46	it's just a r uh simple battery a rechargeable uh 	
+IS1007d.B.dialog-act.s9553330.49	Yeah yeah . 	
+IS1007d.C.dialog-act.s9553330.47	if you uh like it's exist . 	
+IS1007d.D.dialog-act.s9553330.12	Something like a two A_ , A_ three size batteries ? 	
+IS1007d.C.dialog-act.s9553330.48	Yeah . 	
+IS1007d.D.dialog-act.s9553330.13	Mm-hmm . 	
+IS1007d.B.dialog-act.s9553330.50	Yeah . 	
+IS1007d.C.dialog-act.s9553330.49	So and if you want to charge the battery you just put the remote control like that to plug in the the charger 	
+IS1007d.B.dialog-act.s9553330.51	Yeah . 	
+IS1007d.B.dialog-act.s9553330.52	Yeah . 	
+IS1007d.C.dialog-act.s9553330.50	and uh leave it uh alone , it's alright . 	
+IS1007d.B.dialog-act.s9553330.53	Mm . 	
+IS1007d.B.dialog-act.s9553330.54	At uh yeah . 	
+IS1007d.C.dialog-act.s9553330.51	Then the next time you pick it , oh 	
+IS1007d.A.dialog-act.s9553330.18		
+IS1007d.C.dialog-act.s9553330.52	it works . 	
+IS1007d.B.dialog-act.s9553330.55	I forgot to tell you there is only a single button there , 	
+IS1007d.C.dialog-act.s9553330.53	Yeah just explain the button uh Norman . 	
+IS1007d.B.dialog-act.s9553330.56	b this button 	
+IS1007d.B.dialog-act.s9553330.57	yeah alright . 	
+IS1007d.B.dialog-act.s9553330.58	This button is like the mouse is like a joystick , 	
+IS1007d.C.dialog-act.s9553330.54		
+IS1007d.B.dialog-act.s9553330.59	you can move in three hundred and sixty degrees of direction 	
+IS1007d.B.dialog-act.s9553330.60	so you can make a turn 	
+IS1007d.B.dialog-act.s9553330.61	and it the additi functions associated to all the actions 	
+IS1007d.B.dialog-act.s9553330.62	you ma you have a click you have a double click all in a single button . 	
+IS1007d.A.dialog-act.s9553330.19	Mm . 	
+IS1007d.C.dialog-act.s9553330.55		
+IS1007d.B.dialog-act.s9553330.63	You can move up , down , left , right , 	
+IS1007d.B.dialog-act.s9553330.64	or you can do a swing . 	
+IS1007d.B.dialog-act.s9553330.65	So a swing to the left , a swing to the right defines other functions . 	
+IS1007d.B.dialog-act.s9553330.66	So even though it's a single button , but it is pretty s flexible because of the three hundred and sixty degree movement . 	
+IS1007d.D.dialog-act.s9553330.14	And the L_C_D_ is this one , on the remote ? 	
+IS1007d.B.dialog-act.s9553330.67	Yeah . 	
+IS1007d.C.dialog-act.s9553330.56	Yep . 	
+IS1007d.B.dialog-act.s9553330.68	This is the version y that comes with L_C_D_ . 	
+IS1007d.D.dialog-act.s9553330.15	Yeah . 	
+IS1007d.B.dialog-act.s9553330.69	Here I present another version without the L_C_D_ . 	
+IS1007d.C.dialog-act.s9553330.57		
+IS1007d.A.dialog-act.s9553330.22	I think it's not a good idea 	
+IS1007d.A.dialog-act.s9553330.23	because after maybe one or two months of function is getting destroyed . 	
+IS1007d.B.dialog-act.s9553330.70	Mm . 	
+IS1007d.A.dialog-act.s9553330.24	If you 	
+IS1007d.B.dialog-act.s9553330.71	Uh okay this is new prototype uh . 	
+IS1007d.C.dialog-act.s9553330.58	Yeah it's 	
+IS1007d.A.dialog-act.s9553330.20		
+IS1007d.A.dialog-act.s9553330.21		
+IS1007d.C.dialog-act.s9553330.59	So we have the the second version also with the different uh button configuration . 	
+IS1007d.C.dialog-act.s9553330.60	The second version is also simpler , 	
+IS1007d.C.dialog-act.s9553330.61	we d uh we had just uh I have to put the microphone also . 	
+IS1007d.B.dialog-act.s9553330.72	Yeah yeah . 	
+IS1007d.D.dialog-act.s9553330.17		
+IS1007d.C.dialog-act.s9553330.62	So basically th it's the same uh 	
+IS1007d.D.dialog-act.s9553330.16	Uh-huh and also the switch . 	
+IS1007d.A.dialog-act.s9553330.25		
+IS1007d.C.dialog-act.s9553330.63	yeah . 	
+IS1007d.D.dialog-act.s9553330.18	Okay . 	
+IS1007d.C.dialog-act.s9553330.64	Basically it's the same uh things uh uh as uh I presented before . 	
+IS1007d.C.dialog-act.s9553330.65	But here we have uh we have uh four buttons for navigation . 	
+IS1007d.C.dialog-act.s9553330.66	Press one button uh acting as a a enter button . 	
+IS1007d.B.dialog-act.s9553330.74	Mm . 	
+IS1007d.C.dialog-act.s9553330.67	So um yeah according to what you said it's more robust to the user . 	
+IS1007d.B.dialog-act.s9553330.73		
+IS1007d.A.dialog-act.s9553330.26	Mm-hmm . 	
+IS1007d.D.dialog-act.s9553330.19	Mm-hmm . 	
+IS1007d.C.dialog-act.s9553330.68	And uh it's also cheaper to produce . 	
+IS1007d.C.dialog-act.s9553330.69	We can produce uh such remote control for about uh four dollars . 	
+IS1007d.B.dialog-act.s9553330.75		
+IS1007d.A.dialog-act.s9553330.27	No four dollars , it's good . 	
+IS1007d.D.dialog-act.s9553330.20	And I think you forgot a point here to have an button to find the charger , 	
+IS1007d.B.dialog-act.s9553330.76	Oh no 	
+IS1007d.B.dialog-act.s9553330.77	th actually th we'll come to that point in our 	
+IS1007d.D.dialog-act.s9553330.21	because that's a major that's a 	
+IS1007d.C.dialog-act.s9553330.70	Yeah 	
+IS1007d.C.dialog-act.s9553330.71	it's it's it's embed in the uh speech recognition system . 	
+IS1007d.B.dialog-act.s9553330.78	Yeah . 	
+IS1007d.D.dialog-act.s9553330.22	Okay 	
+IS1007d.D.dialog-act.s9553330.23	and if you disable speech recognition system then ? 	
+IS1007d.C.dialog-act.s9553330.72	So 	
+IS1007d.B.dialog-act.s9553330.79	W w I'll I'll come to that point later on . 	
+IS1007d.D.dialog-act.s9553330.24	Mm hmm hmm hmm hmm hmm . 	
+IS1007d.C.dialog-act.s9553330.73	so Norman will explain to you . 	
+IS1007d.A.dialog-act.s9553330.28	And we will we will serve the charger with this ? 	
+IS1007d.B.dialog-act.s9553330.80	Yeah . 	
+IS1007d.D.dialog-act.s9553330.25	Okay . 	
+IS1007d.C.dialog-act.s9553330.74	Yeah yeah of course mm . 	
+IS1007d.B.dialog-act.s9553330.81	Th they either these with the uh the the charger any 	
+IS1007d.A.dialog-act.s9553330.29	With the remote control . 	
+IS1007d.B.dialog-act.s9553330.82	in either versions you they they ha they use the same charger yeah . 	
+IS1007d.A.dialog-act.s9553330.31	Okay 	
+IS1007d.A.dialog-act.s9553330.32	so the price of the charger included in the 	
+IS1007d.B.dialog-act.s9553330.85	Uh it's a standard module so you should get it for a cheap price uh . 	
+IS1007d.A.dialog-act.s9553330.30		
+IS1007d.C.dialog-act.s9553330.75		
+IS1007d.C.dialog-act.s9553330.77	Thank thank you . 	
+IS1007d.A.dialog-act.s9553330.33	Mm-hmm . 	
+IS1007d.C.dialog-act.s9553330.78	And so mm-hmm . 	
+IS1007d.B.dialog-act.s9553330.86	It's that same charger that you can use for the hand-phone 	
+IS1007d.B.dialog-act.s9553330.87	but uh again depends on the types . 	
+IS1007d.B.dialog-act.s9553330.88	I think we have to investigate more on that , but 	
+IS1007d.A.dialog-act.s9553330.34	The price should be below twelve and a half Euro . 	
+IS1007d.B.dialog-act.s9553330.89	Yeah . 	
+IS1007d.B.dialog-act.s9553330.90	Yeah 	
+IS1007d.A.dialog-act.s9553330.35	Well that's so 	
+IS1007d.B.dialog-act.s9553330.91	but as the Marketing Manager says , people is willing to people are willing to pay more for good design . 	
+IS1007d.D.dialog-act.s9553330.27	Yeah people are willing to pay more , 	
+IS1007d.A.dialog-act.s9553330.36	We have we have just 	
+IS1007d.B.dialog-act.s9553330.83		
+IS1007d.D.dialog-act.s9553330.28	but the company is not willing to invest more at the moment . 	
+IS1007d.C.dialog-act.s9553330.76		
+IS1007d.B.dialog-act.s9553330.92	Yeah . 	
+IS1007d.A.dialog-act.s9553330.37	The price of selling is twenty five Euros . 	
+IS1007d.B.dialog-act.s9553330.93	Yeah . 	
+IS1007d.B.dialog-act.s9553330.94	Mm-hmm . 	
+IS1007d.A.dialog-act.s9553330.38	And the price of production 	
+IS1007d.B.dialog-act.s9553330.84		
+IS1007d.C.dialog-act.s9553330.79	Alright 	
+IS1007d.C.dialog-act.s9553330.80	please uh go on Norman with the special features . 	
+IS1007d.D.dialog-act.s9553330.29	Or uh 	
+IS1007d.B.dialog-act.s9553330.95	Yeah 	
+IS1007d.B.dialog-act.s9553330.96	we'll we'll come up to that , 	
+IS1007d.B.dialog-act.s9553330.97	the the the thing that makes this the controller cheap is that it is modular 	
+IS1007d.B.dialog-act.s9553330.98	so you want more function you pay more . 	
+IS1007d.B.dialog-act.s9553330.99	If you want less function i i if you want a reasonable price you pay for the functions that you add on to the system , 	
+IS1007d.D.dialog-act.s9553330.26		
+IS1007d.B.dialog-act.s9553330.100	so is uh modular . 	
+IS1007d.A.dialog-act.s9553330.39	That's for this basis function 	
+IS1007d.A.dialog-act.s9553330.40	and if you want more you pay more . 	
+IS1007d.B.dialog-act.s9553330.101	Yeah yeah , 	
+IS1007d.A.dialog-act.s9553330.41		
+IS1007d.D.dialog-act.s9553330.30	Something like customised . Yeah 	
+IS1007d.B.dialog-act.s9553330.103	for example the L_C_D_ , you can take it you can put it put it back in , or you can use the other one , 	
+IS1007d.A.dialog-act.s9553330.43	Yeah . 	
+IS1007d.C.dialog-act.s9553330.81		
+IS1007d.B.dialog-act.s9553330.104	or the speech recogniser with the microphone yeah yeah . 	
+IS1007d.C.dialog-act.s9553330.82		
+IS1007d.B.dialog-act.s9553330.105	You want a microphone to put in the speech recogniser you don't wan you pay less for the system you see . 	
+IS1007d.A.dialog-act.s9553330.44	Okay . 	
+IS1007d.D.dialog-act.s9553330.31	Mm hmm hmm hmm . 	
+IS1007d.A.dialog-act.s9553330.42		
+IS1007d.B.dialog-act.s9553330.106	So 	
+IS1007d.D.dialog-act.s9553330.32	Hmm okay . 	
+IS1007d.B.dialog-act.s9553330.107	It's pretty flexible in the yeah price . 	
+IS1007d.C.dialog-act.s9553330.83		
+IS1007d.C.dialog-act.s9553330.84	You also have the the the two other modules for the parental control 	
+IS1007d.A.dialog-act.s9553330.45	But 	
+IS1007d.B.dialog-act.s9553330.108	Uh yeah yeah 	
+IS1007d.B.dialog-act.s9553330.109	you should present that . 	
+IS1007d.D.dialog-act.s9553330.33	And this is other one ? 	
+IS1007d.C.dialog-act.s9553330.85	that that you ca you can add up to the to your remote control 	
+IS1007d.B.dialog-act.s9553330.102		
+IS1007d.C.dialog-act.s9553330.86	i i if you uh if you want to to have more more power on what you do , and uh which channel you want to choose and so on . 	
+IS1007d.B.dialog-act.s9553330.110	Yeah . 	
+IS1007d.C.dialog-act.s9553330.87	H here is just the the the module for the kids 	
+IS1007d.C.dialog-act.s9553330.88	and th if the parents want to watch T_V_ , up they come up with their modules , 	
+IS1007d.D.dialog-act.s9553330.34	Mm hmm hmm hmm . 	
+IS1007d.C.dialog-act.s9553330.89	they just plug in it 	
+IS1007d.B.dialog-act.s9553330.111	Yeah 	
+IS1007d.C.dialog-act.s9553330.90	and they can have all the control they want here . 	
+IS1007d.B.dialog-act.s9553330.112	Mm . 	
+IS1007d.C.dialog-act.s9553330.91	We also have this module for uh old people with big buttons , clearly labelled , 	
+IS1007d.B.dialog-act.s9553330.113	Hmm . 	
+IS1007d.B.dialog-act.s9553330.114		
+IS1007d.C.dialog-act.s9553330.92	and it acts like the previous one , 	
+IS1007d.B.dialog-act.s9553330.115	Yeah . 	
+IS1007d.C.dialog-act.s9553330.93	you just plug in and it works . 	
+IS1007d.B.dialog-act.s9553330.116	Yeah 	
+IS1007d.D.dialog-act.s9553330.35	Mm-hmm . 	
+IS1007d.B.dialog-act.s9553330.117	the i the idea the the conceptual idea is that simplicity and powerful . 	
+IS1007d.B.dialog-act.s9553330.118	Simplicity meaning that we have few buttons , 	
+IS1007d.B.dialog-act.s9553330.119	powerful is that all the controls with the one you saw we saw earlier in the meetings with lots of buttons n 	
+IS1007d.B.dialog-act.s9553330.120	but here you only have few buttons 	
+IS1007d.B.dialog-act.s9553330.121	but you retain the mm the same powerful functionalities . 	
+IS1007d.B.dialog-act.s9553330.122	But in addition with simplicity . 	
+IS1007d.B.dialog-act.s9553330.123	So that's the best idea , 	
+IS1007d.B.dialog-act.s9553330.124	the cond that 	
+IS1007d.B.dialog-act.s9553330.125	that's our uh an innovation um uh i in this uh design here . 	
+IS1007d.A.dialog-act.s9553330.46	Mm-hmm . 	
+IS1007d.B.dialog-act.s9553330.126	Okay now we come to other important features that I did not tell you . 	
+IS1007d.B.dialog-act.s9553330.127	The first one is the speech recogniser , 	
+IS1007d.B.dialog-act.s9553330.128	again it's detachable or add-on . 	
+IS1007d.B.dialog-act.s9553330.129	And then we also have security feature 	
+IS1007d.B.dialog-act.s9553330.130	for example this here oop 	
+IS1007d.C.dialog-act.s9553330.94		
+IS1007d.B.dialog-act.s9553330.131	it's very robust , 	
+IS1007d.B.dialog-act.s9553330.132	it doesn't break 	
+IS1007d.B.dialog-act.s9553330.133	and the material , what's the material again ? 	
+IS1007d.C.dialog-act.s9553330.95	The titanium 	
+IS1007d.C.dialog-act.s9553330.96	and so it's very uh 	
+IS1007d.A.dialog-act.s9553330.47	Titanium . 	
+IS1007d.B.dialog-act.s9553330.134	Again uh and the battery life is uh is an is an endurable one , 	
+IS1007d.B.dialog-act.s9553330.135	again because this is A_A_ batteries you can choose the types of battery you want . 	
+IS1007d.D.dialog-act.s9553330.36	Yeah that's fine . 	
+IS1007d.B.dialog-act.s9553330.136	Lithium-ion may be a good one , 	
+IS1007d.B.dialog-act.s9553330.137	but you can replace it with cheaper one , 	
+IS1007d.B.dialog-act.s9553330.138	again you pay for what you get , 	
+IS1007d.B.dialog-act.s9553330.139	and then um y the other p points are robust and misplacement reminder . 	
+IS1007d.B.dialog-act.s9553330.140	So when you finish watching your T_V_ and you the you t you turn off the T_V_ , uh and then there's this message coming out that uh please put that back to the charger , 	
+IS1007d.B.dialog-act.s9553330.142	so so that's the or is it 	
+IS1007d.D.dialog-act.s9553330.38	Okay . 	
+IS1007d.B.dialog-act.s9553330.143	that's the reminder part . 	
+IS1007d.B.dialog-act.s9553330.144	Yeah 	
+IS1007d.B.dialog-act.s9553330.145	and um 	
+IS1007d.B.dialog-act.s9553330.146	And it also use a programmable channel and vocabulary , 	
+IS1007d.B.dialog-act.s9553330.147	so we didn't define the vocabulary 	
+IS1007d.B.dialog-act.s9553330.148	so it's up to the user to define 	
+IS1007d.D.dialog-act.s9553330.39	Mm hmm hmm hmm . 	
+IS1007d.B.dialog-act.s9553330.149	so 	
+IS1007d.B.dialog-act.s9553330.150	sorry ? 	
+IS1007d.A.dialog-act.s9553330.48		
+IS1007d.C.dialog-act.s9553330.97		
+IS1007d.D.dialog-act.s9553330.37		
+IS1007d.B.dialog-act.s9553330.151	And then uh because of the chil because children are using the device so we have also a a of T_V_ programmes by genre , 	
+IS1007d.B.dialog-act.s9553330.152	and this can be used by the adult or by the children . 	
+IS1007d.B.dialog-act.s9553330.153	So instead of choosing the channel you are choosing the T_V_ contents of the night . 	
+IS1007d.B.dialog-act.s9553330.154	So it's pretty powerful , 	
+IS1007d.B.dialog-act.s9553330.155	and that's that's why the num buttons are reduced , because of this feature . 	
+IS1007d.B.dialog-act.s9553330.156	Yeah . 	
+IS1007d.B.dialog-act.s9553330.158	And and for the materials that is cheap to produce 	
+IS1007d.B.dialog-act.s9553330.159	I think uh it's quite clear from yeah . 	
+IS1007d.A.dialog-act.s9553330.49		
+IS1007d.B.dialog-act.s9553330.160	And also like the and the fancy designs yeah . 	
+IS1007d.B.dialog-act.s9553330.161	Maybe we can improve more on the design but 	
+IS1007d.A.dialog-act.s9553330.51	What what's 	
+IS1007d.C.dialog-act.s9553330.98		
+IS1007d.A.dialog-act.s9553330.52	Maybe yeah . 	
+IS1007d.A.dialog-act.s9553330.53	What's the price to p to produce ? 	
+IS1007d.B.dialog-act.s9553330.162	uh this is the 	
+IS1007d.C.dialog-act.s9553330.99	Well so the price to produce For uh the simplest one , say we start from four dollars to produce such a device . 	
+IS1007d.C.dialog-act.s9553330.100	Uh it's about it 	
+IS1007d.A.dialog-act.s9553330.54	With with with the charge ? 	
+IS1007d.C.dialog-act.s9553330.101	The without without the charger 	
+IS1007d.D.dialog-act.s9553330.40	With the charger ? 	
+IS1007d.A.dialog-act.s9553330.55	Okay . 	
+IS1007d.B.dialog-act.s9553330.163	Yeah 	
+IS1007d.C.dialog-act.s9553330.102	it's about uh well two dollars to produce uh the microphone and speech recognition systems . 	
+IS1007d.B.dialog-act.s9553330.157		
+IS1007d.C.dialog-act.s9553330.103	Two dollars for the uh for the add-on modules , 	
+IS1007d.C.dialog-act.s9553330.104	and finally three dollars for the charger . 	
+IS1007d.C.dialog-act.s9553330.105	So if you uh sum up uh everything wi with the L_C_D_ , which costs two dollar , you have two plus four plus four plus two plus two . 	
+IS1007d.B.dialog-act.s9553330.164	Yeah . 	
+IS1007d.A.dialog-act.s9553330.56	We don't have charger . 	
+IS1007d.A.dialog-act.s9553330.50		
+IS1007d.D.dialog-act.s9553330.41	I think we can use Excel . 	
+IS1007d.C.dialog-act.s9553330.106	It's about 	
+IS1007d.A.dialog-act.s9553330.57	We don't have all the options . 	
+IS1007d.C.dialog-act.s9553330.107	so the total cost if you if you want all the fuct functionalities will be about uh fifteen dollars . 	
+IS1007d.A.dialog-act.s9553330.58	Charger we don't have charger here either . 	
+IS1007d.B.dialog-act.s9553330.165	Yeah . 	
+IS1007d.A.dialog-act.s9553330.59	No it's 	
+IS1007d.C.dialog-act.s9553330.108	But it's just if you want all functionalities . 	
+IS1007d.A.dialog-act.s9553330.60	it's below the the the budget . 	
+IS1007d.B.dialog-act.s9553330.166	Yeah . 	
+IS1007d.C.dialog-act.s9553330.109	Excuse me ? 	
+IS1007d.A.dialog-act.s9553330.61	It's below the bu the budget . 	
+IS1007d.B.dialog-act.s9553330.167		
+IS1007d.D.dialog-act.s9553330.42	Yeah it's a nice input 	
+IS1007d.A.dialog-act.s9553330.62	We 	
+IS1007d.D.dialog-act.s9553330.43	but we have an other inputs from the l public demands . 	
+IS1007d.A.dialog-act.s9553330.63		
+IS1007d.D.dialog-act.s9553330.44	I think we will just have a rough look 	
+IS1007d.D.dialog-act.s9553330.45	and then we can make our statements , 	
+IS1007d.D.dialog-act.s9553330.46	and we can finalise the product based on this discu 	
+IS1007d.B.dialog-act.s9553330.171	Yeah . 	
+IS1007d.C.dialog-act.s9553330.110	Yeah . 	
+IS1007d.D.dialog-act.s9553330.47	I think we can just go to my presentation then . 	
+IS1007d.D.dialog-act.s9553330.48	We can wind up . 	
+IS1007d.D.dialog-act.s9553330.49	Or we could uh come to some f uh final conclusions . 	
+IS1007d.B.dialog-act.s9553330.170		
+IS1007d.D.dialog-act.s9553330.50	So the marketing made an evaluation criteria 	
+IS1007d.D.dialog-act.s9553330.51	and these were some of the findings , 	
+IS1007d.D.dialog-act.s9553330.52	and uh in the market the people are not really interested with L_C_D_ , without L_C_D_ , with speech recognition interface , or without speech recognition interface , 	
+IS1007d.D.dialog-act.s9553330.53	but most of the people what they are interested is first thing is , they want to have an fancy look and feel , 	
+IS1007d.D.dialog-act.s9553330.54	it should be very fancy with colourful 	
+IS1007d.D.dialog-act.s9553330.55	and uh very handy to hold . 	
+IS1007d.B.dialog-act.s9553330.168		
+IS1007d.D.dialog-act.s9553330.56	And the second thing is it should be much more technologically innovative . 	
+IS1007d.B.dialog-act.s9553330.172	Mm . 	
+IS1007d.B.dialog-act.s9553330.169		
+IS1007d.D.dialog-act.s9553330.57	Of course in that we could put L_C_D_ or recognition to be more technologically innovative . 	
+IS1007d.D.dialog-act.s9553330.58	And the third one is easy to use . 	
+IS1007d.C.dialog-act.s9553330.111	Well I think that the technical in innovation is is in the product itself 	
+IS1007d.B.dialog-act.s9553330.173	Mm . 	
+IS1007d.C.dialog-act.s9553330.112	since we haven't yet a remote who are allowing to to choose interactively with the T_V_ screen uh uh with just four buttons . 	
+IS1007d.D.dialog-act.s9553330.59	Okay and if we go to the next slide , 	
+IS1007d.D.dialog-act.s9553330.60	here you can find these are the latest fashion updates , 	
+IS1007d.D.dialog-act.s9553330.61	and so this in Paris and Milan they have detected this trends that the this year it's going to be an year of fruit and vegetable , 	
+IS1007d.D.dialog-act.s9553330.62	so people are really interested to see if they have an remote in the shape of the fruit or a vegetable , or whatever they like . 	
+IS1007d.B.dialog-act.s9553330.174	Spongy spongy . 	
+IS1007d.B.dialog-act.s9553330.175	Mm mm . 	
+IS1007d.D.dialog-act.s9553330.63	So I think it should be much more customised to make a different uh shapes . 	
+IS1007d.B.dialog-act.s9553330.176	Mm mm . 	
+IS1007d.D.dialog-act.s9553330.64	And the second thing is , and if the material , they really do not want it to be very hard , as in the case of very pl plastic or titanium , 	
+IS1007d.D.dialog-act.s9553330.65	it should be somewhat spongy . 	
+IS1007d.C.dialog-act.s9553330.113	Okay . 	
+IS1007d.B.dialog-act.s9553330.177	But the the problem is that uh is it robust to mishandling ? 	
+IS1007d.B.dialog-act.s9553330.178	We have 	
+IS1007d.B.dialog-act.s9553330.179	you should find a material that is robust at the same time spongy . 	
+IS1007d.C.dialog-act.s9553330.114	A sponge . 	
+IS1007d.D.dialog-act.s9553330.66	Yeah so uh so finally we have these three criterias . 	
+IS1007d.B.dialog-act.s9553330.180	Spongy . 	
+IS1007d.D.dialog-act.s9553330.67	One is fancy look , 	
+IS1007d.D.dialog-act.s9553330.68	second is innovative , 	
+IS1007d.D.dialog-act.s9553330.69	and third is easy to use . 	
+IS1007d.D.dialog-act.s9553330.70	So these are the f uh three criteria on which we are going to build our remote . 	
+IS1007d.B.dialog-act.s9553330.181		
+IS1007d.B.dialog-act.s9553330.182	Mm-hmm . 	
+IS1007d.D.dialog-act.s9553330.71	So and we have an evaluation criteria for each one of these , 	
+IS1007d.C.dialog-act.s9553330.115	Hmm . 	
+IS1007d.D.dialog-act.s9553330.73	say that we have a seven point scale , from one to seven , 	
+IS1007d.B.dialog-act.s9553330.183	Mm-hmm . 	
+IS1007d.D.dialog-act.s9553330.74	and for each of the product you could just give me the scale according to this . 	
+IS1007d.B.dialog-act.s9553330.184	Mm . 	
+IS1007d.D.dialog-act.s9553330.75	So now you have with L_C_D_ and without L_C_D_ , 	
+IS1007d.C.dialog-act.s9553330.116		
+IS1007d.D.dialog-act.s9553330.76	so on this scale , if it is true , if it is if it has a fancy look you could just tell me one , 	
+IS1007d.B.dialog-act.s9553330.185	Mm . 	
+IS1007d.D.dialog-act.s9553330.77	or if it is false , it doesn't it looks uh it doesn't look much fancy , then you could just tell me seven . 	
+IS1007d.D.dialog-act.s9553330.78	So 	
+IS1007d.B.dialog-act.s9553330.186	So 	
+IS1007d.D.dialog-act.s9553330.79	We can make our study on this and 	
+IS1007d.B.dialog-act.s9553330.187	so is the e evaluation depending on us or other users ? 	
+IS1007d.D.dialog-act.s9553330.80	No no 	
+IS1007d.D.dialog-act.s9553330.81	we have you have designed two products now , 	
+IS1007d.A.dialog-act.s9553330.64	Yeah . 	
+IS1007d.D.dialog-act.s9553330.82	one is with L_C_D_ and without L_C_D_ . 	
+IS1007d.B.dialog-act.s9553330.188	Yeah . 	
+IS1007d.C.dialog-act.s9553330.117	Yeah . 	
+IS1007d.B.dialog-act.s9553330.189	But who will give the scoring uh we ourself or or a third party ? 	
+IS1007d.A.dialog-act.s9553330.65	You . 	
+IS1007d.D.dialog-act.s9553330.83	According to you , 	
+IS1007d.D.dialog-act.s9553330.84	no 	
+IS1007d.D.dialog-act.s9553330.85	according to you designers , 	
+IS1007d.D.dialog-act.s9553330.86	how will feel does it uh with L_C_D_ and without L_C_D_ ? 	
+IS1007d.B.dialog-act.s9553330.190	Mm . 	
+IS1007d.D.dialog-act.s9553330.87	Okay let us make this L_ and without L_C_D_ . 	
+IS1007d.D.dialog-act.s9553330.89	On on this scale the L_C_D_ remote control . How do you look how does it look ? 	
+IS1007d.B.dialog-act.s9553330.191	Mm . 	
+IS1007d.B.dialog-act.s9553330.192	Mm . 	
+IS1007d.D.dialog-act.s9553330.90	D is it very fancy or doesn't look much fancy ? 	
+IS1007d.C.dialog-act.s9553330.118	Well it doesn't look much fancy 	
+IS1007d.C.dialog-act.s9553330.119	I'll I'll say three or four . 	
+IS1007d.D.dialog-act.s9553330.91	And you both agree for that ? 	
+IS1007d.A.dialog-act.s9553330.66	And you ? 	
+IS1007d.B.dialog-act.s9553330.193	I think we can improve on the design . 	
+IS1007d.D.dialog-act.s9553330.92		
+IS1007d.C.dialog-act.s9553330.120	Yeah . 	
+IS1007d.B.dialog-act.s9553330.197	Som someone um commented this is like a the stone age uh design . 	
+IS1007d.C.dialog-act.s9553330.121	It's it it 	
+IS1007d.C.dialog-act.s9553330.122		
+IS1007d.A.dialog-act.s9553330.67		
+IS1007d.B.dialog-act.s9553330.198	Um we have been focused all all this time on the on the technical aspect , functional aspect , but also the simplicity . 	
+IS1007d.C.dialog-act.s9553330.123	Technical aspects . 	
+IS1007d.A.dialog-act.s9553330.68	Mm-hmm . 	
+IS1007d.B.dialog-act.s9553330.199	As for the design maybe we c should hire a designer to help . 	
+IS1007d.D.dialog-act.s9553330.93	So I take three on with L_C_D_ ? 	
+IS1007d.C.dialog-act.s9553330.124	Yeah a three . 	
+IS1007d.D.dialog-act.s9553330.94	So without L_C_D_ how would you rate it ? 	
+IS1007d.B.dialog-act.s9553330.200	Yeah . 	
+IS1007d.C.dialog-act.s9553330.125	Uh four . 	
+IS1007d.D.dialog-act.s9553330.95	Four . 	
+IS1007d.C.dialog-act.s9553330.126	I think it's it's uh more easy to make f fancy things when it's not complicated 	
+IS1007d.C.dialog-act.s9553330.127	so removing the L_C_D_ um gives us a li more liberty to to have a fancy look . 	
+IS1007d.B.dialog-act.s9553330.201	Yeah . 	
+IS1007d.B.dialog-act.s9553330.202	Yeah . 	
+IS1007d.D.dialog-act.s9553330.96	And in the sense of innovativeness , with L_C_D_ . 	
+IS1007d.C.dialog-act.s9553330.128	Well it's it's the same for both 	
+IS1007d.C.dialog-act.s9553330.129	so I will give a five , six . 	
+IS1007d.B.dialog-act.s9553330.194		
+IS1007d.B.dialog-act.s9553330.196	Mm . 	
+IS1007d.B.dialog-act.s9553330.195		
+IS1007d.D.dialog-act.s9553330.97	Five with L_C_D_ and 	
+IS1007d.B.dialog-act.s9553330.203		
+IS1007d.C.dialog-act.s9553330.130	Well five also uh 	
+IS1007d.B.dialog-act.s9553330.204	Yeah 	
+IS1007d.C.dialog-act.s9553330.131	Norman please . 	
+IS1007d.A.dialog-act.s9553330.69	Uh 	
+IS1007d.B.dialog-act.s9553330.205	from the innovation aspect I feel that uh what is most innovative of our prototype compared to the existing prototypes that we saw l in the last meeting is that um the retrieval of T_V_ programmes by content , 	
+IS1007d.B.dialog-act.s9553330.206	because uh that is really innovative , 	
+IS1007d.B.dialog-act.s9553330.207	and for now and another innovation we have is simplicity 	
+IS1007d.B.dialog-act.s9553330.208	and simplicity , few buttons , we've uh A lot of functionalities . 	
+IS1007d.C.dialog-act.s9553330.132	With lot of functionalities . 	
+IS1007d.D.dialog-act.s9553330.100	So without L_C_D_ ? 	
+IS1007d.B.dialog-act.s9553330.209	So that is uh that is uh for both th 	
+IS1007d.B.dialog-act.s9553330.210	Our gi 	
+IS1007d.B.dialog-act.s9553330.211	I think that the our our product is uh has the best in all 	
+IS1007d.B.dialog-act.s9553330.212	well this is a biased judgement 	
+IS1007d.C.dialog-act.s9553330.133		
+IS1007d.D.dialog-act.s9553330.101	No no 	
+IS1007d.B.dialog-act.s9553330.213	because we designed them . 	
+IS1007d.D.dialog-act.s9553330.102	according to design aspect we want to know how would you feel the innovativeness ? 	
+IS1007d.B.dialog-act.s9553330.214	Yeah . 	
+IS1007d.B.dialog-act.s9553330.215	Uh the innovation is v is very high I think . 	
+IS1007d.D.dialog-act.s9553330.103	With L_C_D_ . 	
+IS1007d.A.dialog-act.s9553330.70	For L_C_D_ . 	
+IS1007d.D.dialog-act.s9553330.104	And without L_C_D_ ? 	
+IS1007d.B.dialog-act.s9553330.216	Both . 	
+IS1007d.C.dialog-act.s9553330.134	Mm for both it's the the same innovations . 	
+IS1007d.B.dialog-act.s9553330.217	For both . 	
+IS1007d.B.dialog-act.s9553330.218	It's the same innovation . 	
+IS1007d.D.dialog-act.s9553330.105	Okay . 	
+IS1007d.B.dialog-act.s9553330.219	So maybe I can put six to seven . 	
+IS1007d.C.dialog-act.s9553330.135	six , let's go for six . 	
+IS1007d.A.dialog-act.s9553330.71	Without L_C_D_ . 	
+IS1007d.B.dialog-act.s9553330.220	Both . 	
+IS1007d.D.dialog-act.s9553330.106	No 	
+IS1007d.D.dialog-act.s9553330.107	actually uh to make it with L_C_D_ you make more efforts . 	
+IS1007d.D.dialog-act.s9553330.108	So I there is high innovativeness included if you make it with L_C_D_ y 	
+IS1007d.C.dialog-act.s9553330.136	Yeah . 	
+IS1007d.D.dialog-act.s9553330.109	then when it is without L_C_D_ there is not much innovativeness . 	
+IS1007d.B.dialog-act.s9553330.221	Mm . 	
+IS1007d.A.dialog-act.s9553330.72	Uh no innovative yeah . 	
+IS1007d.D.dialog-act.s9553330.110	So we can't go 	
+IS1007d.B.dialog-act.s9553330.222	Uh uh uh there w there was a there was a issue here is that what are what is the display on the L_C_D_ ? 	
+IS1007d.A.dialog-act.s9553330.73		
+IS1007d.C.dialog-act.s9553330.137	Talk about 	
+IS1007d.B.dialog-act.s9553330.223	We haven't really uh determined what are actually actually 	
+IS1007d.D.dialog-act.s9553330.111	I mean that what you are sayin that's what the design 	
+IS1007d.A.dialog-act.s9553330.74		
+IS1007d.B.dialog-act.s9553330.224	it's good to have a L_C_D_ 	
+IS1007d.B.dialog-act.s9553330.225	but what are we gonna display on a L_C_D_ ? 	
+IS1007d.C.dialog-act.s9553330.138		
+IS1007d.D.dialog-act.s9553330.112	No it's like this , 	
+IS1007d.A.dialog-act.s9553330.75		
+IS1007d.D.dialog-act.s9553330.113	I mean on the L_C_D_ , according to what I understand from your model is , you have a joystick here , and you have L_C_D_ , you just press your joystick , you get here a programme . 	
+IS1007d.A.dialog-act.s9553330.76	So let's remove it . 	
+IS1007d.B.dialog-act.s9553330.226	Yeah ? 	
+IS1007d.B.dialog-act.s9553330.227	Yeah . 	
+IS1007d.B.dialog-act.s9553330.228	Yeah but 	
+IS1007d.C.dialog-act.s9553330.140	Yeah 	
+IS1007d.D.dialog-act.s9553330.114	Uh then 	
+IS1007d.C.dialog-act.s9553330.139	but you have the same programme on the T_V_ screen . 	
+IS1007d.A.dialog-act.s9553330.77	But 	
+IS1007d.B.dialog-act.s9553330.229	Yes exactly . 	
+IS1007d.A.dialog-act.s9553330.78	This is the problem . 	
+IS1007d.D.dialog-act.s9553330.115	No 	
+IS1007d.D.dialog-act.s9553330.116	on the T_V_ you don't it doesn't display on the T_V_ now . 	
+IS1007d.C.dialog-act.s9553330.141	If you have the L_C_D_ , 	
+IS1007d.D.dialog-act.s9553330.117	L_C_D_ ? 	
+IS1007d.C.dialog-act.s9553330.142	but if n 	
+IS1007d.D.dialog-act.s9553330.118	Then uh there is no meaning in having it on the T_V_ . 	
+IS1007d.C.dialog-act.s9553330.143	Yeah . 	
+IS1007d.D.dialog-act.s9553330.119	Or then again you have a channels , volume and all the stuff and what a 	
+IS1007d.B.dialog-act.s9553330.230	But you cannot display all on a L_C_D_ . 	
+IS1007d.D.dialog-act.s9553330.120	I mean that depends upon your design , so 	
+IS1007d.B.dialog-act.s9553330.231	Anyway for for the users who who who opt for L_C_D_ we'll give them the give them the L_C_D_ , 	
+IS1007d.D.dialog-act.s9553330.121	I mean 	
+IS1007d.B.dialog-act.s9553330.232	we give what the customer uh wants , right . 	
+IS1007d.C.dialog-act.s9553330.144	Yeah . 	
+IS1007d.B.dialog-act.s9553330.233		
+IS1007d.D.dialog-act.s9553330.122	So without L_C_D_ you want to put it fi the same level of innovativeness ? 	
+IS1007d.D.dialog-act.s9553330.123	And which do you recommend e easy to use , with L_C_D_ or without L_C_D_ ? 	
+IS1007d.B.dialog-act.s9553330.234		
+IS1007d.C.dialog-act.s9553330.145	Well I think both are really easy to use 	
+IS1007d.C.dialog-act.s9553330.146	because there are few button buttons , 	
+IS1007d.B.dialog-act.s9553330.235	Yeah 	
+IS1007d.C.dialog-act.s9553330.147	and uh well t p the menu are clear , well-organised , so 	
+IS1007d.B.dialog-act.s9553330.236		
+IS1007d.B.dialog-act.s9553330.237	Yeah . 	
+IS1007d.B.dialog-act.s9553330.238	Yeah . 	
+IS1007d.C.dialog-act.s9553330.148	Well with little knowing of the technology you can you can easily use the product 	
+IS1007d.B.dialog-act.s9553330.239		
+IS1007d.C.dialog-act.s9553330.149	so I will give a six for the easy to use . 	
+IS1007d.B.dialog-act.s9553330.240	Yeah 	
+IS1007d.B.dialog-act.s9553330.241	I think 	
+IS1007d.B.dialog-act.s9553330.242	sorry . 	
+IS1007d.A.dialog-act.s9553330.79	No it's just if I I see the the f the rate I think it's better to do it without L_C_D_ . 	
+IS1007d.B.dialog-act.s9553330.243		
+IS1007d.A.dialog-act.s9553330.80	Because that's with L_C_D_ just will increase the price , 	
+IS1007d.D.dialog-act.s9553330.124	Yeah . 	
+IS1007d.A.dialog-act.s9553330.81	and I thi i they have the same rate so without L_C_D_ it will be 	
+IS1007d.B.dialog-act.s9553330.245	Yeah . 	
+IS1007d.D.dialog-act.s9553330.125	Or we can just go back to the previous slide uh where we ha we have a few updates . 	
+IS1007d.D.dialog-act.s9553330.126	So I mean in the product design you could just amend it to make some few changes 	
+IS1007d.B.dialog-act.s9553330.244		
+IS1007d.B.dialog-act.s9553330.246	Yeah . Yeah . 	
+IS1007d.D.dialog-act.s9553330.127	according to fruit and vegetable 	
+IS1007d.D.dialog-act.s9553330.128	or a spongy touch 	
+IS1007d.B.dialog-act.s9553330.247	Yeah . 	
+IS1007d.D.dialog-act.s9553330.129	without L_C_D_ and without speech recognition . 	
+IS1007d.D.dialog-act.s9553330.130	Even then our product is going to be very good . 	
+IS1007d.C.dialog-act.s9553330.150	Yeah , 	
+IS1007d.C.dialog-act.s9553330.151	it's cheaper to produce . 	
+IS1007d.D.dialog-act.s9553330.131	Yeah . 	
+IS1007d.B.dialog-act.s9553330.248	Mm . S 	
+IS1007d.C.dialog-act.s9553330.152	And uh if the the 	
+IS1007d.C.dialog-act.s9553330.153	well if we have less technology we have more liberty to uh for the shape and uh things like that so 	
+IS1007d.D.dialog-act.s9553330.132	Yeah that's right . 	
+IS1007d.B.dialog-act.s9553330.249	Yeah . 	
+IS1007d.B.dialog-act.s9553330.250	I have another thing to say about the easy to use aspect . 	
+IS1007d.B.dialog-act.s9553330.251	I think the easy to use uh aspect is different for different people . 	
+IS1007d.C.dialog-act.s9553330.154	Yep . 	
+IS1007d.B.dialog-act.s9553330.252	For the young generation easy to use may be very complicated 	
+IS1007d.A.dialog-act.s9553330.82	Mm-hmm . 	
+IS1007d.B.dialog-act.s9553330.253	because uh they w they wants lot of controls with lots of buttons . 	
+IS1007d.B.dialog-act.s9553330.254	For kids they want simply the s similarit for the old people they want simplicity , 	
+IS1007d.D.dialog-act.s9553330.133	Yeah yeah that's right . 	
+IS1007d.B.dialog-act.s9553330.255	so that's why we have the parental module . 	
+IS1007d.B.dialog-act.s9553330.256	Uh we can ha have build a more complex design if if they want it , 	
+IS1007d.B.dialog-act.s9553330.257	but but uh what I'm trying to say here is that the um we have different sets of buttons for different kinds of people . 	
+IS1007d.B.dialog-act.s9553330.258	So in terms of easy to use I think it's very user customisable . 	
+IS1007d.B.dialog-act.s9553330.259	User customisation is very important 	
+IS1007d.B.dialog-act.s9553330.260	yeah . Yeah 	
+IS1007d.C.dialog-act.s9553330.155	Yeah . 	
+IS1007d.B.dialog-act.s9553330.261	so 	
+IS1007d.D.dialog-act.s9553330.134	So without L_C_D_ I just take it five ? 	
+IS1007d.C.dialog-act.s9553330.156	Six . 	
+IS1007d.A.dialog-act.s9553330.83	Mm-hmm . 	
+IS1007d.B.dialog-act.s9553330.262	W uh 	
+IS1007d.D.dialog-act.s9553330.135	Or you want it to be six ? 	
+IS1007d.C.dialog-act.s9553330.157	Um six . 	
+IS1007d.B.dialog-act.s9553330.263	I think it's the same . 	
+IS1007d.B.dialog-act.s9553330.264	Yeah . 	
+IS1007d.C.dialog-act.s9553330.159	Yes as you say , with better uh 	
+IS1007d.A.dialog-act.s9553330.84	Without L_C_D_ . 	
+IS1007d.D.dialog-act.s9553330.136	S s oh I think it's better to have this without L_C_D_ . 	
+IS1007d.C.dialog-act.s9553330.160	yeah . 	
+IS1007d.C.dialog-act.s9553330.161	And to improve the the look . 	
+IS1007d.D.dialog-act.s9553330.137	As our Programme Manager s Pro Project Manager says that without L_C_D_ it is going to reduce the cost also , 	
+IS1007d.B.dialog-act.s9553330.265	Yeah . 	
+IS1007d.A.dialog-act.s9553330.85	Yeah . 	
+IS1007d.D.dialog-act.s9553330.138	and it's going to be much simpler to use . 	
+IS1007d.B.dialog-act.s9553330.266	Mm . 	
+IS1007d.C.dialog-act.s9553330.162	Yes and to give us more liberty to have a fancy look so 	
+IS1007d.B.dialog-act.s9553330.267	Yeah . 	
+IS1007d.C.dialog-act.s9553330.165	so let's go back to our laboratory and 	
+IS1007d.B.dialog-act.s9553330.269	To improve on the design . 	
+IS1007d.D.dialog-act.s9553330.139	So . 	
+IS1007d.A.dialog-act.s9553330.87	What a what what about the sys speech recognition ? 	
+IS1007d.B.dialog-act.s9553330.270	Huh ? 	
+IS1007d.A.dialog-act.s9553330.88	what about the integration of speech recognition ? 	
+IS1007d.B.dialog-act.s9553330.271	The speech recogniser is a add-on module . 	
+IS1007d.C.dialog-act.s9553330.166	Yeah . 	
+IS1007d.B.dialog-act.s9553330.272	Right ? 	
+IS1007d.D.dialog-act.s9553330.140	That's going to be an optional . 	
+IS1007d.D.dialog-act.s9553330.141	If somebody wants to buy it they can have it , otherwise no . 	
+IS1007d.B.dialog-act.s9553330.273	Yeah . 	
+IS1007d.C.dialog-act.s9553330.163		
+IS1007d.A.dialog-act.s9553330.89	Ah so it's optional with the okay . 	
+IS1007d.D.dialog-act.s9553330.142	It's an optional . 	
+IS1007d.C.dialog-act.s9553330.167	It's optional yeah , 	
+IS1007d.C.dialog-act.s9553330.168	since well according to this study uh people more likes more to have a spongy uh remote control than 	
+IS1007d.A.dialog-act.s9553330.90	I think it will be I think i 	
+IS1007d.B.dialog-act.s9553330.268		
+IS1007d.D.dialog-act.s9553330.143	Yeah . 	
+IS1007d.A.dialog-act.s9553330.91	I think it will be better if we have all these modules in the same remote control , 	
+IS1007d.A.dialog-act.s9553330.92	because maybe parents will lose these uh 	
+IS1007d.D.dialog-act.s9553330.144	Yeah , 	
+IS1007d.D.dialog-act.s9553330.145	but I mean if you have an add-ons , the kids may just uh hide the parental module 	
+IS1007d.A.dialog-act.s9553330.93	Yeah . Or ma yeah . 	
+IS1007d.D.dialog-act.s9553330.146	and so that their parents can't use it . 	
+IS1007d.A.dialog-act.s9553330.94	Or maybe parents they can for forget where they put it or , 	
+IS1007d.C.dialog-act.s9553330.164		
+IS1007d.A.dialog-act.s9553330.95	so mayb better if you have all this in the same 	
+IS1007d.D.dialog-act.s9553330.147	In the same set , yeah , 	
+IS1007d.A.dialog-act.s9553330.86		
+IS1007d.D.dialog-act.s9553330.148	and and individual buttons to make them work . 	
+IS1007d.B.dialog-act.s9553330.274	The problem is if i we are bla if a customer wants a certain component , and doesn't want the parental control because it's a couple who do not have children 	
+IS1007d.A.dialog-act.s9553330.97	Yeah . 	
+IS1007d.B.dialog-act.s9553330.275	when you sell the product in the market you could meet any kind of people , 	
+IS1007d.B.dialog-act.s9553330.276	and not all people will need all the functionalities we propose to them . 	
+IS1007d.B.dialog-act.s9553330.277	So we might lose the customer because of this . 	
+IS1007d.B.dialog-act.s9553330.278	I don't know , 	
+IS1007d.B.dialog-act.s9553330.279	what do you think uh ? 	
+IS1007d.A.dialog-act.s9553330.96	So you mean that even if these modules will be will be functional uh will be optional . 	
+IS1007d.B.dialog-act.s9553330.280	Yes exa 	
+IS1007d.B.dialog-act.s9553330.281	what do you think , 	
+IS1007d.B.dialog-act.s9553330.282	I don't know . You are Marketing Manag . 	
+IS1007d.D.dialog-act.s9553330.149	I mean how to how to how to make a marketing survey that uh how many married couple or how many couples have a T_V_ 	
+IS1007d.A.dialog-act.s9553330.98	Uh 	
+IS1007d.B.dialog-act.s9553330.283	Yeah . 	
+IS1007d.C.dialog-act.s9553330.169		
+IS1007d.D.dialog-act.s9553330.150	or to the number or singles who have a television . 	
+IS1007d.C.dialog-act.s9553330.170	Yeah . 	
+IS1007d.D.dialog-act.s9553330.151	So based on that I think 	
+IS1007d.B.dialog-act.s9553330.284	Yeah . 	
+IS1007d.B.dialog-act.s9553330.287	But the the question is n does those modularity increase the production cost or decrease the production cost ? 	
+IS1007d.A.dialog-act.s9553330.101	I think it inc increase . 	
+IS1007d.A.dialog-act.s9553330.99		
+IS1007d.C.dialog-act.s9553330.172	Well you can if you had uh something li 	
+IS1007d.A.dialog-act.s9553330.102	I think it i increases . 	
+IS1007d.C.dialog-act.s9553330.173	Oh no , 	
+IS1007d.C.dialog-act.s9553330.174	because if you if you add uh something 	
+IS1007d.A.dialog-act.s9553330.100		
+IS1007d.C.dialog-act.s9553330.175	well yeah maybe 	
+IS1007d.C.dialog-act.s9553330.176	because it's three different pieces uh to to to build but 	
+IS1007d.A.dialog-act.s9553330.103	Hmm . 	
+IS1007d.D.dialog-act.s9553330.152	But you can make it on a single P_C_ with three different options . 	
+IS1007d.C.dialog-act.s9553330.177	Yeah yeah yeah 	
+IS1007d.B.dialog-act.s9553330.285		
+IS1007d.C.dialog-act.s9553330.178	it's I think it's cheaper if you if you already built the all the functionalities um on the same module , but uh 	
+IS1007d.B.dialog-act.s9553330.288	Mm . 	
+IS1007d.B.dialog-act.s9553330.286		
+IS1007d.B.dialog-act.s9553330.289	Mm . 	
+IS1007d.B.dialog-act.s9553330.290	Yeah . 	
+IS1007d.D.dialog-act.s9553330.153	On the same P_C_B_ 	
+IS1007d.C.dialog-act.s9553330.179	Yeah . 	
+IS1007d.D.dialog-act.s9553330.154	yeah yeah . 	
+IS1007d.B.dialog-act.s9553330.292	Well well the other aspect is that if in the when they have the ar existing product you you gonna maintain the the you're gonna keep the same customer , 	
+IS1007d.B.dialog-act.s9553330.293	because the same customer will come back to buy other add-ons . 	
+IS1007d.D.dialog-act.s9553330.155	Yeah that's right . 	
+IS1007d.B.dialog-act.s9553330.291	So so 	
+IS1007d.D.dialog-act.s9553330.156	I mean you could just provide with an optional . 	
+IS1007d.B.dialog-act.s9553330.294	Yeah 	
+IS1007d.B.dialog-act.s9553330.295	i i so if don't don't buy now they can buy i in the future . 	
+IS1007d.B.dialog-act.s9553330.296	So in in that way you're actually keeping the cus the same customer , 	
+IS1007d.B.dialog-act.s9553330.297	attracting them to come back in again and again . 	
+IS1007d.C.dialog-act.s9553330.171		
+IS1007d.D.dialog-act.s9553330.157	So it's something like a Microsoft product update . 	
+IS1007d.C.dialog-act.s9553330.180		
+IS1007d.A.dialog-act.s9553330.106	And and we we we we we we don't want that . 	
+IS1007d.B.dialog-act.s9553330.298	We're not trying to follow the Microsoft 	
+IS1007d.B.dialog-act.s9553330.299	and we don't want to the m 	
+IS1007d.A.dialog-act.s9553330.104		
+IS1007d.D.dialog-act.s9553330.158	Updates and we sell it . 	
+IS1007d.D.dialog-act.s9553330.159	We make updates and sell it . 	
+IS1007d.C.dialog-act.s9553330.181		
+IS1007d.B.dialog-act.s9553330.300	Yeah well if the buyers can be up the th would be can be upgraded , it would be a good thing right ? 	
+IS1007d.C.dialog-act.s9553330.182	Yeah . 	
+IS1007d.A.dialog-act.s9553330.105		
+IS1007d.B.dialog-act.s9553330.301	Yeah , it depends on the v production . 	
+IS1007d.D.dialog-act.s9553330.160	And uh what's the idea about uh the shape of the remote controls ? 	
+IS1007d.D.dialog-act.s9553330.161	Uh can they be made into a fruit and vegetable types ? 	
+IS1007d.C.dialog-act.s9553330.183	Well so 	
+IS1007d.C.dialog-act.s9553330.184	Yeah yeah 	
+IS1007d.D.dialog-act.s9553330.162	Do you require different types of P_C_B_s and 	
+IS1007d.C.dialog-act.s9553330.185	I think we are 	
+IS1007d.C.dialog-act.s9553330.186	yeah 	
+IS1007d.C.dialog-act.s9553330.187	but we are also the um well the components will have to change 	
+IS1007d.C.dialog-act.s9553330.188	because uh we have to deal with the shape 	
+IS1007d.C.dialog-act.s9553330.189	and um but I don't think it will uh increase the cost too much so 	
+IS1007d.B.dialog-act.s9553330.302	Mm . 	
+IS1007d.D.dialog-act.s9553330.163	Or uh it could be like this the P_C_B_ would be the same for all , but only the exterior uh shape is different o for all . 	
+IS1007d.B.dialog-act.s9553330.303	Mm . 	
+IS1007d.C.dialog-act.s9553330.190	Uh well but it's a bit complicated to if if if you need machines to different machines to um ah well 	
+IS1007d.B.dialog-act.s9553330.304	Yeah . 	
+IS1007d.B.dialog-act.s9553330.305	What we can change is to propose the customers with skins . 	
+IS1007d.B.dialog-act.s9553330.306	For example the i the mobile phones nowaday , they sell different kinds of skin 	
+IS1007d.D.dialog-act.s9553330.164	Yeah , yeah that's right . 	
+IS1007d.B.dialog-act.s9553330.307	and then people just feel that oh I have a new skin and looks better . 	
+IS1007d.C.dialog-act.s9553330.191	Yeah yeah 	
+IS1007d.C.dialog-act.s9553330.192	we can have the same global shape 	
+IS1007d.B.dialog-act.s9553330.308	Yeah . 	
+IS1007d.C.dialog-act.s9553330.193	and then uh add on skins and with with this uh tex spongy texture uh things like that . 	
+IS1007d.B.dialog-act.s9553330.309	Yeah . 	
+IS1007d.D.dialog-act.s9553330.166	Yeah that's right . 	
+IS1007d.B.dialog-act.s9553330.310	Yeah . 	
+IS1007d.B.dialog-act.s9553330.311	Yeah you can pl 	
+IS1007d.B.dialog-act.s9553330.312	in what material would that be in uh ? 	
+IS1007d.C.dialog-act.s9553330.194	Sponge . 	
+IS1007d.D.dialog-act.s9553330.167	I think you need to look into the material . 	
+IS1007d.B.dialog-act.s9553330.313	Yeah or furry like a pet dog kind of thing . 	
+IS1007d.C.dialog-act.s9553330.195		
+IS1007d.D.dialog-act.s9553330.170	Yeah yeah . 	
+IS1007d.C.dialog-act.s9553330.200	Okay . 	
+IS1007d.A.dialog-act.s9553330.110	So 	
+IS1007d.C.dialog-act.s9553330.201	So we finished the prototype uh presentation if you have uh something else to say . 	
+IS1007d.B.dialog-act.s9553330.314		
+IS1007d.D.dialog-act.s9553330.171	I think the Project Manager would be interested to look about the financial issues in making these models . 	
+IS1007d.A.dialog-act.s9553330.107		
+IS1007d.A.dialog-act.s9553330.111	Project evaluation project satisfaction , for example . 	
+IS1007d.A.dialog-act.s9553330.112	I don't know , we have to ask these question . 	
+IS1007d.A.dialog-act.s9553330.113	We have to give answers so 	
+IS1007d.D.dialog-act.s9553330.168		
+IS1007d.B.dialog-act.s9553330.316	I suppose that you this criteria , is it ? 	
+IS1007d.A.dialog-act.s9553330.114	Project evaluation . 	
+IS1007d.A.dialog-act.s9553330.108		
+IS1007d.B.dialog-act.s9553330.317	Room for creativity . 	
+IS1007d.B.dialog-act.s9553330.319	This room is a bit small , but 	
+IS1007d.C.dialog-act.s9553330.196		
+IS1007d.A.dialog-act.s9553330.109		
+IS1007d.B.dialog-act.s9553330.320	but I think it's okay for us to work with . 	
+IS1007d.D.dialog-act.s9553330.173	I feel it's fine , 	
+IS1007d.D.dialog-act.s9553330.174	we know we don't need uh I think it's okay . 	
+IS1007d.B.dialog-act.s9553330.321	Yeah mm . 	
+IS1007d.C.dialog-act.s9553330.202	That was good . 	
+IS1007d.D.dialog-act.s9553330.175	This is fine for making a presentat for project presentations . 	
+IS1007d.B.dialog-act.s9553330.322	Mm . 	
+IS1007d.B.dialog-act.s9553330.323	Yeah anyway we have the laboratory nearby to build our modules so it's okay . 	
+IS1007d.C.dialog-act.s9553330.203	Yeah . 	
+IS1007d.C.dialog-act.s9553330.197		
+IS1007d.A.dialog-act.s9553330.115	Mm-hmm . 	
+IS1007d.D.dialog-act.s9553330.176	And the leadership was excellent . 	
+IS1007d.C.dialog-act.s9553330.198		
+IS1007d.A.dialog-act.s9553330.116	Yeah I think so . 	
+IS1007d.C.dialog-act.s9553330.199		
+IS1007d.B.dialog-act.s9553330.324	Good job good job . 	
+IS1007d.C.dialog-act.s9553330.204	Fine yes uh 	
+IS1007d.A.dialog-act.s9553330.117	He gave you the liberty to talk as you wants . 	
+IS1007d.D.dialog-act.s9553330.177	Yeah that's right . 	
+IS1007d.D.dialog-act.s9553330.178	Yeah that's right . 	
+IS1007d.A.dialog-act.s9553330.118	Uh the teamwork was very very good . 	
+IS1007d.C.dialog-act.s9553330.205	Very democratic . 	
+IS1007d.A.dialog-act.s9553330.119	I was really I am very satisfying to work with with you . 	
+IS1007d.B.dialog-act.s9553330.315		
+IS1007d.C.dialog-act.s9553330.206	Thank you . 	
+IS1007d.D.dialog-act.s9553330.169		
+IS1007d.B.dialog-act.s9553330.325	Thank you . 	
+IS1007d.A.dialog-act.s9553330.120	Oh . 	
+IS1007d.C.dialog-act.s9553330.207	Alright . 	
+IS1007d.B.dialog-act.s9553330.326	Alright . 	
+IS1007d.D.dialog-act.s9553330.179	And new ideas found . 	
+IS1007d.D.dialog-act.s9553330.180	Any new ideas to make these presentations more interactive and more interesting ? 	
+IS1007d.B.dialog-act.s9553330.327	Mm . 	
+IS1007d.C.dialog-act.s9553330.208	Come up with new product . 	
+IS1007d.D.dialog-act.s9553330.181	I mean uh what type of product would you think could we make this more interesting ? 	
+IS1007d.A.dialog-act.s9553330.121	Less fancy . 	
+IS1007d.B.dialog-act.s9553330.328	Mm we I I know something , we need more cakes , more biscuits on the table while we have meetings . 	
+IS1007d.C.dialog-act.s9553330.209	Yeah and also more well uh more seriously I think it's it's a good idea to have uh clear clear points whenever we do a meeting 	
+IS1007d.D.dialog-act.s9553330.182		
+IS1007d.B.dialog-act.s9553330.329	Mm . 	
+IS1007d.C.dialog-act.s9553330.210	uh prior to the meeting to have uh well a list with the points who will be discussed or things like that , 	
+IS1007d.C.dialog-act.s9553330.211	but I think it's alright . 	
+IS1007d.C.dialog-act.s9553330.212	We achieved uh project goal I think . 	
+IS1007d.D.dialog-act.s9553330.183	Yeah 	
+IS1007d.D.dialog-act.s9553330.184	that is within the budget . 	
+IS1007d.A.dialog-act.s9553330.122	De 	
+IS1007d.C.dialog-act.s9553330.213	It's w 	
+IS1007d.B.dialog-act.s9553330.330	Mm . 	
+IS1007d.A.dialog-act.s9553330.123		
+IS1007d.C.dialog-act.s9553330.214	yes , more or less . 	
+IS1007d.D.dialog-act.s9553330.185	And the evaluation was 	
+IS1007d.A.dialog-act.s9553330.124	Without without L_C_D_ , without speech recognition , it will be simple . 	
+IS1007d.D.dialog-act.s9553330.186	Yeah that's right . 	
+IS1007d.C.dialog-act.s9553330.215	Yeah but 	
+IS1007d.B.dialog-act.s9553330.331		
+IS1007d.C.dialog-act.s9553330.216	Alright . 	
+IS1007d.D.dialog-act.s9553330.187	And the next is celebration . 	
+IS1007d.C.dialog-act.s9553330.217	So . 	
+IS1007d.D.dialog-act.s9553330.188	So 	
+IS1007d.C.dialog-act.s9553330.218	So uh coffee machine . 	
+IS1007d.B.dialog-act.s9553330.332	Alright then , we finished ? 	
+IS1007d.A.dialog-act.s9553330.125	Yeah free free coffee 	
+IS1007d.C.dialog-act.s9553330.219	Okay . 	
+IS1007d.A.dialog-act.s9553330.126	Yeah thank you for your work and 	
+IS1007d.D.dialog-act.s9553330.189	Yeah thank you , thank you very much . 	
+IS1007d.B.dialog-act.s9553330.333	Thank you very much . 	
+

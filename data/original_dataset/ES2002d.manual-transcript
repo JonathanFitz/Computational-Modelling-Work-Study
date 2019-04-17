@@ -1,0 +1,1365 @@
+Observation: ES2002d; Result size: 1362; atts: 2
+$d@nite:id	$d	
+ES2002d.B.dialog-act.dharshi.1	Okay we all all set ? 	
+ES2002d.B.dialog-act.dharshi.2	Right . 	
+ES2002d.B.dialog-act.dharshi.3	Well this is the uh final detailed design meeting . 	
+ES2002d.B.dialog-act.dharshi.4	Um we're gonna discuss the look and feel design , the user interface design , and we're gonna evaluate the product . 	
+ES2002d.B.dialog-act.dharshi.5	And the end result of this meeting has to be a decision on the details of this remote control , 	
+ES2002d.B.dialog-act.dharshi.6	like absolute final decision , 	
+ES2002d.B.dialog-act.dharshi.7	um and then I'm gonna have to specify the final design in the final report . 	
+ES2002d.B.dialog-act.dharshi.8	So um 	
+ES2002d.B.dialog-act.dharshi.9	just from from last time to recap , 	
+ES2002d.B.dialog-act.dharshi.10	we said we were gonna have a snowman shaped remote control with no L_C_D_ display , no need for talk-back , 	
+ES2002d.B.dialog-act.dharshi.11	it was hopefully gonna be kinetic power and battery uh with rubber buttons , 	
+ES2002d.B.dialog-act.dharshi.12	maybe backlighting the buttons with some internal L_E_D_s to shine through the casing , 	
+ES2002d.B.dialog-act.dharshi.13	um hopefully a jog-dial , 	
+ES2002d.B.dialog-act.dharshi.14	and incorporating the slogan somewhere as well . 	
+ES2002d.B.dialog-act.dharshi.15	Anything I've missed ? 	
+ES2002d.A.dialog-act.dharshi.1	No . 	
+ES2002d.B.dialog-act.dharshi.16	Okay 	
+ES2002d.B.dialog-act.dharshi.17	um so uh 	
+ES2002d.B.dialog-act.dharshi.18	if you want to present your prototype go ahead . 	
+ES2002d.D.dialog-act.dharshi.1	Uh-oh . 	
+ES2002d.D.dialog-act.dharshi.2	This is it ? 	
+ES2002d.A.dialog-act.dharshi.2	Ninja Homer , made in Japan . 	
+ES2002d.D.dialog-act.dharshi.3	Um , there are a few changes we've made . 	
+ES2002d.D.dialog-act.dharshi.4	Um , well look at the expense sheet , and uh it turned to be quite a lot expensive to have open up and have lots of buttons and stuff inside , 	
+ES2002d.B.dialog-act.dharshi.21	Okay . 	
+ES2002d.B.dialog-act.dharshi.19	Mm . 	
+ES2002d.B.dialog-act.dharshi.20	Mm-hmm . 	
+ES2002d.D.dialog-act.dharshi.5	so instead we've um 	
+ES2002d.D.dialog-act.dharshi.6	this is gonna be an L_C_D_ screen , um just a a very very basic one , 	
+ES2002d.D.dialog-act.dharshi.7	very small um with access to the menu through the the scroll wheel and uh confirm 	
+ES2002d.D.dialog-act.dharshi.8	um button . 	
+ES2002d.C.dialog-act.dharshi.1	Mm 'kay . 	
+ES2002d.D.dialog-act.dharshi.9	Uh , apart from that , it's just pretty much the same as we discussed last time . 	
+ES2002d.A.dialog-act.dharshi.3	And there isn't uh d it doesn't open up to the advanced functions ? 	
+ES2002d.A.dialog-act.dharshi.4	the advanced functions are still hidden from you , but they're hidden in the sense that um they're not in use . 	
+ES2002d.C.dialog-act.dharshi.2	Where are they ? 	
+ES2002d.A.dialog-act.dharshi.5	Um they're in the L_C_D_ panel and the jog-dial ? 	
+ES2002d.C.dialog-act.dharshi.3	Ah , right . 	
+ES2002d.A.dialog-act.dharshi.6	Okay 'cause 	
+ES2002d.C.dialog-act.dharshi.4	Great . 	
+ES2002d.B.dialog-act.dharshi.22	So w what kind of thing uh is gonna be 	
+ES2002d.D.dialog-act.dharshi.10		
+ES2002d.A.dialog-act.dharshi.7	The L_C_D_ panel just displays um functionally what you're doing . 	
+ES2002d.A.dialog-act.dharshi.8	If you're using an advanced function right , like um c brightness , contrast , whatever , it will just say 	
+ES2002d.C.dialog-act.dharshi.5	Right . 	
+ES2002d.C.dialog-act.dharshi.6	Okay . 	
+ES2002d.A.dialog-act.dharshi.10	You know it's like 	
+ES2002d.A.dialog-act.dharshi.11	it only has four columns , it's a very simple L_C_D_ like , 	
+ES2002d.C.dialog-act.dharshi.7	Right . 	
+ES2002d.A.dialog-act.dharshi.12	whereas many the minimum amount we need that the user will automatically know like this is brightness or this is contrast . 	
+ES2002d.B.dialog-act.dharshi.23	Mm-hmm . 	
+ES2002d.C.dialog-act.dharshi.8	Right , 'kay . 	
+ES2002d.B.dialog-act.dharshi.24	Okay cool . 	
+ES2002d.A.dialog-act.dharshi.13	It might even be one , a bit more complex L_C_D_ panel with pictures like maybe the sun or the , you know , the the symbols of the various functions . 	
+ES2002d.C.dialog-act.dharshi.9	Okay 	
+ES2002d.C.dialog-act.dharshi.10	Mm-hmm , 	
+ES2002d.B.dialog-act.dharshi.25	Oh right okay . 	
+ES2002d.C.dialog-act.dharshi.11	and what is this here ? 	
+ES2002d.B.dialog-act.dharshi.26	Cool . 	
+ES2002d.A.dialog-act.dharshi.14	That's a number pad . 	
+ES2002d.C.dialog-act.dharshi.12	Okay so the number pad is 	
+ES2002d.B.dialog-act.dharshi.27	Where are we gonna have the slogan ? 	
+ES2002d.C.dialog-act.dharshi.13	'Kay , great . 	
+ES2002d.A.dialog-act.dharshi.15	Um they're al along this 	
+ES2002d.D.dialog-act.dharshi.11	You know , 	
+ES2002d.D.dialog-act.dharshi.12	just like right inside there . 	
+ES2002d.A.dialog-act.dharshi.16	Yeah . 	
+ES2002d.B.dialog-act.dharshi.28	Okay cool . 	
+ES2002d.A.dialog-act.dharshi.17	You have this space here , 	
+ES2002d.A.dialog-act.dharshi.18	and then you have this thing on the side as well , or at the bottom . 	
+ES2002d.B.dialog-act.dharshi.29		
+ES2002d.B.dialog-act.dharshi.30	Okay . 	
+ES2002d.A.dialog-act.dharshi.21	'Cause slogans are usually quite small , right , 	
+ES2002d.A.dialog-act.dharshi.22	they're not like huge 	
+ES2002d.C.dialog-act.dharshi.14	Mm . 	
+ES2002d.A.dialog-act.dharshi.20	so they're s 	
+ES2002d.C.dialog-act.dharshi.15	Yep . 	
+ES2002d.A.dialog-act.dharshi.23	Say a button's about 	
+ES2002d.B.dialog-act.dharshi.33	Okay . 	
+ES2002d.C.dialog-act.dharshi.17	Looks good . 	
+ES2002d.A.dialog-act.dharshi.25	say a button's about this size , right , 	
+ES2002d.C.dialog-act.dharshi.18	Yep . 	
+ES2002d.A.dialog-act.dharshi.26	so you would still have plenty of space for a slogan , say even for that . 	
+ES2002d.C.dialog-act.dharshi.16	Mm-hmm . 	
+ES2002d.B.dialog-act.dharshi.31	So if this isn't to scale , what kind of dimensions are you thinking about here ? 	
+ES2002d.D.dialog-act.dharshi.13	Well we want the other buttons to be big enough to push easily with a finger 	
+ES2002d.B.dialog-act.dharshi.32	Mm-hmm . 	
+ES2002d.D.dialog-act.dharshi.14	so we reckon maybe that'll be about the same size as the palm of your hand . 	
+ES2002d.C.dialog-act.dharshi.19	Okay . 	
+ES2002d.A.dialog-act.dharshi.27	Yep 	
+ES2002d.A.dialog-act.dharshi.28	so that would be about a centimetre for a button , 	
+ES2002d.A.dialog-act.dharshi.29	so one two three four centimetres . 	
+ES2002d.A.dialog-act.dharshi.30	Plus maybe half o five 	
+ES2002d.C.dialog-act.dharshi.20	Mm-hmm . 	
+ES2002d.C.dialog-act.dharshi.21	About nine in total . 	
+ES2002d.A.dialog-act.dharshi.31	six seven eight , 	
+ES2002d.B.dialog-act.dharshi.34	Six , seven , eight , nine , ten . 	
+ES2002d.A.dialog-act.dharshi.32	about yeah nine total . 	
+ES2002d.B.dialog-act.dharshi.35	So we're talking about ten centimetres . 	
+ES2002d.C.dialog-act.dharshi.23	That sounds good . Yeah . 	
+ES2002d.B.dialog-act.dharshi.36	That would be good . 	
+ES2002d.C.dialog-act.dharshi.22	Yep . 	
+ES2002d.B.dialog-act.dharshi.37	So ten centimetres in height . 	
+ES2002d.A.dialog-act.dharshi.34	Nine , ten . 	
+ES2002d.A.dialog-act.dharshi.33	Yep . 	
+ES2002d.B.dialog-act.dharshi.38	Okay um . 	
+ES2002d.C.dialog-act.dharshi.24	That'd be good , 	
+ES2002d.C.dialog-act.dharshi.26	in fact a pen is about ten centimetres usually , 	
+ES2002d.C.dialog-act.dharshi.27	so that would be 	
+ES2002d.C.dialog-act.dharshi.28	that sounds like a really good size , if you see it there . 	
+ES2002d.B.dialog-act.dharshi.39	Yeah . 	
+ES2002d.B.dialog-act.dharshi.40	That's great 	
+ES2002d.B.dialog-act.dharshi.41	and it's very bright as well . 	
+ES2002d.C.dialog-act.dharshi.25	Mm . 	
+ES2002d.B.dialog-act.dharshi.42	So um okay . 	
+ES2002d.C.dialog-act.dharshi.29	Is it possible 	
+ES2002d.C.dialog-act.dharshi.30	uh I'm just gonna bring up the idea of colours . 	
+ES2002d.C.dialog-act.dharshi.31	Is these are these the colours that of production , or is this just what we had available ? 	
+ES2002d.D.dialog-act.dharshi.15	Well I'm 	
+ES2002d.D.dialog-act.dharshi.16	We're gonna have again the the sort of the foggy um yellow from last time that lit up when you pushed the button . 	
+ES2002d.C.dialog-act.dharshi.32	Right . 	
+ES2002d.D.dialog-act.dharshi.17	Um 	
+ES2002d.B.dialog-act.dharshi.43	Okay so just 	
+ES2002d.B.dialog-act.dharshi.44	could you just list all the things that it does s so I can write them in the report . 	
+ES2002d.D.dialog-act.dharshi.18	But um 	
+ES2002d.D.dialog-act.dharshi.19	this button um , because it's red it's sort of very prominent , we're gonna use it as uh it can be the power button 	
+ES2002d.D.dialog-act.dharshi.20	if you hold it for maybe two seconds it'll send a stand-by signal . 	
+ES2002d.A.dialog-act.dharshi.35	Excuse me . 	
+ES2002d.B.dialog-act.dharshi.45	Mm-hmm . 	
+ES2002d.D.dialog-act.dharshi.21	Um apart from that it's gonna be used as a confirm button for the L_C_D_ screen 	
+ES2002d.A.dialog-act.dharshi.36	Sure . 	
+ES2002d.B.dialog-act.dharshi.46	Okay . 	
+ES2002d.D.dialog-act.dharshi.22	and you use this as a jog-dial . 	
+ES2002d.B.dialog-act.dharshi.47	Okay 	
+ES2002d.B.dialog-act.dharshi.48	so that's like an okay button , right . 	
+ES2002d.C.dialog-act.dharshi.33	Mm-hmm . 	
+ES2002d.A.dialog-act.dharshi.37	Oh we've discussed how h high it is , but how wide is it ? 	
+ES2002d.D.dialog-act.dharshi.24	I don't know . 	
+ES2002d.D.dialog-act.dharshi.23		
+ES2002d.B.dialog-act.dharshi.49	Okay . 	
+ES2002d.C.dialog-act.dharshi.34	How high is it ? 	
+ES2002d.A.dialog-act.dharshi.39	No as in the height , but what about the width ? 	
+ES2002d.C.dialog-act.dharshi.35	Yeah . 	
+ES2002d.D.dialog-act.dharshi.25	Didn't put five centimetres . 	
+ES2002d.B.dialog-act.dharshi.50	Oh oh 	
+ES2002d.B.dialog-act.dharshi.51	like depth of the actual thing . 	
+ES2002d.A.dialog-act.dharshi.38	Do we need five ? 	
+ES2002d.A.dialog-act.dharshi.40	I don't think five is 	
+ES2002d.D.dialog-act.dharshi.26	Um . 	
+ES2002d.A.dialog-act.dharshi.42	be about th three and a half . 	
+ES2002d.C.dialog-act.dharshi.36	Okay . 	
+ES2002d.D.dialog-act.dharshi.27	Something by there . 	
+ES2002d.B.dialog-act.dharshi.54	Oh is this k to get an idea of scale from your from your thing there okay . 	
+ES2002d.A.dialog-act.dharshi.43	Yeah , yeah . 	
+ES2002d.C.dialog-act.dharshi.38	Sure . 	
+ES2002d.B.dialog-act.dharshi.52	So you can power on and off , 	
+ES2002d.C.dialog-act.dharshi.37	Three and a half . 	
+ES2002d.B.dialog-act.dharshi.53	what else can you do ? 	
+ES2002d.D.dialog-act.dharshi.28	Um you can skip straight to a channel using these buttons . 	
+ES2002d.B.dialog-act.dharshi.55	Okay . 	
+ES2002d.D.dialog-act.dharshi.29	Um , were gonna have the volume control here , 	
+ES2002d.D.dialog-act.dharshi.30	but um because we've got the the L_C_D_ and the jog-dial we just thought we'd um use that as the volume . 	
+ES2002d.B.dialog-act.dharshi.56	Okay jog-dial for volume . 	
+ES2002d.B.dialog-act.dharshi.57	And what else do you do with the jog-dial ? 	
+ES2002d.C.dialog-act.dharshi.39	Mm-hmm . 	
+ES2002d.D.dialog-act.dharshi.31	Um you can use it for um more advanced functions like contrast , colour and 	
+ES2002d.B.dialog-act.dharshi.58	Contrast , 	
+ES2002d.B.dialog-act.dharshi.59	brightness , 	
+ES2002d.D.dialog-act.dharshi.32	Um yeah . 	
+ES2002d.B.dialog-act.dharshi.60	yeah , 	
+ES2002d.B.dialog-act.dharshi.61	and anything else ? 	
+ES2002d.D.dialog-act.dharshi.33	Um just whatever else we wanted to include as the advanced functions , 	
+ES2002d.D.dialog-act.dharshi.34	um we didn't actually go through and specify the 	
+ES2002d.B.dialog-act.dharshi.62	Well of the designers what are they ? 	
+ES2002d.D.dialog-act.dharshi.35	Uh what can a T_V_ do ? 	
+ES2002d.A.dialog-act.dharshi.45	Okay things like um brightness , contrast , 	
+ES2002d.B.dialog-act.dharshi.63	Uh-huh . 	
+ES2002d.A.dialog-act.dharshi.46	um maybe tuning the channels . 	
+ES2002d.B.dialog-act.dharshi.64	Okay channel tuning . 	
+ES2002d.A.dialog-act.dharshi.44	Um . 	
+ES2002d.B.dialog-act.dharshi.65	That's a good one . 	
+ES2002d.A.dialog-act.dharshi.47	What else ? 	
+ES2002d.A.dialog-act.dharshi.48	Um the various inputs . 	
+ES2002d.A.dialog-act.dharshi.49	Are you having a V_C_R_ , are you having you know which input do you have ? 	
+ES2002d.C.dialog-act.dharshi.40	Mm-hmm , 	
+ES2002d.C.dialog-act.dharshi.41	mm-hmm . 	
+ES2002d.B.dialog-act.dharshi.66	Okay 	
+ES2002d.B.dialog-act.dharshi.67	auxiliary inputs . 	
+ES2002d.C.dialog-act.dharshi.42	Mm-hmm , 	
+ES2002d.C.dialog-act.dharshi.43	probably colour or sharpness . 	
+ES2002d.A.dialog-act.dharshi.50	Um . 	
+ES2002d.A.dialog-act.dharshi.51	Yep , 	
+ES2002d.A.dialog-act.dharshi.52	colour , sharpness . 	
+ES2002d.B.dialog-act.dharshi.68	Sharpness . 	
+ES2002d.A.dialog-act.dharshi.53	Um a lot of these things will have to be um free and open for users to define them . 	
+ES2002d.C.dialog-act.dharshi.44	Mm-hmm . 	
+ES2002d.B.dialog-act.dharshi.71	Okay what about uh sound settings 	
+ES2002d.B.dialog-act.dharshi.69	? Uh d can you change any of those at all ? 	
+ES2002d.C.dialog-act.dharshi.45	Audio . 	
+ES2002d.A.dialog-act.dharshi.54	Audio , we have like your basic y your base , your mid-range , your high range . 	
+ES2002d.D.dialog-act.dharshi.37	Um . 	
+ES2002d.D.dialog-act.dharshi.36	the the balance hmm . 	
+ES2002d.A.dialog-act.dharshi.55	Um . 	
+ES2002d.A.dialog-act.dharshi.56	Yep , 	
+ES2002d.A.dialog-act.dharshi.57	left-right balance , 	
+ES2002d.A.dialog-act.dharshi.58	um maybe even pre-programmed sound modes , 	
+ES2002d.A.dialog-act.dharshi.59	like um the user could determine like a series of sound modes , 	
+ES2002d.B.dialog-act.dharshi.72	Okay . 	
+ES2002d.A.dialog-act.dharshi.60	and then what could happen would be um when you click on that then it would go to that setting . 	
+ES2002d.C.dialog-act.dharshi.46	Mm-hmm . 	
+ES2002d.B.dialog-act.dharshi.73	Okay , 	
+ES2002d.C.dialog-act.dharshi.47	Mm 'kay . 	
+ES2002d.A.dialog-act.dharshi.61	Yeah . 	
+ES2002d.B.dialog-act.dharshi.74	is there anything else at all it can do ? 	
+ES2002d.B.dialog-act.dharshi.75	That 	
+ES2002d.B.dialog-act.dharshi.76	'cause that's that's fine . 	
+ES2002d.B.dialog-act.dharshi.77	Just need to know so I can write it down . 	
+ES2002d.B.dialog-act.dharshi.78	Okay um right 	
+ES2002d.B.dialog-act.dharshi.79	I g I guess that's it , 	
+ES2002d.B.dialog-act.dharshi.80	so we can now um 	
+ES2002d.B.dialog-act.dharshi.81	We can now have a little look at the the Excel sheet and price listing , 	
+ES2002d.B.dialog-act.dharshi.82	and see if we need to 	
+ES2002d.D.dialog-act.dharshi.38	Mm-hmm . 	
+ES2002d.B.dialog-act.dharshi.83	um if we need to rethink anything at all . 	
+ES2002d.B.dialog-act.dharshi.84	So um 	
+ES2002d.B.dialog-act.dharshi.85	for this first part here power-wise , have we got battery ? 	
+ES2002d.A.dialog-act.dharshi.62	The battery . 	
+ES2002d.B.dialog-act.dharshi.86	Do we have kinetic as well ? 	
+ES2002d.A.dialog-act.dharshi.63	No . 	
+ES2002d.B.dialog-act.dharshi.87	No . 	
+ES2002d.B.dialog-act.dharshi.88	Okay , 	
+ES2002d.A.dialog-act.dharshi.64	Um . 	
+ES2002d.B.dialog-act.dharshi.89	just battery . 	
+ES2002d.A.dialog-act.dharshi.65	We need an 	
+ES2002d.B.dialog-act.dharshi.90	And that's because of cost restraints is it ? 	
+ES2002d.A.dialog-act.dharshi.66	Yep . 	
+ES2002d.D.dialog-act.dharshi.39	Yeah . 	
+ES2002d.B.dialog-act.dharshi.91	Okay 	
+ES2002d.B.dialog-act.dharshi.92	um what about the electronics here ? 	
+ES2002d.A.dialog-act.dharshi.67	Yeah advanced chip . 	
+ES2002d.A.dialog-act.dharshi.68	We need an advanced chip I think , yep . 	
+ES2002d.B.dialog-act.dharshi.93	Advanced chip . 	
+ES2002d.A.dialog-act.dharshi.69	Let me just confirm that . 	
+ES2002d.A.dialog-act.dharshi.70	Yes I think so . 	
+ES2002d.A.dialog-act.dharshi.71	Yep . 	
+ES2002d.B.dialog-act.dharshi.94	Okay um 	
+ES2002d.B.dialog-act.dharshi.95	the case , what does it mean by single and double , do you know ? 	
+ES2002d.D.dialog-act.dharshi.40	Um I think single would just be sort of one sort of oval whereas double is this sort of thing . 	
+ES2002d.A.dialog-act.dharshi.72	Yeah . 	
+ES2002d.B.dialog-act.dharshi.96	So we want double-curved ? 	
+ES2002d.A.dialog-act.dharshi.73	Yep . 	
+ES2002d.B.dialog-act.dharshi.97	Okay . 	
+ES2002d.B.dialog-act.dharshi.98	Um . 	
+ES2002d.A.dialog-act.dharshi.74	Plastic . 	
+ES2002d.B.dialog-act.dharshi.99	Is there any rubber at all in the buttons or any 	
+ES2002d.A.dialog-act.dharshi.75	I think we're gonna have to skip the rubber . 	
+ES2002d.B.dialog-act.dharshi.100	Okay , 	
+ES2002d.A.dialog-act.dharshi.76	Um . 	
+ES2002d.B.dialog-act.dharshi.101	um and we wanted special colours didn't we ? 	
+ES2002d.A.dialog-act.dharshi.77	Yep . 	
+ES2002d.B.dialog-act.dharshi.102	So I'll have to put that 	
+ES2002d.B.dialog-act.dharshi.103	Oh no wait we 	
+ES2002d.B.dialog-act.dharshi.104	ho how many colours have we got there ? 	
+ES2002d.A.dialog-act.dharshi.78	For the case itself , one colour . It's one special colour . 	
+ES2002d.B.dialog-act.dharshi.105	Just one colour , okay . 	
+ES2002d.A.dialog-act.dharshi.79	'Cause the case unit itself , the rest of our components go on top of it . 	
+ES2002d.B.dialog-act.dharshi.106	Okay 	
+ES2002d.C.dialog-act.dharshi.48	Mm . 	
+ES2002d.B.dialog-act.dharshi.107	so interface-wise , is it this third option we have , the two of them there ? 	
+ES2002d.A.dialog-act.dharshi.80	Yes . 	
+ES2002d.A.dialog-act.dharshi.81	One and the L_C_ display . 	
+ES2002d.B.dialog-act.dharshi.108	Okay 	
+ES2002d.B.dialog-act.dharshi.109	and then buttons , we have what , two colours ? 	
+ES2002d.A.dialog-act.dharshi.83	How many 	
+ES2002d.D.dialog-act.dharshi.41	Um we have um got some push buttons as well . 	
+ES2002d.C.dialog-act.dharshi.49	Or even clear . 	
+ES2002d.A.dialog-act.dharshi.82	We've got push buttons as well . 	
+ES2002d.B.dialog-act.dharshi.110	Like uh oh wait 	
+ES2002d.D.dialog-act.dharshi.42	'Kay . 	
+ES2002d.B.dialog-act.dharshi.111	so push button and integrated scroll wheel push 	
+ES2002d.B.dialog-act.dharshi.113	okay . 	
+ES2002d.D.dialog-act.dharshi.43	So I reckon we've got one button for this thing 'cause it's just one big sheet of rubber . 	
+ES2002d.B.dialog-act.dharshi.112	Uh-huh . 	
+ES2002d.D.dialog-act.dharshi.44	I'm not sure if that counts but 	
+ES2002d.B.dialog-act.dharshi.114	Okay . 	
+ES2002d.A.dialog-act.dharshi.84	Okay let's just be safe and put like say four buttons for that one . 	
+ES2002d.B.dialog-act.dharshi.115	Okay . 	
+ES2002d.A.dialog-act.dharshi.85	Okay um 	
+ES2002d.A.dialog-act.dharshi.86	and maybe a special colour for the buttons , so maybe four again . 	
+ES2002d.B.dialog-act.dharshi.118	Four . 	
+ES2002d.D.dialog-act.dharshi.45	You can see we're we're all very far beyond the 	
+ES2002d.B.dialog-act.dharshi.116	So w why are we arriving at the number four ? 	
+ES2002d.B.dialog-act.dharshi.117	Where does the number four come from ? 	
+ES2002d.A.dialog-act.dharshi.87	'Cause that's one button by its the complexity of twelve buttons . 	
+ES2002d.B.dialog-act.dharshi.119	Okay right , 	
+ES2002d.B.dialog-act.dharshi.121	so we're writing down four . 	
+ES2002d.A.dialog-act.dharshi.88	So we're just estimating that yeah it would be less . 	
+ES2002d.B.dialog-act.dharshi.120	Okay . 	
+ES2002d.B.dialog-act.dharshi.122	How about these ? 	
+ES2002d.B.dialog-act.dharshi.123	Are we wanting them in 	
+ES2002d.A.dialog-act.dharshi.90	No . 	
+ES2002d.B.dialog-act.dharshi.124	no 	
+ES2002d.B.dialog-act.dharshi.125	they're just 	
+ES2002d.B.dialog-act.dharshi.126	is everything gonna be plastic ? 	
+ES2002d.A.dialog-act.dharshi.91	Yep . 	
+ES2002d.A.dialog-act.dharshi.92	Yep . 	
+ES2002d.B.dialog-act.dharshi.127	Okay . 	
+ES2002d.B.dialog-act.dharshi.128	So we're w w quite far over . 	
+ES2002d.D.dialog-act.dharshi.46		
+ES2002d.A.dialog-act.dharshi.89		
+ES2002d.B.dialog-act.dharshi.129	Now we're gonna 	
+ES2002d.B.dialog-act.dharshi.130	something's gonna have to go . 	
+ES2002d.B.dialog-act.dharshi.131	Um we're at sixteen point eight and 	
+ES2002d.C.dialog-act.dharshi.50	Uh how mm-hmm 	
+ES2002d.C.dialog-act.dharshi.51	how are we going to achieve this high-end product if 	
+ES2002d.B.dialog-act.dharshi.132	Well we h something has to go to the tune of two point t three Euro , 	
+ES2002d.C.dialog-act.dharshi.52	We only have very sparse 	
+ES2002d.B.dialog-act.dharshi.133	so 	
+ES2002d.B.dialog-act.dharshi.134	let me see , 	
+ES2002d.B.dialog-act.dharshi.135	what are we 	
+ES2002d.C.dialog-act.dharshi.53	Two point three ? 	
+ES2002d.B.dialog-act.dharshi.136	I mean 	
+ES2002d.C.dialog-act.dharshi.54	Four point three 	
+ES2002d.C.dialog-act.dharshi.55	no ? 	
+ES2002d.B.dialog-act.dharshi.140	oh yes 	
+ES2002d.B.dialog-act.dharshi.141	sorry , 	
+ES2002d.B.dialog-act.dharshi.138	four point three . 	
+ES2002d.B.dialog-act.dharshi.139	My maths is all out . 	
+ES2002d.D.dialog-act.dharshi.47	Well we could take out ones by making it single curved , just fill in those bits . 	
+ES2002d.B.dialog-act.dharshi.142	Yeah . 	
+ES2002d.C.dialog-act.dharshi.56	And then where is the 	
+ES2002d.A.dialog-act.dharshi.93	How much would that save us ? 	
+ES2002d.B.dialog-act.dharshi.143	How much would that save us ? 	
+ES2002d.A.dialog-act.dharshi.94	That will only save you one . 	
+ES2002d.D.dialog-act.dharshi.48	That is one . 	
+ES2002d.B.dialog-act.dharshi.144	One . 	
+ES2002d.A.dialog-act.dharshi.95	The other thing could be that um you could take away the L_C_D_ panel and the advanced chip together , 	
+ES2002d.A.dialog-act.dharshi.96	um because when you 	
+ES2002d.A.dialog-act.dharshi.97	do something on the T_V_ , the T_V_ responds and reacts as well , 	
+ES2002d.C.dialog-act.dharshi.57	Mm-hmm . 	
+ES2002d.A.dialog-act.dharshi.98	so the user could be looking at the T_V_ and pushing his thing 	
+ES2002d.D.dialog-act.dharshi.49	That's fair enough , yeah . 	
+ES2002d.A.dialog-act.dharshi.99	so we may not need to 	
+ES2002d.C.dialog-act.dharshi.58	Mm-hmm . 	
+ES2002d.A.dialog-act.dharshi.100	so when we scroll we need just some way to get the T_V_ to respond , 	
+ES2002d.C.dialog-act.dharshi.59	Mm-hmm . 	
+ES2002d.B.dialog-act.dharshi.145	Okay so 	
+ES2002d.C.dialog-act.dharshi.60	Mm-hmm . 	
+ES2002d.A.dialog-act.dharshi.101	which I think is a technically doable thing so 	
+ES2002d.C.dialog-act.dharshi.61	Mm-hmm . 	
+ES2002d.B.dialog-act.dharshi.146	So w what's our reviewed suggestion ? 	
+ES2002d.A.dialog-act.dharshi.102		
+ES2002d.B.dialog-act.dharshi.147	Um take away the L_C_ display ? 	
+ES2002d.A.dialog-act.dharshi.103	Yep . 	
+ES2002d.A.dialog-act.dharshi.104	And the advanced chip goes away as well . 	
+ES2002d.C.dialog-act.dharshi.62	Mm-hmm . 	
+ES2002d.B.dialog-act.dharshi.148	To be replaced with a 	
+ES2002d.A.dialog-act.dharshi.105	Regular chip . 	
+ES2002d.B.dialog-act.dharshi.149	regular chip . 	
+ES2002d.A.dialog-act.dharshi.106	Yep . 	
+ES2002d.C.dialog-act.dharshi.63	Mm-hmm . 	
+ES2002d.B.dialog-act.dharshi.150	Okay . 	
+ES2002d.A.dialog-act.dharshi.107	So what that means is that um 	
+ES2002d.B.dialog-act.dharshi.151	And so we've got point three to get rid of . 	
+ES2002d.B.dialog-act.dharshi.152	Um and we ha 	
+ES2002d.B.dialog-act.dharshi.153	where are the four the four push buttons are where exactly now ? 	
+ES2002d.A.dialog-act.dharshi.108	The twelve buttons that you see there . 	
+ES2002d.B.dialog-act.dharshi.154	Twelve buttons . 	
+ES2002d.D.dialog-act.dharshi.50	That's um one piece of rubber but it's gonna have twelve button things underneath so 	
+ES2002d.B.dialog-act.dharshi.155	Yeah . 	
+ES2002d.A.dialog-act.dharshi.109	Functionally you're gonna have to intercept 	
+ES2002d.A.dialog-act.dharshi.110	So four is a good estimate for 	
+ES2002d.B.dialog-act.dharshi.156	Do you think ? 	
+ES2002d.A.dialog-act.dharshi.111	Yeah , 	
+ES2002d.A.dialog-act.dharshi.112	so you can't actually cut 	
+ES2002d.A.dialog-act.dharshi.113	It's like three times the number of buttons , four , eight , twelve . 	
+ES2002d.B.dialog-act.dharshi.157	Like is is that one big button or is it twelve buttons , 	
+ES2002d.B.dialog-act.dharshi.158	how can it be something in between ? 	
+ES2002d.A.dialog-act.dharshi.114	It It needs to be more than one big button because if you open up your phone , underneath there's actually one button underneath , it's just that the panel itself is a single panel . 	
+ES2002d.C.dialog-act.dharshi.64	Mm-hmm . 	
+ES2002d.B.dialog-act.dharshi.159	Mm . 	
+ES2002d.C.dialog-act.dharshi.65	Mm-hmm . 	
+ES2002d.B.dialog-act.dharshi.160	Okay 	
+ES2002d.B.dialog-act.dharshi.161	well we have point three to get rid of somewhere . 	
+ES2002d.A.dialog-act.dharshi.115	We just report that it has to be over budget , 	
+ES2002d.B.dialog-act.dharshi.162	Mm . 	
+ES2002d.C.dialog-act.dharshi.66		
+ES2002d.A.dialog-act.dharshi.116	or the colours , you could take away s colours for th for the buttons . 	
+ES2002d.B.dialog-act.dharshi.163	No can do . 	
+ES2002d.C.dialog-act.dharshi.68	Yeah 	
+ES2002d.C.dialog-act.dharshi.69	we could just go with um 	
+ES2002d.D.dialog-act.dharshi.51	Yeah w 	
+ES2002d.A.dialog-act.dharshi.117	Normal coloured buttons . 	
+ES2002d.B.dialog-act.dharshi.164	Well do you want colour differentiation here ? 	
+ES2002d.A.dialog-act.dharshi.118	No that's not the button we're talking about . 	
+ES2002d.D.dialog-act.dharshi.53	Um 	
+ES2002d.B.dialog-act.dharshi.166	Oh yeah sorry yeah then . 	
+ES2002d.A.dialog-act.dharshi.119	That's 	
+ES2002d.A.dialog-act.dharshi.120	the buttons only refer to the pad so 	
+ES2002d.B.dialog-act.dharshi.168	Right 	
+ES2002d.B.dialog-act.dharshi.169	so 	
+ES2002d.A.dialog-act.dharshi.121	Should we take that off uh ? 	
+ES2002d.B.dialog-act.dharshi.170	Ah . 	
+ES2002d.D.dialog-act.dharshi.52		
+ES2002d.A.dialog-act.dharshi.122	Hey it's back to the original . 	
+ES2002d.B.dialog-act.dharshi.171	That's it . 	
+ES2002d.C.dialog-act.dharshi.70	Hmm . 	
+ES2002d.A.dialog-act.dharshi.123	Um so then these just become normal coloured buttons , 	
+ES2002d.C.dialog-act.dharshi.71	Mm-hmm . 	
+ES2002d.A.dialog-act.dharshi.124	so that might be some some way of cutting the cost . 	
+ES2002d.C.dialog-act.dharshi.72	Mm . 	
+ES2002d.B.dialog-act.dharshi.172	Okay , 	
+ES2002d.B.dialog-act.dharshi.173	ach that's a shame . 	
+ES2002d.B.dialog-act.dharshi.175	Um right , 	
+ES2002d.B.dialog-act.dharshi.176	so take away that completely ? 	
+ES2002d.B.dialog-act.dharshi.177	Ah . 	
+ES2002d.B.dialog-act.dharshi.178	And now we're under budget . 	
+ES2002d.B.dialog-act.dharshi.179	So we do have point five Euro to play with if we wanted . 	
+ES2002d.C.dialog-act.dharshi.73		
+ES2002d.D.dialog-act.dharshi.54	So I reckon 	
+ES2002d.B.dialog-act.dharshi.180	Um 	
+ES2002d.C.dialog-act.dharshi.74	How about with embossing the logo , isn't that going to cost us some money ? 	
+ES2002d.B.dialog-act.dharshi.174	Doesn't say so . 	
+ES2002d.C.dialog-act.dharshi.76	Yeah . 	
+ES2002d.C.dialog-act.dharshi.75	That's a freebie . 	
+ES2002d.D.dialog-act.dharshi.55	Reckon that probably counts as a special form for the buttons . 	
+ES2002d.A.dialog-act.dharshi.127	Yeah . 	
+ES2002d.B.dialog-act.dharshi.181	Yeah that's a good idea . 	
+ES2002d.B.dialog-act.dharshi.182	Just one ? 	
+ES2002d.B.dialog-act.dharshi.183	Does that mean that one button has a special form or 	
+ES2002d.D.dialog-act.dharshi.56	I think there's just one button so 	
+ES2002d.B.dialog-act.dharshi.184	Yeah okay . 	
+ES2002d.D.dialog-act.dharshi.57	handy . 	
+ES2002d.A.dialog-act.dharshi.128		
+ES2002d.B.dialog-act.dharshi.185	Well well there we go . 	
+ES2002d.B.dialog-act.dharshi.186	So I'm just gonna have to redraw this now . 	
+ES2002d.B.dialog-act.dharshi.187	So we're not gonna have the L_C_D_ anymore , 	
+ES2002d.B.dialog-act.dharshi.188	and we'll just gonna have an on t on the T_V_ it'll show you what you're doing , 	
+ES2002d.B.dialog-act.dharshi.189	which I think is fair enough , 	
+ES2002d.B.dialog-act.dharshi.191	and so this is gonna be one big thing here . 	
+ES2002d.B.dialog-act.dharshi.190	Um . 	
+ES2002d.C.dialog-act.dharshi.77	Was the goal in your in your prototype design that it be as low profile as possible ? 	
+ES2002d.A.dialog-act.dharshi.129	What do you mean by profile ? 	
+ES2002d.D.dialog-act.dharshi.58	Yeah . 	
+ES2002d.C.dialog-act.dharshi.78	Sort of flat as possible . 	
+ES2002d.A.dialog-act.dharshi.130	No . 	
+ES2002d.D.dialog-act.dharshi.59	You see I envision it as being um quite deep 	
+ES2002d.D.dialog-act.dharshi.60	sort of deep enough to be comfy to hold in your hands rather than being wide and flat . 	
+ES2002d.C.dialog-act.dharshi.79	Yeah . 	
+ES2002d.C.dialog-act.dharshi.80	Yeah 	
+ES2002d.C.dialog-act.dharshi.81	that's what I was thinking , to 	
+ES2002d.C.dialog-act.dharshi.82	Sure , okay . 	
+ES2002d.A.dialog-act.dharshi.131	We didn't have enough Play-Doh to make it three D_ . 	
+ES2002d.D.dialog-act.dharshi.61		
+ES2002d.C.dialog-act.dharshi.83	Yeah alright yeah fair enough . 	
+ES2002d.C.dialog-act.dharshi.85	Okay , just thought I'd ask . 	
+ES2002d.A.dialog-act.dharshi.132	So there's one more dimension to the thing which we need to to add , 	
+ES2002d.C.dialog-act.dharshi.84	Mm-hmm . 	
+ES2002d.A.dialog-act.dharshi.133	and you might want to add in the report , 	
+ES2002d.A.dialog-act.dharshi.134	length , width , and height . 	
+ES2002d.B.dialog-act.dharshi.192	Right okay . 	
+ES2002d.A.dialog-act.dharshi.135	Yeah . 	
+ES2002d.B.dialog-act.dharshi.193	So just to well to be thorough then , 	
+ES2002d.B.dialog-act.dharshi.194	width-wise we're looking at about what three centimetres or something ? 	
+ES2002d.A.dialog-act.dharshi.136	Yeah . 	
+ES2002d.B.dialog-act.dharshi.195	Okay 	
+ES2002d.B.dialog-act.dharshi.196	and then so height-wise 	
+ES2002d.C.dialog-act.dharshi.86	Hmm . 	
+ES2002d.B.dialog-act.dharshi.197	How how tall do you envisage it being ? 	
+ES2002d.B.dialog-act.dharshi.198	About that big ? 	
+ES2002d.D.dialog-act.dharshi.62	Yeah it works , yeah . 	
+ES2002d.A.dialog-act.dharshi.137	Two . 	
+ES2002d.B.dialog-act.dharshi.199	About two centimetres , okay . 	
+ES2002d.C.dialog-act.dharshi.87	Two's not very high at all though . 	
+ES2002d.C.dialog-act.dharshi.88	Maybe a bit higher ? 	
+ES2002d.A.dialog-act.dharshi.138	This is about this is about two . 	
+ES2002d.A.dialog-act.dharshi.139	Slightly more than two , so 	
+ES2002d.C.dialog-act.dharshi.89	Yeah . 	
+ES2002d.D.dialog-act.dharshi.63	See , about that thick . 	
+ES2002d.B.dialog-act.dharshi.200	Okay . 	
+ES2002d.C.dialog-act.dharshi.90	Maybe closer to three even or two and a half . 	
+ES2002d.B.dialog-act.dharshi.201	Ach , that is 	
+ES2002d.B.dialog-act.dharshi.202	Yeah . 	
+ES2002d.A.dialog-act.dharshi.140	Okay . 	
+ES2002d.B.dialog-act.dharshi.203	Okay we'll s we'll say two point five . 	
+ES2002d.B.dialog-act.dharshi.204	Okay um 	
+ES2002d.B.dialog-act.dharshi.205	so we have it within cost anyway . 	
+ES2002d.B.dialog-act.dharshi.207	Um so yeah 	
+ES2002d.B.dialog-act.dharshi.208	project evaluation is this point . 	
+ES2002d.B.dialog-act.dharshi.206	Um . 	
+ES2002d.C.dialog-act.dharshi.91	Mm-hmm . 	
+ES2002d.B.dialog-act.dharshi.209	Right uh . 	
+ES2002d.B.dialog-act.dharshi.210	Okay so can we close that ? 	
+ES2002d.B.dialog-act.dharshi.211	This is what it's the final spec that it's gonna be . 	
+ES2002d.C.dialog-act.dharshi.92	Mm-hmm . 	
+ES2002d.B.dialog-act.dharshi.212	Someone is gonna have to 	
+ES2002d.B.dialog-act.dharshi.213	yeah that's fine that's fine . 	
+ES2002d.C.dialog-act.dharshi.93	Um it's probably just 	
+ES2002d.C.dialog-act.dharshi.94	I dunno if it's worth getting into , 	
+ES2002d.C.dialog-act.dharshi.95	but um just in in that we want this to be stylish , should we think a little bit more out of the box in terms of a button grid , 	
+ES2002d.C.dialog-act.dharshi.96	because I've seen there's lots of devices out there that that instead of taking your standard nine nine square grid , and they have it sort of stylized or in different concept that that 	
+ES2002d.A.dialog-act.dharshi.141	I think that's something that's very hard to catch , 	
+ES2002d.C.dialog-act.dharshi.97	Yeah . 	
+ES2002d.A.dialog-act.dharshi.142	so you you restrict the number of people who wanna try something . 	
+ES2002d.C.dialog-act.dharshi.98	Sure , okay . 	
+ES2002d.A.dialog-act.dharshi.143	The the look and the colour is something which is cool , 	
+ES2002d.C.dialog-act.dharshi.99	Yeah , alright . 	
+ES2002d.A.dialog-act.dharshi.144	but I think that there's also that factor of if it's too unfamiliar 	
+ES2002d.C.dialog-act.dharshi.100	Okay , sure . 	
+ES2002d.A.dialog-act.dharshi.145	then um because when you put it on the shelf 	
+ES2002d.C.dialog-act.dharshi.101	What about button shape ? 	
+ES2002d.C.dialog-act.dharshi.102	Square buttons ? 	
+ES2002d.A.dialog-act.dharshi.146	Yeah 	
+ES2002d.A.dialog-act.dharshi.147	button shape might be a good idea to change , rather than rather than positioning , 	
+ES2002d.C.dialog-act.dharshi.103	Okay . 	
+ES2002d.C.dialog-act.dharshi.104	Yeah . 	
+ES2002d.A.dialog-act.dharshi.148	'cause I think positioning is we're kinda engrained into the the telephone kind of 	
+ES2002d.C.dialog-act.dharshi.105	Sure . 	
+ES2002d.D.dialog-act.dharshi.64	Yeah . 	
+ES2002d.C.dialog-act.dharshi.106	Yeah . 	
+ES2002d.B.dialog-act.dharshi.214	Okay . 	
+ES2002d.A.dialog-act.dharshi.149	pad . 	
+ES2002d.B.dialog-act.dharshi.215	Right um . 	
+ES2002d.B.dialog-act.dharshi.216	So at this point we uh , 	
+ES2002d.B.dialog-act.dharshi.217	let me see , 	
+ES2002d.B.dialog-act.dharshi.218	discuss uh how satisfied we all are with um with these four points , 	
+ES2002d.B.dialog-act.dharshi.219	with the room for creativity in the project , and leadership and teamwork , 	
+ES2002d.B.dialog-act.dharshi.220	and the stuff we had around us I guess . 	
+ES2002d.C.dialog-act.dharshi.109	Mm 'kay . 	
+ES2002d.B.dialog-act.dharshi.221	Um , 	
+ES2002d.B.dialog-act.dharshi.222	let me see uh 	
+ES2002d.C.dialog-act.dharshi.108	Do you want me to d um 	
+ES2002d.C.dialog-act.dharshi.107	Do you want me to do my um design evaluation last ? 	
+ES2002d.B.dialog-act.dharshi.223	Yeah I wasn't really sure what that was 	
+ES2002d.A.dialog-act.dharshi.150	Maybe we should do the design evaluation first . 	
+ES2002d.C.dialog-act.dharshi.110	Or 	
+ES2002d.B.dialog-act.dharshi.228	Yeah 	
+ES2002d.C.dialog-act.dharshi.111	Evaluation . 	
+ES2002d.B.dialog-act.dharshi.224	, yeah go for that first . 	
+ES2002d.B.dialog-act.dharshi.225	I wasn't entirely sure what uh who was supposed to be doing that , 	
+ES2002d.C.dialog-act.dharshi.112	Okay . 	
+ES2002d.B.dialog-act.dharshi.226	but y you go for it . 	
+ES2002d.C.dialog-act.dharshi.113	Sure . 	
+ES2002d.C.dialog-act.dharshi.114	Um , alright so the way this works , I'm gonna need to plug into PowerPoint , 	
+ES2002d.B.dialog-act.dharshi.227		
+ES2002d.B.dialog-act.dharshi.229	Okay . 	
+ES2002d.C.dialog-act.dharshi.115	I'll try and do it as quick as possible . 	
+ES2002d.B.dialog-act.dharshi.230	Okay . 	
+ES2002d.C.dialog-act.dharshi.117	Um , this is um 	
+ES2002d.C.dialog-act.dharshi.118	I'll just go over your head 	
+ES2002d.C.dialog-act.dharshi.119	if that's okay . 	
+ES2002d.B.dialog-act.dharshi.231	Yeah . 	
+ES2002d.A.dialog-act.dharshi.151	I don't think you need the power , 	
+ES2002d.C.dialog-act.dharshi.116		
+ES2002d.A.dialog-act.dharshi.152	so 	
+ES2002d.C.dialog-act.dharshi.120	What's that ? 	
+ES2002d.A.dialog-act.dharshi.153	No , that's okay that's okay . 	
+ES2002d.C.dialog-act.dharshi.121	I don't need the PowerPoint ? 	
+ES2002d.A.dialog-act.dharshi.154	No , the power cord itself . 	
+ES2002d.C.dialog-act.dharshi.122	Oh course , 	
+ES2002d.A.dialog-act.dharshi.155	Yeah , 	
+ES2002d.C.dialog-act.dharshi.123	yeah that's true . 	
+ES2002d.A.dialog-act.dharshi.156	so then you have a bit more freedom to 	
+ES2002d.C.dialog-act.dharshi.124	Let me get that . 	
+ES2002d.C.dialog-act.dharshi.125	A bit more . 	
+ES2002d.B.dialog-act.dharshi.232		
+ES2002d.C.dialog-act.dharshi.126	Okay , 	
+ES2002d.A.dialog-act.dharshi.157	You you still have your blue fingers . 	
+ES2002d.C.dialog-act.dharshi.127	so what this is is a set-up for us to um uh use a kind of a like a 	
+ES2002d.D.dialog-act.dharshi.65		
+ES2002d.D.dialog-act.dharshi.67	Is it ? 	
+ES2002d.A.dialog-act.dharshi.158	You killed a monster . 	
+ES2002d.D.dialog-act.dharshi.66		
+ES2002d.C.dialog-act.dharshi.128	The idea is that I've set up 	
+ES2002d.C.dialog-act.dharshi.129	I've reviewed all of the um the points of discussion from the beginning , 	
+ES2002d.C.dialog-act.dharshi.130	and used that as a criteria of evaluation for the um uh for the current design uh th or the plan , 	
+ES2002d.C.dialog-act.dharshi.131	and uh so we can review that . 	
+ES2002d.C.dialog-act.dharshi.132	Uh I think it's gonna end up being sort of elementary 	
+ES2002d.C.dialog-act.dharshi.133	because we're sort we're in n we're not gonna probably use it to change anything but 	
+ES2002d.C.dialog-act.dharshi.134	Doesn't seem like it's going , does it ? 	
+ES2002d.B.dialog-act.dharshi.233	Oh there it is . 	
+ES2002d.C.dialog-act.dharshi.135	Yeah , okay great . 	
+ES2002d.C.dialog-act.dharshi.136	Uh and I'm gonna write up our results on the board , 	
+ES2002d.C.dialog-act.dharshi.138	so this'll be a way for us to go through and decide if we're um sort of review where we stand with it . 	
+ES2002d.C.dialog-act.dharshi.139	Okay , so um 	
+ES2002d.C.dialog-act.dharshi.140	So to sort of b bring together two things , sort of design goals and also the market research that we had , 	
+ES2002d.C.dialog-act.dharshi.141	uh when we rate this , one is v high in in succeeding or fitting to our original aim and seven is low , 	
+ES2002d.C.dialog-act.dharshi.142	okay . 	
+ES2002d.B.dialog-act.dharshi.234	Mm 'kay . 	
+ES2002d.C.dialog-act.dharshi.145	So these i these i th are the 	
+ES2002d.C.dialog-act.dharshi.146	and um we've been asked to uh to collectively rate this , 	
+ES2002d.C.dialog-act.dharshi.147	so what we can do is try and just y work on a consensus system so 	
+ES2002d.C.dialog-act.dharshi.148	we just come to an agreement . 	
+ES2002d.B.dialog-act.dharshi.235	Okay . 	
+ES2002d.C.dialog-act.dharshi.143	Okay ? 	
+ES2002d.C.dialog-act.dharshi.149	So the first one uh , stylish look and feel . 	
+ES2002d.A.dialog-act.dharshi.159	I rate that pretty highly . 	
+ES2002d.B.dialog-act.dharshi.236	Well yeah , 	
+ES2002d.D.dialog-act.dharshi.69	Yeah . 	
+ES2002d.B.dialog-act.dharshi.237	I mean compared to most remote controls you see that's pretty good . 	
+ES2002d.C.dialog-act.dharshi.150	Yeah . 	
+ES2002d.B.dialog-act.dharshi.238	I dunno like a six or something . 	
+ES2002d.C.dialog-act.dharshi.151	Yeah . 	
+ES2002d.C.dialog-act.dharshi.152	Yeah 	
+ES2002d.B.dialog-act.dharshi.239	What does anybody else think ? 	
+ES2002d.C.dialog-act.dharshi.153	um me uh my only reservation with it was that we basically went with yellow because it's the company's colour , 	
+ES2002d.B.dialog-act.dharshi.240	Mm . 	
+ES2002d.C.dialog-act.dharshi.154	and I don't know if yellow's gonna really be a hit . 	
+ES2002d.B.dialog-act.dharshi.241	Mm . 	
+ES2002d.C.dialog-act.dharshi.155	But 	
+ES2002d.B.dialog-act.dharshi.242	Okay . 	
+ES2002d.D.dialog-act.dharshi.70	I'm seeing five then . 	
+ES2002d.C.dialog-act.dharshi.156	What do you guys think ? 	
+ES2002d.B.dialog-act.dharshi.243	I would say five or six . 	
+ES2002d.C.dialog-act.dharshi.157	Okay . 	
+ES2002d.B.dialog-act.dharshi.244	David ? 	
+ES2002d.A.dialog-act.dharshi.160	Yep I'm fine with that . 	
+ES2002d.C.dialog-act.dharshi.158	Okay let's go with five then . 	
+ES2002d.B.dialog-act.dharshi.245	Okay . 	
+ES2002d.C.dialog-act.dharshi.159	Fi oh uh just actually the opposite . 	
+ES2002d.A.dialog-act.dharshi.161	It's one to seven , right ? 	
+ES2002d.C.dialog-act.dharshi.160	The 	
+ES2002d.B.dialog-act.dharshi.248	Oh yes 	
+ES2002d.B.dialog-act.dharshi.249	sorry then 	
+ES2002d.C.dialog-act.dharshi.162	So it meant three , 	
+ES2002d.B.dialog-act.dharshi.247	, then I would say two or three . 	
+ES2002d.C.dialog-act.dharshi.163	okay . 	
+ES2002d.A.dialog-act.dharshi.163	Wait , 	
+ES2002d.A.dialog-act.dharshi.164	what's the scale , one to seven , right ? 	
+ES2002d.D.dialog-act.dharshi.72	One's high-ish isn't it ? 	
+ES2002d.B.dialog-act.dharshi.250	Yeah . 	
+ES2002d.C.dialog-act.dharshi.164	Yeah , one is high . 	
+ES2002d.D.dialog-act.dharshi.74	Ah , okay 	
+ES2002d.D.dialog-act.dharshi.75	so yeah , two or three . 	
+ES2002d.C.dialog-act.dharshi.165	'Kay 	
+ES2002d.A.dialog-act.dharshi.165	Okay , 	
+ES2002d.A.dialog-act.dharshi.166	it's upside-down . 	
+ES2002d.C.dialog-act.dharshi.166	Let's go with two point five then . 	
+ES2002d.D.dialog-act.dharshi.71		
+ES2002d.B.dialog-act.dharshi.246		
+ES2002d.C.dialog-act.dharshi.167	Okay , um 	
+ES2002d.C.dialog-act.dharshi.168	control 	
+ES2002d.C.dialog-act.dharshi.169	high tech innovation . 	
+ES2002d.A.dialog-act.dharshi.162		
+ES2002d.B.dialog-act.dharshi.251	Well it has the wee jog-dial 	
+ES2002d.C.dialog-act.dharshi.170	We had to remove 	
+ES2002d.B.dialog-act.dharshi.252	but 	
+ES2002d.C.dialog-act.dharshi.171	Yeah , 	
+ES2002d.C.dialog-act.dharshi.172	so we've had to remove a few of our features we wanted , 	
+ES2002d.B.dialog-act.dharshi.253	Mm . 	
+ES2002d.C.dialog-act.dharshi.173	but jog-dial 	
+ES2002d.C.dialog-act.dharshi.174	's good . 	
+ES2002d.B.dialog-act.dharshi.254	I'd go with three or four , 	
+ES2002d.A.dialog-act.dharshi.167	Say it's more 	
+ES2002d.D.dialog-act.dharshi.77	Eight 	
+ES2002d.D.dialog-act.dharshi.78	three . 	
+ES2002d.A.dialog-act.dharshi.168	medium , 	
+ES2002d.B.dialog-act.dharshi.255	maybe three . 	
+ES2002d.A.dialog-act.dharshi.169	but going towards a little bit higher than medium kind of thing . 	
+ES2002d.C.dialog-act.dharshi.175	Okay , 	
+ES2002d.B.dialog-act.dharshi.256	Yeah about three , okay . 	
+ES2002d.C.dialog-act.dharshi.176	three ? 	
+ES2002d.A.dialog-act.dharshi.170	Yep . 	
+ES2002d.C.dialog-act.dharshi.177	Okay , um 	
+ES2002d.A.dialog-act.dharshi.171		
+ES2002d.C.dialog-act.dharshi.178	Style reflects a fruit inspired colour , design . 	
+ES2002d.C.dialog-act.dharshi.179	I shouldn't have said colour , but just 	
+ES2002d.A.dialog-act.dharshi.172	Lemon . 	
+ES2002d.B.dialog-act.dharshi.257	Well that's kind of 	
+ES2002d.A.dialog-act.dharshi.173	Okay , the blue the blue colours and don't re don't actually represent the colour , 	
+ES2002d.D.dialog-act.dharshi.79	Yeah . 	
+ES2002d.C.dialog-act.dharshi.180	Sorta . 	
+ES2002d.A.dialog-act.dharshi.174	except for the b the the red button , 	
+ES2002d.C.dialog-act.dharshi.181	Yeah . 	
+ES2002d.A.dialog-act.dharshi.175	they because for want of a 	
+ES2002d.C.dialog-act.dharshi.182	Okay . 	
+ES2002d.B.dialog-act.dharshi.259	But the yellow , I mean it could be a lemon yellow colour , 	
+ES2002d.C.dialog-act.dharshi.183	Right . Yeah , could be . Yeah . 	
+ES2002d.A.dialog-act.dharshi.176	Yeah , 	
+ES2002d.A.dialog-act.dharshi.177	the the yellow is more representative of the colour , 	
+ES2002d.B.dialog-act.dharshi.260	couldn't it ? 	
+ES2002d.A.dialog-act.dharshi.178	but the button itself , the blue can be anything else . 	
+ES2002d.C.dialog-act.dharshi.184	Okay . 	
+ES2002d.B.dialog-act.dharshi.261	Yeah . 	
+ES2002d.C.dialog-act.dharshi.185	Okay 	
+ES2002d.C.dialog-act.dharshi.186	so we'll go two . 	
+ES2002d.D.dialog-act.dharshi.80		
+ES2002d.B.dialog-act.dharshi.262	Mm-hmm . 	
+ES2002d.C.dialog-act.dharshi.187	Yeah ? 	
+ES2002d.C.dialog-act.dharshi.188	Okay , 	
+ES2002d.C.dialog-act.dharshi.189	and um design is simple to use , simple in features . 	
+ES2002d.B.dialog-act.dharshi.263	Well yeah , 	
+ES2002d.B.dialog-act.dharshi.264	I mean it's really basic looking 	
+ES2002d.C.dialog-act.dharshi.192	F f yeah f fairly basic , 	
+ES2002d.B.dialog-act.dharshi.265	isn't it ? 	
+ES2002d.B.dialog-act.dharshi.266	I mean I'd give that nearly a one . 	
+ES2002d.C.dialog-act.dharshi.193	you guys think ? 	
+ES2002d.D.dialog-act.dharshi.81	Yeah one . 	
+ES2002d.A.dialog-act.dharshi.179	Yep , that's fine . 	
+ES2002d.C.dialog-act.dharshi.191	Yeah , one ? 	
+ES2002d.C.dialog-act.dharshi.190	Okay . 	
+ES2002d.C.dialog-act.dharshi.194	Um , soft and spongy , have we achieved that ? 	
+ES2002d.C.dialog-act.dharshi.197	We've used mostly plastic in the end so it's going to be quite a bit of a compromise for price . 	
+ES2002d.D.dialog-act.dharshi.82	Yeah I think it's about five . 	
+ES2002d.C.dialog-act.dharshi.198	Five ? 	
+ES2002d.B.dialog-act.dharshi.267	Five ? 	
+ES2002d.D.dialog-act.dharshi.83	Yeah well we have to use uh plastic 	
+ES2002d.B.dialog-act.dharshi.268	That's really low . 	
+ES2002d.D.dialog-act.dharshi.84	so it's probably gonna be 	
+ES2002d.B.dialog-act.dharshi.269	Yeah I suppose mm 'kay . 	
+ES2002d.C.dialog-act.dharshi.199	That's 	
+ES2002d.C.dialog-act.dharshi.200	Um 	
+ES2002d.A.dialog-act.dharshi.180	Yeah , 	
+ES2002d.C.dialog-act.dharshi.201	could we have used an entirely rubber frame to it ? 	
+ES2002d.A.dialog-act.dharshi.181	company logo . 	
+ES2002d.C.dialog-act.dharshi.202	Was that an option ? 	
+ES2002d.D.dialog-act.dharshi.85	I think I'd probably increase the cost . 	
+ES2002d.A.dialog-act.dharshi.182	I think it'll be cost prohibitive , 	
+ES2002d.D.dialog-act.dharshi.86	We've only got like what , ten cents left so 	
+ES2002d.C.dialog-act.dharshi.203	It would cost more than plastic . 	
+ES2002d.A.dialog-act.dharshi.183	yeah . 	
+ES2002d.C.dialog-act.dharshi.206	Okay , 	
+ES2002d.C.dialog-act.dharshi.207	logo , we've got it in there , haven't we ? 	
+ES2002d.A.dialog-act.dharshi.184	Yep . 	
+ES2002d.B.dialog-act.dharshi.270	Yep . 	
+ES2002d.B.dialog-act.dharshi.273	Gonna have that on the side , aren't we , 	
+ES2002d.B.dialog-act.dharshi.275	like there or something ? 	
+ES2002d.C.dialog-act.dharshi.208	Huh . 	
+ES2002d.C.dialog-act.dharshi.209	And um it's within budget , yep . 	
+ES2002d.C.dialog-act.dharshi.210	It is , isn't it ? 	
+ES2002d.D.dialog-act.dharshi.87	Yeah . 	
+ES2002d.C.dialog-act.dharshi.213	Okay , 	
+ES2002d.C.dialog-act.dharshi.214	so we can say then that uh out of a possible 	
+ES2002d.C.dialog-act.dharshi.215	or what would be our goal here ? 	
+ES2002d.B.dialog-act.dharshi.276	Out of forty nine , I guess . 	
+ES2002d.C.dialog-act.dharshi.211	Yeah , 	
+ES2002d.C.dialog-act.dharshi.212	out of forty nine with with zero being the highest . 	
+ES2002d.C.dialog-act.dharshi.216	We are at uh two , seven , eight , ten , fifteen point five . 	
+ES2002d.B.dialog-act.dharshi.277	'S pretty good . 	
+ES2002d.C.dialog-act.dharshi.217	So it's pretty good . 	
+ES2002d.C.dialog-act.dharshi.218	Translates to something like about approximately seventy two percent efficacy of our original goal . 	
+ES2002d.C.dialog-act.dharshi.219	Right ? 	
+ES2002d.B.dialog-act.dharshi.278	Uh yeah . 	
+ES2002d.C.dialog-act.dharshi.220	I think 'cause if you turn that into a hundred it would be about 	
+ES2002d.B.dialog-act.dharshi.279	Twice that , 	
+ES2002d.C.dialog-act.dharshi.221	about thirty one , 	
+ES2002d.B.dialog-act.dharshi.280	about thirty one . 	
+ES2002d.C.dialog-act.dharshi.224	and then invert that , it's 	
+ES2002d.B.dialog-act.dharshi.283	So yeah ab well yeah about sixty nine , seventy percent yeah . 	
+ES2002d.C.dialog-act.dharshi.226	Oh right , about seventy , yeah seventy percent . 	
+ES2002d.B.dialog-act.dharshi.282	It's pretty good . 	
+ES2002d.C.dialog-act.dharshi.223	Okay , good . 	
+ES2002d.C.dialog-act.dharshi.222	That was just a little formality for us to go through . 	
+ES2002d.B.dialog-act.dharshi.284	Okay . 	
+ES2002d.C.dialog-act.dharshi.228	Yep , oh 	
+ES2002d.C.dialog-act.dharshi.229	hundred pound pen . 	
+ES2002d.D.dialog-act.dharshi.88		
+ES2002d.B.dialog-act.dharshi.281		
+ES2002d.C.dialog-act.dharshi.230	Sorry 	
+ES2002d.C.dialog-act.dharshi.232	alright . 	
+ES2002d.B.dialog-act.dharshi.286	Nobody saw it , honestly . 	
+ES2002d.C.dialog-act.dharshi.233	No . 	
+ES2002d.A.dialog-act.dharshi.185	The cameras did . 	
+ES2002d.C.dialog-act.dharshi.231	Hmm . 	
+ES2002d.B.dialog-act.dharshi.285	Is that you all have all finished , or 	
+ES2002d.C.dialog-act.dharshi.234	Yeah that's that's me . 	
+ES2002d.C.dialog-act.dharshi.235	I did have one other um one other frame I thought , 	
+ES2002d.C.dialog-act.dharshi.236	I mean I I d not knowing how we would deal with this information , 	
+ES2002d.C.dialog-act.dharshi.237	I thought okay in theory this kind of a process would be about refining our design , revisiting our original goals . 	
+ES2002d.B.dialog-act.dharshi.287	Uh-huh . 	
+ES2002d.C.dialog-act.dharshi.240	It's not something I need to p push through , 	
+ES2002d.C.dialog-act.dharshi.241	but I thought should we thinking more about the dimensions , um sort of like more of a three dimensional shapes as well as opposed to just that flat um 	
+ES2002d.B.dialog-act.dharshi.288	Mm-hmm . 	
+ES2002d.C.dialog-act.dharshi.239	Could our design involve a series of colours so that it's more of like a line where we have like sort of the , I don't know like the harvest line or the vibrant , 	
+ES2002d.A.dialog-act.dharshi.186	Yep . 	
+ES2002d.C.dialog-act.dharshi.242	I dunno the 	
+ES2002d.C.dialog-act.dharshi.243	Whatever 	
+ES2002d.C.dialog-act.dharshi.244	just some theme and then we have different tones , lime green , lemon . 	
+ES2002d.B.dialog-act.dharshi.289	Okay . 	
+ES2002d.C.dialog-act.dharshi.245	It's just discussion . 	
+ES2002d.C.dialog-act.dharshi.246	I mean obviously we can just abandon this , 	
+ES2002d.C.dialog-act.dharshi.247	it's fine . 	
+ES2002d.C.dialog-act.dharshi.248	I'm just thinking about what we originally set out to do . 	
+ES2002d.C.dialog-act.dharshi.249	Um , yep 	
+ES2002d.B.dialog-act.dharshi.290	Right . 	
+ES2002d.C.dialog-act.dharshi.250	so there . That's all . 	
+ES2002d.B.dialog-act.dharshi.291	Okay , great 	
+ES2002d.B.dialog-act.dharshi.292	um are you submitting the the um evaluation criteria or am I ? 	
+ES2002d.B.dialog-act.dharshi.293	I don't know what your instructions have been . 	
+ES2002d.C.dialog-act.dharshi.251	Um , I think to record it and uh I haven't been asked to submit it yet . 	
+ES2002d.C.dialog-act.dharshi.252	Yeah . 	
+ES2002d.B.dialog-act.dharshi.294	Okay , 	
+ES2002d.B.dialog-act.dharshi.296	uh just wondering if I need to include it in the minutes , 	
+ES2002d.D.dialog-act.dharshi.89		
+ES2002d.B.dialog-act.dharshi.297	because if you're submitting it anyway then 	
+ES2002d.C.dialog-act.dharshi.253	I will , yeah . 	
+ES2002d.B.dialog-act.dharshi.298	Okay great . 	
+ES2002d.A.dialog-act.dharshi.187	It keeps getting too big . 	
+ES2002d.B.dialog-act.dharshi.300	Cool 	
+ES2002d.B.dialog-act.dharshi.299	. Um right , 	
+ES2002d.B.dialog-act.dharshi.301	uh well next up then , because we've done finance , is the project evaluation . 	
+ES2002d.A.dialog-act.dharshi.188	'Kay I'm I'm listening 	
+ES2002d.A.dialog-act.dharshi.189	I'm just trying to incorporate the logo into the the thing , so I'm playing with the Play-Doh as well . 	
+ES2002d.D.dialog-act.dharshi.90		
+ES2002d.B.dialog-act.dharshi.302	Oh right , okay . 	
+ES2002d.D.dialog-act.dharshi.91		
+ES2002d.A.dialog-act.dharshi.190	Just in case you're wondering , why is he still playing with the Play-Doh ? 	
+ES2002d.C.dialog-act.dharshi.254	Huh . 	
+ES2002d.A.dialog-act.dharshi.192	Just about right 	
+ES2002d.D.dialog-act.dharshi.92		
+ES2002d.A.dialog-act.dharshi.193	L_E_G_O_ Lego . 	
+ES2002d.D.dialog-act.dharshi.93	My leg . 	
+ES2002d.B.dialog-act.dharshi.303	Right , okay . 	
+ES2002d.B.dialog-act.dharshi.305	Um well do you wanna um just individually say what you think about about these four points and 	
+ES2002d.B.dialog-act.dharshi.306	or not those four points , my four points , 	
+ES2002d.B.dialog-act.dharshi.307	sorry , 	
+ES2002d.B.dialog-act.dharshi.308	forgotten that . 	
+ES2002d.B.dialog-act.dharshi.309	You got a different uh 	
+ES2002d.C.dialog-act.dharshi.255		
+ES2002d.A.dialog-act.dharshi.191		
+ES2002d.B.dialog-act.dharshi.304		
+ES2002d.C.dialog-act.dharshi.256	Yep . 	
+ES2002d.C.dialog-act.dharshi.257	I like those printer cables that just have the two little butterfly clips like that . 	
+ES2002d.B.dialog-act.dharshi.310	Oh yeah , they're good aren't they , yeah . 	
+ES2002d.C.dialog-act.dharshi.258	It's really quick . 	
+ES2002d.B.dialog-act.dharshi.311	Right okay , 	
+ES2002d.C.dialog-act.dharshi.259	To use . 	
+ES2002d.B.dialog-act.dharshi.313	um yeah here we are . 	
+ES2002d.B.dialog-act.dharshi.314	Uh as a note we'll do this 	
+ES2002d.B.dialog-act.dharshi.315	alphabetically . 	
+ES2002d.B.dialog-act.dharshi.312	Um do you wanna start Andrew ? 	
+ES2002d.C.dialog-act.dharshi.260	Sure , 	
+ES2002d.C.dialog-act.dharshi.261	um so what is it you're asking of me now ? 	
+ES2002d.B.dialog-act.dharshi.316	I don't know , 	
+ES2002d.B.dialog-act.dharshi.317	just um your opinion on those four those four points really and how we used them . 	
+ES2002d.C.dialog-act.dharshi.262	Or sort of our work on setting this up . 	
+ES2002d.B.dialog-act.dharshi.318	Yeah . 	
+ES2002d.C.dialog-act.dharshi.263	Yeah . 	
+ES2002d.C.dialog-act.dharshi.264	Well , is it 	
+ES2002d.C.dialog-act.dharshi.265	uh okay I'll just go through your system then . 	
+ES2002d.C.dialog-act.dharshi.266	The the room uh is fairly institutional , 	
+ES2002d.C.dialog-act.dharshi.267	but um the main thing is , I think um our use of this space is more just to report on things as opposed to be creative and constructive 	
+ES2002d.C.dialog-act.dharshi.268	and it would probably help to um have l sort of a cumulative effect of we have ideas and we come back and then the ideas are still in discussion , you know , 	
+ES2002d.C.dialog-act.dharshi.269	as in other words this this room is sort of a centre point of creativity , 	
+ES2002d.B.dialog-act.dharshi.319	Uh-huh . 	
+ES2002d.C.dialog-act.dharshi.270	whereas in reality as we've gone through this , it's not really the centre point of creativity , it's more just a 	
+ES2002d.B.dialog-act.dharshi.320	Well d do you feel though that that you were able to have quite a lot of creative input into the thing ? 	
+ES2002d.C.dialog-act.dharshi.271	d debating 	
+ES2002d.C.dialog-act.dharshi.272	Yeah , yeah 	
+ES2002d.C.dialog-act.dharshi.273	but that's just 	
+ES2002d.C.dialog-act.dharshi.274	the thing is the quest in terms of the the first point there , the room , 	
+ES2002d.C.dialog-act.dharshi.275	it feels as though the creativity goes on when we leave , and then we come here and then we kind of put out our ideas and then , you know . 	
+ES2002d.B.dialog-act.dharshi.321	But I don't I don't think it means the room as in this room . 	
+ES2002d.B.dialog-act.dharshi.322	I think it means like you know 	
+ES2002d.C.dialog-act.dharshi.276	Oh , 	
+ES2002d.C.dialog-act.dharshi.277	oh right right , oh right okay room for creativ 	
+ES2002d.B.dialog-act.dharshi.323	Yeah . 	
+ES2002d.C.dialog-act.dharshi.278	Oh right I just looked up and saw okay whiteboard , digital pens , the room . 	
+ES2002d.B.dialog-act.dharshi.324	Room . 	
+ES2002d.B.dialog-act.dharshi.325	Oh yeah . 	
+ES2002d.C.dialog-act.dharshi.279	No , of course , yeah . 	
+ES2002d.B.dialog-act.dharshi.328	Well I dunno 	
+ES2002d.B.dialog-act.dharshi.329	do you th 	
+ES2002d.C.dialog-act.dharshi.280	Sorry . 	
+ES2002d.B.dialog-act.dharshi.327	I think it means um I think it means did you feel you were able to give creative input so 	
+ES2002d.C.dialog-act.dharshi.281	Huh . 	
+ES2002d.C.dialog-act.dharshi.282	Yeah . 	
+ES2002d.C.dialog-act.dharshi.283	Yeah 	
+ES2002d.C.dialog-act.dharshi.284	I th okay on th um yeah dif 	
+ES2002d.C.dialog-act.dharshi.285	answering the question uh in those terms I'd say that actually there's sort of a tease of creativity 	
+ES2002d.C.dialog-act.dharshi.286	because we're asked to work through this , but actually the guidelines are fairly contrived in terms of um okay fashion trends , say fruit and vegetable colour scheme , 	
+ES2002d.B.dialog-act.dharshi.330	Mm-hmm . 	
+ES2002d.C.dialog-act.dharshi.287	but then i then we're told okay use the co company company colours . 	
+ES2002d.B.dialog-act.dharshi.331	Mm . 	
+ES2002d.C.dialog-act.dharshi.288	So what do we do . 	
+ES2002d.C.dialog-act.dharshi.289	We're told okay um think in terms of style and look and feel and technology , but build something for twelve and a half pounds , 	
+ES2002d.B.dialog-act.dharshi.333	Okay . 	
+ES2002d.C.dialog-act.dharshi.290	so actually the creativity was more more of like a um a f sort of a f formality then an actual 	
+ES2002d.A.dialog-act.dharshi.194	You feel like you're caged within whatever y 	
+ES2002d.B.dialog-act.dharshi.334	Okay . 	
+ES2002d.C.dialog-act.dharshi.292	Yeah within the constraints 	
+ES2002d.A.dialog-act.dharshi.195	It's like a balloon in a cage , it can only go so big and not hit the side . 	
+ES2002d.C.dialog-act.dharshi.293	the 	
+ES2002d.B.dialog-act.dharshi.332		
+ES2002d.C.dialog-act.dharshi.291	Yeah . 	
+ES2002d.C.dialog-act.dharshi.294	Yeah , yeah . 	
+ES2002d.A.dialog-act.dharshi.196	The constraints do come in very fast . 	
+ES2002d.B.dialog-act.dharshi.335	Okay uh do you know what , 	
+ES2002d.C.dialog-act.dharshi.295	So 	
+ES2002d.B.dialog-act.dharshi.336	actually let's take each point and everybody discuss it , I think . 	
+ES2002d.C.dialog-act.dharshi.296	Yeah . 	
+ES2002d.B.dialog-act.dharshi.337	Yeah . 	
+ES2002d.B.dialog-act.dharshi.338	So still on the topic of room for creativity uh next up is Craig . 	
+ES2002d.D.dialog-act.dharshi.94	Um I agree with his point 	
+ES2002d.D.dialog-act.dharshi.95	it's um it is quite a lot of fun t to go and then you have sort of hit the end then go right , gotta cut everything out 'cause we don't have enough money . 	
+ES2002d.B.dialog-act.dharshi.339	Yeah . 	
+ES2002d.A.dialog-act.dharshi.197	Yeah . 	
+ES2002d.C.dialog-act.dharshi.297	Yep . 	
+ES2002d.A.dialog-act.dharshi.198	I think another point is that the meetings um are more brainstorming sessions than meetings , 	
+ES2002d.C.dialog-act.dharshi.298	Yeah . 	
+ES2002d.A.dialog-act.dharshi.199	so time is also a very s um strong factor , and structure . 	
+ES2002d.B.dialog-act.dharshi.340	Yeah . 	
+ES2002d.C.dialog-act.dharshi.299	Yeah . 	
+ES2002d.A.dialog-act.dharshi.200	Because for a brainstorming meeting you want a structure that allows you to allows ideas to get tossed , um to be evaluated , and to be reviewed , and to get feedback and come back . 	
+ES2002d.C.dialog-act.dharshi.300	Mm-hmm , 	
+ES2002d.B.dialog-act.dharshi.341	Mm . 	
+ES2002d.C.dialog-act.dharshi.301	mm-hmm . 	
+ES2002d.C.dialog-act.dharshi.302	Yeah , yeah . 	
+ES2002d.A.dialog-act.dharshi.201	And I guess that point about the room not being r very friendly to that , I think that's a very big thing , 	
+ES2002d.C.dialog-act.dharshi.303	Yeah . 	
+ES2002d.A.dialog-act.dharshi.202	and I think the fact that we're wearing these things restricts 	
+ES2002d.C.dialog-act.dharshi.304	Yeah , sure . 	
+ES2002d.A.dialog-act.dharshi.203	I feel it 'cause I wear m my glasses , right , and that but that irritates me right 	
+ES2002d.B.dialog-act.dharshi.342	Yeah . 	
+ES2002d.C.dialog-act.dharshi.305	Yeah . 	
+ES2002d.A.dialog-act.dharshi.204	it it it does actually you know affect how , w whether you feel comfortable to communicate . 	
+ES2002d.C.dialog-act.dharshi.306	New creativity . 	
+ES2002d.A.dialog-act.dharshi.205	I feel like I'm hiding behind the equipment , rather than the equipment is helping me , and you know . 	
+ES2002d.C.dialog-act.dharshi.307	Yep . 	
+ES2002d.C.dialog-act.dharshi.308	Right . 	
+ES2002d.B.dialog-act.dharshi.343	So you think a more relaxed atmosphere would be more kind of conducive to creative thought or 	
+ES2002d.A.dialog-act.dharshi.206	Not not so much an atmosphere , 	
+ES2002d.A.dialog-act.dharshi.207	the atmosphere is very relaxed , 	
+ES2002d.A.dialog-act.dharshi.210	but the the gear 	
+ES2002d.B.dialog-act.dharshi.348	Yeah , 	
+ES2002d.B.dialog-act.dharshi.349	but actual environment ? 	
+ES2002d.A.dialog-act.dharshi.211	yeah 	
+ES2002d.A.dialog-act.dharshi.212	you know that creates boundaries to that um 	
+ES2002d.C.dialog-act.dharshi.309	Mm . 	
+ES2002d.C.dialog-act.dharshi.310	Mm-hmm . 	
+ES2002d.A.dialog-act.dharshi.213	and and the time the time given also restricts 	
+ES2002d.B.dialog-act.dharshi.350	Okay . 	
+ES2002d.C.dialog-act.dharshi.311	Mm-hmm . 	
+ES2002d.B.dialog-act.dharshi.351	Okay . 	
+ES2002d.B.dialog-act.dharshi.344	Very good . 	
+ES2002d.B.dialog-act.dharshi.345	Um what about leadership ? 	
+ES2002d.A.dialog-act.dharshi.208		
+ES2002d.B.dialog-act.dharshi.346	I don't know if that means like , if I did a good job or something . 	
+ES2002d.B.dialog-act.dharshi.347	I don't really know . 	
+ES2002d.A.dialog-act.dharshi.209		
+ES2002d.C.dialog-act.dharshi.312	Yeah , well well I mean 	
+ES2002d.C.dialog-act.dharshi.313	my sense on that is sort of what kind of guidance and direction , encouragement 	
+ES2002d.B.dialog-act.dharshi.352	From like your personal coach person and stuff like that , do you think maybe ? 	
+ES2002d.C.dialog-act.dharshi.314	Yeah from 	
+ES2002d.C.dialog-act.dharshi.315	and you as well I think , just sort of acting as team leader . 	
+ES2002d.B.dialog-act.dharshi.353	Okay . 	
+ES2002d.C.dialog-act.dharshi.316	Um yeah I think I think it's 	
+ES2002d.A.dialog-act.dharshi.215	Excuse me . 	
+ES2002d.C.dialog-act.dharshi.317	I think it's good . 	
+ES2002d.C.dialog-act.dharshi.318	I mean my personal views on on leadership is that effective effective leadership sort of um gives people a certain room for freedom and delegation , 	
+ES2002d.C.dialog-act.dharshi.319	but then to come back with something that they take great ownership and 	
+ES2002d.B.dialog-act.dharshi.354	Mm-hmm . 	
+ES2002d.C.dialog-act.dharshi.320	you know , innovative thought with . 	
+ES2002d.A.dialog-act.dharshi.214		
+ES2002d.C.dialog-act.dharshi.321	In in reality I think here the the different elements of leadership such as the the original b briefing and then the personal coach and the and then you know having having you with your the meeting agenda is actually quite a quite a quite a con confining framework to work within . 	
+ES2002d.C.dialog-act.dharshi.322	And so it is leadership almost to the point of sort of disempowering the the the team member , so 	
+ES2002d.B.dialog-act.dharshi.355	Uh-huh , 	
+ES2002d.B.dialog-act.dharshi.356	okay . 	
+ES2002d.C.dialog-act.dharshi.323	But it's not bad leadership , it's just sort of s fairly strong , you know . 	
+ES2002d.C.dialog-act.dharshi.324	It turns it turns the individual into more of like a um sort of a predetermined mechanism , as opposed to a sort of a free 	
+ES2002d.B.dialog-act.dharshi.357	So you think maybe a little too controlling or 	
+ES2002d.A.dialog-act.dharshi.216		
+ES2002d.C.dialog-act.dharshi.325	Yeah , oh yeah , without without a doubt . 	
+ES2002d.A.dialog-act.dharshi.217	I think controlling is not the right word , 	
+ES2002d.A.dialog-act.dharshi.218	I think the interactions are very structured . 	
+ES2002d.C.dialog-act.dharshi.326	Yeah maybe not co confining . 	
+ES2002d.A.dialog-act.dharshi.219	I think structure is probably what you're saying that , each individual is structured to one particular task , and one parti rather than controlling . 	
+ES2002d.C.dialog-act.dharshi.327	Yeah . 	
+ES2002d.C.dialog-act.dharshi.328	Yeah , yeah . 	
+ES2002d.C.dialog-act.dharshi.329	Mm-hmm , mm-hmm . 	
+ES2002d.B.dialog-act.dharshi.358	Okay . 	
+ES2002d.A.dialog-act.dharshi.220	I don't think there's a sense of control 'cause all the decisions have been made in terms of a , like a consensus right , we go around and we think about it , 	
+ES2002d.C.dialog-act.dharshi.330	Mm-hmm . 	
+ES2002d.C.dialog-act.dharshi.331	Mm-hmm . 	
+ES2002d.C.dialog-act.dharshi.332	Mm-hmm , mm-hmm . 	
+ES2002d.A.dialog-act.dharshi.221	but that you know process actually says you have to do it in a certain way . 	
+ES2002d.B.dialog-act.dharshi.359	Uh-huh . 	
+ES2002d.C.dialog-act.dharshi.333	Mm-hmm , mm-hmm . 	
+ES2002d.C.dialog-act.dharshi.334	Mm-hmm . 	
+ES2002d.B.dialog-act.dharshi.360	Okay . 	
+ES2002d.A.dialog-act.dharshi.222	It doesn't tell you , you know , some ways that you might wanna be a bit more creative in terms of the process you know , not the 	
+ES2002d.C.dialog-act.dharshi.335	Mm . 	
+ES2002d.C.dialog-act.dharshi.336	Mm-hmm , mm-hmm . 	
+ES2002d.C.dialog-act.dharshi.337	Yeah . 	
+ES2002d.B.dialog-act.dharshi.361	Okay , 	
+ES2002d.B.dialog-act.dharshi.362	uh what about teamwork ? 	
+ES2002d.C.dialog-act.dharshi.338	Um did , you wanna comment Craig ? 	
+ES2002d.D.dialog-act.dharshi.96	Uh , reckon that was a bit hard because we could only discuss things in the meeting . 	
+ES2002d.C.dialog-act.dharshi.339	Yeah . 	
+ES2002d.B.dialog-act.dharshi.363	Yeah . 	
+ES2002d.D.dialog-act.dharshi.97	If we could just go up to somebody outside the meeting and have a quick talk with them , that would've been a lot easier . 	
+ES2002d.C.dialog-act.dharshi.340	Yeah . 	
+ES2002d.B.dialog-act.dharshi.364	Okay . 	
+ES2002d.C.dialog-act.dharshi.341	Fully agree . 	
+ES2002d.A.dialog-act.dharshi.223	I think you tried to use the common share folder to to to to communicate , 	
+ES2002d.A.dialog-act.dharshi.224	but um it just comes back to us so slow in the email 	
+ES2002d.C.dialog-act.dharshi.343	Yeah . 	
+ES2002d.B.dialog-act.dharshi.365	Mm . 	
+ES2002d.A.dialog-act.dharshi.225	um it it doesn't have a , you know , a messenger will go . 	
+ES2002d.C.dialog-act.dharshi.342		
+ES2002d.B.dialog-act.dharshi.366	Did uh did you guys get the email I sent you ? 	
+ES2002d.C.dialog-act.dharshi.344	Yeah . 	
+ES2002d.D.dialog-act.dharshi.98	Not just yet . 	
+ES2002d.A.dialog-act.dharshi.226	Yeah . 	
+ES2002d.B.dialog-act.dharshi.367	Oh that's alright . 	
+ES2002d.C.dialog-act.dharshi.345	Yeah , got the email . 	
+ES2002d.B.dialog-act.dharshi.368	I was wondering if that got there okay . 	
+ES2002d.A.dialog-act.dharshi.227	Okay . 	
+ES2002d.B.dialog-act.dharshi.369	Okay , um so um to s to 	
+ES2002d.B.dialog-act.dharshi.370	to summarize the teamwork issue , saying that if we could communicate outside the meeting , you know just like quick questions , quick thoughts , whatever , it probably would be bit easier . 	
+ES2002d.C.dialog-act.dharshi.346	Yeah . 	
+ES2002d.C.dialog-act.dharshi.347	Yeah , 	
+ES2002d.A.dialog-act.dharshi.228	I think the tools that they were given , the tool set that were given to us are fancy but they don't support collaboration , I think that's the word . 	
+ES2002d.C.dialog-act.dharshi.348	in it 	
+ES2002d.C.dialog-act.dharshi.349	Mm-hmm , 	
+ES2002d.C.dialog-act.dharshi.350	mm-hmm , 	
+ES2002d.A.dialog-act.dharshi.230	They don't support the team working together , you know , 	
+ES2002d.C.dialog-act.dharshi.351	mm-hmm , 	
+ES2002d.B.dialog-act.dharshi.371	Oh right , okay . 	
+ES2002d.C.dialog-act.dharshi.352	exactly . 	
+ES2002d.C.dialog-act.dharshi.353	Yeah , 	
+ES2002d.C.dialog-act.dharshi.354	I mean if you 	
+ES2002d.A.dialog-act.dharshi.231	they're still very individual tools . 	
+ES2002d.C.dialog-act.dharshi.355	Yeah , 	
+ES2002d.C.dialog-act.dharshi.356	I mean sort of taking upon that idea , w the way I see this i is that it's uh the the s the structure in which we've we've approached this whole task is quite contrary to the p principle of teamwork 	
+ES2002d.C.dialog-act.dharshi.357	because the the tasks were d d sort of um divided , and then the work went on in isolation 	
+ES2002d.B.dialog-act.dharshi.372	Mm . 	
+ES2002d.C.dialog-act.dharshi.358	I I don't know what you guys did while you were together , maybe that was a bit different , 	
+ES2002d.C.dialog-act.dharshi.359	but um 	
+ES2002d.A.dialog-act.dharshi.232	We had Play-Doh fun . 	
+ES2002d.C.dialog-act.dharshi.360	yeah , 	
+ES2002d.C.dialog-act.dharshi.361	but um but actually if you if you imagine not entire the completely same task given to us but us said okay , first thing we have to do is come up with um let's say um a design concept , 	
+ES2002d.C.dialog-act.dharshi.362	and we sit here together and do it , 	
+ES2002d.B.dialog-act.dharshi.373	Yeah . 	
+ES2002d.C.dialog-act.dharshi.363	well that's what teamwork is . 	
+ES2002d.C.dialog-act.dharshi.364	To s to say okay go off and don't talk to each other , it's actually p sort of predisposes you to quite the contrary of teamwork . 	
+ES2002d.B.dialog-act.dharshi.374	Yeah . 	
+ES2002d.B.dialog-act.dharshi.375	Okay . 	
+ES2002d.C.dialog-act.dharshi.365	Um not that we haven't done I think the best we could have done . 	
+ES2002d.B.dialog-act.dharshi.376	Okay . 	
+ES2002d.C.dialog-act.dharshi.366	I'm not dissatisfied with it . 	
+ES2002d.B.dialog-act.dharshi.377	Right , 	
+ES2002d.B.dialog-act.dharshi.378	uh anything else to say on teamwork at all ? 	
+ES2002d.A.dialog-act.dharshi.233	No , not really . 	
+ES2002d.B.dialog-act.dharshi.379	Okay , 	
+ES2002d.B.dialog-act.dharshi.380	um what about the you know how we used the whiteboard , the digital pens , the projector , stuff like that ? 	
+ES2002d.B.dialog-act.dharshi.381	Um did anybody think anything was like really useful , 	
+ES2002d.C.dialog-act.dharshi.367	Mm-hmm . 	
+ES2002d.B.dialog-act.dharshi.382	anything was pretty un f 	
+ES2002d.B.dialog-act.dharshi.384		
+ES2002d.B.dialog-act.dharshi.383	unsupportive ? 	
+ES2002d.C.dialog-act.dharshi.368	I think the whiteboard , for me , is the kind of thing I would use all the time , 	
+ES2002d.C.dialog-act.dharshi.369	but it's um not quite as useful as to us as it could have been , 	
+ES2002d.C.dialog-act.dharshi.370	maybe just in the way that we we use it , in the sense that once we have an idea out there or while work was going on in between meetings , that could have been up on a board uh you know as opposed to in like in text . 	
+ES2002d.B.dialog-act.dharshi.385	Mm . 	
+ES2002d.C.dialog-act.dharshi.371	Um , and then we could then keep our ideas sort of building on that . 	
+ES2002d.C.dialog-act.dharshi.372	I know that people who design cars and you know in aviation they quite often just have a simple like fibreglass prototype 	
+ES2002d.C.dialog-act.dharshi.374	and it's completely you know um abs abstract from the final product , but they use it as a kind of a context to sort of walk around and puzzle and and point and discuss 	
+ES2002d.B.dialog-act.dharshi.386	Mm-hmm . 	
+ES2002d.B.dialog-act.dharshi.387	Yeah . 	
+ES2002d.B.dialog-act.dharshi.388	And point at ? 	
+ES2002d.B.dialog-act.dharshi.389	Yeah . 	
+ES2002d.C.dialog-act.dharshi.375	and and 	
+ES2002d.C.dialog-act.dharshi.376	and in a way everybody's as we discuss things in the in theoretically and out of our notebooks , 	
+ES2002d.C.dialog-act.dharshi.380	we're just 	
+ES2002d.C.dialog-act.dharshi.381	we're actually just each of us discussing something that's in each of our own minds . 	
+ES2002d.C.dialog-act.dharshi.378	It wasn't until we had this here , you know , 	
+ES2002d.B.dialog-act.dharshi.391	Yeah . 	
+ES2002d.C.dialog-act.dharshi.379	like at one point I peeked across and looked at Craig's paper and I'm like , now I know what he's thinking 'cause I saw his book . 	
+ES2002d.B.dialog-act.dharshi.390	Ah . 	
+ES2002d.C.dialog-act.dharshi.382	But the b the b whiteboard could've actually been this kind of continuing um 	
+ES2002d.B.dialog-act.dharshi.392	So do you think producing a prototype earlier in the process woulda been a good idea ? 	
+ES2002d.C.dialog-act.dharshi.383	Think could be , yeah . 	
+ES2002d.A.dialog-act.dharshi.234	I think um the the focus of it a lot was the PowerPoint as opposed to the to the whiteboard , 	
+ES2002d.B.dialog-act.dharshi.393	Yeah . 	
+ES2002d.C.dialog-act.dharshi.384	Yeah , yeah . 	
+ES2002d.A.dialog-act.dharshi.235	and I think that m um is also does you know hinder us and things I think . 	
+ES2002d.C.dialog-act.dharshi.385	Yeah . 	
+ES2002d.C.dialog-act.dharshi.386	Yeah , yeah . 	
+ES2002d.C.dialog-act.dharshi.387	Mm-hmm . 	
+ES2002d.A.dialog-act.dharshi.236	It will be cooler to have the whiteboard rather than the the PowerPoint , 	
+ES2002d.C.dialog-act.dharshi.388	Mm-hmm . 	
+ES2002d.A.dialog-act.dharshi.237	or maybe the whiteboard and the PowerPoint in the same place , 	
+ES2002d.C.dialog-act.dharshi.389	Yeah . 	
+ES2002d.C.dialog-act.dharshi.390	Yeah , yeah . 	
+ES2002d.B.dialog-act.dharshi.394	Okay . 	
+ES2002d.A.dialog-act.dharshi.238	you know in the centre of the 	
+ES2002d.C.dialog-act.dharshi.391	Yeah , 	
+ES2002d.C.dialog-act.dharshi.392	because the PowerPoint was provided to us while we had time to prepare , 	
+ES2002d.C.dialog-act.dharshi.393	whereas I can imagine if I'd been encouraged to use Paintbrush , for example , or whatever , I would've actually used it , 	
+ES2002d.B.dialog-act.dharshi.395	Alright . 	
+ES2002d.C.dialog-act.dharshi.394	um 'ca you know , 	
+ES2002d.C.dialog-act.dharshi.395	just 'cause that's sorta how we what we were set up to to use while we had our time . 	
+ES2002d.B.dialog-act.dharshi.396	Okay uh 	
+ES2002d.A.dialog-act.dharshi.239	I think that there were too many PowerPoints in the meetings . 	
+ES2002d.C.dialog-act.dharshi.396	Mm-hmm . 	
+ES2002d.D.dialog-act.dharshi.99	Yeah . 	
+ES2002d.A.dialog-act.dharshi.240	'Cause the plug-in and the plugging spent we spent a lot of time doing that . 	
+ES2002d.B.dialog-act.dharshi.397	Yeah . 	
+ES2002d.C.dialog-act.dharshi.397	Yeah . 	
+ES2002d.A.dialog-act.dharshi.241	And a lot of the information on the PowerPoints , I don't think , you know , we needed to actually it could have , we could have gone through it verbally , 	
+ES2002d.B.dialog-act.dharshi.398	Yeah . 	
+ES2002d.C.dialog-act.dharshi.398	No , 	
+ES2002d.C.dialog-act.dharshi.399	not quite . 	
+ES2002d.A.dialog-act.dharshi.243	especially my slides , 	
+ES2002d.C.dialog-act.dharshi.400	Yeah . 	
+ES2002d.A.dialog-act.dharshi.244	I felt that they just you know 	
+ES2002d.C.dialog-act.dharshi.401	Yeah . 	
+ES2002d.B.dialog-act.dharshi.400	Okay . 	
+ES2002d.A.dialog-act.dharshi.245	as opposed to having to present them . 	
+ES2002d.C.dialog-act.dharshi.402	Yeah . 	
+ES2002d.B.dialog-act.dharshi.399	What about the digital pens , did you find them easy enough to use ? 	
+ES2002d.A.dialog-act.dharshi.246	Yep clunky . 	
+ES2002d.C.dialog-act.dharshi.403	Sure , yeah . 	
+ES2002d.D.dialog-act.dharshi.100	Oh they're a bit clunky . 	
+ES2002d.A.dialog-act.dharshi.247	Agreed . 	
+ES2002d.B.dialog-act.dharshi.402	Yeah . 	
+ES2002d.C.dialog-act.dharshi.405	Yeah . 	
+ES2002d.C.dialog-act.dharshi.406	Yep . 	
+ES2002d.B.dialog-act.dharshi.403	Clunky , okay . 	
+ES2002d.C.dialog-act.dharshi.404	Mm . 	
+ES2002d.B.dialog-act.dharshi.404	Um 	
+ES2002d.A.dialog-act.dharshi.248	Having to tick it before you go off was a bit hindering as well , 	
+ES2002d.B.dialog-act.dharshi.401		
+ES2002d.C.dialog-act.dharshi.407	Mm . 	
+ES2002d.A.dialog-act.dharshi.249	'cause you're half way through a thought , and then you run out of paper and then you have to jump . 	
+ES2002d.B.dialog-act.dharshi.405	Yeah . 	
+ES2002d.B.dialog-act.dharshi.406	I know , 	
+ES2002d.C.dialog-act.dharshi.408	Yeah . 	
+ES2002d.B.dialog-act.dharshi.407	I think at the very start of today I like wrote a whole load of stuff , didn't click note on one , 	
+ES2002d.B.dialog-act.dharshi.408	then went back and wrote one tiny wee thing on the another page , but then did click note , 	
+ES2002d.C.dialog-act.dharshi.409	Hmm . 	
+ES2002d.B.dialog-act.dharshi.409	and so I'm quite worried that I've just written over the top of it or something , 	
+ES2002d.C.dialog-act.dharshi.410	Hmm . 	
+ES2002d.C.dialog-act.dharshi.411	Mm-hmm , mm-hmm . 	
+ES2002d.B.dialog-act.dharshi.411	but they'll have my paper anyway um 	
+ES2002d.C.dialog-act.dharshi.412	Hmm . 	
+ES2002d.B.dialog-act.dharshi.412	and haven't done that since . 	
+ES2002d.A.dialog-act.dharshi.250	But I think the pen is v is very intuitive , 	
+ES2002d.A.dialog-act.dharshi.251	everybody knows how to use it , 	
+ES2002d.A.dialog-act.dharshi.252	we don't have to worry . 	
+ES2002d.C.dialog-act.dharshi.413	Mm-hmm , 	
+ES2002d.B.dialog-act.dharshi.413	Yeah , 	
+ES2002d.C.dialog-act.dharshi.414	mm-hmm , 	
+ES2002d.A.dialog-act.dharshi.253	So I think the pen's good . 	
+ES2002d.B.dialog-act.dharshi.414	yeah . 	
+ES2002d.C.dialog-act.dharshi.415	mm-hmm . 	
+ES2002d.C.dialog-act.dharshi.416		
+ES2002d.A.dialog-act.dharshi.254	It's about the best thing . 	
+ES2002d.D.dialog-act.dharshi.101		
+ES2002d.C.dialog-act.dharshi.417	And o on the topic of the technology , it just occurred to me that we actually didn't need to move our computers because each computer has all of the files . 	
+ES2002d.B.dialog-act.dharshi.415	Yeah . 	
+ES2002d.C.dialog-act.dharshi.418	It just occurred to me that they all 	
+ES2002d.A.dialog-act.dharshi.255	Yeah 	
+ES2002d.A.dialog-act.dharshi.256	we only needed one computer and 	
+ES2002d.C.dialog-act.dharshi.419	We only actually needed one computer . 	
+ES2002d.B.dialog-act.dharshi.416	Yeah , that's true . 	
+ES2002d.C.dialog-act.dharshi.420	If there had been a fifth , that coulda just been sitting there ready to go the whole time . 	
+ES2002d.D.dialog-act.dharshi.102	Good point . 	
+ES2002d.A.dialog-act.dharshi.257	And the computer may not um be conducive to a meeting because um you tend to look at your computer and wanna have the urge to check something , you know , 	
+ES2002d.C.dialog-act.dharshi.421	Yeah . 	
+ES2002d.C.dialog-act.dharshi.422	Yeah . 	
+ES2002d.C.dialog-act.dharshi.423	Yeah . 	
+ES2002d.B.dialog-act.dharshi.417	Yeah . 	
+ES2002d.C.dialog-act.dharshi.424		
+ES2002d.A.dialog-act.dharshi.259	it's useful but 	
+ES2002d.B.dialog-act.dharshi.418	Do you think the computers just provide distraction in a meeting ? 	
+ES2002d.A.dialog-act.dharshi.260	I think too many computers are just distracting . 	
+ES2002d.D.dialog-act.dharshi.103	Yeah . 	
+ES2002d.B.dialog-act.dharshi.419	Okay . 	
+ES2002d.A.dialog-act.dharshi.261	Um 	
+ES2002d.B.dialog-act.dharshi.420	I know I I like to have things written down in front of me actually , 	
+ES2002d.C.dialog-act.dharshi.425	Mm-hmm . 	
+ES2002d.B.dialog-act.dharshi.421	like a lot of the stuff that was emailed to me I ended up you know like writing down there or something so I could look at it really quickly and not have the distraction of all of that , 	
+ES2002d.C.dialog-act.dharshi.426	Yep . 	
+ES2002d.C.dialog-act.dharshi.427	Mm-hmm . 	
+ES2002d.A.dialog-act.dharshi.262	Yep . 	
+ES2002d.C.dialog-act.dharshi.428	Mm-hmm . 	
+ES2002d.B.dialog-act.dharshi.422	um I don't know about anybody else . 	
+ES2002d.C.dialog-act.dharshi.429	Mm-hmm . 	
+ES2002d.B.dialog-act.dharshi.423	Um 	
+ES2002d.B.dialog-act.dharshi.424	what else 	
+ES2002d.B.dialog-act.dharshi.425	uh any wh I do 	
+ES2002d.B.dialog-act.dharshi.426	I'm not really sure what they're looking for when they say new ideas found . 	
+ES2002d.B.dialog-act.dharshi.427	Um I don't know is 	
+ES2002d.D.dialog-act.dharshi.104	Is this for the project or 	
+ES2002d.B.dialog-act.dharshi.428	could you think of like anything else that would have been helpful today at all ? 	
+ES2002d.C.dialog-act.dharshi.431	Well 	
+ES2002d.C.dialog-act.dharshi.430	, the w main one for me is that uh the process na in a natural f context would not have been interrupted by this necessity to discommunicate ourselves from each other . 	
+ES2002d.B.dialog-act.dharshi.430	Mm . 	
+ES2002d.C.dialog-act.dharshi.432	So , 	
+ES2002d.B.dialog-act.dharshi.431	Yeah 	
+ES2002d.B.dialog-act.dharshi.432	if we just had uh 	
+ES2002d.C.dialog-act.dharshi.433	that's kind of a new idea for me is like just sort of that idea , 	
+ES2002d.C.dialog-act.dharshi.434	well you know it's kind of s hard to keep f working forward on a team a team based project when when you're told you must now work away from your team . 	
+ES2002d.B.dialog-act.dharshi.429		
+ES2002d.B.dialog-act.dharshi.433	Mm-hmm . 	
+ES2002d.B.dialog-act.dharshi.434	Yeah 	
+ES2002d.B.dialog-act.dharshi.435	I I dunno 	
+ES2002d.B.dialog-act.dharshi.436	I think it was quite good that we had time limits on the meetings because they really could have run on 	
+ES2002d.B.dialog-act.dharshi.437	and like my experience with meetings is that they really do , and you can spend a lot of time talking about 	
+ES2002d.C.dialog-act.dharshi.435	Oh yeah . 	
+ES2002d.C.dialog-act.dharshi.436	Yeah , 	
+ES2002d.C.dialog-act.dharshi.437	yeah . 	
+ES2002d.B.dialog-act.dharshi.438	The only thing is though like when we had our meeting about the conceptual design , I thought there maybe another fifteen minutes would have been useful there 	
+ES2002d.B.dialog-act.dharshi.439	but um yeah . 	
+ES2002d.C.dialog-act.dharshi.438	Mm-hmm , 	
+ES2002d.C.dialog-act.dharshi.439	mm-hmm , 	
+ES2002d.C.dialog-act.dharshi.440	mm-hmm . 	
+ES2002d.B.dialog-act.dharshi.441	I really thi i I think maybe if we'd like all been working in the one room , 	
+ES2002d.B.dialog-act.dharshi.442	and they just said you know like every hour or something everybody make sure yo you know just have a have a short meeting and then just c 	
+ES2002d.C.dialog-act.dharshi.441	Mm-hmm . 	
+ES2002d.C.dialog-act.dharshi.442	Mm-hmm . 	
+ES2002d.B.dialog-act.dharshi.444	just to have like something written down , 	
+ES2002d.C.dialog-act.dharshi.443	Mm-hmm . 	
+ES2002d.B.dialog-act.dharshi.445	just like you know a a milestone if you like um rather than having meetings , but 	
+ES2002d.B.dialog-act.dharshi.446	There you go . 	
+ES2002d.C.dialog-act.dharshi.444	Hmm . 	
+ES2002d.B.dialog-act.dharshi.447	Um so in closing , 	
+ES2002d.B.dialog-act.dharshi.448	I haven't got my five minutes to go . Thin 	
+ES2002d.B.dialog-act.dharshi.449	Oh there it i 	
+ES2002d.D.dialog-act.dharshi.105		
+ES2002d.B.dialog-act.dharshi.450	Five minutes to go . 	
+ES2002d.B.dialog-act.dharshi.451	Wonderful . 	
+ES2002d.B.dialog-act.dharshi.452	Okay um 	
+ES2002d.B.dialog-act.dharshi.453	are the costs within the budget , yes they are . 	
+ES2002d.B.dialog-act.dharshi.454	And is the project evaluated , yes it is . 	
+ES2002d.B.dialog-act.dharshi.455	So now celebrate . 	
+ES2002d.D.dialog-act.dharshi.106		
+ES2002d.C.dialog-act.dharshi.445	Great . 	
+ES2002d.C.dialog-act.dharshi.446	So it 	
+ES2002d.A.dialog-act.dharshi.263	And we have Ninja Homer . 	
+ES2002d.C.dialog-act.dharshi.447	So now we 	
+ES2002d.D.dialog-act.dharshi.107	Oh yeah . 	
+ES2002d.A.dialog-act.dharshi.264		
+ES2002d.B.dialog-act.dharshi.456	Well apparently now I write the final report . 	
+ES2002d.D.dialog-act.dharshi.108	Do we know what the other ones are ? 	
+ES2002d.B.dialog-act.dharshi.457	What are you guys doing now ? 	
+ES2002d.C.dialog-act.dharshi.448	I I don't know . 	
+ES2002d.A.dialog-act.dharshi.265		
+ES2002d.B.dialog-act.dharshi.458	You dunno ? 	
+ES2002d.D.dialog-act.dharshi.109	Oh wow . 	
+ES2002d.C.dialog-act.dharshi.449	Hmm . 	
+ES2002d.B.dialog-act.dharshi.459	That is lovely . 	
+ES2002d.D.dialog-act.dharshi.111	Hey yeah , 	
+ES2002d.D.dialog-act.dharshi.112	I said Ninja Homer . 	
+ES2002d.C.dialog-act.dharshi.452	What did you call it ? 	
+ES2002d.A.dialog-act.dharshi.266	Ninja Homer . 	
+ES2002d.A.dialog-act.dharshi.267	See it looks like Homer Simpson 	
+ES2002d.C.dialog-act.dharshi.455	Huh , huh . 	
+ES2002d.A.dialog-act.dharshi.268	but it's electronic so it's made in Japan . 	
+ES2002d.B.dialog-act.dharshi.462	So is that j is that just is that just a logo or does it do anything ? 	
+ES2002d.C.dialog-act.dharshi.456	Logo . 	
+ES2002d.D.dialog-act.dharshi.110		
+ES2002d.A.dialog-act.dharshi.269	Yeah it's just a logo . 	
+ES2002d.B.dialog-act.dharshi.465	Just a logo 	
+ES2002d.B.dialog-act.dharshi.466	and then like Ninja Homer , 	
+ES2002d.C.dialog-act.dharshi.451	Huh . 	
+ES2002d.A.dialog-act.dharshi.270	Ninja Homer . 	
+ES2002d.B.dialog-act.dharshi.464	right okay . 	
+ES2002d.C.dialog-act.dharshi.450	Mm . 	
+ES2002d.A.dialog-act.dharshi.271	The the red is supposed to represent the whatever else you wanna print on the side of it . 	
+ES2002d.C.dialog-act.dharshi.453	Mm-hmm . 	
+ES2002d.B.dialog-act.dharshi.461	I think it's quite nice . 	
+ES2002d.C.dialog-act.dharshi.457	Fashion technology or something . 	
+ES2002d.B.dialog-act.dharshi.460		
+ES2002d.A.dialog-act.dharshi.272	You can wear Homer , 	
+ES2002d.A.dialog-act.dharshi.273	you can throw Homer when you're frustrated , doh . 	
+ES2002d.C.dialog-act.dharshi.458	Hmm , hmm , hmm . 	
+ES2002d.D.dialog-act.dharshi.113		
+ES2002d.B.dialog-act.dharshi.468	Oh no , that's cool , 	
+ES2002d.B.dialog-act.dharshi.469	it's got 	
+ES2002d.B.dialog-act.dharshi.470	I'm kind of 	
+ES2002d.C.dialog-act.dharshi.459	Hmm . 	
+ES2002d.A.dialog-act.dharshi.274	It's clunky . 	
+ES2002d.B.dialog-act.dharshi.471	I'm slightly gutted that we couldn't get plastic and rubber , 	
+ES2002d.B.dialog-act.dharshi.472	I think that would have been nice . 	
+ES2002d.C.dialog-act.dharshi.461	Yeah , yeah . 	
+ES2002d.B.dialog-act.dharshi.467		
+ES2002d.B.dialog-act.dharshi.473	Ah well , 	
+ES2002d.B.dialog-act.dharshi.474	maybe from now on real reaction should give us more money . 	
+ES2002d.C.dialog-act.dharshi.460	Mm-hmm . 	
+ES2002d.A.dialog-act.dharshi.275	Oh , I did learn something new , Play-Doh is useful . 	
+ES2002d.C.dialog-act.dharshi.463	Hmm . 	
+ES2002d.C.dialog-act.dharshi.462		
+ES2002d.B.dialog-act.dharshi.475	Play-Doh s 	
+ES2002d.A.dialog-act.dharshi.276	No it is it is . 	
+ES2002d.A.dialog-act.dharshi.277	It is useful and in in in in in in in um conceptualizing , in being creative . 	
+ES2002d.C.dialog-act.dharshi.466	Huh . 	
+ES2002d.C.dialog-act.dharshi.467	Huh . 	
+ES2002d.B.dialog-act.dharshi.476	Really ? 	
+ES2002d.A.dialog-act.dharshi.278	'Cause like you say , it's something you can put your hands on and feel and touch and get a sense for . 	
+ES2002d.C.dialog-act.dharshi.464	Yeah . 	
+ES2002d.B.dialog-act.dharshi.478	Yeah . 	
+ES2002d.A.dialog-act.dharshi.279	Like we were playing with the Play-Doh and the ideas came with the Play-Doh rather than with everything else . 	
+ES2002d.B.dialog-act.dharshi.477	Did they ? 	
+ES2002d.A.dialog-act.dharshi.280	You might wanna write that down . 	
+ES2002d.C.dialog-act.dharshi.465	Yeah . 	
+ES2002d.A.dialog-act.dharshi.281	It's just , I'm just fiddling with the Play-Doh , and I'm going yeah yeah it's kinda cool . 	
+ES2002d.B.dialog-act.dharshi.481	Okay . 	
+ES2002d.B.dialog-act.dharshi.479	Play-Doh . 	
+ES2002d.C.dialog-act.dharshi.471	No , it's true , yeah . 	
+ES2002d.D.dialog-act.dharshi.114	Guess I'd forgot how good s Play-Doh smells . 	
+ES2002d.C.dialog-act.dharshi.468	Hmm . 	
+ES2002d.B.dialog-act.dharshi.480	Yeah , it smells funny doesn't it . Um 	
+ES2002d.C.dialog-act.dharshi.469	And some Play-Dohs are actually I think edible 	
+ES2002d.C.dialog-act.dharshi.470	aren't they ? 	
+ES2002d.A.dialog-act.dharshi.282	No , all Play-Doh is edible . 	
+ES2002d.B.dialog-act.dharshi.482	Yeah like the stuff for 	
+ES2002d.D.dialog-act.dharshi.115	I think they're all non-toxic 'cause it's aimed for like two-year-olds . 	
+ES2002d.B.dialog-act.dharshi.483	I think it has to be , yeah . 	
+ES2002d.A.dialog-act.dharshi.283	It's just wheat , 	
+ES2002d.A.dialog-act.dharshi.284	it's the stuff that your mom could make with preservatives and uh 	
+ES2002d.C.dialog-act.dharshi.472	Wow , hmm . 	
+ES2002d.B.dialog-act.dharshi.485	Yeah um so to 	
+ES2002d.B.dialog-act.dharshi.486	wha what are your summarising words about Play-Doh ? 	
+ES2002d.A.dialog-act.dharshi.286	It's helpful to the creative process . 	
+ES2002d.C.dialog-act.dharshi.473	Huh . 	
+ES2002d.A.dialog-act.dharshi.287	Um it engages all your senses not just your sight , but your sense of feel your sense of touch . 	
+ES2002d.B.dialog-act.dharshi.487	Okay . 	
+ES2002d.C.dialog-act.dharshi.474	Yep . 	
+ES2002d.A.dialog-act.dharshi.288	And it helps you to understand 	
+ES2002d.C.dialog-act.dharshi.475	Taste . 	
+ES2002d.D.dialog-act.dharshi.116		
+ES2002d.B.dialog-act.dharshi.484		
+ES2002d.A.dialog-act.dharshi.285		
+ES2002d.A.dialog-act.dharshi.289	dimension as well . 	
+ES2002d.C.dialog-act.dharshi.476	Yeah . 	
+ES2002d.A.dialog-act.dharshi.290	I think that that's very helpful because it it starts to pop up , 	
+ES2002d.B.dialog-act.dharshi.488	Yeah . 	
+ES2002d.A.dialog-act.dharshi.291	whereas on a piece of paper , on a computer , on a board , um even with a three D_ graphic thing it still , it requires a lot of 	
+ES2002d.B.dialog-act.dharshi.489	Yeah . 	
+ES2002d.C.dialog-act.dharshi.477	Mm-hmm , 	
+ES2002d.C.dialog-act.dharshi.478	yep . 	
+ES2002d.C.dialog-act.dharshi.479	Yeah . 	
+ES2002d.D.dialog-act.dharshi.118	Yeah 	
+ES2002d.D.dialog-act.dharshi.119	it's not very tangible . 	
+ES2002d.C.dialog-act.dharshi.480	Yeah . 	
+ES2002d.A.dialog-act.dharshi.292	yeah tangible , that's a nice word . 	
+ES2002d.B.dialog-act.dharshi.490	Mm-hmm . 	
+ES2002d.C.dialog-act.dharshi.481	Mm-hmm , 	
+ES2002d.C.dialog-act.dharshi.482	mm-hmm , 	
+ES2002d.C.dialog-act.dharshi.483	mm-hmm . 	
+ES2002d.A.dialog-act.dharshi.293	It becomes tangible . 	
+ES2002d.C.dialog-act.dharshi.484	Mm-hmm . 	
+ES2002d.B.dialog-act.dharshi.491	Tangible . 	
+ES2002d.B.dialog-act.dharshi.492	Okay uh 	
+ES2002d.A.dialog-act.dharshi.294		
+ES2002d.B.dialog-act.dharshi.493	Mm . I don't know if there's anything else we needed to discuss . 	
+ES2002d.A.dialog-act.dharshi.295	Nope . 	
+ES2002d.B.dialog-act.dharshi.494	That that's about it really . 	
+ES2002d.B.dialog-act.dharshi.495	Just sit still I guess for a little while . 	
+ES2002d.C.dialog-act.dharshi.485	Do we retreat to our , to continue our 	
+ES2002d.A.dialog-act.dharshi.296	I think we could probably do it here as long as we don't collaborate . 	
+ES2002d.B.dialog-act.dharshi.496	Um 	
+ES2002d.C.dialog-act.dharshi.486	r reporting or what i 	
+ES2002d.B.dialog-act.dharshi.497	Well I dunno . 	
+ES2002d.B.dialog-act.dharshi.498	Um I'm sure the little uh the little thing'll pop up any minute now . 	
+ES2002d.C.dialog-act.dharshi.487		
+ES2002d.A.dialog-act.dharshi.297	Can we turn off the microphones ? 	
+ES2002d.C.dialog-act.dharshi.488		
+ES2002d.B.dialog-act.dharshi.499	Yeah , yeah if the meeting's over then yeah I guess so . 	
+

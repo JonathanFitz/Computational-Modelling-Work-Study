@@ -1,0 +1,934 @@
+Observation: IS1003c; Result size: 931; atts: 2
+$d@nite:id	$d	
+IS1003c.A.dialog-act.vkaraisk.1	So 	
+IS1003c.A.dialog-act.vkaraisk.2	let's start our second me meeting on conceptual design . 	
+IS1003c.B.dialog-act.vkaraisk.1		
+IS1003c.D.dialog-act.vkaraisk.1	Mm-hmm . 	
+IS1003c.A.dialog-act.vkaraisk.3	So , 	
+IS1003c.A.dialog-act.vkaraisk.4	as the previous meeting I will be the secretary 	
+IS1003c.B.dialog-act.vkaraisk.2	Mm-hmm . 	
+IS1003c.A.dialog-act.vkaraisk.5	and we will have three presentations 	
+IS1003c.A.dialog-act.vkaraisk.6	and we'll have to decide on the remote control concept 	
+IS1003c.A.dialog-act.vkaraisk.7	and finally we'll close the decision . 	
+IS1003c.A.dialog-act.vkaraisk.8	So 	
+IS1003c.A.dialog-act.vkaraisk.9	I will first uh 	
+IS1003c.D.dialog-act.vkaraisk.2	No 	
+IS1003c.D.dialog-act.vkaraisk.3	y you do the minutes first , 	
+IS1003c.D.dialog-act.vkaraisk.4	or ? 	
+IS1003c.A.dialog-act.vkaraisk.10	What ? 	
+IS1003c.D.dialog-act.vkaraisk.5	No ? 	
+IS1003c.A.dialog-act.vkaraisk.11	I I think I will let uh our User Interface Designer speak first , Mister David Jordan . 	
+IS1003c.D.dialog-act.vkaraisk.6	Okay . 	
+IS1003c.C.dialog-act.vkaraisk.1	Yep . 	
+IS1003c.A.dialog-act.vkaraisk.12	So , 	
+IS1003c.A.dialog-act.vkaraisk.13	we'll 	
+IS1003c.C.dialog-act.vkaraisk.2	Yeah . 	
+IS1003c.A.dialog-act.vkaraisk.14	S 	
+IS1003c.A.dialog-act.vkaraisk.15	technical accessoire ? 	
+IS1003c.C.dialog-act.vkaraisk.3	No no no . 	
+IS1003c.A.dialog-act.vkaraisk.16	Interface ? 	
+IS1003c.C.dialog-act.vkaraisk.4	Yeah . 	
+IS1003c.A.dialog-act.vkaraisk.17	This . 	
+IS1003c.C.dialog-act.vkaraisk.5	Mm . 	
+IS1003c.C.dialog-act.vkaraisk.6	So uh 	
+IS1003c.C.dialog-act.vkaraisk.7	first I will present the concept of user interface . 	
+IS1003c.C.dialog-act.vkaraisk.8	Um there's three concepts in the user interface . 	
+IS1003c.C.dialog-act.vkaraisk.9	So first one it's a Google controller . 	
+IS1003c.C.dialog-act.vkaraisk.10	The second is a fancy controller . 	
+IS1003c.C.dialog-act.vkaraisk.11	The last one is uh intelligent controller . 	
+IS1003c.C.dialog-act.vkaraisk.12	So there are three concepts in our controller . 	
+IS1003c.C.dialog-act.vkaraisk.13	Um n next I will explain one by one , 	
+IS1003c.C.dialog-act.vkaraisk.14	the first is Google controller . 	
+IS1003c.C.dialog-act.vkaraisk.15	Um , so 	
+IS1003c.C.dialog-act.vkaraisk.16	I want the controller to be easy to use , but with sophisticated functions . 	
+IS1003c.C.dialog-act.vkaraisk.17	So it's a combination of easy to use and um sophisticated functions . 	
+IS1003c.C.dialog-act.vkaraisk.18	Uh this is a first concept of our controller . 	
+IS1003c.C.dialog-act.vkaraisk.19	The second concept is a fancy controller , 	
+IS1003c.C.dialog-act.vkaraisk.20	um so 	
+IS1003c.C.dialog-act.vkaraisk.21	we want give the customers the impression that our controller is very attractive , 	
+IS1003c.C.dialog-act.vkaraisk.22	um they can easy recognise our controller among a lot of products , 	
+IS1003c.C.dialog-act.vkaraisk.23	so so 	
+IS1003c.C.dialog-act.vkaraisk.24	the u the user f the the u user interface should be very very cute , very very g um 	
+IS1003c.D.dialog-act.vkaraisk.7	Mm . 	
+IS1003c.B.dialog-act.vkaraisk.3	Mm . 	
+IS1003c.B.dialog-act.vkaraisk.4	A nice one . 	
+IS1003c.C.dialog-act.vkaraisk.25	attractive . 	
+IS1003c.C.dialog-act.vkaraisk.26	Such like this , there are several uh examples in the slides . 	
+IS1003c.A.dialog-act.vkaraisk.18	I'm not sure the one in the middle is very attractive . 	
+IS1003c.D.dialog-act.vkaraisk.8		
+IS1003c.B.dialog-act.vkaraisk.5		
+IS1003c.C.dialog-act.vkaraisk.27	Yeah , 	
+IS1003c.C.dialog-act.vkaraisk.28	it's very , 	
+IS1003c.C.dialog-act.vkaraisk.29	you know 	
+IS1003c.C.dialog-act.vkaraisk.30	if you're 	
+IS1003c.A.dialog-act.vkaraisk.19	It's very big , 	
+IS1003c.A.dialog-act.vkaraisk.20	yeah . 	
+IS1003c.D.dialog-act.vkaraisk.9		
+IS1003c.C.dialog-act.vkaraisk.31	Yeah . 	
+IS1003c.C.dialog-act.vkaraisk.32	It's hard f i 	
+IS1003c.C.dialog-act.vkaraisk.33	it's easy for you to remember it . Or to recognise it , 	
+IS1003c.D.dialog-act.vkaraisk.10		
+IS1003c.A.dialog-act.vkaraisk.21	Okay . 	
+IS1003c.C.dialog-act.vkaraisk.35	yeah . 	
+IS1003c.A.dialog-act.vkaraisk.22	Yeah , why not . 	
+IS1003c.C.dialog-act.vkaraisk.36	Yeah . 	
+IS1003c.C.dialog-act.vkaraisk.37	Yeah . 	
+IS1003c.A.dialog-act.vkaraisk.23	We'll have big discussion I suppose after that , 	
+IS1003c.B.dialog-act.vkaraisk.6	Yeah . Yeah . 	
+IS1003c.C.dialog-act.vkaraisk.38	Yeah . 	
+IS1003c.A.dialog-act.vkaraisk.24	so . 	
+IS1003c.D.dialog-act.vkaraisk.11	Mm . 	
+IS1003c.C.dialog-act.vkaraisk.39	So 	
+IS1003c.C.dialog-act.vkaraisk.40	the last uh concept is intelligent . 	
+IS1003c.C.dialog-act.vkaraisk.41	We want uh we want our controller to be smart , 	
+IS1003c.B.dialog-act.vkaraisk.7	Mm-hmm . 	
+IS1003c.D.dialog-act.vkaraisk.12	Mm . 	
+IS1003c.C.dialog-act.vkaraisk.42	so maybe we should uh use um uh 	
+IS1003c.C.dialog-act.vkaraisk.43	technology , such as speech recognition technology and gesture recognition technology , 	
+IS1003c.C.dialog-act.vkaraisk.44	so we need to have coop some cooperation with some research institute on speech recognition and um gesture recognition . Um 	
+IS1003c.C.dialog-act.vkaraisk.45	With this advanced features we I think we can attract a lot of user . 	
+IS1003c.A.dialog-act.vkaraisk.25	Okay . 	
+IS1003c.C.dialog-act.vkaraisk.46	Okay . 	
+IS1003c.A.dialog-act.vkaraisk.26	Something else ? 	
+IS1003c.C.dialog-act.vkaraisk.47	No . 	
+IS1003c.C.dialog-act.vkaraisk.48	There 	
+IS1003c.C.dialog-act.vkaraisk.49	this is the three concepts of our controller . 	
+IS1003c.B.dialog-act.vkaraisk.8	Yeah . 	
+IS1003c.A.dialog-act.vkaraisk.27	I just have one question , 	
+IS1003c.C.dialog-act.vkaraisk.50	Yeah . 	
+IS1003c.A.dialog-act.vkaraisk.28	because for the intelligent controller , you said that we can use the voice recognition or the gesture recognition , 	
+IS1003c.C.dialog-act.vkaraisk.51	Yeah . 	
+IS1003c.A.dialog-act.vkaraisk.29	but as the um expert told us , most of the people want to use the remote control to zap t to zap between channels . 	
+IS1003c.C.dialog-act.vkaraisk.52	Yeah , so 	
+IS1003c.A.dialog-act.vkaraisk.30	Do you think they will be able to use gestures ? 	
+IS1003c.A.dialog-act.vkaraisk.31	Because , if they do all the time the same gesture , as you said previously in the last meeting , maybe they will get injuries because of that ? 	
+IS1003c.C.dialog-act.vkaraisk.53	Y 	
+IS1003c.D.dialog-act.vkaraisk.13		
+IS1003c.B.dialog-act.vkaraisk.9	Yeah . Maybe . 	
+IS1003c.A.dialog-act.vkaraisk.32	or if you say channel three channel three two three four six five , I think they will be bored after a while . 	
+IS1003c.A.dialog-act.vkaraisk.33	You don't think so ? 	
+IS1003c.C.dialog-act.vkaraisk.54	Uh I think some time it's very uh convenient to use voice interface and gesture interface than use button . 	
+IS1003c.A.dialog-act.vkaraisk.34	Yeah , sure . 	
+IS1003c.C.dialog-act.vkaraisk.55	For example , if you cannot find your uh controller , you can just uh just just uh speak something such as , yeah , one two . 	
+IS1003c.A.dialog-act.vkaraisk.35	I 	
+IS1003c.B.dialog-act.vkaraisk.10	Oh yeah , that's a good that's a good point , so . 	
+IS1003c.A.dialog-act.vkaraisk.36	That's true . 	
+IS1003c.B.dialog-act.vkaraisk.11	One and 	
+IS1003c.A.dialog-act.vkaraisk.37	Yeah , 	
+IS1003c.A.dialog-act.vkaraisk.38	but suppose you got a cold . You have a mute remote controller . 	
+IS1003c.C.dialog-act.vkaraisk.56	Yeah . 	
+IS1003c.B.dialog-act.vkaraisk.12		
+IS1003c.D.dialog-act.vkaraisk.14	Mm . 	
+IS1003c.C.dialog-act.vkaraisk.57	So you can use your gesture . 	
+IS1003c.C.dialog-act.vkaraisk.58	That's no problem . 	
+IS1003c.B.dialog-act.vkaraisk.13		
+IS1003c.D.dialog-act.vkaraisk.15	Yeah 	
+IS1003c.D.dialog-act.vkaraisk.16	but how how is how risky is it to trust like speech recognition or gesture recognition ? 	
+IS1003c.A.dialog-act.vkaraisk.39	Broken arm ? 	
+IS1003c.C.dialog-act.vkaraisk.59	For limited vocabulary speech recognition is very reliable and for s limited vocabulary gesture recognition is also very 	
+IS1003c.D.dialog-act.vkaraisk.17	Okay . Okay . 	
+IS1003c.A.dialog-act.vkaraisk.40	Yeah , 	
+IS1003c.A.dialog-act.vkaraisk.41	but suppose you have a family watching T_V_ , and if they want to use their private remote control in the same time , do you think it will work ? Everybody wanting to change channel in the same time ? 	
+IS1003c.C.dialog-act.vkaraisk.60	Yeah . 	
+IS1003c.B.dialog-act.vkaraisk.14	Yep . 	
+IS1003c.D.dialog-act.vkaraisk.18	But this this but this would never happen anyway . 	
+IS1003c.C.dialog-act.vkaraisk.61	Yeah , 	
+IS1003c.C.dialog-act.vkaraisk.62	they cannot speak at the same time . 	
+IS1003c.A.dialog-act.vkaraisk.42	Why ? 	
+IS1003c.D.dialog-act.vkaraisk.19	Yeah 	
+IS1003c.A.dialog-act.vkaraisk.43	If you have one brother and one sister 	
+IS1003c.A.dialog-act.vkaraisk.44	and they want to watch their favourite uh T_V_ programme , 	
+IS1003c.D.dialog-act.vkaraisk.20	Yeah , 	
+IS1003c.D.dialog-act.vkaraisk.21	but the 	
+IS1003c.A.dialog-act.vkaraisk.45	so they say oh channel four channel three channel four channel three all the time , 	
+IS1003c.B.dialog-act.vkaraisk.15	Yeah but Yeah 	
+IS1003c.C.dialog-act.vkaraisk.63	Yeah , 	
+IS1003c.C.dialog-act.vkaraisk.64	it's very interesting . 	
+IS1003c.D.dialog-act.vkaraisk.22	Yeah 	
+IS1003c.D.dialog-act.vkaraisk.23	but this 	
+IS1003c.A.dialog-act.vkaraisk.46	so . 	
+IS1003c.B.dialog-act.vkaraisk.16	but the same can happen even with it you know this kind of remote control 	
+IS1003c.D.dialog-act.vkaraisk.24	Yeah . 	
+IS1003c.B.dialog-act.vkaraisk.17	because the 	
+IS1003c.C.dialog-act.vkaraisk.65	Yeah . 	
+IS1003c.D.dialog-act.vkaraisk.25	I don't think it 	
+IS1003c.A.dialog-act.vkaraisk.47	Yeah , 	
+IS1003c.A.dialog-act.vkaraisk.48	but you have the remote control , 	
+IS1003c.A.dialog-act.vkaraisk.49	so maybe you can keep it f with you . 	
+IS1003c.B.dialog-act.vkaraisk.18	That's right . 	
+IS1003c.A.dialog-act.vkaraisk.50	You're not you're not obliged to share it . 	
+IS1003c.D.dialog-act.vkaraisk.26	Oh , okay , okay , 	
+IS1003c.D.dialog-act.vkaraisk.27	you mean it could be a problem for this kind of stuff . 	
+IS1003c.A.dialog-act.vkaraisk.51	Yeah , 	
+IS1003c.A.dialog-act.vkaraisk.52	we can 	
+IS1003c.C.dialog-act.vkaraisk.66	Yeah , 	
+IS1003c.C.dialog-act.vkaraisk.67	that's that's the advantage of intelligent controller . 	
+IS1003c.A.dialog-act.vkaraisk.53	yeah . 	
+IS1003c.C.dialog-act.vkaraisk.68	Even you h you have the controller , I can I can say channel three , 	
+IS1003c.D.dialog-act.vkaraisk.28	No . 	
+IS1003c.B.dialog-act.vkaraisk.19	It's it's 	
+IS1003c.C.dialog-act.vkaraisk.69	so it's c come to channel three , 	
+IS1003c.D.dialog-act.vkaraisk.29	No , but this is disadvant disadvantage . 	
+IS1003c.C.dialog-act.vkaraisk.70	I don't have to 	
+IS1003c.A.dialog-act.vkaraisk.54	Yeah , I think it's a disadvantage . 	
+IS1003c.C.dialog-act.vkaraisk.71	It's advantage . 	
+IS1003c.D.dialog-act.vkaraisk.30	Yeah . 	
+IS1003c.B.dialog-act.vkaraisk.20	And mayb maybe we can have the switching mode to pass from you know voice controller to 	
+IS1003c.A.dialog-act.vkaraisk.55	Yeah , 	
+IS1003c.A.dialog-act.vkaraisk.56	but one other question . 	
+IS1003c.B.dialog-act.vkaraisk.21	manual controllers , eh . 	
+IS1003c.A.dialog-act.vkaraisk.57	How how much will it cost ? 	
+IS1003c.B.dialog-act.vkaraisk.22	No , 	
+IS1003c.B.dialog-act.vkaraisk.23	more expensive maybe . 	
+IS1003c.C.dialog-act.vkaraisk.72	How much ? 	
+IS1003c.A.dialog-act.vkaraisk.58	Yeah . 	
+IS1003c.A.dialog-act.vkaraisk.59	Because I suppose we need to do research to have something working . 	
+IS1003c.C.dialog-act.vkaraisk.73	No no 	
+IS1003c.C.dialog-act.vkaraisk.74	we we d we we just are use um 	
+IS1003c.D.dialog-act.vkaraisk.31	Uh if you if if you use the basic 	
+IS1003c.A.dialog-act.vkaraisk.60	Some some efficient . 	
+IS1003c.C.dialog-act.vkaraisk.75	No no 	
+IS1003c.C.dialog-act.vkaraisk.76	we just um have some cooperation with some research institute , 	
+IS1003c.C.dialog-act.vkaraisk.77	we don't have to do some basic research on this field . 	
+IS1003c.A.dialog-act.vkaraisk.61	So 	
+IS1003c.A.dialog-act.vkaraisk.62	you think it won't cost an Not a lot for us ? 	
+IS1003c.A.dialog-act.vkaraisk.63	Or ? 	
+IS1003c.C.dialog-act.vkaraisk.78	Yeah , 	
+IS1003c.C.dialog-act.vkaraisk.79	I think it's uh 	
+IS1003c.C.dialog-act.vkaraisk.80	because uh this technology is uh um for limited wor or limited wor uh lexical recognition , 	
+IS1003c.C.dialog-act.vkaraisk.81	it's very 	
+IS1003c.A.dialog-act.vkaraisk.64	Yeah , 	
+IS1003c.A.dialog-act.vkaraisk.65	but uh uh 	
+IS1003c.C.dialog-act.vkaraisk.82	it's uh 	
+IS1003c.C.dialog-act.vkaraisk.83	yeah . 	
+IS1003c.D.dialog-act.vkaraisk.32	But it's it's changing how the remote control is gonna be built . 	
+IS1003c.C.dialog-act.vkaraisk.84	It's 	
+IS1003c.D.dialog-act.vkaraisk.33	Because then you need uh 	
+IS1003c.D.dialog-act.vkaraisk.34	I mean this doesn't have uh the power to do recognition , for example . 	
+IS1003c.B.dialog-act.vkaraisk.24	Well 	
+IS1003c.B.dialog-act.vkaraisk.25	y y you have also the language problem , 	
+IS1003c.C.dialog-act.vkaraisk.85	No 	
+IS1003c.C.dialog-act.vkaraisk.86	it's uh 	
+IS1003c.C.dialog-act.vkaraisk.87	Even for the f um because the the vocabulary the 	
+IS1003c.B.dialog-act.vkaraisk.26	you know 	
+IS1003c.B.dialog-act.vkaraisk.27	when you 	
+IS1003c.A.dialog-act.vkaraisk.66	Mm-mm . 	
+IS1003c.B.dialog-act.vkaraisk.28	'Cause it it have to be universal , 	
+IS1003c.B.dialog-act.vkaraisk.29	so . 	
+IS1003c.A.dialog-act.vkaraisk.67	Yeah . I agree with uh 	
+IS1003c.C.dialog-act.vkaraisk.88	The vocabulary is very small , 	
+IS1003c.C.dialog-act.vkaraisk.89	so that's not a problem . 	
+IS1003c.D.dialog-act.vkaraisk.35	Yeah . 	
+IS1003c.A.dialog-act.vkaraisk.68	Yeah , 	
+IS1003c.A.dialog-act.vkaraisk.69	but there is one problem that uh Baba talked about is the international 	
+IS1003c.B.dialog-act.vkaraisk.30	Yeah . 	
+IS1003c.C.dialog-act.vkaraisk.90	Yeah . 	
+IS1003c.D.dialog-act.vkaraisk.36		
+IS1003c.B.dialog-act.vkaraisk.31		
+IS1003c.A.dialog-act.vkaraisk.70	remote control . 	
+IS1003c.A.dialog-act.vkaraisk.71	We need something that is international . 	
+IS1003c.A.dialog-act.vkaraisk.72	Suppose we're we want to sell it in France . 	
+IS1003c.C.dialog-act.vkaraisk.91	Yeah . 	
+IS1003c.A.dialog-act.vkaraisk.73	The recognition system will be able to understand French . 	
+IS1003c.A.dialog-act.vkaraisk.74	If you want to go to England , it will be able to understand English , 	
+IS1003c.C.dialog-act.vkaraisk.92	Yeah . 	
+IS1003c.A.dialog-act.vkaraisk.75	so . 	
+IS1003c.C.dialog-act.vkaraisk.93	Yeah , 	
+IS1003c.C.dialog-act.vkaraisk.94	the key , the key um the key of our the key feature of our controller is that it's it has some some um adaptation 	
+IS1003c.D.dialog-act.vkaraisk.37	Yeah , 	
+IS1003c.D.dialog-act.vkaraisk.38	this could be downloaded by the web maybe , 	
+IS1003c.D.dialog-act.vkaraisk.39	or 	
+IS1003c.B.dialog-act.vkaraisk.32	Yeah 	
+IS1003c.C.dialog-act.vkaraisk.95	mechanism . 	
+IS1003c.B.dialog-act.vkaraisk.33	but you know . The product The pro 	
+IS1003c.C.dialog-act.vkaraisk.96	It's It's it means when you when you sell this controller in China it's can recognise Chinese . 	
+IS1003c.C.dialog-act.vkaraisk.97	It's r if you sell this controller in France it can recognise French . 	
+IS1003c.B.dialog-act.vkaraisk.34	It's a very smart , it's a very smart controller maybe 	
+IS1003c.D.dialog-act.vkaraisk.40	Yeah . 	
+IS1003c.A.dialog-act.vkaraisk.76	Mm , okay . 	
+IS1003c.C.dialog-act.vkaraisk.98	Yeah , 	
+IS1003c.C.dialog-act.vkaraisk.99	it's 	
+IS1003c.A.dialog-act.vkaraisk.77	And with no increase in the pri production price of the remote control ? 	
+IS1003c.B.dialog-act.vkaraisk.35	Oh yeah yeah yeah yeah . 	
+IS1003c.C.dialog-act.vkaraisk.100	Because of this product uh this technology has already been developed . 	
+IS1003c.B.dialog-act.vkaraisk.36	But 	
+IS1003c.A.dialog-act.vkaraisk.78	Yeah , 	
+IS1003c.C.dialog-act.vkaraisk.101	So 	
+IS1003c.A.dialog-act.vkaraisk.79	but how will you 	
+IS1003c.B.dialog-act.vkaraisk.37	Yeah 	
+IS1003c.B.dialog-act.vkaraisk.38	but the problem is how to s 	
+IS1003c.B.dialog-act.vkaraisk.39	you know 	
+IS1003c.B.dialog-act.vkaraisk.40	if this is a push button controller , you can send this con this remote control everywhere in the world , the same one . 	
+IS1003c.C.dialog-act.vkaraisk.102	Yeah . 	
+IS1003c.C.dialog-act.vkaraisk.103	Yeah . 	
+IS1003c.D.dialog-act.vkaraisk.41	Mm . 	
+IS1003c.B.dialog-act.vkaraisk.41	If you have the language , you have to develop for each country . 	
+IS1003c.C.dialog-act.vkaraisk.104	Oh n Yeah , yeah 	
+IS1003c.C.dialog-act.vkaraisk.105	tha that's why we have to do language adaptation . 	
+IS1003c.B.dialog-act.vkaraisk.42	Yeah , 	
+IS1003c.B.dialog-act.vkaraisk.43	but for each country you have to do one , 	
+IS1003c.C.dialog-act.vkaraisk.106	Yeah . 	
+IS1003c.B.dialog-act.vkaraisk.44	because uh the for example for Se 	
+IS1003c.C.dialog-act.vkaraisk.107	Even for each f for even for different family we have to do d yeah we would we have to do adaptation to 	
+IS1003c.B.dialog-act.vkaraisk.45	Oh really ? 	
+IS1003c.B.dialog-act.vkaraisk.46	That's 	
+IS1003c.A.dialog-act.vkaraisk.80	Oh . 	
+IS1003c.D.dialog-act.vkaraisk.42	Yeah , 	
+IS1003c.D.dialog-act.vkaraisk.43	but then w 	
+IS1003c.A.dialog-act.vkaraisk.81	Seems to be quite complex . 	
+IS1003c.D.dialog-act.vkaraisk.44	Yeah , 	
+IS1003c.D.dialog-act.vkaraisk.45	we have to take care of the twelve Euros 	
+IS1003c.B.dialog-act.vkaraisk.47	Comple 	
+IS1003c.C.dialog-act.vkaraisk.108	No , it's not so complex . 	
+IS1003c.D.dialog-act.vkaraisk.46	problem . 	
+IS1003c.A.dialog-act.vkaraisk.82	And what about voice recognition , do we have microphones ? 	
+IS1003c.A.dialog-act.vkaraisk.83	And where will be they ? 	
+IS1003c.A.dialog-act.vkaraisk.84	Do you think if we're far from television it will work ? 	
+IS1003c.C.dialog-act.vkaraisk.109	No no no 	
+IS1003c.C.dialog-act.vkaraisk.110	it's not 	
+IS1003c.C.dialog-act.vkaraisk.111	I think that's n that's not a problem 	
+IS1003c.C.dialog-act.vkaraisk.112	because you you don't have to wear a microphone . 	
+IS1003c.C.dialog-act.vkaraisk.113	It it just the microphone is embedded in the controller . 	
+IS1003c.A.dialog-act.vkaraisk.85	Yeah , 	
+IS1003c.A.dialog-act.vkaraisk.86	but where is the controller ? 	
+IS1003c.D.dialog-act.vkaraisk.47	Okay . 	
+IS1003c.C.dialog-act.vkaraisk.114	Where is the controller ? 	
+IS1003c.A.dialog-act.vkaraisk.87	Yeah . 	
+IS1003c.C.dialog-act.vkaraisk.115	It's in your family , in your home . 	
+IS1003c.B.dialog-act.vkaraisk.48		
+IS1003c.D.dialog-act.vkaraisk.48	No , 	
+IS1003c.D.dialog-act.vkaraisk.49	but then it's it's like this uh 	
+IS1003c.A.dialog-act.vkaraisk.88	Yeah , 	
+IS1003c.A.dialog-act.vkaraisk.89	but we're 	
+IS1003c.A.dialog-act.vkaraisk.90	here it's uh an object . 	
+IS1003c.A.dialog-act.vkaraisk.91	But here you say you want to use i uh s technology . 	
+IS1003c.C.dialog-act.vkaraisk.116	Yeah . 	
+IS1003c.C.dialog-act.vkaraisk.117	Yeah 	
+IS1003c.C.dialog-act.vkaraisk.118	you can you can embed it uh microphone here . 	
+IS1003c.B.dialog-act.vkaraisk.49	A microphone maybe . 	
+IS1003c.A.dialog-act.vkaraisk.92	Yeah , 	
+IS1003c.A.dialog-act.vkaraisk.93	but wha what is the use of voice or gesture recognition if you have a remote control li like this , if you have an object . 	
+IS1003c.A.dialog-act.vkaraisk.94	If you want to use voice or gesture you need to be free , without any object . 	
+IS1003c.B.dialog-act.vkaraisk.50	To talk to the to the T_V_ maybe . 	
+IS1003c.A.dialog-act.vkaraisk.95	You just want to interact with television . 	
+IS1003c.C.dialog-act.vkaraisk.119	Yeah yeah 	
+IS1003c.C.dialog-act.vkaraisk.120	just you just put the controller here , 	
+IS1003c.C.dialog-act.vkaraisk.121	then you 	
+IS1003c.B.dialog-act.vkaraisk.51	I if you say one , he switch to channel , 	
+IS1003c.C.dialog-act.vkaraisk.122	you use your command 	
+IS1003c.A.dialog-act.vkaraisk.96	Yeah , 	
+IS1003c.B.dialog-act.vkaraisk.52	yeah . 	
+IS1003c.C.dialog-act.vkaraisk.123	and you do s your gesture . 	
+IS1003c.A.dialog-act.vkaraisk.97	but you can lose it . 	
+IS1003c.C.dialog-act.vkaraisk.124	No no 	
+IS1003c.C.dialog-act.vkaraisk.125	it's n y if you lose it 	
+IS1003c.A.dialog-act.vkaraisk.98		
+IS1003c.B.dialog-act.vkaraisk.53	So well 	
+IS1003c.B.dialog-act.vkaraisk.54	for example if it is somewhere in the room if i maybe if it is in the table there you can always say s channel one and the t the remote control gives the order to the T_V_ to switch to channel one . 	
+IS1003c.D.dialog-act.vkaraisk.50		
+IS1003c.C.dialog-act.vkaraisk.126	Yeah . 	
+IS1003c.A.dialog-act.vkaraisk.99	Okay 	
+IS1003c.A.dialog-act.vkaraisk.100	you so you can build a kind of black box 	
+IS1003c.B.dialog-act.vkaraisk.55	Devic 	
+IS1003c.A.dialog-act.vkaraisk.101	and put it on T_V_ and just to recognize gestures and voice . 	
+IS1003c.D.dialog-act.vkaraisk.51	Yeah . 	
+IS1003c.B.dialog-act.vkaraisk.56	Yeah . 	
+IS1003c.B.dialog-act.vkaraisk.57	Yeah . 	
+IS1003c.B.dialog-act.vkaraisk.58	Yeah 	
+IS1003c.B.dialog-act.vkaraisk.59	but so you need a camera and you know a microphone inside your remote control . 	
+IS1003c.C.dialog-act.vkaraisk.127	Yeah . 	
+IS1003c.A.dialog-act.vkaraisk.102	Ah . 	
+IS1003c.D.dialog-act.vkaraisk.52	But you would still have the buttons . 	
+IS1003c.D.dialog-act.vkaraisk.53	Or is it 	
+IS1003c.D.dialog-act.vkaraisk.54	do you think it should be only voice recognition and gesture recognition ? 	
+IS1003c.D.dialog-act.vkaraisk.55	Or you you still have the possibility to use buttons ? 	
+IS1003c.C.dialog-act.vkaraisk.128	think it we should give the uh flexibility to the user 	
+IS1003c.D.dialog-act.vkaraisk.56	Okay , 	
+IS1003c.C.dialog-act.vkaraisk.129	and we think 	
+IS1003c.D.dialog-act.vkaraisk.57	so you 	
+IS1003c.C.dialog-act.vkaraisk.130	yeah . 	
+IS1003c.D.dialog-act.vkaraisk.58	yeah . 	
+IS1003c.A.dialog-act.vkaraisk.103	Yeah , 	
+IS1003c.C.dialog-act.vkaraisk.131	You can see they can switch form one modality to another . 	
+IS1003c.A.dialog-act.vkaraisk.104	Mm . 	
+IS1003c.D.dialog-act.vkaraisk.59	Yeah , 	
+IS1003c.D.dialog-act.vkaraisk.60	I dunno . 	
+IS1003c.D.dialog-act.vkaraisk.61	It's a bit risky risky . 	
+IS1003c.B.dialog-act.vkaraisk.60	Yeah . 	
+IS1003c.A.dialog-act.vkaraisk.105	I think so . 	
+IS1003c.C.dialog-act.vkaraisk.132	No , 	
+IS1003c.C.dialog-act.vkaraisk.133	that's quite inter quite attractive . 	
+IS1003c.A.dialog-act.vkaraisk.106	And maybe it will be quite 	
+IS1003c.B.dialog-act.vkaraisk.61	But I think that , you know , switching from one country to to another will be a problem , 	
+IS1003c.B.dialog-act.vkaraisk.62	so although y y 	
+IS1003c.C.dialog-act.vkaraisk.134	Well , 	
+IS1003c.C.dialog-act.vkaraisk.135	if you do language adaptation , there should be no problem . 	
+IS1003c.D.dialog-act.vkaraisk.62	Yeah , 	
+IS1003c.B.dialog-act.vkaraisk.63	Yeah 	
+IS1003c.B.dialog-act.vkaraisk.64	but i i 	
+IS1003c.A.dialog-act.vkaraisk.107	Okay . 	
+IS1003c.D.dialog-act.vkaraisk.63	I dunno . 	
+IS1003c.C.dialog-act.vkaraisk.136	We should have confidence in technology . 	
+IS1003c.B.dialog-act.vkaraisk.65	Yeah , we should . Uh . 	
+IS1003c.A.dialog-act.vkaraisk.108	Hmm . So , 	
+IS1003c.A.dialog-act.vkaraisk.109	what do you think ? 	
+IS1003c.A.dialog-act.vkaraisk.110	We'll try the controllers you'd prefer . 	
+IS1003c.B.dialog-act.vkaraisk.66	Mm . 	
+IS1003c.D.dialog-act.vkaraisk.64	What ? 	
+IS1003c.A.dialog-act.vkaraisk.111	Which kind of controller would you prefer to use , you as a remote control user ? 	
+IS1003c.D.dialog-act.vkaraisk.65	If if 	
+IS1003c.D.dialog-act.vkaraisk.66	I mean , uh 	
+IS1003c.D.dialog-act.vkaraisk.67	I'm sure if the user pays the same price , he's happy to have recognition . 	
+IS1003c.C.dialog-act.vkaraisk.138	More features , 	
+IS1003c.C.dialog-act.vkaraisk.137	yeah . 	
+IS1003c.D.dialog-act.vkaraisk.68	But if if if it like doubles uh 	
+IS1003c.B.dialog-act.vkaraisk.67	Yeah , but 	
+IS1003c.B.dialog-act.vkaraisk.68	I think he need a control that is very reliable , 	
+IS1003c.D.dialog-act.vkaraisk.69	no one would would be interested . 	
+IS1003c.B.dialog-act.vkaraisk.69	so . 	
+IS1003c.A.dialog-act.vkaraisk.112	So 	
+IS1003c.A.dialog-act.vkaraisk.113	I think it would be better not to do any intelligent controller 	
+IS1003c.A.dialog-act.vkaraisk.114	and to stay with the Google controller or a fancy controller . 	
+IS1003c.A.dialog-act.vkaraisk.115	Maybe try to mix the Google controller and the fancy controller ? 	
+IS1003c.A.dialog-act.vkaraisk.116	Hmm ? 	
+IS1003c.C.dialog-act.vkaraisk.139		
+IS1003c.B.dialog-act.vkaraisk.70	Yeah . Yeah . 	
+IS1003c.A.dialog-act.vkaraisk.117	Just want to have something controller which is in a kind of intelligent controller , easy to use , sophisticated and fancy . 	
+IS1003c.C.dialog-act.vkaraisk.140	Yeah 	
+IS1003c.A.dialog-act.vkaraisk.118	You think it's possible ? 	
+IS1003c.C.dialog-act.vkaraisk.141	but if if you stick to um 	
+IS1003c.C.dialog-act.vkaraisk.142	stick to the first two parts . So what's the difference between our controller with other products in the market ? 	
+IS1003c.C.dialog-act.vkaraisk.143	There's no k features of our controller , 	
+IS1003c.C.dialog-act.vkaraisk.144	so is there is there any necessary to design new controller without any breakthrough features ? 	
+IS1003c.D.dialog-act.vkaraisk.70	Yeah . 	
+IS1003c.B.dialog-act.vkaraisk.71	Yeah . 	
+IS1003c.D.dialog-act.vkaraisk.71	No , 	
+IS1003c.D.dialog-act.vkaraisk.72	I mean 	
+IS1003c.C.dialog-act.vkaraisk.145	Would y would you replace your controller with a controller with similar function if you do not have some some function inside it that 	
+IS1003c.B.dialog-act.vkaraisk.72	It's not really the we 	
+IS1003c.D.dialog-act.vkaraisk.73	Y 	
+IS1003c.B.dialog-act.vkaraisk.73	we can add for example some function like for browsing in internet , so or something like that . 	
+IS1003c.B.dialog-act.vkaraisk.74	But uh I think a user need 	
+IS1003c.C.dialog-act.vkaraisk.146	Yeah , 	
+IS1003c.C.dialog-act.vkaraisk.147	you y that's a fun that's not the function of the controller , 	
+IS1003c.C.dialog-act.vkaraisk.148	that's a function of T_V_ . 	
+IS1003c.C.dialog-act.vkaraisk.149	You can replace your T_V_ with a new T_V_ with internet browsing function , 	
+IS1003c.D.dialog-act.vkaraisk.74	No , 	
+IS1003c.D.dialog-act.vkaraisk.75	but you need you need new remote controller then . Because if you wanna browse internet or , I don't know , if you wanna type something , 	
+IS1003c.C.dialog-act.vkaraisk.150	but 	
+IS1003c.B.dialog-act.vkaraisk.75	Don't have a the the 	
+IS1003c.D.dialog-act.vkaraisk.76	or 	
+IS1003c.C.dialog-act.vkaraisk.151	Okay . 	
+IS1003c.B.dialog-act.vkaraisk.76	Yeah 	
+IS1003c.B.dialog-act.vkaraisk.77	if we can send email from it . 	
+IS1003c.C.dialog-act.vkaraisk.152	But it's not the only the problem only the issue of controller , it's it's also the issue of the T_V_ . 	
+IS1003c.D.dialog-act.vkaraisk.77	No . No . 	
+IS1003c.B.dialog-act.vkaraisk.78	Because the p the problem I can see with with the voice or the gesture itself wh what can happen in a family i i for example if 	
+IS1003c.D.dialog-act.vkaraisk.78	Cause for example yeah . 	
+IS1003c.C.dialog-act.vkaraisk.153	Yeah , 	
+IS1003c.C.dialog-act.vkaraisk.154	but we do we do we we 	
+IS1003c.C.dialog-act.vkaraisk.155	we cannot rely one hundred percent on these features to u to use the controller , 	
+IS1003c.D.dialog-act.vkaraisk.79	Yeah . 	
+IS1003c.A.dialog-act.vkaraisk.119	Yeah , 	
+IS1003c.A.dialog-act.vkaraisk.120	but uh we want so 	
+IS1003c.C.dialog-act.vkaraisk.156	but with the features of our controller such as you have the feature of voice recognition in your mobile but you seldom use it , your mobile , 	
+IS1003c.C.dialog-act.vkaraisk.157	but you when you choose a new mobile , you choose the one with voice recognition . 	
+IS1003c.D.dialog-act.vkaraisk.80	Yeah , 	
+IS1003c.D.dialog-act.vkaraisk.81	you wou you would 	
+IS1003c.D.dialog-act.vkaraisk.82	True . 	
+IS1003c.C.dialog-act.vkaraisk.158	That's 	
+IS1003c.C.dialog-act.vkaraisk.159	the feature is not one hundred percent reliable , 	
+IS1003c.C.dialog-act.vkaraisk.160	but it's a feature to distinguish our product from our from other products . 	
+IS1003c.A.dialog-act.vkaraisk.121	Yeah , 	
+IS1003c.A.dialog-act.vkaraisk.122	but w we we want something th that works all the time , every day , every hour , for everyone . 	
+IS1003c.B.dialog-act.vkaraisk.79	Yeah 	
+IS1003c.C.dialog-act.vkaraisk.161	Yeah . 	
+IS1003c.B.dialog-act.vkaraisk.80		
+IS1003c.C.dialog-act.vkaraisk.162	Yeah , uh 	
+IS1003c.B.dialog-act.vkaraisk.81	And for all the person of the family maybe , 	
+IS1003c.C.dialog-act.vkaraisk.163	Yeah , 	
+IS1003c.C.dialog-act.vkaraisk.164	if if if if you're if you ar if you already have a product it works one hundred percent reliable , would you replace it with another one ? 	
+IS1003c.A.dialog-act.vkaraisk.123	You don't need to tune it . 	
+IS1003c.B.dialog-act.vkaraisk.82	so , 	
+IS1003c.B.dialog-act.vkaraisk.83	yeah . 	
+IS1003c.A.dialog-act.vkaraisk.124	Yeah , why not ? 	
+IS1003c.D.dialog-act.vkaraisk.83	I mean , for example the goo y 	
+IS1003c.A.dialog-act.vkaraisk.125	If it's 	
+IS1003c.B.dialog-act.vkaraisk.84	Because you have new 	
+IS1003c.D.dialog-act.vkaraisk.84	you say we would we would to have a Google-like controller . 	
+IS1003c.C.dialog-act.vkaraisk.165	Yeah . Yeah . 	
+IS1003c.D.dialog-act.vkaraisk.85	I don't see how adding speech or gesture recognition would make the remote control look more like Google . 	
+IS1003c.D.dialog-act.vkaraisk.86	Google is is simple , 	
+IS1003c.D.dialog-act.vkaraisk.87	works fine , 	
+IS1003c.C.dialog-act.vkaraisk.166	Yeah . 	
+IS1003c.D.dialog-act.vkaraisk.88	so I I guess if can have a remote control that is really basic , simple and works fine , it's already a lot . 	
+IS1003c.C.dialog-act.vkaraisk.167	Yeah . 	
+IS1003c.C.dialog-act.vkaraisk.168	Oh yes , 	
+IS1003c.C.dialog-act.vkaraisk.169	but there's no big difference between the traditional controller . 	
+IS1003c.D.dialog-act.vkaraisk.89	Uh thi this 	
+IS1003c.D.dialog-act.vkaraisk.90	I mean , 	
+IS1003c.D.dialog-act.vkaraisk.91	the user is not only interested in having speech or gesture recognition 	
+IS1003c.D.dialog-act.vkaraisk.92	or 	
+IS1003c.C.dialog-act.vkaraisk.170	The then nn 	
+IS1003c.D.dialog-act.vkaraisk.93	if he has something that works fine and is really fancy , looks nice and it's easy easy to use , easy to use . 	
+IS1003c.C.dialog-act.vkaraisk.171	no . 	
+IS1003c.C.dialog-act.vkaraisk.172	Tha 	
+IS1003c.A.dialog-act.vkaraisk.126	Not too expensive too . 	
+IS1003c.C.dialog-act.vkaraisk.173	But the there's there's n there's n not enough motivation for them to replace their old controller with a new one if there's no key feature in the new controller . 	
+IS1003c.D.dialog-act.vkaraisk.94	See 	
+IS1003c.D.dialog-act.vkaraisk.96	That's the problem , 	
+IS1003c.C.dialog-act.vkaraisk.174	That's the same 	
+IS1003c.C.dialog-act.vkaraisk.175	yeah . 	
+IS1003c.D.dialog-act.vkaraisk.95	yeah . 	
+IS1003c.D.dialog-act.vkaraisk.98	I mean , I I know it's more interesting to develop a remote controller with speech and gesture and whatever . 	
+IS1003c.C.dialog-act.vkaraisk.176	Yeah . 	
+IS1003c.B.dialog-act.vkaraisk.85	Ye 	
+IS1003c.D.dialog-act.vkaraisk.99	But you have to think , the user is the one who gonna buy the product 	
+IS1003c.D.dialog-act.vkaraisk.100	and so . 	
+IS1003c.C.dialog-act.vkaraisk.177	Yeah . 	
+IS1003c.A.dialog-act.vkaraisk.127	Okay . So 	
+IS1003c.D.dialog-act.vkaraisk.101	I mean , that's the point . 	
+IS1003c.A.dialog-act.vkaraisk.128	let's go to the Industrial Designer . 	
+IS1003c.C.dialog-act.vkaraisk.180		
+IS1003c.C.dialog-act.vkaraisk.178	Okay . 	
+IS1003c.B.dialog-act.vkaraisk.86	Okay . 	
+IS1003c.A.dialog-act.vkaraisk.129	Maybe we'll be able to take a decision after that , 	
+IS1003c.B.dialog-act.vkaraisk.87	Okay . 	
+IS1003c.C.dialog-act.vkaraisk.179	Yeah . 	
+IS1003c.A.dialog-act.vkaraisk.130	so . 	
+IS1003c.A.dialog-act.vkaraisk.131	Two ? 	
+IS1003c.B.dialog-act.vkaraisk.88	Yeah , participant two um 	
+IS1003c.A.dialog-act.vkaraisk.132	Working ? 	
+IS1003c.C.dialog-act.vkaraisk.181		
+IS1003c.B.dialog-act.vkaraisk.89	Yeah , working design , 	
+IS1003c.B.dialog-act.vkaraisk.90	so . 	
+IS1003c.D.dialog-act.vkaraisk.102		
+IS1003c.B.dialog-act.vkaraisk.91	So 	
+IS1003c.B.dialog-act.vkaraisk.92	I think 	
+IS1003c.A.dialog-act.vkaraisk.133	I can 	
+IS1003c.B.dialog-act.vkaraisk.93	Can you go to the next one ? 	
+IS1003c.B.dialog-act.vkaraisk.94	I uh 	
+IS1003c.B.dialog-act.vkaraisk.95	it's not this one . 	
+IS1003c.B.dialog-act.vkaraisk.96	It's uh oth the oth so I 	
+IS1003c.A.dialog-act.vkaraisk.134	Okay . 	
+IS1003c.D.dialog-act.vkaraisk.103		
+IS1003c.B.dialog-act.vkaraisk.97	It's the working design . 	
+IS1003c.B.dialog-act.vkaraisk.98	Sorry . 	
+IS1003c.B.dialog-act.vkaraisk.99	Component design . 	
+IS1003c.A.dialog-act.vkaraisk.135	It's okay 	
+IS1003c.B.dialog-act.vkaraisk.100	So this yeah so this is the described use 	
+IS1003c.B.dialog-act.vkaraisk.101	What ? 	
+IS1003c.A.dialog-act.vkaraisk.136		
+IS1003c.B.dialog-act.vkaraisk.102	Are you inst 	
+IS1003c.A.dialog-act.vkaraisk.137	Uh I think there's something wrong with your 	
+IS1003c.C.dialog-act.vkaraisk.182	It did didn't r receive it . Didn't receive it . 	
+IS1003c.A.dialog-act.vkaraisk.138	Maybe you you record it somewhere else . 	
+IS1003c.B.dialog-act.vkaraisk.103	I don't think so . 	
+IS1003c.C.dialog-act.vkaraisk.183	Participant one . Participant one . 	
+IS1003c.A.dialog-act.vkaraisk.139	Interface concept . 	
+IS1003c.A.dialog-act.vkaraisk.140	No . 	
+IS1003c.D.dialog-act.vkaraisk.104	Hmm . 	
+IS1003c.A.dialog-act.vkaraisk.141	Mm mm . 	
+IS1003c.B.dialog-act.vkaraisk.104	Oh . 	
+IS1003c.B.dialog-act.vkaraisk.105	Maybe I record recorded directly on the Computer . 	
+IS1003c.D.dialog-act.vkaraisk.105	Yeah . 	
+IS1003c.A.dialog-act.vkaraisk.142	Uh . 	
+IS1003c.D.dialog-act.vkaraisk.106	Dunno . 	
+IS1003c.A.dialog-act.vkaraisk.143	Nope . 	
+IS1003c.B.dialog-act.vkaraisk.106	Okay , okay . Yes . 	
+IS1003c.A.dialog-act.vkaraisk.144	It seems that we have a problem with the 	
+IS1003c.D.dialog-act.vkaraisk.107	I dunno if you remember what you had to say 	
+IS1003c.D.dialog-act.vkaraisk.108	or 	
+IS1003c.B.dialog-act.vkaraisk.107	I can say it to you without . 	
+IS1003c.A.dialog-act.vkaraisk.145	Yeah , 	
+IS1003c.A.dialog-act.vkaraisk.146	so 	
+IS1003c.C.dialog-act.vkaraisk.184	Yeah , 	
+IS1003c.C.dialog-act.vkaraisk.185	maybe we can first come to 	
+IS1003c.A.dialog-act.vkaraisk.147	No , 	
+IS1003c.A.dialog-act.vkaraisk.148	I think it will be more interesting to start with uh 	
+IS1003c.C.dialog-act.vkaraisk.186	uh to Frahan . With Frahan , 	
+IS1003c.D.dialog-act.vkaraisk.109	I think it's more interesting what he says , 	
+IS1003c.C.dialog-act.vkaraisk.187	then you can prepare your slides , 	
+IS1003c.D.dialog-act.vkaraisk.110	okay . 	
+IS1003c.C.dialog-act.vkaraisk.188	then present it later . 	
+IS1003c.A.dialog-act.vkaraisk.149	Yeah . 	
+IS1003c.B.dialog-act.vkaraisk.108	Yeah , 	
+IS1003c.B.dialog-act.vkaraisk.109	exac 	
+IS1003c.D.dialog-act.vkaraisk.111		
+IS1003c.A.dialog-act.vkaraisk.150	You will had s some more information in 	
+IS1003c.B.dialog-act.vkaraisk.110	Okay . 	
+IS1003c.A.dialog-act.vkaraisk.151	I think it will be interesting after your presentation to have um Baba's presentation . 	
+IS1003c.B.dialog-act.vkaraisk.111	Yeah . 	
+IS1003c.D.dialog-act.vkaraisk.112	Yeah , true . 	
+IS1003c.B.dialog-act.vkaraisk.112	Yeah . 	
+IS1003c.C.dialog-act.vkaraisk.189	Okay . 	
+IS1003c.B.dialog-act.vkaraisk.113	In fact , I don't know , 	
+IS1003c.A.dialog-act.vkaraisk.152	So . 	
+IS1003c.B.dialog-act.vkaraisk.114	I s 	
+IS1003c.A.dialog-act.vkaraisk.153	Okay . 	
+IS1003c.B.dialog-act.vkaraisk.115	because i in my presentation I don't have here with 	
+IS1003c.C.dialog-act.vkaraisk.190		
+IS1003c.B.dialog-act.vkaraisk.116	so 	
+IS1003c.A.dialog-act.vkaraisk.154	Okay , never mind . 	
+IS1003c.B.dialog-act.vkaraisk.117	It was in fact the design use to show you the design of what is inside a what is inside and what are the different component of the r 	
+IS1003c.C.dialog-act.vkaraisk.191	Okay . 	
+IS1003c.D.dialog-act.vkaraisk.113		
+IS1003c.B.dialog-act.vkaraisk.118	of the remote control . 	
+IS1003c.C.dialog-act.vkaraisk.192	Okay . 	
+IS1003c.B.dialog-act.vkaraisk.119	So it will be interesting so I could show you some some picture of what is inside 	
+IS1003c.C.dialog-act.vkaraisk.193	Okay . 	
+IS1003c.B.dialog-act.vkaraisk.120	and so . 	
+IS1003c.B.dialog-act.vkaraisk.121	So 	
+IS1003c.B.dialog-act.vkaraisk.122	I in fact the the f 	
+IS1003c.B.dialog-act.vkaraisk.123	something I want to discuss is which kind of material are we going to use , 	
+IS1003c.B.dialog-act.vkaraisk.124	so 	
+IS1003c.A.dialog-act.vkaraisk.155	Mm-hmm . 	
+IS1003c.B.dialog-act.vkaraisk.125	will it will be wooden wooden di wooden remote control 	
+IS1003c.B.dialog-act.vkaraisk.137	or a a plastic remote control like this one . 	
+IS1003c.B.dialog-act.vkaraisk.126	So and 	
+IS1003c.B.dialog-act.vkaraisk.127	in which which which kind will be the the different bu button , 	
+IS1003c.A.dialog-act.vkaraisk.156	Mm-hmm . 	
+IS1003c.B.dialog-act.vkaraisk.128	so 	
+IS1003c.B.dialog-act.vkaraisk.129	it can be some , you know , classic pushbutton like this one , 	
+IS1003c.B.dialog-act.vkaraisk.130	or you have also some button like L_C_D_ 	
+IS1003c.B.dialog-act.vkaraisk.131	where you know , the button the buttons are unlighted during the night , 	
+IS1003c.C.dialog-act.vkaraisk.194	Mm-hmm . 	
+IS1003c.A.dialog-act.vkaraisk.157	Mm-hmm . 	
+IS1003c.B.dialog-act.vkaraisk.132	or , you know , you can see them in the darkness . 	
+IS1003c.A.dialog-act.vkaraisk.158	Okay . 	
+IS1003c.C.dialog-act.vkaraisk.195	Okay . 	
+IS1003c.B.dialog-act.vkaraisk.133	And 	
+IS1003c.B.dialog-act.vkaraisk.134	the other thing I want to discuss also is which kind of alimentation , electric alimentation do you want to have , 	
+IS1003c.B.dialog-act.vkaraisk.135	so will it be for example uh d uh solar energy alimentation 	
+IS1003c.C.dialog-act.vkaraisk.196	Uh-huh . 	
+IS1003c.B.dialog-act.vkaraisk.141	or will it be a battery like the classical battery 	
+IS1003c.B.dialog-act.vkaraisk.140	so . 	
+IS1003c.B.dialog-act.vkaraisk.150	And I think that for example for the alimentation it would be good to have 	
+IS1003c.B.dialog-act.vkaraisk.151	uh both of them , 	
+IS1003c.B.dialog-act.vkaraisk.142	so so 	
+IS1003c.B.dialog-act.vkaraisk.143	for example in some country where you are in the the countryside and you are far from , you know , the cities uh for example in some place in in S Senegal , so if you have electric if you have solar alimentation , you just , when you want to have recharger or remote control power you just put it on the sun and after one hour you can come 	
+IS1003c.C.dialog-act.vkaraisk.197	Mm-hmm . 	
+IS1003c.C.dialog-act.vkaraisk.198	Mm-hmm . 	
+IS1003c.B.dialog-act.vkaraisk.144	and so it can be interesting for people to have this kind of remote con It can be something interesting to make people buy it , for example . 	
+IS1003c.A.dialog-act.vkaraisk.159	Yeah , I think it's an added value to the remote control 	
+IS1003c.B.dialog-act.vkaraisk.145	Yeah . 	
+IS1003c.B.dialog-act.vkaraisk.146	Yeah , yeah mm . 	
+IS1003c.A.dialog-act.vkaraisk.160	and maybe it can attract all the ecological k yeah consumers 	
+IS1003c.B.dialog-act.vkaraisk.147	Ecologists , 	
+IS1003c.B.dialog-act.vkaraisk.148	yeah , yeah , yeah , yeah , yeah . 	
+IS1003c.D.dialog-act.vkaraisk.114	Yeah . 	
+IS1003c.D.dialog-act.vkaraisk.115	Yeah . 	
+IS1003c.A.dialog-act.vkaraisk.161	and 	
+IS1003c.A.dialog-act.vkaraisk.162	but about the the price of adding this solar battery , would it be something really that will increase the price of production more , 	
+IS1003c.B.dialog-act.vkaraisk.149		
+IS1003c.A.dialog-act.vkaraisk.163	no ? 	
+IS1003c.B.dialog-act.vkaraisk.152	Alrigh 	
+IS1003c.B.dialog-act.vkaraisk.153	In fact , having them both will 	
+IS1003c.B.dialog-act.vkaraisk.154	if we want to have battery , regular battery and and the solar energy battery it could be it'll it will add a little bit of the price , 	
+IS1003c.A.dialog-act.vkaraisk.164	So . 	
+IS1003c.B.dialog-act.vkaraisk.155	but it will be an added value also 	
+IS1003c.B.dialog-act.vkaraisk.156	that will be compensated , 	
+IS1003c.D.dialog-act.vkaraisk.116	Yeah . 	
+IS1003c.A.dialog-act.vkaraisk.165	Okay . 	
+IS1003c.B.dialog-act.vkaraisk.157	so hmm . 	
+IS1003c.A.dialog-act.vkaraisk.166	And what tha what about the uh materials ? 	
+IS1003c.B.dialog-act.vkaraisk.158	And the materials , 	
+IS1003c.B.dialog-act.vkaraisk.159	it depends 	
+IS1003c.B.dialog-act.vkaraisk.160	for example you if you have a wooden material it can be more 	
+IS1003c.B.dialog-act.vkaraisk.161	the plastic material is more common 	
+IS1003c.B.dialog-act.vkaraisk.162	it's very resistant 	
+IS1003c.A.dialog-act.vkaraisk.167	Impersonal , mm-hmm . 	
+IS1003c.B.dialog-act.vkaraisk.163	but , you know , something wooden will be like , I don't know high cl so a special high class , 	
+IS1003c.A.dialog-act.vkaraisk.168	Yeah . 	
+IS1003c.D.dialog-act.vkaraisk.117	Special for 	
+IS1003c.B.dialog-act.vkaraisk.164	or you know , you can have some 	
+IS1003c.D.dialog-act.vkaraisk.118	Mm-hmm . 	
+IS1003c.A.dialog-act.vkaraisk.169	Yeah , 	
+IS1003c.A.dialog-act.vkaraisk.170	and i if you we want to put fashion in electronics maybe we can try to do something with wood . 	
+IS1003c.C.dialog-act.vkaraisk.199	Mm-hmm . 	
+IS1003c.B.dialog-act.vkaraisk.165	Yeah , even if it is not completely wood , but just a part of the , you know , will be wooden , in wood 	
+IS1003c.D.dialog-act.vkaraisk.119	Yeah . 	
+IS1003c.A.dialog-act.vkaraisk.171	Mm-hmm . 	
+IS1003c.A.dialog-act.vkaraisk.172	Mm . 	
+IS1003c.B.dialog-act.vkaraisk.166	and it can be interesting . 	
+IS1003c.A.dialog-act.vkaraisk.173	Mm okay , 	
+IS1003c.A.dialog-act.vkaraisk.174	seems to be interesting , mm . 	
+IS1003c.B.dialog-act.vkaraisk.167	And so 	
+IS1003c.B.dialog-act.vkaraisk.168	the last point is y also would do you want to have some very cheap integrated cir circuits , chips , or do you have low level or or very very expensive , 	
+IS1003c.B.dialog-act.vkaraisk.169	it depends , 	
+IS1003c.B.dialog-act.vkaraisk.170	but I think that low level will be , you know , it is an interim module . 	
+IS1003c.A.dialog-act.vkaraisk.175	Yeah , 	
+IS1003c.A.dialog-act.vkaraisk.176	we want something easy to use 	
+IS1003c.A.dialog-act.vkaraisk.177	and so I think maybe something very low level wou would be enough . 	
+IS1003c.B.dialog-act.vkaraisk.171	Yeah . 	
+IS1003c.B.dialog-act.vkaraisk.172	Yeah . Yeah , yeah . 	
+IS1003c.A.dialog-act.vkaraisk.178	And you think that we will be 	
+IS1003c.B.dialog-act.vkaraisk.173	Yeah , 	
+IS1003c.B.dialog-act.vkaraisk.174	I think it will fit on the price we want , twel twelve Euros , 	
+IS1003c.A.dialog-act.vkaraisk.179	Okay . 	
+IS1003c.B.dialog-act.vkaraisk.175	so . 	
+IS1003c.A.dialog-act.vkaraisk.180	So 	
+IS1003c.B.dialog-act.vkaraisk.176		
+IS1003c.A.dialog-act.vkaraisk.181	wood . 	
+IS1003c.A.dialog-act.vkaraisk.182	And what about the buttons ? 	
+IS1003c.B.dialog-act.vkaraisk.177	I think the buttons I pr I prefer , you know , the L_C_D_ you know lighted buttons 	
+IS1003c.B.dialog-act.vkaraisk.179	because , you know , it's I don't know um yeah , in the dark , it's fashion 	
+IS1003c.A.dialog-act.vkaraisk.183	No 	
+IS1003c.A.dialog-act.vkaraisk.184	it's fashion , yeah . 	
+IS1003c.B.dialog-act.vkaraisk.180	and it's related to how beautiful it is 	
+IS1003c.B.dialog-act.vkaraisk.181	or uh if you want to watch T_V_ in the darkness 	
+IS1003c.B.dialog-act.vkaraisk.183	or if you want to lo find your find your your remote control that is lost , you know in the darkness 	
+IS1003c.B.dialog-act.vkaraisk.184	it's very easy so , right . 	
+IS1003c.D.dialog-act.vkaraisk.120	What about the touch scr touch screen ? For example . 	
+IS1003c.D.dialog-act.vkaraisk.121	It's it's expensive I I guess . 	
+IS1003c.B.dialog-act.vkaraisk.185	I think a touch screen will be t as expensive as the L_C_D_ buttons so . 	
+IS1003c.D.dialog-act.vkaraisk.122	Mm . 	
+IS1003c.B.dialog-act.vkaraisk.187	But And it is a kind of other design , I mean . 	
+IS1003c.B.dialog-act.vkaraisk.188	It can also be interesting to have this kind of 	
+IS1003c.D.dialog-act.vkaraisk.123	Yeah . 	
+IS1003c.B.dialog-act.vkaraisk.186		
+IS1003c.C.dialog-act.vkaraisk.200	So 	
+IS1003c.C.dialog-act.vkaraisk.201	you got email ? 	
+IS1003c.A.dialog-act.vkaraisk.186	I dunno . 	
+IS1003c.A.dialog-act.vkaraisk.187	I think we have only uh five minutes left . 	
+IS1003c.D.dialog-act.vkaraisk.124	Okay . 	
+IS1003c.A.dialog-act.vkaraisk.188	Participant four ? 	
+IS1003c.A.dialog-act.vkaraisk.189	Functional requirements ? 	
+IS1003c.D.dialog-act.vkaraisk.125	Uh no , 	
+IS1003c.D.dialog-act.vkaraisk.126	trend watching . 	
+IS1003c.D.dialog-act.vkaraisk.127	The other one . 	
+IS1003c.A.dialog-act.vkaraisk.190	This one ? 	
+IS1003c.D.dialog-act.vkaraisk.128	Yeah . Uh , I think so , 	
+IS1003c.D.dialog-act.vkaraisk.129	just 	
+IS1003c.D.dialog-act.vkaraisk.130	Yeah , so 	
+IS1003c.D.dialog-act.vkaraisk.131	just to meet the user requirements I would just do a s short anal analysis of the remote control market 	
+IS1003c.D.dialog-act.vkaraisk.132	and to kind of um have a better overview of what's the fashion in general I've checked more than only the remote control market , 	
+IS1003c.D.dialog-act.vkaraisk.133	so 	
+IS1003c.D.dialog-act.vkaraisk.134	next . 	
+IS1003c.A.dialog-act.vkaraisk.191		
+IS1003c.D.dialog-act.vkaraisk.135	So 	
+IS1003c.D.dialog-act.vkaraisk.136	again , it's pretty much similar to what I've said in the previous meeting . 	
+IS1003c.D.dialog-act.vkaraisk.137	Um user really really want a fancy look and feel . 	
+IS1003c.D.dialog-act.vkaraisk.138	They're not so so interested in uh functional look and feel , 	
+IS1003c.D.dialog-act.vkaraisk.139	okay . 	
+IS1003c.D.dialog-act.vkaraisk.140	Like the one you've shown , David , with all the buttons and I mean i i it sounds good technically 	
+IS1003c.C.dialog-act.vkaraisk.202	Mm . 	
+IS1003c.B.dialog-act.vkaraisk.189	Mm . 	
+IS1003c.D.dialog-act.vkaraisk.141	but it's it's not what they want 	
+IS1003c.D.dialog-act.vkaraisk.142	and uh 	
+IS1003c.D.dialog-act.vkaraisk.143	So , 	
+IS1003c.D.dialog-act.vkaraisk.144	second point is they still want it it to be technologically innovative , 	
+IS1003c.D.dialog-act.vkaraisk.145	so maybe it's sort of related to what you've said with the speech recognition and so on . 	
+IS1003c.A.dialog-act.vkaraisk.192	Okay . 	
+IS1003c.D.dialog-act.vkaraisk.146	At the same time , it's important that it's easy to use . 	
+IS1003c.D.dialog-act.vkaraisk.147	So 	
+IS1003c.D.dialog-act.vkaraisk.148	that were the three first points from the remote control uh analysis . 	
+IS1003c.B.dialog-act.vkaraisk.190		
+IS1003c.D.dialog-act.vkaraisk.149	Now i if we look at fashion in general um 	
+IS1003c.D.dialog-act.vkaraisk.150	Okay . 	
+IS1003c.D.dialog-act.vkaraisk.151	Wha what we really see this year is that uh everything from clothes to shoes and furniture is is inspired by fruits and vegetables , 	
+IS1003c.D.dialog-act.vkaraisk.152	okay , 	
+IS1003c.B.dialog-act.vkaraisk.191	Ah yes . 	
+IS1003c.D.dialog-act.vkaraisk.153	so I think we really have to take this into account for the design of the the thing . 	
+IS1003c.B.dialog-act.vkaraisk.192	Yeah , yeah . Okay , yeah . 	
+IS1003c.D.dialog-act.vkaraisk.154	'Cause it's it's really what people want . 	
+IS1003c.D.dialog-act.vkaraisk.155	Even if it's in general fashion , we want it to be in the remote control . 	
+IS1003c.D.dialog-act.vkaraisk.156	And then uh if if we take the ordering or the ranking of all the points , fancy look and feel has , on a score of seven would have six as importance . 	
+IS1003c.D.dialog-act.vkaraisk.157	Uh the remote control has to be technologically innovative , it's three . 	
+IS1003c.D.dialog-act.vkaraisk.158	Then easy to use uh it's not so important actually with respect to other y other ones . 	
+IS1003c.B.dialog-act.vkaraisk.193	Okay . 	
+IS1003c.D.dialog-act.vkaraisk.159	So we see fancy look an look and feel is the most important one , 	
+IS1003c.D.dialog-act.vkaraisk.160	and then if we combine this with the fashion uh from Milan and Paris 	
+IS1003c.B.dialog-act.vkaraisk.194	And fruit and vegetables 	
+IS1003c.B.dialog-act.vkaraisk.195	yeah . 	
+IS1003c.D.dialog-act.vkaraisk.161	we go to the fruits and vede vegetables . 	
+IS1003c.D.dialog-act.vkaraisk.162	And the other point I haven't mention is people wan want to have a spongy touch , 	
+IS1003c.B.dialog-act.vkaraisk.196	Spongy 'Kay . 	
+IS1003c.D.dialog-act.vkaraisk.163	okay so 	
+IS1003c.D.dialog-act.vkaraisk.164	this is this maybe doesn't really fit with the wooden design . 	
+IS1003c.B.dialog-act.vkaraisk.197	Okay , yeah , yeah . 	
+IS1003c.D.dialog-act.vkaraisk.165	I dunno . 	
+IS1003c.B.dialog-act.vkaraisk.198	Yeah , 	
+IS1003c.B.dialog-act.vkaraisk.199	but the problem is which kind of material do you need to to be spongy ? 	
+IS1003c.D.dialog-act.vkaraisk.166	Yeah 	
+IS1003c.D.dialog-act.vkaraisk.167	thi this is this would be like um 	
+IS1003c.B.dialog-act.vkaraisk.200	Pla 	
+IS1003c.D.dialog-act.vkaraisk.168	plastic-like , but rubber , mayb maybe , you know , rubber-like uh 	
+IS1003c.B.dialog-act.vkaraisk.201	S 	
+IS1003c.B.dialog-act.vkaraisk.203	Very stuff 	
+IS1003c.B.dialog-act.vkaraisk.204	Okay , rubber rubber desi okay , yeah . Yeah . 	
+IS1003c.D.dialog-act.vkaraisk.169	device , 	
+IS1003c.D.dialog-act.vkaraisk.170	so um 	
+IS1003c.B.dialog-act.vkaraisk.205	Yeah . 	
+IS1003c.D.dialog-act.vkaraisk.171	Okay , 	
+IS1003c.D.dialog-act.vkaraisk.172	tha tha that was the main point , I think , from the trend in fashion . 	
+IS1003c.B.dialog-act.vkaraisk.206	Okay . 	
+IS1003c.A.dialog-act.vkaraisk.193	So 	
+IS1003c.A.dialog-act.vkaraisk.194	we have to take decisions about the component concepts , about the energy . 	
+IS1003c.A.dialog-act.vkaraisk.195	So , 	
+IS1003c.A.dialog-act.vkaraisk.196	as you say you want something technologically innovative , 	
+IS1003c.B.dialog-act.vkaraisk.207	Yeah . 	
+IS1003c.A.dialog-act.vkaraisk.197	maybe using solar energy and with battery would be something interesting , 	
+IS1003c.B.dialog-act.vkaraisk.208	Solar . 	
+IS1003c.D.dialog-act.vkaraisk.173	Yeah , so when I think it's 	
+IS1003c.B.dialog-act.vkaraisk.209	Okay . 	
+IS1003c.A.dialog-act.vkaraisk.198	maybe will attract 	
+IS1003c.D.dialog-act.vkaraisk.174	Mm-hmm 	
+IS1003c.B.dialog-act.vkaraisk.210	Yeah . 	
+IS1003c.B.dialog-act.vkaraisk.211	It will be a 	
+IS1003c.A.dialog-act.vkaraisk.199	pro-ecology consumers . 	
+IS1003c.B.dialog-act.vkaraisk.212	Yeah . 	
+IS1003c.A.dialog-act.vkaraisk.200	Uh cheap imprint so you s you propose low level chips would be uh enough to have something working well . 	
+IS1003c.B.dialog-act.vkaraisk.213	Yeah , 	
+IS1003c.B.dialog-act.vkaraisk.214	I think 	
+IS1003c.B.dialog-act.vkaraisk.215	Yeah , yeah . Yeah . 	
+IS1003c.A.dialog-act.vkaraisk.201	Case . 	
+IS1003c.C.dialog-act.vkaraisk.203	Later ? 	
+IS1003c.A.dialog-act.vkaraisk.202	So you think case . 	
+IS1003c.A.dialog-act.vkaraisk.203	Something spongy . 	
+IS1003c.B.dialog-act.vkaraisk.216		
+IS1003c.C.dialog-act.vkaraisk.204		
+IS1003c.D.dialog-act.vkaraisk.175		
+IS1003c.A.dialog-act.vkaraisk.204	Someth no wood . 	
+IS1003c.B.dialog-act.vkaraisk.217	No wood 	
+IS1003c.B.dialog-act.vkaraisk.218	but Plastic ? 	
+IS1003c.D.dialog-act.vkaraisk.176	Maybe not no wood , 	
+IS1003c.D.dialog-act.vkaraisk.177	but I mean ma maybe not the part you touching you know . 	
+IS1003c.B.dialog-act.vkaraisk.219	Would some 	
+IS1003c.C.dialog-act.vkaraisk.205	Pla 	
+IS1003c.A.dialog-act.vkaraisk.205	Maybe you 	
+IS1003c.B.dialog-act.vkaraisk.220	I think we can have wood for example in the bottom and , you know . 	
+IS1003c.D.dialog-act.vkaraisk.178	Yeah , maybe the base . 	
+IS1003c.B.dialog-act.vkaraisk.221	It depends on the design we want , 	
+IS1003c.B.dialog-act.vkaraisk.222	so . 	
+IS1003c.A.dialog-act.vkaraisk.206	It's it's natural . 	
+IS1003c.D.dialog-act.vkaraisk.179	But still y 	
+IS1003c.B.dialog-act.vkaraisk.223	Yeah , it's natural 	
+IS1003c.D.dialog-act.vkaraisk.180	Yeah . 	
+IS1003c.A.dialog-act.vkaraisk.207	Th The feeling is natural , 	
+IS1003c.B.dialog-act.vkaraisk.224	and i 	
+IS1003c.A.dialog-act.vkaraisk.208	so maybe we can stay with wood . 	
+IS1003c.B.dialog-act.vkaraisk.225	And it can be correlated to energy , solar energy , so for the marketing aspect , 	
+IS1003c.B.dialog-act.vkaraisk.226	you know , 	
+IS1003c.B.dialog-act.vkaraisk.227	saying that it's ecol 	
+IS1003c.D.dialog-act.vkaraisk.181	Yeah , 	
+IS1003c.D.dialog-act.vkaraisk.182	I mean it's not exactly right for the spongy point of view . 	
+IS1003c.B.dialog-act.vkaraisk.228	Mm , yeah , it's not right , 	
+IS1003c.B.dialog-act.vkaraisk.229	so . 	
+IS1003c.A.dialog-act.vkaraisk.209	But it's still fashion . 	
+IS1003c.D.dialog-act.vkaraisk.183	But we could maybe have both like part of wood and some rubber for the buttons , 	
+IS1003c.D.dialog-act.vkaraisk.184	or 	
+IS1003c.B.dialog-act.vkaraisk.230	Okay . 	
+IS1003c.D.dialog-act.vkaraisk.185	I dunno . 	
+IS1003c.A.dialog-act.vkaraisk.210	Yeah , 	
+IS1003c.A.dialog-act.vkaraisk.211	something that you can into it . 	
+IS1003c.D.dialog-act.vkaraisk.186	Yeah . 	
+IS1003c.A.dialog-act.vkaraisk.212	Uh and what about the user interface concept ? 	
+IS1003c.B.dialog-act.vkaraisk.231	Google and 	
+IS1003c.A.dialog-act.vkaraisk.213	Google and fancy ? 	
+IS1003c.B.dialog-act.vkaraisk.232	and fancy , 	
+IS1003c.B.dialog-act.vkaraisk.233	f 	
+IS1003c.B.dialog-act.vkaraisk.234	how about the the voice ? 	
+IS1003c.A.dialog-act.vkaraisk.214	Because I think that with the voice and gesture recognition there are still some disadvantages with this . 	
+IS1003c.B.dialog-act.vkaraisk.235	And 	
+IS1003c.C.dialog-act.vkaraisk.206	Uh yes . 	
+IS1003c.B.dialog-act.vkaraisk.237	Uh maybe we can do some marketing studies asking people if they're interested 	
+IS1003c.B.dialog-act.vkaraisk.238	and how 	
+IS1003c.B.dialog-act.vkaraisk.239	It It is an an interesting concept to see to have uh voice control . 	
+IS1003c.D.dialog-act.vkaraisk.187	Yeah . 	
+IS1003c.C.dialog-act.vkaraisk.207	Yeah . 	
+IS1003c.C.dialog-act.vkaraisk.208	Yeah . 	
+IS1003c.C.dialog-act.vkaraisk.209	The smart controller . 	
+IS1003c.B.dialog-act.vkaraisk.240	Mm . Yeah . 	
+IS1003c.B.dialog-act.vkaraisk.241	But and 	
+IS1003c.B.dialog-act.vkaraisk.242	the problem is I I'm we can infer i if you have v voice control why not to put it directly on the the T_V_ , so speak directly to the T_V_ and you don't need a remote control actually , 	
+IS1003c.B.dialog-act.vkaraisk.243	so . 	
+IS1003c.A.dialog-act.vkaraisk.215	Yeah , 	
+IS1003c.A.dialog-act.vkaraisk.216	but you need a receiver to recognize the gestures and the voice . 	
+IS1003c.B.dialog-act.vkaraisk.244	But it will be embedded on the T_V_ and not on the remote control , 	
+IS1003c.B.dialog-act.vkaraisk.245	so . 	
+IS1003c.A.dialog-act.vkaraisk.217	That's true . 	
+IS1003c.D.dialog-act.vkaraisk.188	Yeah 	
+IS1003c.D.dialog-act.vkaraisk.189	d 	
+IS1003c.C.dialog-act.vkaraisk.210	Okay . 	
+IS1003c.D.dialog-act.vkaraisk.190	I dunno . 	
+IS1003c.A.dialog-act.vkaraisk.218	So maybe we'll just focus on the Google controller plus the fancy controller , 	
+IS1003c.C.dialog-act.vkaraisk.211	Mm . 	
+IS1003c.A.dialog-act.vkaraisk.219	maybe try to mix them these two concepts together , just in one and do a remote control with solar energy and batteries and with lev low level chips and wood . 	
+IS1003c.C.dialog-act.vkaraisk.212	Yeah . 	
+IS1003c.C.dialog-act.vkaraisk.213	It's good . 	
+IS1003c.A.dialog-act.vkaraisk.220	And L_C_D_ buttons . 	
+IS1003c.B.dialog-act.vkaraisk.246	Yeah , L_C_D_ . 	
+IS1003c.A.dialog-act.vkaraisk.221	Yeah , 	
+IS1003c.A.dialog-act.vkaraisk.222	I think for these supplements the solar energy would be something quite interesting and not maybe too difficult to add . 	
+IS1003c.B.dialog-act.vkaraisk.247	Yeah , yeah , yeah . 	
+IS1003c.B.dialog-act.vkaraisk.248	And pf what can we think a supplement to 	
+IS1003c.D.dialog-act.vkaraisk.191	What interface ? 	
+IS1003c.A.dialog-act.vkaraisk.223	Yeah , 	
+IS1003c.A.dialog-act.vkaraisk.224	for the interface something added value . 	
+IS1003c.B.dialog-act.vkaraisk.249	I think the supplement can be the voice . 	
+IS1003c.B.dialog-act.vkaraisk.250	It is just , you know , it is not the most important , but it can be a part of 	
+IS1003c.A.dialog-act.vkaraisk.225	With a module ? You mean the remote control with a mur module if you want you can just use 	
+IS1003c.B.dialog-act.vkaraisk.251	Yeah , yeah . 	
+IS1003c.A.dialog-act.vkaraisk.226	commands , words and use them when you don't want to use your fingers . 	
+IS1003c.B.dialog-act.vkaraisk.252	Yeah . Mm . 	
+IS1003c.C.dialog-act.vkaraisk.214	Mm-hmm . 	
+IS1003c.B.dialog-act.vkaraisk.253	To push button , 	
+IS1003c.B.dialog-act.vkaraisk.254	yeah , yeah . 	
+IS1003c.B.dialog-act.vkaraisk.255	Even it is for s just some kids , you know , switching channels one two three four . 	
+IS1003c.A.dialog-act.vkaraisk.227	Turning the T_V_ o on o or off . 	
+IS1003c.B.dialog-act.vkaraisk.256	Yeah , turning yeah , yeah . 	
+IS1003c.B.dialog-act.vkaraisk.257	Not very complex commands , but easy commands , 	
+IS1003c.B.dialog-act.vkaraisk.258	so . 	
+IS1003c.A.dialog-act.vkaraisk.228	So , 	
+IS1003c.A.dialog-act.vkaraisk.229	adding some vocal commands . 	
+IS1003c.B.dialog-act.vkaraisk.259	Yeah . 	
+IS1003c.A.dialog-act.vkaraisk.230	Simple ones ? 	
+IS1003c.B.dialog-act.vkaraisk.260	Yeah , simple ones 	
+IS1003c.B.dialog-act.vkaraisk.261	for 	
+IS1003c.A.dialog-act.vkaraisk.231	Okay . 	
+IS1003c.A.dialog-act.vkaraisk.232	So 	
+IS1003c.A.dialog-act.vkaraisk.233	the next meeting will start in thirty meeti minutes 	
+IS1003c.A.dialog-act.vkaraisk.234	so 	
+IS1003c.A.dialog-act.vkaraisk.235	we'll you will all have to work in in your direction . 	
+IS1003c.A.dialog-act.vkaraisk.236	So you will have to work on the look and feel design , to have the easy to use , powerful and fancy remote control with some added value such as the uh simple vocal commands recognition . 	
+IS1003c.C.dialog-act.vkaraisk.215	Yeah . 	
+IS1003c.B.dialog-act.vkaraisk.262		
+IS1003c.C.dialog-act.vkaraisk.216	Yep . 	
+IS1003c.C.dialog-act.vkaraisk.217	Yeah . 	
+IS1003c.A.dialog-act.vkaraisk.237	Uh you will have to work more , Baba , on the um spongy way to to add spongy um touch to the buttons 	
+IS1003c.B.dialog-act.vkaraisk.263	expensive buttons 	
+IS1003c.B.dialog-act.vkaraisk.264	Yeah , 	
+IS1003c.B.dialog-act.vkaraisk.265	to make some new 	
+IS1003c.A.dialog-act.vkaraisk.238	and try to find maybe a nice shape for the wooden remote control . 	
+IS1003c.B.dialog-act.vkaraisk.266	Yeah . 	
+IS1003c.A.dialog-act.vkaraisk.239	And I sup I think we'll have to evaluate th the product too . 	
+IS1003c.D.dialog-act.vkaraisk.192	Yeah , 	
+IS1003c.D.dialog-act.vkaraisk.193	no not forgetting about the fruits and vegetables trends . 	
+IS1003c.A.dialog-act.vkaraisk.240	Yeah . 	
+IS1003c.B.dialog-act.vkaraisk.268	Okay , 	
+IS1003c.B.dialog-act.vkaraisk.267	fruits . 	
+IS1003c.A.dialog-act.vkaraisk.241	Yeah . 	
+IS1003c.D.dialog-act.vkaraisk.194	If possible . 	
+IS1003c.B.dialog-act.vkaraisk.269	Okay . 	
+IS1003c.A.dialog-act.vkaraisk.242	And remember as as I said last meeting , we really have to build a fashion remote control 	
+IS1003c.A.dialog-act.vkaraisk.243	and uh the colour of the um the society will be really it will be seen in the remote control . 	
+IS1003c.B.dialog-act.vkaraisk.270	Need it to be , okay . 	
+IS1003c.A.dialog-act.vkaraisk.244	So you will have Baba and David Jordan you will have to work together on the prototype 	
+IS1003c.C.dialog-act.vkaraisk.218	Yeah . 	
+IS1003c.A.dialog-act.vkaraisk.245	and you will have next time to show us um modelling a cl a clay remote control , 	
+IS1003c.B.dialog-act.vkaraisk.272	Okay . 	
+IS1003c.A.dialog-act.vkaraisk.246	so you will have to model model something . 	
+IS1003c.C.dialog-act.vkaraisk.219	Okay . Yep 	
+IS1003c.A.dialog-act.vkaraisk.247	And I think that some specific instructions will be sent to you by your personal coach . 	
+IS1003c.B.dialog-act.vkaraisk.273	Okay . 	
+IS1003c.A.dialog-act.vkaraisk.248	So , 	
+IS1003c.C.dialog-act.vkaraisk.220	Okay . 	
+IS1003c.A.dialog-act.vkaraisk.249	no more questions , 	
+IS1003c.A.dialog-act.vkaraisk.250	we can close the session . 	
+IS1003c.D.dialog-act.vkaraisk.195	Hmm . 	
+IS1003c.B.dialog-act.vkaraisk.274	Sounds good , mm-hmm . 	
+IS1003c.D.dialog-act.vkaraisk.196	Okay . 	
+IS1003c.A.dialog-act.vkaraisk.251	Yeah . Okay , cool . 	
+IS1003c.C.dialog-act.vkaraisk.221	Okay . 	
+

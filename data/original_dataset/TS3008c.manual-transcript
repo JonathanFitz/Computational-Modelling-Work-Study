@@ -1,0 +1,1065 @@
+Observation: TS3008c; Result size: 1062; atts: 2
+$d@nite:id	$d	
+TS3008c.A.dialog-act.dharshi.1	Okay , all set ? 	
+TS3008c.A.dialog-act.dharshi.2	Welcome to the conceptual design meeting . 	
+TS3008c.B.dialog-act.dharshi.1	Uh , okay . 	
+TS3008c.C.dialog-act.dharshi.1	Yes . 	
+TS3008c.A.dialog-act.dharshi.3	The agenda . 	
+TS3008c.A.dialog-act.dharshi.4	The opening . 	
+TS3008c.A.dialog-act.dharshi.5	I'll again be the secretary and make minutes , take minutes , 	
+TS3008c.A.dialog-act.dharshi.6	uh and it will be three presentations , just like the last meeting . 	
+TS3008c.A.dialog-act.dharshi.7	So um , who wants to start off ? 	
+TS3008c.A.dialog-act.dharshi.8	Technical uh designer again ? 	
+TS3008c.B.dialog-act.dharshi.2	Again . 	
+TS3008c.A.dialog-act.dharshi.9	Okay . 	
+TS3008c.B.dialog-act.dharshi.3	Hmm . 	
+TS3008c.A.dialog-act.dharshi.10	Uh , yeah . Uh , before we begin it , I want to say I've I've put the minutes of the uh second meeting in the shared folder , 	
+TS3008c.A.dialog-act.dharshi.11	but they're still not uh quite okay . 	
+TS3008c.A.dialog-act.dharshi.12	It uh it uh still some technical difficulties 	
+TS3008c.A.dialog-act.dharshi.13	so the the first part of the minutes are very hard to read , because there are two documents that uh were layered over each other . 	
+TS3008c.B.dialog-act.dharshi.4	Mm-hmm . 	
+TS3008c.D.dialog-act.dharshi.1		
+TS3008c.D.dialog-act.dharshi.2	Okay . 	
+TS3008c.A.dialog-act.dharshi.14	So 	
+TS3008c.A.dialog-act.dharshi.15	But uh , from now on I won't use my pen anymore , so will be p just ordinary keyboard . 	
+TS3008c.B.dialog-act.dharshi.5		
+TS3008c.C.dialog-act.dharshi.2		
+TS3008c.D.dialog-act.dharshi.3		
+TS3008c.B.dialog-act.dharshi.6	Uh , may be better , yeah . 	
+TS3008c.D.dialog-act.dharshi.4	Keyboard work . Yeah . 	
+TS3008c.A.dialog-act.dharshi.16	I think it will will be more uh easy for you to read the minutes . 	
+TS3008c.B.dialog-act.dharshi.7	Yeah . 	
+TS3008c.D.dialog-act.dharshi.5	Alright . 	
+TS3008c.C.dialog-act.dharshi.3	Okay , when we talk about uh components design , um it's really about the material and the and uh uh really the stuff we build uh the remote controls of . 	
+TS3008c.C.dialog-act.dharshi.4	Um , a remote control consist of uh components 	
+TS3008c.C.dialog-act.dharshi.5	and the components of a remote control consist of uh properties and material . 	
+TS3008c.C.dialog-act.dharshi.6	We have to choose th uh these uh wisely 	
+TS3008c.C.dialog-act.dharshi.7	and it could affect uh uh a kind of grow of in uh in buying uh the remote controls . 	
+TS3008c.C.dialog-act.dharshi.8	Um , the components of a remote control are of course uh the case . 	
+TS3008c.C.dialog-act.dharshi.9	Uh the properties of the case , um it has to be solid uh in hard material like uh hard plastic 	
+TS3008c.C.dialog-act.dharshi.10	uh with soft rubber for uh falling and and uh uh yeah , it feels uh good in your hand . 	
+TS3008c.D.dialog-act.dharshi.6		
+TS3008c.C.dialog-act.dharshi.11	Mm the buttons has to be uh solid too , and the material is soft rubber . 	
+TS3008c.C.dialog-act.dharshi.12	Uh I've got a uh email from the possibilities of Real Reaction . 	
+TS3008c.C.dialog-act.dharshi.13	Um 	
+TS3008c.C.dialog-act.dharshi.14	uh they're telling me that um when we build uh a remote control of um of plastic or rubber , the uh buttons have to be uh rubber too . 	
+TS3008c.C.dialog-act.dharshi.15	Mm 	
+TS3008c.C.dialog-act.dharshi.16	It's okay . Yeah . 	
+TS3008c.C.dialog-act.dharshi.17	I when we use a rubbled a doubled curved case , we must use a rubber push-buttons to 	
+TS3008c.C.dialog-act.dharshi.19	uh the the rubber double-curved case is a is a t uh three-dimensional uh curve in the in the design , 	
+TS3008c.C.dialog-act.dharshi.20	which is uh necessary when we want to be trendy . Uh 	
+TS3008c.C.dialog-act.dharshi.18	Um 	
+TS3008c.B.dialog-act.dharshi.8	Oh . 	
+TS3008c.C.dialog-act.dharshi.21	the energy source , uh I've got a lot of possibilities for that too . 	
+TS3008c.C.dialog-act.dharshi.22	Um , 	
+TS3008c.C.dialog-act.dharshi.23	uh the basic battery , 	
+TS3008c.C.dialog-act.dharshi.24	which I thi prefer because of its uh its non uh non-depending of of of uh um 	
+TS3008c.C.dialog-act.dharshi.25	Uh here you have to have a hand uh yeah , kinetic uh energy . 	
+TS3008c.C.dialog-act.dharshi.26	Also in uh this one , like in the watches , 	
+TS3008c.C.dialog-act.dharshi.27	but a remote control can lie on a table for a day , and then you push uh a button and 	
+TS3008c.C.dialog-act.dharshi.28	so you don't have to uh walk with it all the all the time . 	
+TS3008c.C.dialog-act.dharshi.29	Mm , solar cells are also uh a bit weird for uh remote controls . 	
+TS3008c.D.dialog-act.dharshi.7		
+TS3008c.A.dialog-act.dharshi.17		
+TS3008c.C.dialog-act.dharshi.30	Um 	
+TS3008c.C.dialog-act.dharshi.31	uh also the case material , 	
+TS3008c.C.dialog-act.dharshi.32	uh I think that plastic is the is the best with rubber , because uh wood or titanium would also be a bit weird . 	
+TS3008c.B.dialog-act.dharshi.9	Oh titanium is probably trendy , I think . 	
+TS3008c.D.dialog-act.dharshi.8	That's true , I guess . Yeah . 	
+TS3008c.B.dialog-act.dharshi.10	. 	
+TS3008c.B.dialog-act.dharshi.11	Well , maybe a little bit expensive . 	
+TS3008c.D.dialog-act.dharshi.9		
+TS3008c.B.dialog-act.dharshi.12	I don't know . 	
+TS3008c.D.dialog-act.dharshi.10	Huh . 	
+TS3008c.C.dialog-act.dharshi.33	Uh , they don't tell anything about the cost of uh titanium . 	
+TS3008c.C.dialog-act.dharshi.34	Um 	
+TS3008c.C.dialog-act.dharshi.39	the chip 	
+TS3008c.C.dialog-act.dharshi.35	uh the chip set uh and the board is uh all off the shelf . 	
+TS3008c.C.dialog-act.dharshi.36	Also , the speaker in the remote control , when we want to retrieve it . 	
+TS3008c.C.dialog-act.dharshi.37	Um , the base station is also off the shelf , 	
+TS3008c.C.dialog-act.dharshi.38	all the materials and the components are uh just available in uh in our uh factory . 	
+TS3008c.C.dialog-act.dharshi.40	Mm , 	
+TS3008c.C.dialog-act.dharshi.41	I've told about uh the three first points . 	
+TS3008c.C.dialog-act.dharshi.42	Mm , the simple electronical chip uh is is available uh with the LED transmitter uh transmitter . 	
+TS3008c.C.dialog-act.dharshi.43	Uh , it's all uh off the shelf 	
+TS3008c.C.dialog-act.dharshi.44	and even the speaker and the wireless retriever are all uh available in our company . 	
+TS3008c.C.dialog-act.dharshi.45	Um , another possibility . I uh yeah , I looked up on was uh the L_C_D_ displays . 	
+TS3008c.C.dialog-act.dharshi.46	Could be uh something special to our uh remote control , 	
+TS3008c.C.dialog-act.dharshi.47	and it's possible , but it only cost a bit more , 	
+TS3008c.C.dialog-act.dharshi.48	but maybe it can be uh within the limits of twenty five Euros . 	
+TS3008c.A.dialog-act.dharshi.18	Twelve and a half . 	
+TS3008c.C.dialog-act.dharshi.49	Ah yeah . 	
+TS3008c.A.dialog-act.dharshi.19	Actually 	
+TS3008c.D.dialog-act.dharshi.11	Yeah . 	
+TS3008c.B.dialog-act.dharshi.13	Yeah , production cost . 	
+TS3008c.C.dialog-act.dharshi.50	I th I got an email with uh some examples and it these were were the most trendiest one . 	
+TS3008c.B.dialog-act.dharshi.14		
+TS3008c.C.dialog-act.dharshi.51	You see uh a covers , which can be 	
+TS3008c.A.dialog-act.dharshi.20	What are those , t tooth uh brushes , or so 	
+TS3008c.B.dialog-act.dharshi.15		
+TS3008c.C.dialog-act.dharshi.52	Um , I don't know . Um 	
+TS3008c.D.dialog-act.dharshi.12		
+TS3008c.A.dialog-act.dharshi.21	But it's actually kind of uh 	
+TS3008c.B.dialog-act.dharshi.16	I 	
+TS3008c.A.dialog-act.dharshi.22	well , it resembles the design I had in mind for this proj 	
+TS3008c.C.dialog-act.dharshi.53	Yes . 	
+TS3008c.D.dialog-act.dharshi.14	Yep . 	
+TS3008c.A.dialog-act.dharshi.23	You know the the cartoonish Alessi kind of design . 	
+TS3008c.C.dialog-act.dharshi.54	Yes , maybe we can uh bri uh bring a couple of uh couple of types of uh 	
+TS3008c.A.dialog-act.dharshi.24	And we can we can steal their ideas . 	
+TS3008c.D.dialog-act.dharshi.13		
+TS3008c.C.dialog-act.dharshi.55	maybe a kind of uh whole uh 	
+TS3008c.C.dialog-act.dharshi.56	um 	
+TS3008c.C.dialog-act.dharshi.57	a whole set of uh different uh remote controls . 	
+TS3008c.C.dialog-act.dharshi.58	Maybe we can bring a whole line uh with uh 	
+TS3008c.A.dialog-act.dharshi.25	Huh . 	
+TS3008c.C.dialog-act.dharshi.59	with a huge variety of uh 	
+TS3008c.A.dialog-act.dharshi.26	Well , it's a possibility , too . 	
+TS3008c.C.dialog-act.dharshi.60	uh house uh stuff . 	
+TS3008c.B.dialog-act.dharshi.17	Different colours also . 	
+TS3008c.C.dialog-act.dharshi.61	Like uh maybe radios and uh television also uh in this in this in the same style , but 	
+TS3008c.A.dialog-act.dharshi.27	Uh-uh . 	
+TS3008c.D.dialog-act.dharshi.15	Yeah , that'll be for the future , I guess . 	
+TS3008c.A.dialog-act.dharshi.28	Okay . 	
+TS3008c.B.dialog-act.dharshi.18	Yeah . 	
+TS3008c.C.dialog-act.dharshi.62	Yes , 	
+TS3008c.C.dialog-act.dharshi.63	because we have to uh we have to we have to bring the logo and all the stuff uh back into it . 	
+TS3008c.A.dialog-act.dharshi.29	Next time we're here . 	
+TS3008c.D.dialog-act.dharshi.16		
+TS3008c.D.dialog-act.dharshi.17	Yeah . 	
+TS3008c.A.dialog-act.dharshi.30	Oh , okay . 	
+TS3008c.D.dialog-act.dharshi.18	Yeah . Definitely . 	
+TS3008c.A.dialog-act.dharshi.31	Okay . 	
+TS3008c.B.dialog-act.dharshi.19	Okay . 	
+TS3008c.C.dialog-act.dharshi.64	Thank you . 	
+TS3008c.D.dialog-act.dharshi.19	Alright . 	
+TS3008c.B.dialog-act.dharshi.20	uh 	
+TS3008c.D.dialog-act.dharshi.20	Yeah . That's okay . 	
+TS3008c.B.dialog-act.dharshi.21	Ah . 	
+TS3008c.D.dialog-act.dharshi.21		
+TS3008c.B.dialog-act.dharshi.22	Well , I shall go to the next slide . Um 	
+TS3008c.D.dialog-act.dharshi.22		
+TS3008c.B.dialog-act.dharshi.23	um , I still don't have any information about user requirements . 	
+TS3008c.D.dialog-act.dharshi.23		
+TS3008c.B.dialog-act.dharshi.24	I was thinking about just uh the basic functions and I got uh 	
+TS3008c.A.dialog-act.dharshi.32	Oh , we decided upon that in the last meeting . 	
+TS3008c.B.dialog-act.dharshi.25	Yeah , but but then wh I don't know when there are new user requirements . 	
+TS3008c.A.dialog-act.dharshi.33	Didn't we ? 	
+TS3008c.A.dialog-act.dharshi.34	Oh , okay . 	
+TS3008c.B.dialog-act.dharshi.26	I ha I ha I have the I have 	
+TS3008c.A.dialog-act.dharshi.35	Well , tha I didn't receive any new requirements or somethi 	
+TS3008c.A.dialog-act.dharshi.36	Just 	
+TS3008c.B.dialog-act.dharshi.27	nothing . 	
+TS3008c.A.dialog-act.dharshi.37	no , but we decided to use only b basic functions only . 	
+TS3008c.B.dialog-act.dharshi.28	Well , I have here a couple of basic functions I could think of . 	
+TS3008c.A.dialog-act.dharshi.38	Okay . 	
+TS3008c.B.dialog-act.dharshi.29	I dunno if they're maybe a little bit more , but 	
+TS3008c.A.dialog-act.dharshi.39	Well we maybe we can think of that later . 	
+TS3008c.B.dialog-act.dharshi.30	Yeah . 	
+TS3008c.A.dialog-act.dharshi.40	W just 	
+TS3008c.A.dialog-act.dharshi.41	these are the ones you already summed up in the 	
+TS3008c.B.dialog-act.dharshi.31	Yeah , I I uh well , I pointed them out here , just to make it a little bit easier . 	
+TS3008c.A.dialog-act.dharshi.42	Okay . 	
+TS3008c.B.dialog-act.dharshi.32	Um 	
+TS3008c.B.dialog-act.dharshi.33	Another function uh is of course we already discuss it on the side . 	
+TS3008c.B.dialog-act.dharshi.34	Um , I don't know what costs of it . 	
+TS3008c.B.dialog-act.dharshi.35	Uh , I've no idea about it . 	
+TS3008c.B.dialog-act.dharshi.36	Uh , I was also looking for what you said , for I got an email uh uh about uh L_C_D_ in in in front of the remote control . 	
+TS3008c.B.dialog-act.dharshi.37	I don't know if that's a good idea , or maybe it's a little bit too much for twelve and a half . Production . 	
+TS3008c.A.dialog-act.dharshi.43	Yeah . 	
+TS3008c.C.dialog-act.dharshi.65	Uh-huh . 	
+TS3008c.B.dialog-act.dharshi.38	If we got already uh something like a base . 	
+TS3008c.A.dialog-act.dharshi.44	That might get redundant also maybe . 	
+TS3008c.A.dialog-act.dharshi.45	I don't know what kind of information it would 	
+TS3008c.B.dialog-act.dharshi.39	Yeah , I don't know . 	
+TS3008c.B.dialog-act.dharshi.40	I d I uh ju I was just thinking about it . Then I got a pop-ups to go to the meeting . But 	
+TS3008c.D.dialog-act.dharshi.24	Mm yeah . 	
+TS3008c.A.dialog-act.dharshi.46	Yeah . Yeah , it's okay . 	
+TS3008c.C.dialog-act.dharshi.67	Maybe we can bring t uh uh teletext to the t to the remote control . 	
+TS3008c.B.dialog-act.dharshi.41	The remote control . 	
+TS3008c.D.dialog-act.dharshi.26	Then you 	
+TS3008c.B.dialog-act.dharshi.42	a little uh too A little bit 	
+TS3008c.A.dialog-act.dharshi.47		
+TS3008c.D.dialog-act.dharshi.27	and then you've got a flag s Very big R_C_ . Yeah . 	
+TS3008c.A.dialog-act.dharshi.48	Okay . That's not 	
+TS3008c.B.dialog-act.dharshi.43	A little bit too big , I think . 	
+TS3008c.A.dialog-act.dharshi.49	It was not a good idea . 	
+TS3008c.B.dialog-act.dharshi.44	Exactly . 	
+TS3008c.C.dialog-act.dharshi.66		
+TS3008c.D.dialog-act.dharshi.25		
+TS3008c.A.dialog-act.dharshi.50	Okay . 	
+TS3008c.B.dialog-act.dharshi.45	Um , yeah . Well , the functions are are not more to discuss , I think . 	
+TS3008c.A.dialog-act.dharshi.51	No . No . 	
+TS3008c.B.dialog-act.dharshi.47	It's it's just the base things we already discussed that the no V_C_R_ or that kind of 	
+TS3008c.D.dialog-act.dharshi.28	No . 	
+TS3008c.B.dialog-act.dharshi.48	uh , so that's very easy . 	
+TS3008c.B.dialog-act.dharshi.46	Um 	
+TS3008c.A.dialog-act.dharshi.52	But you do mention the next and previous uh button . 	
+TS3008c.B.dialog-act.dharshi.49	Mm-hmm . 	
+TS3008c.A.dialog-act.dharshi.53		
+TS3008c.D.dialog-act.dharshi.29	Next channel , previous channel . 	
+TS3008c.B.dialog-act.dharshi.50	Well , that's next channel . I mean next channel . 	
+TS3008c.A.dialog-act.dharshi.54	Oh , okay , o okay okay . 	
+TS3008c.B.dialog-act.dharshi.51	Uh 	
+TS3008c.B.dialog-act.dharshi.52	Um 	
+TS3008c.B.dialog-act.dharshi.53	oh , I I got an email with with an uh a remote control with a base . 	
+TS3008c.A.dialog-act.dharshi.55	Huh . 	
+TS3008c.B.dialog-act.dharshi.54	So , it's uh just an idea . 	
+TS3008c.B.dialog-act.dharshi.56	And I um uh thinked of the button sizes and I'm not sure uh if they have to be big or uh just small 	
+TS3008c.B.dialog-act.dharshi.55		
+TS3008c.C.dialog-act.dharshi.68	But you're the expert . 	
+TS3008c.D.dialog-act.dharshi.30	I think it depends on the function . 	
+TS3008c.B.dialog-act.dharshi.57	Well , I'm not a e I'm the expert for user-friendly , but not for trendiness . 	
+TS3008c.A.dialog-act.dharshi.56	Mm-hmm . 	
+TS3008c.B.dialog-act.dharshi.58	Maybe it 	
+TS3008c.D.dialog-act.dharshi.31	Well , if you save uh Perhaps uh s tiny buttons aren't user-friendly , then we wouldn't im implement that of course . 	
+TS3008c.B.dialog-act.dharshi.59	Well uh 	
+TS3008c.A.dialog-act.dharshi.57		
+TS3008c.C.dialog-act.dharshi.69		
+TS3008c.D.dialog-act.dharshi.33		
+TS3008c.B.dialog-act.dharshi.60	okay , that's your point . 	
+TS3008c.B.dialog-act.dharshi.61	Um , yeah . Yeah , okay . 	
+TS3008c.D.dialog-act.dharshi.32		
+TS3008c.B.dialog-act.dharshi.62	Yeah , I've nothing to s 	
+TS3008c.C.dialog-act.dharshi.70		
+TS3008c.A.dialog-act.dharshi.58	Well , w when we only use basic functions , we have the possibility to make the buttons larger . 	
+TS3008c.D.dialog-act.dharshi.34	Oh , that's right . 	
+TS3008c.B.dialog-act.dharshi.63	Uh , with a little bit larger , yeah . 	
+TS3008c.D.dialog-act.dharshi.35	Yeah . 	
+TS3008c.B.dialog-act.dharshi.64	I thought so , but maybe with the 	
+TS3008c.A.dialog-act.dharshi.59	Well , I think we already agreed upon the fact that the the the skip buttons and the cha and the volume buttons , th th those two have yeah , they have to be large . 	
+TS3008c.B.dialog-act.dharshi.65	Yeah , that groups . 	
+TS3008c.A.dialog-act.dharshi.60	Uh , I mean th th the the two two basic buttons , you know , the to skip channels and to uh 	
+TS3008c.B.dialog-act.dharshi.66	Large ? 	
+TS3008c.B.dialog-act.dharshi.67	Yeah . 	
+TS3008c.D.dialog-act.dharshi.36	Yep . 	
+TS3008c.A.dialog-act.dharshi.61	I think yeah , I don't know why , but I think that is that's t trendy too , 	
+TS3008c.B.dialog-act.dharshi.68	Most the most used uh buttons . 	
+TS3008c.D.dialog-act.dharshi.37	Those are probably the the th 	
+TS3008c.A.dialog-act.dharshi.62	because that's the mo it it you know , it's uh acc acc um accentu uh , 	
+TS3008c.A.dialog-act.dharshi.63	how do you say it ? 	
+TS3008c.A.dialog-act.dharshi.64	It puts an extra accent on the the on the simplicity of our remotes to j to make these two most basic functions extra big , like t 	
+TS3008c.D.dialog-act.dharshi.38	Yes . 	
+TS3008c.B.dialog-act.dharshi.69	True . Yeah . 	
+TS3008c.D.dialog-act.dharshi.39	Those are probably the b four most most used buttons on the th in the remote control . 	
+TS3008c.A.dialog-act.dharshi.65	Yeah . 	
+TS3008c.C.dialog-act.dharshi.71	You did the research . 	
+TS3008c.A.dialog-act.dharshi.66	And you want to acc accentuate that , you know . 	
+TS3008c.B.dialog-act.dharshi.70	Yeah . 	
+TS3008c.C.dialog-act.dharshi.72	It's from your research . 	
+TS3008c.D.dialog-act.dharshi.40	Sorry ? 	
+TS3008c.D.dialog-act.dharshi.41	Yeah , sure . 	
+TS3008c.A.dialog-act.dharshi.67	So 	
+TS3008c.B.dialog-act.dharshi.71	Okay . 	
+TS3008c.C.dialog-act.dharshi.73		
+TS3008c.B.dialog-act.dharshi.72	Uh , that was all y 	
+TS3008c.B.dialog-act.dharshi.73	uh personal preference I didn't have . 	
+TS3008c.B.dialog-act.dharshi.74	I didn't had any time left . 	
+TS3008c.A.dialog-act.dharshi.70	Okay . 	
+TS3008c.A.dialog-act.dharshi.69	No uh , that's coo it's cool . 	
+TS3008c.C.dialog-act.dharshi.74		
+TS3008c.D.dialog-act.dharshi.42		
+TS3008c.D.dialog-act.dharshi.43	You don't care . 	
+TS3008c.D.dialog-act.dharshi.44	No , sorry . 	
+TS3008c.C.dialog-act.dharshi.75		
+TS3008c.A.dialog-act.dharshi.68		
+TS3008c.D.dialog-act.dharshi.45	Yeah . 	
+TS3008c.B.dialog-act.dharshi.75		
+TS3008c.D.dialog-act.dharshi.46	Oh . 	
+TS3008c.D.dialog-act.dharshi.47	Go away . 	
+TS3008c.D.dialog-act.dharshi.48	Come on . 	
+TS3008c.B.dialog-act.dharshi.76	It's there . 	
+TS3008c.B.dialog-act.dharshi.77	Yeah , click on it . 	
+TS3008c.D.dialog-act.dharshi.49	. 	
+TS3008c.B.dialog-act.dharshi.78	Couple time . 	
+TS3008c.D.dialog-act.dharshi.50	Oh , great . 	
+TS3008c.D.dialog-act.dharshi.51	Well , I've done some research again about trends on the internet . 	
+TS3008c.D.dialog-act.dharshi.52	Um I've done some investigation , and uh well I uh got some information from fashion watchers from Paris and uh Milan . 	
+TS3008c.D.dialog-act.dharshi.53	Some uh some findings 	
+TS3008c.D.dialog-act.dharshi.54	the most important thing is fancy look and feel of the remote control . 	
+TS3008c.D.dialog-act.dharshi.55	Uh , well , we were going to imply that , so that's nice . 	
+TS3008c.D.dialog-act.dharshi.56	The second important thing is uh innovative technology in the R_C_ . 	
+TS3008c.D.dialog-act.dharshi.57	Uh , our market really likes really likes that . 	
+TS3008c.D.dialog-act.dharshi.100	And uh the third point there in this uh order if of importance , the third point , is a high ease of use . 	
+TS3008c.D.dialog-act.dharshi.101	And uh , well , for the idea , I've put some trends uh for the market of elderly people . 	
+TS3008c.D.dialog-act.dharshi.102	Dark colours , simple recognisable shapes . 	
+TS3008c.C.dialog-act.dharshi.76		
+TS3008c.D.dialog-act.dharshi.103	So we probably won't do that . 	
+TS3008c.D.dialog-act.dharshi.104	The younger market likes uh 	
+TS3008c.B.dialog-act.dharshi.79		
+TS3008c.D.dialog-act.dharshi.105	Well , the themes of of this year are uh surprisingly fruits and vegetables and spongy material . 	
+TS3008c.C.dialog-act.dharshi.77		
+TS3008c.B.dialog-act.dharshi.80		
+TS3008c.C.dialog-act.dharshi.78		
+TS3008c.D.dialog-act.dharshi.106	I found this image , which is uh Well , it symbolises the idea of fruits and vegetables . 	
+TS3008c.D.dialog-act.dharshi.107	I don't see the spongy part in it . 	
+TS3008c.D.dialog-act.dharshi.108	But with a little bit of fancy 	
+TS3008c.A.dialog-act.dharshi.71	Well maybe c then we have to do something with Sponge Bob then . 	
+TS3008c.C.dialog-act.dharshi.79		
+TS3008c.B.dialog-act.dharshi.81		
+TS3008c.D.dialog-act.dharshi.109	Exactly . 	
+TS3008c.D.dialog-act.dharshi.110	I got some ideas 	
+TS3008c.B.dialog-act.dharshi.82		
+TS3008c.D.dialog-act.dharshi.111	Uh well , yeah , pictures isn't really good word , but um 	
+TS3008c.C.dialog-act.dharshi.80		
+TS3008c.D.dialog-act.dharshi.112	some symbols of fruits or vegetables maybe . 	
+TS3008c.D.dialog-act.dharshi.113	Uh , catchy colours . 	
+TS3008c.C.dialog-act.dharshi.81		
+TS3008c.D.dialog-act.dharshi.114	Fruit is uh yellow , green , red , whatever . 	
+TS3008c.B.dialog-act.dharshi.83		
+TS3008c.D.dialog-act.dharshi.115	So , remote controls in in catchy colours . 	
+TS3008c.A.dialog-act.dharshi.72	It doesn't stroke with the with the dark colours . 	
+TS3008c.D.dialog-act.dharshi.116	Uh , no , we don't want dark colours . 	
+TS3008c.A.dialog-act.dharshi.73	Not the dark colours ? Okay . 	
+TS3008c.D.dialog-act.dharshi.117	No , I just put them there to uh , yeah , uh for general idea . 	
+TS3008c.A.dialog-act.dharshi.74	Okay . 	
+TS3008c.D.dialog-act.dharshi.118	And uh , the docking st 	
+TS3008c.C.dialog-act.dharshi.82		
+TS3008c.D.dialog-act.dharshi.119	uh I think the spongy material is is very irritating for the uh remote control itself . 	
+TS3008c.D.dialog-act.dharshi.120	But to 	
+TS3008c.D.dialog-act.dharshi.121	Yeah , the 	
+TS3008c.C.dialog-act.dharshi.83		
+TS3008c.D.dialog-act.dharshi.122	To implement some spongy thing , maybe we can do it in the in the docking station . 	
+TS3008c.D.dialog-act.dharshi.123	At the bottom of the docking station or whatever . 	
+TS3008c.D.dialog-act.dharshi.124	And uh , we could bring one line with a dark colour uh to um uh p uh yeah 	
+TS3008c.C.dialog-act.dharshi.84		
+TS3008c.D.dialog-act.dharshi.125	uh uh v how do you say ? 	
+TS3008c.A.dialog-act.dharshi.75	For diversity or something . Uh 	
+TS3008c.D.dialog-act.dharshi.126	Yeah , also a bit for elderly people who are a little bit crazy and want maybe want a little younger design but still the dark colour . 	
+TS3008c.B.dialog-act.dharshi.84	Well , how uh 	
+TS3008c.C.dialog-act.dharshi.85		
+TS3008c.D.dialog-act.dharshi.127	I mean it it it reaches a different market uh , but it it it doesn't cost really much effort to b to uh bring uh like a black R_C_ on the market or whatever . Yes . 	
+TS3008c.B.dialog-act.dharshi.86	But how do we use uh fruits and vegetables in Christ's sake with remote control ? 	
+TS3008c.C.dialog-act.dharshi.86		
+TS3008c.A.dialog-act.dharshi.77	No , but I I I think that uh our design already resembles so a piece of fruit . 	
+TS3008c.D.dialog-act.dharshi.128	Yeah , there's there's always a 	
+TS3008c.B.dialog-act.dharshi.87	Uh , make it a banana ? 	
+TS3008c.B.dialog-act.dharshi.85		
+TS3008c.A.dialog-act.dharshi.78	It's like a pear or something . 	
+TS3008c.D.dialog-act.dharshi.129	Well there there's always empty space of course on a remote control . 	
+TS3008c.D.dialog-act.dharshi.130	I mean I think this part of the R_C_ uh well the upper the upper part or whatever is uh is not not used with buttons , I guess . 	
+TS3008c.A.dialog-act.dharshi.79	No , I don't think you have to do it like 	
+TS3008c.C.dialog-act.dharshi.87		
+TS3008c.B.dialog-act.dharshi.88		
+TS3008c.D.dialog-act.dharshi.131	So you you can put some fruity things 	
+TS3008c.A.dialog-act.dharshi.80	Yeah , but it that doesn't have to remind you , you know , like explicitly of s our f of a of a specific piece of fruit , but just , you know , like the the the the round curves . 	
+TS3008c.C.dialog-act.dharshi.88		
+TS3008c.D.dialog-act.dharshi.132	No , of course not . 	
+TS3008c.A.dialog-act.dharshi.81	And so y I I think this y it already sem resembles uh something like a pear to me or something . 	
+TS3008c.D.dialog-act.dharshi.133	Especially i 	
+TS3008c.B.dialog-act.dharshi.89	Yeah , but th 	
+TS3008c.D.dialog-act.dharshi.134	Yeah , yeah . Yeah , exactly . 	
+TS3008c.B.dialog-act.dharshi.90	yeah , but that 	
+TS3008c.C.dialog-act.dharshi.89		
+TS3008c.B.dialog-act.dharshi.91	Yeah , but that's 	
+TS3008c.D.dialog-act.dharshi.135	If we make it little bit greenish . 	
+TS3008c.A.dialog-act.dharshi.82	Yeah . 	
+TS3008c.A.dialog-act.dharshi.83	You do get the idea , eh ? The fruity kind of round 	
+TS3008c.B.dialog-act.dharshi.92	Yeah uh uh 	
+TS3008c.D.dialog-act.dharshi.136	A and we could use one of these for 	
+TS3008c.A.dialog-act.dharshi.84	'Kay . 	
+TS3008c.D.dialog-act.dharshi.137	the uh w what is it ? 	
+TS3008c.A.dialog-act.dharshi.85	Yeah , uh yeah , I don't know . 	
+TS3008c.C.dialog-act.dharshi.90	Grapes . 	
+TS3008c.D.dialog-act.dharshi.139	Uh 	
+TS3008c.C.dialog-act.dharshi.91		
+TS3008c.D.dialog-act.dharshi.138	Isn't 	
+TS3008c.A.dialog-act.dharshi.86	Uh , this is a b yeah . 	
+TS3008c.D.dialog-act.dharshi.140	Wha whatever . 	
+TS3008c.B.dialog-act.dharshi.93	But d don't we need a creative artist or something like that to m make it to feel like a a a a vegetable or fruit ? 	
+TS3008c.C.dialog-act.dharshi.92		
+TS3008c.A.dialog-act.dharshi.87	Yeah , yeah . Of course we have uh 	
+TS3008c.D.dialog-act.dharshi.141	Yeah , sure . 	
+TS3008c.D.dialog-act.dharshi.142	Yeah . 	
+TS3008c.A.dialog-act.dharshi.88	we have a very big uh the s 	
+TS3008c.D.dialog-act.dharshi.143	Well , w we can uh w we can we can produce multiple uh multiple things . 	
+TS3008c.C.dialog-act.dharshi.93	For a big team of artists . 	
+TS3008c.A.dialog-act.dharshi.89	Of d design team , yeah . 	
+TS3008c.B.dialog-act.dharshi.94		
+TS3008c.D.dialog-act.dharshi.144	This is then the uh pear . 	
+TS3008c.D.dialog-act.dharshi.145	I don't know the English word , so forget it . 	
+TS3008c.A.dialog-act.dharshi.90	Yeah , but 	
+TS3008c.A.dialog-act.dharshi.91	It's pear , I guess . 	
+TS3008c.D.dialog-act.dharshi.146	And um , maybe , yeah , a b a banana is uh is n not easy for a remote control , but m yeah . 	
+TS3008c.C.dialog-act.dharshi.94	But uh but I think we don't have to make 	
+TS3008c.A.dialog-act.dharshi.92		
+TS3008c.C.dialog-act.dharshi.95	we can't make all uh ten designs . 	
+TS3008c.A.dialog-act.dharshi.93	No . 	
+TS3008c.C.dialog-act.dharshi.96	We have to make one design I th I I think . 	
+TS3008c.A.dialog-act.dharshi.94	No , but I think it's it's already what we were were up to . 	
+TS3008c.D.dialog-act.dharshi.148	Mayb maybe two or three . 	
+TS3008c.B.dialog-act.dharshi.95	Yeah . 	
+TS3008c.A.dialog-act.dharshi.95	Uh , it's it doesn't have to resemble uh what I already said , a specific piece of fruit , but just , you know , like a fruity thing going on . 	
+TS3008c.D.dialog-act.dharshi.147	Yeah . 	
+TS3008c.B.dialog-act.dharshi.96		
+TS3008c.D.dialog-act.dharshi.150	No sure , 	
+TS3008c.D.dialog-act.dharshi.151	but but 	
+TS3008c.B.dialog-act.dharshi.97		
+TS3008c.D.dialog-act.dharshi.152	B but that's great , 	
+TS3008c.A.dialog-act.dharshi.96	And it's it looks fruity to me . 	
+TS3008c.D.dialog-act.dharshi.153	and and and what I was 	
+TS3008c.D.dialog-act.dharshi.154	what what I was saying , the catchy colours 	
+TS3008c.A.dialog-act.dharshi.97	And uh , but I do like the 	
+TS3008c.A.dialog-act.dharshi.98	yeah , I do like uh the f uh to the idea of making a a y uh , a catchy colour design and a d because I do I think a dark colour would be nice too . 	
+TS3008c.D.dialog-act.dharshi.155	Yeah . 	
+TS3008c.C.dialog-act.dharshi.97	But pictures of fruit , vegetables vegetables 	
+TS3008c.A.dialog-act.dharshi.99	Maybe it's too much , you know . 	
+TS3008c.B.dialog-act.dharshi.98	But , we we have to um There have to be the the the the firm colours , our own uh colours has to be in it . 	
+TS3008c.D.dialog-act.dharshi.156	Yeah , uh not really . Pictures was a was a bad word , but 	
+TS3008c.A.dialog-act.dharshi.100	Okay , but what are the 	
+TS3008c.A.dialog-act.dharshi.101	This is yellow . 	
+TS3008c.D.dialog-act.dharshi.157	Well we c yeah . 	
+TS3008c.B.dialog-act.dharshi.99	Yellow , a Real Reaction . 	
+TS3008c.C.dialog-act.dharshi.98	Yes , you can put a logo on top of it . 	
+TS3008c.D.dialog-act.dharshi.158	Yeah , sure . 	
+TS3008c.A.dialog-act.dharshi.102	But I don't think our our company colours are this fashionable . 	
+TS3008c.B.dialog-act.dharshi.100	Uh , yeah . 	
+TS3008c.D.dialog-act.dharshi.159	Maybe we can if if we got our docking station over here . 	
+TS3008c.B.dialog-act.dharshi.101	We uh f 	
+TS3008c.C.dialog-act.dharshi.99	Yes , it's really fruity . 	
+TS3008c.D.dialog-act.dharshi.160	I can't draw with this thing , 	
+TS3008c.D.dialog-act.dharshi.161	but I'll try . 	
+TS3008c.B.dialog-act.dharshi.102	A yellow do 	
+TS3008c.D.dialog-act.dharshi.162	If this is our docking station , we can make our logo over here . 	
+TS3008c.B.dialog-act.dharshi.103	Uh , yeah . 	
+TS3008c.D.dialog-act.dharshi.163	It doesn't work . 	
+TS3008c.D.dialog-act.dharshi.164	And then 	
+TS3008c.B.dialog-act.dharshi.104	Yeah , and the button then . 	
+TS3008c.C.dialog-act.dharshi.100	With a strawberry on top . 	
+TS3008c.A.dialog-act.dharshi.103	Yeah , 	
+TS3008c.A.dialog-act.dharshi.104	on uh n uh on the bottom of the remote you can do 	
+TS3008c.D.dialog-act.dharshi.165	Well , the button button over here or whatever , 	
+TS3008c.D.dialog-act.dharshi.166	I don't know . 	
+TS3008c.B.dialog-act.dharshi.105	Okay , yeah . 	
+TS3008c.D.dialog-act.dharshi.168	On the front , of course , 	
+TS3008c.D.dialog-act.dharshi.169	because else you can't find it . 	
+TS3008c.B.dialog-act.dharshi.106	Okay . 	
+TS3008c.D.dialog-act.dharshi.167	Well , that were my ideas a little bit . 	
+TS3008c.D.dialog-act.dharshi.170	I'll close 'em down . 	
+TS3008c.A.dialog-act.dharshi.105	Okay . 	
+TS3008c.D.dialog-act.dharshi.171	Um , go away . 	
+TS3008c.A.dialog-act.dharshi.106	Okay , you can you open the conceptual design presentation ? 	
+TS3008c.D.dialog-act.dharshi.172	Conceptual design , yes . 	
+TS3008c.A.dialog-act.dharshi.107	See what was on the agenda . 	
+TS3008c.B.dialog-act.dharshi.107	Lazy . 	
+TS3008c.D.dialog-act.dharshi.173	The agenda . 	
+TS3008c.A.dialog-act.dharshi.108	This is his own remote . 	
+TS3008c.A.dialog-act.dharshi.109	Because um , maybe we can start with the technical uh functions , 	
+TS3008c.B.dialog-act.dharshi.108	Yeah . 	
+TS3008c.A.dialog-act.dharshi.110	but I don't think it's there 	
+TS3008c.A.dialog-act.dharshi.111	uh , yeah um , 	
+TS3008c.A.dialog-act.dharshi.112	do we want to um use an L_C_D_ display , for example ? 	
+TS3008c.D.dialog-act.dharshi.174	Well , it's nice , of course . But I don't I don't know what to display on it . 	
+TS3008c.C.dialog-act.dharshi.101	Only if we 	
+TS3008c.A.dialog-act.dharshi.113	Me neither . 	
+TS3008c.C.dialog-act.dharshi.102	Maybe maybe we can make a T_V_ guide on it , for the channel you're on . 	
+TS3008c.D.dialog-act.dharshi.175	I mean 	
+TS3008c.D.dialog-act.dharshi.176	Yeah , but it should be li like this big , and I don't think 	
+TS3008c.A.dialog-act.dharshi.114	Yeah , but it's so 	
+TS3008c.C.dialog-act.dharshi.103	No , no , only the T_V_ channel with the with uh with uh four programmes . 	
+TS3008c.A.dialog-act.dharshi.115	I don't think we should do it . 	
+TS3008c.C.dialog-act.dharshi.104	You can uh zap through them with the page up page down button . 	
+TS3008c.D.dialog-act.dharshi.177	Yes sure , but it it has to to show an entire title of a programme or at least a q a quite quite large part of it and then you get a very large L_C_D_ screen , because 	
+TS3008c.C.dialog-act.dharshi.106	Yes , it can 	
+TS3008c.C.dialog-act.dharshi.107	On your 	
+TS3008c.C.dialog-act.dharshi.105	No , on your mobile phone you can y you can read text also . 	
+TS3008c.C.dialog-act.dharshi.108	So why not on your remote ? 	
+TS3008c.A.dialog-act.dharshi.116	Yeah , but no . I do I think it's a bit redundant , actually . 	
+TS3008c.D.dialog-act.dharshi.178	Yeah , I don't know . 	
+TS3008c.A.dialog-act.dharshi.117	And it's also not I don't th even think it it looks s like sexy or something , 	
+TS3008c.B.dialog-act.dharshi.109	Well well what would you display on it then ? 	
+TS3008c.A.dialog-act.dharshi.118	it's 	
+TS3008c.C.dialog-act.dharshi.109	Uh , programme uh information or or or or g or a guide 	
+TS3008c.D.dialog-act.dharshi.179	Programme information . 	
+TS3008c.B.dialog-act.dharshi.110	But is it isn't that a already on T_V_ , a lot of new T_V_s ? 	
+TS3008c.D.dialog-act.dharshi.180	But 	
+TS3008c.C.dialog-act.dharshi.110	on t on teletext , yes . Also on the internet . 	
+TS3008c.D.dialog-act.dharshi.181	Well a lot a lot of T_V_s indeed show uh when you uh zap to a 	
+TS3008c.C.dialog-act.dharshi.111	But 	
+TS3008c.A.dialog-act.dharshi.119	But you're already watching the T_V_ , you're not gonna watch your remote control . 	
+TS3008c.B.dialog-act.dharshi.111	Yeah . 	
+TS3008c.C.dialog-act.dharshi.112	Yes , but you also want to know what's next . 	
+TS3008c.D.dialog-act.dharshi.182	But then we also uh w need to bring out a line of T_V_s 	
+TS3008c.D.dialog-act.dharshi.184	which we were planning to , 	
+TS3008c.B.dialog-act.dharshi.112	Yeah , 	
+TS3008c.B.dialog-act.dharshi.113	and we also have to yeah . 	
+TS3008c.D.dialog-act.dharshi.185	but whatever . 	
+TS3008c.A.dialog-act.dharshi.120		
+TS3008c.D.dialog-act.dharshi.186	Because the T_V_ has to send information back to the R_C_ , and I don't know if that's possible . 	
+TS3008c.C.dialog-act.dharshi.113	Yes , that's uh really possible . 	
+TS3008c.D.dialog-act.dharshi.188	Yes , yes , o of course it's possible , 	
+TS3008c.A.dialog-act.dharshi.121		
+TS3008c.B.dialog-act.dharshi.114		
+TS3008c.D.dialog-act.dharshi.189	but you gotta uh implement it in the T_V_s , and I don't think everyone's gonna buy a Real Reaction T_V_ within a month after the release of our uh remote control . 	
+TS3008c.C.dialog-act.dharshi.114		
+TS3008c.C.dialog-act.dharshi.115		
+TS3008c.B.dialog-act.dharshi.115	And I also 	
+TS3008c.A.dialog-act.dharshi.122	I really understand you want to make your job more exciting by putting an L_C_D_ in it , 	
+TS3008c.C.dialog-act.dharshi.116		
+TS3008c.B.dialog-act.dharshi.116		
+TS3008c.D.dialog-act.dharshi.190		
+TS3008c.A.dialog-act.dharshi.123	but I I really don't think it's a good n goo 	
+TS3008c.A.dialog-act.dharshi.124	because it also doesn't stroke with 	
+TS3008c.A.dialog-act.dharshi.125	we wanted uh c 	
+TS3008c.A.dialog-act.dharshi.126	When we talk about the materials , uh it's a good idea to use these plastic materials with soft rubber stuff on it . 	
+TS3008c.A.dialog-act.dharshi.127	It was our idea , you know , to give it a more sturdy look and that you ca like you can throw with it . 	
+TS3008c.D.dialog-act.dharshi.191	Yeah . 	
+TS3008c.A.dialog-act.dharshi.128	But I don't think a L_C_D_ display fits in that image . 	
+TS3008c.A.dialog-act.dharshi.129	You know , it's like more vulnerable , 	
+TS3008c.A.dialog-act.dharshi.130	and it adds nothing really , you know . 	
+TS3008c.D.dialog-act.dharshi.192	That's true , that's true , it breaks f yeah , it it it's not very solid , it's uh frag fragile . 	
+TS3008c.A.dialog-act.dharshi.131	Yeah , yeah . You could make it , but it's just it it doesn't I don't think it it's coherent with the design we're after . 	
+TS3008c.D.dialog-act.dharshi.193	No . No . I don't think so ei either . 	
+TS3008c.A.dialog-act.dharshi.132	But that's my opinion . 	
+TS3008c.A.dialog-act.dharshi.133	Well , you you y 	
+TS3008c.A.dialog-act.dharshi.134	Okay , we can vote for it . 	
+TS3008c.C.dialog-act.dharshi.118		
+TS3008c.A.dialog-act.dharshi.135	You want the L_C_D_ display . I don't want to and he doesn't , so it's up to him . 	
+TS3008c.C.dialog-act.dharshi.120	No . 	
+TS3008c.B.dialog-act.dharshi.117		
+TS3008c.C.dialog-act.dharshi.117		
+TS3008c.D.dialog-act.dharshi.194	. Ah . 	
+TS3008c.A.dialog-act.dharshi.137	If we wanna 	
+TS3008c.B.dialog-act.dharshi.118	Yeah , I dunno . 	
+TS3008c.C.dialog-act.dharshi.119		
+TS3008c.A.dialog-act.dharshi.136	And I've read somewhere that I've got some kind of veto veto uh rights . 	
+TS3008c.B.dialog-act.dharshi.119	. Oh , okay . 	
+TS3008c.C.dialog-act.dharshi.121		
+TS3008c.D.dialog-act.dharshi.196	Bastard . 	
+TS3008c.A.dialog-act.dharshi.138	So I can also say 	
+TS3008c.B.dialog-act.dharshi.120	We can you away . 	
+TS3008c.A.dialog-act.dharshi.139	But did we skip the 	
+TS3008c.D.dialog-act.dharshi.195		
+TS3008c.A.dialog-act.dharshi.140	Yeah , you could do 	
+TS3008c.A.dialog-act.dharshi.141	m but what what i so what i but do you think we should 	
+TS3008c.B.dialog-act.dharshi.121	Yeah , I don't know . 	
+TS3008c.B.dialog-act.dharshi.122	Uh , uh I i if it's it's a simple p 	
+TS3008c.A.dialog-act.dharshi.142	We're not even sure what what information we want to display on it . So 	
+TS3008c.B.dialog-act.dharshi.123	No , that that's right , 	
+TS3008c.C.dialog-act.dharshi.122	No uh um 	
+TS3008c.B.dialog-act.dharshi.124	and uh I also have to think about new functions , maybe buttons or something like that to control it . 	
+TS3008c.B.dialog-act.dharshi.125	Kind of L_C_D_ or something or 	
+TS3008c.C.dialog-act.dharshi.123	Y yes , you can use uh buttons uh uh w that are already uh on the remote control for double functions . 	
+TS3008c.D.dialog-act.dharshi.197	Yeah , I guess . 	
+TS3008c.B.dialog-act.dharshi.126	But how does it display then ? 	
+TS3008c.B.dialog-act.dharshi.127	W when I go to the second channel , what what does it show me ? 	
+TS3008c.C.dialog-act.dharshi.124	Uh , then you push a button . 	
+TS3008c.C.dialog-act.dharshi.125	The title and the information about the programme . 	
+TS3008c.B.dialog-act.dharshi.128	About that programme ? 	
+TS3008c.C.dialog-act.dharshi.126	But but uh 	
+TS3008c.C.dialog-act.dharshi.127	yeah , what he said was right , about the televisions , they have to be uh customised to the 	
+TS3008c.A.dialog-act.dharshi.143	Nah , that's not gonna work . 	
+TS3008c.C.dialog-act.dharshi.128	But maybe in future it will be a giant hit , and when you are the first 	
+TS3008c.D.dialog-act.dharshi.198	No . 	
+TS3008c.A.dialog-act.dharshi.144	Yeah . 	
+TS3008c.C.dialog-act.dharshi.129	you have the biggest uh 	
+TS3008c.A.dialog-act.dharshi.145	Oh , well uh I've seen it done before . 	
+TS3008c.A.dialog-act.dharshi.146	Do you know th like the the bigger rem uh universal remotes , they have d L_C_D_ displays , 	
+TS3008c.B.dialog-act.dharshi.129	Yeah . 	
+TS3008c.A.dialog-act.dharshi.147	but then it's very functional to indicate which what uh uh device you are controlling . 	
+TS3008c.A.dialog-act.dharshi.148	So it's that that's what I've seen . 	
+TS3008c.D.dialog-act.dharshi.199	Yeah , that's true , 	
+TS3008c.C.dialog-act.dharshi.130	Yes , you can put uh a little L_C_D_ display on it with uh with lots of information . 	
+TS3008c.D.dialog-act.dharshi.200	if you uh Yeah . 	
+TS3008c.A.dialog-act.dharshi.149	But it just it j it doesn't doesn't match with the our whole basic concept . 	
+TS3008c.C.dialog-act.dharshi.131	But uh I haven't thought about it . 	
+TS3008c.C.dialog-act.dharshi.132	But whe but when you put a a a transparent uh plastic uh uh screen on top of it , it i it isn't vulnerable . 	
+TS3008c.A.dialog-act.dharshi.150	Well yeah , yeah , okay . That's maybe not the most important , 	
+TS3008c.C.dialog-act.dharshi.133	You can throw with it and 	
+TS3008c.A.dialog-act.dharshi.151	but it's just 	
+TS3008c.B.dialog-act.dharshi.130	Is it fashion ? 	
+TS3008c.C.dialog-act.dharshi.134	When when you put uh maybe a colour L_C_D_ t uh screen on it , it's very special and very trendy to have uh a remote control from 	
+TS3008c.A.dialog-act.dharshi.152	I don't think so . 	
+TS3008c.B.dialog-act.dharshi.132	I don't know . 	
+TS3008c.B.dialog-act.dharshi.133	That's not up to you . That's up to market if i if it's trendy . 	
+TS3008c.A.dialog-act.dharshi.153	Yeah , well do you ha do you have to You haven't looked after the trendiness of L_C_D_ displays , have you ? 	
+TS3008c.D.dialog-act.dharshi.201	No . 	
+TS3008c.C.dialog-act.dharshi.135		
+TS3008c.B.dialog-act.dharshi.134	Because our our motto is we put fashion 	
+TS3008c.D.dialog-act.dharshi.202	Well , I think it's uh I think it's pretty trendy , to be honest , 	
+TS3008c.D.dialog-act.dharshi.203	uh but um I don't know if if if 	
+TS3008c.D.dialog-act.dharshi.204	well , I'm coming back to the costs again , but I think uh we gotta build a b pretty cheap design to to stay within our limits . 	
+TS3008c.D.dialog-act.dharshi.205	And I think uh especially colour L_C_D_ , which is indeed pretty trendy . But I don't think Uh , I think it will be too expensive . 	
+TS3008c.C.dialog-act.dharshi.136	But uh I've got a the email with uh with the possibilities . And L_C_D_ was a possibility for the remote control . 	
+TS3008c.A.dialog-act.dharshi.154		
+TS3008c.B.dialog-act.dharshi.135		
+TS3008c.A.dialog-act.dharshi.155	Yeah yeah yeah . 	
+TS3008c.C.dialog-act.dharshi.137	So why don't we use it . 	
+TS3008c.D.dialog-act.dharshi.206	Uh , did it say a price also uh for for uh monogramme uh L_C_D_ or uh coloured L_C_D_ ? 	
+TS3008c.A.dialog-act.dharshi.156	Yeah , but we're gonna if it 	
+TS3008c.B.dialog-act.dharshi.136	Yeah , if you want to be trendy you have to be coloured . 	
+TS3008c.B.dialog-act.dharshi.137	Coloured 	
+TS3008c.D.dialog-act.dharshi.207	Yeah really , 	
+TS3008c.D.dialog-act.dharshi.208	if y if you c i 	
+TS3008c.B.dialog-act.dharshi.138	If you have black and white or something , or grey , that's 	
+TS3008c.D.dialog-act.dharshi.209	I in in two thousand and four you can't uh put something on the market which is a monogramme . 	
+TS3008c.A.dialog-act.dharshi.158	Then uh then you better don't yeah , d 	
+TS3008c.A.dialog-act.dharshi.157		
+TS3008c.B.dialog-act.dharshi.139		
+TS3008c.D.dialog-act.dharshi.210	Really . 	
+TS3008c.C.dialog-act.dharshi.139	No , but it doesn't sa say anything about a colour or 	
+TS3008c.C.dialog-act.dharshi.140	But , mm , I alf I also got a possibility to put uh a scroll button on it . 	
+TS3008c.C.dialog-act.dharshi.141	But 	
+TS3008c.C.dialog-act.dharshi.138		
+TS3008c.A.dialog-act.dharshi.159	Uh uh I really don't feel the whole idea of an L_C_D_ display . 	
+TS3008c.C.dialog-act.dharshi.142	I didn't think that 	
+TS3008c.D.dialog-act.dharshi.211		
+TS3008c.A.dialog-act.dharshi.160	I'm sorry . 	
+TS3008c.A.dialog-act.dharshi.161	It can't co you cannot convince me . 	
+TS3008c.A.dialog-act.dharshi.162	I don't know how well how to with you guys , but 	
+TS3008c.A.dialog-act.dharshi.163	I don't really feel it . 	
+TS3008c.A.dialog-act.dharshi.164	We already we're uh 	
+TS3008c.B.dialog-act.dharshi.140	It's too much uh maybe uh with with the L_C_D_ and the docking station and 	
+TS3008c.A.dialog-act.dharshi.165	Yeah , we already have the the th th th base station gadgets , 	
+TS3008c.D.dialog-act.dharshi.212	Yeah . 	
+TS3008c.A.dialog-act.dharshi.166	and want and it uh uh , do 	
+TS3008c.A.dialog-act.dharshi.167	it has to be a simple design , which sturdy , which soft 	
+TS3008c.C.dialog-act.dharshi.143	Yes , but o on the 	
+TS3008c.D.dialog-act.dharshi.213	W we've we've gotta find a balance , of course . 	
+TS3008c.B.dialog-act.dharshi.141	With one thing special . 	
+TS3008c.D.dialog-act.dharshi.214	And I think 	
+TS3008c.B.dialog-act.dharshi.142	Not a whole package of specialty . 	
+TS3008c.A.dialog-act.dharshi.168	I don't think 	
+TS3008c.A.dialog-act.dharshi.169	I j uh , 	
+TS3008c.A.dialog-act.dharshi.170	and really , I don't see how the the L_C_D_ display is gonna add anything , you know , on a design level . 	
+TS3008c.A.dialog-act.dharshi.171	Uh , I think it's slicker to have no L_ CEDs . 	
+TS3008c.C.dialog-act.dharshi.144	No , when y 	
+TS3008c.A.dialog-act.dharshi.172	Y we want to 	
+TS3008c.C.dialog-act.dharshi.145	But it look 	
+TS3008c.A.dialog-act.dharshi.173	it's simplicity , w you have two big buttons and you can do whatever you want with these two buttons , so you don't need an L_C_D_ . 	
+TS3008c.C.dialog-act.dharshi.146	Yes , but that remote controls are already on the market . The simple 	
+TS3008c.A.dialog-act.dharshi.174	It doesn't fit in our philosophy uh behind the whole remote . 	
+TS3008c.C.dialog-act.dharshi.147	Yes , but but when you want to have something special 	
+TS3008c.A.dialog-act.dharshi.175	Yeah , but we already have the docking station , which is 	
+TS3008c.C.dialog-act.dharshi.148	Yes , but you had a picture of it from another company . 	
+TS3008c.D.dialog-act.dharshi.215	We have a pear . 	
+TS3008c.B.dialog-act.dharshi.143	And uh the 	
+TS3008c.A.dialog-act.dharshi.176	It has to be developed , 	
+TS3008c.B.dialog-act.dharshi.144	Yeah . 	
+TS3008c.C.dialog-act.dharshi.151		
+TS3008c.C.dialog-act.dharshi.150		
+TS3008c.A.dialog-act.dharshi.177	but no , but it that's 	
+TS3008c.C.dialog-act.dharshi.149		
+TS3008c.A.dialog-act.dharshi.178	that's our that's our killer feature . 	
+TS3008c.B.dialog-act.dharshi.145	It's just an it's just an idea . 	
+TS3008c.D.dialog-act.dharshi.216		
+TS3008c.A.dialog-act.dharshi.179	That's our what makes it special . 	
+TS3008c.B.dialog-act.dharshi.146	It's a it's 	
+TS3008c.C.dialog-act.dharshi.152	Yes , it was already made . Tha the remote control on the docking station . 	
+TS3008c.A.dialog-act.dharshi.180	Yeah , we're gonna develop our own r n docking station . 	
+TS3008c.B.dialog-act.dharshi.147	True . 	
+TS3008c.D.dialog-act.dharshi.217	Is that so ? Was it it wasn't just a prototype ? 	
+TS3008c.C.dialog-act.dharshi.153	Yes , he have a picture of it . 	
+TS3008c.B.dialog-act.dharshi.148	Well uh I uh 	
+TS3008c.B.dialog-act.dharshi.149	Yeah , I dunno . 	
+TS3008c.A.dialog-act.dharshi.181		
+TS3008c.C.dialog-act.dharshi.154		
+TS3008c.D.dialog-act.dharshi.218	Exactly , 	
+TS3008c.C.dialog-act.dharshi.155		
+TS3008c.D.dialog-act.dharshi.219	I've never seen it in a store . 	
+TS3008c.B.dialog-act.dharshi.150		
+TS3008c.A.dialog-act.dharshi.182	Uh , but re we really have to cut this off , 	
+TS3008c.A.dialog-act.dharshi.183	I re I know you I I I I 	
+TS3008c.A.dialog-act.dharshi.184	I get the idea you really like it , you know , the the L_C_D_ thing , but I I think it's it's not a good idea , and we have already mentioned all the arguments . 	
+TS3008c.A.dialog-act.dharshi.185	I don't uh , 	
+TS3008c.A.dialog-act.dharshi.186	do you guys agre How do you guys think ? 	
+TS3008c.A.dialog-act.dharshi.187	I d 	
+TS3008c.B.dialog-act.dharshi.151	No , it's too much . 	
+TS3008c.D.dialog-act.dharshi.220	I think it's a little too much , yeah . 	
+TS3008c.B.dialog-act.dharshi.152	It's overdone . 	
+TS3008c.A.dialog-act.dharshi.188	Okay , we s skip the L_C_D_ display . 	
+TS3008c.C.dialog-act.dharshi.156	Okay . 	
+TS3008c.B.dialog-act.dharshi.153		
+TS3008c.D.dialog-act.dharshi.221	Okay . 	
+TS3008c.C.dialog-act.dharshi.157		
+TS3008c.A.dialog-act.dharshi.189	I'm sorry , 	
+TS3008c.C.dialog-act.dharshi.158		
+TS3008c.B.dialog-act.dharshi.154	Democratically . 	
+TS3008c.A.dialog-act.dharshi.190	maybe you can do something if we are at your own place , or make it make it make it happen in your basement or something . 	
+TS3008c.D.dialog-act.dharshi.222	No . 	
+TS3008c.B.dialog-act.dharshi.155		
+TS3008c.D.dialog-act.dharshi.223	. 	
+TS3008c.C.dialog-act.dharshi.159	Mayb 	
+TS3008c.D.dialog-act.dharshi.224		
+TS3008c.C.dialog-act.dharshi.160	I will rule the world with it . 	
+TS3008c.A.dialog-act.dharshi.191	But 	
+TS3008c.A.dialog-act.dharshi.192	Probably so . 	
+TS3008c.D.dialog-act.dharshi.225	Yeah , yeah , yeah , yeah . 	
+TS3008c.A.dialog-act.dharshi.193	Okay . 	
+TS3008c.A.dialog-act.dharshi.194	But for the technical part . 	
+TS3008c.A.dialog-act.dharshi.195	The m material , I think uh it was a good idea to use the plastic and uh the rubber . Uh 	
+TS3008c.C.dialog-act.dharshi.161	Yes , maybe a bit of a cushion is 	
+TS3008c.A.dialog-act.dharshi.196	Yeah yeah yeah , p Exactly . 	
+TS3008c.A.dialog-act.dharshi.197	This is what it w Yeah , but it it was already what we're uh we're after , you know , to give it uh , you know , the soft touch in your hands 	
+TS3008c.D.dialog-act.dharshi.226	Yeah , for the spongy uh feel . Yeah . 	
+TS3008c.C.dialog-act.dharshi.162	Yes . 	
+TS3008c.B.dialog-act.dharshi.156	With a spongy Bob feel . 	
+TS3008c.B.dialog-act.dharshi.157	Yeah . 	
+TS3008c.A.dialog-act.dharshi.198	and also to , know , like 	
+TS3008c.A.dialog-act.dharshi.199	Yeah , that is y the b airbag kind of thing . 	
+TS3008c.C.dialog-act.dharshi.163	Like a b 	
+TS3008c.C.dialog-act.dharshi.164	yes . 	
+TS3008c.A.dialog-act.dharshi.200	You can st throw it at your little brother's head . 	
+TS3008c.D.dialog-act.dharshi.227	Yeah , airbag . 	
+TS3008c.B.dialog-act.dharshi.158	Yeah , you just can drop it . Yeah . 	
+TS3008c.D.dialog-act.dharshi.228	If you drop it if you drop it the airbag comes out , yeah . 	
+TS3008c.B.dialog-act.dharshi.159	Yeah . 	
+TS3008c.A.dialog-act.dharshi.201	Yeah . No no no , not that comfy . 	
+TS3008c.D.dialog-act.dharshi.229		
+TS3008c.C.dialog-act.dharshi.165	Maybe it 	
+TS3008c.C.dialog-act.dharshi.166	but then we have to look that it uh w uh will not um be too childish to see . 	
+TS3008c.A.dialog-act.dharshi.202	Yeah yeah . Yeah . Okay , that's a that's a good point . 	
+TS3008c.A.dialog-act.dharshi.203	And that's why I like the dark t col dark colour bit , you know , 	
+TS3008c.D.dialog-act.dharshi.230	Yeah . 	
+TS3008c.A.dialog-act.dharshi.204	because it may be the design uh , it's uh maybe it is a bit of the 	
+TS3008c.B.dialog-act.dharshi.160	But not black I think . 	
+TS3008c.A.dialog-act.dharshi.205	it's a bit nineties maybe , what we're what we're up to rat fun to this point . 	
+TS3008c.D.dialog-act.dharshi.231	No . 	
+TS3008c.B.dialog-act.dharshi.161	Well if if it's fruit and vegetables , it have to be colourful . 	
+TS3008c.A.dialog-act.dharshi.206	Yeah , that's that's true , but but it has to be a little big solid . 	
+TS3008c.D.dialog-act.dharshi.232	Yeah , b yeah , that's what w I I was pointing at . 	
+TS3008c.B.dialog-act.dharshi.162	But can we ge uh uh 	
+TS3008c.A.dialog-act.dharshi.207	It mustn't be too , n you know , th too overwhelming , 	
+TS3008c.A.dialog-act.dharshi.208	then when you put it on your just 	
+TS3008c.B.dialog-act.dharshi.163	Can we combine it or something ? Uh with uh yellow and black ? 	
+TS3008c.A.dialog-act.dharshi.209	Yeah . 	
+TS3008c.A.dialog-act.dharshi.210	Yeah , maybe so . 	
+TS3008c.B.dialog-act.dharshi.164	Make it a bee ? 	
+TS3008c.D.dialog-act.dharshi.233	What ? 	
+TS3008c.B.dialog-act.dharshi.165	A bee . 	
+TS3008c.D.dialog-act.dharshi.234	Oh , a bee . Oh . 	
+TS3008c.A.dialog-act.dharshi.212	No , uh I don't like the yellow and black combination . 	
+TS3008c.A.dialog-act.dharshi.213	But it is our company colours . Apparently . 	
+TS3008c.C.dialog-act.dharshi.167	Yes , real real good colours . 	
+TS3008c.B.dialog-act.dharshi.166	Yeah , it's our yeah . We we have to use yellow . 	
+TS3008c.D.dialog-act.dharshi.235	Yeah . 	
+TS3008c.A.dialog-act.dharshi.211		
+TS3008c.D.dialog-act.dharshi.236	Hmm . 	
+TS3008c.C.dialog-act.dharshi.168	Hmm . 	
+TS3008c.A.dialog-act.dharshi.214	I don't like yellow , 	
+TS3008c.A.dialog-act.dharshi.215	and uh maybe I don't know . 	
+TS3008c.D.dialog-act.dharshi.237	Well , we can as as I 	
+TS3008c.C.dialog-act.dharshi.169	But that's not really fruity . 	
+TS3008c.D.dialog-act.dharshi.238	draw really nicely over there . 	
+TS3008c.D.dialog-act.dharshi.239	We can put the logo on our uh on our base station . 	
+TS3008c.D.dialog-act.dharshi.240	Uh , yeah . And maybe very very tiny on the remote control itself . 	
+TS3008c.A.dialog-act.dharshi.216	But 	
+TS3008c.D.dialog-act.dharshi.241	But , i 	
+TS3008c.A.dialog-act.dharshi.217	Okay , but what uh , what are other tef technical things we have to discuss ? 	
+TS3008c.B.dialog-act.dharshi.167		
+TS3008c.C.dialog-act.dharshi.170	Uh fronts 	
+TS3008c.A.dialog-act.dharshi.218		
+TS3008c.C.dialog-act.dharshi.171	of the 	
+TS3008c.C.dialog-act.dharshi.172	We can have uh different uh uh fronts of the 	
+TS3008c.A.dialog-act.dharshi.219	Should we do that ? 	
+TS3008c.C.dialog-act.dharshi.173	telephone . 	
+TS3008c.A.dialog-act.dharshi.220	I don't think you we should do that . 	
+TS3008c.A.dialog-act.dharshi.221	Maybe just bring it out in different colours , 	
+TS3008c.B.dialog-act.dharshi.168	Different fronts . 	
+TS3008c.A.dialog-act.dharshi.222	but not af that you can switch fronts afterwards , that's also too much . 	
+TS3008c.D.dialog-act.dharshi.242	Yeah . I guess that's that's enough . 	
+TS3008c.A.dialog-act.dharshi.223	People don't wanna spend more money on their remote control , I guess . 	
+TS3008c.D.dialog-act.dharshi.243	That's way too Nokia . 	
+TS3008c.B.dialog-act.dharshi.169	Yeah . 	
+TS3008c.B.dialog-act.dharshi.170	Uh , you can you can l uh let choose the customer which colour he wants , yeah . 	
+TS3008c.C.dialog-act.dharshi.174	Are these designs ? 	
+TS3008c.A.dialog-act.dharshi.224	Yeah , yeah . 	
+TS3008c.D.dialog-act.dharshi.244	Yeah , definitely . Just bring more designs on the market . 	
+TS3008c.B.dialog-act.dharshi.171	Yeah , Three three or four uh four uh colours , or something like that . 	
+TS3008c.A.dialog-act.dharshi.225	But uh , without gon uh 	
+TS3008c.D.dialog-act.dharshi.245	Why not , yeah . 	
+TS3008c.A.dialog-act.dharshi.226	okay . 	
+TS3008c.A.dialog-act.dharshi.227	So , are we through the technical part then ? 	
+TS3008c.C.dialog-act.dharshi.175	Yes . 	
+TS3008c.A.dialog-act.dharshi.228	Okay . 	
+TS3008c.A.dialog-act.dharshi.229	So we uh agreed upon uh n uh well , not u unanimously or how you call it , but Yeah . 	
+TS3008c.C.dialog-act.dharshi.176	It this a real uh young young and dynamic uh uh styles . 	
+TS3008c.B.dialog-act.dharshi.173	Well , yeah , 	
+TS3008c.B.dialog-act.dharshi.174	the 	
+TS3008c.B.dialog-act.dharshi.172	Three to one . 	
+TS3008c.B.dialog-act.dharshi.175	That's 	
+TS3008c.A.dialog-act.dharshi.230	The materials you uh mentioned in your your personal preferences were all were quite okay . 	
+TS3008c.C.dialog-act.dharshi.177	Yes . 	
+TS3008c.A.dialog-act.dharshi.231	O o only only the last point your 	
+TS3008c.B.dialog-act.dharshi.176	And tita uh titanium , is uh is is it a no ? 	
+TS3008c.C.dialog-act.dharshi.179	Yes , 	
+TS3008c.A.dialog-act.dharshi.232	no titanium's not not out of question , I guess . 	
+TS3008c.B.dialog-act.dharshi.177	Is 	
+TS3008c.C.dialog-act.dharshi.178	But also w 	
+TS3008c.B.dialog-act.dharshi.178	It's just like that , th this titanium . 	
+TS3008c.C.dialog-act.dharshi.182	Yes , b bu but when we use s soft 	
+TS3008c.A.dialog-act.dharshi.234	But is it possible to use both the the plastic and so uh soft things and t p titanium , as well ? 	
+TS3008c.C.dialog-act.dharshi.180	mm 	
+TS3008c.D.dialog-act.dharshi.246	Sure . 	
+TS3008c.A.dialog-act.dharshi.235	Makes it in a homogeneous uh design . 	
+TS3008c.C.dialog-act.dharshi.181	Mm . 	
+TS3008c.B.dialog-act.dharshi.179	No , not all , not all of them . 	
+TS3008c.C.dialog-act.dharshi.183	But it it then it uh you can't throw it it . It will uh make a huge noise or break other stuff 	
+TS3008c.A.dialog-act.dharshi.233		
+TS3008c.C.dialog-act.dharshi.184	when you throw with uh titanium with your remote control . 	
+TS3008c.A.dialog-act.dharshi.236	It will it will break other stuff w when it's plastic , as well . 	
+TS3008c.B.dialog-act.dharshi.180		
+TS3008c.D.dialog-act.dharshi.247		
+TS3008c.C.dialog-act.dharshi.185	No uh , 	
+TS3008c.A.dialog-act.dharshi.237	Yeah . 	
+TS3008c.C.dialog-act.dharshi.186	titanium is a bit uh it's a bit harder . 	
+TS3008c.D.dialog-act.dharshi.248	Yeah , that's true . 	
+TS3008c.A.dialog-act.dharshi.238	No , but uh uh , you should ma Yeah . 	
+TS3008c.C.dialog-act.dharshi.187	But also on the colours , the young 	
+TS3008c.A.dialog-act.dharshi.239	Okay , think of the possibilities and make it in completely titanium . 	
+TS3008c.A.dialog-act.dharshi.240	Well would it be more trendy ? More chic ? 	
+TS3008c.D.dialog-act.dharshi.249	Yeah , I think it I think it does . 	
+TS3008c.B.dialog-act.dharshi.181	Uh , I think titanium nowadays is way more often used than plastic . 	
+TS3008c.C.dialog-act.dharshi.188	Yes , but a titanium remote control , when you're uh watching T_V_ uh or your hands are a little bit sweaty , and the 	
+TS3008c.B.dialog-act.dharshi.182	In trendy things . 	
+TS3008c.D.dialog-act.dharshi.250	Yeah , o 	
+TS3008c.D.dialog-act.dharshi.251	On the other hand , if you want to make fruit fruity stuff with uh 	
+TS3008c.B.dialog-act.dharshi.183	Yeah . 	
+TS3008c.B.dialog-act.dharshi.184	It's cold in the winter . 	
+TS3008c.C.dialog-act.dharshi.189	Yes . 	
+TS3008c.A.dialog-act.dharshi.241	Yeah , but I I really like the idea of the the the plastic and the big kind of thing . 	
+TS3008c.B.dialog-act.dharshi.185	Yeah . 	
+TS3008c.A.dialog-act.dharshi.242	But the question is i then it's , you know , is is it fits in our s philosophy to make it uh sturdy and simple and uh , know , like uh 	
+TS3008c.D.dialog-act.dharshi.252	Yeah , that's true , that's true . 	
+TS3008c.C.dialog-act.dharshi.190	Sports and gaming . Define 	
+TS3008c.A.dialog-act.dharshi.243	When you make it titanium , it becomes more like some kind of gadget you actually don't need . 	
+TS3008c.A.dialog-act.dharshi.244	And when it's big and plastic , it's like some fun stuff you can always have around . 	
+TS3008c.A.dialog-act.dharshi.245	It's always fun to have something big and plastic around . 	
+TS3008c.D.dialog-act.dharshi.253	Yes . Yeah . 	
+TS3008c.B.dialog-act.dharshi.186	You have that uh M_P_ three player of Nike , I saw . 	
+TS3008c.B.dialog-act.dharshi.187	Isn't that titanium with a little bit of rubber ? 	
+TS3008c.C.dialog-act.dharshi.191	Yes , it's w but it is uh plastic . 	
+TS3008c.B.dialog-act.dharshi.188	Isn't it 	
+TS3008c.B.dialog-act.dharshi.189	Is plastic ? Well , it's titanium looking . 	
+TS3008c.C.dialog-act.dharshi.192	Yes , w we can do that on the on the 	
+TS3008c.D.dialog-act.dharshi.254	What ? 	
+TS3008c.B.dialog-act.dharshi.190	Yeah , he is . Here he is . 	
+TS3008c.B.dialog-act.dharshi.191	Uh , the I don't know if you know the M_P_ three player of Nike . 	
+TS3008c.B.dialog-act.dharshi.192	'Kay , uh that that's very uh with rubber , so it's very 	
+TS3008c.D.dialog-act.dharshi.255	Oh , yeah . Okay , yeah . 	
+TS3008c.A.dialog-act.dharshi.246	Yeah , that's beautiful . 	
+TS3008c.D.dialog-act.dharshi.256	Yeah , I see . 	
+TS3008c.C.dialog-act.dharshi.193	We can make this as a style too . 	
+TS3008c.D.dialog-act.dharshi.257	Yeah , but but but 	
+TS3008c.B.dialog-act.dharshi.193	rough . 	
+TS3008c.C.dialog-act.dharshi.194	Uh , this is uh just a 	
+TS3008c.A.dialog-act.dharshi.247	Oh , maybe th maybe this is an 	
+TS3008c.D.dialog-act.dharshi.258	Yeah , I th I think that's difficult , 	
+TS3008c.D.dialog-act.dharshi.259	because uh that's different material , and then you gotta have like uh uh uh two material lines of of of 	
+TS3008c.C.dialog-act.dharshi.195	No , we c we can make it from the same kind of plastic . 	
+TS3008c.D.dialog-act.dharshi.262	Yeah , if it's just a colour uh which you uh which you change then , I guess it's it's nice to have one of these . 	
+TS3008c.D.dialog-act.dharshi.261	Uh 	
+TS3008c.C.dialog-act.dharshi.196	Uh 	
+TS3008c.A.dialog-act.dharshi.248	No , I do like the idea of maybe a t titanium kind type of body w and then with s plastic colouration around it . 	
+TS3008c.A.dialog-act.dharshi.249	You know , like the the soft stuff , 	
+TS3008c.D.dialog-act.dharshi.260	Yeah . 	
+TS3008c.A.dialog-act.dharshi.250	but I don't know if it's possible . 	
+TS3008c.C.dialog-act.dharshi.197	I don't have the information . Uh , I I didn't got it 	
+TS3008c.A.dialog-act.dharshi.251	But you can't make the plastic give uh the ti titanium look . 	
+TS3008c.B.dialog-act.dharshi.194	True . 	
+TS3008c.C.dialog-act.dharshi.198	Yes . 	
+TS3008c.A.dialog-act.dharshi.253	But make it just like shiny . 	
+TS3008c.D.dialog-act.dharshi.263	Mm-hmm . 	
+TS3008c.B.dialog-act.dharshi.195	Yeah yeah , true . 	
+TS3008c.A.dialog-act.dharshi.252	Maybe we should uh shou 	
+TS3008c.C.dialog-act.dharshi.199	Like the M_P_ three player . 	
+TS3008c.B.dialog-act.dharshi.196	Yeah , maybe that's good idea , yeah . 	
+TS3008c.B.dialog-act.dharshi.197	But if you want to la uh yeah , last longer than two weeks or something like that , you can maybe 	
+TS3008c.D.dialog-act.dharshi.264	Yeah . 	
+TS3008c.A.dialog-act.dharshi.254	And uh and 	
+TS3008c.D.dialog-act.dharshi.265		
+TS3008c.A.dialog-act.dharshi.255	maybe we sh should we t I don't know if we should talk about uh , 	
+TS3008c.A.dialog-act.dharshi.256	how how much time have we got left ? 	
+TS3008c.C.dialog-act.dharshi.200	Uh , in a lot of other uh 	
+TS3008c.B.dialog-act.dharshi.198	I don't know . 	
+TS3008c.B.dialog-act.dharshi.199	What time does 	
+TS3008c.A.dialog-act.dharshi.257	Forty minutes . 	
+TS3008c.C.dialog-act.dharshi.201	in a lot of other product uh categories like uh even in b in bags industry . Uh , they began with uh t typical uh leather bags , but then they became stylish , with all all si all sort of colours , 	
+TS3008c.C.dialog-act.dharshi.202	and w kind of fon of uh of fronts , like we can use on the telephone and it 	
+TS3008c.D.dialog-act.dharshi.266	Yeah . 	
+TS3008c.A.dialog-act.dharshi.258	Okay . 	
+TS3008c.C.dialog-act.dharshi.203	Like Eastpack uh began a revolution with it with all this uh kind of bags and and colours and and 	
+TS3008c.A.dialog-act.dharshi.259	You putting in different colours . 	
+TS3008c.C.dialog-act.dharshi.204	Yes , and and styles . 	
+TS3008c.A.dialog-act.dharshi.260	Okay . 	
+TS3008c.C.dialog-act.dharshi.205	They have uh also uh a kind of uh um 	
+TS3008c.C.dialog-act.dharshi.206	uh roses on it , 	
+TS3008c.C.dialog-act.dharshi.207	a and uh 	
+TS3008c.D.dialog-act.dharshi.267	Uh yeah , yeah . 	
+TS3008c.A.dialog-act.dharshi.261	Okay . Yeah , but w yeah . 	
+TS3008c.B.dialog-act.dharshi.200		
+TS3008c.A.dialog-act.dharshi.262	Well , it is . It's a possibility . 	
+TS3008c.A.dialog-act.dharshi.263	But , let's think about the bas 	
+TS3008c.C.dialog-act.dharshi.208	Then we can always uh use the same design for a greater resemblance , but with new uh with new colours , new 	
+TS3008c.D.dialog-act.dharshi.268	Yes . 	
+TS3008c.D.dialog-act.dharshi.269	New prints on it . Yep . 	
+TS3008c.A.dialog-act.dharshi.264	Mm-hmm , mm-hmm . 	
+TS3008c.C.dialog-act.dharshi.209	yes . 	
+TS3008c.A.dialog-act.dharshi.265	But wha th our basic idea y I mean , you gonna we're probably gonna have like two type of materials , like the d d b the plastic uh enclosure and then the the pads that surround it . 	
+TS3008c.A.dialog-act.dharshi.266	And and pro and lights . We have to incorporate the lights too . 	
+TS3008c.A.dialog-act.dharshi.267	But , uh do w gonna gonna are we going to give it a two-tone colour look , like the the plastic mould is in in one colour and the s the cushion pads around it are in another colour ? 	
+TS3008c.A.dialog-act.dharshi.268	Is that the idea ? Is that a good idea ? 	
+TS3008c.D.dialog-act.dharshi.270	How do you mean ? 	
+TS3008c.D.dialog-act.dharshi.271	Th th the uh base in a in another 	
+TS3008c.B.dialog-act.dharshi.201	The rubber . 	
+TS3008c.A.dialog-act.dharshi.269	How many colours are we how many colours are we gonna we're uh uh f uh f 	
+TS3008c.A.dialog-act.dharshi.270	Only five minutes left , by the way . 	
+TS3008c.D.dialog-act.dharshi.272	Yes . 	
+TS3008c.A.dialog-act.dharshi.271	How many colours are we gonna give it ? 	
+TS3008c.A.dialog-act.dharshi.272	Like two-tone colour ? T 	
+TS3008c.C.dialog-act.dharshi.210	There there are three uh components three components type . 	
+TS3008c.B.dialog-act.dharshi.202	Yeah . Uh no , not too much I think . 	
+TS3008c.C.dialog-act.dharshi.211	You have the buttons , the the case uh itself , and the rubber and th 	
+TS3008c.D.dialog-act.dharshi.273	How the buttons yeah . 	
+TS3008c.A.dialog-act.dharshi.273	I think maybe the case itself should be in one colour and then the rubber of the buttons , and the cushions as well should be in another colour . 	
+TS3008c.C.dialog-act.dharshi.212	Yes . 	
+TS3008c.B.dialog-act.dharshi.203	Or you just make uh one colour , uh maybe with a a z a kind of like a big wave or something like uh 	
+TS3008c.D.dialog-act.dharshi.274	Yeah . 	
+TS3008c.A.dialog-act.dharshi.274	Okay , but not more than 	
+TS3008c.B.dialog-act.dharshi.204	In in another colour . 	
+TS3008c.A.dialog-act.dharshi.276	Well , yeah , it's 	
+TS3008c.B.dialog-act.dharshi.205	Not more than two colours I think . 	
+TS3008c.A.dialog-act.dharshi.277	No . 	
+TS3008c.D.dialog-act.dharshi.275	No , definitely not . 	
+TS3008c.B.dialog-act.dharshi.206	It's a g a little bit too flashy . 	
+TS3008c.A.dialog-act.dharshi.275	Maybe we should talk about it on a l in a later meeting . 	
+TS3008c.D.dialog-act.dharshi.276	Yes , definitely . 	
+TS3008c.C.dialog-act.dharshi.213	Yeah , or or when you use the buttons as black , it you can use two colours as well uh 	
+TS3008c.A.dialog-act.dharshi.278	Okay . 	
+TS3008c.A.dialog-act.dharshi.279	But we have to uh think of some other uh important things . 	
+TS3008c.C.dialog-act.dharshi.214		
+TS3008c.A.dialog-act.dharshi.280	Uh oh yeah , the the functionalities of the the buttons . 	
+TS3008c.B.dialog-act.dharshi.207	The funct yeah , I was I was thinking about th the st do we still want a joystick idea . 	
+TS3008c.A.dialog-act.dharshi.281	No . 	
+TS3008c.D.dialog-act.dharshi.277	No , I think that's too vulnerable . 	
+TS3008c.A.dialog-act.dharshi.282		
+TS3008c.B.dialog-act.dharshi.208	Yeah . 	
+TS3008c.A.dialog-act.dharshi.283	I think this is okay , 	
+TS3008c.A.dialog-act.dharshi.284	the 	
+TS3008c.A.dialog-act.dharshi.285	so we have the basic . 	
+TS3008c.A.dialog-act.dharshi.286	Then we have the numbers . We have the power button . We have we have a teletext button . 	
+TS3008c.B.dialog-act.dharshi.209	The volume , teletext and 	
+TS3008c.A.dialog-act.dharshi.287	And maybe want to access a a menu or something . 	
+TS3008c.D.dialog-act.dharshi.278	Yeah , but that's that's I was thinking that's gotta be on the television . 	
+TS3008c.A.dialog-act.dharshi.288	Most T_V_s have a menu . 	
+TS3008c.B.dialog-act.dharshi.210		
+TS3008c.A.dialog-act.dharshi.289	Yeah , but I think you ha I really need a menu button . 	
+TS3008c.B.dialog-act.dharshi.211	Yeah yeah yeah yeah , b 	
+TS3008c.A.dialog-act.dharshi.290	That's just i the only button only 	
+TS3008c.B.dialog-act.dharshi.212	Yeah , but wha what kind of menu ? 	
+TS3008c.A.dialog-act.dharshi.292	You know , I 	
+TS3008c.B.dialog-act.dharshi.213	Is uh isn't that different from every television ? 	
+TS3008c.A.dialog-act.dharshi.291	No , I think most T_V_s have an uh a menu nowadays to access the uh uh screen settings . And so 	
+TS3008c.D.dialog-act.dharshi.279	Mm . 	
+TS3008c.D.dialog-act.dharshi.280	Yeah , if it's c if 	
+TS3008c.D.dialog-act.dharshi.281	Yeah , I think it's okay to to add a menu button for uh 	
+TS3008c.B.dialog-act.dharshi.214		
+TS3008c.A.dialog-act.dharshi.293	But that that covers all the all the other settings . It covers everything then . 	
+TS3008c.D.dialog-act.dharshi.282	and if the T_V_ doesn't have a menu , then 	
+TS3008c.C.dialog-act.dharshi.215	But then you have to put uh up and down and uh left and right 	
+TS3008c.D.dialog-act.dharshi.283	Yeah . 	
+TS3008c.D.dialog-act.dharshi.284	Yeah , you can put that on the two eight four and six or whatever . 	
+TS3008c.A.dialog-act.dharshi.294	No , you can use the 	
+TS3008c.A.dialog-act.dharshi.295	And you al can also use the normal skip buttons for that . 	
+TS3008c.C.dialog-act.dharshi.216	Okay . 	
+TS3008c.A.dialog-act.dharshi.296	Th in that way we have like only the numbers , the power button , skip and volume , and then uh uh ten uh rem 	
+TS3008c.D.dialog-act.dharshi.285	Mm , yeah . 	
+TS3008c.D.dialog-act.dharshi.286	A mute and a teletext and a menu . 	
+TS3008c.A.dialog-act.dharshi.297	uh yeah , mute . A teletext and a menu , and then then i that's it . 	
+TS3008c.B.dialog-act.dharshi.215	Mute . 	
+TS3008c.D.dialog-act.dharshi.287	That's all . 	
+TS3008c.A.dialog-act.dharshi.298	It's all we need . 	
+TS3008c.B.dialog-act.dharshi.216	Yeah . 	
+TS3008c.D.dialog-act.dharshi.288	Hmm . 	
+TS3008c.A.dialog-act.dharshi.299	Okay , uh another stuf some stuff about the the the design of the docking station . 	
+TS3008c.D.dialog-act.dharshi.289	Great . Yeah . 	
+TS3008c.B.dialog-act.dharshi.217	Okay , that's not mu not much functions . So 	
+TS3008c.A.dialog-act.dharshi.300	Something important about a s uh , no , uh which sh uh 	
+TS3008c.A.dialog-act.dharshi.301	should remind us of the remote itself , I guess . 	
+TS3008c.D.dialog-act.dharshi.290	Yeah , definitely . 	
+TS3008c.A.dialog-act.dharshi.302	Uh , in one colour . 	
+TS3008c.D.dialog-act.dharshi.291	Are we gonna do something with the uh spongy thing there ? 	
+TS3008c.A.dialog-act.dharshi.303	Just use 	
+TS3008c.A.dialog-act.dharshi.304	I think the spongy thing already um comes forward in the in the in the cushions , pads and things on the s uh side . 	
+TS3008c.C.dialog-act.dharshi.217	Uh 	
+TS3008c.D.dialog-act.dharshi.292	Yeah , that's true , that's true . 	
+TS3008c.A.dialog-act.dharshi.305	And we will make it spongy and 	
+TS3008c.A.dialog-act.dharshi.306	and uh and uh well , the fruity thing is just the shape should be fru i did 	
+TS3008c.A.dialog-act.dharshi.307	I think this is kind of fruity , you know . Just round shapes with uh 	
+TS3008c.B.dialog-act.dharshi.218		
+TS3008c.D.dialog-act.dharshi.293	Yeah , it's kinda fruity , and with th with catchy colours uh uh w 	
+TS3008c.A.dialog-act.dharshi.308	Yeah , but we're gonna have to we really have to think 	
+TS3008c.A.dialog-act.dharshi.309	I think colours is very important , because it has to be flashy , but and but it d it doesn't have to be annoying , 	
+TS3008c.A.dialog-act.dharshi.310	that when you uh , know , 	
+TS3008c.A.dialog-act.dharshi.311	some things is just over the top , 	
+TS3008c.A.dialog-act.dharshi.312	and when you have it on your table for more than two weeks , you it just gets annoying , because it's so big and flashy . 	
+TS3008c.D.dialog-act.dharshi.294	Yeah , definitely . 	
+TS3008c.A.dialog-act.dharshi.313	Uh , it has to be some level of subtlety , 	
+TS3008c.A.dialog-act.dharshi.314	but we have to still have to think of how we manage to uh 	
+TS3008c.A.dialog-act.dharshi.315	to get to that . 	
+TS3008c.D.dialog-act.dharshi.295	Yeah . 	
+TS3008c.A.dialog-act.dharshi.316	Okay . 	
+TS3008c.D.dialog-act.dharshi.296	Okay . 	
+TS3008c.A.dialog-act.dharshi.317	Guess we're through then . 	
+TS3008c.D.dialog-act.dharshi.297	I guess so . 	
+TS3008c.B.dialog-act.dharshi.219	Okay . 	
+TS3008c.A.dialog-act.dharshi.318	But we I think also we just 	
+TS3008c.A.dialog-act.dharshi.319	so we have to do something with colour but also , I I think we have to keep the dark colour thing in mind . 	
+TS3008c.A.dialog-act.dharshi.320	I think that's uh adds to the 	
+TS3008c.D.dialog-act.dharshi.298	Yes . 	
+TS3008c.B.dialog-act.dharshi.222	Yeah . 	
+TS3008c.A.dialog-act.dharshi.321	too much colour maybe m um 	
+TS3008c.B.dialog-act.dharshi.221	Too much colour , i it uh when you got it in a living room , it's too much maybe 	
+TS3008c.A.dialog-act.dharshi.322	But our des design experts will uh work that out . 	
+TS3008c.D.dialog-act.dharshi.300	Yea yeah . 	
+TS3008c.B.dialog-act.dharshi.220	. It has to be 	
+TS3008c.A.dialog-act.dharshi.323	Okay , well I think the meeting will be over within a minute . 	
+TS3008c.D.dialog-act.dharshi.299	Yep . 	
+TS3008c.B.dialog-act.dharshi.223	Yeah . 	
+TS3008c.A.dialog-act.dharshi.324	So we will wrap up . 	
+TS3008c.D.dialog-act.dharshi.301	Something like that . 	
+TS3008c.A.dialog-act.dharshi.325	Or is there anything we'd like to discuss ? 	
+TS3008c.D.dialog-act.dharshi.302	I guess not . 	
+TS3008c.A.dialog-act.dharshi.326	That's right . 	
+TS3008c.A.dialog-act.dharshi.327	Okay . 	
+TS3008c.D.dialog-act.dharshi.303	Do you , guys ? 	
+TS3008c.B.dialog-act.dharshi.224	No . 	
+TS3008c.D.dialog-act.dharshi.304	No ? 	
+TS3008c.A.dialog-act.dharshi.328	Okay . 	
+TS3008c.A.dialog-act.dharshi.329	Well , you will read the minutes uh in the you can find them in the 	
+TS3008c.D.dialog-act.dharshi.305	In the shared folder . 	
+TS3008c.B.dialog-act.dharshi.225	Oh , okay , yeah . 	
+TS3008c.A.dialog-act.dharshi.330	pro probably . 	
+TS3008c.A.dialog-act.dharshi.331	Yeah uh no , for su for sure 	
+TS3008c.A.dialog-act.dharshi.332	because I'm will now type them out . 	
+TS3008c.C.dialog-act.dharshi.218	What are we going to do now ? 	
+TS3008c.A.dialog-act.dharshi.333	Uh , y yeah . 	
+TS3008c.D.dialog-act.dharshi.306	You'll see in you email , I guess . 	
+TS3008c.B.dialog-act.dharshi.226	Yeah . 	
+TS3008c.C.dialog-act.dharshi.219		
+TS3008c.A.dialog-act.dharshi.334	I think uh 	
+TS3008c.D.dialog-act.dharshi.307	Yeah , I don't know . I don't know . 	
+TS3008c.B.dialog-act.dharshi.227	I hope so . 	
+TS3008c.B.dialog-act.dharshi.228	And the other thing is that you don't have kind of prototype or something like that . 	
+TS3008c.B.dialog-act.dharshi.229	You see a kinda prototype you can a little bit more uh 	
+TS3008c.C.dialog-act.dharshi.220	I will make one in the next uh twenty minutes . 	
+TS3008c.B.dialog-act.dharshi.230	Yeah . 	
+TS3008c.D.dialog-act.dharshi.308	Construct one , yeah . 	
+TS3008c.A.dialog-act.dharshi.335	But toilet paper roll and uh 	
+TS3008c.B.dialog-act.dharshi.232	With you laptop ? Yeah . 	
+TS3008c.D.dialog-act.dharshi.309		
+TS3008c.A.dialog-act.dharshi.336	Okay . 	
+TS3008c.B.dialog-act.dharshi.233	Oh my God . 	
+TS3008c.D.dialog-act.dharshi.310	Alright , shall we get back to work ? 	
+TS3008c.A.dialog-act.dharshi.337	Yep . 	
+TS3008c.D.dialog-act.dharshi.311	Great . 	
+TS3008c.A.dialog-act.dharshi.338	I was waiting for the l last message , but 	
+TS3008c.B.dialog-act.dharshi.234	Well you are . We're not . 	
+TS3008c.D.dialog-act.dharshi.312	Yeah . 	
+TS3008c.D.dialog-act.dharshi.313	Bastard . 	
+TS3008c.C.dialog-act.dharshi.221	Back to the pen . 	
+TS3008c.B.dialog-act.dharshi.235		
+TS3008c.D.dialog-act.dharshi.314	You lazy 	
+TS3008c.A.dialog-act.dharshi.339	Mm yeah . 	
+TS3008c.C.dialog-act.dharshi.222		
+

@@ -1,0 +1,954 @@
+Observation: TS3008b; Result size: 951; atts: 2
+$d@nite:id	$d	
+TS3008b.B.dialog-act.dharshi.1	Here we go again . 	
+TS3008b.C.dialog-act.dharshi.1		
+TS3008b.C.dialog-act.dharshi.2	My mouse is not working anymore . 	
+TS3008b.B.dialog-act.dharshi.2	Oh . 	
+TS3008b.D.dialog-act.dharshi.1	Oh . 	
+TS3008b.C.dialog-act.dharshi.3	He's uh 	
+TS3008b.B.dialog-act.dharshi.3	Okay . 	
+TS3008b.C.dialog-act.dharshi.4	when I put it in , is is going to beep beep beep . 	
+TS3008b.D.dialog-act.dharshi.2	Oh , I got a nice little screen here over here . 	
+TS3008b.B.dialog-act.dharshi.4		
+TS3008b.D.dialog-act.dharshi.3	I got like this big black border uh on every side . 	
+TS3008b.C.dialog-act.dharshi.5		
+TS3008b.A.dialog-act.dharshi.1	Okay . 	
+TS3008b.B.dialog-act.dharshi.5	Mm , okay . 	
+TS3008b.D.dialog-act.dharshi.4	I'll I'll fix it . 	
+TS3008b.A.dialog-act.dharshi.2	Everybody ready ? 	
+TS3008b.B.dialog-act.dharshi.6	Yeah , it's okay . 	
+TS3008b.D.dialog-act.dharshi.5	Yeah , whatever . 	
+TS3008b.A.dialog-act.dharshi.3	Welcome at the functional design meeting , again presented by Maarten . 	
+TS3008b.D.dialog-act.dharshi.6		
+TS3008b.B.dialog-act.dharshi.7		
+TS3008b.A.dialog-act.dharshi.4	Uh this is the agenda , the opening . 	
+TS3008b.A.dialog-act.dharshi.5	Uh , we've got three presentations . 	
+TS3008b.A.dialog-act.dharshi.6	And I'm gonna show you some of the new projects requirements that were sent to me . 	
+TS3008b.A.dialog-act.dharshi.7	And we're gonna make a decision on the remote control functions . 	
+TS3008b.A.dialog-act.dharshi.8	We have uh forty minutes . 	
+TS3008b.D.dialog-act.dharshi.7	Yes . 	
+TS3008b.A.dialog-act.dharshi.9	Oh , well this is the the closing already . 	
+TS3008b.B.dialog-act.dharshi.8		
+TS3008b.A.dialog-act.dharshi.10	So uh well we start off with the th the first presentation then . 	
+TS3008b.A.dialog-act.dharshi.11	Uh , I think um in uh we have to do it in uh in right order . 	
+TS3008b.B.dialog-act.dharshi.9	Okay . 	
+TS3008b.A.dialog-act.dharshi.12	Maybe the 	
+TS3008b.D.dialog-act.dharshi.8	I don't know what the right order is . So 	
+TS3008b.A.dialog-act.dharshi.13	Well , it 	
+TS3008b.B.dialog-act.dharshi.10	No . 	
+TS3008b.C.dialog-act.dharshi.6	Huh . 	
+TS3008b.A.dialog-act.dharshi.14	Oh that . It won't doesn't 	
+TS3008b.A.dialog-act.dharshi.15	Maybe we should start with the the technical functions . 	
+TS3008b.C.dialog-act.dharshi.7	Okay , 	
+TS3008b.C.dialog-act.dharshi.8	how can I get this on the whiteboard ? 	
+TS3008b.A.dialog-act.dharshi.16	Yeah ? 	
+TS3008b.A.dialog-act.dharshi.17	Well it's you dumped the file in the uh in the sh in the project document folder . 	
+TS3008b.B.dialog-act.dharshi.11	In project . 	
+TS3008b.C.dialog-act.dharshi.10	Okay , 	
+TS3008b.C.dialog-act.dharshi.11	I've done that . 	
+TS3008b.A.dialog-act.dharshi.18	You've already done that ? 	
+TS3008b.B.dialog-act.dharshi.12	No can that open . 	
+TS3008b.C.dialog-act.dharshi.12	Yes . 	
+TS3008b.A.dialog-act.dharshi.19	Well let's close this one . 	
+TS3008b.A.dialog-act.dharshi.20	We'll just uh open a new one . 	
+TS3008b.B.dialog-act.dharshi.13	Open it there . 	
+TS3008b.A.dialog-act.dharshi.21	Uh , well . 	
+TS3008b.A.dialog-act.dharshi.22	Yes . 	
+TS3008b.A.dialog-act.dharshi.23	Uh-oh . New thing . 	
+TS3008b.A.dialog-act.dharshi.24	Oh yeah , uh I have to say something . 	
+TS3008b.A.dialog-act.dharshi.25	Uh , due to some uh technical problems I haven't uh digitized the last uh the meeting minutes . 	
+TS3008b.A.dialog-act.dharshi.26	But I'll uh make sure that uh happens next time . 	
+TS3008b.D.dialog-act.dharshi.9	Mm-hmm . 	
+TS3008b.B.dialog-act.dharshi.14	Okay . 	
+TS3008b.B.dialog-act.dharshi.15	About the get 	
+TS3008b.A.dialog-act.dharshi.27	And I'll get this one uh in digital uh form too . 	
+TS3008b.C.dialog-act.dharshi.13	'Kay , we're going to um uh talk about working design . 	
+TS3008b.C.dialog-act.dharshi.14	Um , the method of the remote control is uh electrical energy , 	
+TS3008b.C.dialog-act.dharshi.15	it activates a chip uh in the remote . 	
+TS3008b.C.dialog-act.dharshi.16	It's an electrical circuit which compose uh messages in the form of uh uh infrared signals to control the television . 	
+TS3008b.C.dialog-act.dharshi.17	Mm , it's a nowadays very uh known , a known uh uh technology . 	
+TS3008b.C.dialog-act.dharshi.18	Um , the known technology can make a cost very low . 	
+TS3008b.C.dialog-act.dharshi.20	Uh , it's a wild uh 	
+TS3008b.C.dialog-act.dharshi.21	a wide sale uh of uh remote controls in the world . 	
+TS3008b.C.dialog-act.dharshi.22	And and the components are very uh very cheap . 	
+TS3008b.C.dialog-act.dharshi.23	Um , 	
+TS3008b.C.dialog-act.dharshi.24	Uh , diodes , uh bat batteries and uh uh LED lights , they're needed and they're uh everywhere available . 	
+TS3008b.C.dialog-act.dharshi.25	Uh , again , it's a fair price . 	
+TS3008b.C.dialog-act.dharshi.26	It's a common uh technology uh , like I told um 	
+TS3008b.C.dialog-act.dharshi.27	Uh , the circuit board , it's the most um important uh um part of the remote control . 	
+TS3008b.C.dialog-act.dharshi.28	Uh , we can use for that uh fibreglass with copper wires , 	
+TS3008b.C.dialog-act.dharshi.29	it's it is uh 	
+TS3008b.C.dialog-act.dharshi.30	can be made as fast as printing paper . 	
+TS3008b.C.dialog-act.dharshi.31	It's uh it's all very uh 	
+TS3008b.A.dialog-act.dharshi.28	Okay . 	
+TS3008b.C.dialog-act.dharshi.32	Yeah , they're making it uh all the time . Uh , 	
+TS3008b.A.dialog-act.dharshi.29	Okay . 	
+TS3008b.C.dialog-act.dharshi.33	and it's not uh very specialised uh technology . 	
+TS3008b.C.dialog-act.dharshi.34	I haven't come to here , but um I've got uh some uh images of uh remote controls . 	
+TS3008b.C.dialog-act.dharshi.35	They were not uh very uh trendy or just uh just a remote control like everyone knows . 	
+TS3008b.C.dialog-act.dharshi.36	So I don't know uh why I should put it here . 	
+TS3008b.C.dialog-act.dharshi.37	Uh 	
+TS3008b.A.dialog-act.dharshi.30	Okay . But it's the technical side of the remote control . 	
+TS3008b.B.dialog-act.dharshi.16		
+TS3008b.C.dialog-act.dharshi.38	Yes , 	
+TS3008b.C.dialog-act.dharshi.39	but uh I uh haven't made it because uh of the time . 	
+TS3008b.A.dialog-act.dharshi.31	Oh . 	
+TS3008b.A.dialog-act.dharshi.32	Okay . Well , we'll we'll have to skip that part then . 	
+TS3008b.C.dialog-act.dharshi.40	What ? 	
+TS3008b.B.dialog-act.dharshi.17	Okay . 	
+TS3008b.A.dialog-act.dharshi.33	But you don't think it's a problem um to design uh the technical part of the remote control ? 	
+TS3008b.C.dialog-act.dharshi.41	No . 	
+TS3008b.A.dialog-act.dharshi.34	It's gonna be easy ? 	
+TS3008b.C.dialog-act.dharshi.42	Yes . 	
+TS3008b.A.dialog-act.dharshi.35	Okay . 	
+TS3008b.B.dialog-act.dharshi.18	But nothing restricted for user interface ? 	
+TS3008b.A.dialog-act.dharshi.36	Yeah . M 	
+TS3008b.B.dialog-act.dharshi.19	With technical 	
+TS3008b.C.dialog-act.dharshi.43	Um , no , it's uh it's just a part of uh a known technology , yeah . 	
+TS3008b.B.dialog-act.dharshi.20	I don't know . 	
+TS3008b.A.dialog-act.dharshi.37	Okay . 	
+TS3008b.B.dialog-act.dharshi.21	'Kay . 	
+TS3008b.C.dialog-act.dharshi.44	Remote control is nothing special nowadays . 	
+TS3008b.A.dialog-act.dharshi.38	R regardless of what type of functions we want to implement . Doesn't really matter . 	
+TS3008b.B.dialog-act.dharshi.22	Okay . 	
+TS3008b.C.dialog-act.dharshi.45	Um 	
+TS3008b.B.dialog-act.dharshi.23	But I kind of uh 	
+TS3008b.C.dialog-act.dharshi.46	I don't think so , 	
+TS3008b.A.dialog-act.dharshi.39	Okay . Yeah , okay . 	
+TS3008b.C.dialog-act.dharshi.47	because of the all the televisions uh there are a few maybe a couple of televisions with the new functions , 	
+TS3008b.B.dialog-act.dharshi.24	Yes . 	
+TS3008b.B.dialog-act.dharshi.25	Uh 	
+TS3008b.A.dialog-act.dharshi.40	Okay . 	
+TS3008b.C.dialog-act.dharshi.48	but is it useful to put them on a on a standard uh remote ? 	
+TS3008b.A.dialog-act.dharshi.41	Well , we'll see . We'll see later on . 	
+TS3008b.B.dialog-act.dharshi.26	Well , the technical functions . 	
+TS3008b.B.dialog-act.dharshi.27	Um , well I don't know if you got the same uh pictures as I got , 	
+TS3008b.A.dialog-act.dharshi.42	No . 	
+TS3008b.B.dialog-act.dharshi.28	but uh I got these two , 	
+TS3008b.C.dialog-act.dharshi.49	No . 	
+TS3008b.B.dialog-act.dharshi.29	and I think they're we have to focus uh on uh the uh one hand the expert view or the novice user . 	
+TS3008b.B.dialog-act.dharshi.30	th I think it's it's very much uh depending on the user requirements , 	
+TS3008b.B.dialog-act.dharshi.31	I don't s uh know who's doing t 	
+TS3008b.A.dialog-act.dharshi.43	Well , uh will there be some uh user requirements later on ? 	
+TS3008b.B.dialog-act.dharshi.32	Yeah , but it I think that's very important to watch uh what kind of functions there we want to uh put in a remote control . 	
+TS3008b.A.dialog-act.dharshi.44	The ones I I've uh received from the account manager . 	
+TS3008b.A.dialog-act.dharshi.45	Yeah . 	
+TS3008b.A.dialog-act.dharshi.46	Well , we'll keep this in mind , and then discuss it later on . 	
+TS3008b.B.dialog-act.dharshi.33	Yeah , 	
+TS3008b.B.dialog-act.dharshi.34	well y we can put functions in it when uh yeah , when we uh get the user requirements uh and we can update it . 	
+TS3008b.A.dialog-act.dharshi.47	Uh-huh . 	
+TS3008b.A.dialog-act.dharshi.48	Okay , 	
+TS3008b.A.dialog-act.dharshi.49	but this real this uh big d uh distinction between this type of remote . 	
+TS3008b.A.dialog-act.dharshi.50	we should we should choose one uh 	
+TS3008b.A.dialog-act.dharshi.51	we should not compromise but uh really choose for uh expert viewer or novice v 	
+TS3008b.D.dialog-act.dharshi.10	Yes , I agree . Yeah . 	
+TS3008b.A.dialog-act.dharshi.52	Yeah ? 	
+TS3008b.A.dialog-act.dharshi.53	Well , what that's what you want trying to say . 	
+TS3008b.B.dialog-act.dharshi.35	Well , yeah 	
+TS3008b.B.dialog-act.dharshi.36	w if you want try a a a huge market , if you want to reach a huge market , uh like elderly people and we have to choose for novice user . 	
+TS3008b.A.dialog-act.dharshi.54	Okay . 	
+TS3008b.A.dialog-act.dharshi.55	Okay . 	
+TS3008b.B.dialog-act.dharshi.37	But I don't know . 	
+TS3008b.B.dialog-act.dharshi.38	It's it's really um depending on how how how far the the the remote controls are already in n um in use . 	
+TS3008b.A.dialog-act.dharshi.56	Yeah , well some of these 	
+TS3008b.A.dialog-act.dharshi.57	Uh , yeah . 	
+TS3008b.A.dialog-act.dharshi.58	Well , some of that will 	
+TS3008b.A.dialog-act.dharshi.59	Yeah , but i but it will be more clear when we come to the uh u uh some of the new requirements . 	
+TS3008b.B.dialog-act.dharshi.39	Yeah , probably , yeah . 	
+TS3008b.D.dialog-act.dharshi.11	Yes . 	
+TS3008b.A.dialog-act.dharshi.60	So 	
+TS3008b.B.dialog-act.dharshi.40	Uh well , there are l at least uh basic functions , 	
+TS3008b.B.dialog-act.dharshi.41	uh like just th the channels uh one till nine , 	
+TS3008b.B.dialog-act.dharshi.42	uh on and off switch , which must be clear with a red button or something like that . 	
+TS3008b.B.dialog-act.dharshi.43	Um , most standard uh have volume , of course , and a mute function , and , of course , the next and previous channel . 	
+TS3008b.B.dialog-act.dharshi.44	I think that's just basic what we need . 	
+TS3008b.A.dialog-act.dharshi.61	Mm-hmm . 	
+TS3008b.B.dialog-act.dharshi.45	And from that on we can user requirements what we need more . 	
+TS3008b.B.dialog-act.dharshi.46	Uh 	
+TS3008b.B.dialog-act.dharshi.47	Yeah , I just um um I thought Joost was looking at the trendy the trends in the markets , 	
+TS3008b.D.dialog-act.dharshi.12	Yes . 	
+TS3008b.B.dialog-act.dharshi.48	and I don't know if there uh are any um uh if you put more functions , more buttons , maybe it's com becoming less trendy or something like that . 	
+TS3008b.D.dialog-act.dharshi.13	I haven't really found a conclusion like that . 	
+TS3008b.B.dialog-act.dharshi.49	M you can just you can k 	
+TS3008b.B.dialog-act.dharshi.50	you can keep it in mind that . 	
+TS3008b.D.dialog-act.dharshi.14	Yeah . 	
+TS3008b.B.dialog-act.dharshi.51	I don't know . 	
+TS3008b.B.dialog-act.dharshi.52	Uh , I th I thought the the with less buttons you can make a more trendier uh 	
+TS3008b.D.dialog-act.dharshi.15	Design . 	
+TS3008b.B.dialog-act.dharshi.53	yeah , more trendier design , I think . I think . 	
+TS3008b.D.dialog-act.dharshi.16	Sounds interesting . 	
+TS3008b.B.dialog-act.dharshi.54	Yeah ? 	
+TS3008b.A.dialog-act.dharshi.62		
+TS3008b.D.dialog-act.dharshi.17		
+TS3008b.B.dialog-act.dharshi.55	Uh , well , that's all I have to say , I think . 	
+TS3008b.A.dialog-act.dharshi.63	Okay . 	
+TS3008b.B.dialog-act.dharshi.56	Yeah , that was it . 	
+TS3008b.D.dialog-act.dharshi.18	Alright . 	
+TS3008b.A.dialog-act.dharshi.64	Well , then the Marketing expert can uh tell us something about the current market . 	
+TS3008b.D.dialog-act.dharshi.19	Yes . 	
+TS3008b.B.dialog-act.dharshi.57	. 	
+TS3008b.D.dialog-act.dharshi.20	Yeah . It's alright . 	
+TS3008b.D.dialog-act.dharshi.21	Um 	
+TS3008b.D.dialog-act.dharshi.22	Alright , I've done some research for functional requirements . 	
+TS3008b.D.dialog-act.dharshi.23	Um yes . 	
+TS3008b.D.dialog-act.dharshi.24	The working method um 	
+TS3008b.D.dialog-act.dharshi.25	there were hundred uh uh w h one hundred people , uh how do you say uh , f watched using remote controls in the usability lab 	
+TS3008b.D.dialog-act.dharshi.26	and they also uh filled out a questionnaire uh with a few questions . 	
+TS3008b.D.dialog-act.dharshi.27	Uh , I've lined them up here . 	
+TS3008b.D.dialog-act.dharshi.28	Uh , ask whether um common remote control looks good or not , 	
+TS3008b.D.dialog-act.dharshi.29	about willingness to spend money on remote control , 	
+TS3008b.D.dialog-act.dharshi.30	about zapping behaviour , and uh and stuff like that . 	
+TS3008b.D.dialog-act.dharshi.31	I uh have found some interesting things . 	
+TS3008b.D.dialog-act.dharshi.32	We do we do got a market . 	
+TS3008b.D.dialog-act.dharshi.33	Um , 	
+TS3008b.D.dialog-act.dharshi.34	three out of four people claim m uh to find remote controls ugly . 	
+TS3008b.D.dialog-act.dharshi.35	So if we make a trendy design , we sure have seventy fi seventy five percent of the market , which you can reach . 	
+TS3008b.D.dialog-act.dharshi.36	Um , three out of four users uh zaps a lot , as I uh quoted here from the uh results . 	
+TS3008b.D.dialog-act.dharshi.37	Zap buttons are used one hundred and sixty eight times per hour . 	
+TS3008b.D.dialog-act.dharshi.38	That's quite a lot . 	
+TS3008b.D.dialog-act.dharshi.39	Um , 	
+TS3008b.D.dialog-act.dharshi.40	relevant options are , of course , power buttons . Although , only used once per hour . 	
+TS3008b.D.dialog-act.dharshi.41	Uh , channel selection , volume and buttons for text , 	
+TS3008b.D.dialog-act.dharshi.42	and the more um , yeah , 	
+TS3008b.D.dialog-act.dharshi.43	other functions , like audio settings , video settings , sound settings are not said to be very important and uh very much used . 	
+TS3008b.D.dialog-act.dharshi.44	Furthermore , fifty percent says uh they only use ten percent of the buttons on a remote control . 	
+TS3008b.D.dialog-act.dharshi.45	That doesn't say we got we can leave ninety percent off . But it sure um says we shouldn't make it too uh complicated . 	
+TS3008b.D.dialog-act.dharshi.47	Fifty percent also claims uh to have lost a remote control very often in the room . 	
+TS3008b.D.dialog-act.dharshi.48	And um an important thing here , 	
+TS3008b.D.dialog-act.dharshi.49	the most important customers uh , which is over seventy percent of our market , is in the age range of thirty six to sixty five years old . 	
+TS3008b.D.dialog-act.dharshi.50	And uh elderly people , our market , are less interested in uh nice features , but more willingly to spend more money on remote controls . 	
+TS3008b.D.dialog-act.dharshi.51	So , what I was thinking 	
+TS3008b.D.dialog-act.dharshi.52	oh , wrong side . 	
+TS3008b.D.dialog-act.dharshi.53	We shouldn't implement too much features on uh on our remote control , because elderly people will get th lost . 	
+TS3008b.D.dialog-act.dharshi.54	Group features for a higher usability , 	
+TS3008b.D.dialog-act.dharshi.55	uh what I was claiming in the previous meeting . 	
+TS3008b.D.dialog-act.dharshi.56	Um , all the settings , about audio settings , video settings and channel settings , which are not very often used , we could group them uh on one button and make them accessible uh in one menu button or whatever , 	
+TS3008b.D.dialog-act.dharshi.57	because they are used very rarely and well , 	
+TS3008b.D.dialog-act.dharshi.58	it uh there are a lot of options there , so we can really make uh yeah , how do you say , we can spare at buttons over there . 	
+TS3008b.A.dialog-act.dharshi.65	Okay . 	
+TS3008b.D.dialog-act.dharshi.59	And um , if you want to implement V_C_R_ and D_V_D_ options , group them in the button , 	
+TS3008b.D.dialog-act.dharshi.60	not too uh 	
+TS3008b.D.dialog-act.dharshi.61	Yeah . 	
+TS3008b.D.dialog-act.dharshi.62	Small buttons , so they won't be very um , 	
+TS3008b.D.dialog-act.dharshi.63	how do you say 	
+TS3008b.A.dialog-act.dharshi.66	Visually presents . 	
+TS3008b.D.dialog-act.dharshi.64	Yes , won't be very present , 	
+TS3008b.D.dialog-act.dharshi.65	thank you . 	
+TS3008b.D.dialog-act.dharshi.66	And a trendy look , well uh , although seventy percent of the market is uh consists of elderly people uh who don't really care for trendy looks or whatever , I guess it can do no harm to make it trendy for the other thirty percent . 	
+TS3008b.D.dialog-act.dharshi.67	That was kind of what I found . 	
+TS3008b.A.dialog-act.dharshi.67	Okay . 	
+TS3008b.B.dialog-act.dharshi.58	Okay . 	
+TS3008b.D.dialog-act.dharshi.68	Okay . 	
+TS3008b.A.dialog-act.dharshi.68	Well , then we I'm gonna show you some of the new project requirements 	
+TS3008b.A.dialog-act.dharshi.69	and then we gonna discuss on uh what features we find important . 	
+TS3008b.D.dialog-act.dharshi.69	Yes . 	
+TS3008b.A.dialog-act.dharshi.70	Uh , well some of the uh new requirements make some of your findings quite uh irrelevant , I think . 	
+TS3008b.D.dialog-act.dharshi.70		
+TS3008b.A.dialog-act.dharshi.71	Because um uh s decided to put They have decide to put two additional requirements forward . 	
+TS3008b.A.dialog-act.dharshi.72	Well , now I see four . 	
+TS3008b.D.dialog-act.dharshi.71	Two ? 	
+TS3008b.A.dialog-act.dharshi.73	That's kinda strange . 	
+TS3008b.A.dialog-act.dharshi.74	Well , they say tele teletext becomes outdated since the popularity of the internet . 	
+TS3008b.A.dialog-act.dharshi.75	Well , I think that may be so , but well , we can't just leave the teletext button off . 	
+TS3008b.B.dialog-act.dharshi.59	Well 	
+TS3008b.D.dialog-act.dharshi.72	No uh , I agree , I agree . 	
+TS3008b.A.dialog-act.dharshi.76	It's impossible , I think . 	
+TS3008b.B.dialog-act.dharshi.60	No way . 	
+TS3008b.A.dialog-act.dharshi.77	So the compromise we could make is just to make one teletext button , you know , like on and off , 	
+TS3008b.A.dialog-act.dharshi.78	and don't make a lot of special put a lot of special features on it to make it transparent or 	
+TS3008b.D.dialog-act.dharshi.73	Not too much , no . 	
+TS3008b.A.dialog-act.dharshi.79	You know , it's just you want you want to be able to make use of teletext , but not to play with it that much . 	
+TS3008b.D.dialog-act.dharshi.74	Yeah . 	
+TS3008b.A.dialog-act.dharshi.80	So we have to think of that . 	
+TS3008b.A.dialog-act.dharshi.81	The remote control should only be used for television . Otherwise , the project becomes more complex , which endangers the time t t ma uh the time to market . 	
+TS3008b.A.dialog-act.dharshi.82	So maybe we should leave all D_V_D_ and V_C_R_ related features off completely . 	
+TS3008b.B.dialog-act.dharshi.61	Yeah . 	
+TS3008b.D.dialog-act.dharshi.75	Okay . 	
+TS3008b.A.dialog-act.dharshi.83	I don't know . 	
+TS3008b.A.dialog-act.dharshi.84	I think that uh that's what they're trying to say . 	
+TS3008b.D.dialog-act.dharshi.76		
+TS3008b.A.dialog-act.dharshi.85	Uh , our current customers are within the age group of forty plus . 	
+TS3008b.A.dialog-act.dharshi.86	New products should reach a new market with customers that are younger than forty . 	
+TS3008b.A.dialog-act.dharshi.87	So you uh talked about the elderly who were willing to spend more on a remote control and who were interested . 	
+TS3008b.D.dialog-act.dharshi.78	Mm-hmm . 	
+TS3008b.A.dialog-act.dharshi.88	But , well , they're not relevant because we are aiming at a younger 	
+TS3008b.D.dialog-act.dharshi.77		
+TS3008b.D.dialog-act.dharshi.79	I don't really agree actually , to be honest . 	
+TS3008b.D.dialog-act.dharshi.80	It's a very small market which we will approach then if we uh want to reach customers younger than forty . 	
+TS3008b.D.dialog-act.dharshi.81	It's only like thirty percent of the total market . 	
+TS3008b.A.dialog-act.dharshi.89	Yeah , but it is it's is a dif it's a fact that the th th that bigger market you're talking about , we already cover that . 	
+TS3008b.D.dialog-act.dharshi.82	Mayb 	
+TS3008b.D.dialog-act.dharshi.83	yeah ? 	
+TS3008b.A.dialog-act.dharshi.90	Our company already sells remote control to the older people , but we we also want , you know , a new customer group . 	
+TS3008b.A.dialog-act.dharshi.91	That's the one we haven't covered yet . 	
+TS3008b.A.dialog-act.dharshi.92	So I think that's what the problem is . 	
+TS3008b.D.dialog-act.dharshi.84	Okay . 	
+TS3008b.A.dialog-act.dharshi.93	We haven't got remote controls for uh 	
+TS3008b.A.dialog-act.dharshi.94	Well I think , yeah . 	
+TS3008b.D.dialog-act.dharshi.85	Maybe maybe we can compromise a little bit . 	
+TS3008b.A.dialog-act.dharshi.95	Yeah , I think so . 	
+TS3008b.A.dialog-act.dharshi.96	Maybe if it's 	
+TS3008b.D.dialog-act.dharshi.86	Not too much then , bu alright . 	
+TS3008b.A.dialog-act.dharshi.97	no no , but I think we have to just keep in mind what the older age group wants . 	
+TS3008b.A.dialog-act.dharshi.98	So maybe we can make a remote control that's primarily interesting for the younger group , but isn't that bad for an older person either . 	
+TS3008b.D.dialog-act.dharshi.87	Yes . 	
+TS3008b.A.dialog-act.dharshi.99	Uh , our corporate image sh should stay recognisable in our products . 	
+TS3008b.A.dialog-act.dharshi.100	Our product's corporate colour and slogan must be implemented in the new design . 	
+TS3008b.A.dialog-act.dharshi.101	Okay , something else nice to know . 	
+TS3008b.B.dialog-act.dharshi.62	But what's our slogan ? 	
+TS3008b.A.dialog-act.dharshi.102	Sorry ? 	
+TS3008b.A.dialog-act.dharshi.103	Yeah , you will have to look that up . 	
+TS3008b.B.dialog-act.dharshi.63	The slogan uh 	
+TS3008b.B.dialog-act.dharshi.64		
+TS3008b.D.dialog-act.dharshi.88	Yeah , I'll have a look . 	
+TS3008b.A.dialog-act.dharshi.104		
+TS3008b.D.dialog-act.dharshi.89	We put the fashion in electronics . 	
+TS3008b.A.dialog-act.dharshi.105	I think it's something about the 	
+TS3008b.B.dialog-act.dharshi.65	Puts fashion in electronics . 	
+TS3008b.A.dialog-act.dharshi.106	Oh , okay . 	
+TS3008b.A.dialog-act.dharshi.107	I thought it w might be , let's make things better or something , but 	
+TS3008b.B.dialog-act.dharshi.66	Sense simplicity . 	
+TS3008b.D.dialog-act.dharshi.90	Sense and simplicity . 	
+TS3008b.A.dialog-act.dharshi.108	Okay well , 	
+TS3008b.A.dialog-act.dharshi.109	let's go back to the the agenda . 	
+TS3008b.A.dialog-act.dharshi.110	So we've now had to the three presentations . 	
+TS3008b.A.dialog-act.dharshi.111	We know about the new project requirements . 	
+TS3008b.A.dialog-act.dharshi.112	That means we can uh well d yeah , discuss on the remote control functions . 	
+TS3008b.A.dialog-act.dharshi.113	Well , if I can uh make a start , 	
+TS3008b.A.dialog-act.dharshi.114	I think it's becoming more clear what kind of remote control it's gonna be , 	
+TS3008b.A.dialog-act.dharshi.115	and I already talked about the maybe you have a f familiar with the rem remote control that has the the can opener underneath it . 	
+TS3008b.A.dialog-act.dharshi.116	I think we're we're looking for some 	
+TS3008b.D.dialog-act.dharshi.91		
+TS3008b.A.dialog-act.dharshi.117	Yeah , we we're looking for a really simple remote control with only basic T_V_ functions . 	
+TS3008b.A.dialog-act.dharshi.118	Y well , that 	
+TS3008b.B.dialog-act.dharshi.67	Yeah . 	
+TS3008b.D.dialog-act.dharshi.92	Well , to be honest , if um our uh aim group is uh till forty , not older than forty , maybe that's not very uh yeah , we don't really need to have a simple remote control . 	
+TS3008b.A.dialog-act.dharshi.119	Yeah . 	
+TS3008b.A.dialog-act.dharshi.120	Yeah . 	
+TS3008b.D.dialog-act.dharshi.93	I think we can implement more functions then , 	
+TS3008b.D.dialog-act.dharshi.94	because um basically uh the younger people are more able to adapt to new technology 	
+TS3008b.B.dialog-act.dharshi.68	Yeah , but wha 	
+TS3008b.D.dialog-act.dharshi.95	and therefore will be a more 	
+TS3008b.A.dialog-act.dharshi.121	Yeah , yeah . 	
+TS3008b.A.dialog-act.dharshi.122	M yeah , that's why um well a lot of um the use the requirements the the account manager sent me , I think they are are c are contradicting each other , 	
+TS3008b.B.dialog-act.dharshi.69	But 	
+TS3008b.A.dialog-act.dharshi.123	because they want a simpler design , and no uh other uh s functions than just T_V_ , but they s do aim at a younger 	
+TS3008b.D.dialog-act.dharshi.96	Yes . 	
+TS3008b.B.dialog-act.dharshi.70	Yeah , but you sai you said that that a lot of functions aren't used . 	
+TS3008b.A.dialog-act.dharshi.124	Well , ma 	
+TS3008b.D.dialog-act.dharshi.97	Yeah . 	
+TS3008b.B.dialog-act.dharshi.71	So why should j we put this function in ? 	
+TS3008b.D.dialog-act.dharshi.98	Well , I think 	
+TS3008b.B.dialog-act.dharshi.72	I think more 	
+TS3008b.C.dialog-act.dharshi.50		
+TS3008b.B.dialog-act.dharshi.73	I think uh people younger people are more looking for just a trendy look than uh more functions . 	
+TS3008b.A.dialog-act.dharshi.125	But I think uh you we can make some discuss uh distinctions in uh what kin in the , know , th th in functions you have 	
+TS3008b.A.dialog-act.dharshi.126	Y 	
+TS3008b.A.dialog-act.dharshi.127	Well you have different kind of uh equipment in your room , like a t T_V_ and a D_V_D_ player . 	
+TS3008b.D.dialog-act.dharshi.99	Yes . 	
+TS3008b.A.dialog-act.dharshi.128	You can uh , know , you 	
+TS3008b.A.dialog-act.dharshi.129	you can make very d you can put very detailed functions regarding the T_V_ set on your remote control uh with the with uh the , you know , audio settings and uh v uh screen settings . 	
+TS3008b.A.dialog-act.dharshi.130	We don't want that . 	
+TS3008b.A.dialog-act.dharshi.131	I think that was that became clear . 	
+TS3008b.A.dialog-act.dharshi.132	We don't want . 	
+TS3008b.A.dialog-act.dharshi.133	But w maybe we should put some func uh , 	
+TS3008b.A.dialog-act.dharshi.134	I know that the younger people will most likely have a D_V_D_ player they want to , 	
+TS3008b.A.dialog-act.dharshi.135	you know , they want to uh 	
+TS3008b.D.dialog-act.dharshi.100	Yeah , control . 	
+TS3008b.B.dialog-act.dharshi.74	Yeah , but uh you said 	
+TS3008b.A.dialog-act.dharshi.136	control , remotely . 	
+TS3008b.B.dialog-act.dharshi.75	Yeah , d yeah , but th the functions are not in the remote control we're making . 	
+TS3008b.D.dialog-act.dharshi.101		
+TS3008b.A.dialog-act.dharshi.137	No , yeah , th th the user requirements of the the The new project requirements told us not to 	
+TS3008b.B.dialog-act.dharshi.76	It's n 	
+TS3008b.B.dialog-act.dharshi.77	Yeah . 	
+TS3008b.A.dialog-act.dharshi.138	But maybe w Yeah . I think we maybe should 	
+TS3008b.B.dialog-act.dharshi.78	Yeah . 	
+TS3008b.A.dialog-act.dharshi.139	Yeah , well we should uh put some functions for other maybe for other equipment on it . 	
+TS3008b.A.dialog-act.dharshi.140	But just the basic functions . Maybe like rewind and wind , 	
+TS3008b.D.dialog-act.dharshi.102		
+TS3008b.A.dialog-act.dharshi.141	or n what d what do you guys think ? 	
+TS3008b.C.dialog-act.dharshi.51	But you can put them under the same button . 	
+TS3008b.D.dialog-act.dharshi.103	Not much more than that . 	
+TS3008b.D.dialog-act.dharshi.104	Yep . 	
+TS3008b.A.dialog-act.dharshi.142	Yeah , if as far as possible . 	
+TS3008b.D.dialog-act.dharshi.105	Or we can u u we could put 'em behind the flip-flap or whatever . 	
+TS3008b.D.dialog-act.dharshi.106	So t 	
+TS3008b.A.dialog-act.dharshi.143	But what do you think ? 	
+TS3008b.A.dialog-act.dharshi.144	Do th should we implement features that uh uh or functions that to control other devices ? 	
+TS3008b.B.dialog-act.dharshi.79	No . 	
+TS3008b.D.dialog-act.dharshi.107		
+TS3008b.A.dialog-act.dharshi.145	No , you don't think so ? 	
+TS3008b.B.dialog-act.dharshi.80	No , new requirements say no . 	
+TS3008b.A.dialog-act.dharshi.146	Yeah , the new requirements say so . 	
+TS3008b.B.dialog-act.dharshi.81	So 	
+TS3008b.C.dialog-act.dharshi.52	But you can put a play and stop and and rewind . 	
+TS3008b.A.dialog-act.dharshi.147	Well , maybe it's 	
+TS3008b.D.dialog-act.dharshi.108	Yeah . 	
+TS3008b.A.dialog-act.dharshi.148	maybe there there there is something th m most of the time these functions don't support the particular device as well as their their own remote control . 	
+TS3008b.B.dialog-act.dharshi.82	Yeah , but 	
+TS3008b.A.dialog-act.dharshi.149	You know , a lot of D_V_D_ players have some tricky settings with 	
+TS3008b.C.dialog-act.dharshi.53	Yes , but we 	
+TS3008b.D.dialog-act.dharshi.109	Y yes . 	
+TS3008b.B.dialog-act.dharshi.83	I i if it's too simple uh th they won't use the remote control , they use their own th th with lot more functions . 	
+TS3008b.A.dialog-act.dharshi.150	Yep , exactly . 	
+TS3008b.A.dialog-act.dharshi.151	That's that's wha 	
+TS3008b.D.dialog-act.dharshi.110	But but for for example , V_C_R_ , that's better example in this case . 	
+TS3008b.D.dialog-act.dharshi.111	I think on a remote control for television you don't need to be able to programme uh the V_C_R_ to start recording at three P_M_ or whatever , 	
+TS3008b.A.dialog-act.dharshi.152	No no , you don't No no , you don't need it . No , no . 	
+TS3008b.B.dialog-act.dharshi.84	No , no . Exactly . 	
+TS3008b.C.dialog-act.dharshi.54	Huh . 	
+TS3008b.D.dialog-act.dharshi.112	just play , stop , rewind and uh fast forward . 	
+TS3008b.A.dialog-act.dharshi.153	Okay , but we have to think uh w we have to think D_V_D_ I th uh , I guess , 	
+TS3008b.D.dialog-act.dharshi.113	Yeah , I know , 	
+TS3008b.D.dialog-act.dharshi.114	but uh 	
+TS3008b.A.dialog-act.dharshi.154	so um but uh from my experience it's kinda a lot of D_V_D_ players , you know , like forwarding , goes differently . 	
+TS3008b.A.dialog-act.dharshi.155	Uh , you get two speed or eight speed or sixteen speed . 	
+TS3008b.B.dialog-act.dharshi.85	Mm , yeah . 	
+TS3008b.A.dialog-act.dharshi.156	It's c sometimes a bit difficult . 	
+TS3008b.A.dialog-act.dharshi.157	Maybe if we just leave the D_V_D_ functional m uh 	
+TS3008b.A.dialog-act.dharshi.158	Well , I was thinking about putting it in , but concerning the project requirements and what you just said , I think we m should focus on the T_V_ then . 	
+TS3008b.D.dialog-act.dharshi.115	Yes . 	
+TS3008b.B.dialog-act.dharshi.86	Yeah , 	
+TS3008b.B.dialog-act.dharshi.87	but just 	
+TS3008b.B.dialog-act.dharshi.88	keep it simple 	
+TS3008b.B.dialog-act.dharshi.89	and look more at th 	
+TS3008b.A.dialog-act.dharshi.159	And uh and it's just an uh a complimentary remote and not a universal one . 	
+TS3008b.A.dialog-act.dharshi.160	If you want to keep it simple , you can make a universal remote . 	
+TS3008b.B.dialog-act.dharshi.90	No . 	
+TS3008b.B.dialog-act.dharshi.91	It's only for television . So 	
+TS3008b.A.dialog-act.dharshi.161	Okay . 	
+TS3008b.C.dialog-act.dharshi.55	Yes , but there are there are 	
+TS3008b.A.dialog-act.dharshi.162	It's just a s it it should be something that is like a gadget on your coffee table , 	
+TS3008b.A.dialog-act.dharshi.163	and it's just for when you you you jump on the couch , you pick up the the the nice remote , the simple one , just to put on the television , nothing more . 	
+TS3008b.B.dialog-act.dharshi.92	Yeah . 	
+TS3008b.D.dialog-act.dharshi.116	Yeah . 	
+TS3008b.B.dialog-act.dharshi.93	Yeah , nothing more . Exactly . 	
+TS3008b.A.dialog-act.dharshi.164	Okay . 	
+TS3008b.D.dialog-act.dharshi.117	Alright . 	
+TS3008b.A.dialog-act.dharshi.165	Um , but what televis 	
+TS3008b.C.dialog-act.dharshi.57	But how wi how will you be able to handle a whole market ? 	
+TS3008b.C.dialog-act.dharshi.58	There are uh a dozen of uh dozens of of remote controls that have 	
+TS3008b.A.dialog-act.dharshi.167	Yeah , we we'll make w this one trendy . 	
+TS3008b.B.dialog-act.dharshi.94	Yeah . 	
+TS3008b.C.dialog-act.dharshi.56		
+TS3008b.A.dialog-act.dharshi.168	And simple . 	
+TS3008b.B.dialog-act.dharshi.97	The user interface is easy . 	
+TS3008b.A.dialog-act.dharshi.169	Well , we we will come to that , 	
+TS3008b.A.dialog-act.dharshi.170	but ju first on the on the functions . 	
+TS3008b.A.dialog-act.dharshi.171	So we should put uh zap buttons on it . 	
+TS3008b.A.dialog-act.dharshi.172	Um , also numbers , to uh to go to the specific channels . 	
+TS3008b.B.dialog-act.dharshi.98	And the basic 	
+TS3008b.B.dialog-act.dharshi.99	yeah , basic functions , yeah . 	
+TS3008b.D.dialog-act.dharshi.118	Yes , definitely , yeah . 	
+TS3008b.A.dialog-act.dharshi.173	Uh , 	
+TS3008b.B.dialog-act.dharshi.100	It's too much integrated in the other . 	
+TS3008b.A.dialog-act.dharshi.174	Okay , 	
+TS3008b.A.dialog-act.dharshi.175	a t a teletext button should be there . 	
+TS3008b.A.dialog-act.dharshi.176	But just one big teletext button , on and off . 	
+TS3008b.B.dialog-act.dharshi.101	Yeah . 	
+TS3008b.A.dialog-act.dharshi.177	Probably . 	
+TS3008b.D.dialog-act.dharshi.119	Yeah , 	
+TS3008b.D.dialog-act.dharshi.120	and maybe two or three other options , but not nothing more than that . 	
+TS3008b.D.dialog-act.dharshi.121	I think stop function is very useful . 	
+TS3008b.D.dialog-act.dharshi.122	If you have a uh a page which consists of more pages , and you are not a very quick reader , 	
+TS3008b.A.dialog-act.dharshi.178	Oh , okay . 	
+TS3008b.D.dialog-act.dharshi.123	then I think it's very irritating if the next page shows up , but 	
+TS3008b.A.dialog-act.dharshi.179	Yeah , but uh I think that becomes too difficult , 	
+TS3008b.A.dialog-act.dharshi.180	it's not a very common function and people will have to read up on their remote then . 	
+TS3008b.D.dialog-act.dharshi.124	Well , I use it very regularly , the action . I re I use it quite often . 	
+TS3008b.A.dialog-act.dharshi.181	Yeah , yeah , but maybe you s yeah yeah , maybe y you do , but I've never heard of it in the first place . And 	
+TS3008b.B.dialog-act.dharshi.102	Will you look 	
+TS3008b.D.dialog-act.dharshi.125		
+TS3008b.B.dialog-act.dharshi.103		
+TS3008b.C.dialog-act.dharshi.59		
+TS3008b.A.dialog-act.dharshi.182	we have to 	
+TS3008b.A.dialog-act.dharshi.183	well t yeah , and t and teletext is becoming outdated . 	
+TS3008b.B.dialog-act.dharshi.104	Look at the market . 	
+TS3008b.A.dialog-act.dharshi.184	We just want to see what programmes are on and what time it is probably . 	
+TS3008b.A.dialog-act.dharshi.185	Yeah . I don't know . 	
+TS3008b.A.dialog-act.dharshi.186	I think that that's kin getting too complex for our remote . 	
+TS3008b.B.dialog-act.dharshi.105	Well 	
+TS3008b.A.dialog-act.dharshi.187	I don't know what you th guys think . 	
+TS3008b.D.dialog-act.dharshi.126	Might be . Might be . 	
+TS3008b.B.dialog-act.dharshi.106	Yeah , I uh , it's 	
+TS3008b.B.dialog-act.dharshi.107	Sunday I always use it for the uh yeah , for the soccer uh 	
+TS3008b.A.dialog-act.dharshi.188	Yeah , but do you like to have a such a s stop button ? 	
+TS3008b.A.dialog-act.dharshi.189	Or do you think it uh 	
+TS3008b.A.dialog-act.dharshi.190	I think it's a kind of uh uh very rare and special function . 	
+TS3008b.B.dialog-act.dharshi.108	Well , uh when you uh uh when you look uh 	
+TS3008b.B.dialog-act.dharshi.109	for example um , a couple of weeks ago I looked at the for the flights , and there are a lot of flights in one page , so if if th 	
+TS3008b.A.dialog-act.dharshi.191	Yeah . 	
+TS3008b.A.dialog-act.dharshi.192	Okay , it goes 	
+TS3008b.A.dialog-act.dharshi.193	Yeah , but that's kind of stuff we should do on the internet right now . 	
+TS3008b.A.dialog-act.dharshi.194	That's why it was uh said in the in the use in the r new requirements . 	
+TS3008b.C.dialog-act.dharshi.60	Yes , but you could put 	
+TS3008b.B.dialog-act.dharshi.110	Yeah , but 	
+TS3008b.C.dialog-act.dharshi.61	on the z on the zap buttons you can put it to uh to uh access all the same pages . 	
+TS3008b.C.dialog-act.dharshi.62	If you have seven pages , you can go up and down . 	
+TS3008b.A.dialog-act.dharshi.195	Well yeah uh , 	
+TS3008b.A.dialog-act.dharshi.196	lots of new televisions can store pages , you know , and then you can just skip manually through them using 	
+TS3008b.C.dialog-act.dharshi.63	Yes . 	
+TS3008b.B.dialog-act.dharshi.111	True . 	
+TS3008b.A.dialog-act.dharshi.197	I think we should just put one teletext button on it . 	
+TS3008b.A.dialog-act.dharshi.198	Then we meet uh the new requirements . 	
+TS3008b.A.dialog-act.dharshi.199	we also meet the other thin y you sh you just re 	
+TS3008b.A.dialog-act.dharshi.200	we have to choose for the the simple design , I guess . 	
+TS3008b.B.dialog-act.dharshi.112	A simple yeah . 	
+TS3008b.A.dialog-act.dharshi.201	Okay . Um , 	
+TS3008b.A.dialog-act.dharshi.202	well , what functions do we have to decide on ? 	
+TS3008b.A.dialog-act.dharshi.203	Or do we 	
+TS3008b.A.dialog-act.dharshi.204	uh I dunno if we have t stif specifically name all the functions we n we want . 	
+TS3008b.A.dialog-act.dharshi.205	We have the zap and uh the volume . 	
+TS3008b.A.dialog-act.dharshi.206	Should we do m make them very big ? The the the zap button . 	
+TS3008b.A.dialog-act.dharshi.207	D d 	
+TS3008b.D.dialog-act.dharshi.127	I think the plus and the minus button should be uh quite present , 	
+TS3008b.C.dialog-act.dharshi.64	Yes . 	
+TS3008b.A.dialog-act.dharshi.208	Th that's that's that's considered to be trendy also . 	
+TS3008b.B.dialog-act.dharshi.113	But trendy , yeah . 	
+TS3008b.D.dialog-act.dharshi.128	yep . 	
+TS3008b.B.dialog-act.dharshi.114	I don't know . 	
+TS3008b.A.dialog-act.dharshi.209	Or maybe you should place them on a uh , in a special way ? 	
+TS3008b.C.dialog-act.dharshi.65	Maybe we can make uh a kind of a joystick . 	
+TS3008b.A.dialog-act.dharshi.210	Yeah , something 	
+TS3008b.A.dialog-act.dharshi.211	or uh somethin special way to to zap through the 	
+TS3008b.A.dialog-act.dharshi.212	it has to s it has to be 	
+TS3008b.A.dialog-act.dharshi.213	yeah , and quick . You have to use it very quickly . 	
+TS3008b.B.dialog-act.dharshi.115	Original . 	
+TS3008b.B.dialog-act.dharshi.116	It was uh 	
+TS3008b.D.dialog-act.dharshi.129	Yep . 	
+TS3008b.D.dialog-act.dharshi.130	If you grab the remote , your hands should be on top of the plus . 	
+TS3008b.B.dialog-act.dharshi.117	True . 	
+TS3008b.A.dialog-act.dharshi.214	Yeah , 	
+TS3008b.A.dialog-act.dharshi.215	and it the buttons should make it um possible to to zap through your channels in a rapid at a rapid pace . 	
+TS3008b.D.dialog-act.dharshi.131	Yes . 	
+TS3008b.A.dialog-act.dharshi.216	Oh , what should we decide on then ? 	
+TS3008b.A.dialog-act.dharshi.217	I think in a in a case of this simple remote control , the technical aspects which uh weren't worked out already , but it w shouldn't be a problem then . 	
+TS3008b.C.dialog-act.dharshi.66	But 	
+TS3008b.B.dialog-act.dharshi.118	Yeah . 	
+TS3008b.C.dialog-act.dharshi.67	No , it's o just signals uh and the television d uh does the rest . 	
+TS3008b.A.dialog-act.dharshi.218	Yep . 	
+TS3008b.B.dialog-act.dharshi.119	Maybe uh 	
+TS3008b.A.dialog-act.dharshi.219	No , okay , but we don't have to uh , when we don't want to uh control other devices , I think it makes it even more simple . 	
+TS3008b.C.dialog-act.dharshi.68	No . 	
+TS3008b.B.dialog-act.dharshi.120	Uh maybe we 	
+TS3008b.B.dialog-act.dharshi.121	uh uh the batteries maybe . If you use large batteries or small batter batteries . 	
+TS3008b.C.dialog-act.dharshi.69	The most standard batteries . 	
+TS3008b.A.dialog-act.dharshi.220	I think 	
+TS3008b.A.dialog-act.dharshi.221	I think that we should use uh d 	
+TS3008b.D.dialog-act.dharshi.132	I think double A_ . 	
+TS3008b.B.dialog-act.dharshi.122	Yeah ? 	
+TS3008b.A.dialog-act.dharshi.222	yeah , not not uh the b the watch kind 	
+TS3008b.D.dialog-act.dharshi.134	Yep . 	
+TS3008b.A.dialog-act.dharshi.223	th the most uh 	
+TS3008b.A.dialog-act.dharshi.224	Well , it has to be simple , and I wi 	
+TS3008b.B.dialog-act.dharshi.123	Yeah . 	
+TS3008b.D.dialog-act.dharshi.133	The most ordinary uh batteries . 	
+TS3008b.A.dialog-act.dharshi.225	Which are most likely to be found somewhere in the house , you know . 	
+TS3008b.B.dialog-act.dharshi.124	Okay . 	
+TS3008b.D.dialog-act.dharshi.135	Yep . 	
+TS3008b.A.dialog-act.dharshi.226	Oh . How much time do we ha we have left uh ? 	
+TS3008b.D.dialog-act.dharshi.136	I think about twenty minutes . 	
+TS3008b.A.dialog-act.dharshi.227	M m m more than thirty minutes ? 	
+TS3008b.A.dialog-act.dharshi.228	Uh ten twenty minutes . 	
+TS3008b.C.dialog-act.dharshi.70	But i in a way we have to be uh uh special . 	
+TS3008b.A.dialog-act.dharshi.229	Well , uh these these shouldn't 	
+TS3008b.B.dialog-act.dharshi.125	Early break . 	
+TS3008b.A.dialog-act.dharshi.230	Yeah . Yeah , okay . 	
+TS3008b.A.dialog-act.dharshi.231	But that's that's 	
+TS3008b.A.dialog-act.dharshi.232	Do you uh have you have you think about tha thought about that ? How we can what the extra touch can be . 	
+TS3008b.C.dialog-act.dharshi.71	Maybe th m 	
+TS3008b.A.dialog-act.dharshi.234	Do you suggest design or the shape or some gadget f f kind of feature or 	
+TS3008b.A.dialog-act.dharshi.235	Well , it was something about how we lose them . 	
+TS3008b.A.dialog-act.dharshi.236	Maybe it should be a remote control when you you clap you hands it makes some noise or some gadget kind of thing . 	
+TS3008b.D.dialog-act.dharshi.137	I think that's n that's more for a for an age range or uh ten to twelve or whatever . 	
+TS3008b.B.dialog-act.dharshi.126	To find him . That's maybe yeah . 	
+TS3008b.A.dialog-act.dharshi.237	Yeah . 	
+TS3008b.A.dialog-act.dharshi.238	I don't know . I don't know . 	
+TS3008b.C.dialog-act.dharshi.72		
+TS3008b.B.dialog-act.dharshi.127		
+TS3008b.A.dialog-act.dharshi.239	Nah , um a lot of people like to have such kind kind of kind of gay kind of things . 	
+TS3008b.A.dialog-act.dharshi.240	It w it w should be like a birthday present or something that you give someone , and it is i has something nice . 	
+TS3008b.D.dialog-act.dharshi.138	Yeah , yeah , that's good one , yep . 	
+TS3008b.B.dialog-act.dharshi.128	Yeah . 	
+TS3008b.A.dialog-act.dharshi.241	Or maybe it w should have a big uh light that can flash or something on it , 	
+TS3008b.A.dialog-act.dharshi.242	or maybe it should or an 	
+TS3008b.A.dialog-act.dharshi.243	or the like the the can opener . Maybe it contains some feature that you don't normally link to a remote control . 	
+TS3008b.A.dialog-act.dharshi.244	I think it's very impor because we're gonna make such a basic remote control , we have to do something to make it special . 	
+TS3008b.B.dialog-act.dharshi.129	Yeah . 	
+TS3008b.A.dialog-act.dharshi.245	It's gonna cost twenty five Euros . 	
+TS3008b.D.dialog-act.dharshi.139	Ye I think the can opener i is a brilliant idea actually , because television and beer is not a rare combination . 	
+TS3008b.A.dialog-act.dharshi.246	Yeah , but the well , it's already been done . 	
+TS3008b.B.dialog-act.dharshi.130	Yeah , but that's 	
+TS3008b.B.dialog-act.dharshi.131	yeah . 	
+TS3008b.A.dialog-act.dharshi.247	Nah . Yeah , that's true . 	
+TS3008b.A.dialog-act.dharshi.248	But 	
+TS3008b.A.dialog-act.dharshi.249	and I think it's gonna be uh very uh it has to be sturdy or something , 	
+TS3008b.A.dialog-act.dharshi.250	so maybe with with bouncing pads so that you can just throw it on the floor or something . 	
+TS3008b.D.dialog-act.dharshi.140	Yes . 	
+TS3008b.A.dialog-act.dharshi.251	it has to be used something special , 	
+TS3008b.B.dialog-act.dharshi.132	Yeah . 	
+TS3008b.D.dialog-act.dharshi.141	Yep . 	
+TS3008b.A.dialog-act.dharshi.252	and you really it has to , 	
+TS3008b.A.dialog-act.dharshi.253	you know y not s people , when they buy it , they have to think , well this one lasts for a long time . We're really gonna use them . 	
+TS3008b.A.dialog-act.dharshi.254	Not some thing you you throw away next week , you know . 	
+TS3008b.D.dialog-act.dharshi.142	No , that's true . 	
+TS3008b.A.dialog-act.dharshi.255	So maybe uh that's i I think that's when uh when we decide on these type of functions , know , basic functions , uh it's very important to find something like this . 	
+TS3008b.A.dialog-act.dharshi.256	So there's a very important task for you . 	
+TS3008b.A.dialog-act.dharshi.257	And maybe we can all think about it . 	
+TS3008b.B.dialog-act.dharshi.133	Be original , yeah . 	
+TS3008b.A.dialog-act.dharshi.258	Uh , also for you maybe , when t you it's very nice when you can be entra when you can be trendy , and and uh and al as in a friend use friendly as well , you know . 	
+TS3008b.B.dialog-act.dharshi.134	Mm-hmm . 	
+TS3008b.B.dialog-act.dharshi.136	And use friendly , yeah . 	
+TS3008b.A.dialog-act.dharshi.259	So big buttons , flashy design , and maybe some kind of gadget kind of thing . 	
+TS3008b.B.dialog-act.dharshi.137	Yeah . 	
+TS3008b.D.dialog-act.dharshi.143	Yeah . 	
+TS3008b.B.dialog-act.dharshi.135		
+TS3008b.B.dialog-act.dharshi.138	Must brain-storm . 	
+TS3008b.A.dialog-act.dharshi.261	Uh-huh . 	
+TS3008b.D.dialog-act.dharshi.144	Yeah , 	
+TS3008b.D.dialog-act.dharshi.145	a swapable front or whatever . 	
+TS3008b.A.dialog-act.dharshi.260	Yeah , or just different colours would be uh I don't know if people also wanna spend more money on fronts for their uh remote control . 	
+TS3008b.B.dialog-act.dharshi.139	Well 	
+TS3008b.C.dialog-act.dharshi.73	For the remote control . 	
+TS3008b.A.dialog-act.dharshi.262	It could be be 	
+TS3008b.B.dialog-act.dharshi.140	Why not ? 	
+TS3008b.A.dialog-act.dharshi.263	Yeah , you never know , but 	
+TS3008b.D.dialog-act.dharshi.146	Yeah . 	
+TS3008b.B.dialog-act.dharshi.141	More money for us . 	
+TS3008b.D.dialog-act.dharshi.147		
+TS3008b.A.dialog-act.dharshi.264	But it 	
+TS3008b.A.dialog-act.dharshi.265	and I think we have to make it quite big . 	
+TS3008b.B.dialog-act.dharshi.142	Yeah . 	
+TS3008b.B.dialog-act.dharshi.143	Quite big . Yeah , you think ? 	
+TS3008b.D.dialog-act.dharshi.148	Yes , definitely , definitely . 	
+TS3008b.A.dialog-act.dharshi.266	Yeah , 	
+TS3008b.C.dialog-act.dharshi.74	That's to be uh a formed for your hand . 	
+TS3008b.A.dialog-act.dharshi.267	people 	
+TS3008b.A.dialog-act.dharshi.268	So , and and also because uh it is expensive . 	
+TS3008b.A.dialog-act.dharshi.269	If you want it to be something , you know , it's ha doesn't have much functions 	
+TS3008b.D.dialog-act.dharshi.149		
+TS3008b.A.dialog-act.dharshi.270	want to be you don't want to get it l make it 	
+TS3008b.D.dialog-act.dharshi.150	Yes , it it it should be f be visible nearly anywhere in the room . 	
+TS3008b.D.dialog-act.dharshi.151	As I uh as I said during my presentation , fifty percent uh o 	
+TS3008b.A.dialog-act.dharshi.271	Mm-hmm . 	
+TS3008b.A.dialog-act.dharshi.272	And shou and should ni look nice when you put it on a table . 	
+TS3008b.A.dialog-act.dharshi.273	I I think you m might wanna put it uh 	
+TS3008b.B.dialog-act.dharshi.144	A standard or something . 	
+TS3008b.A.dialog-act.dharshi.274	yeah , that it it it it stands up . 	
+TS3008b.D.dialog-act.dharshi.152	Yeah . 	
+TS3008b.A.dialog-act.dharshi.275	Yeah , you have to put it on its So it's like a vase or uh something you put on a table . 	
+TS3008b.D.dialog-act.dharshi.153	A face ? 	
+TS3008b.D.dialog-act.dharshi.154	Or uh yeah , yeah . Yeah . 	
+TS3008b.A.dialog-act.dharshi.276	no no , put stuff inside it . But , it's like like a statue or something 	
+TS3008b.C.dialog-act.dharshi.75	More like a joystick then . 	
+TS3008b.B.dialog-act.dharshi.145		
+TS3008b.D.dialog-act.dharshi.155	Yeah , yeah , I see what you mean , yep . 	
+TS3008b.B.dialog-act.dharshi.146	It's like you have uh four phones . Something like that . 	
+TS3008b.A.dialog-act.dharshi.277	Yeah yeah , but yeah , but you also can put it somewhere near the window in 	
+TS3008b.D.dialog-act.dharshi.156	If you do that , but I don't know if that's possible within the production cost of twelve and a half Euros . 	
+TS3008b.A.dialog-act.dharshi.279	That it's it's fashionable . 	
+TS3008b.B.dialog-act.dharshi.147		
+TS3008b.A.dialog-act.dharshi.278	I I don't 	
+TS3008b.D.dialog-act.dharshi.157	I in in the base we could like make uh a button , and if you push it , the remote control itself s makes noise . 	
+TS3008b.A.dialog-act.dharshi.280	Oh , yeah . 	
+TS3008b.D.dialog-act.dharshi.158	That's probably stupid , 	
+TS3008b.D.dialog-act.dharshi.162	but uh as I found here uh , fifty percent , 	
+TS3008b.D.dialog-act.dharshi.159	was it fifty ? 	
+TS3008b.C.dialog-act.dharshi.76	But that's that's fun for the first time , and then the second 	
+TS3008b.D.dialog-act.dharshi.160	Uh fifty percent 	
+TS3008b.D.dialog-act.dharshi.161	fifty percent often loses remote control . 	
+TS3008b.A.dialog-act.dharshi.281	Yeah , but but when you when it gets lost , how can you press the button to make it 	
+TS3008b.D.dialog-act.dharshi.163	No uh , of the base the the the the the the the thing you put it in . 	
+TS3008b.A.dialog-act.dharshi.282		
+TS3008b.A.dialog-act.dharshi.283	Oh , okay . 	
+TS3008b.B.dialog-act.dharshi.148	On the television . 	
+TS3008b.B.dialog-act.dharshi.149	Oh , like this . 	
+TS3008b.A.dialog-act.dharshi.284	Uh , that's kind of nice . 	
+TS3008b.D.dialog-act.dharshi.164	If an a button in in that uh 	
+TS3008b.B.dialog-act.dharshi.150		
+TS3008b.C.dialog-act.dharshi.77	Or you can 	
+TS3008b.A.dialog-act.dharshi.285	And then also you don't even need batteries , because you can make it uh chargeable . 	
+TS3008b.B.dialog-act.dharshi.151	A char chargeable . Yeah . 	
+TS3008b.D.dialog-act.dharshi.165	Yeah , you can ma make rechargeable one , yeah . Why not . 	
+TS3008b.C.dialog-act.dharshi.78	Yeah . 	
+TS3008b.A.dialog-act.dharshi.286	Yeah , that w yeah , but yeah , the pro No , well I think that it might be t p Well , nee but we don't Yeah . 	
+TS3008b.B.dialog-act.dharshi.153	Why not . 	
+TS3008b.A.dialog-act.dharshi.287	Maybe you , but we don't know much about production cost , 	
+TS3008b.A.dialog-act.dharshi.288	but when you you can imagine that when you spend twenty five Euros on a remote control and it's a basic remote control , then the then the money there must be money to spend on that kind of st you know , rechargeable units . 	
+TS3008b.C.dialog-act.dharshi.79	With recharger . 	
+TS3008b.B.dialog-act.dharshi.152		
+TS3008b.D.dialog-act.dharshi.166	It should only cost twelve and a half Euros , of course . Aye ? 	
+TS3008b.A.dialog-act.dharshi.289	Yeah , but we would d ma we'd do it in Taiwan and So , it's not gonna be that expen 	
+TS3008b.B.dialog-act.dharshi.154	Production . 	
+TS3008b.B.dialog-act.dharshi.155		
+TS3008b.D.dialog-act.dharshi.167	Yeah , okay . 	
+TS3008b.B.dialog-act.dharshi.156	It should be possible . 	
+TS3008b.A.dialog-act.dharshi.290	Uh I I think it's a great idea . 	
+TS3008b.B.dialog-act.dharshi.157	I think it's a good idea . 	
+TS3008b.D.dialog-act.dharshi.168	Yeah . 	
+TS3008b.A.dialog-act.dharshi.291	S some kind of be 	
+TS3008b.B.dialog-act.dharshi.158	To make a base or something ? 	
+TS3008b.A.dialog-act.dharshi.292	I've never seen that before , and you make it uh um be uh , you see it with uh the mo the mouses nowadays . 	
+TS3008b.D.dialog-act.dharshi.169	Yes . Yes , definitely . Yeah . 	
+TS3008b.C.dialog-act.dharshi.80	Yes , but is that handy ? 	
+TS3008b.A.dialog-act.dharshi.293	Well , I well it's really ch you can recharge it , so you ha never have the battery problem . That's one . 	
+TS3008b.B.dialog-act.dharshi.159	It's it's it's it's 	
+TS3008b.A.dialog-act.dharshi.294	And uh you can always find your remote control up 	
+TS3008b.C.dialog-act.dharshi.81	But but remote controls remote controls nowadays can can last uh two years , three years , with with t two batteries . 	
+TS3008b.B.dialog-act.dharshi.160	it's not the purpose to be handy , it's 	
+TS3008b.A.dialog-act.dharshi.295	Uh , okay . 	
+TS3008b.A.dialog-act.dharshi.296	Well , maybe yeah , you could when that's when it's too costly , you could probably skip the recharger , 	
+TS3008b.C.dialog-act.dharshi.82	And then you 	
+TS3008b.A.dialog-act.dharshi.297	but you will you do need uh also an 	
+TS3008b.A.dialog-act.dharshi.298	uh , also you would need a battery in the the base unit as well , you know . 	
+TS3008b.A.dialog-act.dharshi.299	Does it makes it kinda 	
+TS3008b.C.dialog-act.dharshi.83	Yes . 	
+TS3008b.D.dialog-act.dharshi.170	Well y you you could connect that to two hundred to twenty volts , of course . 	
+TS3008b.C.dialog-act.dharshi.84	Or 	
+TS3008b.B.dialog-act.dharshi.161	Mm . Yeah , but that's not it's ugly , I think . 	
+TS3008b.A.dialog-act.dharshi.300	Yeah , yeah . Okay . Yeah . 	
+TS3008b.D.dialog-act.dharshi.171	I don't know . 	
+TS3008b.A.dialog-act.dharshi.301	Yeah , but then it's very easy to make it also a rechargeab I don't think that is gonna cost much to make it also a recharge function in it . 	
+TS3008b.B.dialog-act.dharshi.162	No . 	
+TS3008b.D.dialog-act.dharshi.172	On the other hand , if you don't do it , we can also make a nice bay . 	
+TS3008b.D.dialog-act.dharshi.173	I mean , it looks trendy and still still put a bleep function in it , 	
+TS3008b.A.dialog-act.dharshi.303	Yeah . 	
+TS3008b.D.dialog-act.dharshi.174	but um I think the bay is definitely uh 	
+TS3008b.A.dialog-act.dharshi.302	I think it's a good idea . 	
+TS3008b.A.dialog-act.dharshi.304	And make it , you know , we we um 	
+TS3008b.A.dialog-act.dharshi.305	Well , we uh it's 	
+TS3008b.A.dialog-act.dharshi.306	it isn't a t a most uh costly uh remote control . 	
+TS3008b.A.dialog-act.dharshi.307	We can save on the on the functions . 	
+TS3008b.A.dialog-act.dharshi.308	We just put some simple button in , 	
+TS3008b.A.dialog-act.dharshi.309	make it big and sturdy , nothing more , 	
+TS3008b.A.dialog-act.dharshi.310	and just make s sure there's some noise that it can make , 	
+TS3008b.A.dialog-act.dharshi.311	or probably some kind of cheap light thing around it or that it uh that it lights up , 	
+TS3008b.D.dialog-act.dharshi.175	Sure , why not . Yep . 	
+TS3008b.A.dialog-act.dharshi.312	it's also nice . 	
+TS3008b.A.dialog-act.dharshi.313	And if you put it away , I think it's uh w we have to we uh that's uh 	
+TS3008b.D.dialog-act.dharshi.176	Yeah . 	
+TS3008b.A.dialog-act.dharshi.314	it's not a easy market . 	
+TS3008b.B.dialog-act.dharshi.163	Yeah . 	
+TS3008b.A.dialog-act.dharshi.315	We have to something special . 	
+TS3008b.D.dialog-act.dharshi.177	Yeah . 	
+TS3008b.A.dialog-act.dharshi.316	And for twenty five Euros people want something remote c special from your mote control , 	
+TS3008b.B.dialog-act.dharshi.164	True . 	
+TS3008b.B.dialog-act.dharshi.165	Yeah . 	
+TS3008b.A.dialog-act.dharshi.317	and we can't deliver that in r with uh regards to the functions , 	
+TS3008b.D.dialog-act.dharshi.178	Definitely . 	
+TS3008b.A.dialog-act.dharshi.318	because we aren't gonna put 	
+TS3008b.D.dialog-act.dharshi.179	With eye candy , ear candy , whatever . Yeah , definitely . 	
+TS3008b.A.dialog-act.dharshi.319	Yeah . 	
+TS3008b.A.dialog-act.dharshi.320	And then uh when make it , you know , nice looking shape and this and then you also you got the stand-up thing . 	
+TS3008b.A.dialog-act.dharshi.321	Yeah . I think I think it's a good idea . 	
+TS3008b.D.dialog-act.dharshi.180	Yeah . 	
+TS3008b.B.dialog-act.dharshi.166	Yeah , it must be must be a gadget to have . 	
+TS3008b.A.dialog-act.dharshi.322	Yeah . 	
+TS3008b.D.dialog-act.dharshi.181	Definitely , yeah . 	
+TS3008b.A.dialog-act.dharshi.323	Oh , if it let's 	
+TS3008b.A.dialog-act.dharshi.324	well , we will see what's possible concerning the the costs , and if it's possible we'll do that . 	
+TS3008b.B.dialog-act.dharshi.167	Yeah . 	
+TS3008b.A.dialog-act.dharshi.325	And we even try to save up on other stuff to make sure we can do such a thing . 	
+TS3008b.A.dialog-act.dharshi.326	And the first thing we the most likeable thing to to n to skip is then probably the recharge function or something . 	
+TS3008b.A.dialog-act.dharshi.327	If that's too expensive , we won't do that . 	
+TS3008b.B.dialog-act.dharshi.168	Yeah , we c 	
+TS3008b.A.dialog-act.dharshi.328	But it would be nice . 	
+TS3008b.D.dialog-act.dharshi.182	It would be nice , yes . 	
+TS3008b.A.dialog-act.dharshi.329	It's the idea . 	
+TS3008b.A.dialog-act.dharshi.330	I know that batteries last long nowadays . 	
+TS3008b.A.dialog-act.dharshi.331	And and what people just think about , well , I'll never have to buy any r batteries again , so y b because it's very annoying when your battery is empty . 	
+TS3008b.A.dialog-act.dharshi.332	And you know then when you haven't batteries around , and probably for two weeks , your remo I've experienced that that 	
+TS3008b.D.dialog-act.dharshi.183	Most televisions break down before the battery pack is empty , so yes . 	
+TS3008b.A.dialog-act.dharshi.333	Yeah , okay . 	
+TS3008b.A.dialog-act.dharshi.334	So , easy functions . Well , we will we will I think we'll work that out , 	
+TS3008b.A.dialog-act.dharshi.335	zapping , numbers on it , bi 	
+TS3008b.B.dialog-act.dharshi.169	Or just give a beep when the battery's out or uh down . 	
+TS3008b.D.dialog-act.dharshi.184	Yeah , why not . 	
+TS3008b.A.dialog-act.dharshi.336	Yeah . But it's also annoying . 	
+TS3008b.B.dialog-act.dharshi.170		
+TS3008b.A.dialog-act.dharshi.337	'cause as long as it stays as it ke keeps working , you're not very motivated to do something about it . 	
+TS3008b.D.dialog-act.dharshi.185	Hmm . 	
+TS3008b.B.dialog-act.dharshi.171	Yeah . 	
+TS3008b.B.dialog-act.dharshi.172	true . 	
+TS3008b.A.dialog-act.dharshi.338	Then it beeps all the time and . 	
+TS3008b.D.dialog-act.dharshi.186	No , that's true . 	
+TS3008b.A.dialog-act.dharshi.339	You don't want to have ever have those problems , and you won't have if if you have the rechargeable . 	
+TS3008b.A.dialog-act.dharshi.340	And you don't have to use the unit , you can also put it on the side if people don't like it . 	
+TS3008b.A.dialog-act.dharshi.341	Uh , i i in the in the ma 	
+TS3008b.D.dialog-act.dharshi.187	Why not . 	
+TS3008b.C.dialog-act.dharshi.85	But you pay for it . 	
+TS3008b.A.dialog-act.dharshi.342	Yeah , but it w I mean , if if they pay for it because they think , oh , that's a great idea , I'm gonna use it . 	
+TS3008b.A.dialog-act.dharshi.343	And when it , you know , when time goes by and they think , well , I'll never put him in the recharger , I think last long enough , then they put it on side and they can use it now and then . 	
+TS3008b.A.dialog-act.dharshi.344	Then when they look get m I I 	
+TS3008b.A.dialog-act.dharshi.345	I know for sure that everybody who buys this remote control , within a couple of months of they will be in the situation that they they're seeking for the remote control , they wanna see something quick and uh just push the button and th uh , 	
+TS3008b.B.dialog-act.dharshi.173	Yeah . 	
+TS3008b.A.dialog-act.dharshi.346	I think it's brilliant . 	
+TS3008b.D.dialog-act.dharshi.188	Bleep bleep bleep , oh there it is , yeah . Yeah . 	
+TS3008b.A.dialog-act.dharshi.347	Yeah , I've never it's so simple , but I've never seen it . 	
+TS3008b.B.dialog-act.dharshi.174	Yeah . 	
+TS3008b.D.dialog-act.dharshi.189	No . Nearly . 	
+TS3008b.B.dialog-act.dharshi.175	And you can leave it just there . 	
+TS3008b.A.dialog-act.dharshi.348	M maybe we should really do this . 	
+TS3008b.D.dialog-act.dharshi.190	Yeah . 	
+TS3008b.B.dialog-act.dharshi.176	Yeah . 	
+TS3008b.A.dialog-act.dharshi.349	Okay now , well , how much time have we got left ? 	
+TS3008b.A.dialog-act.dharshi.350	These clocks aren't uh synched . 	
+TS3008b.D.dialog-act.dharshi.191		
+TS3008b.B.dialog-act.dharshi.177	Yes . 	
+TS3008b.A.dialog-act.dharshi.351	Oh , now I've put uh well , 	
+TS3008b.A.dialog-act.dharshi.352	it is twenty p 	
+TS3008b.B.dialog-act.dharshi.178	Yeah , I'll 	
+TS3008b.A.dialog-act.dharshi.353	Okay , so we have ten minutes or something ? 	
+TS3008b.D.dialog-act.dharshi.192	Something like that , yeah . 	
+TS3008b.A.dialog-act.dharshi.354	Yeah , but we're uh we're done . I think . 	
+TS3008b.B.dialog-act.dharshi.179	Uh fifteen minutes . 	
+TS3008b.A.dialog-act.dharshi.355	We've decided on the functions . 	
+TS3008b.A.dialog-act.dharshi.356	Well , there is some oh . 	
+TS3008b.A.dialog-act.dharshi.357	There is a closing sheet . 	
+TS3008b.A.dialog-act.dharshi.358	We have lunch break , and then we have thirty minutes of individual work . 	
+TS3008b.B.dialog-act.dharshi.180		
+TS3008b.D.dialog-act.dharshi.193	Oh . 	
+TS3008b.A.dialog-act.dharshi.359	Oh okay , I'll make sure I'll 	
+TS3008b.A.dialog-act.dharshi.360	I had some problems with uh the digitising the the first minutes , 	
+TS3008b.A.dialog-act.dharshi.361	the the s the next minutes won't be a problem , 	
+TS3008b.A.dialog-act.dharshi.362	but I'll try to make sure the first one will be in the folder too , 	
+TS3008b.A.dialog-act.dharshi.363	but maybe it won't work , but you'll see . 	
+TS3008b.D.dialog-act.dharshi.194	We'll see . 	
+TS3008b.A.dialog-act.dharshi.364	I think these are more important than the first ones , so 	
+TS3008b.B.dialog-act.dharshi.181	Can you make an uh uh a part of f folder for the minutes maybe ? 	
+TS3008b.A.dialog-act.dharshi.365	. 	
+TS3008b.B.dialog-act.dharshi.182	That not not everything in one one uh folder . 	
+TS3008b.D.dialog-act.dharshi.195	Maarten , five minutes . 	
+TS3008b.A.dialog-act.dharshi.366	Oh , five minutes . 	
+TS3008b.A.dialog-act.dharshi.367	Yeah , because uh I I d I did uh the first minutes I did were were were a bit scratchy , you know . 	
+TS3008b.A.dialog-act.dharshi.368	Then I did a s second one with a nicer layout , which I could uh , know , use for the other ones well , 	
+TS3008b.A.dialog-act.dharshi.369	but uh I d think uh I forgot to do put done under the first one , 	
+TS3008b.A.dialog-act.dharshi.370	and when you go write a second uh it's get it's not working when you try to write second uh paper or something . 	
+TS3008b.B.dialog-act.dharshi.183	Yeah . 	
+TS3008b.B.dialog-act.dharshi.184	Maybe . 	
+TS3008b.D.dialog-act.dharshi.196	No , that's true uh , yeah . 	
+TS3008b.A.dialog-act.dharshi.371	And then you 	
+TS3008b.A.dialog-act.dharshi.372	you had to overwrite it or someth I don't know . 	
+TS3008b.A.dialog-act.dharshi.373	Becau I d uh , it was not my uh pen . 	
+TS3008b.D.dialog-act.dharshi.197	Should we by the way draw um 	
+TS3008b.A.dialog-act.dharshi.374	this kind of looks you like . 	
+TS3008b.D.dialog-act.dharshi.198	on our nice whiteboard , um a little uh idea of 	
+TS3008b.A.dialog-act.dharshi.375	Of the shape . 	
+TS3008b.D.dialog-act.dharshi.199	yeah . 	
+TS3008b.B.dialog-act.dharshi.185	Or the sh 	
+TS3008b.A.dialog-act.dharshi.376	Yeah , probably , it would be nice . 	
+TS3008b.D.dialog-act.dharshi.200	I dunno . 	
+TS3008b.D.dialog-act.dharshi.201	Has anyone got um a little bit detailed ideas about the shape ? 	
+TS3008b.B.dialog-act.dharshi.186		
+TS3008b.B.dialog-act.dharshi.187	Do you get an idea of the shape ? 	
+TS3008b.D.dialog-act.dharshi.202	I don't , for one . 	
+TS3008b.C.dialog-act.dharshi.86	Maybe like this pen . 	
+TS3008b.D.dialog-act.dharshi.203	A bit bigger I guess , but 	
+TS3008b.A.dialog-act.dharshi.377	No , bigger . 	
+TS3008b.B.dialog-act.dharshi.188	A little bit bigger , yeah but 	
+TS3008b.D.dialog-act.dharshi.204	The shape is nice , 	
+TS3008b.D.dialog-act.dharshi.205	it's um something different , and we want we want that . 	
+TS3008b.C.dialog-act.dharshi.87	It has to feel nice in your hand . 	
+TS3008b.A.dialog-act.dharshi.378	Well , I I I have to say , I have this uh can opening remote control in my head most of all , 	
+TS3008b.D.dialog-act.dharshi.206	Yeah . 	
+TS3008b.B.dialog-act.dharshi.189		
+TS3008b.A.dialog-act.dharshi.379	or I think some maybe we should 	
+TS3008b.A.dialog-act.dharshi.380	no , that will be too costly . 	
+TS3008b.B.dialog-act.dharshi.190	Oh , uh look uh look at the pictures . 	
+TS3008b.A.dialog-act.dharshi.381	We shou we could also , 	
+TS3008b.A.dialog-act.dharshi.382	that was a would also be an idea , 	
+TS3008b.A.dialog-act.dharshi.383	but I don't think it I don't know if it exists already , 	
+TS3008b.A.dialog-act.dharshi.384	you should like make Alessi or something design it . 	
+TS3008b.D.dialog-act.dharshi.207	Okay , yeah . 	
+TS3008b.A.dialog-act.dharshi.385	That would also be nice . 	
+TS3008b.A.dialog-act.dharshi.386	But that's gonna then you c then you don't 	
+TS3008b.D.dialog-act.dharshi.208	Yeah , but twelve and a half Euros ? Uh 	
+TS3008b.A.dialog-act.dharshi.387	Yeah , but then you don't have t yeah it that's not something i that's in the production cost a one it's a one time , you know s was it's a single cost . 	
+TS3008b.D.dialog-act.dharshi.209	Yeah . 	
+TS3008b.A.dialog-act.dharshi.388	Yeah , m but but then you can 	
+TS3008b.A.dialog-act.dharshi.389	nah , I don't thin 	
+TS3008b.A.dialog-act.dharshi.392	I think that it would be more expensive , 	
+TS3008b.A.dialog-act.dharshi.393	because I've bought the Alessi stuff more often and even small pencil holders or something are more expensive . 	
+TS3008b.D.dialog-act.dharshi.210	Yeah , that's true . 	
+TS3008b.A.dialog-act.dharshi.394	Would be a nice idea though . 	
+TS3008b.A.dialog-act.dharshi.395	I don't know . 	
+TS3008b.A.dialog-act.dharshi.396	I think it uh has to be a r it has to have round forms or something . 	
+TS3008b.A.dialog-act.dharshi.397	Like something like that or so or so 	
+TS3008b.D.dialog-act.dharshi.211	Something like that is very ergonomic . 	
+TS3008b.A.dialog-act.dharshi.398	And on th and then uh s a base unit underneath it . It's also round . 	
+TS3008b.D.dialog-act.dharshi.212	So 	
+TS3008b.A.dialog-act.dharshi.399	Put it in there uh wire on it . 	
+TS3008b.D.dialog-act.dharshi.213	Yeah . 	
+TS3008b.A.dialog-act.dharshi.401	Maybe uh , I don't know , some some lights , a big but well . 	
+TS3008b.A.dialog-act.dharshi.400		
+TS3008b.B.dialog-act.dharshi.191	Yeah , flash lights at the side . At the side , or something like that . 	
+TS3008b.A.dialog-act.dharshi.402	Volume and programme , yeah . 	
+TS3008b.D.dialog-act.dharshi.214	Yes , volume and programme should be there I guess , because you hands wi uh y your hands will be in the smaller part . 	
+TS3008b.A.dialog-act.dharshi.403	And some of the extra funct 	
+TS3008b.A.dialog-act.dharshi.404	Some of the extra functions over here . Numbers . 	
+TS3008b.B.dialog-act.dharshi.192	Yeah . 	
+TS3008b.D.dialog-act.dharshi.215	Yeah , 	
+TS3008b.D.dialog-act.dharshi.216	and the numbers on top , I guess . 	
+TS3008b.B.dialog-act.dharshi.193	Yeah . 	
+TS3008b.A.dialog-act.dharshi.405	And and lights ? 	
+TS3008b.A.dialog-act.dharshi.406	How we're g well , maybe uh s a ring of 	
+TS3008b.A.dialog-act.dharshi.407	no , no , you have to 	
+TS3008b.A.dialog-act.dharshi.408	Maybe on the side of it . 	
+TS3008b.D.dialog-act.dharshi.217	Maybe ro roun rounds 	
+TS3008b.D.dialog-act.dharshi.218	uh uh l sorry . 	
+TS3008b.B.dialog-act.dharshi.194	Yeah , side of it . 	
+TS3008b.A.dialog-act.dharshi.409	Along the side uh strip of yeah . 	
+TS3008b.B.dialog-act.dharshi.195	Just two LEDs or something on the side . Yeah . 	
+TS3008b.D.dialog-act.dharshi.219	Maybe lights also around the volume and the p the plus minus programme buttons . 	
+TS3008b.A.dialog-act.dharshi.410	Yeah , 	
+TS3008b.A.dialog-act.dharshi.411	but I also meant the the blinking li w you know , the ones that also blink when you try to uh uh locate your remote . 	
+TS3008b.D.dialog-act.dharshi.220	Oh . 	
+TS3008b.D.dialog-act.dharshi.222	Okay . 	
+TS3008b.B.dialog-act.dharshi.196	Yeah . 	
+TS3008b.D.dialog-act.dharshi.223	Yeah . 	
+TS3008b.A.dialog-act.dharshi.412	Well , theys have to be 	
+TS3008b.B.dialog-act.dharshi.197	Well , uh probably at the side . 	
+TS3008b.B.dialog-act.dharshi.198	You know look at the front , but 	
+TS3008b.A.dialog-act.dharshi.413	Yeah . Yeah , yeah . Exactly . 	
+TS3008b.A.dialog-act.dharshi.414	When you you see it from the side , then it would look just like that . 	
+TS3008b.B.dialog-act.dharshi.199	Yeah , exactly , 	
+TS3008b.A.dialog-act.dharshi.415	And then you have a strip of uh lights or something 	
+TS3008b.B.dialog-act.dharshi.200	and then there is yeah . 	
+TS3008b.B.dialog-act.dharshi.201	Yeah , something like that , yeah . 	
+TS3008b.D.dialog-act.dharshi.224	Okay , yeah . 	
+TS3008b.A.dialog-act.dharshi.416	Well , uh I think it's nice , for one thing . 	
+TS3008b.A.dialog-act.dharshi.417	maybe put something on top of it or , you know , like that's looks funny . 	
+TS3008b.B.dialog-act.dharshi.202	No . No . 	
+TS3008b.D.dialog-act.dharshi.225		
+TS3008b.A.dialog-act.dharshi.418	I don't know . 	
+TS3008b.A.dialog-act.dharshi.419	Or some bump . 	
+TS3008b.D.dialog-act.dharshi.226	I think I think that'll be too big tha too big then . 	
+TS3008b.A.dialog-act.dharshi.420	Maybe some 	
+TS3008b.A.dialog-act.dharshi.421	Yeah ? 	
+TS3008b.B.dialog-act.dharshi.203	Bumper or something . 	
+TS3008b.A.dialog-act.dharshi.422	We'll have to think about it . 	
+TS3008b.A.dialog-act.dharshi.423	I think we're we're done . 	
+TS3008b.D.dialog-act.dharshi.227	Yeah . 	
+TS3008b.B.dialog-act.dharshi.204	Yeah . 	
+TS3008b.D.dialog-act.dharshi.228	Yes , we are . 	
+TS3008b.A.dialog-act.dharshi.424	We can save this one . 	
+TS3008b.D.dialog-act.dharshi.229	Alright . 	
+TS3008b.B.dialog-act.dharshi.205	Lunch break . 	
+TS3008b.D.dialog-act.dharshi.230	Yes , I guess it's lunch time . 	
+TS3008b.B.dialog-act.dharshi.206	Okay then . 	
+TS3008b.A.dialog-act.dharshi.425	Mm mm . 	
+TS3008b.D.dialog-act.dharshi.231	I don't know . 	
+TS3008b.B.dialog-act.dharshi.207		
+TS3008b.C.dialog-act.dharshi.88		
+TS3008b.D.dialog-act.dharshi.232	Half and hour ? 	
+TS3008b.D.dialog-act.dharshi.233	I thought our next uh next individual round was half an hour . 	
+TS3008b.B.dialog-act.dharshi.210	Okay , five uh 	
+TS3008b.A.dialog-act.dharshi.426	Yeah , that was what uh 	
+TS3008b.D.dialog-act.dharshi.234	I don't know about the lunch break . 	
+TS3008b.A.dialog-act.dharshi.427	Mm , we'll hear about it . 	
+TS3008b.D.dialog-act.dharshi.235	Well 	
+TS3008b.B.dialog-act.dharshi.211	Oh . 	
+TS3008b.B.dialog-act.dharshi.208	. 	
+TS3008b.B.dialog-act.dharshi.209		
+

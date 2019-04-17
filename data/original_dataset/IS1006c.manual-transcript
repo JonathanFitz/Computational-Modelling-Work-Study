@@ -1,0 +1,1002 @@
+Observation: IS1006c; Result size: 999; atts: 2
+$d@nite:id	$d	
+IS1006c.A.dialog-act.vkaraisk.1	Okay , so 	
+IS1006c.A.dialog-act.vkaraisk.2	now we are on the conceptual design meeting . 	
+IS1006c.A.dialog-act.vkaraisk.3	Uh y getting close to the last 	
+IS1006c.D.dialog-act.vkaraisk.1	Mm-hmm . 	
+IS1006c.A.dialog-act.vkaraisk.4	is the penultim meeting . 	
+IS1006c.D.dialog-act.vkaraisk.2		
+IS1006c.B.dialog-act.vkaraisk.1	How was lunch ? 	
+IS1006c.D.dialog-act.vkaraisk.3	Thanks 	
+IS1006c.A.dialog-act.vkaraisk.5	Mm great . 	
+IS1006c.C.dialog-act.vkaraisk.1		
+IS1006c.D.dialog-act.vkaraisk.4	Don't be sarcastic . Mark . 	
+IS1006c.A.dialog-act.vkaraisk.6	So um 	
+IS1006c.A.dialog-act.vkaraisk.7	I will again do the secretary part 	
+IS1006c.A.dialog-act.vkaraisk.8	uh we will have three presentation first um uh the industrial design , first Rama then Mark and then Sammy . 	
+IS1006c.D.dialog-act.vkaraisk.5	Uh Rama . 	
+IS1006c.C.dialog-act.vkaraisk.2	Ramaro . 	
+IS1006c.A.dialog-act.vkaraisk.9	Um um we have to take a decision on the control remote control concepts 	
+IS1006c.A.dialog-act.vkaraisk.10	and we have forty minutes . 	
+IS1006c.B.dialog-act.vkaraisk.2	Mm . 	
+IS1006c.A.dialog-act.vkaraisk.11	So 	
+IS1006c.A.dialog-act.vkaraisk.12	what we want to 	
+IS1006c.A.dialog-act.vkaraisk.13	the decision we want to take on this meeting are on the um first on the component concept , so what kind of energy we use uh what kind of chip on print and one ki kind of case . 	
+IS1006c.A.dialog-act.vkaraisk.14	And also on user interface concept uh what kind of interface we use and if there is some supplements . 	
+IS1006c.A.dialog-act.vkaraisk.15	And at the end um Sammy will give um a trend watching on what he's he's been doing . 	
+IS1006c.A.dialog-act.vkaraisk.16	It's 	
+IS1006c.A.dialog-act.vkaraisk.17	So , 	
+IS1006c.A.dialog-act.vkaraisk.18	let's go . 	
+IS1006c.A.dialog-act.vkaraisk.19	First with Rama . 	
+IS1006c.A.dialog-act.vkaraisk.20	Participant two . 	
+IS1006c.C.dialog-act.vkaraisk.3	Yeah , participant two . 	
+IS1006c.C.dialog-act.vkaraisk.4	Component . 	
+IS1006c.A.dialog-act.vkaraisk.21	Mm-hmm . 	
+IS1006c.C.dialog-act.vkaraisk.5	Yep . 	
+IS1006c.A.dialog-act.vkaraisk.22		
+IS1006c.C.dialog-act.vkaraisk.6	So 	
+IS1006c.C.dialog-act.vkaraisk.8	we're to mainly design f mainly need to know which components we'll use for energy , and the material and interface . 	
+IS1006c.C.dialog-act.vkaraisk.9	For energy there are maybe two or three possibilities . 	
+IS1006c.C.dialog-act.vkaraisk.10	First one , we can use simple battery , 	
+IS1006c.C.dialog-act.vkaraisk.11	or we can use traditional solar cells 	
+IS1006c.C.dialog-act.vkaraisk.12	or 	
+IS1006c.C.dialog-act.vkaraisk.13	mm and the material we can have plastic , 	
+IS1006c.C.dialog-act.vkaraisk.14	rubber which is good for this R_S_A_ 	
+IS1006c.D.dialog-act.vkaraisk.6	Ah . 	
+IS1006c.C.dialog-act.vkaraisk.15	and then uh titanium , which can be which have very good look 	
+IS1006c.C.dialog-act.vkaraisk.16	an and then interface we're to use push buttons or liquid crystal d L_C_D_ display . 	
+IS1006c.C.dialog-act.vkaraisk.17	And we can use some , moving kind of thing . 	
+IS1006c.C.dialog-act.vkaraisk.18	So , 	
+IS1006c.C.dialog-act.vkaraisk.19	as we discussed before , 	
+IS1006c.C.dialog-act.vkaraisk.20	we need to 	
+IS1006c.C.dialog-act.vkaraisk.21	we would like to have some speech recognition s chip in our remote control . 	
+IS1006c.C.dialog-act.vkaraisk.22	So 	
+IS1006c.C.dialog-act.vkaraisk.23	this can be simple kind of programmable chip 	
+IS1006c.C.dialog-act.vkaraisk.24	and 	
+IS1006c.C.dialog-act.vkaraisk.25	which can use microphone sensors . 	
+IS1006c.C.dialog-act.vkaraisk.26	And we also want to look at our remote control , 	
+IS1006c.C.dialog-act.vkaraisk.27	so . 	
+IS1006c.C.dialog-act.vkaraisk.28	Still we are looking for possible uh technical uh specifications and how w easy we can do and within our pri range , like we're to in our twelve Euros or around that . 	
+IS1006c.C.dialog-act.vkaraisk.29	So we are looking for simple devices or simple technology to do the location of remote control in a room or in a house . 	
+IS1006c.A.dialog-act.vkaraisk.23	Mm-hmm , okay . 	
+IS1006c.C.dialog-act.vkaraisk.30	So uh 	
+IS1006c.C.dialog-act.vkaraisk.31	we discussed an 	
+IS1006c.C.dialog-act.vkaraisk.32	Excuse me . 	
+IS1006c.C.dialog-act.vkaraisk.33	So 	
+IS1006c.C.dialog-act.vkaraisk.34	we would like to propose battery instead of solar cells 	
+IS1006c.C.dialog-act.vkaraisk.35	and it would be problematic uh to have enough energy with the solar cells 	
+IS1006c.D.dialog-act.vkaraisk.7	Mm-hmm . 	
+IS1006c.C.dialog-act.vkaraisk.36	and so we would like to just use simple battery . 	
+IS1006c.C.dialog-act.vkaraisk.37	And also we want to go for titanium design instead of rubber or 	
+IS1006c.C.dialog-act.vkaraisk.39	and 	
+IS1006c.C.dialog-act.vkaraisk.40	well 	
+IS1006c.C.dialog-act.vkaraisk.41	the problem is with this design we found that we can't use double-curved shapes . 	
+IS1006c.D.dialog-act.vkaraisk.8	What is a double-curved shape ? 	
+IS1006c.C.dialog-act.vkaraisk.42	Like you can have two curves . 	
+IS1006c.D.dialog-act.vkaraisk.9	Uh-huh . 	
+IS1006c.B.dialog-act.vkaraisk.3	Why ? 	
+IS1006c.C.dialog-act.vkaraisk.43	Uh it's I think in manufacturing I guess it's problematic . 	
+IS1006c.C.dialog-act.vkaraisk.44	So , 	
+IS1006c.C.dialog-act.vkaraisk.45	we want to go for simple push buttons 	
+IS1006c.C.dialog-act.vkaraisk.46	because it need a simple chip 	
+IS1006c.C.dialog-act.vkaraisk.47	and it's really lesser uh re really less expensive compared to L_C_D_ 	
+IS1006c.D.dialog-act.vkaraisk.10		
+IS1006c.C.dialog-act.vkaraisk.48	which are 	
+IS1006c.C.dialog-act.vkaraisk.49	uh which needs advanced chip technology 	
+IS1006c.C.dialog-act.vkaraisk.50	and it's more expensive , 	
+IS1006c.C.dialog-act.vkaraisk.51	since we want to put some other features such as speech recognition 	
+IS1006c.B.dialog-act.vkaraisk.4	Mm-hmm . 	
+IS1006c.D.dialog-act.vkaraisk.11		
+IS1006c.C.dialog-act.vkaraisk.52	we want to reduce uh cost . 	
+IS1006c.A.dialog-act.vkaraisk.24	Um I want to know why it b uh just uh sorry but for the point before uh why not the rubber , if it is something that it seems to be light . 	
+IS1006c.D.dialog-act.vkaraisk.12	The cost . 	
+IS1006c.C.dialog-act.vkaraisk.53	Uh Uh And also like in if you put a it's be difficult to do all the moulding of buttons and these things 	
+IS1006c.A.dialog-act.vkaraisk.25	Okay . 	
+IS1006c.C.dialog-act.vkaraisk.54	and 	
+IS1006c.A.dialog-act.vkaraisk.26	You m titanium it's more uh 	
+IS1006c.C.dialog-act.vkaraisk.55	Yeah . 	
+IS1006c.B.dialog-act.vkaraisk.5	W we can use something like you know the whole body's titanium 	
+IS1006c.B.dialog-act.vkaraisk.6	but there are some rubber or I dunno some rubber parts 	
+IS1006c.B.dialog-act.vkaraisk.7	like 	
+IS1006c.D.dialog-act.vkaraisk.13	Mm like this ? 	
+IS1006c.C.dialog-act.vkaraisk.56	Yeah . 	
+IS1006c.A.dialog-act.vkaraisk.28	Yes so mm 	
+IS1006c.B.dialog-act.vkaraisk.8	to make it feel better 	
+IS1006c.B.dialog-act.vkaraisk.9	and to 	
+IS1006c.B.dialog-act.vkaraisk.10	you know 	
+IS1006c.C.dialog-act.vkaraisk.57	Like in cell phones recently 	
+IS1006c.D.dialog-act.vkaraisk.14	Mm-hmm . 	
+IS1006c.C.dialog-act.vkaraisk.58	these you can with the rubber in four directions and 	
+IS1006c.B.dialog-act.vkaraisk.11	Yeah . Yeah . 	
+IS1006c.A.dialog-act.vkaraisk.29	Uh-huh . 	
+IS1006c.A.dialog-act.vkaraisk.30	Okay . 	
+IS1006c.C.dialog-act.vkaraisk.59	yeah . 	
+IS1006c.C.dialog-act.vkaraisk.60	But full assembly We'll use mainly for titanium 	
+IS1006c.A.dialog-act.vkaraisk.31	Okay . 	
+IS1006c.C.dialog-act.vkaraisk.61	rubber is expensive 	
+IS1006c.A.dialog-act.vkaraisk.32	Okay . 	
+IS1006c.C.dialog-act.vkaraisk.62	and also it's bit difficult to do all the shapes uh . 	
+IS1006c.A.dialog-act.vkaraisk.33	Okay . 	
+IS1006c.C.dialog-act.vkaraisk.63	And this push buttons 	
+IS1006c.A.dialog-act.vkaraisk.34	Uh yeah so 	
+IS1006c.C.dialog-act.vkaraisk.64	we we would like to use push buttons instead of L_C_D_s 	
+IS1006c.C.dialog-act.vkaraisk.65	and so we want to mo 	
+IS1006c.C.dialog-act.vkaraisk.66	I mean we're we want to put speech recognition 	
+IS1006c.C.dialog-act.vkaraisk.67	so we want to reduce price on this technology 	
+IS1006c.C.dialog-act.vkaraisk.68	and so that we can have enough space or enough money 	
+IS1006c.A.dialog-act.vkaraisk.35	Okay , s so 	
+IS1006c.A.dialog-act.vkaraisk.36	simple button and uh speech recognition for the more complicated . 	
+IS1006c.C.dialog-act.vkaraisk.69	for 	
+IS1006c.C.dialog-act.vkaraisk.70	S S 	
+IS1006c.D.dialog-act.vkaraisk.15	Speech 	
+IS1006c.C.dialog-act.vkaraisk.71	Y yeah we have simple buttons and speech recognition technology , 	
+IS1006c.B.dialog-act.vkaraisk.12	Mm-hmm . 	
+IS1006c.A.dialog-act.vkaraisk.37	Okay . 	
+IS1006c.B.dialog-act.vkaraisk.13	Okay , 	
+IS1006c.C.dialog-act.vkaraisk.72	so 	
+IS1006c.B.dialog-act.vkaraisk.14	and still we have 	
+IS1006c.B.dialog-act.vkaraisk.15	mm can we still include the L_ L_S_D_ display ? 	
+IS1006c.D.dialog-act.vkaraisk.16	L_C_D_ . 	
+IS1006c.B.dialog-act.vkaraisk.16	L_C_D_ yeah L_C_D_ . 	
+IS1006c.C.dialog-act.vkaraisk.73	Uh l 	
+IS1006c.D.dialog-act.vkaraisk.17	Seems not , 	
+IS1006c.D.dialog-act.vkaraisk.18	it's either L_C_D_ or push-button . 	
+IS1006c.C.dialog-act.vkaraisk.74	So uh 	
+IS1006c.C.dialog-act.vkaraisk.75	it's like a 	
+IS1006c.B.dialog-act.vkaraisk.17	No , 	
+IS1006c.B.dialog-act.vkaraisk.18	it's not gonna be a t no touchable 	
+IS1006c.B.dialog-act.vkaraisk.19	but still like a source of information or source for menus . 	
+IS1006c.D.dialog-act.vkaraisk.19	Ah . 	
+IS1006c.C.dialog-act.vkaraisk.76	Yeah 	
+IS1006c.C.dialog-act.vkaraisk.77	maybe maybe we can see depending on how we'll come up with our full design 	
+IS1006c.C.dialog-act.vkaraisk.78	then if we have enough money or like for and 	
+IS1006c.B.dialog-act.vkaraisk.20	Okay , 	
+IS1006c.B.dialog-act.vkaraisk.21	so let's try it , 	
+IS1006c.C.dialog-act.vkaraisk.79	because the speech recognition technology will take at least five Euros or or something 	
+IS1006c.B.dialog-act.vkaraisk.22	let's t 	
+IS1006c.C.dialog-act.vkaraisk.80	so we want to reduce the cost on display 	
+IS1006c.D.dialog-act.vkaraisk.20	The L_C_D_ would 	
+IS1006c.C.dialog-act.vkaraisk.81	or this inter 	
+IS1006c.D.dialog-act.vkaraisk.21	The display would only be display and not uh touch sensitive you mean . 	
+IS1006c.B.dialog-act.vkaraisk.23	Yeah , yeah , 	
+IS1006c.B.dialog-act.vkaraisk.24	it's it's not gonna be a touch pad , uh just a display for giving you information . 	
+IS1006c.D.dialog-act.vkaraisk.23	Just uh for output , 	
+IS1006c.D.dialog-act.vkaraisk.24	yeah . 	
+IS1006c.D.dialog-act.vkaraisk.25	Yeah . 	
+IS1006c.C.dialog-act.vkaraisk.82	Ok Yeah , that can we we can consider , 	
+IS1006c.A.dialog-act.vkaraisk.38	Mm-hmm . 	
+IS1006c.C.dialog-act.vkaraisk.83	because like it won't take much money I guess , 	
+IS1006c.B.dialog-act.vkaraisk.25	Mm-hmm . 	
+IS1006c.C.dialog-act.vkaraisk.84	because 	
+IS1006c.A.dialog-act.vkaraisk.39	Okay . 	
+IS1006c.C.dialog-act.vkaraisk.85	Okay , yep . 	
+IS1006c.A.dialog-act.vkaraisk.40	Mm . 	
+IS1006c.C.dialog-act.vkaraisk.86	You have any further questions 	
+IS1006c.C.dialog-act.vkaraisk.87	or ? 	
+IS1006c.D.dialog-act.vkaraisk.26	I guess no 	
+IS1006c.D.dialog-act.vkaraisk.27	um . So 	
+IS1006c.D.dialog-act.vkaraisk.28	the batteries uh are going to be very light . 	
+IS1006c.C.dialog-act.vkaraisk.88	Yeah . 	
+IS1006c.C.dialog-act.vkaraisk.89	Yeah , 	
+IS1006c.C.dialog-act.vkaraisk.90	we're to go for li 	
+IS1006c.C.dialog-act.vkaraisk.91	and now I think we have many options in the market 	
+IS1006c.C.dialog-act.vkaraisk.92	so we can go for small nickel or alkaline batteries 	
+IS1006c.D.dialog-act.vkaraisk.29	Okay . 	
+IS1006c.B.dialog-act.vkaraisk.26	Mm-hmm . Mm-hmm . 	
+IS1006c.C.dialog-act.vkaraisk.93	for really light batteries and with uh good price . 	
+IS1006c.D.dialog-act.vkaraisk.30	So 	
+IS1006c.D.dialog-act.vkaraisk.31	this device on n that can be used for speech recognition could also be used for just uh the finding it basically , 	
+IS1006c.D.dialog-act.vkaraisk.32	instead of clapping why not just be ask . 	
+IS1006c.C.dialog-act.vkaraisk.94	Yeah , 	
+IS1006c.C.dialog-act.vkaraisk.95	that's 	
+IS1006c.C.dialog-act.vkaraisk.96	then the the one thing we want to know is like 	
+IS1006c.C.dialog-act.vkaraisk.97	because remote control is used for like in the household 	
+IS1006c.C.dialog-act.vkaraisk.98	so it it it will be it m maybe at least five , six people want to use it 	
+IS1006c.C.dialog-act.vkaraisk.99	so so how to uh uh how to define our re speech recognition 	
+IS1006c.D.dialog-act.vkaraisk.33	Mm-hmm . 	
+IS1006c.C.dialog-act.vkaraisk.100	whether we want to do s speaker independent or speaker dependent . 	
+IS1006c.C.dialog-act.vkaraisk.101	If we're going for more speaker independent then it would be like again cumbersome 	
+IS1006c.C.dialog-act.vkaraisk.102	and we need really m more technology 	
+IS1006c.C.dialog-act.vkaraisk.103	and so 	
+IS1006c.A.dialog-act.vkaraisk.41	Okay , 	
+IS1006c.A.dialog-act.vkaraisk.42	for the location . 	
+IS1006c.C.dialog-act.vkaraisk.104	Yeah , 	
+IS1006c.C.dialog-act.vkaraisk.105	if if everybody in the house n to locate then we're to go for some speaker independent technology or something . 	
+IS1006c.A.dialog-act.vkaraisk.43	Hmm . 	
+IS1006c.D.dialog-act.vkaraisk.34	Okay . 	
+IS1006c.A.dialog-act.vkaraisk.44	Okay . So 	
+IS1006c.A.dialog-act.vkaraisk.45	let's now go to the 	
+IS1006c.C.dialog-act.vkaraisk.106		
+IS1006c.A.dialog-act.vkaraisk.46	you don't have more question ? 	
+IS1006c.D.dialog-act.vkaraisk.35	No , it's okay . 	
+IS1006c.B.dialog-act.vkaraisk.27	No more questions . 	
+IS1006c.A.dialog-act.vkaraisk.47	Um mm thank you mm . 	
+IS1006c.C.dialog-act.vkaraisk.107	Yep . 	
+IS1006c.C.dialog-act.vkaraisk.108	Thank you . 	
+IS1006c.D.dialog-act.vkaraisk.36	Puts less of constraint on what we can do 	
+IS1006c.D.dialog-act.vkaraisk.37	but 	
+IS1006c.B.dialog-act.vkaraisk.28	Mm yeah , yeah . 	
+IS1006c.A.dialog-act.vkaraisk.48	Yeah . 	
+IS1006c.C.dialog-act.vkaraisk.109	Yeah . 	
+IS1006c.D.dialog-act.vkaraisk.38	it's always like that . 	
+IS1006c.D.dialog-act.vkaraisk.39	We have dreams 	
+IS1006c.D.dialog-act.vkaraisk.40	and the in the end we find out that it's not feasible . 	
+IS1006c.A.dialog-act.vkaraisk.49	Yeah , but mm . 	
+IS1006c.C.dialog-act.vkaraisk.110	Oh . We have uh some limitations . 	
+IS1006c.D.dialog-act.vkaraisk.41	Anyway . 	
+IS1006c.D.dialog-act.vkaraisk.42	Yeah . 	
+IS1006c.B.dialog-act.vkaraisk.29	But still uh L_S_D_'s already quite nice , 	
+IS1006c.D.dialog-act.vkaraisk.43	L_C_D_ . 	
+IS1006c.D.dialog-act.vkaraisk.44	L_S_D_ is something else , 	
+IS1006c.A.dialog-act.vkaraisk.50	Okay . 	
+IS1006c.B.dialog-act.vkaraisk.30	L_C_ 	
+IS1006c.C.dialog-act.vkaraisk.111		
+IS1006c.D.dialog-act.vkaraisk.45	and it's quite nice as well . 	
+IS1006c.B.dialog-act.vkaraisk.31	I'm an artist , 	
+IS1006c.B.dialog-act.vkaraisk.32	sorry . 	
+IS1006c.D.dialog-act.vkaraisk.46	So , 	
+IS1006c.B.dialog-act.vkaraisk.33	So uh , 	
+IS1006c.B.dialog-act.vkaraisk.34	that's not 	
+IS1006c.A.dialog-act.vkaraisk.51	Um yeah . 	
+IS1006c.D.dialog-act.vkaraisk.47	go on uh artist . 	
+IS1006c.B.dialog-act.vkaraisk.35	I hope that's not too much . 	
+IS1006c.A.dialog-act.vkaraisk.52	Now let's talk about uh interface . 	
+IS1006c.B.dialog-act.vkaraisk.36	Okay . Uh 	
+IS1006c.B.dialog-act.vkaraisk.37	participant number three . 	
+IS1006c.A.dialog-act.vkaraisk.53	Three . 	
+IS1006c.C.dialog-act.vkaraisk.112	Three . 	
+IS1006c.B.dialog-act.vkaraisk.38	Uh 	
+IS1006c.A.dialog-act.vkaraisk.54	Which one ? 	
+IS1006c.C.dialog-act.vkaraisk.113		
+IS1006c.D.dialog-act.vkaraisk.48	Hmm . 	
+IS1006c.B.dialog-act.vkaraisk.39	mm mm uh have a look at this 	
+IS1006c.C.dialog-act.vkaraisk.114		
+IS1006c.A.dialog-act.vkaraisk.55		
+IS1006c.B.dialog-act.vkaraisk.40	no it's 	
+IS1006c.B.dialog-act.vkaraisk.41	yeah . 	
+IS1006c.A.dialog-act.vkaraisk.56	Okay . 	
+IS1006c.B.dialog-act.vkaraisk.42	Uh so 	
+IS1006c.B.dialog-act.vkaraisk.43	the concept of the interface . 	
+IS1006c.B.dialog-act.vkaraisk.44	Generally I developed quite a broad concept not only for the interface , but for possible instruction or user's manual and uh all the complex things that come together with your T_V_ and remote controls . 	
+IS1006c.B.dialog-act.vkaraisk.45	So let's start with this . 	
+IS1006c.B.dialog-act.vkaraisk.46	We got our perfect remote control with a lot of buttons 	
+IS1006c.D.dialog-act.vkaraisk.49		
+IS1006c.C.dialog-act.vkaraisk.115		
+IS1006c.B.dialog-act.vkaraisk.47	and uh we got explanation for every button 	
+IS1006c.B.dialog-act.vkaraisk.48	and you can use your time and uh it will take i some days to learn all this buttons 	
+IS1006c.B.dialog-act.vkaraisk.49	and um the L_C_D_ is going to be somewhere here 	
+IS1006c.B.dialog-act.vkaraisk.50	and uh go back button , I don't know really where it is , maybe one of this buttons , 	
+IS1006c.B.dialog-act.vkaraisk.51	and um power on and off mm I I don't remember 	
+IS1006c.D.dialog-act.vkaraisk.50		
+IS1006c.A.dialog-act.vkaraisk.57	Mm . 	
+IS1006c.C.dialog-act.vkaraisk.116		
+IS1006c.B.dialog-act.vkaraisk.52	so uh 	
+IS1006c.B.dialog-act.vkaraisk.53	it it it should be 	
+IS1006c.B.dialog-act.vkaraisk.54	maybe this button is power on and off ? 	
+IS1006c.B.dialog-act.vkaraisk.55	Or no ? 	
+IS1006c.B.dialog-act.vkaraisk.56	I can see nothing . 	
+IS1006c.B.dialog-act.vkaraisk.57	So 	
+IS1006c.B.dialog-act.vkaraisk.58	that's our concept . 	
+IS1006c.B.dialog-act.vkaraisk.59	It's called the millennium remote control . 	
+IS1006c.A.dialog-act.vkaraisk.58		
+IS1006c.D.dialog-act.vkaraisk.51	Let's change millenniums . 	
+IS1006c.C.dialog-act.vkaraisk.117	So 	
+IS1006c.B.dialog-act.vkaraisk.60	Yeah . 	
+IS1006c.C.dialog-act.vkaraisk.118	maybe you can use in the end and 	
+IS1006c.D.dialog-act.vkaraisk.52	doesn't make sense . 	
+IS1006c.D.dialog-act.vkaraisk.53	This is very ugly . 	
+IS1006c.B.dialog-act.vkaraisk.61	Really ? 	
+IS1006c.A.dialog-act.vkaraisk.59		
+IS1006c.B.dialog-act.vkaraisk.62	I thought you like it . 	
+IS1006c.D.dialog-act.vkaraisk.54	Oh no , 	
+IS1006c.B.dialog-act.vkaraisk.63	Ah okay 	
+IS1006c.B.dialog-act.vkaraisk.64	just press the button , please uh . 	
+IS1006c.D.dialog-act.vkaraisk.55	too much concept . 	
+IS1006c.D.dialog-act.vkaraisk.56	Ah . 	
+IS1006c.A.dialog-act.vkaraisk.60	No . 	
+IS1006c.D.dialog-act.vkaraisk.57		
+IS1006c.C.dialog-act.vkaraisk.119	Uh 	
+IS1006c.B.dialog-act.vkaraisk.65	Yeah , 	
+IS1006c.B.dialog-act.vkaraisk.66	we will not use this . We will not use this . 	
+IS1006c.A.dialog-act.vkaraisk.61		
+IS1006c.C.dialog-act.vkaraisk.120		
+IS1006c.B.dialog-act.vkaraisk.67	But instead of this I will devise That's our concept . 	
+IS1006c.D.dialog-act.vkaraisk.58	Ah , 	
+IS1006c.D.dialog-act.vkaraisk.59	back today . 	
+IS1006c.C.dialog-act.vkaraisk.121		
+IS1006c.B.dialog-act.vkaraisk.68	And it's got just few buttons , quite low looking , and all this stuff we already we already discussed . 	
+IS1006c.A.dialog-act.vkaraisk.62	Mm-hmm . 'Kay . 	
+IS1006c.B.dialog-act.vkaraisk.69	And uh what will people say ? 	
+IS1006c.B.dialog-act.vkaraisk.70	They'll say it's perfect . 	
+IS1006c.B.dialog-act.vkaraisk.71	Or what will say ? 	
+IS1006c.B.dialog-act.vkaraisk.72	Uh they will say it's splendid . 	
+IS1006c.D.dialog-act.vkaraisk.60		
+IS1006c.C.dialog-act.vkaraisk.122		
+IS1006c.B.dialog-act.vkaraisk.73	And uh e everyone will say I'll buy it . 	
+IS1006c.A.dialog-act.vkaraisk.63	Mm-hmm . 	
+IS1006c.D.dialog-act.vkaraisk.61	Do you think it can come in several colours ? 	
+IS1006c.B.dialog-act.vkaraisk.74	And everyone's gonna be satisfied . 	
+IS1006c.D.dialog-act.vkaraisk.62	Or did the 	
+IS1006c.B.dialog-act.vkaraisk.75	I would make a backlight of the L_C_D_ screen with different colours . 	
+IS1006c.D.dialog-act.vkaraisk.63	Um but not the case . 	
+IS1006c.B.dialog-act.vkaraisk.76	Not the case . 	
+IS1006c.D.dialog-act.vkaraisk.64	Uh the case would only be in that uh aluminium uh titanium stuff , 	
+IS1006c.D.dialog-act.vkaraisk.65	like 	
+IS1006c.B.dialog-act.vkaraisk.77	Yeah . 	
+IS1006c.C.dialog-act.vkaraisk.123	Mm . 	
+IS1006c.A.dialog-act.vkaraisk.64	Because apparently from your survey people like colours , 	
+IS1006c.A.dialog-act.vkaraisk.65	no ? 	
+IS1006c.D.dialog-act.vkaraisk.66	Yeah , 	
+IS1006c.C.dialog-act.vkaraisk.124	Yeah . 	
+IS1006c.D.dialog-act.vkaraisk.67	well 	
+IS1006c.D.dialog-act.vkaraisk.68	they like uh something which is uh 	
+IS1006c.B.dialog-act.vkaraisk.78	Okay , so 	
+IS1006c.B.dialog-act.vkaraisk.79	let's remember there's a Nokia phone which changeable panels . 	
+IS1006c.D.dialog-act.vkaraisk.72	Mm yeah , okay , 	
+IS1006c.D.dialog-act.vkaraisk.73	so that would be the option 	
+IS1006c.B.dialog-act.vkaraisk.80	Do you like it ? 	
+IS1006c.D.dialog-act.vkaraisk.69	. I don't know 	
+IS1006c.D.dialog-act.vkaraisk.70	I don't have a Nokia phone , 	
+IS1006c.A.dialog-act.vkaraisk.66		
+IS1006c.C.dialog-act.vkaraisk.125	But it's uh 	
+IS1006c.D.dialog-act.vkaraisk.71	but 	
+IS1006c.D.dialog-act.vkaraisk.74	I don't use that 	
+IS1006c.D.dialog-act.vkaraisk.75	but again , uh I might 	
+IS1006c.B.dialog-act.vkaraisk.81	That's why you don't have it . That's why , 	
+IS1006c.D.dialog-act.vkaraisk.76	Yeah , 	
+IS1006c.D.dialog-act.vkaraisk.77	bu but 	
+IS1006c.B.dialog-act.vkaraisk.82	'cause it's nasty . 	
+IS1006c.A.dialog-act.vkaraisk.67		
+IS1006c.C.dialog-act.vkaraisk.126	But it would be expensive , no ? If you use colour L_C_D_ . 	
+IS1006c.B.dialog-act.vkaraisk.83	No . 	
+IS1006c.C.dialog-act.vkaraisk.127	Uh instead of that maybe we can change the colour of the assembler . 	
+IS1006c.D.dialog-act.vkaraisk.78	Mm-hmm . 	
+IS1006c.C.dialog-act.vkaraisk.128	Maybe we can just 	
+IS1006c.C.dialog-act.vkaraisk.129	if users want more colours they can pay more money to get this uh the shapes and they can have different assembly . 	
+IS1006c.B.dialog-act.vkaraisk.84	Um , I am here . 	
+IS1006c.C.dialog-act.vkaraisk.130	So users have different I mean they have their own interests , colour interests and so 	
+IS1006c.A.dialog-act.vkaraisk.68	Okay . 	
+IS1006c.A.dialog-act.vkaraisk.69	So ? 	
+IS1006c.B.dialog-act.vkaraisk.85	Mm-hmm . 	
+IS1006c.C.dialog-act.vkaraisk.131	So we can just 	
+IS1006c.C.dialog-act.vkaraisk.132	if they want they can just pay another two Euro . 	
+IS1006c.A.dialog-act.vkaraisk.70	Uh-huh , okay , 	
+IS1006c.B.dialog-act.vkaraisk.86	'Kay . 	
+IS1006c.A.dialog-act.vkaraisk.71	so 	
+IS1006c.A.dialog-act.vkaraisk.72	you you propose something with option i that increase the price if we if you want o more colours on L_C_D_ , 	
+IS1006c.C.dialog-act.vkaraisk.133	Yeah . 	
+IS1006c.C.dialog-act.vkaraisk.134	Yeah yeah yes . 	
+IS1006c.C.dialog-act.vkaraisk.135	If they want like uh so that we can 	
+IS1006c.D.dialog-act.vkaraisk.79	Kind of upgradable uh remote control . 	
+IS1006c.C.dialog-act.vkaraisk.136	yeah . 	
+IS1006c.A.dialog-act.vkaraisk.73	yeah . 	
+IS1006c.C.dialog-act.vkaraisk.137	Yeah . 	
+IS1006c.D.dialog-act.vkaraisk.80	Wow , wow . 	
+IS1006c.A.dialog-act.vkaraisk.74	Okay . 	
+IS1006c.C.dialog-act.vkaraisk.138	Just they'll get few more things and few more colours . 	
+IS1006c.B.dialog-act.vkaraisk.87	Okay , 	
+IS1006c.B.dialog-act.vkaraisk.88	what uh 	
+IS1006c.B.dialog-act.vkaraisk.89	there's one more decisi uh one more solution in fact , um 	
+IS1006c.B.dialog-act.vkaraisk.90	'cause there are some some paints that can change colour according to where they are , 	
+IS1006c.B.dialog-act.vkaraisk.91	like they can reflect different colours depending on what is around , like what colour is around , and depending on the temperature , 	
+IS1006c.C.dialog-act.vkaraisk.139	Lights , yeah . 	
+IS1006c.D.dialog-act.vkaraisk.81	Mm . 	
+IS1006c.A.dialog-act.vkaraisk.75	And thermodynamic also . 	
+IS1006c.C.dialog-act.vkaraisk.140	Yeah . 	
+IS1006c.A.dialog-act.vkaraisk.76	Mm-hmm . 	
+IS1006c.D.dialog-act.vkaraisk.82	Like a chameleon . 	
+IS1006c.B.dialog-act.vkaraisk.92	yeah . 	
+IS1006c.A.dialog-act.vkaraisk.77	Mm-hmm . 	
+IS1006c.C.dialog-act.vkaraisk.141	Yeah yeah . 	
+IS1006c.B.dialog-act.vkaraisk.93	We can make it in fact . 	
+IS1006c.A.dialog-act.vkaraisk.78	Yeah 	
+IS1006c.C.dialog-act.vkaraisk.142	Mm . 	
+IS1006c.A.dialog-act.vkaraisk.79	but that's maybe mo too much expensive , yeah . 	
+IS1006c.B.dialog-act.vkaraisk.94	If if if the 	
+IS1006c.B.dialog-act.vkaraisk.95	okay . 	
+IS1006c.D.dialog-act.vkaraisk.83	Mm-hmm . 	
+IS1006c.A.dialog-act.vkaraisk.80	But uh it can be in uh maybe in an a gradable version , 	
+IS1006c.B.dialog-act.vkaraisk.96	Mm-hmm , mm-hmm , 	
+IS1006c.C.dialog-act.vkaraisk.143	Yeah . 	
+IS1006c.A.dialog-act.vkaraisk.81	but 	
+IS1006c.D.dialog-act.vkaraisk.84	Because uh I think there are two kinds of people . 	
+IS1006c.B.dialog-act.vkaraisk.97	so 	
+IS1006c.D.dialog-act.vkaraisk.85	Those for which the remote control is uh is to be uh something useful 	
+IS1006c.D.dialog-act.vkaraisk.86	uh I'm going to talk about this later 	
+IS1006c.D.dialog-act.vkaraisk.87	but 	
+IS1006c.D.dialog-act.vkaraisk.88	and those for which is something that that that uh is uh specific to them 	
+IS1006c.D.dialog-act.vkaraisk.89	so it it's like a signature . 	
+IS1006c.D.dialog-act.vkaraisk.90	My remote control is pink . 	
+IS1006c.D.dialog-act.vkaraisk.91	Nobody else than me has a pink remote control . 	
+IS1006c.A.dialog-act.vkaraisk.82	Mm-hmm . 	
+IS1006c.B.dialog-act.vkaraisk.98	Uh-huh . 	
+IS1006c.C.dialog-act.vkaraisk.144		
+IS1006c.D.dialog-act.vkaraisk.92	And that makes me special . 	
+IS1006c.D.dialog-act.vkaraisk.93		
+IS1006c.A.dialog-act.vkaraisk.83	Okay 	
+IS1006c.A.dialog-act.vkaraisk.84	and you think that we don't have to make to make them pay more 	
+IS1006c.A.dialog-act.vkaraisk.85	because of uh o or this is 	
+IS1006c.D.dialog-act.vkaraisk.94	I think I think they would be ready p ready to pay more for that . 	
+IS1006c.C.dialog-act.vkaraisk.145		
+IS1006c.A.dialog-act.vkaraisk.87	Okay , 	
+IS1006c.A.dialog-act.vkaraisk.86	so 	
+IS1006c.D.dialog-act.vkaraisk.95	Those who wanted to have it pink . 	
+IS1006c.A.dialog-act.vkaraisk.88	so 	
+IS1006c.A.dialog-act.vkaraisk.89	i 	
+IS1006c.C.dialog-act.vkaraisk.146	Uh 	
+IS1006c.A.dialog-act.vkaraisk.90	it's not uh a s base service 	
+IS1006c.D.dialog-act.vkaraisk.96	No mm no . 	
+IS1006c.C.dialog-act.vkaraisk.147	Mm . 	
+IS1006c.A.dialog-act.vkaraisk.91	it's a 	
+IS1006c.B.dialog-act.vkaraisk.99	So , 	
+IS1006c.B.dialog-act.vkaraisk.100	be an option , 	
+IS1006c.B.dialog-act.vkaraisk.101	yeah . 	
+IS1006c.A.dialog-act.vkaraisk.92	Mm . 	
+IS1006c.D.dialog-act.vkaraisk.97	It might be optional , yeah . 	
+IS1006c.A.dialog-act.vkaraisk.93	Okay . 	
+IS1006c.C.dialog-act.vkaraisk.148	But those people will be really few , 	
+IS1006c.C.dialog-act.vkaraisk.149	no ? 	
+IS1006c.C.dialog-act.vkaraisk.150	So like 	
+IS1006c.C.dialog-act.vkaraisk.151	we can those 	
+IS1006c.D.dialog-act.vkaraisk.98	The the young people the young people want to be different from their friends . 	
+IS1006c.C.dialog-act.vkaraisk.152	Ah . 	
+IS1006c.D.dialog-act.vkaraisk.99	Although similar but have something just slightly better . Pink 	
+IS1006c.A.dialog-act.vkaraisk.94	Mm-hmm . 	
+IS1006c.C.dialog-act.vkaraisk.153	Yeah . 	
+IS1006c.A.dialog-act.vkaraisk.95	So m so 	
+IS1006c.C.dialog-act.vkaraisk.154	Mm . 	
+IS1006c.A.dialog-act.vkaraisk.96	maybe that's if that it's a selling point maybe it has to be the base . 	
+IS1006c.B.dialog-act.vkaraisk.102	Yeah , yeah , 	
+IS1006c.D.dialog-act.vkaraisk.100	Mm . Yeah . 	
+IS1006c.B.dialog-act.vkaraisk.103	yeah . 	
+IS1006c.B.dialog-act.vkaraisk.104	But you know if you want to be different you just take your remote control with you all the time . 	
+IS1006c.A.dialog-act.vkaraisk.97	And you'll be different . 	
+IS1006c.C.dialog-act.vkaraisk.155		
+IS1006c.B.dialog-act.vkaraisk.105	And it makes you different , 	
+IS1006c.D.dialog-act.vkaraisk.101	Yeah , yeah . 	
+IS1006c.B.dialog-act.vkaraisk.106	you know ? 	
+IS1006c.D.dialog-act.vkaraisk.102	You always have your remote . 	
+IS1006c.A.dialog-act.vkaraisk.98	Uh in the train uh , hello uh no . Want to change my neighbour . 	
+IS1006c.D.dialog-act.vkaraisk.103	Oh , you don't ? Yeah . You don't have your remo 	
+IS1006c.B.dialog-act.vkaraisk.107	Anyone has their remote controls here ? 	
+IS1006c.B.dialog-act.vkaraisk.108	No ? 	
+IS1006c.C.dialog-act.vkaraisk.156		
+IS1006c.D.dialog-act.vkaraisk.104	Wh 	
+IS1006c.D.dialog-act.vkaraisk.105	you you know like 	
+IS1006c.D.dialog-act.vkaraisk.106	for instance take the iPod . It's a kind of remote control . 	
+IS1006c.D.dialog-act.vkaraisk.107	Uh it's white 	
+IS1006c.B.dialog-act.vkaraisk.109	Mm-hmm . 	
+IS1006c.D.dialog-act.vkaraisk.108	and it's so white that you see it from any anywhere . 	
+IS1006c.D.dialog-act.vkaraisk.109	It has this distinctive look and feel and look 	
+IS1006c.A.dialog-act.vkaraisk.99	Mm . 	
+IS1006c.D.dialog-act.vkaraisk.110	which people seems to like 	
+IS1006c.B.dialog-act.vkaraisk.110	Okay . 	
+IS1006c.D.dialog-act.vkaraisk.111	just because it's a colour that we don't usually see in a remote control . White . 	
+IS1006c.B.dialog-act.vkaraisk.111	Uh-huh , uh-huh . 	
+IS1006c.A.dialog-act.vkaraisk.100	Mm-hmm . 	
+IS1006c.B.dialog-act.vkaraisk.112	Could we integrate something into our remote control , something like light ? 	
+IS1006c.D.dialog-act.vkaraisk.112	Seems important . 	
+IS1006c.C.dialog-act.vkaraisk.157	Hmm . 	
+IS1006c.B.dialog-act.vkaraisk.113	That they can use it in darkness , like . Hand light , 	
+IS1006c.D.dialog-act.vkaraisk.113	Mm glow in the dark , 	
+IS1006c.C.dialog-act.vkaraisk.158		
+IS1006c.B.dialog-act.vkaraisk.114	yeah . 	
+IS1006c.D.dialog-act.vkaraisk.114	so 	
+IS1006c.A.dialog-act.vkaraisk.101		
+IS1006c.C.dialog-act.vkaraisk.159	Yeah 	
+IS1006c.C.dialog-act.vkaraisk.160	maybe like the infrared like we can put some radium chips or something 	
+IS1006c.D.dialog-act.vkaraisk.115		
+IS1006c.B.dialog-act.vkaraisk.115	Mm-hmm . 	
+IS1006c.C.dialog-act.vkaraisk.161	so that like at least um 	
+IS1006c.C.dialog-act.vkaraisk.162	yeah . 	
+IS1006c.A.dialog-act.vkaraisk.102	Iradium ? 	
+IS1006c.B.dialog-act.vkaraisk.116	Okay . Okay . 	
+IS1006c.C.dialog-act.vkaraisk.163	Yeah , 	
+IS1006c.D.dialog-act.vkaraisk.116		
+IS1006c.A.dialog-act.vkaraisk.103	Ah sorry . Mm . 	
+IS1006c.C.dialog-act.vkaraisk.164	that 	
+IS1006c.A.dialog-act.vkaraisk.104	Okay . So mm 	
+IS1006c.D.dialog-act.vkaraisk.117	Okay . 	
+IS1006c.B.dialog-act.vkaraisk.117	Okay . S well , 	
+IS1006c.B.dialog-act.vkaraisk.118	let's go on maybe with the presentation . 	
+IS1006c.D.dialog-act.vkaraisk.118	Yeah . Uh-huh , yeah sure . 	
+IS1006c.A.dialog-act.vkaraisk.105	Mm-hmm . 	
+IS1006c.B.dialog-act.vkaraisk.119	And um the remote control's going to be smart 	
+IS1006c.C.dialog-act.vkaraisk.165	Oh . 	
+IS1006c.B.dialog-act.vkaraisk.120	but how smart should it be to not to complicate things too much ? 	
+IS1006c.A.dialog-act.vkaraisk.106		
+IS1006c.B.dialog-act.vkaraisk.121	And uh 	
+IS1006c.C.dialog-act.vkaraisk.166		
+IS1006c.D.dialog-act.vkaraisk.119		
+IS1006c.B.dialog-act.vkaraisk.122	I dunno 	
+IS1006c.B.dialog-act.vkaraisk.123	that's a question to you 	
+IS1006c.B.dialog-act.vkaraisk.124	and to mm to 	
+IS1006c.D.dialog-act.vkaraisk.120	Well so 	
+IS1006c.D.dialog-act.vkaraisk.121	I heard that uh it seems that speech recognition is something that can be done 	
+IS1006c.D.dialog-act.vkaraisk.122	uh so that's the smartness of the thing . 	
+IS1006c.D.dialog-act.vkaraisk.123	Currently we don't have guns with speech recognition or uh beer cans with speech recognition 	
+IS1006c.B.dialog-act.vkaraisk.125	Mm-hmm . 	
+IS1006c.C.dialog-act.vkaraisk.167		
+IS1006c.D.dialog-act.vkaraisk.124	but we may have remote controls with speech recognition . 	
+IS1006c.B.dialog-act.vkaraisk.126	Okay , okay . 	
+IS1006c.C.dialog-act.vkaraisk.168		
+IS1006c.D.dialog-act.vkaraisk.125	I dunno . 	
+IS1006c.A.dialog-act.vkaraisk.107	Mm , that's a nice world . 	
+IS1006c.B.dialog-act.vkaraisk.127	So just just just just think about it um . 	
+IS1006c.D.dialog-act.vkaraisk.126		
+IS1006c.B.dialog-act.vkaraisk.128	Thank you . 	
+IS1006c.D.dialog-act.vkaraisk.127	Don't touch the remote . 	
+IS1006c.A.dialog-act.vkaraisk.108	Okay . 	
+IS1006c.D.dialog-act.vkaraisk.128	But yeah . 	
+IS1006c.D.dialog-act.vkaraisk.129	Are are you saying here that uh the remote controls should be aware of who is using it ? 	
+IS1006c.D.dialog-act.vkaraisk.130	So 	
+IS1006c.D.dialog-act.vkaraisk.131	for instance the young guy would not be able to use it 	
+IS1006c.D.dialog-act.vkaraisk.132	because his father doesn't want . 	
+IS1006c.B.dialog-act.vkaraisk.129	Uh yeah 	
+IS1006c.D.dialog-act.vkaraisk.133	Like with some 	
+IS1006c.B.dialog-act.vkaraisk.130	I just want to say it should be real smart . 	
+IS1006c.D.dialog-act.vkaraisk.134	Maybe fingerprint recognition or 	
+IS1006c.B.dialog-act.vkaraisk.131	Voice recognition is quite tough . 	
+IS1006c.B.dialog-act.vkaraisk.132	I say don't use it , and the control just looks . 	
+IS1006c.D.dialog-act.vkaraisk.135	Mm . 	
+IS1006c.C.dialog-act.vkaraisk.169	Yeah . 	
+IS1006c.B.dialog-act.vkaraisk.133	'Cause I ordered jus To l to l lock it . 	
+IS1006c.D.dialog-act.vkaraisk.137	Um 	
+IS1006c.D.dialog-act.vkaraisk.136	Mm . 	
+IS1006c.C.dialog-act.vkaraisk.170	Uh that mm that could be feasible I guess , 	
+IS1006c.C.dialog-act.vkaraisk.171	like 	
+IS1006c.D.dialog-act.vkaraisk.138	Okay . 	
+IS1006c.C.dialog-act.vkaraisk.172	So 	
+IS1006c.C.dialog-act.vkaraisk.173	since we have we want to do some speaker dependent speech recognition uh so we can use 	
+IS1006c.D.dialog-act.vkaraisk.139	So it could be smart in that way . 	
+IS1006c.C.dialog-act.vkaraisk.174	yeah . Yeah , yeah . 	
+IS1006c.A.dialog-act.vkaraisk.109	Mm . 	
+IS1006c.A.dialog-act.vkaraisk.110	Okay . 	
+IS1006c.D.dialog-act.vkaraisk.140	But for instance th I I'm thinking about the other uh uh particularity that the the remote control could have . 	
+IS1006c.D.dialog-act.vkaraisk.141	S since it it knows who is using it , 	
+IS1006c.D.dialog-act.vkaraisk.142	it might also record the kind of uh channels you are u more often using and uh levels of volumes that you're more often uh things like that 	
+IS1006c.C.dialog-act.vkaraisk.175	Yeah . 	
+IS1006c.B.dialog-act.vkaraisk.135	Yeah , sure . 	
+IS1006c.A.dialog-act.vkaraisk.111	Mm . 	
+IS1006c.C.dialog-act.vkaraisk.176	Yeah . 	
+IS1006c.D.dialog-act.vkaraisk.143	and provide you ways of using them , I dunno , somehow , 	
+IS1006c.D.dialog-act.vkaraisk.144	I dunno , 	
+IS1006c.C.dialog-act.vkaraisk.177	Yeah . 	
+IS1006c.D.dialog-act.vkaraisk.145	that might be expensive 	
+IS1006c.D.dialog-act.vkaraisk.146	but 	
+IS1006c.A.dialog-act.vkaraisk.112	Mm-hmm . 	
+IS1006c.C.dialog-act.vkaraisk.178	Uh it's 	
+IS1006c.D.dialog-act.vkaraisk.147	that might also be a good sales pitch again . 	
+IS1006c.A.dialog-act.vkaraisk.113		
+IS1006c.C.dialog-act.vkaraisk.179	Hmm . 	
+IS1006c.D.dialog-act.vkaraisk.148	The remote that knows you . 	
+IS1006c.A.dialog-act.vkaraisk.114		
+IS1006c.B.dialog-act.vkaraisk.136	Mm-hmm . 	
+IS1006c.C.dialog-act.vkaraisk.180		
+IS1006c.A.dialog-act.vkaraisk.115	Okay . 	
+IS1006c.B.dialog-act.vkaraisk.137	Okay , 	
+IS1006c.B.dialog-act.vkaraisk.138	thanks . 	
+IS1006c.A.dialog-act.vkaraisk.116	So 	
+IS1006c.D.dialog-act.vkaraisk.149	My turn ? 	
+IS1006c.A.dialog-act.vkaraisk.117	it's 	
+IS1006c.A.dialog-act.vkaraisk.118	yeah , Marketing Expert . 	
+IS1006c.D.dialog-act.vkaraisk.150		
+IS1006c.D.dialog-act.vkaraisk.151	Okay , 	
+IS1006c.D.dialog-act.vkaraisk.152	it's alright . 	
+IS1006c.A.dialog-act.vkaraisk.119	Participant two ? 	
+IS1006c.C.dialog-act.vkaraisk.181	Four . 	
+IS1006c.A.dialog-act.vkaraisk.120	Four , 	
+IS1006c.D.dialog-act.vkaraisk.153	Four , I think . 	
+IS1006c.A.dialog-act.vkaraisk.121	sorry . 	
+IS1006c.D.dialog-act.vkaraisk.154	Trend , 	
+IS1006c.D.dialog-act.vkaraisk.155	yeah . 	
+IS1006c.D.dialog-act.vkaraisk.156	No uh 	
+IS1006c.D.dialog-act.vkaraisk.157	yes . 	
+IS1006c.D.dialog-act.vkaraisk.158	Okay , so 	
+IS1006c.D.dialog-act.vkaraisk.159	I'm going to talk about trends 	
+IS1006c.D.dialog-act.vkaraisk.160	and um I hope this can help us to to understand l how we should design our remote control . 	
+IS1006c.D.dialog-act.vkaraisk.161	So , 	
+IS1006c.D.dialog-act.vkaraisk.162	next slide please . 	
+IS1006c.D.dialog-act.vkaraisk.163	So 	
+IS1006c.D.dialog-act.vkaraisk.164	first maybe just a small recap on how how do we watch trends 	
+IS1006c.D.dialog-act.vkaraisk.165	so 	
+IS1006c.D.dialog-act.vkaraisk.166	it's not so uh simple 	
+IS1006c.D.dialog-act.vkaraisk.167	you might think that it's easy 	
+IS1006c.D.dialog-act.vkaraisk.168	but uh it's not so simple . 	
+IS1006c.D.dialog-act.vkaraisk.169	Anyway these days uh the best uh source of information is the web as you know , 	
+IS1006c.D.dialog-act.vkaraisk.170	so have to to go often on the web and look at uh what the others are doing , 	
+IS1006c.D.dialog-act.vkaraisk.171	and ask real people who are using real remote controls every day uh or any other tool that is similar to a remote control 	
+IS1006c.D.dialog-act.vkaraisk.172	which basically is a small device that people have with them , always , like a phone . 	
+IS1006c.D.dialog-act.vkaraisk.173	We can we can use the phone as a as a good uh uh example of where to in be inspired . 	
+IS1006c.D.dialog-act.vkaraisk.174	Of course those tha d who are watching the trends are also have also to be inspired 	
+IS1006c.D.dialog-act.vkaraisk.175	because in fact they're not only watching the trends , 	
+IS1006c.D.dialog-act.vkaraisk.176	they're inventing it , they're creating the trend . 	
+IS1006c.D.dialog-act.vkaraisk.177	I hope I'm going to try to help you on that . 	
+IS1006c.D.dialog-act.vkaraisk.178	This is more risky 	
+IS1006c.D.dialog-act.vkaraisk.179	because you're not following the trend , 	
+IS1006c.A.dialog-act.vkaraisk.122		
+IS1006c.D.dialog-act.vkaraisk.180	you try to invent it , 	
+IS1006c.D.dialog-act.vkaraisk.181	which means either you succeed and you make a lot of money or you don't and you're out of business . 	
+IS1006c.C.dialog-act.vkaraisk.182		
+IS1006c.D.dialog-act.vkaraisk.182	So anyway uh 	
+IS1006c.D.dialog-act.vkaraisk.183	next slide please . 	
+IS1006c.D.dialog-act.vkaraisk.184	Uh to be to be quick 	
+IS1006c.D.dialog-act.vkaraisk.185	there's a lot of words here 	
+IS1006c.D.dialog-act.vkaraisk.186	but uh basically there are uh in in the market of of remote controls there are three aspects that we should very pay much attention to . 	
+IS1006c.D.dialog-act.vkaraisk.187	The first one , which seems to be the most important one , is that it has to be fancy , it has to have a fancy look and feel . 	
+IS1006c.D.dialog-act.vkaraisk.189	And uh interestingly this is the very most important thing . It has to be fancy . 	
+IS1006c.D.dialog-act.vkaraisk.190	Strangely enough it's more important to be fancy than to be wi and now that's the second thing it has to be , it has to be technologically i innovative , 	
+IS1006c.C.dialog-act.vkaraisk.183		
+IS1006c.D.dialog-act.vkaraisk.191	it has to be new with some of uh new uh technology inside 	
+IS1006c.D.dialog-act.vkaraisk.192	and uh and this is also uh more important than the last thing 	
+IS1006c.D.dialog-act.vkaraisk.193	which we w may think that would have been the most important , 	
+IS1006c.D.dialog-act.vkaraisk.194	which is that it should be easy to use and it should be easy to use as a remote control . 	
+IS1006c.D.dialog-act.vkaraisk.195	So as you see uh it first have to be very nice , 	
+IS1006c.D.dialog-act.vkaraisk.197	s something that people are proud of 	
+IS1006c.D.dialog-act.vkaraisk.198	uh uh that i uh they can be id identified with 	
+IS1006c.D.dialog-act.vkaraisk.196	uh and and then uh something that um contains very novel stuff 	
+IS1006c.D.dialog-act.vkaraisk.199	that they can talk about with their friends , huh , mine has this and not yours . 	
+IS1006c.D.dialog-act.vkaraisk.200	And finally of course it has to be useful as a remote control 	
+IS1006c.D.dialog-act.vkaraisk.201	but it seems that it's not so important that it's useful as a remote control . 	
+IS1006c.C.dialog-act.vkaraisk.184		
+IS1006c.A.dialog-act.vkaraisk.123		
+IS1006c.D.dialog-act.vkaraisk.202	Next slide please . 	
+IS1006c.A.dialog-act.vkaraisk.124	Mm . 	
+IS1006c.D.dialog-act.vkaraisk.203	Uh and now in a more uh general uh uh broad way of seeing th uh the thing . 	
+IS1006c.D.dialog-act.vkaraisk.204	If we look back and not uh look at only remote controls I think it's important to see that the trends are quite the same in many areas 	
+IS1006c.D.dialog-act.vkaraisk.205	so 	
+IS1006c.D.dialog-act.vkaraisk.206	currently the the trends that we see in l in l big cities like Paris and Milan , well , it seems that this year things should have uh a fruit and vegetable uh way of of look or feel 	
+IS1006c.A.dialog-act.vkaraisk.125		
+IS1006c.C.dialog-act.vkaraisk.185		
+IS1006c.A.dialog-act.vkaraisk.126		
+IS1006c.D.dialog-act.vkaraisk.207	or 	
+IS1006c.D.dialog-act.vkaraisk.208	so . 	
+IS1006c.C.dialog-act.vkaraisk.186		
+IS1006c.D.dialog-act.vkaraisk.209	And I think of course uh i it applies to everything . 	
+IS1006c.D.dialog-act.vkaraisk.210	That's the thing with trends . 	
+IS1006c.D.dialog-act.vkaraisk.211	It it can travel f from clothe to furniture same idea . 	
+IS1006c.A.dialog-act.vkaraisk.127		
+IS1006c.D.dialog-act.vkaraisk.212	Fruit and vegetable . Think fruit and vegetable . 	
+IS1006c.D.dialog-act.vkaraisk.213	And uh if we co we compare to last year , now it has to be spongy , 	
+IS1006c.C.dialog-act.vkaraisk.187	Mm . 	
+IS1006c.B.dialog-act.vkaraisk.139	What is spongy ? 	
+IS1006c.D.dialog-act.vkaraisk.214	yeah . 	
+IS1006c.D.dialog-act.vkaraisk.215	Well 	
+IS1006c.D.dialog-act.vkaraisk.216	this so so I think uh uh i 	
+IS1006c.C.dialog-act.vkaraisk.188	Yeah 	
+IS1006c.A.dialog-act.vkaraisk.128		
+IS1006c.C.dialog-act.vkaraisk.189	kind of um maybe 	
+IS1006c.C.dialog-act.vkaraisk.190		
+IS1006c.D.dialog-act.vkaraisk.217	When we were talking about rubber , 	
+IS1006c.D.dialog-act.vkaraisk.218	I think uh the rubber aspect might be important 	
+IS1006c.C.dialog-act.vkaraisk.191	Yeah 	
+IS1006c.C.dialog-act.vkaraisk.192	it 	
+IS1006c.D.dialog-act.vkaraisk.219	because it's what is probably more feasible in terms of sponginess . 	
+IS1006c.A.dialog-act.vkaraisk.129	Mm-hmm . 	
+IS1006c.C.dialog-act.vkaraisk.193	Yeah . 	
+IS1006c.A.dialog-act.vkaraisk.130	S 	
+IS1006c.C.dialog-act.vkaraisk.194	Yeah . 	
+IS1006c.A.dialog-act.vkaraisk.131	So maybe titanium it's not a good idea . 	
+IS1006c.D.dialog-act.vkaraisk.220	Seems not , seems not . 	
+IS1006c.C.dialog-act.vkaraisk.195	We need to think about mm mm . 	
+IS1006c.A.dialog-act.vkaraisk.132	Mm-hmm . 	
+IS1006c.D.dialog-act.vkaraisk.221	Yeah . 	
+IS1006c.A.dialog-act.vkaraisk.133		
+IS1006c.D.dialog-act.vkaraisk.222	So 	
+IS1006c.A.dialog-act.vkaraisk.134	Um sorry Mark . 	
+IS1006c.A.dialog-act.vkaraisk.135	It seems to be 	
+IS1006c.D.dialog-act.vkaraisk.223	Think more of uh something in the colours of uh like fruit and vegetables and spongy , 	
+IS1006c.C.dialog-act.vkaraisk.196	Fruit . 	
+IS1006c.C.dialog-act.vkaraisk.197	Even shape ? 	
+IS1006c.D.dialog-act.vkaraisk.224	as a 	
+IS1006c.D.dialog-act.vkaraisk.225	even in the shape it has to be more round and uh more uh uh look natural somehow . I mean 	
+IS1006c.C.dialog-act.vkaraisk.198	More 	
+IS1006c.A.dialog-act.vkaraisk.136	Mm-mm . 	
+IS1006c.C.dialog-act.vkaraisk.199	yeah . 	
+IS1006c.C.dialog-act.vkaraisk.200	Yeah . 	
+IS1006c.D.dialog-act.vkaraisk.228	And not those futuristic uh remote control with angles and uh and titanium like . 	
+IS1006c.A.dialog-act.vkaraisk.137	Mm-hmm . 	
+IS1006c.C.dialog-act.vkaraisk.201	Mm . 	
+IS1006c.D.dialog-act.vkaraisk.229	So 	
+IS1006c.D.dialog-act.vkaraisk.230	that's what people seem to 	
+IS1006c.A.dialog-act.vkaraisk.138	Hmm . You're old-fashioned . 	
+IS1006c.D.dialog-act.vkaraisk.231	yeah i I know it's quite far from what you thought 	
+IS1006c.A.dialog-act.vkaraisk.139	Sorry . 	
+IS1006c.D.dialog-act.vkaraisk.232	but that's that's fashion 	
+IS1006c.C.dialog-act.vkaraisk.202		
+IS1006c.D.dialog-act.vkaraisk.233	and 	
+IS1006c.A.dialog-act.vkaraisk.140		
+IS1006c.C.dialog-act.vkaraisk.203		
+IS1006c.B.dialog-act.vkaraisk.140	Okay . 	
+IS1006c.A.dialog-act.vkaraisk.141	Okay . 	
+IS1006c.D.dialog-act.vkaraisk.234	Okay 	
+IS1006c.D.dialog-act.vkaraisk.235	that's all I have to say . 	
+IS1006c.A.dialog-act.vkaraisk.142	Mm you have questions ? 	
+IS1006c.C.dialog-act.vkaraisk.204	So 	
+IS1006c.C.dialog-act.vkaraisk.205	these abilities are mainly ad addressed by young people ? 	
+IS1006c.C.dialog-act.vkaraisk.206	Or it's 	
+IS1006c.D.dialog-act.vkaraisk.236	These I'm sorry . 	
+IS1006c.C.dialog-act.vkaraisk.207	This you you so did you 	
+IS1006c.D.dialog-act.vkaraisk.237	Yeah , yeah 	
+IS1006c.D.dialog-act.vkaraisk.238	we have people uh uh listening to the trends everywhere in the world , of course , 	
+IS1006c.C.dialog-act.vkaraisk.208	Where ? 	
+IS1006c.C.dialog-act.vkaraisk.209	Oh . Oh , 	
+IS1006c.C.dialog-act.vkaraisk.210	okay , mm-hmm . 	
+IS1006c.D.dialog-act.vkaraisk.239	as you know our company is quite big 	
+IS1006c.D.dialog-act.vkaraisk.240	and uh so I'm just asking them what are the current trends according to them when they go in the stores and when they ask uh their uh friends 	
+IS1006c.C.dialog-act.vkaraisk.211	It's not from 	
+IS1006c.C.dialog-act.vkaraisk.212	mm . 	
+IS1006c.C.dialog-act.vkaraisk.213	Mm-hmm . 	
+IS1006c.C.dialog-act.vkaraisk.214	Yeah . 	
+IS1006c.D.dialog-act.vkaraisk.241	that are also 	
+IS1006c.C.dialog-act.vkaraisk.215	Yeah . 	
+IS1006c.C.dialog-act.vkaraisk.216	It's more general trend 	
+IS1006c.D.dialog-act.vkaraisk.242	well . 	
+IS1006c.C.dialog-act.vkaraisk.217	it's not particular to the remote control . 	
+IS1006c.D.dialog-act.vkaraisk.243	No , it's not it's not 	
+IS1006c.D.dialog-act.vkaraisk.244	this this is very general , yeah . 	
+IS1006c.D.dialog-act.vkaraisk.245	But it seems that trends travel across things . 	
+IS1006c.C.dialog-act.vkaraisk.218	Mm . 	
+IS1006c.C.dialog-act.vkaraisk.219	Yeah . 	
+IS1006c.D.dialog-act.vkaraisk.246	The what we 	
+IS1006c.C.dialog-act.vkaraisk.220	Yeah 	
+IS1006c.C.dialog-act.vkaraisk.221	but some materials n they're to be uh they're to be something like solid 	
+IS1006c.C.dialog-act.vkaraisk.222	like they can't be really spongy 	
+IS1006c.D.dialog-act.vkaraisk.247	Sure . 	
+IS1006c.C.dialog-act.vkaraisk.223	or 	
+IS1006c.D.dialog-act.vkaraisk.248	Yeah . 	
+IS1006c.D.dialog-act.vkaraisk.249	We have to I think we have to have the look of fruit and vegetables 	
+IS1006c.C.dialog-act.vkaraisk.224	yeah yeah . 	
+IS1006c.C.dialog-act.vkaraisk.225	yeah , yeah 	
+IS1006c.C.dialog-act.vkaraisk.226	sponge , 	
+IS1006c.C.dialog-act.vkaraisk.227	yeah yeah 	
+IS1006c.C.dialog-act.vkaraisk.228	at least that's 	
+IS1006c.D.dialog-act.vkaraisk.250	but we still have to put our chips inside , so of course . 	
+IS1006c.C.dialog-act.vkaraisk.229	Yeah yeah 	
+IS1006c.D.dialog-act.vkaraisk.251	This is your problem . 	
+IS1006c.A.dialog-act.vkaraisk.143		
+IS1006c.C.dialog-act.vkaraisk.230	that 	
+IS1006c.C.dialog-act.vkaraisk.232	yeah yeah . 	
+IS1006c.D.dialog-act.vkaraisk.252	This is not mine . 	
+IS1006c.C.dialog-act.vkaraisk.231	Yeah . 	
+IS1006c.C.dialog-act.vkaraisk.233	Yeah , 	
+IS1006c.C.dialog-act.vkaraisk.234	looking 	
+IS1006c.C.dialog-act.vkaraisk.235	yeah 	
+IS1006c.C.dialog-act.vkaraisk.236	fruit . These things can be easily incorporated . 	
+IS1006c.C.dialog-act.vkaraisk.237	We can have t colours or this shape 	
+IS1006c.D.dialog-act.vkaraisk.253	Yeah , 	
+IS1006c.D.dialog-act.vkaraisk.254	I think in the colours and in the uh the kind of material . 	
+IS1006c.C.dialog-act.vkaraisk.238	or at least 	
+IS1006c.D.dialog-act.vkaraisk.255	If if it's something like rubber made or I think it it's also going to be good . 	
+IS1006c.C.dialog-act.vkaraisk.239	Yeah . 	
+IS1006c.A.dialog-act.vkaraisk.144	Mm . 	
+IS1006c.C.dialog-act.vkaraisk.240	Mm . 	
+IS1006c.A.dialog-act.vkaraisk.145	Mm-hmm . 	
+IS1006c.D.dialog-act.vkaraisk.256	Okay ? 	
+IS1006c.C.dialog-act.vkaraisk.241	Yeah . 	
+IS1006c.A.dialog-act.vkaraisk.146	Okay . 	
+IS1006c.A.dialog-act.vkaraisk.147	No more question ? 	
+IS1006c.A.dialog-act.vkaraisk.148	Okay . 	
+IS1006c.D.dialog-act.vkaraisk.257	Yep . Thanks . 	
+IS1006c.A.dialog-act.vkaraisk.149	So Mm-hmm . 	
+IS1006c.A.dialog-act.vkaraisk.150	Okay , so 	
+IS1006c.A.dialog-act.vkaraisk.151	we will have uh next meeting in thirty minutes again . 	
+IS1006c.A.dialog-act.vkaraisk.152	Um now you have to go straight on this individual action 	
+IS1006c.A.dialog-act.vkaraisk.153	which i which are for Rama uh wil design , 	
+IS1006c.C.dialog-act.vkaraisk.242	Look and feel de 	
+IS1006c.A.dialog-act.vkaraisk.154	um Mark the user interface design , 	
+IS1006c.A.dialog-act.vkaraisk.155	and uh Sammy uh the product evaluation . 	
+IS1006c.D.dialog-act.vkaraisk.258	Mm-hmm . 	
+IS1006c.A.dialog-act.vkaraisk.156	Uh you will work together uh on a new on on a prototype using modelling clay . 	
+IS1006c.C.dialog-act.vkaraisk.243	Hmm . 	
+IS1006c.C.dialog-act.vkaraisk.244	Hmm . 	
+IS1006c.C.dialog-act.vkaraisk.245	Mm sounds interesting . 	
+IS1006c.A.dialog-act.vkaraisk.157	Mm-hmm 	
+IS1006c.A.dialog-act.vkaraisk.158	um and I as always your personal coach will send you specific instruction . 	
+IS1006c.D.dialog-act.vkaraisk.259	Okay . 	
+IS1006c.B.dialog-act.vkaraisk.141	Okay . 	
+IS1006c.D.dialog-act.vkaraisk.260	Thanks . 	
+IS1006c.C.dialog-act.vkaraisk.246	So , 	
+IS1006c.C.dialog-act.vkaraisk.247	can we highlight the specific features of our 	
+IS1006c.A.dialog-act.vkaraisk.159	Yeah you're right , you have to 	
+IS1006c.C.dialog-act.vkaraisk.248	yeah , so so 	
+IS1006c.C.dialog-act.vkaraisk.249	we want the speech recogniser 	
+IS1006c.C.dialog-act.vkaraisk.250	and we want some kind of buttons 	
+IS1006c.C.dialog-act.vkaraisk.251	and we want some themes like fruits or vegetables , 	
+IS1006c.C.dialog-act.vkaraisk.252	that's 	
+IS1006c.A.dialog-act.vkaraisk.160	So 	
+IS1006c.C.dialog-act.vkaraisk.253	we want to follow general trend . 	
+IS1006c.A.dialog-act.vkaraisk.161	you say s 	
+IS1006c.D.dialog-act.vkaraisk.261	Spongy . 	
+IS1006c.A.dialog-act.vkaraisk.162	S 	
+IS1006c.C.dialog-act.vkaraisk.254	Yeah . 	
+IS1006c.A.dialog-act.vkaraisk.163	do we agree on that ? 	
+IS1006c.A.dialog-act.vkaraisk.164	Yeah . 	
+IS1006c.A.dialog-act.vkaraisk.165	We have to . 	
+IS1006c.C.dialog-act.vkaraisk.255	So , 	
+IS1006c.D.dialog-act.vkaraisk.262	No , we don't have to , 	
+IS1006c.C.dialog-act.vkaraisk.256	do you think 	
+IS1006c.B.dialog-act.vkaraisk.142	So 	
+IS1006c.B.dialog-act.vkaraisk.143	we have to 	
+IS1006c.B.dialog-act.vkaraisk.144	uh for 	
+IS1006c.A.dialog-act.vkaraisk.166	No . 	
+IS1006c.D.dialog-act.vkaraisk.263	but seems it's the trend . 	
+IS1006c.C.dialog-act.vkaraisk.257	Hmm . Yeah . 	
+IS1006c.D.dialog-act.vkaraisk.264	Again , as I said we can also try to make it , to create the trend . 	
+IS1006c.B.dialog-act.vkaraisk.145	yeah 	
+IS1006c.B.dialog-act.vkaraisk.146	so 	
+IS1006c.D.dialog-act.vkaraisk.265	So there's no 	
+IS1006c.C.dialog-act.vkaraisk.258	Yeah . 	
+IS1006c.B.dialog-act.vkaraisk.147	are we confident enough on creating trends ? 	
+IS1006c.D.dialog-act.vkaraisk.266	Well , 	
+IS1006c.D.dialog-act.vkaraisk.267	that's 	
+IS1006c.D.dialog-act.vkaraisk.268	you t can try to convince us . 	
+IS1006c.C.dialog-act.vkaraisk.259		
+IS1006c.B.dialog-act.vkaraisk.148	Well , 	
+IS1006c.B.dialog-act.vkaraisk.149	we can make it smell like fruit . 	
+IS1006c.D.dialog-act.vkaraisk.269	Okay . that's a good idea , 	
+IS1006c.A.dialog-act.vkaraisk.167	Okay , that's a good idea . 	
+IS1006c.C.dialog-act.vkaraisk.260	That's 	
+IS1006c.A.dialog-act.vkaraisk.168	So titanium smell like fruit . 	
+IS1006c.D.dialog-act.vkaraisk.270	I 	
+IS1006c.B.dialog-act.vkaraisk.150	Yeah . 	
+IS1006c.A.dialog-act.vkaraisk.169	Mm-hmm . 	
+IS1006c.D.dialog-act.vkaraisk.271		
+IS1006c.C.dialog-act.vkaraisk.261	So 	
+IS1006c.C.dialog-act.vkaraisk.262	what about location and these things , people are really interesting on those features ? 	
+IS1006c.C.dialog-act.vkaraisk.263	Or they really like They more want these fancy features 	
+IS1006c.D.dialog-act.vkaraisk.272	Uh 	
+IS1006c.D.dialog-act.vkaraisk.273	I think i 	
+IS1006c.D.dialog-act.vkaraisk.274	yeah 	
+IS1006c.C.dialog-act.vkaraisk.264	like 	
+IS1006c.D.dialog-act.vkaraisk.275	i it's again in this uh 	
+IS1006c.D.dialog-act.vkaraisk.276	what I said first 	
+IS1006c.D.dialog-act.vkaraisk.277	it has to be fancy 	
+IS1006c.D.dialog-act.vkaraisk.278	so I think if nobody else pro provides currently a remote control with that kind of stuff and if we can provide it I think it's a good sell for us 	
+IS1006c.A.dialog-act.vkaraisk.170	Mm-hmm . 	
+IS1006c.C.dialog-act.vkaraisk.265	Feature 	
+IS1006c.C.dialog-act.vkaraisk.266	Yeah . 	
+IS1006c.D.dialog-act.vkaraisk.279	because we have it 	
+IS1006c.C.dialog-act.vkaraisk.267	Yeah . 	
+IS1006c.D.dialog-act.vkaraisk.280	and others don't . 	
+IS1006c.A.dialog-act.vkaraisk.171	Okay . 	
+IS1006c.D.dialog-act.vkaraisk.281	It's fancy . 	
+IS1006c.D.dialog-act.vkaraisk.282	Whether it's useful or not doesn't seem to be very important . 	
+IS1006c.C.dialog-act.vkaraisk.268	Yeah . 	
+IS1006c.A.dialog-act.vkaraisk.172	I I agree with uh this uh 	
+IS1006c.C.dialog-act.vkaraisk.269	Yeah . 	
+IS1006c.A.dialog-act.vkaraisk.173	Now we have to decide on what kind of fanciness . 	
+IS1006c.A.dialog-act.vkaraisk.174	Do we take titanium smelling like fruit , 	
+IS1006c.D.dialog-act.vkaraisk.283		
+IS1006c.A.dialog-act.vkaraisk.175	or do we make spongy uh fruity-like 	
+IS1006c.C.dialog-act.vkaraisk.270	Yeah . Uh 	
+IS1006c.C.dialog-act.vkaraisk.271	we will try to explore these two options 	
+IS1006c.D.dialog-act.vkaraisk.284	Maybe you could explore the two option . 	
+IS1006c.C.dialog-act.vkaraisk.272	and 	
+IS1006c.A.dialog-act.vkaraisk.176	Mm . Yeah , yeah . 	
+IS1006c.C.dialog-act.vkaraisk.273	yeah yeah . 	
+IS1006c.B.dialog-act.vkaraisk.151	Mm-hmm , mm-hmm . 	
+IS1006c.B.dialog-act.vkaraisk.152	Could we make a titanium shape ? I mean fruit-shaped . 	
+IS1006c.C.dialog-act.vkaraisk.274	Uh yeah 	
+IS1006c.A.dialog-act.vkaraisk.177		
+IS1006c.C.dialog-act.vkaraisk.275	at least like we can make banana 	
+IS1006c.C.dialog-act.vkaraisk.276	or 	
+IS1006c.A.dialog-act.vkaraisk.178	Don't you say that you cannot do double shape uh curved shape 	
+IS1006c.B.dialog-act.vkaraisk.153	But 	
+IS1006c.C.dialog-act.vkaraisk.277	yeah 	
+IS1006c.B.dialog-act.vkaraisk.154	Doub double-curved . 	
+IS1006c.D.dialog-act.vkaraisk.285	Mm . Seems to be . 	
+IS1006c.C.dialog-act.vkaraisk.278	it's it's 	
+IS1006c.C.dialog-act.vkaraisk.279	yeah 	
+IS1006c.A.dialog-act.vkaraisk.179	yeah . 	
+IS1006c.C.dialog-act.vkaraisk.280	that's a 	
+IS1006c.C.dialog-act.vkaraisk.281	we're to look for 	
+IS1006c.A.dialog-act.vkaraisk.180	Mm-hmm . Okay . 	
+IS1006c.C.dialog-act.vkaraisk.282	and and s we're to see the whether rubber is expensive 	
+IS1006c.B.dialog-act.vkaraisk.155	Okay , okay . 	
+IS1006c.C.dialog-act.vkaraisk.283	and d 	
+IS1006c.B.dialog-act.vkaraisk.156	In fact I just agreed to make uh to make the like titanium panels on a whole rubber body . 	
+IS1006c.C.dialog-act.vkaraisk.284	Hmm . 	
+IS1006c.B.dialog-act.vkaraisk.157	Well , okay 	
+IS1006c.A.dialog-act.vkaraisk.181	Mm-mm . Okay , so 	
+IS1006c.B.dialog-act.vkaraisk.158	w we'll see . 	
+IS1006c.A.dialog-act.vkaraisk.182	you explore now that you're going to work together these these two . 	
+IS1006c.B.dialog-act.vkaraisk.159	Yeah 	
+IS1006c.C.dialog-act.vkaraisk.285	Mm . 	
+IS1006c.A.dialog-act.vkaraisk.183	Or or spongy an 	
+IS1006c.C.dialog-act.vkaraisk.286	Yeah . 	
+IS1006c.A.dialog-act.vkaraisk.184	yeah . 	
+IS1006c.C.dialog-act.vkaraisk.287	Maybe we can have two different assembly also like one spongy and one kind of titanium . 	
+IS1006c.A.dialog-act.vkaraisk.185	Mm . 	
+IS1006c.C.dialog-act.vkaraisk.288	we have only the plastic or the the chippy yeah fibre chips or 	
+IS1006c.B.dialog-act.vkaraisk.160	We'll see . We'll see . 	
+IS1006c.D.dialog-act.vkaraisk.286	If you have time . 	
+IS1006c.A.dialog-act.vkaraisk.186	Mm . 	
+IS1006c.A.dialog-act.vkaraisk.187	Yeah 	
+IS1006c.A.dialog-act.vkaraisk.188	I don't think w 	
+IS1006c.A.dialog-act.vkaraisk.189	I think we have to choose . 	
+IS1006c.A.dialog-act.vkaraisk.190	If we choose uh titanium or if we choose spongy 	
+IS1006c.C.dialog-act.vkaraisk.289	Uh . 	
+IS1006c.A.dialog-act.vkaraisk.192	but uh it cannot be both . 	
+IS1006c.B.dialog-act.vkaraisk.161	We'll see . 	
+IS1006c.B.dialog-act.vkaraisk.162	I I really don't like this modelling clay 	
+IS1006c.C.dialog-act.vkaraisk.290	Yeah . 	
+IS1006c.B.dialog-act.vkaraisk.163	'cause you know it makes some for for 	
+IS1006c.D.dialog-act.vkaraisk.287	For creation . 	
+IS1006c.B.dialog-act.vkaraisk.164	I dunno uh 	
+IS1006c.B.dialog-act.vkaraisk.165	yeah um 	
+IS1006c.C.dialog-act.vkaraisk.291	Yeah . 	
+IS1006c.A.dialog-act.vkaraisk.193		
+IS1006c.B.dialog-act.vkaraisk.166	we'll look . 	
+IS1006c.D.dialog-act.vkaraisk.288		
+IS1006c.C.dialog-act.vkaraisk.292	Yeah . 	
+IS1006c.A.dialog-act.vkaraisk.194	Ah 	
+IS1006c.A.dialog-act.vkaraisk.195	you can pretend that it's uh titanium . 	
+IS1006c.C.dialog-act.vkaraisk.293	Even design . 	
+IS1006c.D.dialog-act.vkaraisk.289	You can paint it afterward . 	
+IS1006c.C.dialog-act.vkaraisk.294		
+IS1006c.B.dialog-act.vkaraisk.167	Okay , okay . 	
+IS1006c.D.dialog-act.vkaraisk.290	No problem . 	
+IS1006c.D.dialog-act.vkaraisk.291	We have a very large department of paint . 	
+IS1006c.A.dialog-act.vkaraisk.196	Yeah , 	
+IS1006c.A.dialog-act.vkaraisk.197	do don't worry , 	
+IS1006c.A.dialog-act.vkaraisk.198	you you you speak with mm mm . 	
+IS1006c.D.dialog-act.vkaraisk.292	You will do it . 	
+IS1006c.B.dialog-act.vkaraisk.168	Alright , alright . 	
+IS1006c.A.dialog-act.vkaraisk.199	Okay . So 	
+IS1006c.A.dialog-act.vkaraisk.200	explore a shape . 	
+IS1006c.C.dialog-act.vkaraisk.295	So 	
+IS1006c.C.dialog-act.vkaraisk.296	still we want to keep L_C_D_ ? Or 	
+IS1006c.C.dialog-act.vkaraisk.297		
+IS1006c.A.dialog-act.vkaraisk.201	Mm I think it's what we say , that we have an uh an L_C_D_ with uh information . 	
+IS1006c.D.dialog-act.vkaraisk.293	Yeah . 	
+IS1006c.C.dialog-act.vkaraisk.298	Okay . 	
+IS1006c.A.dialog-act.vkaraisk.202	Not uh 	
+IS1006c.D.dialog-act.vkaraisk.294	The thing is that uh if we want to have as he says if we want to have uh a small number of buttons we need to have a kind of output that says currently what their actions are . 	
+IS1006c.C.dialog-act.vkaraisk.299	Yeah , 	
+IS1006c.C.dialog-act.vkaraisk.300	then we can 	
+IS1006c.A.dialog-act.vkaraisk.203	Mm-hmm . 	
+IS1006c.C.dialog-act.vkaraisk.301	yeah , yeah , 	
+IS1006c.C.dialog-act.vkaraisk.302	that user friendly 	
+IS1006c.C.dialog-act.vkaraisk.303	or 	
+IS1006c.D.dialog-act.vkaraisk.295	Yeah . 	
+IS1006c.A.dialog-act.vkaraisk.204	Mm . 	
+IS1006c.D.dialog-act.vkaraisk.296	That's the converse to having zillions of button 	
+IS1006c.C.dialog-act.vkaraisk.304	Mm . 	
+IS1006c.C.dialog-act.vkaraisk.305	Yeah . 	
+IS1006c.D.dialog-act.vkaraisk.297	where each button does only one thing . 	
+IS1006c.A.dialog-act.vkaraisk.205	Mm . 	
+IS1006c.C.dialog-act.vkaraisk.306	Yeah . 	
+IS1006c.A.dialog-act.vkaraisk.206	Okay . 	
+IS1006c.C.dialog-act.vkaraisk.307	and we just stick with two batteries 	
+IS1006c.C.dialog-act.vkaraisk.308	so it's not any solar or 	
+IS1006c.D.dialog-act.vkaraisk.298	Yeah . 	
+IS1006c.D.dialog-act.vkaraisk.299	Classical , we stay classical in that we don't reinvent uh the wheel . 	
+IS1006c.C.dialog-act.vkaraisk.309	yeah yeah j yeah , 	
+IS1006c.A.dialog-act.vkaraisk.208	Yeah , yeah , yeah . 	
+IS1006c.C.dialog-act.vkaraisk.310	because 	
+IS1006c.C.dialog-act.vkaraisk.311	Yeah . 	
+IS1006c.A.dialog-act.vkaraisk.207	Mm . 	
+IS1006c.D.dialog-act.vkaraisk.300	Anyway it's very 	
+IS1006c.D.dialog-act.vkaraisk.301	in general I think people uh change T_V_ more often than batteries of their remote control . 	
+IS1006c.A.dialog-act.vkaraisk.209	Yeah . 	
+IS1006c.C.dialog-act.vkaraisk.312		
+IS1006c.D.dialog-act.vkaraisk.302	So . 	
+IS1006c.D.dialog-act.vkaraisk.303	Because the trend goes faster than the life of the 	
+IS1006c.A.dialog-act.vkaraisk.210	Mm-hmm . 	
+IS1006c.B.dialog-act.vkaraisk.169	Mm-hmm . 	
+IS1006c.A.dialog-act.vkaraisk.211		
+IS1006c.D.dialog-act.vkaraisk.304	So it's very 	
+IS1006c.A.dialog-act.vkaraisk.212	Okay . 	
+IS1006c.D.dialog-act.vkaraisk.305	Okay . 	
+IS1006c.A.dialog-act.vkaraisk.213	So 	
+IS1006c.C.dialog-act.vkaraisk.313	Yeah . 	
+IS1006c.B.dialog-act.vkaraisk.170	Yeah . 	
+IS1006c.A.dialog-act.vkaraisk.214	are we 	
+IS1006c.D.dialog-act.vkaraisk.306	We're done . 	
+IS1006c.C.dialog-act.vkaraisk.314	Yeah , we're done . 	
+IS1006c.A.dialog-act.vkaraisk.215	mm . 	
+IS1006c.A.dialog-act.vkaraisk.216	Okay . 	
+IS1006c.A.dialog-act.vkaraisk.217	So see you in thirty minutes . 	
+IS1006c.C.dialog-act.vkaraisk.315	Yep . 	
+

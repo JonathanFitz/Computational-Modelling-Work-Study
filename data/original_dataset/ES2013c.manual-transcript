@@ -1,0 +1,830 @@
+Observation: ES2013c; Result size: 827; atts: 2
+$d@nite:id	$d	
+ES2013c.A.dialog-act.vkaraisk.1	Hi Kate . 	
+ES2013c.B.dialog-act.vkaraisk.1	Just just carry on . 	
+ES2013c.A.dialog-act.vkaraisk.2	Okay , carry on . 	
+ES2013c.A.dialog-act.vkaraisk.3	Alright um 	
+ES2013c.A.dialog-act.vkaraisk.4	this is the beginning of the third meeting , the conceptual design meeting . 	
+ES2013c.A.dialog-act.vkaraisk.5	Um our agenda should be um that we're opening the meeting , 	
+ES2013c.A.dialog-act.vkaraisk.6	I have 	
+ES2013c.A.dialog-act.vkaraisk.7	the minutes from the previous meeting are on the shared f drive at this point . 	
+ES2013c.A.dialog-act.vkaraisk.8	Um and we should each have a presentation to make . 	
+ES2013c.A.dialog-act.vkaraisk.9	Um we have certain decisions to make 	
+ES2013c.A.dialog-act.vkaraisk.10	and we have forty minutes total . 	
+ES2013c.A.dialog-act.vkaraisk.11	It's twenty five after two at the moment , 	
+ES2013c.A.dialog-act.vkaraisk.12	so forty minutes is five after three , 	
+ES2013c.A.dialog-act.vkaraisk.13	um which I'll be keeping an eye on the clock for us . 	
+ES2013c.A.dialog-act.vkaraisk.14	Okay . 	
+ES2013c.A.dialog-act.vkaraisk.15	Um there are the decisions we have to turn to , 	
+ES2013c.A.dialog-act.vkaraisk.16	but we'll come back to them in a minute 	
+ES2013c.A.dialog-act.vkaraisk.17	after I take us to the minutes of the previous meeting . 	
+ES2013c.A.dialog-act.vkaraisk.19	Right um 	
+ES2013c.A.dialog-act.vkaraisk.20	as we remember , I opened the meeting , 	
+ES2013c.A.dialog-act.vkaraisk.21	the four of us were present , 	
+ES2013c.A.dialog-act.vkaraisk.22	the meeting the first meeting's minutes were reviewed 	
+ES2013c.A.dialog-act.vkaraisk.23	and approved . 	
+ES2013c.A.dialog-act.vkaraisk.24	Um Sarah , you presented a marketing research report 	
+ES2013c.A.dialog-act.vkaraisk.25	um which pretty much rep represented that fifteen to thirty five year olds uh it has to be hand-held , power , channel , volume , number keys , possibly a speech recognition . 	
+ES2013c.A.dialog-act.vkaraisk.26	And then Steph did a second presentation 	
+ES2013c.A.dialog-act.vkaraisk.27	um that those functions plus streamlining them with big user-friendly keys that were easy to use . 	
+ES2013c.A.dialog-act.vkaraisk.28	I think all of us agreed with those things . 	
+ES2013c.A.dialog-act.vkaraisk.29	Kate presented a working design of going after going over the basics on the whiteboard 	
+ES2013c.A.dialog-act.vkaraisk.30	um that it should be a simple mass-produced device , because of the twelve and a half Pence cost . 	
+ES2013c.A.dialog-act.vkaraisk.33	Um but we did talk about possibly using rechargeable batteries 	
+ES2013c.A.dialog-act.vkaraisk.34	and having a docking place as a selling point . 	
+ES2013c.A.dialog-act.vkaraisk.35	Um and the new requirements that it for be for T_V_ only 	
+ES2013c.A.dialog-act.vkaraisk.36	um and that it include the l so slogan and colour of the uh corporate design be included . Um the corporate image . 	
+ES2013c.A.dialog-act.vkaraisk.37	So 	
+ES2013c.A.dialog-act.vkaraisk.38	we agreed that the target market would be fifteen to thirty five with more money than sense , that were decision makers . 	
+ES2013c.A.dialog-act.vkaraisk.39	Alternatively it would be a manufacturer to enclose it with the T_V_ , 	
+ES2013c.A.dialog-act.vkaraisk.40	but it still should meet those parameters . 	
+ES2013c.A.dialog-act.vkaraisk.41	Um and that the function we agreed was volume , power , numbers , enter , channels , a way to move between channels , easy to use and hand-held . 	
+ES2013c.A.dialog-act.vkaraisk.42	Um at that point we agreed that Sarah would look at the current cost of competition , what what do the current ones sell for . 	
+ES2013c.A.dialog-act.vkaraisk.43	Um and Steph was gonna look at ec ergonomics . 	
+ES2013c.A.dialog-act.vkaraisk.44	Kate was gonna look at cost and feasibility of the various possibilities that we discussed . 	
+ES2013c.A.dialog-act.vkaraisk.45	And I was to type up these minutes 	
+ES2013c.A.dialog-act.vkaraisk.46	and work on the final report . 	
+ES2013c.A.dialog-act.vkaraisk.47	Is this a fair presentation of what our last meeting was ? 	
+ES2013c.C.dialog-act.vkaraisk.1	Yeah . 	
+ES2013c.C.dialog-act.vkaraisk.2	Yes . 	
+ES2013c.B.dialog-act.vkaraisk.2	Mm-hmm . 	
+ES2013c.A.dialog-act.vkaraisk.48	Okay . 	
+ES2013c.A.dialog-act.vkaraisk.49	Right . So 	
+ES2013c.A.dialog-act.vkaraisk.50	we're ready to close that 	
+ES2013c.A.dialog-act.vkaraisk.51	and go back to our That one . 	
+ES2013c.A.dialog-act.vkaraisk.52	Right . 	
+ES2013c.A.dialog-act.vkaraisk.53	We're up to the point of the 	
+ES2013c.A.dialog-act.vkaraisk.54	Go back . 	
+ES2013c.A.dialog-act.vkaraisk.55	Um the three presentations . 	
+ES2013c.A.dialog-act.vkaraisk.56	So we're going to pull the plug on me 	
+ES2013c.A.dialog-act.vkaraisk.57	and turn to Sarah . 	
+ES2013c.A.dialog-act.vkaraisk.58	Is that okay ? 	
+ES2013c.A.dialog-act.vkaraisk.59	Is that alright with everybody else ? 	
+ES2013c.C.dialog-act.vkaraisk.3	Yep . 	
+ES2013c.B.dialog-act.vkaraisk.3	Mm-hmm . 	
+ES2013c.A.dialog-act.vkaraisk.60	Especially since Kate asked to be last . 	
+ES2013c.A.dialog-act.vkaraisk.61	Sarah , I'm sorry if I misspelled your name , 	
+ES2013c.A.dialog-act.vkaraisk.62	I didn't know whether it was S_A_R_A_ or S_A_R_H_ . 	
+ES2013c.D.dialog-act.vkaraisk.1	I respond to either . 	
+ES2013c.D.dialog-act.vkaraisk.2	No worries . 	
+ES2013c.A.dialog-act.vkaraisk.63	You respond to whatever you get , huh ? 	
+ES2013c.A.dialog-act.vkaraisk.64	Okay . 	
+ES2013c.A.dialog-act.vkaraisk.65	Um , did you do your Hit 	
+ES2013c.C.dialog-act.vkaraisk.4	Yeah , 	
+ES2013c.A.dialog-act.vkaraisk.66	Ah , 	
+ES2013c.A.dialog-act.vkaraisk.67	there it is . 	
+ES2013c.A.dialog-act.vkaraisk.68	Ta-da . 	
+ES2013c.D.dialog-act.vkaraisk.3	Okay , 	
+ES2013c.D.dialog-act.vkaraisk.4	first thing I want to address is um one of the points that Florence brought up , 	
+ES2013c.D.dialog-act.vkaraisk.5	which was uh current cost of the competition devices , 	
+ES2013c.D.dialog-act.vkaraisk.6	similar to the ones that Stephanie uh showed us 	
+ES2013c.D.dialog-act.vkaraisk.7	and and they're uh twenty to sixty Euros , depending on uh branding . 	
+ES2013c.C.dialog-act.vkaraisk.5	Right . 	
+ES2013c.D.dialog-act.vkaraisk.8	Some of them that have a higher brand recognition are on the more expensive end . 	
+ES2013c.D.dialog-act.vkaraisk.9	But I think that with the current um price that we're searching for , we're well within , even on the lower end , of the uh of the market . 	
+ES2013c.A.dialog-act.vkaraisk.69	Mm 'kay . 	
+ES2013c.D.dialog-act.vkaraisk.10	But I'm going to move on to more interesting um more vibrant things . 	
+ES2013c.D.dialog-act.vkaraisk.11	So , 	
+ES2013c.D.dialog-act.vkaraisk.12	I investigated the remote control market in greater detail , 	
+ES2013c.D.dialog-act.vkaraisk.13	and my uh the theme of what I was to work on was uh trend watch . 	
+ES2013c.C.dialog-act.vkaraisk.6		
+ES2013c.D.dialog-act.vkaraisk.14	And 	
+ES2013c.C.dialog-act.vkaraisk.7		
+ES2013c.A.dialog-act.vkaraisk.70	'Kay . 	
+ES2013c.B.dialog-act.vkaraisk.4	Sorry . 	
+ES2013c.D.dialog-act.vkaraisk.15		
+ES2013c.C.dialog-act.vkaraisk.8		
+ES2013c.A.dialog-act.vkaraisk.71		
+ES2013c.C.dialog-act.vkaraisk.9		
+ES2013c.B.dialog-act.vkaraisk.5	I'm glad to see the marketing budget is being so well spent on . 	
+ES2013c.D.dialog-act.vkaraisk.16		
+ES2013c.A.dialog-act.vkaraisk.72		
+ES2013c.D.dialog-act.vkaraisk.17	I know that you all are a distance from cutting edge marketing research , 	
+ES2013c.B.dialog-act.vkaraisk.6		
+ES2013c.D.dialog-act.vkaraisk.18	so you know , 	
+ES2013c.D.dialog-act.vkaraisk.19	I'm just gonna try to cloak it in really professional terms here . 	
+ES2013c.D.dialog-act.vkaraisk.20	What's hot , 	
+ES2013c.D.dialog-act.vkaraisk.21	fruit and veg . Spongy . 	
+ES2013c.C.dialog-act.vkaraisk.10		
+ES2013c.B.dialog-act.vkaraisk.7		
+ES2013c.D.dialog-act.vkaraisk.22	And this is all over the catwalks , Paris , Milan , and I'm talking about clothing , furniture , shoes . 	
+ES2013c.B.dialog-act.vkaraisk.8		
+ES2013c.D.dialog-act.vkaraisk.23	This is really interesting change from past years , 	
+ES2013c.C.dialog-act.vkaraisk.11		
+ES2013c.D.dialog-act.vkaraisk.24	because it is much more organic , 	
+ES2013c.A.dialog-act.vkaraisk.73	Mm . 	
+ES2013c.D.dialog-act.vkaraisk.25	um some would say approachable . 	
+ES2013c.D.dialog-act.vkaraisk.26	And I think if we're to refashion our view of what we want in a remote control , we should perhaps think about incorporating technologically interesting fabrics and some of the bold colours into a simple handset . 	
+ES2013c.D.dialog-act.vkaraisk.27	So . 	
+ES2013c.D.dialog-act.vkaraisk.28	I also did a little research 	
+ES2013c.D.dialog-act.vkaraisk.29	on um what again are the most important priorities in uh decision making about uh purchasing . 	
+ES2013c.D.dialog-act.vkaraisk.30	Fancy . 	
+ES2013c.D.dialog-act.vkaraisk.31	Functional is out . 	
+ES2013c.D.dialog-act.vkaraisk.32	And f the fancy , and that's exactly the term , I'm I'm thinking polished , elegant , you know , kind of innovative , but a cut above . 	
+ES2013c.D.dialog-act.vkaraisk.33	This is twice as important as the next finding , 	
+ES2013c.D.dialog-act.vkaraisk.34	which is technologically innovative . 	
+ES2013c.D.dialog-act.vkaraisk.35	This is interesting , 	
+ES2013c.D.dialog-act.vkaraisk.36	'cause I think in the last meeting we were talking about technology as being so important , 	
+ES2013c.D.dialog-act.vkaraisk.37	but maybe what's innovative is having it simple with um with uh technologically superior fabrics or uh , you know , designed in interesting substances . 	
+ES2013c.D.dialog-act.vkaraisk.38	Ease of use . Again , pretty low , 	
+ES2013c.D.dialog-act.vkaraisk.39	I mean it's the top three , 	
+ES2013c.D.dialog-act.vkaraisk.40	but each of the uh fancy and technologically innovative are far more important . 	
+ES2013c.D.dialog-act.vkaraisk.41	So 	
+ES2013c.D.dialog-act.vkaraisk.42	I think we should cloak the streamlined remote control device in a series of fruit fruit themed sleeves . 	
+ES2013c.C.dialog-act.vkaraisk.12		
+ES2013c.B.dialog-act.vkaraisk.9	I think that's a good idea . 	
+ES2013c.D.dialog-act.vkaraisk.43	Y yeah , you know 	
+ES2013c.B.dialog-act.vkaraisk.10	Don't you ? 	
+ES2013c.C.dialog-act.vkaraisk.13	Yes . 	
+ES2013c.A.dialog-act.vkaraisk.74	It sounds like the the uh covers that they use for the remote , you know , your t your cell phone . 	
+ES2013c.D.dialog-act.vkaraisk.44	Exactly . Exactly . 	
+ES2013c.D.dialog-act.vkaraisk.45	I was thinking though that instead of having something uh like patterned , you know , so , you know , something similar to a summer dress . you know , it would have like fruit and veg , is that we actually make these spongy . 	
+ES2013c.A.dialog-act.vkaraisk.75	Mm . 	
+ES2013c.D.dialog-act.vkaraisk.46	They could be ini 	
+ES2013c.D.dialog-act.vkaraisk.47	initially I thought we could start with kind of um fruit that would suit kind of uh a long uh hand-held , so banana , pineapple and pear . 	
+ES2013c.D.dialog-act.vkaraisk.48	Um it could actually the sleeve could take up a lot of the development 	
+ES2013c.D.dialog-act.vkaraisk.49	and the remote control , we'd just need to get reductionist on it . 	
+ES2013c.C.dialog-act.vkaraisk.14		
+ES2013c.D.dialog-act.vkaraisk.50	They could be interchangeable , 	
+ES2013c.D.dialog-act.vkaraisk.51	they're spongy , 	
+ES2013c.D.dialog-act.vkaraisk.52	that goes back to ergonomic , 	
+ES2013c.D.dialog-act.vkaraisk.53	and the youngsters love 'em , 	
+ES2013c.D.dialog-act.vkaraisk.54	fun for the whole family , everyone can have their own . 	
+ES2013c.D.dialog-act.vkaraisk.55	So what we're talking about is changing . this concept . 	
+ES2013c.D.dialog-act.vkaraisk.56	Everyone has a T_V_ remote , 	
+ES2013c.D.dialog-act.vkaraisk.57	but then we add in the fact that they could each have their own individual fruit . 	
+ES2013c.C.dialog-act.vkaraisk.15		
+ES2013c.D.dialog-act.vkaraisk.58	That's what's hot on the catwalks . 	
+ES2013c.D.dialog-act.vkaraisk.59	So , 	
+ES2013c.D.dialog-act.vkaraisk.60	this is my 	
+ES2013c.D.dialog-act.vkaraisk.61	This is what I'm thinking . 	
+ES2013c.A.dialog-act.vkaraisk.76	Hmm . 	
+ES2013c.C.dialog-act.vkaraisk.16		
+ES2013c.A.dialog-act.vkaraisk.77	Uh-huh mm . 	
+ES2013c.A.dialog-act.vkaraisk.78	In most families , don't isn't the remote is a remote . 	
+ES2013c.D.dialog-act.vkaraisk.62	Y yeah , 	
+ES2013c.D.dialog-act.vkaraisk.63	but I think I think what this would allow is perhaps a person in the family who had the most opinion about it 	
+ES2013c.D.dialog-act.vkaraisk.64	we all need a remote , 	
+ES2013c.D.dialog-act.vkaraisk.65	but the person who is really perhaps active in personalising , I'm thinking the teenager , the someone fifteen to thirty five would go out and get this additional thing the same way as you mentioned that people would get the cell phone covers . 	
+ES2013c.A.dialog-act.vkaraisk.79	Mm . 	
+ES2013c.C.dialog-act.vkaraisk.17	So when your dad's sitting there , overriding your decision , going no we're gonna watch this , you can bring out your own remote and be like zap , no we're gonna watch this . 	
+ES2013c.D.dialog-act.vkaraisk.66	Yeah . 	
+ES2013c.D.dialog-act.vkaraisk.67	W and plus I think 	
+ES2013c.A.dialog-act.vkaraisk.80	Mm . Well 	
+ES2013c.D.dialog-act.vkaraisk.68	Uh yeah . 	
+ES2013c.A.dialog-act.vkaraisk.81	actually some households do have three and four T_V_s 	
+ES2013c.C.dialog-act.vkaraisk.19		
+ES2013c.D.dialog-act.vkaraisk.69	Yeah . 	
+ES2013c.A.dialog-act.vkaraisk.82	and they would have a remote for each one , 	
+ES2013c.A.dialog-act.vkaraisk.83	so . 	
+ES2013c.D.dialog-act.vkaraisk.70	Yeah . So 	
+ES2013c.D.dialog-act.vkaraisk.71	this is an idea 	
+ES2013c.D.dialog-act.vkaraisk.72	and I I 	
+ES2013c.D.dialog-act.vkaraisk.73	you know , 	
+ES2013c.D.dialog-act.vkaraisk.74	this is exactly what the research has uh has shown . 	
+ES2013c.D.dialog-act.vkaraisk.75	So I really open this up to uh any other feedback . This spongy fruit and veg . 	
+ES2013c.B.dialog-act.vkaraisk.11	Yeah , 	
+ES2013c.D.dialog-act.vkaraisk.76	Thanks . 	
+ES2013c.B.dialog-act.vkaraisk.12	I I think we're gonna have some trouble when we get down to the component design on this . 	
+ES2013c.D.dialog-act.vkaraisk.77	Alright . 	
+ES2013c.C.dialog-act.vkaraisk.20	Yep . 	
+ES2013c.B.dialog-act.vkaraisk.13	Spongy is gonna be difficult , I'm afraid . 	
+ES2013c.A.dialog-act.vkaraisk.84	Hmm . 	
+ES2013c.C.dialog-act.vkaraisk.21	And as for as for um well budgeting as well , if we're gonna have lots of different interchangeable components . 	
+ES2013c.A.dialog-act.vkaraisk.85	Hmm . 	
+ES2013c.A.dialog-act.vkaraisk.86		
+ES2013c.D.dialog-act.vkaraisk.78	I I just have my ear to the market , guys . 	
+ES2013c.C.dialog-act.vkaraisk.22	Is this to the market ? 	
+ES2013c.B.dialog-act.vkaraisk.14	Yeah , I mean basically 	
+ES2013c.B.dialog-act.vkaraisk.15	we can make these things out of wood , titanium , plastic or rubber . 	
+ES2013c.B.dialog-act.vkaraisk.16	I suppose rubber is the closest to spongy , 	
+ES2013c.D.dialog-act.vkaraisk.79	Is spongiest , yeah . 	
+ES2013c.B.dialog-act.vkaraisk.17	yeah . 	
+ES2013c.D.dialog-act.vkaraisk.80	That would add 	
+ES2013c.B.dialog-act.vkaraisk.18	I was thinking titanium myself . 	
+ES2013c.C.dialog-act.vkaraisk.23	I was thinking titanium , 	
+ES2013c.C.dialog-act.vkaraisk.24	I was thinking it's just 	
+ES2013c.C.dialog-act.vkaraisk.25	I have been influenced by pictures of iPods , 	
+ES2013c.D.dialog-act.vkaraisk.81	Mm-hmm . 	
+ES2013c.C.dialog-act.vkaraisk.26	and they're also minimalist and shiny . 	
+ES2013c.D.dialog-act.vkaraisk.82		
+ES2013c.D.dialog-act.vkaraisk.83	They are 	
+ES2013c.D.dialog-act.vkaraisk.84	and they they would fulfil the uh first um priority , 	
+ES2013c.D.dialog-act.vkaraisk.85	which is fancy . 	
+ES2013c.D.dialog-act.vkaraisk.86	I think many of us would associate those with fancy . 	
+ES2013c.D.dialog-act.vkaraisk.87	Something else we could do is uh call it something that's fruit and veg oriented . 	
+ES2013c.D.dialog-act.vkaraisk.88	We could call it uh The name . 	
+ES2013c.A.dialog-act.vkaraisk.87	Are we talking about the device itself or the c or a cover for the device that would be an interchangeable cov cover as a separate product ? 	
+ES2013c.D.dialog-act.vkaraisk.89	Well 	
+ES2013c.D.dialog-act.vkaraisk.90	it would be uh a a very simple product 	
+ES2013c.D.dialog-act.vkaraisk.91	that would have a spongy sleeve that would be interchangeable . So 	
+ES2013c.A.dialog-act.vkaraisk.88	Perhaps perhaps that desi that particular suggestion needs to go back to management 	
+ES2013c.C.dialog-act.vkaraisk.27	Yeah , 	
+ES2013c.C.dialog-act.vkaraisk.28	but it's kind of pointless , 	
+ES2013c.C.dialog-act.vkaraisk.29	isn't it ? 	
+ES2013c.A.dialog-act.vkaraisk.89	and perhaps go to another group to actually design as a separate product . 	
+ES2013c.C.dialog-act.vkaraisk.30	Yeah . 	
+ES2013c.D.dialog-act.vkaraisk.92	That , you know , that might be 	
+ES2013c.C.dialog-act.vkaraisk.31	Let's delegate . 	
+ES2013c.A.dialog-act.vkaraisk.90	Wo would that be agreeable ? 	
+ES2013c.D.dialog-act.vkaraisk.93	And then we could keep it titanium . 	
+ES2013c.B.dialog-act.vkaraisk.19	Yeah . 	
+ES2013c.B.dialog-act.vkaraisk.20	W w would it be helpful if um I described the components a bit , 	
+ES2013c.B.dialog-act.vkaraisk.21	because I think it would give you um maybe bring this discussion back to Earth of what we can actually physically do . 	
+ES2013c.C.dialog-act.vkaraisk.32	Yeah , maybe . 	
+ES2013c.C.dialog-act.vkaraisk.33	Or 	
+ES2013c.A.dialog-act.vkaraisk.91	Do you wanna be next or you want Kate to go next ? 	
+ES2013c.C.dialog-act.vkaraisk.34	I think possibly it might be more useful if Kate went next . 	
+ES2013c.A.dialog-act.vkaraisk.93	Okay , 	
+ES2013c.A.dialog-act.vkaraisk.94	we'll move the 	
+ES2013c.C.dialog-act.vkaraisk.35	Um 	
+ES2013c.B.dialog-act.vkaraisk.22		
+ES2013c.C.dialog-act.vkaraisk.36	You can even have them in different flavours as well . 	
+ES2013c.C.dialog-act.vkaraisk.37	So that if you just wanna sit there and chew on the remote , it could be like pear flavour , 	
+ES2013c.D.dialog-act.vkaraisk.94	Yeah . 	
+ES2013c.D.dialog-act.vkaraisk.95	Or s or smelly . Scratchy 	
+ES2013c.C.dialog-act.vkaraisk.38	yeah . Scratch and sniff . 	
+ES2013c.D.dialog-act.vkaraisk.96	Uh well 	
+ES2013c.D.dialog-act.vkaraisk.97	I was really thinking a lot about the I_ uh the iMac kind of gel gem tone . 	
+ES2013c.B.dialog-act.vkaraisk.23	Right , well 	
+ES2013c.D.dialog-act.vkaraisk.98	It's hot on the streets , guys . 	
+ES2013c.B.dialog-act.vkaraisk.24	I I I think some of this um 	
+ES2013c.C.dialog-act.vkaraisk.39		
+ES2013c.B.dialog-act.vkaraisk.25	you're gonna be a little disappointed with some of the things I have to tell you , 	
+ES2013c.B.dialog-act.vkaraisk.26	but I'm afraid this is the real world . 	
+ES2013c.B.dialog-act.vkaraisk.27	So um 	
+ES2013c.B.dialog-act.vkaraisk.28	I've been looking at the the basics of how these devices actually have to work in order to operate , 	
+ES2013c.B.dialog-act.vkaraisk.29	and I've had some discussions with the ma manufacturing division , 	
+ES2013c.B.dialog-act.vkaraisk.30	who have told me what's actually available , you know , what the current state of the art in components is , and some of the exciting new things they've got , 	
+ES2013c.B.dialog-act.vkaraisk.31	but I'm not sure that it's quite what you want 	
+ES2013c.B.dialog-act.vkaraisk.32	um . Now 	
+ES2013c.B.dialog-act.vkaraisk.33	this isn't a very good overhead , 	
+ES2013c.B.dialog-act.vkaraisk.35	but this is just to show you , 	
+ES2013c.B.dialog-act.vkaraisk.34	this is the innards of a remote control um . 	
+ES2013c.B.dialog-act.vkaraisk.36	I really need a pen or something 	
+ES2013c.B.dialog-act.vkaraisk.37	but uh 	
+ES2013c.B.dialog-act.vkaraisk.38	does my mouse work ? 	
+ES2013c.B.dialog-act.vkaraisk.39	No . 	
+ES2013c.B.dialog-act.vkaraisk.40	Um oh 	
+ES2013c.B.dialog-act.vkaraisk.41	yeah , 	
+ES2013c.B.dialog-act.vkaraisk.42	can you see my little mouse pointer ? 	
+ES2013c.A.dialog-act.vkaraisk.95	Mm . 	
+ES2013c.B.dialog-act.vkaraisk.43	Right . 	
+ES2013c.B.dialog-act.vkaraisk.44	This is this is the a a a remote that's been opened up 	
+ES2013c.A.dialog-act.vkaraisk.96	Mm . 	
+ES2013c.B.dialog-act.vkaraisk.45	and that's the the back of the interface . 	
+ES2013c.B.dialog-act.vkaraisk.46	And this is a push-button one , 	
+ES2013c.B.dialog-act.vkaraisk.47	so you see these little little buttons here , they're little rubber rubber buttons 	
+ES2013c.B.dialog-act.vkaraisk.48	that go through onto the the board at the back 	
+ES2013c.B.dialog-act.vkaraisk.49	and they push these buttons here . 	
+ES2013c.B.dialog-act.vkaraisk.50	Um and we 	
+ES2013c.B.dialog-act.vkaraisk.51	that's the basic construction that we've got to got to accommodate . 	
+ES2013c.B.dialog-act.vkaraisk.52	We got to have something that pushes the little buttons 	
+ES2013c.B.dialog-act.vkaraisk.53	that um talk to the chip 	
+ES2013c.B.dialog-act.vkaraisk.54	that encodes the message 	
+ES2013c.B.dialog-act.vkaraisk.55	that sends the the message to the receiver . 	
+ES2013c.B.dialog-act.vkaraisk.56	So um 	
+ES2013c.B.dialog-act.vkaraisk.57	I wan I wanna go through not not just addressing the um uh the the points that you made , Sarah , 	
+ES2013c.B.dialog-act.vkaraisk.58	but um doing my presentation in the order I wrote it . 	
+ES2013c.D.dialog-act.vkaraisk.99		
+ES2013c.B.dialog-act.vkaraisk.59	So first of all um I wanna talk about what possibilities we've got for the energy source . 	
+ES2013c.B.dialog-act.vkaraisk.60	Um we can have your bog standard double double A_ batteries in a replaceable um little compartment . 	
+ES2013c.B.dialog-act.vkaraisk.61	We can have a hand 	
+ES2013c.D.dialog-act.vkaraisk.100		
+ES2013c.C.dialog-act.vkaraisk.40	A wind-up . 	
+ES2013c.B.dialog-act.vkaraisk.62	sorry 	
+ES2013c.B.dialog-act.vkaraisk.63	a wind-up , yeah , 	
+ES2013c.B.dialog-act.vkaraisk.64	which I think is quite an interesting concept for a sorry for a remote control , 	
+ES2013c.D.dialog-act.vkaraisk.101		
+ES2013c.A.dialog-act.vkaraisk.97		
+ES2013c.D.dialog-act.vkaraisk.102		
+ES2013c.B.dialog-act.vkaraisk.65	but i it maybe is doesn't quite go with the um the fruit and veg . 	
+ES2013c.A.dialog-act.vkaraisk.98		
+ES2013c.B.dialog-act.vkaraisk.66	Um one that one that I think is quite interesting is the kinetic energy source , 	
+ES2013c.A.dialog-act.vkaraisk.99	Alright . 	
+ES2013c.D.dialog-act.vkaraisk.103		
+ES2013c.A.dialog-act.vkaraisk.100	Remember , 	
+ES2013c.A.dialog-act.vkaraisk.101	we only have forty minutes 	
+ES2013c.B.dialog-act.vkaraisk.67	where um you you actually get the energy by moving the device , 	
+ES2013c.D.dialog-act.vkaraisk.104	Mm . 	
+ES2013c.B.dialog-act.vkaraisk.68	which is quite a ni a nice and neat one . 	
+ES2013c.A.dialog-act.vkaraisk.102	Hmm . 	
+ES2013c.B.dialog-act.vkaraisk.69	You have to 	
+ES2013c.B.dialog-act.vkaraisk.70	it means that if it's sitting there for a long time it probably won't work , 	
+ES2013c.B.dialog-act.vkaraisk.71	but you have to sort of throw it between your hands every now and then , 	
+ES2013c.C.dialog-act.vkaraisk.41		
+ES2013c.B.dialog-act.vkaraisk.72	it'll work . 	
+ES2013c.D.dialog-act.vkaraisk.105	Hmm . 	
+ES2013c.B.dialog-act.vkaraisk.73	Or we we had talked about solar power , 	
+ES2013c.B.dialog-act.vkaraisk.74	but I thing that we agreed that that's not so good in the dark . 	
+ES2013c.A.dialog-act.vkaraisk.103	Mm . 	
+ES2013c.B.dialog-act.vkaraisk.75	Now 	
+ES2013c.B.dialog-act.vkaraisk.76	I'm afraid this is the options we've got on on the case . 	
+ES2013c.B.dialog-act.vkaraisk.77	It can be made of plastic , rubber , wood o if you like , or titanium . 	
+ES2013c.D.dialog-act.vkaraisk.106	Hmm . 	
+ES2013c.C.dialog-act.vkaraisk.42		
+ES2013c.B.dialog-act.vkaraisk.78	Um and the nearest we've got to st to spongy there I guess is rubber , 	
+ES2013c.B.dialog-act.vkaraisk.79	but um I'm gonna come back to the advantages of titanium , 	
+ES2013c.D.dialog-act.vkaraisk.107	Hmm . 	
+ES2013c.B.dialog-act.vkaraisk.80	and basically it can have a flat surface , a curved surface or a double curved surface , 	
+ES2013c.B.dialog-act.vkaraisk.81	but I think if we wanna use standard components , we're gonna have difficulty with anything much beyond that . 	
+ES2013c.D.dialog-act.vkaraisk.108	Hmm . 	
+ES2013c.B.dialog-act.vkaraisk.82	Okay , 	
+ES2013c.B.dialog-act.vkaraisk.83	what does the interface look like ? 	
+ES2013c.B.dialog-act.vkaraisk.84	Um well 	
+ES2013c.B.dialog-act.vkaraisk.85	push button , that's that's the one we're all familiar with . 	
+ES2013c.B.dialog-act.vkaraisk.86	Um we can have scroll buttons 	
+ES2013c.B.dialog-act.vkaraisk.87	and the the scroll button can incorporate a push , 	
+ES2013c.A.dialog-act.vkaraisk.104	Hmm . 	
+ES2013c.B.dialog-act.vkaraisk.88	so you can have it like on a mouse 	
+ES2013c.B.dialog-act.vkaraisk.89	where you can use it to go up and down , change volume or channel or something like that 	
+ES2013c.B.dialog-act.vkaraisk.90	and push to select something . 	
+ES2013c.B.dialog-act.vkaraisk.91	Um you can have multiple scroll buttons , 	
+ES2013c.B.dialog-act.vkaraisk.92	um this is maybe getting a little bit complicated , 	
+ES2013c.B.dialog-act.vkaraisk.93	but um it's it the technology is there . 	
+ES2013c.B.dialog-act.vkaraisk.94	And we can also incorporate an L_C_D_ display in the remote , 	
+ES2013c.B.dialog-act.vkaraisk.95	but this will increase the cost . 	
+ES2013c.B.dialog-act.vkaraisk.96	Um the electronics that actually makes the device work , we've basically got three , simple , regular , advanced , 	
+ES2013c.B.dialog-act.vkaraisk.97	and the price goes up as we choose each of this . 	
+ES2013c.B.dialog-act.vkaraisk.98	If we want the nice cheap one , the simple , then we can only have push buttons . 	
+ES2013c.B.dialog-act.vkaraisk.99	All the other fancy interface designs go out the window , I'm afraid . 	
+ES2013c.B.dialog-act.vkaraisk.100	Um pay a little bit more for a regular chip and you can have scroll buttons . 	
+ES2013c.B.dialog-act.vkaraisk.101	If you want the advanced chip it obviously costs more , 	
+ES2013c.B.dialog-act.vkaraisk.102	but it that's what you need if you want the L_C_D_ display . 	
+ES2013c.B.dialog-act.vkaraisk.103	And the manufacturing devision tell me that they have recently developed um sample sensor sample speaker devices . 	
+ES2013c.B.dialog-act.vkaraisk.104	Now 	
+ES2013c.B.dialog-act.vkaraisk.105	I don't know what that is , 	
+ES2013c.B.dialog-act.vkaraisk.106	but I think they think it's quite important 	
+ES2013c.B.dialog-act.vkaraisk.107	and we might want to incorporate it somewhere . 	
+ES2013c.B.dialog-act.vkaraisk.108	Um ou our real expertise is in push buttons , I have to say , 	
+ES2013c.B.dialog-act.vkaraisk.109	but maybe you think that's old technology . 	
+ES2013c.D.dialog-act.vkaraisk.109	Mm . 	
+ES2013c.B.dialog-act.vkaraisk.110	And well 	
+ES2013c.B.dialog-act.vkaraisk.111	I I think we've got two options . 	
+ES2013c.B.dialog-act.vkaraisk.112	We can either go for a really cheap model , 	
+ES2013c.B.dialog-act.vkaraisk.113	keep all of the costs down , 	
+ES2013c.B.dialog-act.vkaraisk.114	um which means a flat plastic case with an ordinary battery and simple push buttons . 	
+ES2013c.B.dialog-act.vkaraisk.115	Or we can have something that looks a bit nicer , 	
+ES2013c.B.dialog-act.vkaraisk.116	I think it , um won't necessarily l uh look like a pineapple , 	
+ES2013c.B.dialog-act.vkaraisk.117	but um that may or may not be a good thing . 	
+ES2013c.D.dialog-act.vkaraisk.110		
+ES2013c.C.dialog-act.vkaraisk.43		
+ES2013c.B.dialog-act.vkaraisk.118	Sorry . 	
+ES2013c.B.dialog-act.vkaraisk.119	Um but it could have an L_C_D_ screen 	
+ES2013c.B.dialog-act.vkaraisk.120	and it could have multiple scroll buttons , 	
+ES2013c.B.dialog-act.vkaraisk.121	and it could have the the company's new development of the um sample sensor and speaker . 	
+ES2013c.B.dialog-act.vkaraisk.122	So , 	
+ES2013c.B.dialog-act.vkaraisk.123	thank you . 	
+ES2013c.D.dialog-act.vkaraisk.111	That sounds good . 	
+ES2013c.D.dialog-act.vkaraisk.112	Any idea you 	
+ES2013c.D.dialog-act.vkaraisk.113	you mentioned that there would be a cost difference . 	
+ES2013c.D.dialog-act.vkaraisk.114	Um do you have any idea if if this could if the fancy model could be done in twelve Euros fifty ? 	
+ES2013c.B.dialog-act.vkaraisk.124	Yeah , 	
+ES2013c.B.dialog-act.vkaraisk.125	I'm afraid I don't have that information available . 	
+ES2013c.B.dialog-act.vkaraisk.126	Um manufacturing didn't actually give attach any prices to any of this , I'm afraid . 	
+ES2013c.A.dialog-act.vkaraisk.105	Hmm . 	
+ES2013c.D.dialog-act.vkaraisk.115	Hmm . 	
+ES2013c.D.dialog-act.vkaraisk.116	Because , you know what , I'm being quite serious when I say that that um the things I mentioned are hot . 	
+ES2013c.D.dialog-act.vkaraisk.117	But I think the important thing might be to choose one . 	
+ES2013c.B.dialog-act.vkaraisk.127	Yeah mm-hmm . 	
+ES2013c.D.dialog-act.vkaraisk.118	You know , if if what you're telling me is is um some of these things aren't just f aren't feasible , maybe we could something about naming , 	
+ES2013c.D.dialog-act.vkaraisk.119	we could call it , you know , Blackberry . 	
+ES2013c.D.dialog-act.vkaraisk.120	That's uh 	
+ES2013c.C.dialog-act.vkaraisk.44	Bear bear in mind it has to be the colours and styles of the company , 	
+ES2013c.C.dialog-act.vkaraisk.45	so what I had been thinking was something chunky and yellow and plastic with black buttons with a logo on it . 	
+ES2013c.B.dialog-act.vkaraisk.128	Banana ? 	
+ES2013c.D.dialog-act.vkaraisk.121	Alright , 	
+ES2013c.D.dialog-act.vkaraisk.122	well 	
+ES2013c.D.dialog-act.vkaraisk.123	let's see then . 	
+ES2013c.C.dialog-act.vkaraisk.46	But um 	
+ES2013c.C.dialog-act.vkaraisk.47	I I don't know how important that is to keep it exactly the colours of the Real Reaction company . 	
+ES2013c.D.dialog-act.vkaraisk.124	Yeah . 	
+ES2013c.C.dialog-act.vkaraisk.48	It's just what I'd understood we'd be doing . 	
+ES2013c.D.dialog-act.vkaraisk.125	Yeah . 	
+ES2013c.C.dialog-act.vkaraisk.49	That's before I heard about all this hot tips about the future , fruit-wise . 	
+ES2013c.D.dialog-act.vkaraisk.126	But yeah , 	
+ES2013c.D.dialog-act.vkaraisk.127	I'm trying to streamline mine a little bit . 	
+ES2013c.B.dialog-act.vkaraisk.129	We we could we could do um a double curved rubber one , 	
+ES2013c.B.dialog-act.vkaraisk.130	which would allow um say a banana , 	
+ES2013c.B.dialog-act.vkaraisk.131	but um unfortunately I see from my notes that if we do that , we have to have a push button as the interface , 	
+ES2013c.D.dialog-act.vkaraisk.128	Yeah . 	
+ES2013c.B.dialog-act.vkaraisk.132	we can't do anything fancier . 	
+ES2013c.D.dialog-act.vkaraisk.129	Hmm . 	
+ES2013c.C.dialog-act.vkaraisk.50	Shall we wait 'til I've 'til I've showed you what well , my extensive presentation on what sort of interfaces are available . 	
+ES2013c.B.dialog-act.vkaraisk.133		
+ES2013c.D.dialog-act.vkaraisk.130	Yeah . 	
+ES2013c.D.dialog-act.vkaraisk.131	Mm . 	
+ES2013c.B.dialog-act.vkaraisk.134	Yep . 	
+ES2013c.D.dialog-act.vkaraisk.132	Thank you , Kate . 	
+ES2013c.A.dialog-act.vkaraisk.106	Thank you , Kate . 	
+ES2013c.D.dialog-act.vkaraisk.133	Mm . 	
+ES2013c.C.dialog-act.vkaraisk.51	You did seem to include just in more detail what I've got though . 	
+ES2013c.C.dialog-act.vkaraisk.52	So so mine's a bit pointless . 	
+ES2013c.C.dialog-act.vkaraisk.53	Right . 	
+ES2013c.B.dialog-act.vkaraisk.135		
+ES2013c.C.dialog-act.vkaraisk.54	F_N_ and F_ eight , did you say ? 	
+ES2013c.A.dialog-act.vkaraisk.107	Yes . 	
+ES2013c.B.dialog-act.vkaraisk.136		
+ES2013c.A.dialog-act.vkaraisk.108	There we go . 	
+ES2013c.C.dialog-act.vkaraisk.55	I don't have it on mine though . 	
+ES2013c.B.dialog-act.vkaraisk.137		
+ES2013c.D.dialog-act.vkaraisk.134	Oh 	
+ES2013c.D.dialog-act.vkaraisk.135	I think um Florence resolved it by 	
+ES2013c.B.dialog-act.vkaraisk.138	I If you do F_ uh F_N_ F_ eight again , it's it'll 	
+ES2013c.A.dialog-act.vkaraisk.109	Do it again . 	
+ES2013c.D.dialog-act.vkaraisk.136	F_ eight again . 	
+ES2013c.A.dialog-act.vkaraisk.110	Keep doing it until you get it in both 	
+ES2013c.A.dialog-act.vkaraisk.111	you get it there , 	
+ES2013c.B.dialog-act.vkaraisk.139	I think it yeah , you you will do an 	
+ES2013c.A.dialog-act.vkaraisk.112	you get it yours without that one , 	
+ES2013c.A.dialog-act.vkaraisk.113	and then you get it with both . 	
+ES2013c.C.dialog-act.vkaraisk.56	Should I do it again ? 	
+ES2013c.D.dialog-act.vkaraisk.137	Maybe . 	
+ES2013c.A.dialog-act.vkaraisk.114	Yeah . 	
+ES2013c.B.dialog-act.vkaraisk.140		
+ES2013c.A.dialog-act.vkaraisk.115	This time it should come up both . 	
+ES2013c.C.dialog-act.vkaraisk.57	Right then . 	
+ES2013c.C.dialog-act.vkaraisk.58	I don't actually have a huge amount of different information then what Kate says , 	
+ES2013c.A.dialog-act.vkaraisk.116	Okay . 	
+ES2013c.C.dialog-act.vkaraisk.59	just that my method was to look at the , well , my my inspirations , 	
+ES2013c.C.dialog-act.vkaraisk.60	which was a big collection of lots of different models of remote controls and other things that use a similar sort of thing , including M_P_ three players , uh like you know , hi-fi remotes , not just television and these things . 	
+ES2013c.A.dialog-act.vkaraisk.117	Mm-hmm . 	
+ES2013c.A.dialog-act.vkaraisk.118	Mm . 	
+ES2013c.C.dialog-act.vkaraisk.61	Uh having a think about the feature of ea the features of each ones , 	
+ES2013c.C.dialog-act.vkaraisk.63	um what functions we actually need , 	
+ES2013c.C.dialog-act.vkaraisk.64	and then how to group and arrange these on the actual the actual plastic or rubber hand-held piece . 	
+ES2013c.C.dialog-act.vkaraisk.65	Uh I've been especially interested in the iPod style scroll wheel , 	
+ES2013c.C.dialog-act.vkaraisk.66	which 	
+ES2013c.C.dialog-act.vkaraisk.67	Well , 	
+ES2013c.C.dialog-act.vkaraisk.68	I couldn't find a 	
+ES2013c.C.dialog-act.vkaraisk.69	the picture of the iPod w only linked to a web browser , 	
+ES2013c.C.dialog-act.vkaraisk.70	so I couldn't copy and paste it , 	
+ES2013c.C.dialog-act.vkaraisk.71	but it had a similar thing to this thing on the right . 	
+ES2013c.C.dialog-act.vkaraisk.72	It has uh scroll wheels without without a display , 	
+ES2013c.C.dialog-act.vkaraisk.73	but they they scroll like a computer mouse . 	
+ES2013c.A.dialog-act.vkaraisk.119	Hmm . 	
+ES2013c.C.dialog-act.vkaraisk.74	So I was thinking that uh um a really simple a really simple interface with just a couple of scroll things on it um 	
+ES2013c.B.dialog-act.vkaraisk.141	Hmm . 	
+ES2013c.C.dialog-act.vkaraisk.75	and then instead of a display the display could appear on the television screen . 	
+ES2013c.C.dialog-act.vkaraisk.76	Like I guess an existing Sky or cable one does . 	
+ES2013c.C.dialog-act.vkaraisk.77	Like , you know , 	
+ES2013c.C.dialog-act.vkaraisk.78	you press enter 	
+ES2013c.C.dialog-act.vkaraisk.79	and it comes up with what's showing on that channel at the moment , 	
+ES2013c.C.dialog-act.vkaraisk.80	and you can do 	
+ES2013c.C.dialog-act.vkaraisk.81	you can scroll along 	
+ES2013c.C.dialog-act.vkaraisk.82	and it'll show you what's on in the next half hour , 	
+ES2013c.C.dialog-act.vkaraisk.83	and you scroll up 	
+ES2013c.D.dialog-act.vkaraisk.138		
+ES2013c.C.dialog-act.vkaraisk.84	and you can see what's on the other channels while you're watching the same channel on the screen . 	
+ES2013c.C.dialog-act.vkaraisk.85	Uh but I'm also equally taken with this chunky plastic kiddie remote , 	
+ES2013c.D.dialog-act.vkaraisk.139	Mm . 	
+ES2013c.C.dialog-act.vkaraisk.86	um which is really nice and fun and good to hold and nice , big , easy buttons to press , 	
+ES2013c.C.dialog-act.vkaraisk.87	but still quite simple and quite cost effective . 	
+ES2013c.C.dialog-act.vkaraisk.88	So 	
+ES2013c.A.dialog-act.vkaraisk.120		
+ES2013c.C.dialog-act.vkaraisk.89	what seems kind of ideal for me would be to just have a fairly simple , uh not fancy but not totally minimalist , I mean just pretty simple plastic , probably , 	
+ES2013c.C.dialog-act.vkaraisk.90	I was thinking , yellow and black , 	
+ES2013c.C.dialog-act.vkaraisk.91	just because that's the company's colours , 	
+ES2013c.C.dialog-act.vkaraisk.92	with very very few buttons , but that would correspond to a screen that would appear on the television screen , like , you know , just small along the bottom 	
+ES2013c.C.dialog-act.vkaraisk.93	instead of instead of having the iPod style display screen on the actual remotes , which is far too expensive . 	
+ES2013c.B.dialog-act.vkaraisk.142	Hmm . 	
+ES2013c.C.dialog-act.vkaraisk.94	And when you've got a screen sitting there in front of you , you might as well have it appearing uh on the screen in front of you , 	
+ES2013c.A.dialog-act.vkaraisk.121	Mm . 	
+ES2013c.C.dialog-act.vkaraisk.95	it doesn't obscure much of the actual picture you're watching . 	
+ES2013c.B.dialog-act.vkaraisk.143	Yeah . 	
+ES2013c.C.dialog-act.vkaraisk.96	And so on that you can , just much in the same way as an existing Sky remote , scroll along , scroll up and down . 	
+ES2013c.B.dialog-act.vkaraisk.144	Yeah , I'd I'd certainly support that idea . 	
+ES2013c.C.dialog-act.vkaraisk.97	And uh and I definitely support uh the use of plastic and or rubber . 	
+ES2013c.C.dialog-act.vkaraisk.98	I mean titanium would be great , 	
+ES2013c.C.dialog-act.vkaraisk.99	but I think it might be a bit too expensive and too kinda spacey . 	
+ES2013c.C.dialog-act.vkaraisk.100	If we're k trying to keep it colourful and slightly organic , then I think titanium's too futuristic . 	
+ES2013c.B.dialog-act.vkaraisk.145	It's difficult to make fancy shapes in it as well , 	
+ES2013c.B.dialog-act.vkaraisk.146	we can't for example have a double curved case in titanium unfortunately . 	
+ES2013c.C.dialog-act.vkaraisk.101	Yeah . 	
+ES2013c.C.dialog-act.vkaraisk.102	Whereas a plastic's so cheap and easy and mouldable and everything else . 	
+ES2013c.B.dialog-act.vkaraisk.147		
+ES2013c.D.dialog-act.vkaraisk.140	Hmm . 	
+ES2013c.C.dialog-act.vkaraisk.103	Uh then 	
+ES2013c.B.dialog-act.vkaraisk.148	And the the having the the the screen on the television screen I think is a good idea , 	
+ES2013c.B.dialog-act.vkaraisk.149	'cause um otherwise we're we're putting up the price not only for putting building the L_C_D_ in , but for the electronics as well . 	
+ES2013c.C.dialog-act.vkaraisk.104	And it's a little bit pointless as well I think . 	
+ES2013c.D.dialog-act.vkaraisk.141	It's a duplication . 	
+ES2013c.C.dialog-act.vkaraisk.108	Like 	
+ES2013c.B.dialog-act.vkaraisk.150	There is that . 	
+ES2013c.C.dialog-act.vkaraisk.105	when when when you've got when you've got the screen there , it doesn't have to be anything fancy , 	
+ES2013c.C.dialog-act.vkaraisk.106	just a little menu showing 	
+ES2013c.C.dialog-act.vkaraisk.107	yeah , 	
+ES2013c.C.dialog-act.vkaraisk.109	a menu , you go into one menu 	
+ES2013c.C.dialog-act.vkaraisk.110	and then it can have your different options , whether you wanna change the settings or the you know , your information about programme that's on at the moment . 	
+ES2013c.D.dialog-act.vkaraisk.142	Mm-hmm . 	
+ES2013c.C.dialog-act.vkaraisk.111	I don't think that's to taxing to uh s engineer . Um . 	
+ES2013c.C.dialog-act.vkaraisk.112	But as for actually arranging them let me go back to the to the picture of the kiddie one . 	
+ES2013c.C.dialog-act.vkaraisk.113	And I quite like it , 	
+ES2013c.C.dialog-act.vkaraisk.114	'cause it's just smooth and hand-held 	
+ES2013c.C.dialog-act.vkaraisk.115	and it's got these easily reachable buttons 	
+ES2013c.C.dialog-act.vkaraisk.116	that quite nicely uh spaced out , 	
+ES2013c.C.dialog-act.vkaraisk.117	so something a bit like that with buttons arranged in a kind of circle . Up , down , left , right . 	
+ES2013c.D.dialog-act.vkaraisk.143	Mm-hmm . 	
+ES2013c.B.dialog-act.vkaraisk.151	Do you want scroll buttons in that as well ? 	
+ES2013c.C.dialog-act.vkaraisk.118	I I was thinking not actually scroll , like a like mouse scroll , 	
+ES2013c.C.dialog-act.vkaraisk.119	but you know , a 	
+ES2013c.C.dialog-act.vkaraisk.120	I can't quite d uh describe it . 	
+ES2013c.C.dialog-act.vkaraisk.121	you see on the one on the right , down at the bottom , is the mouse . 	
+ES2013c.C.dialog-act.vkaraisk.122	Yeah , 	
+ES2013c.C.dialog-act.vkaraisk.123	see where the mouse is , 	
+ES2013c.C.dialog-act.vkaraisk.124	like this s style thing where you c have up , down , left and right . And enter in the middle , 	
+ES2013c.B.dialog-act.vkaraisk.152	Mm-hmm . 	
+ES2013c.B.dialog-act.vkaraisk.153	Right . 	
+ES2013c.C.dialog-act.vkaraisk.125	so you pick your menu and then your different options 	
+ES2013c.C.dialog-act.vkaraisk.126	and when when you click on each one , it you can go into a new menu for that . 	
+ES2013c.C.dialog-act.vkaraisk.127	I'm getting a bit uh specific here . 	
+ES2013c.D.dialog-act.vkaraisk.144		
+ES2013c.C.dialog-act.vkaraisk.128	Really we'd have to use something to show you , 	
+ES2013c.B.dialog-act.vkaraisk.154	Yeah . 	
+ES2013c.B.dialog-act.vkaraisk.155	I think I think that's a g nice clean design , 	
+ES2013c.C.dialog-act.vkaraisk.129	but 	
+ES2013c.B.dialog-act.vkaraisk.156	it's playing to our strengths 	
+ES2013c.B.dialog-act.vkaraisk.157	which are in push button technology . 	
+ES2013c.D.dialog-act.vkaraisk.145	To uh m make it . 	
+ES2013c.C.dialog-act.vkaraisk.130	If 	
+ES2013c.C.dialog-act.vkaraisk.131	I don't think I can get it up on the screen . 	
+ES2013c.C.dialog-act.vkaraisk.132	Ah here we go . 	
+ES2013c.C.dialog-act.vkaraisk.133	Right . 	
+ES2013c.D.dialog-act.vkaraisk.146	Oh 	
+ES2013c.D.dialog-act.vkaraisk.147	nice . 	
+ES2013c.D.dialog-act.vkaraisk.148	Um Hmm . 	
+ES2013c.C.dialog-act.vkaraisk.134	Well , 	
+ES2013c.C.dialog-act.vkaraisk.135	the iPod spinning wheel is uh really complicated . 	
+ES2013c.A.dialog-act.vkaraisk.122	Huh . 	
+ES2013c.C.dialog-act.vkaraisk.136	It does scroll , 	
+ES2013c.B.dialog-act.vkaraisk.158	Yeah . 	
+ES2013c.C.dialog-act.vkaraisk.137	but it is hugely complicated . 	
+ES2013c.D.dialog-act.vkaraisk.149	Mm . 	
+ES2013c.C.dialog-act.vkaraisk.138	What else have we got ? 	
+ES2013c.D.dialog-act.vkaraisk.150	Wow . 	
+ES2013c.C.dialog-act.vkaraisk.139	Them , they're terrible . 	
+ES2013c.C.dialog-act.vkaraisk.140	But they all have this this feature of this uh It's not quite a scroll wheel , but it's a kind of selection in this circle , 	
+ES2013c.A.dialog-act.vkaraisk.123	It's a selection wheel . 	
+ES2013c.C.dialog-act.vkaraisk.141	which I think is a really good idea . 	
+ES2013c.B.dialog-act.vkaraisk.159	But we can implement it with simple push buttons , 	
+ES2013c.C.dialog-act.vkaraisk.142	Yeah , 	
+ES2013c.B.dialog-act.vkaraisk.160	which is much cheaper . 	
+ES2013c.C.dialog-act.vkaraisk.144	like up , down , left and right . 	
+ES2013c.C.dialog-act.vkaraisk.145	Which is good . 	
+ES2013c.C.dialog-act.vkaraisk.146	And then and then 	
+ES2013c.C.dialog-act.vkaraisk.147	Yeah , so I mean 	
+ES2013c.C.dialog-act.vkaraisk.148	either a channel up and down , volume up and down , next appearing programmes up and down , uh and then also when you get into the different menus on the screen , it's got your things like settings and contrast up and down . 	
+ES2013c.A.dialog-act.vkaraisk.124	Okay . 	
+ES2013c.C.dialog-act.vkaraisk.149	So all you really need is these four buttons with the enter in the middle . 	
+ES2013c.A.dialog-act.vkaraisk.125	Okay . 	
+ES2013c.C.dialog-act.vkaraisk.150	And that's it . 	
+ES2013c.C.dialog-act.vkaraisk.151	Look at look at this one . 	
+ES2013c.B.dialog-act.vkaraisk.161	In fact 	
+ES2013c.B.dialog-act.vkaraisk.162	Oh 	
+ES2013c.B.dialog-act.vkaraisk.163	that's really nice . 	
+ES2013c.C.dialog-act.vkaraisk.152	Almost impossible to misplace or l or lose . 	
+ES2013c.A.dialog-act.vkaraisk.126		
+ES2013c.D.dialog-act.vkaraisk.151	Do you think with um 	
+ES2013c.A.dialog-act.vkaraisk.127		
+ES2013c.C.dialog-act.vkaraisk.153	Might take up your whole living room . 	
+ES2013c.D.dialog-act.vkaraisk.152	It seems that that uh you guys are quite keen on the plastic , 	
+ES2013c.D.dialog-act.vkaraisk.153	perhaps the something reminiscent of the child's remote . 	
+ES2013c.D.dialog-act.vkaraisk.154	Do you think we could put it in a in a fruit colour ? And have it abstract . 	
+ES2013c.D.dialog-act.vkaraisk.155	You know , 	
+ES2013c.D.dialog-act.vkaraisk.156	we could call like a fruit name , 	
+ES2013c.C.dialog-act.vkaraisk.154	Possibly . 	
+ES2013c.C.dialog-act.vkaraisk.155	Yeah . 	
+ES2013c.B.dialog-act.vkaraisk.164	Hmm . 	
+ES2013c.D.dialog-act.vkaraisk.157	but it would be a little more abstract . 	
+ES2013c.B.dialog-act.vkaraisk.165	Mm . We we could actually do it in rubber instead of plastic if you'd rather if you feel if you like the spongy 	
+ES2013c.C.dialog-act.vkaraisk.156	That also is possible . 	
+ES2013c.D.dialog-act.vkaraisk.158	Mm-hmm . 	
+ES2013c.D.dialog-act.vkaraisk.159	I'm just just throwing out ideas . 	
+ES2013c.C.dialog-act.vkaraisk.157	Just 	
+ES2013c.A.dialog-act.vkaraisk.128	Or call it a or call it a banana 	
+ES2013c.A.dialog-act.vkaraisk.129	and have it in yellow . 	
+ES2013c.B.dialog-act.vkaraisk.166	Hmm . 	
+ES2013c.D.dialog-act.vkaraisk.160	Yeah . 	
+ES2013c.D.dialog-act.vkaraisk.161	I'm thinking maybe we need to be a little bit more abstract if the design constraints are so 	
+ES2013c.A.dialog-act.vkaraisk.130	Okay . 	
+ES2013c.B.dialog-act.vkaraisk.167	Yeah . 	
+ES2013c.C.dialog-act.vkaraisk.158	Uh just something else I need to bring to your attention 	
+ES2013c.C.dialog-act.vkaraisk.159	is have you have you seen these on a remote ? 	
+ES2013c.C.dialog-act.vkaraisk.160	This is actually the volume up and down , 	
+ES2013c.C.dialog-act.vkaraisk.161	but they both say V_ on them , 	
+ES2013c.A.dialog-act.vkaraisk.131	Mm-hmm . 	
+ES2013c.A.dialog-act.vkaraisk.132	Mm-hmm . 	
+ES2013c.C.dialog-act.vkaraisk.162	which , when you first look at it , you expect that to be the down , 	
+ES2013c.C.dialog-act.vkaraisk.163	because it looks like a downward pointing arrow , 	
+ES2013c.D.dialog-act.vkaraisk.162	Mm-hmm . 	
+ES2013c.B.dialog-act.vkaraisk.168	Yeah . 	
+ES2013c.C.dialog-act.vkaraisk.164	but it's actually the V_ to indicate that it's the volume , 	
+ES2013c.A.dialog-act.vkaraisk.133	Hmm . 	
+ES2013c.D.dialog-act.vkaraisk.163	Mm-hmm . 	
+ES2013c.C.dialog-act.vkaraisk.165	so uh we do need to avoid little ambiguities like these . 	
+ES2013c.B.dialog-act.vkaraisk.169	Yeah . 	
+ES2013c.A.dialog-act.vkaraisk.134	Hmm . 	
+ES2013c.D.dialog-act.vkaraisk.164	Nice . Good point . 	
+ES2013c.C.dialog-act.vkaraisk.167	But we wouldn't have a specific volume up and down . 	
+ES2013c.C.dialog-act.vkaraisk.166	If we're having the scroll wheel , then it's gonna double up as all the other up and down functions . 	
+ES2013c.A.dialog-act.vkaraisk.135	Mm 'kay . 	
+ES2013c.C.dialog-act.vkaraisk.168	But then , that's complicated . 	
+ES2013c.A.dialog-act.vkaraisk.136	I wanna thank you all for all your presentations . 	
+ES2013c.A.dialog-act.vkaraisk.137	We have about ten minutes left , 	
+ES2013c.A.dialog-act.vkaraisk.138	in which time we have to make some decisions on the remote control concepts . 	
+ES2013c.A.dialog-act.vkaraisk.139	Um and I think you all have been self-stimulating of working together . 	
+ES2013c.A.dialog-act.vkaraisk.140	Um we need to come up with some specifics of the components , um the materials , things like making the decision on the energy um and the case and the interface type things . 	
+ES2013c.A.dialog-act.vkaraisk.141	So 	
+ES2013c.A.dialog-act.vkaraisk.142	let's 	
+ES2013c.A.dialog-act.vkaraisk.143	Mm . Right . 	
+ES2013c.A.dialog-act.vkaraisk.144	They want us to decide what form of energy are we going to use , 	
+ES2013c.A.dialog-act.vkaraisk.145	which the choices that we've discussed were pretty much battery , kinetic or solar . 	
+ES2013c.A.dialog-act.vkaraisk.146	Um this is where Kate's expertise comes in , 	
+ES2013c.A.dialog-act.vkaraisk.147	and our decision making will be a little bit guided by Kate at this point . 	
+ES2013c.B.dialog-act.vkaraisk.170		
+ES2013c.A.dialog-act.vkaraisk.148	The 	
+ES2013c.A.dialog-act.vkaraisk.149	You were saying that the kinetic would be useful , 	
+ES2013c.A.dialog-act.vkaraisk.150	that is you just have to move it some and you'd be able to use it 	
+ES2013c.A.dialog-act.vkaraisk.151	um as opposed to a battery that you have to either put it in a recharger or um keep replacing the batteries . Um 	
+ES2013c.A.dialog-act.vkaraisk.152	or solar that you'd have difficulty with it if it's a dark day , that it'll die on you , and no way to do it . 	
+ES2013c.A.dialog-act.vkaraisk.153	That's the day you wanna use the T_V_ . 	
+ES2013c.B.dialog-act.vkaraisk.171	Mm . 	
+ES2013c.A.dialog-act.vkaraisk.154	Um so what's our pleasure here , what would be the cost consequences of each of the three ? 	
+ES2013c.B.dialog-act.vkaraisk.172	Oh 	
+ES2013c.B.dialog-act.vkaraisk.173	unfortunately I don't have costing information . 	
+ES2013c.A.dialog-act.vkaraisk.155	Okay . 	
+ES2013c.B.dialog-act.vkaraisk.174	I i in terms of workability , I I think the the two front-runners are the standard battery or the kinetic , 	
+ES2013c.B.dialog-act.vkaraisk.175	but I'm sorry 	
+ES2013c.A.dialog-act.vkaraisk.156	Mm 'kay . 	
+ES2013c.B.dialog-act.vkaraisk.176	I don't figures on the difference in cost . 	
+ES2013c.A.dialog-act.vkaraisk.157	What's the uh feelings of the group on the kinetic ? 	
+ES2013c.D.dialog-act.vkaraisk.165	I've used kinetic in terms of watches 	
+ES2013c.D.dialog-act.vkaraisk.166	and it's very very uh handy , 	
+ES2013c.D.dialog-act.vkaraisk.167	you don't even notice um that it's there . 	
+ES2013c.C.dialog-act.vkaraisk.169	It sounds great . 	
+ES2013c.C.dialog-act.vkaraisk.170	I've never come across it before , 	
+ES2013c.C.dialog-act.vkaraisk.171	but it sounds fantastic . 	
+ES2013c.C.dialog-act.vkaraisk.172	Sounds like it could be g a really good economical 	
+ES2013c.D.dialog-act.vkaraisk.168	It's 	
+ES2013c.D.dialog-act.vkaraisk.169	Mm-hmm . 	
+ES2013c.C.dialog-act.vkaraisk.173	it would make the whole thing a lot lighter , more convenient . 	
+ES2013c.A.dialog-act.vkaraisk.158	Hmm . 	
+ES2013c.D.dialog-act.vkaraisk.170	It could tie in with the fanciful design 	
+ES2013c.D.dialog-act.vkaraisk.171	as 	
+ES2013c.A.dialog-act.vkaraisk.159	Hmm . 	
+ES2013c.C.dialog-act.vkaraisk.174	Yeah . 	
+ES2013c.D.dialog-act.vkaraisk.172	uh , you know , 	
+ES2013c.C.dialog-act.vkaraisk.175	'Cause it's really a quite attractive thought , 	
+ES2013c.D.dialog-act.vkaraisk.173	throw the banana , you know , just gotta keep it moving . 	
+ES2013c.C.dialog-act.vkaraisk.176	isn't it ? 	
+ES2013c.C.dialog-act.vkaraisk.177	It's like 	
+ES2013c.C.dialog-act.vkaraisk.178	yeah , 	
+ES2013c.C.dialog-act.vkaraisk.179	a good selling point . 	
+ES2013c.A.dialog-act.vkaraisk.160	So the consensus seems to be use the kinetic if it's at all possible . 	
+ES2013c.D.dialog-act.vkaraisk.174	Be 	
+ES2013c.C.dialog-act.vkaraisk.180	But it does depend how much I mean how much it costs and how much more development and research it needs . 	
+ES2013c.A.dialog-act.vkaraisk.161	It costs . 	
+ES2013c.D.dialog-act.vkaraisk.175	Yeah . 	
+ES2013c.A.dialog-act.vkaraisk.162	Mm . 	
+ES2013c.B.dialog-act.vkaraisk.177	And and how much you do have to keep it moving , 	
+ES2013c.A.dialog-act.vkaraisk.163	Mm . 	
+ES2013c.D.dialog-act.vkaraisk.176	Yeah . 	
+ES2013c.B.dialog-act.vkaraisk.178	'cause I'm conscious that watching T_V_ can be quite a sed sedentary activity . 	
+ES2013c.D.dialog-act.vkaraisk.177	Mm-hmm . 	
+ES2013c.D.dialog-act.vkaraisk.178	But I could market that as a um as a a I was thinking actually a a cost saver down the road , in terms of battery , you know . 	
+ES2013c.A.dialog-act.vkaraisk.164	Mm . 	
+ES2013c.C.dialog-act.vkaraisk.182	Do your exercises while you're watching the T_V_ . 	
+ES2013c.B.dialog-act.vkaraisk.179	Yeah . 	
+ES2013c.A.dialog-act.vkaraisk.165	Hmm . 	
+ES2013c.B.dialog-act.vkaraisk.180	True , yeah , 	
+ES2013c.B.dialog-act.vkaraisk.181	m more more environmentally friendly . 	
+ES2013c.C.dialog-act.vkaraisk.183	Yeah , that's what I was thinking as well . 	
+ES2013c.D.dialog-act.vkaraisk.179	Mm-hmm . You know , 	
+ES2013c.A.dialog-act.vkaraisk.166	Yeah . 	
+ES2013c.D.dialog-act.vkaraisk.180	kind of the 	
+ES2013c.A.dialog-act.vkaraisk.167	Thanks for the reminder for five minutes to finish , thanks . 	
+ES2013c.B.dialog-act.vkaraisk.182	Oh right , okay , 	
+ES2013c.A.dialog-act.vkaraisk.168	Um the next thing that they wanted us to do was look at chip on print as a decision . 	
+ES2013c.B.dialog-act.vkaraisk.183	I'd 	
+ES2013c.B.dialog-act.vkaraisk.184	that that's something I maybe should have covered . 	
+ES2013c.B.dialog-act.vkaraisk.185	Um chip on print is just a manufacturing technique 	
+ES2013c.A.dialog-act.vkaraisk.169	Oh . 	
+ES2013c.B.dialog-act.vkaraisk.186	um and I would certainly recommend it , I think , 	
+ES2013c.B.dialog-act.vkaraisk.187	because I'm not sure I have an alternative . 	
+ES2013c.C.dialog-act.vkaraisk.184		
+ES2013c.A.dialog-act.vkaraisk.170	Okay . 	
+ES2013c.B.dialog-act.vkaraisk.188	I i it it's just the way that the the the uh th the way it's ac it's actually built 	
+ES2013c.A.dialog-act.vkaraisk.171	What about the ca 	
+ES2013c.A.dialog-act.vkaraisk.172	yeah . 	
+ES2013c.A.dialog-act.vkaraisk.173	Oh , 	
+ES2013c.A.dialog-act.vkaraisk.174	the way we 	
+ES2013c.A.dialog-act.vkaraisk.175	uh-huh . 	
+ES2013c.B.dialog-act.vkaraisk.189	and you you print onto the circuit board like you might print onto paper . 	
+ES2013c.A.dialog-act.vkaraisk.176	Oh , okay . 	
+ES2013c.A.dialog-act.vkaraisk.177	Um what about the case ? 	
+ES2013c.A.dialog-act.vkaraisk.178	I think they're talking there about do we want wood , plastic , titanium or rubber , 	
+ES2013c.B.dialog-act.vkaraisk.190		
+ES2013c.A.dialog-act.vkaraisk.179	and I think we've discussed not having titanium . 	
+ES2013c.A.dialog-act.vkaraisk.180	One , it's too expensive , 	
+ES2013c.A.dialog-act.vkaraisk.181	um and second , it won't do this double um curves . 	
+ES2013c.A.dialog-act.vkaraisk.182	Um we've sort of eliminated wood . 	
+ES2013c.A.dialog-act.vkaraisk.183	We said plastic or rubber . 	
+ES2013c.A.dialog-act.vkaraisk.184	What's the pleasure ? 	
+ES2013c.B.dialog-act.vkaraisk.191	Well 	
+ES2013c.B.dialog-act.vkaraisk.192	if if Sarah's keen on a spongy feel , 	
+ES2013c.B.dialog-act.vkaraisk.193	the the rubber that we're talking about is the same as you have in those little stress balls , 	
+ES2013c.D.dialog-act.vkaraisk.181	That's exactly what I was thinking . I'm sold . 	
+ES2013c.B.dialog-act.vkaraisk.194	so it's 	
+ES2013c.B.dialog-act.vkaraisk.195	yeah . 	
+ES2013c.A.dialog-act.vkaraisk.185	What about you ? 	
+ES2013c.C.dialog-act.vkaraisk.185	Do you not think it might need like a kind of a hard plastic inner shell with the actual delicate workings inside , and then a kind of spongy Yeah , s thick spongy cover , 	
+ES2013c.D.dialog-act.vkaraisk.182	Mm . 	
+ES2013c.D.dialog-act.vkaraisk.183	Kind of like an internal egg . 	
+ES2013c.A.dialog-act.vkaraisk.186	Cover . 	
+ES2013c.C.dialog-act.vkaraisk.188	so it feels like the whole thing's spongy , 	
+ES2013c.C.dialog-act.vkaraisk.189	but actually you're not damaging anything by squeezing it . 	
+ES2013c.A.dialog-act.vkaraisk.187	Plastic inside . 	
+ES2013c.D.dialog-act.vkaraisk.184	Yeah . 	
+ES2013c.C.dialog-act.vkaraisk.190	Because I mean you could just get carried away with the with the tac 	
+ES2013c.B.dialog-act.vkaraisk.196	Yeah . 	
+ES2013c.B.dialog-act.vkaraisk.197	I'd I'd need to talk to manufacturing again about whether that's actually possible , 	
+ES2013c.B.dialog-act.vkaraisk.198	but I agree , it's uh sounds like a nice idea if it is . 	
+ES2013c.C.dialog-act.vkaraisk.191	Yeah . 	
+ES2013c.C.dialog-act.vkaraisk.192	Well 	
+ES2013c.C.dialog-act.vkaraisk.193	you do get a bit carried away with things that are tactile , 	
+ES2013c.C.dialog-act.vkaraisk.194	you just wanna stroke them and squeeze them , 	
+ES2013c.A.dialog-act.vkaraisk.188	Hmm . 	
+ES2013c.B.dialog-act.vkaraisk.199		
+ES2013c.D.dialog-act.vkaraisk.185	And with sports on television . 	
+ES2013c.A.dialog-act.vkaraisk.189	Okay . 	
+ES2013c.C.dialog-act.vkaraisk.195	and 	
+ES2013c.D.dialog-act.vkaraisk.186	You know . 	
+ES2013c.A.dialog-act.vkaraisk.190	Um the next part they want is the user interface concept . 	
+ES2013c.D.dialog-act.vkaraisk.187	I su 	
+ES2013c.B.dialog-act.vkaraisk.200	I should I should r 	
+ES2013c.A.dialog-act.vkaraisk.191	I'm sorry to push you , 	
+ES2013c.A.dialog-act.vkaraisk.192	but we only have a couple minutes to finish with . 	
+ES2013c.D.dialog-act.vkaraisk.188	Then I'll just say I support either from a marketing point of view I support either decision that the designers make on that . 	
+ES2013c.A.dialog-act.vkaraisk.193	Okay , 	
+ES2013c.A.dialog-act.vkaraisk.194	and it says interface . What type and what supplements ? 	
+ES2013c.C.dialog-act.vkaraisk.196	Just copy the one on the left . 	
+ES2013c.C.dialog-act.vkaraisk.197	No 	
+ES2013c.C.dialog-act.vkaraisk.198	um a scroll 	
+ES2013c.C.dialog-act.vkaraisk.199	Well , 	
+ES2013c.C.dialog-act.vkaraisk.200	like four buttons , up , down , left and right with enter in the middle , that will correspond to a menu on the screen . 	
+ES2013c.B.dialog-act.vkaraisk.201	Which I think technically is just push button 	
+ES2013c.B.dialog-act.vkaraisk.202	and uh I'd certainly support that that 	
+ES2013c.C.dialog-act.vkaraisk.201	Yeah , 	
+ES2013c.C.dialog-act.vkaraisk.202	I'd like push buttons with 	
+ES2013c.B.dialog-act.vkaraisk.203	that brings the cost down quite a lot 	
+ES2013c.B.dialog-act.vkaraisk.204	and it's something that we're an ex the company's an expert on . 	
+ES2013c.C.dialog-act.vkaraisk.203	So 	
+ES2013c.C.dialog-act.vkaraisk.204	push buttons 	
+ES2013c.A.dialog-act.vkaraisk.195	Okay , um 	
+ES2013c.A.dialog-act.vkaraisk.196	that's that . 	
+ES2013c.A.dialog-act.vkaraisk.197	Um this is gonna sound weird , 	
+ES2013c.A.dialog-act.vkaraisk.198	but the next meeting starts in thirty minutes . 	
+ES2013c.A.dialog-act.vkaraisk.199	Whew . 	
+ES2013c.B.dialog-act.vkaraisk.205		
+ES2013c.A.dialog-act.vkaraisk.200	And they actually want a look and feel design , user interface design , 	
+ES2013c.A.dialog-act.vkaraisk.201	you can look and see this as well as I can . 	
+ES2013c.A.dialog-act.vkaraisk.202	Marketing they want product evaluation . 	
+ES2013c.C.dialog-act.vkaraisk.205	No , 	
+ES2013c.C.dialog-act.vkaraisk.206	it's still it's still plugged in on mine actually . 	
+ES2013c.D.dialog-act.vkaraisk.189	No we can't , actually . 	
+ES2013c.A.dialog-act.vkaraisk.203	Oh . 	
+ES2013c.A.dialog-act.vkaraisk.204	Oh my , I'm sorry . 	
+ES2013c.D.dialog-act.vkaraisk.190	That's why I was looking over your shoulder 	
+ES2013c.A.dialog-act.vkaraisk.205	Oh , okay . 	
+ES2013c.A.dialog-act.vkaraisk.206	Sorry about that . 	
+ES2013c.A.dialog-act.vkaraisk.207	missed that one . 	
+ES2013c.A.dialog-act.vkaraisk.208	This ought to be fun trying to get this thing to work . 	
+ES2013c.A.dialog-act.vkaraisk.209	Ah , ta-da . 	
+ES2013c.C.dialog-act.vkaraisk.207	Now it's gone again . 	
+ES2013c.B.dialog-act.vkaraisk.206		
+ES2013c.A.dialog-act.vkaraisk.210	Ah . 	
+ES2013c.B.dialog-act.vkaraisk.207	You know , 	
+ES2013c.B.dialog-act.vkaraisk.208	I think the the company's s next project should to design a better overhead device that switches immediately . 	
+ES2013c.A.dialog-act.vkaraisk.211	Yes , 	
+ES2013c.A.dialog-act.vkaraisk.212	because I can't even see mine . 	
+ES2013c.A.dialog-act.vkaraisk.213	Next meeting starts in thirty minutes , 	
+ES2013c.C.dialog-act.vkaraisk.208	Oh yes . 	
+ES2013c.A.dialog-act.vkaraisk.214	these are the individual actions . 	
+ES2013c.A.dialog-act.vkaraisk.215	Yeah , right . 	
+ES2013c.A.dialog-act.vkaraisk.216	Um the look and feel design is for Kate , 	
+ES2013c.D.dialog-act.vkaraisk.191	Mm . 	
+ES2013c.A.dialog-act.vkaraisk.217	uh Steph gets the user interface design , 	
+ES2013c.A.dialog-act.vkaraisk.218	you get product evaluation . 	
+ES2013c.A.dialog-act.vkaraisk.219	Um the two of you get to play with a Pla modelling clay um to do a prototype . 	
+ES2013c.C.dialog-act.vkaraisk.209	Great . 	
+ES2013c.A.dialog-act.vkaraisk.220	Uh and everybody gets individual instructions in the usual way . 	
+ES2013c.D.dialog-act.vkaraisk.192	Sounds good . 	
+ES2013c.A.dialog-act.vkaraisk.221	Anything else we need to do ? 	
+ES2013c.C.dialog-act.vkaraisk.210	I don't think so . 	
+ES2013c.A.dialog-act.vkaraisk.222	Go to it . 	
+ES2013c.C.dialog-act.vkaraisk.211	Play-Doh . 	
+ES2013c.A.dialog-act.vkaraisk.223	And that's the end of this meeting . 	
+ES2013c.A.dialog-act.vkaraisk.224	That's for her benefit . 	
+ES2013c.D.dialog-act.vkaraisk.193	That's really all I got , guys . 	
+ES2013c.B.dialog-act.vkaraisk.209		
+

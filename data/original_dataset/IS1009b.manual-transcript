@@ -1,0 +1,708 @@
+Observation: IS1009b; Result size: 705; atts: 2
+$d@nite:id	$d	
+IS1009b.A.dialog-act.dharshi.1	Okay , is everybody ready ? 	
+IS1009b.C.dialog-act.dharshi.1	Yeah ? 	
+IS1009b.D.dialog-act.dharshi.1	Yeah I'd to just put on my microphone here and I'll be right with you . 	
+IS1009b.A.dialog-act.dharshi.2	Mm-hmm . 	
+IS1009b.D.dialog-act.dharshi.2	Okay ? 	
+IS1009b.A.dialog-act.dharshi.3	Um 	
+IS1009b.A.dialog-act.dharshi.4	I take it you all have received instructions as to what you were supposed to do 	
+IS1009b.C.dialog-act.dharshi.2	Mm ? 	
+IS1009b.B.dialog-act.dharshi.1	Yes . 	
+IS1009b.A.dialog-act.dharshi.5	and um 	
+IS1009b.A.dialog-act.dharshi.6	I think the Marketing Manager probably should go first , addressing the needs and desires . 	
+IS1009b.D.dialog-act.dharshi.3	Okay 	
+IS1009b.D.dialog-act.dharshi.4	you want me to start right now ? 	
+IS1009b.A.dialog-act.dharshi.7	Yeah , mm-hmm . 	
+IS1009b.D.dialog-act.dharshi.5	Okay . 	
+IS1009b.A.dialog-act.dharshi.8		
+IS1009b.D.dialog-act.dharshi.6	Well , could you um put my slides up 	
+IS1009b.D.dialog-act.dharshi.7	'cause I think it might be helpful if uh we looked at the slides at the same time . 	
+IS1009b.A.dialog-act.dharshi.9	Okay . 	
+IS1009b.A.dialog-act.dharshi.10	You're participant four . 	
+IS1009b.D.dialog-act.dharshi.8	I'm participant four I believe . Yes uh-huh . 	
+IS1009b.D.dialog-act.dharshi.9	'Kay . 	
+IS1009b.A.dialog-act.dharshi.11	Okay , and now I can uh full screen . 	
+IS1009b.C.dialog-act.dharshi.3	Open . 	
+IS1009b.A.dialog-act.dharshi.12	Uh , okay , okay . 	
+IS1009b.D.dialog-act.dharshi.10	There we go . 	
+IS1009b.D.dialog-act.dharshi.11	Okay well I think we have introduced ourselves , 	
+IS1009b.C.dialog-act.dharshi.4	And then full screen . 	
+IS1009b.D.dialog-act.dharshi.12	so the functional requirements are is is part of my goal 	
+IS1009b.D.dialog-act.dharshi.13	but why don't we pass right to the second slide . 	
+IS1009b.D.dialog-act.dharshi.14	Cause that's where m my discussion starts . 	
+IS1009b.D.dialog-act.dharshi.15	Right well um since I'm in charge of trying to figure out what we should put on this thing since I have to try to sell it . 	
+IS1009b.C.dialog-act.dharshi.5	Mm-hmm . 	
+IS1009b.D.dialog-act.dharshi.16	Um I thought that the method I should follow would be gather suggestions from everybody , 	
+IS1009b.D.dialog-act.dharshi.17	and th the reason I just put that there like that is that uh in the init in the initial stage I think I should just be open to lots of suggestions . 	
+IS1009b.D.dialog-act.dharshi.18	You know you can say anything you want no matter how silly it sounds 	
+IS1009b.D.dialog-act.dharshi.19	you know it should run your car , it should heat up your motor if should um turn on your C_D_ 	
+IS1009b.D.dialog-act.dharshi.20	whatever you want it to do 	
+IS1009b.C.dialog-act.dharshi.6	'Kay . 	
+IS1009b.D.dialog-act.dharshi.21	um and then as we go on what we'll have to do is accept and eliminate these suggestions according to um design and budget feasibility . 	
+IS1009b.D.dialog-act.dharshi.22	So I'll be coming to you um frequently as the Industrial Expert to tell me how hard it's gonna be to add a feature or how expensive it's gonna be or if your time , if it takes five years to develop this it's just something we can't do . 	
+IS1009b.C.dialog-act.dharshi.7	Mm-hmm . 	
+IS1009b.C.dialog-act.dharshi.8	Yeah . 	
+IS1009b.C.dialog-act.dharshi.9	Yeah . 	
+IS1009b.C.dialog-act.dharshi.10	Yeah . 	
+IS1009b.C.dialog-act.dharshi.11	Hmm hmm . 	
+IS1009b.C.dialog-act.dharshi.12	Mm . 	
+IS1009b.D.dialog-act.dharshi.23	So in the beginning just have a big puddle of things that we anybody can th throw anything in 	
+IS1009b.C.dialog-act.dharshi.13	Yeah . 	
+IS1009b.D.dialog-act.dharshi.24	and then just weed things out that can't be done for one reason or another , 	
+IS1009b.D.dialog-act.dharshi.25	and then the things that seem the most attractive that to uh to a customer we'll try to then prioritise those . 	
+IS1009b.C.dialog-act.dharshi.14	Mm-hmm . 	
+IS1009b.C.dialog-act.dharshi.15	Yeah . 	
+IS1009b.D.dialog-act.dharshi.26	So that was um what I meant there , 	
+IS1009b.D.dialog-act.dharshi.27	and as I said on the slide there consulting the Industrial Engineer about that 	
+IS1009b.D.dialog-act.dharshi.28	and the other thing is timing is really gonna be as important as money , 	
+IS1009b.D.dialog-act.dharshi.29	because if we're gonna sell this thing , I think the best time to sell it is as a Christmas present . 	
+IS1009b.D.dialog-act.dharshi.30	Twenty five Euros makes a nice little present , 	
+IS1009b.D.dialog-act.dharshi.31	and we want it to be an impulse purchase , 	
+IS1009b.D.dialog-act.dharshi.32	we want somebody to see it and think it's , gee I just gotta have that . 	
+IS1009b.C.dialog-act.dharshi.16	Mm . 	
+IS1009b.D.dialog-act.dharshi.33	And take out their wallet and buy it . 	
+IS1009b.D.dialog-act.dharshi.34	So it's gotta be really attractive 	
+IS1009b.D.dialog-act.dharshi.35	and it 	
+IS1009b.D.dialog-act.dharshi.36	but it's gotta go to market by September , 	
+IS1009b.D.dialog-act.dharshi.37	'cause anything that you don't already have out there in September showing it around , isn't gonna sell for Christmas . 	
+IS1009b.C.dialog-act.dharshi.17	Yeah . 	
+IS1009b.D.dialog-act.dharshi.38	Um and then I'll be coming to you as the User Interface person to try to tell me from your point of view what are the most friendly features that we could put on it 	
+IS1009b.D.dialog-act.dharshi.39	and try to prior help me with that prioritising of uh of the features and of the the look and the colour 	
+IS1009b.B.dialog-act.dharshi.2	Okay . 	
+IS1009b.D.dialog-act.dharshi.40	and I'll be coming back to you to help weed out those suggestions from that point of view . 	
+IS1009b.B.dialog-act.dharshi.3	Okay . 	
+IS1009b.D.dialog-act.dharshi.41	So I'll be coming to you for how much is it gonna cost us and how long is it gonna take you , 	
+IS1009b.C.dialog-act.dharshi.18	Mm mm-hmm . 	
+IS1009b.D.dialog-act.dharshi.42	and I'll be coming to you to tell me what's gonna make somebody take out their wallet you know , 	
+IS1009b.B.dialog-act.dharshi.5	What features . 	
+IS1009b.D.dialog-act.dharshi.43	what what's what's gonna really be what they call a sizzle , 	
+IS1009b.D.dialog-act.dharshi.44	'cause we gotta sell this sizzle . 	
+IS1009b.B.dialog-act.dharshi.4	S sellable . Yes . 	
+IS1009b.C.dialog-act.dharshi.19		
+IS1009b.D.dialog-act.dharshi.45	A lot of times the thing that works the best from an engineering point of view isn't the thing that somebody's really just gonna take out their wallet and buy for Christmas for for their child or for their husband or whatever . 	
+IS1009b.B.dialog-act.dharshi.6	Yes . 	
+IS1009b.D.dialog-act.dharshi.46	Okay can we go to the next slide please ? 	
+IS1009b.D.dialog-act.dharshi.47	Alright I I already did a little bit of research after our first meeting where we threw out some ideas 	
+IS1009b.D.dialog-act.dharshi.48	and it looks to me that within the budget that we're looking at the uh the whole house idea really isn't gonna be possible . 	
+IS1009b.D.dialog-act.dharshi.49	So I'd like your suggestions to come back to the other slide where I was saying we we could suggest anything . 	
+IS1009b.A.dialog-act.dharshi.13		
+IS1009b.D.dialog-act.dharshi.50	I'd like the suggestions to be really specific , so that we'll have a list of things we can cross off , not something like you know whole house control 	
+IS1009b.D.dialog-act.dharshi.51	what'll be 	
+IS1009b.D.dialog-act.dharshi.52	And then I found on the internet from from my research that some extended electronic entertainment control should be possible . 	
+IS1009b.D.dialog-act.dharshi.53	At the budget that we're looking at and at the price point we're looking at , we should be able to make it work the T_V_ , the V_C_R_ , the stereo set um maybe something else cute like a coffee pot or one other appliance or maybe a lamp . 	
+IS1009b.A.dialog-act.dharshi.14	Uh okay , can can I at this point interject um something ? 	
+IS1009b.D.dialog-act.dharshi.54	I have to wind up ? 	
+IS1009b.D.dialog-act.dharshi.55	Yeah , sure . 	
+IS1009b.A.dialog-act.dharshi.15	Um we have received instruction from higher up that certain things should not be uh considered . 	
+IS1009b.D.dialog-act.dharshi.56	Okay . 	
+IS1009b.A.dialog-act.dharshi.16	Um the one thing for example something to eliminate maybe that's the teletext , 	
+IS1009b.A.dialog-act.dharshi.19	because that's sort of outdated with the internet , 	
+IS1009b.D.dialog-act.dharshi.57	Okay . 	
+IS1009b.C.dialog-act.dharshi.20	Mm-hmm . 	
+IS1009b.A.dialog-act.dharshi.18	and according to to higher management the it should only control the T_V_ , 	
+IS1009b.D.dialog-act.dharshi.58		
+IS1009b.A.dialog-act.dharshi.20	mostly because they feel that it's too comp complex a task to um to to include other things , 	
+IS1009b.C.dialog-act.dharshi.21	Complicated , yeah , of course . 	
+IS1009b.A.dialog-act.dharshi.21	and they are concerned with the time to market . 	
+IS1009b.C.dialog-act.dharshi.22	Yeah . 	
+IS1009b.D.dialog-act.dharshi.59	Of course , yeah . 	
+IS1009b.B.dialog-act.dharshi.7	Okay . 	
+IS1009b.A.dialog-act.dharshi.22	Okay . 	
+IS1009b.A.dialog-act.dharshi.23	Um and the 	
+IS1009b.D.dialog-act.dharshi.60	Okay , so that's something 	
+IS1009b.A.dialog-act.dharshi.24	and the third thing that they wanna make sure um that their that the corporate image is being maintained , and that the corporate colour and design are being used on the product , 	
+IS1009b.A.dialog-act.dharshi.25	so that it's easy that that that they can be easily identified as a product of of of the company , and that there's no mistake that it could be somebody else who is bringing this out . 	
+IS1009b.C.dialog-act.dharshi.23	Mm-hmm . 	
+IS1009b.A.dialog-act.dharshi.26	So I just wanted to interject this here so we're not getting too much off track here with uh with the things we wanna look at . 	
+IS1009b.A.dialog-act.dharshi.27	These were instructions from higher up so we have to eliminate uh these things , 	
+IS1009b.A.dialog-act.dharshi.28	so it's only gonna be T_V_ , 	
+IS1009b.D.dialog-act.dharshi.61	Okay 	
+IS1009b.D.dialog-act.dharshi.62	so 	
+IS1009b.A.dialog-act.dharshi.29	but the one thing maybe that could be um eliminated is the teletext uh idea . 	
+IS1009b.D.dialog-act.dharshi.63	Okay . 	
+IS1009b.A.dialog-act.dharshi.30	Mm 'kay . 	
+IS1009b.B.dialog-act.dharshi.8	Okay . 	
+IS1009b.D.dialog-act.dharshi.64	Alright , 	
+IS1009b.D.dialog-act.dharshi.65	thanks for that . 	
+IS1009b.D.dialog-act.dharshi.66	Um alright now other things that I found out on in my research is that the complaints that people have about the remote controls that are out there now . 	
+IS1009b.D.dialog-act.dharshi.67	'Cause a lot of them take too much time to learn how to use , 	
+IS1009b.D.dialog-act.dharshi.68	and that was thirty four percent 	
+IS1009b.D.dialog-act.dharshi.69	but even more important the thing that we did address in our last meeting that frequently it's lost somewhere in the room . 	
+IS1009b.D.dialog-act.dharshi.70	Um so those are two things that we definitely do wanna address , 	
+IS1009b.D.dialog-act.dharshi.71	uh we wanna s make it as simple as possible , 	
+IS1009b.D.dialog-act.dharshi.72	we wanna make it um obvious and intuitive to use , 	
+IS1009b.D.dialog-act.dharshi.73	and then the things about finding it 	
+IS1009b.D.dialog-act.dharshi.74	we talked about the a light emitting thing as well as uh maybe a beep , 	
+IS1009b.D.dialog-act.dharshi.75	and I think that those are things after my research that we definitely wanna try to incorporate . 	
+IS1009b.D.dialog-act.dharshi.76	'Kay can we go to the next slide please ? 	
+IS1009b.D.dialog-act.dharshi.77	Okay , so , my personal preferences in this um project are really have to concentrate on the sizzle . 	
+IS1009b.D.dialog-act.dharshi.78	That is the selling point , the thing that's gonna make it an impulse purchase . 	
+IS1009b.D.dialog-act.dharshi.79	Uh because once there's no be-back , 	
+IS1009b.D.dialog-act.dharshi.80	well in sales they always say you know , be-backs don't come back . 	
+IS1009b.C.dialog-act.dharshi.24		
+IS1009b.D.dialog-act.dharshi.81	If somebody says , oh I'll come back and get it next week you're dead . 	
+IS1009b.D.dialog-act.dharshi.82	They're never gonna come back and buy it . 	
+IS1009b.D.dialog-act.dharshi.83	You've gotta make it attractive enough so they buy it now now now w 	
+IS1009b.D.dialog-act.dharshi.84	now is a big word in in my book for selling this thing . 	
+IS1009b.D.dialog-act.dharshi.85	And , in order to make it really sellable we've gotta shorten the learning curve , make sure it's really intuitive and easy to use . 	
+IS1009b.D.dialog-act.dharshi.87	We have to have as few buttons as possible , 	
+IS1009b.D.dialog-act.dharshi.88	because more buttons is more confusion , 	
+IS1009b.D.dialog-act.dharshi.89	so that's why I'm saying , simplicity is good . 	
+IS1009b.D.dialog-act.dharshi.90	Finding it's important , obviously you can't use it if you can't find it . 	
+IS1009b.D.dialog-act.dharshi.91	So we've gotta concentrate on the features that help you find it , 	
+IS1009b.D.dialog-act.dharshi.92	and I've already said this several times but I put it down in writing here , 	
+IS1009b.D.dialog-act.dharshi.93	it should be an attractive impulse purchase at twenty five Euros . 	
+IS1009b.D.dialog-act.dharshi.94	So it has to have enough value that when somebody looks at it they say , uh twenty five Euros I'm not gonna take that . 	
+IS1009b.D.dialog-act.dharshi.95	Has to be so great that they're gonna say , uh twenty five Euros isn't much . 	
+IS1009b.D.dialog-act.dharshi.96	Um and then maybe a motto , like we put fashion in electronics might be something we can use in our marketing campaign . 	
+IS1009b.C.dialog-act.dharshi.25	Yeah . 	
+IS1009b.D.dialog-act.dharshi.97	Okay that's uh about it for me right now . 	
+IS1009b.A.dialog-act.dharshi.31	Okay . 	
+IS1009b.A.dialog-act.dharshi.32	And uh 	
+IS1009b.A.dialog-act.dharshi.33	who would be next , uh , 	
+IS1009b.A.dialog-act.dharshi.34	I guess that would be you . 	
+IS1009b.C.dialog-act.dharshi.26	Yeah 'kay . 	
+IS1009b.A.dialog-act.dharshi.35	Mm-hmm . 	
+IS1009b.A.dialog-act.dharshi.36	You want me to get your slide show up ? 	
+IS1009b.C.dialog-act.dharshi.27	Yeah yeah sure . 	
+IS1009b.A.dialog-act.dharshi.37	Mm-hmm . 	
+IS1009b.C.dialog-act.dharshi.28	Thank you . 	
+IS1009b.A.dialog-act.dharshi.38	And you are number three ? 	
+IS1009b.C.dialog-act.dharshi.29	Number two , 	
+IS1009b.A.dialog-act.dharshi.39	Number two . 	
+IS1009b.C.dialog-act.dharshi.30	yeah . 	
+IS1009b.C.dialog-act.dharshi.31	Yeah exactly . 	
+IS1009b.A.dialog-act.dharshi.40	Okay . 	
+IS1009b.C.dialog-act.dharshi.32	Uh can you make it uh full screen please ? 	
+IS1009b.A.dialog-act.dharshi.41	Okay . 	
+IS1009b.A.dialog-act.dharshi.42	Mm-hmm . 	
+IS1009b.A.dialog-act.dharshi.43	Yep . 	
+IS1009b.C.dialog-act.dharshi.33	No , 	
+IS1009b.C.dialog-act.dharshi.34	it's like a 	
+IS1009b.C.dialog-act.dharshi.35	well you you have to press here . 	
+IS1009b.D.dialog-act.dharshi.98		
+IS1009b.C.dialog-act.dharshi.36	The cup cup shape here ? 	
+IS1009b.A.dialog-act.dharshi.44	Yeah yeah , uh-huh . 	
+IS1009b.C.dialog-act.dharshi.37	The thir third . 	
+IS1009b.C.dialog-act.dharshi.38	Yeah exactly . 	
+IS1009b.A.dialog-act.dharshi.45	There , mm-hmm . 	
+IS1009b.C.dialog-act.dharshi.39	Uh so today I'm going to talk about the working design of the remote controller . 	
+IS1009b.D.dialog-act.dharshi.99	Okay . 	
+IS1009b.C.dialog-act.dharshi.40	Um can you go to the next sli slide please ? 	
+IS1009b.A.dialog-act.dharshi.46	Mm-hmm . 	
+IS1009b.C.dialog-act.dharshi.41	The metal is like uh 	
+IS1009b.C.dialog-act.dharshi.42	in a remote controller you have a chip integrated circuit which is like a brain of the remote controller . 	
+IS1009b.C.dialog-act.dharshi.43	It takes the power from a battery 	
+IS1009b.C.dialog-act.dharshi.44	say a battery it it can be a elec an electric supply like you have to uh like uh switch connec connect connect your remote controller to uh power supply from the you know electricity or something like that . 	
+IS1009b.C.dialog-act.dharshi.45	It should be a battery because uh uh remote controller should be like you you you should take it t to wherever you want 	
+IS1009b.D.dialog-act.dharshi.100	Mm-hmm . 	
+IS1009b.C.dialog-act.dharshi.46	and then um uh th 	
+IS1009b.C.dialog-act.dharshi.47	this integrated circuitry takes energy from the power source 	
+IS1009b.C.dialog-act.dharshi.48	and whatever like if you press a button it's like a input for the remote controller 	
+IS1009b.C.dialog-act.dharshi.49	and it takes the input and it it transforms into a infro infrared bits and it sends it into the device , like a T_V_ or a air conditioner , something like that so . 	
+IS1009b.C.dialog-act.dharshi.50	Uh a remote controller is specifically designed to a single device . 	
+IS1009b.C.dialog-act.dharshi.51	If you want to design it for multiple devices then you should make all the devices compatible with the frequency 	
+IS1009b.C.dialog-act.dharshi.52	like uh th the remote controller it sends some bits some uh waves like with a particular frequency 	
+IS1009b.C.dialog-act.dharshi.53	the device should know what the frequency is . 	
+IS1009b.C.dialog-act.dharshi.54	It should re re recognise the uh waves which are coming from the remote controller and it should take the action 	
+IS1009b.C.dialog-act.dharshi.55	like if you press a button channel or something like that then uh the remote uh remote controller will send a send a se send a signal , 	
+IS1009b.D.dialog-act.dharshi.101	Signal . 	
+IS1009b.C.dialog-act.dharshi.56	and the T_V_ it should translate that into like change the channel or something like that , change the volume control 	
+IS1009b.B.dialog-act.dharshi.9	Receive . 	
+IS1009b.D.dialog-act.dharshi.102	Mm-hmm . 	
+IS1009b.A.dialog-act.dharshi.47	Mm-hmm . 	
+IS1009b.C.dialog-act.dharshi.57	and uh so uh I think it's hard to design a remote controller for multiple uh devices . 	
+IS1009b.B.dialog-act.dharshi.10	Multi-purpose . 	
+IS1009b.D.dialog-act.dharshi.103	Yeah well that's already been eliminated by management , so we're off the hook . 	
+IS1009b.A.dialog-act.dharshi.48	Yo and it's 	
+IS1009b.A.dialog-act.dharshi.49	yeah 	
+IS1009b.C.dialog-act.dharshi.58	Uh yeah . 	
+IS1009b.A.dialog-act.dharshi.50	but it's so . 	
+IS1009b.C.dialog-act.dharshi.59		
+IS1009b.C.dialog-act.dharshi.60	Um . 	
+IS1009b.A.dialog-act.dharshi.51	Yep . 	
+IS1009b.C.dialog-act.dharshi.61	So uh user interface controls the chip and accordingly the messages 	
+IS1009b.C.dialog-act.dharshi.62	like there should be a user user in interface 	
+IS1009b.C.dialog-act.dharshi.63	like you know switch pad or something like that buttons should be there . 	
+IS1009b.C.dialog-act.dharshi.64	So uh you can control whatever you want , 	
+IS1009b.C.dialog-act.dharshi.65	you want to change the channel you want to control the volume you you want to uh mute uh mute the uh T_V_ or you want to have a child lock or you want to do some operations there's a there should be some device to tell what to do to the uh in uh integrated circuit 	
+IS1009b.C.dialog-act.dharshi.66	so that the integrated circuit can s send the signals and T_V_ can perform the actions . 	
+IS1009b.D.dialog-act.dharshi.104	Mm okay . 	
+IS1009b.C.dialog-act.dharshi.67	So can you go to the next slide please ? 	
+IS1009b.D.dialog-act.dharshi.105	Okay . 	
+IS1009b.C.dialog-act.dharshi.68	So I I just would like to uh add some extra features to the remote controller 	
+IS1009b.D.dialog-act.dharshi.106	Mm-hmm . 	
+IS1009b.C.dialog-act.dharshi.69	um I think these are the very simple features and uh they don't take much uh uh much of the um um investment also , 	
+IS1009b.C.dialog-act.dharshi.70	it's like el the text or buttons which uh which are there on the uh remote controller they those we can make uh um like fluorescent 	
+IS1009b.D.dialog-act.dharshi.107	Mm-hmm . 	
+IS1009b.C.dialog-act.dharshi.71	uh they'll be like light emitting if it is dark so that you can find your remote controller if it is dark . 	
+IS1009b.C.dialog-act.dharshi.72	And ther there should be a beep if many buttons are pressed 	
+IS1009b.C.dialog-act.dharshi.73	if suppose a child is playing with the remote controller and a and she she or he is pressing the buttons all at the time then there should be a beep saying that it's this this is not a a you know a a action , there can be no action taking to that so . 	
+IS1009b.C.dialog-act.dharshi.74	And there should be a child lock , 	
+IS1009b.C.dialog-act.dharshi.75	like uh uh you should be able to lock your remote controller so that uh um whatever buttons are pressed by a child they can't be like y you i you if you have ki kids and all then they'll be pl playing with the remote controllers so can lock the remote controller . 	
+IS1009b.C.dialog-act.dharshi.76	If make it useable for more than one device it's a it's hard but I think it's possible 	
+IS1009b.A.dialog-act.dharshi.52	Yeah well 	
+IS1009b.A.dialog-act.dharshi.53	yeah well that has been e that has been eliminated , so that's that's unfortunately a moot point now . Mm-hmm . 	
+IS1009b.D.dialog-act.dharshi.108	Well we already eliminated that . 	
+IS1009b.C.dialog-act.dharshi.77	but it uh 	
+IS1009b.C.dialog-act.dharshi.79	yeah yeah yeah 	
+IS1009b.B.dialog-act.dharshi.11	Eliminated . 	
+IS1009b.C.dialog-act.dharshi.80	so it's it's okay , yeah , yeah . 	
+IS1009b.C.dialog-act.dharshi.81	And uh different shapes that we can do 	
+IS1009b.C.dialog-act.dharshi.83	like uh we can have you know a all animals shapes or you know comfortable uh whi which can fit into your hands 	
+IS1009b.A.dialog-act.dharshi.54		
+IS1009b.C.dialog-act.dharshi.85	and um so that uh 	
+IS1009b.D.dialog-act.dharshi.109	Now that's good from a marketing point of view , the fun the fun shape . 	
+IS1009b.C.dialog-act.dharshi.86	Yeah , yeah , yeah 	
+IS1009b.C.dialog-act.dharshi.87	and colours also , different colours , and 	
+IS1009b.A.dialog-act.dharshi.55	Yeah I 	
+IS1009b.D.dialog-act.dharshi.110	And that 	
+IS1009b.B.dialog-act.dharshi.12	Mm-hmm colours . 	
+IS1009b.D.dialog-act.dharshi.111	you you say that won't add too much to the budget ? 	
+IS1009b.D.dialog-act.dharshi.112	To d the shape is uh 	
+IS1009b.C.dialog-act.dharshi.88	No no no , it won't uh I don't think it will be like , 	
+IS1009b.C.dialog-act.dharshi.89	you can have you know for uh if you want ther there to be more 	
+IS1009b.A.dialog-act.dharshi.56	It just build a mould basically and uh you know . 	
+IS1009b.C.dialog-act.dharshi.90	Yeah yeah . 	
+IS1009b.C.dialog-act.dharshi.91	It's it's just a s shape so it doesn't matter . 	
+IS1009b.B.dialog-act.dharshi.13	Yes exactly . 	
+IS1009b.A.dialog-act.dharshi.57	As the budget we're looking at if you build one mould I don't think that's going to make a big difference whether it's gonna be square or 	
+IS1009b.C.dialog-act.dharshi.92	Yeah . 	
+IS1009b.D.dialog-act.dharshi.113	Do you think there's any chance of um having ser in having basically the same machine with the same buttons but maybe several different shapes ? 	
+IS1009b.C.dialog-act.dharshi.93	Yeah that is also possible I uh yeah I I yeah . 	
+IS1009b.A.dialog-act.dharshi.58	Oh yes . 	
+IS1009b.D.dialog-act.dharshi.114	Is that gonna be a possible ? 	
+IS1009b.B.dialog-act.dharshi.14	Yes . 	
+IS1009b.D.dialog-act.dharshi.115	'Cause that might help with the marketing . 	
+IS1009b.A.dialog-act.dharshi.59	I think 	
+IS1009b.A.dialog-act.dharshi.60	I think we will have to look at the budget on that 	
+IS1009b.C.dialog-act.dharshi.95	Yeah that will be 	
+IS1009b.A.dialog-act.dharshi.61	but I think in principle that that would be that would be kind of fun , you know . 	
+IS1009b.C.dialog-act.dharshi.94	Yeah yeah . 	
+IS1009b.D.dialog-act.dharshi.116	Because we had something sort of sexy for adults and we could have something sort of 	
+IS1009b.C.dialog-act.dharshi.96	Mm-hmm . 	
+IS1009b.B.dialog-act.dharshi.15		
+IS1009b.A.dialog-act.dharshi.62	Yeah . 	
+IS1009b.A.dialog-act.dharshi.63	Silly for children . 	
+IS1009b.D.dialog-act.dharshi.117	silly for children 	
+IS1009b.C.dialog-act.dharshi.97	Yeah , for children , yeah exactly . 	
+IS1009b.B.dialog-act.dharshi.16		
+IS1009b.A.dialog-act.dharshi.64	Like an animal or 	
+IS1009b.D.dialog-act.dharshi.118	or a little animal shape or in a or a little elephant so they can remember where it is . 	
+IS1009b.B.dialog-act.dharshi.17	Like a doll , or 	
+IS1009b.C.dialog-act.dharshi.98	Yeah , that's what , yeah . 	
+IS1009b.A.dialog-act.dharshi.65	Yeah . 	
+IS1009b.C.dialog-act.dharshi.99	Yeah , exactly . Yeah . 	
+IS1009b.B.dialog-act.dharshi.18	Yes . 	
+IS1009b.C.dialog-act.dharshi.100	And and the butto buttons also I think if you want to have more features in your remote controller then there should be more buttons . 	
+IS1009b.C.dialog-act.dharshi.101	If there are more buttons then it will be more complicated . 	
+IS1009b.C.dialog-act.dharshi.102	If you have less features then your remote controller won't be attractive , 	
+IS1009b.C.dialog-act.dharshi.103	so I think uh we need to make some buttons which are which are like um uh f in uh in intended for two or three operations , 	
+IS1009b.C.dialog-act.dharshi.104	like if you press one button in one mode then it will change the channel , if you press the other button in another mode it will change the colour . 	
+IS1009b.C.dialog-act.dharshi.105	So if you want to have less buttons we can have that option but I think it will complicate the matter more I think so . 	
+IS1009b.D.dialog-act.dharshi.119	Mm . 	
+IS1009b.D.dialog-act.dharshi.120	Well , I think I think that that's something that we'll have to discuss um with the User Interface person 	
+IS1009b.C.dialog-act.dharshi.106	Yep , yeah . 	
+IS1009b.B.dialog-act.dharshi.19	Yes . 	
+IS1009b.D.dialog-act.dharshi.121	because I think there's a lot of argument to be made for one button for one feature . 	
+IS1009b.D.dialog-act.dharshi.122	Because I think one of the things were complaining about in my what I found out in my research is when they complained about how hard it is to learn a new one . 	
+IS1009b.A.dialog-act.dharshi.66		
+IS1009b.C.dialog-act.dharshi.107	Mm-hmm . 	
+IS1009b.D.dialog-act.dharshi.123	The changing modes was something 	
+IS1009b.C.dialog-act.dharshi.108	Yeah , it's like you know yeah . 	
+IS1009b.D.dialog-act.dharshi.124	I mean you and I , all f all four of us we work with computers all the time , 	
+IS1009b.C.dialog-act.dharshi.109	Yeah . 	
+IS1009b.C.dialog-act.dharshi.110	Yeah , yeah . 	
+IS1009b.D.dialog-act.dharshi.125	changing modes is nothing for us , 	
+IS1009b.B.dialog-act.dharshi.20	Okay . 	
+IS1009b.D.dialog-act.dharshi.126	but people who 	
+IS1009b.A.dialog-act.dharshi.67	Yeah , a little elderly , a little arthritic hand you know , 	
+IS1009b.D.dialog-act.dharshi.127	N and 	
+IS1009b.C.dialog-act.dharshi.111	Mm-hmm . 	
+IS1009b.A.dialog-act.dharshi.68	and and it's a small button and and it they don't press it exactly 	
+IS1009b.C.dialog-act.dharshi.112	Yeah . 	
+IS1009b.A.dialog-act.dharshi.69	you know something else happens n not their favourite channel comes up but something else 	
+IS1009b.C.dialog-act.dharshi.113	Yeah , yes . 	
+IS1009b.B.dialog-act.dharshi.21	Something else . 	
+IS1009b.A.dialog-act.dharshi.70	and they're very frustrated you know . 	
+IS1009b.D.dialog-act.dharshi.128	And that's and that's the kind of thing people learn by feel , 	
+IS1009b.D.dialog-act.dharshi.129	and um you don't feel the mode change . 	
+IS1009b.C.dialog-act.dharshi.114	Yeah , yeah you don't 	
+IS1009b.C.dialog-act.dharshi.115	us yeah yeah , usually . Yeah . 	
+IS1009b.D.dialog-act.dharshi.130	So um maybe having buttons be various shapes might be a help too . 	
+IS1009b.C.dialog-act.dharshi.116	Yeah shapes also , different shapes . 	
+IS1009b.D.dialog-act.dharshi.131	You know , like the a triangle is for the volume and a square is for changing channels , so that people can uh develop a tactile sense of it . 	
+IS1009b.C.dialog-act.dharshi.117	Yeah that will 	
+IS1009b.C.dialog-act.dharshi.118	Mm-hmm . 	
+IS1009b.B.dialog-act.dharshi.22	Channels . 	
+IS1009b.C.dialog-act.dharshi.119	Yeah . 	
+IS1009b.C.dialog-act.dharshi.120	Yeah . 	
+IS1009b.D.dialog-act.dharshi.132	But we'll get to that with you . 	
+IS1009b.C.dialog-act.dharshi.121	Yeah , 	
+IS1009b.A.dialog-act.dharshi.71	Mm , mm-hmm . 	
+IS1009b.C.dialog-act.dharshi.122	yeah , 	
+IS1009b.C.dialog-act.dharshi.123	and also text should be very clear so that there there won't be any ambiguities and uh 	
+IS1009b.B.dialog-act.dharshi.23	Yes . 	
+IS1009b.D.dialog-act.dharshi.133	That's right , yeah . Now that's a good point . Yeah . 	
+IS1009b.C.dialog-act.dharshi.124	So yeah . 	
+IS1009b.B.dialog-act.dharshi.24	Yes . 	
+IS1009b.A.dialog-act.dharshi.72		
+IS1009b.C.dialog-act.dharshi.125	And uh display clock i if you want more features then we can display a clock 	
+IS1009b.C.dialog-act.dharshi.126	it I I don't think it will take any money extra money because anyway we have an integrated circuit I think we can just definitely fit that feature into the circuit so it's 	
+IS1009b.D.dialog-act.dharshi.134	Yeah , that's that's a good that's a good one , 	
+IS1009b.A.dialog-act.dharshi.73	Mm-hmm , mm-hmm . 	
+IS1009b.C.dialog-act.dharshi.127	Yeah , and we display a clock . 	
+IS1009b.B.dialog-act.dharshi.25	Mm yeah . 	
+IS1009b.D.dialog-act.dharshi.135	because the clock would be really friendly , 	
+IS1009b.A.dialog-act.dharshi.74	Yes . 	
+IS1009b.D.dialog-act.dharshi.136	and and when is your favourite show coming on 	
+IS1009b.C.dialog-act.dharshi.128	Yeah . 	
+IS1009b.A.dialog-act.dharshi.75	Yes . 	
+IS1009b.C.dialog-act.dharshi.129	Yeah , and then you can just see your remote controller yeah yeah yeah so 	
+IS1009b.B.dialog-act.dharshi.26	Yes . 	
+IS1009b.A.dialog-act.dharshi.76	Yeah you're sitting there already or maybe you have no other uh 	
+IS1009b.D.dialog-act.dharshi.137	and 	
+IS1009b.D.dialog-act.dharshi.139	Yeah , and a lot of time there's not a clock on the screen , and you have to go somewhere but you just wanna look at the news for a minute . 	
+IS1009b.C.dialog-act.dharshi.130	Yeah . 	
+IS1009b.D.dialog-act.dharshi.140	Yeah that's that's good , the clock is good . 	
+IS1009b.C.dialog-act.dharshi.131	Yeah . 	
+IS1009b.A.dialog-act.dharshi.77	Mm-hmm . 	
+IS1009b.D.dialog-act.dharshi.141	Okay . 	
+IS1009b.C.dialog-act.dharshi.132	Uh can you go to the next slide please ? 	
+IS1009b.C.dialog-act.dharshi.133	Uh components uh the main components we need for uh it ha like buttons and uh underneath that there should be switch . 	
+IS1009b.C.dialog-act.dharshi.134	And uh bulbs . 	
+IS1009b.C.dialog-act.dharshi.135	Like uh we can have a bulb like whenever we are operating a remote controller or uh whenever the T_V_ is on suppose , 	
+IS1009b.B.dialog-act.dharshi.27	Hmm . 	
+IS1009b.C.dialog-act.dharshi.136	then the remote controller should automatically have a b s light . 	
+IS1009b.D.dialog-act.dharshi.142	Mm-hmm . 	
+IS1009b.C.dialog-act.dharshi.137	Then it will be like if you switch on your T_V_ through anoth another source , not from through a remote remote controller and you you lost your remote controller maybe you can find with the light . 	
+IS1009b.D.dialog-act.dharshi.143	Mm-hmm . 	
+IS1009b.C.dialog-act.dharshi.138	Maybe we can have that . Whenever the T_V_ is on , remote controller will have a light . 	
+IS1009b.D.dialog-act.dharshi.144	Mm-hmm . 	
+IS1009b.C.dialog-act.dharshi.139	And then uh infrared bulbs . 	
+IS1009b.D.dialog-act.dharshi.145	Mm-hmm . 	
+IS1009b.C.dialog-act.dharshi.140	Um this is like uh when it is dark . 	
+IS1009b.A.dialog-act.dharshi.78	Yeah , mm-hmm . 	
+IS1009b.D.dialog-act.dharshi.146	Mm-hmm . 	
+IS1009b.C.dialog-act.dharshi.141	And battery , there should be a battery for power supply , 	
+IS1009b.C.dialog-act.dharshi.142	and a chip , 	
+IS1009b.D.dialog-act.dharshi.147	Mm-hmm . 	
+IS1009b.C.dialog-act.dharshi.143	chip which is like a brain to the remote controller which does all the operations , 	
+IS1009b.A.dialog-act.dharshi.79	Mm-hmm . 	
+IS1009b.C.dialog-act.dharshi.144	and wires connecting all chips , which is uh lights , everything , 	
+IS1009b.A.dialog-act.dharshi.80	Yeah . 	
+IS1009b.C.dialog-act.dharshi.145	so there should be wires . 	
+IS1009b.B.dialog-act.dharshi.28	Okay . 	
+IS1009b.C.dialog-act.dharshi.146	And uh uh of course there should be a case where we can keep all the things 	
+IS1009b.C.dialog-act.dharshi.147	and , you know different shapes or whatever it is there should be a case to put to give a shape . 	
+IS1009b.B.dialog-act.dharshi.29	To keep the remote ? 	
+IS1009b.C.dialog-act.dharshi.148	Yeah . 	
+IS1009b.B.dialog-act.dharshi.30	Yeah . 	
+IS1009b.D.dialog-act.dharshi.148	Case . 	
+IS1009b.B.dialog-act.dharshi.31	A case holder . A holder remote holder . 	
+IS1009b.C.dialog-act.dharshi.149	Yeah , holder . 	
+IS1009b.A.dialog-act.dharshi.81	Holder , yeah , mm-hmm . 	
+IS1009b.C.dialog-act.dharshi.150	Um uh can you move onto the next slide . 	
+IS1009b.C.dialog-act.dharshi.151	Um next sli slide please . 	
+IS1009b.C.dialog-act.dharshi.152	Um I have referred the site uh the homepage of the um our website , uh from where I have uh uh I got s few points . 	
+IS1009b.A.dialog-act.dharshi.82	Mm-hmm . 	
+IS1009b.C.dialog-act.dharshi.153	That's it , that's it from me now . 	
+IS1009b.A.dialog-act.dharshi.83	Okay . 	
+IS1009b.D.dialog-act.dharshi.149	So it um we should visit this site and have a look at uh what's up there ? Or 	
+IS1009b.C.dialog-act.dharshi.154	Um . 	
+IS1009b.A.dialog-act.dharshi.84	Well , you don't have to . 	
+IS1009b.C.dialog-act.dharshi.155	Uh it's not like that , I have referred the page to get new ideas or like what can be the working design to how it works and all and so and so . 	
+IS1009b.D.dialog-act.dharshi.150	Okay . 	
+IS1009b.D.dialog-act.dharshi.151	Okay . So it might be helpful if we had a look at that . 	
+IS1009b.C.dialog-act.dharshi.156	Yeah if you want . 	
+IS1009b.D.dialog-act.dharshi.153	Okay , 	
+IS1009b.C.dialog-act.dharshi.157	Yeah , it's okay . 	
+IS1009b.D.dialog-act.dharshi.154	thank you . 	
+IS1009b.D.dialog-act.dharshi.155	Could you go back to that slide where she had that uh s slide up Betsy ? 	
+IS1009b.C.dialog-act.dharshi.158	Uh , it's actually there now , there on the screen . 	
+IS1009b.A.dialog-act.dharshi.85	This one ? 	
+IS1009b.D.dialog-act.dharshi.156	Yeah , okay , 	
+IS1009b.D.dialog-act.dharshi.157	thank you . 	
+IS1009b.A.dialog-act.dharshi.86	And Francine ? 	
+IS1009b.B.dialog-act.dharshi.32	Participant two . 	
+IS1009b.A.dialog-act.dharshi.87	You are number two ? 	
+IS1009b.B.dialog-act.dharshi.33	Yes . 	
+IS1009b.B.dialog-act.dharshi.34	No no , I'm three . 	
+IS1009b.A.dialog-act.dharshi.88	You're three . 	
+IS1009b.B.dialog-act.dharshi.35	I can make it full ? 	
+IS1009b.A.dialog-act.dharshi.89	Would you want it full full screen ? 	
+IS1009b.B.dialog-act.dharshi.36	Yes yes yes . 	
+IS1009b.A.dialog-act.dharshi.90	Mm-hmm ? Okay . 	
+IS1009b.B.dialog-act.dharshi.37	Okay . 	
+IS1009b.B.dialog-act.dharshi.38	As uh User Interface Designer I did a little research to find out what are the features which a user would like to have on their remote . 	
+IS1009b.A.dialog-act.dharshi.91	Mm-hmm . 	
+IS1009b.B.dialog-act.dharshi.39	Yeah can you please go onto the next slide ? 	
+IS1009b.A.dialog-act.dharshi.92	Mm-hmm . 	
+IS1009b.B.dialog-act.dharshi.40	So I found out that uh but uh the main purpose of a remote is to uh f control the function of a television at a far off distance at remote distance . 	
+IS1009b.D.dialog-act.dharshi.158		
+IS1009b.B.dialog-act.dharshi.41	Now for that , uh a remote controller should have a switch on off button by which a user can sit anywhere in the room in front of the T_V_ and he can control the functionalities different functionalities of the T_V_ . 	
+IS1009b.A.dialog-act.dharshi.93	Mm-hmm . 	
+IS1009b.B.dialog-act.dharshi.44	There should be a signal 	
+IS1009b.B.dialog-act.dharshi.45	uh something like a radio wave or a infrared light or a LED which can be used to change the different functionalities in the television 	
+IS1009b.B.dialog-act.dharshi.43	if the user wants to uh change the channels or increase the volume he can change it . 	
+IS1009b.D.dialog-act.dharshi.159	Mm-hmm . 	
+IS1009b.B.dialog-act.dharshi.46	Now there should be some timer to set for viewing a particular a particular programme or switching on and off a uh a particular programme according to the user choice . 	
+IS1009b.A.dialog-act.dharshi.94	On the on on the remote . 	
+IS1009b.B.dialog-act.dharshi.47	Yes . Yes . 	
+IS1009b.A.dialog-act.dharshi.95	Yeah , mm-hmm . 	
+IS1009b.B.dialog-act.dharshi.48	So if if he want to view a particular programme at say nine o'clock he can set the time , and the T_V_ will automatically it will switch on at that particular time . 	
+IS1009b.A.dialog-act.dharshi.96	Mm-hmm . 	
+IS1009b.A.dialog-act.dharshi.97	Mm-hmm . 	
+IS1009b.A.dialog-act.dharshi.98	Right . 	
+IS1009b.A.dialog-act.dharshi.99	Mm-hmm . 	
+IS1009b.B.dialog-act.dharshi.49	So he can use that kind of uh uh properties of features 	
+IS1009b.B.dialog-act.dharshi.50	and then there should be a child lock system if a particular channel is not to be viewed by a particular uh for a certain age , then the parents can lock that particular channel so that the ch children cannot view that channel . 	
+IS1009b.A.dialog-act.dharshi.100	Yes . 	
+IS1009b.A.dialog-act.dharshi.101	By your child , mm-hmm . 	
+IS1009b.D.dialog-act.dharshi.160	Mm-hmm . 	
+IS1009b.A.dialog-act.dharshi.102	Mm-hmm . 	
+IS1009b.B.dialog-act.dharshi.51	And uh the uh the uh and the 	
+IS1009b.B.dialog-act.dharshi.52	one of the feature a user would like to have is the compactness of the co remote . 	
+IS1009b.A.dialog-act.dharshi.103	Mm-hmm . 	
+IS1009b.D.dialog-act.dharshi.161	Mm-hmm . 	
+IS1009b.B.dialog-act.dharshi.53	Uh t the remote should be compact 	
+IS1009b.B.dialog-act.dharshi.54	and it should ha it should have as many buttons as possible for controlling different functionalities of the T_V_ television . 	
+IS1009b.B.dialog-act.dharshi.55	And um uh as uh uh this is my personal preference that it should be in the shape of a T_ in alphabet for more compactability . 	
+IS1009b.A.dialog-act.dharshi.104	Mm-hmm . 	
+IS1009b.B.dialog-act.dharshi.56	And uh and uh 	
+IS1009b.B.dialog-act.dharshi.57	and it is one more point which I noted it down , 	
+IS1009b.B.dialog-act.dharshi.58	like uh the material which which which is used for remotes should be human friendly 	
+IS1009b.B.dialog-act.dharshi.59	it should not cause any skin disease or something some al allergy to either children or to um ad adult person . 	
+IS1009b.A.dialog-act.dharshi.105	Mm-hmm . 	
+IS1009b.A.dialog-act.dharshi.106	Mm-hmm . 	
+IS1009b.D.dialog-act.dharshi.162	Mm , 'kay . 	
+IS1009b.A.dialog-act.dharshi.107	Mm-hmm . 	
+IS1009b.B.dialog-act.dharshi.60	And it should have an uh it can have an alarm clock 	
+IS1009b.B.dialog-act.dharshi.61	a a person if some if somebody wants to get up at around eight eight P_M_ then he can set the time and it can be used as an alarm clock , 	
+IS1009b.C.dialog-act.dharshi.159	Mm . 	
+IS1009b.A.dialog-act.dharshi.108	Mm-hmm . 	
+IS1009b.B.dialog-act.dharshi.62	and I don't think it will cost much to set an alarm clock inside a remote . 	
+IS1009b.C.dialog-act.dharshi.160	Yeah , sure . 	
+IS1009b.A.dialog-act.dharshi.109	Mm-hmm . 	
+IS1009b.C.dialog-act.dharshi.161	If there is a clock then there can be a alarm clock . 	
+IS1009b.D.dialog-act.dharshi.163	And an alarm clock , yeah that should that should be okay . 	
+IS1009b.B.dialog-act.dharshi.64	Yes , 	
+IS1009b.B.dialog-act.dharshi.65	and as John Reece said the buttons can be , uh can me we can use the fluorescence to light up the buttons so different uh buttons will glow differently . 	
+IS1009b.B.dialog-act.dharshi.66	So in even in the dark the user can know what buttons to use to switch on a particular channel . 	
+IS1009b.B.dialog-act.dharshi.67	And uh uh the design of the uh um remote should be in such a way that there should not be any sharp projections 	
+IS1009b.B.dialog-act.dharshi.68	so that if a child plays with a remote , he uh he should not be harmed in any way . 	
+IS1009b.C.dialog-act.dharshi.162	Hmm . 	
+IS1009b.B.dialog-act.dharshi.69	And findings , uh I found out uh y um on different sites that uh there are different remotes which can be used , 	
+IS1009b.B.dialog-act.dharshi.70	there are remotes which use the infrared for controlling the different functionalities , 	
+IS1009b.B.dialog-act.dharshi.71	there are remotes which use the radio waves to control the functions 	
+IS1009b.B.dialog-act.dharshi.72	and there are uh 	
+IS1009b.B.dialog-act.dharshi.73	So uh there you have different uh types of remotes for different light source which are used which can be used for controlling the different functionalities of a television . 	
+IS1009b.B.dialog-act.dharshi.74	Next slide . 	
+IS1009b.B.dialog-act.dharshi.75	And these are my few personal preferences 	
+IS1009b.B.dialog-act.dharshi.76	like it can be used for a multipurpose use . 	
+IS1009b.B.dialog-act.dharshi.79	Not , uh no 	
+IS1009b.B.dialog-act.dharshi.80	uh like it can it can be used as a T_V_ control as plus an alarm clock to set an alarm a timing 	
+IS1009b.B.dialog-act.dharshi.78	and it should have a child lock , 	
+IS1009b.B.dialog-act.dharshi.81	and then to save electricity uh there should not be uh much s move uh lots of circuits and all that . 	
+IS1009b.B.dialog-act.dharshi.82	And if a person if if if parents wants the television to be switched off by ten o'clock then it should be switched off ten o at ten o'clock automatically , so that nobody else comes later and use it . 	
+IS1009b.C.dialog-act.dharshi.163	It's like a t okay , it's like a timer it's like a lock to the television . 	
+IS1009b.A.dialog-act.dharshi.110	Timer , yeah , mm-hmm , mm-hmm . 	
+IS1009b.B.dialog-act.dharshi.83	Timer . Yeah and then you can use a timer as well . 	
+IS1009b.B.dialog-act.dharshi.84	Yes . 	
+IS1009b.B.dialog-act.dharshi.85	Yeah that's it . 	
+IS1009b.A.dialog-act.dharshi.111	Uh okay , 	
+IS1009b.A.dialog-act.dharshi.112	now I have 	
+IS1009b.A.dialog-act.dharshi.113	On my slide show basically we already we have already done the agenda , 	
+IS1009b.A.dialog-act.dharshi.114	and uh on the closing uh basically there will be lunch break and all that . 	
+IS1009b.A.dialog-act.dharshi.115	However uh the decision we have to take in this meeting is who is our target group . 	
+IS1009b.B.dialog-act.dharshi.86	Okay . 	
+IS1009b.A.dialog-act.dharshi.116	And uh what function , working design , how how does it work . 	
+IS1009b.A.dialog-act.dharshi.117	So these are the two things we should come up wit with . 	
+IS1009b.A.dialog-act.dharshi.118	So uh the first thing is pro maybe a little easier on uh who is our target group . 	
+IS1009b.A.dialog-act.dharshi.119	Um . 	
+IS1009b.A.dialog-act.dharshi.120	I guess in many ways everybody . 	
+IS1009b.A.dialog-act.dharshi.121	Everybody who has a T_V_ . 	
+IS1009b.C.dialog-act.dharshi.165	Mm , T_V_ , yeah . 	
+IS1009b.B.dialog-act.dharshi.87	T_V_ television we was . 	
+IS1009b.A.dialog-act.dharshi.122	Yeah , 	
+IS1009b.A.dialog-act.dharshi.123	and I think today there are probably not many people who don't have a T_V_ . 	
+IS1009b.C.dialog-act.dharshi.164	Don't T_V_ , yeah . 	
+IS1009b.A.dialog-act.dharshi.124	There are a few but in general not . 	
+IS1009b.A.dialog-act.dharshi.125	Now , talking about the target group which is in a sense everybody , 	
+IS1009b.A.dialog-act.dharshi.126	but I think within the target group we have subgroups . 	
+IS1009b.A.dialog-act.dharshi.127	We have 	
+IS1009b.A.dialog-act.dharshi.128	we have earlier it was mentioned about um for example elderly people who have limited function with their fingers and hands , 	
+IS1009b.B.dialog-act.dharshi.88	Mm-hmm . 	
+IS1009b.C.dialog-act.dharshi.166	Hmm . 	
+IS1009b.A.dialog-act.dharshi.129	so I think that's uh one group that's certainly important . 	
+IS1009b.A.dialog-act.dharshi.130	Um then we have just the nervous people who can never press a little button on anything um unless it's really very clear . 	
+IS1009b.C.dialog-act.dharshi.167	Yeah . 	
+IS1009b.A.dialog-act.dharshi.131	And uh I don't know how much we want to cater to children's use . 	
+IS1009b.A.dialog-act.dharshi.132	I mean that's a question um whether that's important that children can really use it or not . 	
+IS1009b.C.dialog-act.dharshi.168	Mm . 	
+IS1009b.A.dialog-act.dharshi.133	So this these are just some thoughts I have on it , 	
+IS1009b.D.dialog-act.dharshi.164	Mm-hmm . 	
+IS1009b.A.dialog-act.dharshi.134	and um I dunno what you feel about whether we can just say we have one target group and for this one target group we're gonna design this one thing 	
+IS1009b.C.dialog-act.dharshi.169	Yeah . 	
+IS1009b.A.dialog-act.dharshi.135	or whether we're looking at what we like we we talking about different shapes , whether that different shape also includes maybe different uh buttons uh for different groups . 	
+IS1009b.D.dialog-act.dharshi.165	Mm-hmm . 	
+IS1009b.B.dialog-act.dharshi.89		
+IS1009b.C.dialog-act.dharshi.170	Mm-hmm . 	
+IS1009b.D.dialog-act.dharshi.166	Mm-hmm . 	
+IS1009b.D.dialog-act.dharshi.167	Well you know there's the old motto , children under six never shop alone . 	
+IS1009b.A.dialog-act.dharshi.136	Mm-hmm . 	
+IS1009b.D.dialog-act.dharshi.168	So if you've designed something that's very attractive to children um the mummy please mummy please um you know we want it now we wanna go to the store and see it um that has uh a lot of marketing pull . 	
+IS1009b.B.dialog-act.dharshi.90		
+IS1009b.A.dialog-act.dharshi.137	That has a lot of that has a lot of appeal 	
+IS1009b.C.dialog-act.dharshi.171	Mm . 	
+IS1009b.A.dialog-act.dharshi.138	but I think uh I'm I'm talking about the functionality now on it whether we're looking at different groups . 	
+IS1009b.A.dialog-act.dharshi.139	I think the children issue can be addressed with the shape and with colours . 	
+IS1009b.D.dialog-act.dharshi.169	Mm-hmm . 	
+IS1009b.D.dialog-act.dharshi.170	That's right . 	
+IS1009b.C.dialog-act.dharshi.172	Yeah . 	
+IS1009b.B.dialog-act.dharshi.91	Different colours . 	
+IS1009b.A.dialog-act.dharshi.142	You know , like you make it nice and pink , fluorescent , banana colour or whatever you know 	
+IS1009b.B.dialog-act.dharshi.92	Yes . 	
+IS1009b.D.dialog-act.dharshi.171	You can make a banana shaped one . 	
+IS1009b.C.dialog-act.dharshi.173	Yeah . 	
+IS1009b.B.dialog-act.dharshi.93		
+IS1009b.A.dialog-act.dharshi.141	yeah , for example you know . 	
+IS1009b.C.dialog-act.dharshi.174	Mm . 	
+IS1009b.A.dialog-act.dharshi.140	But the question is really , who is our target group . 	
+IS1009b.D.dialog-act.dharshi.172	Mm-hmm . 	
+IS1009b.A.dialog-act.dharshi.143	Do we look at one target group ? 	
+IS1009b.A.dialog-act.dharshi.144	And with the twenty five Euros you know can we can we afford to have 	
+IS1009b.A.dialog-act.dharshi.145	uh I'm asking the technical people here whether um to look at sort of subgroups with maybe different buttons for each group 	
+IS1009b.A.dialog-act.dharshi.146	how much would that throw us out of the cost we are supposed to 	
+IS1009b.D.dialog-act.dharshi.173	Respect . 	
+IS1009b.A.dialog-act.dharshi.147	respect ? 	
+IS1009b.B.dialog-act.dharshi.94		
+IS1009b.D.dialog-act.dharshi.174	Mm . 	
+IS1009b.B.dialog-act.dharshi.95	Okay . 	
+IS1009b.B.dialog-act.dharshi.96	No uh generally we can we can design a remote which is mainly for people with uh f age from ten to um forty 	
+IS1009b.A.dialog-act.dharshi.150	Right . 	
+IS1009b.B.dialog-act.dharshi.97	and and then we can add on uh specific functional buttons for children as well as the elderly people or the people wit with who have nervous problems , yes . 	
+IS1009b.A.dialog-act.dharshi.149	With with 	
+IS1009b.A.dialog-act.dharshi.148	Mm-hmm . 	
+IS1009b.C.dialog-act.dharshi.176	We can design different remotes for different people , like for aged people there will be big buttons and you know . 	
+IS1009b.A.dialog-act.dharshi.151	Well that's that's 	
+IS1009b.B.dialog-act.dharshi.98	But in a family 	
+IS1009b.B.dialog-act.dharshi.99	in a family there will be a aged person , children and a middle aged but they cannot buy three different remotes . 	
+IS1009b.C.dialog-act.dharshi.175	yeah . 	
+IS1009b.C.dialog-act.dharshi.177	Children and everybody , yeah . 	
+IS1009b.B.dialog-act.dharshi.100	They would like to buy just one and um just one which can be used all the three uh 	
+IS1009b.C.dialog-act.dharshi.178	Yeah of course that we can do , 	
+IS1009b.C.dialog-act.dharshi.179	but specifically if y if like elderly people want big buttons then you can't really make a bi big remote controller so maybe specifically you can design a big con remote controller for elderly and for children , like in a different you know . 	
+IS1009b.D.dialog-act.dharshi.175	What about the electronics ? That's not really gonna change much , is it ? 	
+IS1009b.A.dialog-act.dharshi.152	Yeah . 	
+IS1009b.B.dialog-act.dharshi.101	Cost effective . 	
+IS1009b.C.dialog-act.dharshi.180	No , it it doesn't cost , yeah . 	
+IS1009b.D.dialog-act.dharshi.176	That that w that won't change much , will it uh ? 	
+IS1009b.A.dialog-act.dharshi.153	No 	
+IS1009b.C.dialog-act.dharshi.181	Yeah . Doesn't doesn't doesn't matter . 	
+IS1009b.A.dialog-act.dharshi.154	The the quest the question to be addressed here is only who is the target group and how will it function , 	
+IS1009b.D.dialog-act.dharshi.177	I d I wouldn't think so . 	
+IS1009b.D.dialog-act.dharshi.178	Mm-hmm . 	
+IS1009b.A.dialog-act.dharshi.155	and I think the how will it function is probably the question of the buttons you know , within the target group or subgroups . 	
+IS1009b.D.dialog-act.dharshi.179	Yeah . 	
+IS1009b.A.dialog-act.dharshi.156	The question is only whether our budget will allow to have more than one design in a sense . 	
+IS1009b.D.dialog-act.dharshi.180	Yeah . 	
+IS1009b.A.dialog-act.dharshi.157	I mean the basic design I understand will be the same , 	
+IS1009b.A.dialog-act.dharshi.158	but the question is how much will that set us back if let's say uh forty percent we make large buttons and the rest we make regular buttons for example . 	
+IS1009b.B.dialog-act.dharshi.102	Okay . 	
+IS1009b.C.dialog-act.dharshi.182	Yeah . 	
+IS1009b.C.dialog-act.dharshi.183		
+IS1009b.D.dialog-act.dharshi.181	Yeah . 	
+IS1009b.A.dialog-act.dharshi.159	So that remains to s to be seen 	
+IS1009b.A.dialog-act.dharshi.160	but uh the target group as a whole is is basically everybody with a T_V_ . 	
+IS1009b.D.dialog-act.dharshi.182	That's right , 	
+IS1009b.B.dialog-act.dharshi.103	Yes . 	
+IS1009b.D.dialog-act.dharshi.183	and can we 	
+IS1009b.D.dialog-act.dharshi.184	can we is it even feasible to make one one remote control with something for everyone , or would we have to use the same electronics and make three different shapes ? 	
+IS1009b.A.dialog-act.dharshi.161	Yeah , well that's that's the question . 	
+IS1009b.D.dialog-act.dharshi.185	Um the same electronics and basically all that's gonna be different is the plastic case . 	
+IS1009b.C.dialog-act.dharshi.184	Hmm hmm . 	
+IS1009b.D.dialog-act.dharshi.186	And in that case we could probabl 	
+IS1009b.D.dialog-act.dharshi.187	moulded plastic isn't all that expensive is it ? 	
+IS1009b.D.dialog-act.dharshi.188	Um you as an industrial person ? 	
+IS1009b.C.dialog-act.dharshi.185	Uh no . Mm , I I I don't think no . It's not . 	
+IS1009b.A.dialog-act.dharshi.162	Well maybe there's 	
+IS1009b.A.dialog-act.dharshi.165	there's an idea you know t the new for example new portable phones ? 	
+IS1009b.D.dialog-act.dharshi.189	Mm-hmm . 	
+IS1009b.A.dialog-act.dharshi.166	They have like removable plastic cases , so you can have a striped one or you can have a fluorescent blue one , or whatever , 	
+IS1009b.D.dialog-act.dharshi.190	Yeah . 	
+IS1009b.D.dialog-act.dharshi.191	Mm-hmm . 	
+IS1009b.B.dialog-act.dharshi.104	Okay . 	
+IS1009b.A.dialog-act.dharshi.167	and maybe something like that , 	
+IS1009b.A.dialog-act.dharshi.168	that in each package you know you have you you have you have for example uh you have let's say a fluorescent blue on it but then you have uh another colour or stripe whatever that already comes in a package . 	
+IS1009b.D.dialog-act.dharshi.192	Well there's a real idea yeah . 	
+IS1009b.D.dialog-act.dharshi.193	Mm-hmm . 	
+IS1009b.C.dialog-act.dharshi.186	Hmm . 	
+IS1009b.A.dialog-act.dharshi.169	And then if people really want more colours they can buy it separately . 	
+IS1009b.D.dialog-act.dharshi.194	Yeah . 	
+IS1009b.D.dialog-act.dharshi.195	Right . 	
+IS1009b.C.dialog-act.dharshi.187	Yeah , like for mobile phones we have uh different you know covers , like designs and all so that w we can have that . 	
+IS1009b.A.dialog-act.dharshi.170	You know , 	
+IS1009b.B.dialog-act.dharshi.106	Um 	
+IS1009b.A.dialog-act.dharshi.171	yes . 	
+IS1009b.D.dialog-act.dharshi.196	Mm-hmm . 	
+IS1009b.B.dialog-act.dharshi.105	Yes . 	
+IS1009b.A.dialog-act.dharshi.172	That's right , 	
+IS1009b.A.dialog-act.dharshi.173	and 	
+IS1009b.A.dialog-act.dharshi.174	but like if if then everybody is is is tired of the fluorescent blue and of the striped or whatever they have as another one in the package , 	
+IS1009b.D.dialog-act.dharshi.197	Uh yeah . 	
+IS1009b.A.dialog-act.dharshi.175	then they can go to the store and for a few uh Francs or Euros whatever they can buy 	
+IS1009b.C.dialog-act.dharshi.188	Yeah . 	
+IS1009b.D.dialog-act.dharshi.198	An alternate package . 	
+IS1009b.A.dialog-act.dharshi.176	an alternate package with another two colours in it you know for example you know . 	
+IS1009b.D.dialog-act.dharshi.199	Yeah . Okay . 	
+IS1009b.B.dialog-act.dharshi.107	But uh yeah I I have a doubt 	
+IS1009b.B.dialog-act.dharshi.108	like will it be cost wise effective if we if we design a remote having all the uh different features for different people or designing three different um remotes for three different categories of people . 	
+IS1009b.A.dialog-act.dharshi.177	Well I think I think the idea here is to uh to to d design one remote 	
+IS1009b.C.dialog-act.dharshi.189	Yeah , but uh 	
+IS1009b.D.dialog-act.dharshi.200	Well I think we can only aff , 	
+IS1009b.D.dialog-act.dharshi.201	yeah . 	
+IS1009b.B.dialog-act.dharshi.109	Okay . 	
+IS1009b.C.dialog-act.dharshi.190	Yeah . 	
+IS1009b.A.dialog-act.dharshi.178	and what the only change is gonna be um 	
+IS1009b.A.dialog-act.dharshi.179	the funct d t yeah uh 	
+IS1009b.D.dialog-act.dharshi.202	Cosmetic . 	
+IS1009b.B.dialog-act.dharshi.110	Of th okay . 	
+IS1009b.A.dialog-act.dharshi.180	the functional functional cosmetics if you want to put it that way , 	
+IS1009b.B.dialog-act.dharshi.111	Okay . 	
+IS1009b.B.dialog-act.dharshi.112	Mm-hmm . 	
+IS1009b.A.dialog-act.dharshi.181	um having maybe larger buttons or buttons that light up or buttons that are slightly differently shaped for people uh either for children um 	
+IS1009b.A.dialog-act.dharshi.182	Five minutes that was I guess tha that's the old message . 	
+IS1009b.D.dialog-act.dharshi.203	Warning , finish meeting now . 	
+IS1009b.A.dialog-act.dharshi.183	Finish meeting now . Um um . 	
+IS1009b.C.dialog-act.dharshi.191		
+IS1009b.B.dialog-act.dharshi.113		
+IS1009b.D.dialog-act.dharshi.204	Well we may have to come back to one or two of these points at our next meeting but um 	
+IS1009b.C.dialog-act.dharshi.192	Yeah , maybe , yeah , yeah . 	
+IS1009b.A.dialog-act.dharshi.186	But I think 	
+IS1009b.C.dialog-act.dharshi.193	If we do some more research , maybe we . 	
+IS1009b.A.dialog-act.dharshi.184	I I think to sum it up the target group is basically everybody . 	
+IS1009b.A.dialog-act.dharshi.185	If money permits we can address some features for some subgroups within that . 	
+IS1009b.D.dialog-act.dharshi.205	Mm-hmm . 	
+IS1009b.B.dialog-act.dharshi.114	Okay , 	
+IS1009b.C.dialog-act.dharshi.194	Hmm yeah , 	
+IS1009b.B.dialog-act.dharshi.115	mm-hmm . 	
+IS1009b.D.dialog-act.dharshi.206	Okay but we have to l 	
+IS1009b.C.dialog-act.dharshi.195	I think maybe seventy percent is a unique uh uh remote controller and thirty percent is yeah it's sort of like yeah . 	
+IS1009b.A.dialog-act.dharshi.187	Do we agree , do we ? 	
+IS1009b.A.dialog-act.dharshi.188	Do we agree on on that in principle , like money will tell whether we will be able to do that or not . 	
+IS1009b.C.dialog-act.dharshi.196	Yeah , yeah , of course , yeah . 	
+IS1009b.D.dialog-act.dharshi.207	Okay , fair enough . 	
+IS1009b.B.dialog-act.dharshi.116	Yes . 	
+IS1009b.A.dialog-act.dharshi.189	Okay ? 	
+IS1009b.C.dialog-act.dharshi.197	Mm-hmm . 	
+IS1009b.A.dialog-act.dharshi.190	So now I understand it's lunch break . 	
+IS1009b.A.dialog-act.dharshi.191	And um . 	
+IS1009b.A.dialog-act.dharshi.192	So that's what we will do . 	
+IS1009b.D.dialog-act.dharshi.208	Okay . 	
+IS1009b.B.dialog-act.dharshi.117	Okay . 	
+IS1009b.A.dialog-act.dharshi.193	So hank you very much . 	
+IS1009b.C.dialog-act.dharshi.198	Thank you . 	
+IS1009b.A.dialog-act.dharshi.194	And we'll see you after lunch . 	
+

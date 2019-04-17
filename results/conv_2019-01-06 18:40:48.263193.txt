@@ -1,0 +1,53 @@
+This file contains the results of using nested cross-validation (cv) on the dataset. This consists of an outer and inner cv.
+
+	Number of outer cv folds: 3
+	Number of inner cv folds: 3
+
+Dataset: data/original_dataset/
+Response question: vraag16
+
+
+ARCHITECTURE AND HYPERPARAMETERS
+
+Architecture: Convolutional net
+Batch size: 5
+Max number of sentences examined in transcript: 1500
+
+Feature derivation methods: ['mrc', 'pronouns', 'sentiment', 'filled_pauses', 'turn taking', 'all']
+
+Possible hyperparameter values: {'num_layer': [2, 3], 'filters': [50, 250], 'kernel_size': [3, 7], 'strides': [1], 'padding': ['valid'], 'act_func': ['relu'], 'pool_type': ['MaxPooling1D', 'GlobalMaxPooling1D'], 'pool_size': [2], 'pool_padding': ['valid'], 'neurons_per_layer': [10, 50], 'optimizer': ['rmsprop'], 'epochs': [15, 50]}
+
+
+RESULTS
+
+Fold combination #1:
+	Model type: Neural Net
+	Chosen hyperparameters: {'act_func': 'relu', 'epochs': 50, 'filters': 50, 'kernel_size': 7, 'neurons_per_layer': 10, 'num_layer': 2, 'optimizer': 'rmsprop', 'padding': 'valid',
+				 'pool_padding': 'valid', 'pool_size': 2, 'pool_type': 'MaxPooling1D', 'strides': 1}
+	Chosen features: sentiment
+	Average inner cv score: 7.3461
+	Outer fold score: 20.4192
+
+Fold combination #2:
+	Model type: Neural Net
+	Chosen hyperparameters: {'act_func': 'relu', 'epochs': 15, 'filters': 50, 'kernel_size': 3, 'neurons_per_layer': 50, 'num_layer': 3, 'optimizer': 'rmsprop', 'padding': 'valid',
+				 'pool_padding': 'valid', 'pool_size': 2, 'pool_type': 'MaxPooling1D', 'strides': 1}
+	Chosen features: turn taking
+	Average inner cv score: 7.0772
+	Outer fold score: 21.5096
+
+Fold combination #3:
+	Model type: Neural Net
+	Chosen hyperparameters: {'act_func': 'relu', 'epochs': 15, 'filters': 250, 'kernel_size': 3, 'neurons_per_layer': 10, 'num_layer': 3, 'optimizer': 'rmsprop', 'padding': 'valid',
+				 'pool_padding': 'valid', 'pool_size': 2, 'pool_type': 'MaxPooling1D', 'strides': 1}
+	Chosen features: all
+	Average inner cv score: 8.7108
+	Outer fold score: 7.2137
+
+
+NOTES
+
+If the chosen model is a baseline model, then hyperparameters will be NaN since these are only relevant to neural nets.
+If the chosen model is the alternative baseline model, then features will also be NaN since the alt baseline only uses the response variable.
+
+Program running time: 0 days, 5 hours, 8 minutes, 23 seconds

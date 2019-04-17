@@ -1,0 +1,958 @@
+Observation: ES2008b; Result size: 955; atts: 2
+$d@nite:id	$d	
+ES2008b.A.dialog-act.vkaraisk.1	Good to see you all again . 	
+ES2008b.A.dialog-act.vkaraisk.2	Let's see if that comes up . 	
+ES2008b.A.dialog-act.vkaraisk.3	This is our functional design meeting . 	
+ES2008b.A.dialog-act.vkaraisk.4	Um . Just a sec while my PowerPoint comes up . 	
+ES2008b.A.dialog-act.vkaraisk.5	Et voila . 	
+ES2008b.A.dialog-act.vkaraisk.6	Okay . Mm um 	
+ES2008b.A.dialog-act.vkaraisk.7	we put the fashion in electronics . 	
+ES2008b.A.dialog-act.vkaraisk.8	Let's start . 	
+ES2008b.A.dialog-act.vkaraisk.9	Okay , 	
+ES2008b.A.dialog-act.vkaraisk.10	our agenda today um 	
+ES2008b.A.dialog-act.vkaraisk.11	just check the time , 	
+ES2008b.A.dialog-act.vkaraisk.12	it's twelve thirteen . 	
+ES2008b.A.dialog-act.vkaraisk.13	Um . I'm gonna do an opening , 	
+ES2008b.A.dialog-act.vkaraisk.14	talk about um 	
+ES2008b.A.dialog-act.vkaraisk.15	did you all get the minutes ? 	
+ES2008b.A.dialog-act.vkaraisk.16	I e-mailed them to you . 	
+ES2008b.A.dialog-act.vkaraisk.17	I'm also putting 'em them in the shared folder . 	
+ES2008b.C.dialog-act.vkaraisk.1	Yep . 	
+ES2008b.A.dialog-act.vkaraisk.18	So um then I we'll talk about our general objectives 	
+ES2008b.B.dialog-act.vkaraisk.1	Right . 	
+ES2008b.A.dialog-act.vkaraisk.19	and have your three presentations . 	
+ES2008b.A.dialog-act.vkaraisk.20	Um I'll talk about the new project requirements I've just received , 	
+ES2008b.A.dialog-act.vkaraisk.21	and then we have to make a decision on our remote control functions . 	
+ES2008b.A.dialog-act.vkaraisk.22	Finally we'll just close . 	
+ES2008b.A.dialog-act.vkaraisk.23	We're starting this meeting at approximately twelve thirteen 	
+ES2008b.A.dialog-act.vkaraisk.24	and we have forty minutes . 	
+ES2008b.A.dialog-act.vkaraisk.25	So 	
+ES2008b.A.dialog-act.vkaraisk.26	First of all the functional design objectives . 	
+ES2008b.A.dialog-act.vkaraisk.27	Uh we need to keep in mind the user requirement specification , what needs and desires are to be fulfilled , the functions design , what effects the apparatus should have , and the working design , how the apparatus actually works to fulfil its function . 	
+ES2008b.A.dialog-act.vkaraisk.28	Okay , 	
+ES2008b.A.dialog-act.vkaraisk.29	three presentations , 	
+ES2008b.A.dialog-act.vkaraisk.30	um you can go in any order you choose um . 	
+ES2008b.D.dialog-act.vkaraisk.1		
+ES2008b.D.dialog-act.vkaraisk.2	Mm shall we go in the order that you just did it ? 	
+ES2008b.A.dialog-act.vkaraisk.31	Sure , please do . 	
+ES2008b.D.dialog-act.vkaraisk.3	I dunno . 	
+ES2008b.D.dialog-act.vkaraisk.4	How do I hook my screen up ? 	
+ES2008b.B.dialog-act.vkaraisk.2	I think , you might have to disconnect Rose . 	
+ES2008b.A.dialog-act.vkaraisk.33	Yes I do . 	
+ES2008b.A.dialog-act.vkaraisk.32	Yeah . 	
+ES2008b.C.dialog-act.vkaraisk.3	Well 	
+ES2008b.C.dialog-act.vkaraisk.4	there's a wee a wee plug just just that one there 	
+ES2008b.D.dialog-act.vkaraisk.5	Where does it go ? 	
+ES2008b.D.dialog-act.vkaraisk.6	Mm-hmm . 	
+ES2008b.D.dialog-act.vkaraisk.7	Hmm , I'm not supposed to move this , 	
+ES2008b.C.dialog-act.vkaraisk.5		
+ES2008b.D.dialog-act.vkaraisk.8	but 	
+ES2008b.C.dialog-act.vkaraisk.6	Ah 	
+ES2008b.C.dialog-act.vkaraisk.7	that's it , 	
+ES2008b.C.dialog-act.vkaraisk.11	yep . 	
+ES2008b.D.dialog-act.vkaraisk.9		
+ES2008b.C.dialog-act.vkaraisk.8	And then you have to press function F_ eight 	
+ES2008b.C.dialog-act.vkaraisk.9	I think it is on your laptop . 	
+ES2008b.A.dialog-act.vkaraisk.34	Function , F_ eight , yeah . 	
+ES2008b.D.dialog-act.vkaraisk.10	Where's function ? 	
+ES2008b.A.dialog-act.vkaraisk.35	The blue one , F_N_ . 	
+ES2008b.D.dialog-act.vkaraisk.11	No signal . 	
+ES2008b.A.dialog-act.vkaraisk.36	Is it plugged in all the way 	
+ES2008b.A.dialog-act.vkaraisk.37	and you screwed it in 	
+ES2008b.A.dialog-act.vkaraisk.38	and 	
+ES2008b.D.dialog-act.vkaraisk.12	Ah , wait , 	
+ES2008b.B.dialog-act.vkaraisk.3	Yeah . 	
+ES2008b.D.dialog-act.vkaraisk.13	's screw in . 	
+ES2008b.B.dialog-act.vkaraisk.4	I I think you just have to push it in really hard . 	
+ES2008b.D.dialog-act.vkaraisk.14	Push the screw . 	
+ES2008b.C.dialog-act.vkaraisk.10	That's it . 	
+ES2008b.B.dialog-act.vkaraisk.5	Oh , got it . 	
+ES2008b.A.dialog-act.vkaraisk.39	Mm 'kay . 	
+ES2008b.D.dialog-act.vkaraisk.15	Mm alright 	
+ES2008b.A.dialog-act.vkaraisk.40	It's taking it a little bit 	
+ES2008b.D.dialog-act.vkaraisk.16	I've never attached to anything . 	
+ES2008b.B.dialog-act.vkaraisk.6	Mm , 	
+ES2008b.B.dialog-act.vkaraisk.7	neither have I . 	
+ES2008b.A.dialog-act.vkaraisk.41	'Kay there you go . 	
+ES2008b.D.dialog-act.vkaraisk.17	Alright , so , 	
+ES2008b.B.dialog-act.vkaraisk.8	Alright . 	
+ES2008b.D.dialog-act.vkaraisk.18	I don't know if you guys are able to get access to um the report that was online 	
+ES2008b.D.dialog-act.vkaraisk.19	or if I'm the only one who is . 	
+ES2008b.D.dialog-act.vkaraisk.20	But , 	
+ES2008b.D.dialog-act.vkaraisk.21	I don't even know how to play this . 	
+ES2008b.D.dialog-act.vkaraisk.22	No . 	
+ES2008b.A.dialog-act.vkaraisk.42	Press the little presentation . 	
+ES2008b.A.dialog-act.vkaraisk.43	It's the um 	
+ES2008b.A.dialog-act.vkaraisk.44	it looks like a Y_ kind of over there above Draw . 	
+ES2008b.A.dialog-act.vkaraisk.45	There , that one , 	
+ES2008b.A.dialog-act.vkaraisk.46	there you go . 	
+ES2008b.D.dialog-act.vkaraisk.23	Alright . So 	
+ES2008b.D.dialog-act.vkaraisk.24	we're just gonna talk a little bit about the functional requirements that people specified when they were asked . 	
+ES2008b.D.dialog-act.vkaraisk.25	Um I guess Real Reaction did some market research . 	
+ES2008b.D.dialog-act.vkaraisk.26	They had a hundred subjects and their usability lab 	
+ES2008b.D.dialog-act.vkaraisk.27	and they watched them watch T_V_ 	
+ES2008b.D.dialog-act.vkaraisk.28	and recorded the frequency that they used particular buttons and the relevance that those buttons had . 	
+ES2008b.D.dialog-act.vkaraisk.29	What they found was they analysed people's desires and needs . 	
+ES2008b.D.dialog-act.vkaraisk.30	Focusing on their desires , um people specifically said that they thought remotes were ugly , 	
+ES2008b.D.dialog-act.vkaraisk.31	seventy five per cent of the a hundred subjects noted that 	
+ES2008b.D.dialog-act.vkaraisk.32	and that they 	
+ES2008b.D.dialog-act.vkaraisk.33	more importantly though , eighty per cent said that they would be willing to pay more for a fancier looking remote . 	
+ES2008b.D.dialog-act.vkaraisk.34	I don't know anything beyond what fancy means , 	
+ES2008b.B.dialog-act.vkaraisk.9	Hmm . 	
+ES2008b.D.dialog-act.vkaraisk.35	but that's particularly of use to us , I think . 	
+ES2008b.D.dialog-act.vkaraisk.36	Um also they did some questions on voice recognition 	
+ES2008b.D.dialog-act.vkaraisk.37	and found that the desire for voice recognition was inversely related to age , 	
+ES2008b.D.dialog-act.vkaraisk.38	so younger people were more inclined to want something with voice recognition , 	
+ES2008b.D.dialog-act.vkaraisk.39	whereas the older people in the like sixty and above segment or so did not really think that they would pay more money for voice recognitions . 	
+ES2008b.D.dialog-act.vkaraisk.40	Um people also had certain frustrations , 	
+ES2008b.B.dialog-act.vkaraisk.10	'Kay . 	
+ES2008b.D.dialog-act.vkaraisk.41	that I think that we could try to take into consideration with our design . 	
+ES2008b.D.dialog-act.vkaraisk.42	That being people k um frustrated with losing their remotes . 	
+ES2008b.D.dialog-act.vkaraisk.43	I think , over fifty percent of the people mentioned that that was their biggest frustration . 	
+ES2008b.D.dialog-act.vkaraisk.44	People are also frustrated with the difficulty it is to learn how to use a remote 	
+ES2008b.D.dialog-act.vkaraisk.45	and I think that ties back to what you were saying before 	
+ES2008b.B.dialog-act.vkaraisk.11	Hmm . 	
+ES2008b.D.dialog-act.vkaraisk.46	just that there's too many buttons , 	
+ES2008b.D.dialog-act.vkaraisk.47	it just needs to be easy to use . 	
+ES2008b.D.dialog-act.vkaraisk.48	It also mentioned something called R_S_I_ 	
+ES2008b.D.dialog-act.vkaraisk.49	and I was hoping someone might be able to inform me as to what R_S_I_ is , 	
+ES2008b.D.dialog-act.vkaraisk.50	because I don't know . 	
+ES2008b.C.dialog-act.vkaraisk.12	Repetitive strain injury . 	
+ES2008b.D.dialog-act.vkaraisk.51	What ? 	
+ES2008b.C.dialog-act.vkaraisk.13	Repetitive strain injury . 	
+ES2008b.A.dialog-act.vkaraisk.47		
+ES2008b.D.dialog-act.vkaraisk.52	Ah . There we go . 	
+ES2008b.D.dialog-act.vkaraisk.53	Wow . 	
+ES2008b.C.dialog-act.vkaraisk.14	So if you 	
+ES2008b.D.dialog-act.vkaraisk.54	People do not like that . 	
+ES2008b.D.dialog-act.vkaraisk.55	So I guess sort of the carpal tunnel type thing , people do not like that , 	
+ES2008b.D.dialog-act.vkaraisk.56	um the repetitive use , I guess , caused a strain . 	
+ES2008b.D.dialog-act.vkaraisk.57	Um looking at the needs people specified , the problem right now is that people's remotes are not matching their operating behaviour . 	
+ES2008b.D.dialog-act.vkaraisk.58	People are only using ten per cent of the buttons that they have offered to them on their remote . 	
+ES2008b.D.dialog-act.vkaraisk.59	And what people do most often is changing the channel and changing the volume . 	
+ES2008b.D.dialog-act.vkaraisk.60	People also zap like to change the channel , about um sixty five per cent during an hour of use . 	
+ES2008b.D.dialog-act.vkaraisk.61	So we really just need to focus in on those volumes and channel changers rather than things like the audio settings , the screen settings and the channel settings , 	
+ES2008b.D.dialog-act.vkaraisk.62	because they're used much more infrequently 	
+ES2008b.D.dialog-act.vkaraisk.63	and probably just complicate what's going on . 	
+ES2008b.D.dialog-act.vkaraisk.64	So I think that some things that we might wanna think about , 	
+ES2008b.D.dialog-act.vkaraisk.65	the idea of an L_C_D_ screen was brought up 	
+ES2008b.D.dialog-act.vkaraisk.66	although they didn't have any details on what people's preferences on that were , 	
+ES2008b.D.dialog-act.vkaraisk.67	so I dunno know if that's coming to me later , or something like that . 	
+ES2008b.D.dialog-act.vkaraisk.68	But something for us to consider 	
+ES2008b.D.dialog-act.vkaraisk.69	also just the phenomenon that less is more when it comes to the buttons on the remote 	
+ES2008b.D.dialog-act.vkaraisk.70	or what we wanna make easiest to use , 	
+ES2008b.D.dialog-act.vkaraisk.71	make sure that , you know , something like an audio setting isn't given as much importance and visibility on the remote as something like channel changing that's used a lot more often . 	
+ES2008b.D.dialog-act.vkaraisk.72	And basically in order for us to win over to the consumer we just need to focus on what it looks like , 	
+ES2008b.D.dialog-act.vkaraisk.73	that it has a fancy appeal 	
+ES2008b.D.dialog-act.vkaraisk.74	and that it's not ugly 	
+ES2008b.D.dialog-act.vkaraisk.75	and that it feels like the way they're gonna use it , 	
+ES2008b.D.dialog-act.vkaraisk.76	so it doesn't give them any hand injuries or things like that . 	
+ES2008b.B.dialog-act.vkaraisk.12	Hmm . 	
+ES2008b.A.dialog-act.vkaraisk.48	Thank you very much . 	
+ES2008b.A.dialog-act.vkaraisk.49	That was that was great . 	
+ES2008b.B.dialog-act.vkaraisk.13	Mm 'kay . 	
+ES2008b.A.dialog-act.vkaraisk.50	Um 's move on to the next presentation um on effects . 	
+ES2008b.A.dialog-act.vkaraisk.51	Was that you ? 	
+ES2008b.D.dialog-act.vkaraisk.77	Hmm . 	
+ES2008b.A.dialog-act.vkaraisk.52	Great . 	
+ES2008b.D.dialog-act.vkaraisk.78	Yeah , 	
+ES2008b.D.dialog-act.vkaraisk.79	have I unscrewed it ? 	
+ES2008b.A.dialog-act.vkaraisk.53	Push . 	
+ES2008b.A.dialog-act.vkaraisk.54	User interface , 	
+ES2008b.A.dialog-act.vkaraisk.55	right . 	
+ES2008b.A.dialog-act.vkaraisk.56	Interface . 	
+ES2008b.D.dialog-act.vkaraisk.80	Here we go . 	
+ES2008b.C.dialog-act.vkaraisk.15	Cheers . 	
+ES2008b.D.dialog-act.vkaraisk.81	Mm-hmm . 	
+ES2008b.D.dialog-act.vkaraisk.82	And I think that's in the shared , if I did it right , if anyone wants to look at it . 	
+ES2008b.A.dialog-act.vkaraisk.57	Mm 'kay , 	
+ES2008b.B.dialog-act.vkaraisk.14	Okay , 	
+ES2008b.A.dialog-act.vkaraisk.58	thank you . 	
+ES2008b.B.dialog-act.vkaraisk.15	great . 	
+ES2008b.D.dialog-act.vkaraisk.83		
+ES2008b.A.dialog-act.vkaraisk.59	Okay . 	
+ES2008b.C.dialog-act.vkaraisk.16	Here we go . 	
+ES2008b.C.dialog-act.vkaraisk.17	Right so 	
+ES2008b.C.dialog-act.vkaraisk.18	I'm gonna talk about the technical technical functions design of the remote control um . 	
+ES2008b.C.dialog-act.vkaraisk.19	We need to start by considering what a remote control actually is . 	
+ES2008b.C.dialog-act.vkaraisk.20	It's a device that allows us to produce certain effects on our television , 	
+ES2008b.C.dialog-act.vkaraisk.21	so i it's basically a communication device . 	
+ES2008b.C.dialog-act.vkaraisk.22	We we tell the remote control what we want to do , 	
+ES2008b.C.dialog-act.vkaraisk.23	it sends a message to the television 	
+ES2008b.C.dialog-act.vkaraisk.24	saying change the channel , 	
+ES2008b.C.dialog-act.vkaraisk.25	change the volume , 	
+ES2008b.C.dialog-act.vkaraisk.28	uh yeah , 	
+ES2008b.C.dialog-act.vkaraisk.26	adjust these settings , 	
+ES2008b.C.dialog-act.vkaraisk.27	adjust the brightness . 	
+ES2008b.C.dialog-act.vkaraisk.29	Um how do we actually go about designing a new television remote control ? 	
+ES2008b.C.dialog-act.vkaraisk.30	First thing to do is to come up with the design specifications . 	
+ES2008b.C.dialog-act.vkaraisk.31	We need to know what our final product is gonna be like , 	
+ES2008b.C.dialog-act.vkaraisk.32	so we need a a clear idea of exactly what this product does , 	
+ES2008b.C.dialog-act.vkaraisk.33	uh how it works , 	
+ES2008b.C.dialog-act.vkaraisk.34	and what the end-user is gonna want from this product . 	
+ES2008b.C.dialog-act.vkaraisk.35	Um . Oh , 	
+ES2008b.C.dialog-act.vkaraisk.36	a way I'd suggest that we could go about this is by designing uh several different prototypes of user interfaces for this product , 	
+ES2008b.C.dialog-act.vkaraisk.37	um and then uh trying to get some feedback uh about 	
+ES2008b.D.dialog-act.vkaraisk.84		
+ES2008b.C.dialog-act.vkaraisk.38	h how well these particular prototypes work , 	
+ES2008b.C.dialog-act.vkaraisk.39	uh sorta find out what people think of 'em . 	
+ES2008b.C.dialog-act.vkaraisk.40	Um using a remote control is is quite a subjective experience . Um , 	
+ES2008b.A.dialog-act.vkaraisk.60	Hmm . 	
+ES2008b.C.dialog-act.vkaraisk.41	and different different people sort of prefer different things . 	
+ES2008b.C.dialog-act.vkaraisk.42	Um we should remember that remote controls are a a fairly standard piece of equipment . 	
+ES2008b.C.dialog-act.vkaraisk.43	When a users using a remote control , he or she expects the buttons to be in certain places . 	
+ES2008b.C.dialog-act.vkaraisk.44	So in some sense we're gonna we're gonna have to aim for a device which is fairly conventional in design 	
+ES2008b.C.dialog-act.vkaraisk.45	uh so that we're not completely shocking people . 	
+ES2008b.C.dialog-act.vkaraisk.46	But I think within that there is also room for us to introduce novel ideas 	
+ES2008b.C.dialog-act.vkaraisk.47	uh and to make something that's that's perhaps a little bit different , something that stands out . 	
+ES2008b.C.dialog-act.vkaraisk.48	Um also in in designing the user interface we need to consider practicalities . 	
+ES2008b.C.dialog-act.vkaraisk.49	Uh the first of these is is technological 	
+ES2008b.C.dialog-act.vkaraisk.50	ye 	
+ES2008b.C.dialog-act.vkaraisk.51	uh what can we do with the current state of technology as it is . 	
+ES2008b.C.dialog-act.vkaraisk.52	The second is is economic , 	
+ES2008b.C.dialog-act.vkaraisk.53	uh we need to find a balance between features and price . 	
+ES2008b.C.dialog-act.vkaraisk.54	So 	
+ES2008b.C.dialog-act.vkaraisk.55	as you mentioned 	
+ES2008b.C.dialog-act.vkaraisk.56	things like voice recognition would would add to the price 	
+ES2008b.C.dialog-act.vkaraisk.57	uh but it would also im improve the design of the product . 	
+ES2008b.A.dialog-act.vkaraisk.61	Hmm . 	
+ES2008b.C.dialog-act.vkaraisk.58	So 	
+ES2008b.C.dialog-act.vkaraisk.59	I had a look on the on the web uh to see if I could find a few examples of existing television remote controls . 	
+ES2008b.C.dialog-act.vkaraisk.60	In analysing these we can consider what what things what's good about them , 	
+ES2008b.C.dialog-act.vkaraisk.61	uh what things do they get right , 	
+ES2008b.C.dialog-act.vkaraisk.62	what's bad about them , 	
+ES2008b.C.dialog-act.vkaraisk.63	what's wrong with 'em , 	
+ES2008b.C.dialog-act.vkaraisk.64	um how we can improve on the designs that that that I found 	
+ES2008b.C.dialog-act.vkaraisk.65	and what can we do to make our product stand out from from the large majority of remote controls . 	
+ES2008b.C.dialog-act.vkaraisk.66	Here's two examples uh probably at the extreme ends of the spectrum . 	
+ES2008b.A.dialog-act.vkaraisk.62		
+ES2008b.C.dialog-act.vkaraisk.67	Um on the left here we've got uh an engineering-based design for a remote control , 	
+ES2008b.B.dialog-act.vkaraisk.16		
+ES2008b.C.dialog-act.vkaraisk.68	so it's one that's got lots of buttons , 	
+ES2008b.C.dialog-act.vkaraisk.69	it's it's fully featured , 	
+ES2008b.C.dialog-act.vkaraisk.70	everything you might possibly want to do is there , 	
+ES2008b.C.dialog-act.vkaraisk.71	you know , it's got forward , backwards , up , down , channel numbers , volume , uh freeze frame . 	
+ES2008b.C.dialog-act.vkaraisk.73	Yeah , 	
+ES2008b.C.dialog-act.vkaraisk.72	it's it's fully featured 	
+ES2008b.C.dialog-act.vkaraisk.74	and it might take a while to get to learn to use it , 	
+ES2008b.C.dialog-act.vkaraisk.75	but once you've learned it you can you can do whatever you want with your T_V_ . 	
+ES2008b.C.dialog-act.vkaraisk.76	The one on the right is a lot more basic . 	
+ES2008b.C.dialog-act.vkaraisk.77	It's just got the essential functions of the T_V_ changing the channel , play , stop , volume . 	
+ES2008b.C.dialog-act.vkaraisk.78	It would be a lot quicker to learn to use it , 	
+ES2008b.C.dialog-act.vkaraisk.79	but again th it's it's swings and roundabouts . 	
+ES2008b.C.dialog-act.vkaraisk.80	There are disadvantages , 	
+ES2008b.C.dialog-act.vkaraisk.81	you can't use it say to to freeze the television picture . 	
+ES2008b.C.dialog-act.vkaraisk.82	Uh there's a lot of features that are missing from that remote control . 	
+ES2008b.C.dialog-act.vkaraisk.83	So we've got to to find our find a way of striking a balance between the two . 	
+ES2008b.C.dialog-act.vkaraisk.84	Um as I said before , remote controls are subjective , 	
+ES2008b.C.dialog-act.vkaraisk.85	different people want want different things . 	
+ES2008b.C.dialog-act.vkaraisk.86	Um personally wa what I want from a remote control is a device that's simple , 	
+ES2008b.C.dialog-act.vkaraisk.87	it it's easy to use , 	
+ES2008b.C.dialog-act.vkaraisk.88	uh it's got big buttons for doing the things I do most often , changing the volume , changing the channel . 	
+ES2008b.C.dialog-act.vkaraisk.89	It it does everything that I need it to uh , 	
+ES2008b.C.dialog-act.vkaraisk.90	as I said before , I'm quite lazy , 	
+ES2008b.C.dialog-act.vkaraisk.91	I don't wanna walk across the room just to adjust my television . 	
+ES2008b.C.dialog-act.vkaraisk.92	I also want something that that looks cool , 	
+ES2008b.C.dialog-act.vkaraisk.93	um and that that feels good , 	
+ES2008b.C.dialog-act.vkaraisk.94	that's ergonomically designed . 	
+ES2008b.A.dialog-act.vkaraisk.63	Mm 'kay . 	
+ES2008b.A.dialog-act.vkaraisk.64	Thank you very much . 	
+ES2008b.A.dialog-act.vkaraisk.65	That was very useful . 	
+ES2008b.A.dialog-act.vkaraisk.66	It's funny to see the drastic difference between those two remotes . Um . 	
+ES2008b.B.dialog-act.vkaraisk.17	Hmm . 	
+ES2008b.A.dialog-act.vkaraisk.67	And neither of them were very pretty , you know ? 	
+ES2008b.D.dialog-act.vkaraisk.85	No . 	
+ES2008b.C.dialog-act.vkaraisk.95		
+ES2008b.B.dialog-act.vkaraisk.18	Yeah . 	
+ES2008b.B.dialog-act.vkaraisk.19	I think that could be our selling point . 	
+ES2008b.A.dialog-act.vkaraisk.68	Mm . 	
+ES2008b.D.dialog-act.vkaraisk.86	A fashion fashion remote . 	
+ES2008b.C.dialog-act.vkaraisk.96	I think there's there's certainly a market for technology that looks cool . 	
+ES2008b.B.dialog-act.vkaraisk.20	Right . 	
+ES2008b.A.dialog-act.vkaraisk.69	Mm . 	
+ES2008b.D.dialog-act.vkaraisk.87	Mm-hmm . 	
+ES2008b.C.dialog-act.vkaraisk.97	And I think that's that's why companies like Apple've 've 've made a lot of progress . 	
+ES2008b.B.dialog-act.vkaraisk.21	Hmm . 	
+ES2008b.D.dialog-act.vkaraisk.88	Yeah . 	
+ES2008b.B.dialog-act.vkaraisk.22	Right , 	
+ES2008b.B.dialog-act.vkaraisk.23	I really can't see what I'm doing , 	
+ES2008b.B.dialog-act.vkaraisk.24	so does anyone have a 	
+ES2008b.A.dialog-act.vkaraisk.70	You 	
+ES2008b.A.dialog-act.vkaraisk.71	there it is . 	
+ES2008b.B.dialog-act.vkaraisk.25	Ah-ha , 	
+ES2008b.B.dialog-act.vkaraisk.26	look at that , showing up already . 	
+ES2008b.A.dialog-act.vkaraisk.72	Lovely . 	
+ES2008b.D.dialog-act.vkaraisk.89	So wait , 	
+ES2008b.D.dialog-act.vkaraisk.90	did it let you go on the Internet 	
+ES2008b.D.dialog-act.vkaraisk.91	or was that just what it let you see ? 	
+ES2008b.C.dialog-act.vkaraisk.98	Uh that was just on the d on the company web site , yeah . 	
+ES2008b.D.dialog-act.vkaraisk.92	Okay . 	
+ES2008b.D.dialog-act.vkaraisk.93	'Cause I was like googling 	
+ES2008b.A.dialog-act.vkaraisk.73	Hmm . 	
+ES2008b.B.dialog-act.vkaraisk.27	Yeah . 	
+ES2008b.D.dialog-act.vkaraisk.94	and then I'm like wait it won't let me google . 	
+ES2008b.C.dialog-act.vkaraisk.99		
+ES2008b.B.dialog-act.vkaraisk.28	Alright um 	
+ES2008b.B.dialog-act.vkaraisk.29	No , 	
+ES2008b.B.dialog-act.vkaraisk.30	how do I play again ? 	
+ES2008b.A.dialog-act.vkaraisk.74	Um the 	
+ES2008b.A.dialog-act.vkaraisk.75	it's right above Draw . 	
+ES2008b.A.dialog-act.vkaraisk.76	There are three thingy if 	
+ES2008b.A.dialog-act.vkaraisk.77	it's way at the bottom . Under three icons 	
+ES2008b.B.dialog-act.vkaraisk.31	Ah . 	
+ES2008b.A.dialog-act.vkaraisk.78	and it's the one that looks like a desk . 	
+ES2008b.A.dialog-act.vkaraisk.79	Yeah , that one . 	
+ES2008b.A.dialog-act.vkaraisk.80	There are Y_s . 	
+ES2008b.B.dialog-act.vkaraisk.32	Okay . So 	
+ES2008b.B.dialog-act.vkaraisk.33	this is our working design presentation . 	
+ES2008b.B.dialog-act.vkaraisk.34	Um I had a bit of some issues with this , 	
+ES2008b.B.dialog-act.vkaraisk.35	because I wasn't able to find everything I needed , 	
+ES2008b.B.dialog-act.vkaraisk.36	but I guess that's we're still in early stages . 	
+ES2008b.B.dialog-act.vkaraisk.37	Um so , yeah , 	
+ES2008b.B.dialog-act.vkaraisk.38	this is this . 	
+ES2008b.B.dialog-act.vkaraisk.39	Though th the thing about working design is the 	
+ES2008b.B.dialog-act.vkaraisk.40	what we're trying to do as a working design is figure out how the aparata apparatus can fulfil its function . 	
+ES2008b.B.dialog-act.vkaraisk.41	Um one of the examples that kept coming up for me is that a coffee grinder . 	
+ES2008b.B.dialog-act.vkaraisk.42	It works 	
+ES2008b.B.dialog-act.vkaraisk.43	because it converts electrical energy to grinding the beans 	
+ES2008b.B.dialog-act.vkaraisk.44	and then you put the bean through a filter 	
+ES2008b.B.dialog-act.vkaraisk.45	and that filters out , 	
+ES2008b.B.dialog-act.vkaraisk.46	and then you get coffee at the end that's nice and hot 	
+ES2008b.B.dialog-act.vkaraisk.47	because of the combination of electrical energy and then the other things that are brought in to make it work . 	
+ES2008b.B.dialog-act.vkaraisk.48	Don't know if I'm explaining that very well , 	
+ES2008b.B.dialog-act.vkaraisk.49	but how do I get to the next s 	
+ES2008b.B.dialog-act.vkaraisk.50	ah . 	
+ES2008b.B.dialog-act.vkaraisk.51	So 	
+ES2008b.B.dialog-act.vkaraisk.52	h the method as 	
+ES2008b.B.dialog-act.vkaraisk.53	um working designers figure out what you need to make it fulfil this practical function , 	
+ES2008b.B.dialog-act.vkaraisk.54	what what needs to be done 	
+ES2008b.B.dialog-act.vkaraisk.55	and how do we convert all the elements to make that done . 	
+ES2008b.D.dialog-act.vkaraisk.95		
+ES2008b.B.dialog-act.vkaraisk.56	So 	
+ES2008b.B.dialog-act.vkaraisk.57	wha 	
+ES2008b.B.dialog-act.vkaraisk.58	the easiest thing to do is to break down all the points 	
+ES2008b.B.dialog-act.vkaraisk.59	at which you need something to happen . 	
+ES2008b.B.dialog-act.vkaraisk.60	So you make a schematic of the way that the the energy is converted tsh towards this practical function . 	
+ES2008b.B.dialog-act.vkaraisk.61	And then I think the easiest thing to do is gonna be work on each task separately . 	
+ES2008b.B.dialog-act.vkaraisk.62	So um 	
+ES2008b.B.dialog-act.vkaraisk.63	Uh . Uh . 	
+ES2008b.A.dialog-act.vkaraisk.81	You just press 	
+ES2008b.A.dialog-act.vkaraisk.82	yeah , 	
+ES2008b.A.dialog-act.vkaraisk.83	just click . 	
+ES2008b.A.dialog-act.vkaraisk.84	That'll be fine . 	
+ES2008b.B.dialog-act.vkaraisk.64	So 	
+ES2008b.B.dialog-act.vkaraisk.65	the findings that I got uh very just very briefly is that you have a choice of the way that the information is projected to the receiver 	
+ES2008b.B.dialog-act.vkaraisk.66	and in my opinion infra-red is the best way to do that 	
+ES2008b.B.dialog-act.vkaraisk.67	'cause you don't need a sight line . 	
+ES2008b.B.dialog-act.vkaraisk.68	So that's one thing we're gonna work on . 	
+ES2008b.B.dialog-act.vkaraisk.69	Um the user interface is critical here , 	
+ES2008b.B.dialog-act.vkaraisk.70	because a lot of the things that happen in a remote control happen through the chip that controls that converts the electrical energy into data , 	
+ES2008b.B.dialog-act.vkaraisk.71	which then goes through the infra-red , 	
+ES2008b.B.dialog-act.vkaraisk.72	so the the chip that uh I think Ian is designing , is gonna be crucial . 	
+ES2008b.B.dialog-act.vkaraisk.73	And really it all comes down to the to the user , 	
+ES2008b.B.dialog-act.vkaraisk.74	because they're the one that's controlling most of the working design . 	
+ES2008b.B.dialog-act.vkaraisk.75	So 	
+ES2008b.B.dialog-act.vkaraisk.76	the components that we find here are the energy source , you know the battery or whatever that's gonna m make it work , then the chip , which converts the data , the user that's controlling the chip , and the infra-red bulb that's gonna let us move the data to the receiver . 	
+ES2008b.B.dialog-act.vkaraisk.77	So you have four main components 	
+ES2008b.B.dialog-act.vkaraisk.78	and they are designed sort of like this . 	
+ES2008b.B.dialog-act.vkaraisk.79	You have your energy source right there 	
+ES2008b.B.dialog-act.vkaraisk.80	which then um brings uh energy or information to the chip , 	
+ES2008b.B.dialog-act.vkaraisk.81	which is also controlled by the users . 	
+ES2008b.B.dialog-act.vkaraisk.82	You have energy going to the user who's controlling the chip 	
+ES2008b.B.dialog-act.vkaraisk.83	ooh 's not what I wanted to do uh uh . 	
+ES2008b.A.dialog-act.vkaraisk.85	Um yeah 	
+ES2008b.A.dialog-act.vkaraisk.86	use that thing you can go back , previous . 	
+ES2008b.B.dialog-act.vkaraisk.84	Previous . 	
+ES2008b.B.dialog-act.vkaraisk.85	Sorry about that , guys . 	
+ES2008b.A.dialog-act.vkaraisk.87	Pardon . 	
+ES2008b.B.dialog-act.vkaraisk.86	Oh . 	
+ES2008b.A.dialog-act.vkaraisk.88	Oh , well . 	
+ES2008b.B.dialog-act.vkaraisk.87	No , no , no , no , no . 	
+ES2008b.A.dialog-act.vkaraisk.89	Okay . 	
+ES2008b.B.dialog-act.vkaraisk.88	Okay , 	
+ES2008b.B.dialog-act.vkaraisk.89	let's just get back to my schematic here . 	
+ES2008b.A.dialog-act.vkaraisk.90	Ye 	
+ES2008b.A.dialog-act.vkaraisk.91	Double click on it . With the right with the left hand one . 	
+ES2008b.B.dialog-act.vkaraisk.90	W 	
+ES2008b.B.dialog-act.vkaraisk.91	yeah , yeah . 	
+ES2008b.B.dialog-act.vkaraisk.92	I think it's frozen . 	
+ES2008b.B.dialog-act.vkaraisk.93	Here . Don't show me that tip again . 	
+ES2008b.A.dialog-act.vkaraisk.93	There we are . 	
+ES2008b.B.dialog-act.vkaraisk.94	There we are . 	
+ES2008b.B.dialog-act.vkaraisk.95	Sorry about this , guys . 	
+ES2008b.D.dialog-act.vkaraisk.96		
+ES2008b.B.dialog-act.vkaraisk.96	I'm kind of pathetic with things like this . 	
+ES2008b.B.dialog-act.vkaraisk.97	Um alright . 	
+ES2008b.B.dialog-act.vkaraisk.98	So you have your energy source , your user interface who's controlling the chip , 	
+ES2008b.B.dialog-act.vkaraisk.99	the chip also uses the energy , 	
+ES2008b.B.dialog-act.vkaraisk.100	and the chip through the use of the user interface is gonna control the switch 	
+ES2008b.B.dialog-act.vkaraisk.101	which will work your infra-red bulb , 	
+ES2008b.B.dialog-act.vkaraisk.102	which will then bring the data to the receiver . 	
+ES2008b.B.dialog-act.vkaraisk.103	So 	
+ES2008b.B.dialog-act.vkaraisk.104	hopefully that makes sense for everyone in my kind of garbled way . 	
+ES2008b.B.dialog-act.vkaraisk.105	This is the the parts of the working design that need to be figured out . 	
+ES2008b.A.dialog-act.vkaraisk.94	Mm-hmm . 	
+ES2008b.B.dialog-act.vkaraisk.106	And personal preferences , besides the fact that I can't spell , we need a long-lasting energy source , 	
+ES2008b.B.dialog-act.vkaraisk.107	people don't wanna be changing it a lot . 	
+ES2008b.B.dialog-act.vkaraisk.108	We need a chip that works well with the user interface , 	
+ES2008b.B.dialog-act.vkaraisk.109	that isn't too complicated . 	
+ES2008b.B.dialog-act.vkaraisk.110	We need a straightforward interface , like Ian was saying , simple , not overwhelming it with information 	
+ES2008b.B.dialog-act.vkaraisk.111	and we need a reliable and clear infra-red signal , 	
+ES2008b.B.dialog-act.vkaraisk.112	so that you're not waving your remote around 	
+ES2008b.B.dialog-act.vkaraisk.113	and having to get frustrated 	
+ES2008b.A.dialog-act.vkaraisk.95	Mm-hmm . 	
+ES2008b.B.dialog-act.vkaraisk.114	and go do it by hands . 	
+ES2008b.B.dialog-act.vkaraisk.115	So that's pretty much it for the working design . 	
+ES2008b.A.dialog-act.vkaraisk.96	Excellent . 	
+ES2008b.A.dialog-act.vkaraisk.97	So , um . 	
+ES2008b.B.dialog-act.vkaraisk.116	Rose , do you think you can give me a hand with this ? 	
+ES2008b.A.dialog-act.vkaraisk.98	Yes , absolutely . 	
+ES2008b.A.dialog-act.vkaraisk.99	Ah 	
+ES2008b.A.dialog-act.vkaraisk.100	I can never tell which way to turn these things . 	
+ES2008b.B.dialog-act.vkaraisk.117	Yeah . 	
+ES2008b.A.dialog-act.vkaraisk.101	Lefty loosey , righty tighty , 	
+ES2008b.A.dialog-act.vkaraisk.102	right ? 	
+ES2008b.B.dialog-act.vkaraisk.118	Yeah . 	
+ES2008b.D.dialog-act.vkaraisk.97		
+ES2008b.C.dialog-act.vkaraisk.100	What's up ? 	
+ES2008b.B.dialog-act.vkaraisk.119		
+ES2008b.C.dialog-act.vkaraisk.101	Lefty loosey . 	
+ES2008b.A.dialog-act.vkaraisk.103	Lefty loosey , righty tighty . 	
+ES2008b.C.dialog-act.vkaraisk.102	Uh . 	
+ES2008b.B.dialog-act.vkaraisk.120		
+ES2008b.C.dialog-act.vkaraisk.103	Never heard that before , 	
+ES2008b.A.dialog-act.vkaraisk.104	Oh yes . 	
+ES2008b.C.dialog-act.vkaraisk.104	that's good . 	
+ES2008b.D.dialog-act.vkaraisk.98		
+ES2008b.C.dialog-act.vkaraisk.105	I'll think of that every time now . 	
+ES2008b.C.dialog-act.vkaraisk.106		
+ES2008b.A.dialog-act.vkaraisk.105		
+ES2008b.B.dialog-act.vkaraisk.121	It's gonna stick in your head . 	
+ES2008b.D.dialog-act.vkaraisk.100	Yeah , that's a good one 	
+ES2008b.D.dialog-act.vkaraisk.101	it'll stick with you . 	
+ES2008b.A.dialog-act.vkaraisk.106	Mm 'kay . 	
+ES2008b.A.dialog-act.vkaraisk.107	Um I have nothing on my screen . 	
+ES2008b.A.dialog-act.vkaraisk.108	Just a sec . 	
+ES2008b.B.dialog-act.vkaraisk.122	Mm . 	
+ES2008b.A.dialog-act.vkaraisk.109	Here we are . 	
+ES2008b.B.dialog-act.vkaraisk.123	Ooh , 	
+ES2008b.B.dialog-act.vkaraisk.124	no signal . 	
+ES2008b.A.dialog-act.vkaraisk.110	Okay , yeah , it's fine . 	
+ES2008b.A.dialog-act.vkaraisk.111	Okay , 	
+ES2008b.A.dialog-act.vkaraisk.112	requirements . We have a couple new requirements 	
+ES2008b.A.dialog-act.vkaraisk.113	that I was just e-mailed right before the meeting 	
+ES2008b.A.dialog-act.vkaraisk.114	and that we have to keep in in um in mind as we're creating this . 	
+ES2008b.B.dialog-act.vkaraisk.125	Okay . 	
+ES2008b.A.dialog-act.vkaraisk.115	We didn't bring it up yet , or at all in the meetings so far , 	
+ES2008b.A.dialog-act.vkaraisk.116	but we're not gonna work with teletext 	
+ES2008b.A.dialog-act.vkaraisk.117	because um well it that's been taken over by the internet , 	
+ES2008b.A.dialog-act.vkaraisk.118	so we're not gonna worry about um we're not gonna worry about that . 	
+ES2008b.D.dialog-act.vkaraisk.102	What's teletext ? 	
+ES2008b.A.dialog-act.vkaraisk.119	Um . 	
+ES2008b.B.dialog-act.vkaraisk.126	Uh , it's a British thing . 	
+ES2008b.D.dialog-act.vkaraisk.103	Oh . Oh , 	
+ES2008b.C.dialog-act.vkaraisk.107	You don't have it in the States ? 	
+ES2008b.D.dialog-act.vkaraisk.104	so 	
+ES2008b.B.dialog-act.vkaraisk.127	No . 	
+ES2008b.A.dialog-act.vkaraisk.120	It 	
+ES2008b.A.dialog-act.vkaraisk.121	no . 	
+ES2008b.A.dialog-act.vkaraisk.122	W d could 	
+ES2008b.C.dialog-act.vkaraisk.108	Oh , 	
+ES2008b.C.dialog-act.vkaraisk.109	I didn't realise . 	
+ES2008b.A.dialog-act.vkaraisk.123	would you care to explain it ? 	
+ES2008b.C.dialog-act.vkaraisk.110	Um yeah , 	
+ES2008b.C.dialog-act.vkaraisk.111	it's like a 	
+ES2008b.C.dialog-act.vkaraisk.112	I suppose it's kind of similar to a very very basic web browser . 	
+ES2008b.C.dialog-act.vkaraisk.113	Um you have like you have uh numbers on your remote control , 	
+ES2008b.D.dialog-act.vkaraisk.105	Mm-hmm . 	
+ES2008b.C.dialog-act.vkaraisk.114	uh y and you type in the page number you want , 	
+ES2008b.C.dialog-act.vkaraisk.115	so like you type a hundred on your remote control and 	
+ES2008b.C.dialog-act.vkaraisk.116	this this kind of index appears on the television screen with just some some text and some very blocky looking graphics on it . 	
+ES2008b.C.dialog-act.vkaraisk.117	And you just type numbers to go to different pages 	
+ES2008b.C.dialog-act.vkaraisk.118	and it gives you information , mostly rather boring stuff like what's on T_V_ next and share prices and that kind of thing . 	
+ES2008b.D.dialog-act.vkaraisk.106		
+ES2008b.B.dialog-act.vkaraisk.128	S 	
+ES2008b.B.dialog-act.vkaraisk.129	Lottery numbers and sport scores . 	
+ES2008b.C.dialog-act.vkaraisk.119	Yep , 	
+ES2008b.C.dialog-act.vkaraisk.120	news headlines . 	
+ES2008b.B.dialog-act.vkaraisk.130	But if you ever see the T_V_ saying like go to page one sixty on Ceefax now , that's what they're talking about . 	
+ES2008b.A.dialog-act.vkaraisk.124	How ? 	
+ES2008b.D.dialog-act.vkaraisk.107	Oh . 	
+ES2008b.C.dialog-act.vkaraisk.121	It's earl it's pretty old technology . 	
+ES2008b.C.dialog-act.vkaraisk.122	It's like nineteen eighties . 	
+ES2008b.A.dialog-act.vkaraisk.125	Okay . 	
+ES2008b.D.dialog-act.vkaraisk.108	That explains a lot . 	
+ES2008b.B.dialog-act.vkaraisk.131	I have no idea why we don't have it , 	
+ES2008b.B.dialog-act.vkaraisk.132	but 	
+ES2008b.D.dialog-act.vkaraisk.109	That's good . 	
+ES2008b.C.dialog-act.vkaraisk.123		
+ES2008b.A.dialog-act.vkaraisk.126	Interesting . 	
+ES2008b.A.dialog-act.vkaraisk.127	Okay um , well , 	
+ES2008b.A.dialog-act.vkaraisk.128	we're not gonna the management has decided we're not gonna work with that . Um 	
+ES2008b.D.dialog-act.vkaraisk.110		
+ES2008b.A.dialog-act.vkaraisk.129	Okay um 	
+ES2008b.A.dialog-act.vkaraisk.130	and we're also gonna w 	
+ES2008b.A.dialog-act.vkaraisk.131	like your question earlier um whether this is going to be t for television , video , or etcetera . Just for television . That's what we're focused on . 	
+ES2008b.C.dialog-act.vkaraisk.124	Right . 	
+ES2008b.A.dialog-act.vkaraisk.132	Um otherwise becomes to complex , 	
+ES2008b.A.dialog-act.vkaraisk.133	we wanna get this out um very quickly . 	
+ES2008b.A.dialog-act.vkaraisk.134	We only have a a short amount of time . 	
+ES2008b.B.dialog-act.vkaraisk.133	'Kay . 	
+ES2008b.A.dialog-act.vkaraisk.135	Um and finally there's more marketing , I think , um , our corporate image has to be recognisable . 	
+ES2008b.A.dialog-act.vkaraisk.136	So 	
+ES2008b.A.dialog-act.vkaraisk.137	while we're gonna make it look pretty we need to use our colour and our slogan i in the new design . 	
+ES2008b.B.dialog-act.vkaraisk.134	Mm . 	
+ES2008b.C.dialog-act.vkaraisk.125	So what's our corporate image like ? 	
+ES2008b.C.dialog-act.vkaraisk.126	It's It's kind of yellow colour with uh we put fashion in electronics . 	
+ES2008b.A.dialog-act.vkaraisk.138	Looks like , yeah , kind of a yellow and black 	
+ES2008b.A.dialog-act.vkaraisk.139	and we have that the emphasis on the R_s in um 	
+ES2008b.C.dialog-act.vkaraisk.127	It's like double R_ . 	
+ES2008b.A.dialog-act.vkaraisk.140	mm-hmm . 	
+ES2008b.C.dialog-act.vkaraisk.128	Yeah . 	
+ES2008b.A.dialog-act.vkaraisk.141	But it's , yeah , 	
+ES2008b.A.dialog-act.vkaraisk.142	we put the um fashion in electronics . 	
+ES2008b.A.dialog-act.vkaraisk.143	So we gotta keep that in that in mind . 	
+ES2008b.C.dialog-act.vkaraisk.129		
+ES2008b.D.dialog-act.vkaraisk.111		
+ES2008b.B.dialog-act.vkaraisk.135	Okay , 	
+ES2008b.B.dialog-act.vkaraisk.136	so we want something that looks good 	
+ES2008b.A.dialog-act.vkaraisk.144	Yep . Yep . 	
+ES2008b.B.dialog-act.vkaraisk.137	and is yellow . 	
+ES2008b.A.dialog-act.vkaraisk.145	Yeah , 	
+ES2008b.A.dialog-act.vkaraisk.146	or ha maybe some buttons could be yellow . 	
+ES2008b.B.dialog-act.vkaraisk.138	Okay . 	
+ES2008b.A.dialog-act.vkaraisk.147	Like , we can we can play around with it a little bit . 	
+ES2008b.A.dialog-act.vkaraisk.148	Um . Okay , 	
+ES2008b.A.dialog-act.vkaraisk.149	we need to talk about our functions and our target group . 	
+ES2008b.A.dialog-act.vkaraisk.150	We need to decide who our target group is . 	
+ES2008b.A.dialog-act.vkaraisk.151	You um in your analysis of different market um of the marketing , you identified that different groups wanted different things 	
+ES2008b.D.dialog-act.vkaraisk.112	Mm-hmm . 	
+ES2008b.A.dialog-act.vkaraisk.152	or had certain preferences , 	
+ES2008b.A.dialog-act.vkaraisk.153	for example that um that older people didn't really care for um voice recognition , 	
+ES2008b.D.dialog-act.vkaraisk.113	Mm-hmm . 	
+ES2008b.A.dialog-act.vkaraisk.154	but younger people did . 	
+ES2008b.A.dialog-act.vkaraisk.155	Um and so 	
+ES2008b.A.dialog-act.vkaraisk.156	who are we aiming this at ? 	
+ES2008b.B.dialog-act.vkaraisk.139	Well 	
+ES2008b.B.dialog-act.vkaraisk.140	if we're gonna say that function um fashion we put the fashion in in electronics then you automatically , I think , a sort of younger group that that's who's gonna be attracted to this . 	
+ES2008b.D.dialog-act.vkaraisk.114	Yes , 	
+ES2008b.D.dialog-act.vkaraisk.115	I do think , who's gonna have the money to buy that also , that one ? 	
+ES2008b.A.dialog-act.vkaraisk.157	Mm-hmm . 	
+ES2008b.A.dialog-act.vkaraisk.158	It's gonna be twenty five Euro remember , 	
+ES2008b.A.dialog-act.vkaraisk.159	so um it has to be avai marketable to um whomever it is . 	
+ES2008b.B.dialog-act.vkaraisk.141	Mm-hmm . 	
+ES2008b.C.dialog-act.vkaraisk.130	Is it is it something that's gonna be sold separately from the television 	
+ES2008b.C.dialog-act.vkaraisk.131	or is it something that comes w with a television ? 	
+ES2008b.C.dialog-act.vkaraisk.132	'Cause that would affect the way that we market it . 	
+ES2008b.A.dialog-act.vkaraisk.160	Well 	
+ES2008b.A.dialog-act.vkaraisk.161	at least right now what we're doing is um deciding on just the remote itself , 	
+ES2008b.A.dialog-act.vkaraisk.162	so it will probably be sold separately , twenty five Euro by itself . 	
+ES2008b.C.dialog-act.vkaraisk.133	Right . 	
+ES2008b.C.dialog-act.vkaraisk.134	Right , okay . 	
+ES2008b.D.dialog-act.vkaraisk.116	The only break-down that I was given in terms of age was the voice activation 	
+ES2008b.D.dialog-act.vkaraisk.117	and basically there's a big jump , 	
+ES2008b.D.dialog-act.vkaraisk.118	after thirty five people don't really care if it has voice , 	
+ES2008b.D.dialog-act.vkaraisk.119	so it's like basically fifteen to thirty five that think that that's a good idea . 	
+ES2008b.B.dialog-act.vkaraisk.142	Mm-hmm . 	
+ES2008b.D.dialog-act.vkaraisk.120	I dunno I'm gonna be given any other numbers broken down in terms of age later , 	
+ES2008b.D.dialog-act.vkaraisk.121	but if that's sort of the only quality that we have that is divided into age then we would wanna stick between the fifteen and thirty five range . 	
+ES2008b.B.dialog-act.vkaraisk.143	Yeah , 	
+ES2008b.B.dialog-act.vkaraisk.144	that's probably uh a population w quite a little bit of disposable income for use on technology anyway , 	
+ES2008b.B.dialog-act.vkaraisk.145	so that might be a fairly good target group for us . 	
+ES2008b.C.dialog-act.vkaraisk.135	Yeah . 	
+ES2008b.D.dialog-act.vkaraisk.122		
+ES2008b.A.dialog-act.vkaraisk.163	Now , 	
+ES2008b.A.dialog-act.vkaraisk.164	those are 	
+ES2008b.A.dialog-act.vkaraisk.165	that's all specific for speech recognition . 	
+ES2008b.A.dialog-act.vkaraisk.166	Are we gonna use that as one of our functions ? 	
+ES2008b.C.dialog-act.vkaraisk.136	Um . 	
+ES2008b.B.dialog-act.vkaraisk.146	Mm . 	
+ES2008b.C.dialog-act.vkaraisk.137	I I would say no , 	
+ES2008b.C.dialog-act.vkaraisk.138	because it's gonna add too much to the price . 	
+ES2008b.C.dialog-act.vkaraisk.139	Especially if we are marketing it as a separate product , people are gonna be paying 	
+ES2008b.A.dialog-act.vkaraisk.167	Mm-hmm . 	
+ES2008b.C.dialog-act.vkaraisk.140	uh , well , uh 	
+ES2008b.C.dialog-act.vkaraisk.141	we've got a price limit of was it twelve twelve and a half Euros for to produce it ? 	
+ES2008b.A.dialog-act.vkaraisk.168	Mm . 	
+ES2008b.B.dialog-act.vkaraisk.147	To produce it , yeah . 	
+ES2008b.A.dialog-act.vkaraisk.169	To produce it , yes . 	
+ES2008b.C.dialog-act.vkaraisk.142	And I wonder if we can get voice recognition into that twelve and a half Euros without having to make too many other compromises . 	
+ES2008b.A.dialog-act.vkaraisk.170	Mm . 	
+ES2008b.D.dialog-act.vkaraisk.123	But what else are we gonna put , 	
+ES2008b.D.dialog-act.vkaraisk.124	I mean not that I'm really gung-ho about it , 	
+ES2008b.D.dialog-act.vkaraisk.125	I don't know what else you can put in a remote to make it technologically advanced though . 	
+ES2008b.D.dialog-act.vkaraisk.126	So like other than just making it look good , how is it 	
+ES2008b.C.dialog-act.vkaraisk.143	Yeah . 	
+ES2008b.B.dialog-act.vkaraisk.148	Hmm . 	
+ES2008b.D.dialog-act.vkaraisk.127	I mean it can look really great 	
+ES2008b.D.dialog-act.vkaraisk.128	and still have the same up-n-down buttons 	
+ES2008b.B.dialog-act.vkaraisk.149	But 	
+ES2008b.D.dialog-act.vkaraisk.129	and why's anyone gonna buy a new remote ? 	
+ES2008b.B.dialog-act.vkaraisk.150	right . 	
+ES2008b.B.dialog-act.vkaraisk.151	Well 	
+ES2008b.B.dialog-act.vkaraisk.152	but why are we why are we aiming for a technological advancement ? 	
+ES2008b.B.dialog-act.vkaraisk.153	Everything we're talking about is ease of use and simple 	
+ES2008b.B.dialog-act.vkaraisk.154	and that doesn't necessarily mean more technology , 	
+ES2008b.D.dialog-act.vkaraisk.130	Mm-hmm . 	
+ES2008b.B.dialog-act.vkaraisk.155	in fact it could use it could mean , not . 	
+ES2008b.A.dialog-act.vkaraisk.171	That's a good thing to keep in mind . 	
+ES2008b.B.dialog-act.vkaraisk.156	If 	
+ES2008b.B.dialog-act.vkaraisk.157	they might be overwhelmed with with remotes that have too many buttons and too much technology . 	
+ES2008b.D.dialog-act.vkaraisk.131	If someone's looking to buy a new remote , don't they want like an upgrade ? 	
+ES2008b.D.dialog-act.vkaraisk.132	I dunno . 	
+ES2008b.A.dialog-act.vkaraisk.172	Upgrade ? 	
+ES2008b.A.dialog-act.vkaraisk.173	Well , 	
+ES2008b.A.dialog-act.vkaraisk.174	we can look for 	
+ES2008b.A.dialog-act.vkaraisk.175	we can look at upgrade 	
+ES2008b.A.dialog-act.vkaraisk.176	or we can look at um user-friendly . 	
+ES2008b.B.dialog-act.vkaraisk.158	Yeah , simplification . 	
+ES2008b.C.dialog-act.vkaraisk.144	Yeah . 	
+ES2008b.A.dialog-act.vkaraisk.177	Simplification , 	
+ES2008b.D.dialog-act.vkaraisk.133	Mm-hmm . 	
+ES2008b.B.dialog-act.vkaraisk.159	They could have a crap remote 	
+ES2008b.A.dialog-act.vkaraisk.179	so 	
+ES2008b.B.dialog-act.vkaraisk.160	that came with their T_V_ 	
+ES2008b.B.dialog-act.vkaraisk.161	that's just impossible to use , 	
+ES2008b.B.dialog-act.vkaraisk.162	or maybe it broke , 	
+ES2008b.B.dialog-act.vkaraisk.163	or maybe they're just missing it . 	
+ES2008b.D.dialog-act.vkaraisk.134	Mm-hmm . 	
+ES2008b.A.dialog-act.vkaraisk.178	Uh-huh , mm . 	
+ES2008b.A.dialog-act.vkaraisk.180	And we also need to talk about if we're only gonna have the very simple ones 	
+ES2008b.A.dialog-act.vkaraisk.181	or also have the other ones just separate somehow 	
+ES2008b.A.dialog-act.vkaraisk.182	or 	
+ES2008b.B.dialog-act.vkaraisk.164	Hmm . 	
+ES2008b.D.dialog-act.vkaraisk.135	Can you like 	
+ES2008b.C.dialog-act.vkaraisk.145	Yeah . 	
+ES2008b.D.dialog-act.vkaraisk.136	I mean this may be too complicated , 	
+ES2008b.D.dialog-act.vkaraisk.137	but , I wish I had something to explain it , 	
+ES2008b.D.dialog-act.vkaraisk.138	like if it was just a simple , either this way or this way , 	
+ES2008b.D.dialog-act.vkaraisk.140	that had like the main buttons 	
+ES2008b.D.dialog-act.vkaraisk.141	and then you could like pull something out , 	
+ES2008b.D.dialog-act.vkaraisk.142	kind of and like you got the rest the buttons , 	
+ES2008b.B.dialog-act.vkaraisk.165	Ooh . 	
+ES2008b.D.dialog-act.vkaraisk.143	but the rest of them like went in . 	
+ES2008b.C.dialog-act.vkaraisk.146	The remote 	
+ES2008b.D.dialog-act.vkaraisk.139	Do you know what I'm saying ? 	
+ES2008b.C.dialog-act.vkaraisk.147	There are remote controls like that , 	
+ES2008b.A.dialog-act.vkaraisk.183	Kind of pull out of the side . 	
+ES2008b.C.dialog-act.vkaraisk.148	yeah . 	
+ES2008b.C.dialog-act.vkaraisk.149	Like some T_V_s they have a sort of uh a sliding screen on the remote control of it 	
+ES2008b.A.dialog-act.vkaraisk.184	Mm . 	
+ES2008b.C.dialog-act.vkaraisk.150	that hides all the complicated buttons . 	
+ES2008b.B.dialog-act.vkaraisk.166	Ooh . 	
+ES2008b.C.dialog-act.vkaraisk.151	So if you wanna do something complicated like programme your television or re-tune it , then you you open up this little hatch or or slide the screen down 	
+ES2008b.D.dialog-act.vkaraisk.144	Mm-hmm . 	
+ES2008b.C.dialog-act.vkaraisk.152	and there's all the all the special buttons . 	
+ES2008b.A.dialog-act.vkaraisk.185	Mm-hmm . 	
+ES2008b.D.dialog-act.vkaraisk.145	'Cause then 's like people who don't wanna ever look at them , never even have to see them 	
+ES2008b.B.dialog-act.vkaraisk.167	Mm-hmm . 	
+ES2008b.D.dialog-act.vkaraisk.146	and if you like get the instruction manual that comes with it and you just don't even read it then you'll never even know that those things can pull out . 	
+ES2008b.A.dialog-act.vkaraisk.186	Mm-hmm . 	
+ES2008b.C.dialog-act.vkaraisk.153	Yeah . 	
+ES2008b.A.dialog-act.vkaraisk.187	Mm-hmm . 	
+ES2008b.D.dialog-act.vkaraisk.147	And you're a happy person 	
+ES2008b.D.dialog-act.vkaraisk.148	and everyone else doesn't have to have like two remotes , 	
+ES2008b.D.dialog-act.vkaraisk.149	one that has the easy ones and one that has 	
+ES2008b.B.dialog-act.vkaraisk.168	Yeah , that's a good idea . 	
+ES2008b.D.dialog-act.vkaraisk.150	more complicated ones , 	
+ES2008b.C.dialog-act.vkaraisk.154	Yeah . 	
+ES2008b.A.dialog-act.vkaraisk.188	Mm-hmm . 	
+ES2008b.D.dialog-act.vkaraisk.151	but 's all still in one . 	
+ES2008b.C.dialog-act.vkaraisk.155	I think that's a good idea , yeah . 	
+ES2008b.B.dialog-act.vkaraisk.169	Mm . 	
+ES2008b.A.dialog-act.vkaraisk.189	Um we have to be careful that that that doesn't impede um the chip transmitting information , 	
+ES2008b.D.dialog-act.vkaraisk.152	Yeah . 	
+ES2008b.A.dialog-act.vkaraisk.190	but um that's gonna be mostly technological thing . Um . 	
+ES2008b.B.dialog-act.vkaraisk.170	Good point . 	
+ES2008b.C.dialog-act.vkaraisk.156	Yeah . 	
+ES2008b.B.dialog-act.vkaraisk.171	Yeah . 	
+ES2008b.A.dialog-act.vkaraisk.191	Okay um , so 	
+ES2008b.A.dialog-act.vkaraisk.192	what are we emphasising ? I what in this project ? 	
+ES2008b.C.dialog-act.vkaraisk.157	Si simplicity and fashion . 	
+ES2008b.D.dialog-act.vkaraisk.153	I think simplicity , fashion . 	
+ES2008b.A.dialog-act.vkaraisk.193	Simplicity and fashion . 	
+ES2008b.B.dialog-act.vkaraisk.172	Yeah mm . 	
+ES2008b.A.dialog-act.vkaraisk.194	Okay , 	
+ES2008b.A.dialog-act.vkaraisk.195	those are very good goals , I think , 	
+ES2008b.A.dialog-act.vkaraisk.197	um that we have to keep in mind in with everything we do . Simplicity and fashion and , yeah , or usability 	
+ES2008b.A.dialog-act.vkaraisk.198	speci 	
+ES2008b.A.dialog-act.vkaraisk.199	however you wanna say that , 	
+ES2008b.A.dialog-act.vkaraisk.200	which includes um an emphasis on making the infra-red very functional , 	
+ES2008b.D.dialog-act.vkaraisk.154	Mm-hmm . 	
+ES2008b.A.dialog-act.vkaraisk.201	so that you don't have to travel around a lot . 	
+ES2008b.C.dialog-act.vkaraisk.158	Yeah . 	
+ES2008b.C.dialog-act.vkaraisk.159	Yeah . 	
+ES2008b.D.dialog-act.vkaraisk.155	What can you do to like make the infra-red more functional , 	
+ES2008b.A.dialog-act.vkaraisk.202	Um . 	
+ES2008b.D.dialog-act.vkaraisk.156	like why would it not be ? 	
+ES2008b.D.dialog-act.vkaraisk.157	I'm just wondering . 	
+ES2008b.A.dialog-act.vkaraisk.203	I think it's a lot to do with battery , 	
+ES2008b.D.dialog-act.vkaraisk.158	Okay . 	
+ES2008b.A.dialog-act.vkaraisk.204	but that's just my 	
+ES2008b.B.dialog-act.vkaraisk.173	The battery and that I think that the chip takes the data and presents it well , without sort of scattering . 	
+ES2008b.A.dialog-act.vkaraisk.205	Mm-hmm . 	
+ES2008b.D.dialog-act.vkaraisk.159	So 's just the quality of the chip . 	
+ES2008b.B.dialog-act.vkaraisk.174	Yeah . I think so . 	
+ES2008b.D.dialog-act.vkaraisk.160	Okay . 	
+ES2008b.B.dialog-act.vkaraisk.175	The quality uh quality of all the components really , 	
+ES2008b.B.dialog-act.vkaraisk.176	I mean , we can't really do anything shoddy work , 	
+ES2008b.B.dialog-act.vkaraisk.177	'cause it's 	
+ES2008b.C.dialog-act.vkaraisk.160	Yeah . 	
+ES2008b.B.dialog-act.vkaraisk.178	gonna be visible down the line . 	
+ES2008b.A.dialog-act.vkaraisk.206	So our target group , we're saying , fifteen to thirty five ? 	
+ES2008b.D.dialog-act.vkaraisk.161	Well , 	
+ES2008b.D.dialog-act.vkaraisk.162	I dunno how useful that number is if we're not doing 	
+ES2008b.A.dialog-act.vkaraisk.207	S voice recognition , 	
+ES2008b.D.dialog-act.vkaraisk.163	Yeah . 	
+ES2008b.A.dialog-act.vkaraisk.208	which I kind of I kind of feel like voice recognition is not necessary in a remote control , 	
+ES2008b.D.dialog-act.vkaraisk.165	Yeah 	
+ES2008b.D.dialog-act.vkaraisk.164	. I don't . 	
+ES2008b.A.dialog-act.vkaraisk.209	like it might be necessary for a T_V_ but not for the remote c , you know . 	
+ES2008b.C.dialog-act.vkaraisk.161	It's , yeah , it's pretty it's pretty high-tech . 	
+ES2008b.B.dialog-act.vkaraisk.179	Mm-mm . 	
+ES2008b.A.dialog-act.vkaraisk.210	Seems a little bit 	
+ES2008b.B.dialog-act.vkaraisk.180	Yeah . 	
+ES2008b.A.dialog-act.vkaraisk.211	Mm-hmm . Yeah , 	
+ES2008b.A.dialog-act.vkaraisk.212	and it might be too expensive . 	
+ES2008b.C.dialog-act.vkaraisk.162		
+ES2008b.D.dialog-act.vkaraisk.166	And if the whole idea is you're using a remote then why would you have voice , 	
+ES2008b.D.dialog-act.vkaraisk.167	like you know what I mean and then it's like you wouldn't need a remote 	
+ES2008b.A.dialog-act.vkaraisk.213	Mm-hmm . 	
+ES2008b.D.dialog-act.vkaraisk.168	you'd just talk to your T_V_ . 	
+ES2008b.A.dialog-act.vkaraisk.214	Yeah . 	
+ES2008b.C.dialog-act.vkaraisk.163	It's for , like , the ultimately lazy people , 	
+ES2008b.B.dialog-act.vkaraisk.181	Ooh . 	
+ES2008b.C.dialog-act.vkaraisk.164	who can't even be bothered to pick up the remote . 	
+ES2008b.A.dialog-act.vkaraisk.215		
+ES2008b.B.dialog-act.vkaraisk.182	Yeah . 	
+ES2008b.D.dialog-act.vkaraisk.169	Mm yeah . 	
+ES2008b.D.dialog-act.vkaraisk.170	Maybe 	
+ES2008b.B.dialog-act.vkaraisk.183	I 	
+ES2008b.D.dialog-act.vkaraisk.171	I mean if I get m more numbers , I'll e-mail you before the next meeting in terms of ages . 	
+ES2008b.D.dialog-act.vkaraisk.172	But this doesn't divide up anything 	
+ES2008b.D.dialog-act.vkaraisk.173	and there was only a hundred subjects also , 	
+ES2008b.A.dialog-act.vkaraisk.216	Mm-hmm . 	
+ES2008b.B.dialog-act.vkaraisk.184	Mm-hmm . 	
+ES2008b.D.dialog-act.vkaraisk.174	which isn't , I mean , really isn't that representative , 	
+ES2008b.D.dialog-act.vkaraisk.175	especially if it's a hundred subjects that th they then can subdivide into age groups that means there's very few in each age group , 	
+ES2008b.D.dialog-act.vkaraisk.176	so 	
+ES2008b.B.dialog-act.vkaraisk.185	Yeah , 	
+ES2008b.D.dialog-act.vkaraisk.177		
+ES2008b.B.dialog-act.vkaraisk.186	but I th I think regardless we're we're aiming for the under sixty five or something . 	
+ES2008b.A.dialog-act.vkaraisk.217	Under sixty five , okay , 	
+ES2008b.C.dialog-act.vkaraisk.165	Yep . 	
+ES2008b.A.dialog-act.vkaraisk.218	that's a good start . Um . 	
+ES2008b.A.dialog-act.vkaraisk.220	I'd say we're uh 	
+ES2008b.A.dialog-act.vkaraisk.219	can we narrow it down to maybe um teenagers and families ? 	
+ES2008b.A.dialog-act.vkaraisk.221	'Cause that would go up to like fifty ? 	
+ES2008b.B.dialog-act.vkaraisk.187	Or like single professionals or something . 	
+ES2008b.D.dialog-act.vkaraisk.178	Twenty to like fifty five . 	
+ES2008b.A.dialog-act.vkaraisk.222	Okay , single 	
+ES2008b.B.dialog-act.vkaraisk.188	Yeah . 	
+ES2008b.D.dialog-act.vkaraisk.179	I dunno . 	
+ES2008b.A.dialog-act.vkaraisk.223	It's it's hard to narrow it down . 	
+ES2008b.B.dialog-act.vkaraisk.189	It's really hard to figure out right now . 	
+ES2008b.C.dialog-act.vkaraisk.166	I think the product appeals across a quite a broad range of ages . 	
+ES2008b.A.dialog-act.vkaraisk.224	Mm-hmm . 	
+ES2008b.C.dialog-act.vkaraisk.167	I mean , we we said simplicity is is one of the features , 	
+ES2008b.C.dialog-act.vkaraisk.168	so it's going to appeal to people , maybe people who have problems with technology , you know , people who get scared by having lots of buttons , 	
+ES2008b.A.dialog-act.vkaraisk.225	Okay . 	
+ES2008b.C.dialog-act.vkaraisk.169	and that might be older people , 	
+ES2008b.A.dialog-act.vkaraisk.226	Mm-hmm . 	
+ES2008b.C.dialog-act.vkaraisk.170	but then we've also got fashion , 	
+ES2008b.C.dialog-act.vkaraisk.171	which is something that definitely appeals to younger people . 	
+ES2008b.B.dialog-act.vkaraisk.190	Yeah . 	
+ES2008b.D.dialog-act.vkaraisk.180	Well 	
+ES2008b.D.dialog-act.vkaraisk.181	maybe we don't have to defi define the target group by the demographic of age , 	
+ES2008b.D.dialog-act.vkaraisk.182	maybe we can define it by like the demographic of 	
+ES2008b.A.dialog-act.vkaraisk.227	Right . 	
+ES2008b.D.dialog-act.vkaraisk.183	like h t how much money they have to spend or something like that , 	
+ES2008b.C.dialog-act.vkaraisk.172	Yeah . Yeah aim for a an income group . 	
+ES2008b.D.dialog-act.vkaraisk.184	like , well 	
+ES2008b.B.dialog-act.vkaraisk.191	That's a good point . 	
+ES2008b.D.dialog-act.vkaraisk.185	obviously it has to be someone who owns a television , 	
+ES2008b.A.dialog-act.vkaraisk.228	Mm-hmm . Mm-hmm . 	
+ES2008b.D.dialog-act.vkaraisk.186	and like how recently have they bought their television like that sort of thing . 	
+ES2008b.B.dialog-act.vkaraisk.192	Yeah . 	
+ES2008b.B.dialog-act.vkaraisk.193	Mm . 	
+ES2008b.A.dialog-act.vkaraisk.229	So maybe it's more useful to d d to define objectives like fashion and simplicity than to find specific target group as far as age is 	
+ES2008b.B.dialog-act.vkaraisk.194	Yeah , t probably . 	
+ES2008b.C.dialog-act.vkaraisk.173	Yeah . 	
+ES2008b.A.dialog-act.vkaraisk.230	because , yeah , things so different will appeal to different people , 	
+ES2008b.A.dialog-act.vkaraisk.231	but 	
+ES2008b.A.dialog-act.vkaraisk.232	Okay . Um oh , 	
+ES2008b.A.dialog-act.vkaraisk.233	there're a couple functions do we want something so that 	
+ES2008b.A.dialog-act.vkaraisk.234	do we want some kind of thing to find it if it's lost ? 	
+ES2008b.B.dialog-act.vkaraisk.195	Mm . 	
+ES2008b.D.dialog-act.vkaraisk.187	Yeah . 	
+ES2008b.A.dialog-act.vkaraisk.235	Like a button on a T_V_ you can press 	
+ES2008b.A.dialog-act.vkaraisk.236	and it'll ring or something , 	
+ES2008b.A.dialog-act.vkaraisk.237	I don't know 	
+ES2008b.A.dialog-act.vkaraisk.238	like 	
+ES2008b.A.dialog-act.vkaraisk.239	or beep ? 	
+ES2008b.D.dialog-act.vkaraisk.188	H 	
+ES2008b.D.dialog-act.vkaraisk.189	I mean , 	
+ES2008b.D.dialog-act.vkaraisk.190	like I said before , 	
+ES2008b.D.dialog-act.vkaraisk.191	fifty per cent of of the fru f like frustration someone can have that was the biggest one 	
+ES2008b.D.dialog-act.vkaraisk.192	and half the people said that happened 	
+ES2008b.D.dialog-act.vkaraisk.193	and we all mentioned it before we knew about it . 	
+ES2008b.A.dialog-act.vkaraisk.240	Mm-hmm . 	
+ES2008b.C.dialog-act.vkaraisk.174	Yeah . 	
+ES2008b.D.dialog-act.vkaraisk.194	And if we're talking about making something easy that sort of goes along with it 	
+ES2008b.D.dialog-act.vkaraisk.195	so it wouldn't be like a random thing to sort of add in . 	
+ES2008b.B.dialog-act.vkaraisk.196	Mm . 	
+ES2008b.D.dialog-act.vkaraisk.196	It would be relevant to like the overall goal I think , 	
+ES2008b.A.dialog-act.vkaraisk.241	Mm . 	
+ES2008b.B.dialog-act.vkaraisk.197	Yeah , that'll probably be good . 	
+ES2008b.D.dialog-act.vkaraisk.197	so 	
+ES2008b.A.dialog-act.vkaraisk.242	Okay , 	
+ES2008b.A.dialog-act.vkaraisk.243	we have to 	
+ES2008b.A.dialog-act.vkaraisk.244	we have about four minutes left to define our functions . 	
+ES2008b.A.dialog-act.vkaraisk.245	So let's do that quickly . 	
+ES2008b.A.dialog-act.vkaraisk.246	Um so we want something to keep it from getting lost . 	
+ES2008b.C.dialog-act.vkaraisk.175	Yep . 	
+ES2008b.B.dialog-act.vkaraisk.198	Yeah . 	
+ES2008b.A.dialog-act.vkaraisk.247	And we want um we want large buttons for the essential things . 	
+ES2008b.C.dialog-act.vkaraisk.176	Yeah . 	
+ES2008b.B.dialog-act.vkaraisk.199	Yeah . 	
+ES2008b.A.dialog-act.vkaraisk.248	Large , accessible buttons for the essentials . 	
+ES2008b.A.dialog-act.vkaraisk.249	We want a possibility to um to get um a possibility to get the extra functions . 	
+ES2008b.B.dialog-act.vkaraisk.200	Mm-hmm . 	
+ES2008b.C.dialog-act.vkaraisk.177	Yeah . 	
+ES2008b.D.dialog-act.vkaraisk.198		
+ES2008b.C.dialog-act.vkaraisk.178	Which are kind of hidden away in some way 	
+ES2008b.C.dialog-act.vkaraisk.179	or well not hidden but they're uh they're not as prominent as the main features . 	
+ES2008b.A.dialog-act.vkaraisk.250	Mm-hmm . 	
+ES2008b.D.dialog-act.vkaraisk.199	Hmm . 	
+ES2008b.A.dialog-act.vkaraisk.251	Um , yeah , hidden way . 	
+ES2008b.A.dialog-act.vkaraisk.252	And we also want it to be fashionable , 	
+ES2008b.A.dialog-act.vkaraisk.253	which I'm not sure if that's a function so much as a um yeah 	
+ES2008b.D.dialog-act.vkaraisk.200	on your coffee table , 	
+ES2008b.D.dialog-act.vkaraisk.201	it's not like an eye sore , that kind of thing . 	
+ES2008b.A.dialog-act.vkaraisk.254	Mm-hmm . 	
+ES2008b.B.dialog-act.vkaraisk.201	Yeah . 	
+ES2008b.B.dialog-act.vkaraisk.202	Alright . 	
+ES2008b.A.dialog-act.vkaraisk.255	Okay , 	
+ES2008b.A.dialog-act.vkaraisk.256	do it . 	
+ES2008b.A.dialog-act.vkaraisk.257	Any other essential functions that we need ? 	
+ES2008b.A.dialog-act.vkaraisk.258	Battery ? Do we need a long-life battery ? 	
+ES2008b.B.dialog-act.vkaraisk.203	Battery battery use . 	
+ES2008b.B.dialog-act.vkaraisk.204	Yeah , 	
+ES2008b.B.dialog-act.vkaraisk.205	but I think that goes in with simplicity and ease of use really . 	
+ES2008b.D.dialog-act.vkaraisk.202	Yeah . 	
+ES2008b.A.dialog-act.vkaraisk.259	But we might as well . 	
+ES2008b.D.dialog-act.vkaraisk.203	So you never have to change the battery . 	
+ES2008b.B.dialog-act.vkaraisk.206	Yeah . 	
+ES2008b.C.dialog-act.vkaraisk.180	We should maybe investigate whether it needs a battery at all . 	
+ES2008b.C.dialog-act.vkaraisk.181	I suspect the remote control does need a battery , 	
+ES2008b.C.dialog-act.vkaraisk.182	but 	
+ES2008b.A.dialog-act.vkaraisk.260	Yeah , I would imagine . 	
+ES2008b.B.dialog-act.vkaraisk.207	Yeah . 	
+ES2008b.C.dialog-act.vkaraisk.183	I dunno if you can 	
+ES2008b.A.dialog-act.vkaraisk.261	Just 'cause it is an electronic device , 	
+ES2008b.A.dialog-act.vkaraisk.262	the 	
+ES2008b.C.dialog-act.vkaraisk.184	Yeah . 	
+ES2008b.B.dialog-act.vkaraisk.208	Mm . 	
+ES2008b.B.dialog-act.vkaraisk.209	It 	
+ES2008b.B.dialog-act.vkaraisk.210	I think it does . 	
+ES2008b.B.dialog-act.vkaraisk.211	I don't I don't think of a way you can operate a chip and convert that much data without without one . 	
+ES2008b.C.dialog-act.vkaraisk.185	Yeah , without the energy , yeah . 	
+ES2008b.B.dialog-act.vkaraisk.212	But you could maybe have it in a little charging station like a mobile phone , or like a little cradle for your iPod . 	
+ES2008b.C.dialog-act.vkaraisk.186	Yeah , that's that's possible . Yeah . 	
+ES2008b.B.dialog-act.vkaraisk.213	You could 	
+ES2008b.B.dialog-act.vkaraisk.214	we could maybe do that instead . 	
+ES2008b.B.dialog-act.vkaraisk.215	So you don't ha you got like a rechargeable battery . 	
+ES2008b.A.dialog-act.vkaraisk.263	Charging . 	
+ES2008b.C.dialog-act.vkaraisk.187	Yeah . 	
+ES2008b.B.dialog-act.vkaraisk.216	I dunno , 	
+ES2008b.B.dialog-act.vkaraisk.217	that might contribute to less people losing it too if it it stays in one place . 	
+ES2008b.A.dialog-act.vkaraisk.264	Mm-hmm . 	
+ES2008b.D.dialog-act.vkaraisk.204	Mm . 	
+ES2008b.A.dialog-act.vkaraisk.265	We have to think about um space in living-rooms , too , 	
+ES2008b.A.dialog-act.vkaraisk.266	like 'cause they're 	
+ES2008b.B.dialog-act.vkaraisk.218	Mm . 	
+ES2008b.A.dialog-act.vkaraisk.267	I mean , would you put it on top of the T_V_ ? 	
+ES2008b.A.dialog-act.vkaraisk.268	I don't know , 	
+ES2008b.A.dialog-act.vkaraisk.269	just think 	
+ES2008b.A.dialog-act.vkaraisk.270	okay , 	
+ES2008b.A.dialog-act.vkaraisk.271	that's that's a good idea , 	
+ES2008b.A.dialog-act.vkaraisk.272	we'll keep it . 	
+ES2008b.B.dialog-act.vkaraisk.219	Yeah . 	
+ES2008b.A.dialog-act.vkaraisk.273	Think it's 	
+ES2008b.B.dialog-act.vkaraisk.220	That's just off the top of my head . 	
+ES2008b.A.dialog-act.vkaraisk.274	And maybe fun . 	
+ES2008b.A.dialog-act.vkaraisk.275	Okay . Um 'kay 	
+ES2008b.A.dialog-act.vkaraisk.276	we're gonna conclude now , 	
+ES2008b.A.dialog-act.vkaraisk.280	has everyone said their functions 	
+ES2008b.A.dialog-act.vkaraisk.277	and 	
+ES2008b.C.dialog-act.vkaraisk.188	Yep . 	
+ES2008b.A.dialog-act.vkaraisk.281	'kay . 	
+ES2008b.A.dialog-act.vkaraisk.282	Um after the meeting we're gonna each complete a sks um a questionnaire and a summaries summary . 	
+ES2008b.A.dialog-act.vkaraisk.283	I don't know what summarisation . 	
+ES2008b.A.dialog-act.vkaraisk.284	Um and then we'll have our lunch break . 	
+ES2008b.A.dialog-act.vkaraisk.285	After that we have thirty minutes of individual work . 	
+ES2008b.A.dialog-act.vkaraisk.286	Um I'll make sure to put up um the minutes and the project documentation and including these PowerPoint slides . 	
+ES2008b.A.dialog-act.vkaraisk.287	If everyone could do that as well , that'd be great . 	
+ES2008b.A.dialog-act.vkaraisk.288	Um you each have individual actions , 	
+ES2008b.A.dialog-act.vkaraisk.289	I_ um I_D_ Industrial Design you've your components concept , 	
+ES2008b.A.dialog-act.vkaraisk.290	User Interface , the user interface concept , 	
+ES2008b.D.dialog-act.vkaraisk.205		
+ES2008b.A.dialog-act.vkaraisk.291	market trend wa watching . 	
+ES2008b.A.dialog-act.vkaraisk.292	And as as per last time you'll get specific incrat instructions from your personal coach e-mailed to you . 	
+ES2008b.A.dialog-act.vkaraisk.293	And hopefully , I hope , next time you'll be able to access more of the web site 	
+ES2008b.A.dialog-act.vkaraisk.294	that they they seem to tell you that you could . 	
+ES2008b.B.dialog-act.vkaraisk.221	Yeah , 	
+ES2008b.A.dialog-act.vkaraisk.295	It's kinda frustrating , 	
+ES2008b.B.dialog-act.vkaraisk.222	who knows . 	
+ES2008b.A.dialog-act.vkaraisk.296	but um 	
+ES2008b.A.dialog-act.vkaraisk.297	Be sure to note any frustrations or any um issues that come up in your um in your um summary . 	
+ES2008b.B.dialog-act.vkaraisk.223	Okay 	
+ES2008b.A.dialog-act.vkaraisk.298	Mm 'kay ? 	
+ES2008b.B.dialog-act.vkaraisk.224	Sounds good . 	
+ES2008b.A.dialog-act.vkaraisk.299	Great seeing y'all . 	
+ES2008b.A.dialog-act.vkaraisk.300		
+ES2008b.D.dialog-act.vkaraisk.206	It's good . 	
+ES2008b.B.dialog-act.vkaraisk.225		
+ES2008b.C.dialog-act.vkaraisk.189		
+ES2008b.D.dialog-act.vkaraisk.207	Did you um 	
+ES2008b.D.dialog-act.vkaraisk.208	were you able to like put yours in the group folder ? 	
+ES2008b.B.dialog-act.vkaraisk.226	Yes , I just did that . 	
+ES2008b.D.dialog-act.vkaraisk.209	Okay . 	
+ES2008b.B.dialog-act.vkaraisk.227	Hopefully it is there for people . 	
+ES2008b.D.dialog-act.vkaraisk.210	Yep . 	
+ES2008b.B.dialog-act.vkaraisk.228	Yeah ? 	
+ES2008b.A.dialog-act.vkaraisk.301	Looks like there are um looks like there's a second one kind of of mine that's that I didn't do , 	
+ES2008b.B.dialog-act.vkaraisk.229	Yeah . 	
+ES2008b.A.dialog-act.vkaraisk.302	it's from like an earlier project , I think so um 	
+ES2008b.B.dialog-act.vkaraisk.230	Okay . 	
+ES2008b.D.dialog-act.vkaraisk.211	Where is that ? 	
+ES2008b.D.dialog-act.vkaraisk.212	Yours is 	
+ES2008b.A.dialog-act.vkaraisk.303	Under the shared folder , 	
+ES2008b.A.dialog-act.vkaraisk.304	I don't know it might not even be under yours as well . 	
+ES2008b.B.dialog-act.vkaraisk.231	Technical . 	
+ES2008b.B.dialog-act.vkaraisk.232	So 	
+ES2008b.B.dialog-act.vkaraisk.233	in there we have technical functions presentation , working design presentation and the functional requirements . 	
+ES2008b.A.dialog-act.vkaraisk.305	Projects . 	
+ES2008b.B.dialog-act.vkaraisk.234	At least that's what I have in . 	
+ES2008b.D.dialog-act.vkaraisk.213	I only have three , I just have like our three . Yeah . 	
+ES2008b.B.dialog-act.vkaraisk.235	Yeah , 	
+ES2008b.B.dialog-act.vkaraisk.236	that's what I have as well , R Rose 	
+ES2008b.A.dialog-act.vkaraisk.306	Okay . 	
+ES2008b.B.dialog-act.vkaraisk.237	So . 	
+ES2008b.A.dialog-act.vkaraisk.307	You don't have mine ? 	
+ES2008b.D.dialog-act.vkaraisk.214	No , 	
+ES2008b.D.dialog-act.vkaraisk.215	but that's 'cause I think yours is in the e-mail separate , 	
+ES2008b.D.dialog-act.vkaraisk.216	like it's not on the server . 	
+ES2008b.A.dialog-act.vkaraisk.308	S 	
+ES2008b.B.dialog-act.vkaraisk.238	Yeah . 	
+ES2008b.A.dialog-act.vkaraisk.309	Mm . 	
+ES2008b.D.dialog-act.vkaraisk.217	But if I open it and then save it , probably will be there . 	
+ES2008b.D.dialog-act.vkaraisk.218	Oh wait , 	
+ES2008b.D.dialog-act.vkaraisk.219	never mind 	
+ES2008b.D.dialog-act.vkaraisk.220	you can't save it to the 	
+ES2008b.A.dialog-act.vkaraisk.310	Okay . Well 	
+ES2008b.A.dialog-act.vkaraisk.311	I'll figure that out in the meantime . 	
+ES2008b.B.dialog-act.vkaraisk.239	Okay . 	
+ES2008b.D.dialog-act.vkaraisk.221	Okay . 	
+ES2008b.A.dialog-act.vkaraisk.312	Okay . 	
+

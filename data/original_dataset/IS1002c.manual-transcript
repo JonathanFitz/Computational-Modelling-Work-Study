@@ -1,0 +1,832 @@
+Observation: IS1002c; Result size: 829; atts: 2
+$d@nite:id	$d	
+IS1002c.A.dialog-act.s9553330.1	Afternoon guys . 	
+IS1002c.A.dialog-act.s9553330.2	It's gonna be . 	
+IS1002c.D.dialog-act.s9553330.1	Rock and roll . 	
+IS1002c.A.dialog-act.s9553330.6	Oh . 	
+IS1002c.A.dialog-act.s9553330.5	'Kay . 	
+IS1002c.D.dialog-act.s9553330.2	So do we need to re-train Mike on how to put his mic on ? 	
+IS1002c.C.dialog-act.s9553330.1	Think s 	
+IS1002c.A.dialog-act.s9553330.3	We may do . 	
+IS1002c.D.dialog-act.s9553330.3	Okay , can he get it all by himself this time ? 	
+IS1002c.A.dialog-act.s9553330.4	I dunno , I'm feeling like a big boy . 	
+IS1002c.C.dialog-act.s9553330.2	Mm . Pro 	
+IS1002c.D.dialog-act.s9553330.4		
+IS1002c.C.dialog-act.s9553330.3	Probably not , 	
+IS1002c.C.dialog-act.s9553330.4	'cause he's 'S been listening to too much . 	
+IS1002c.D.dialog-act.s9553330.6	So 	
+IS1002c.C.dialog-act.s9553330.5	He's getting retarded . Yay . 	
+IS1002c.D.dialog-act.s9553330.5	I believe I can fly . 	
+IS1002c.B.dialog-act.s9553330.1	Alright well we got some exciting stuff for you guys . 	
+IS1002c.C.dialog-act.s9553330.6	Or not . 	
+IS1002c.B.dialog-act.s9553330.2	Or not . 	
+IS1002c.C.dialog-act.s9553330.7	Yeah . 	
+IS1002c.D.dialog-act.s9553330.7	Just what I needed was something exciting . 	
+IS1002c.D.dialog-act.s9553330.8	Remember , I'm an old man . 	
+IS1002c.C.dialog-act.s9553330.8		
+IS1002c.A.dialog-act.s9553330.7	'Kay , ready to go ? 	
+IS1002c.B.dialog-act.s9553330.3	All ready . 	
+IS1002c.A.dialog-act.s9553330.8	'Kay so we've got our conceptual design meeting . 	
+IS1002c.C.dialog-act.s9553330.11	Apparently I'm old as well . 	
+IS1002c.A.dialog-act.s9553330.9	Hopefully we've all got exciting ideas now . 	
+IS1002c.D.dialog-act.s9553330.9	Thirty's really young , eh ? 	
+IS1002c.B.dialog-act.s9553330.4	We do . 	
+IS1002c.A.dialog-act.s9553330.10	Uh k exciting ideas . 	
+IS1002c.A.dialog-act.s9553330.11	'Kay so here's our agenda our agenda . Um 	
+IS1002c.C.dialog-act.s9553330.9		
+IS1002c.A.dialog-act.s9553330.12	I'm gonna open . 	
+IS1002c.A.dialog-act.s9553330.13	I'm gonna talk for a bit about what we're gonna do . 	
+IS1002c.A.dialog-act.s9553330.14	I'm gonna take some notes . 	
+IS1002c.A.dialog-act.s9553330.15	We're gonna all do a presentation , 	
+IS1002c.A.dialog-act.s9553330.16	and then hopefully we're gonna make some decisions now . 	
+IS1002c.A.dialog-act.s9553330.17	Yep . 	
+IS1002c.B.dialog-act.s9553330.5	Alright . 	
+IS1002c.A.dialog-act.s9553330.18	Well when I say hopefully , we have to . So 	
+IS1002c.A.dialog-act.s9553330.19	I'm gonna let you guys talk before we make decisions . 	
+IS1002c.A.dialog-act.s9553330.20	And does anyone really want to go first ? 	
+IS1002c.C.dialog-act.s9553330.10		
+IS1002c.B.dialog-act.s9553330.6	I guess I'll go first . 	
+IS1002c.A.dialog-act.s9553330.21	You p two ? 	
+IS1002c.B.dialog-act.s9553330.7	Yeah . 	
+IS1002c.A.dialog-act.s9553330.22	What's 	
+IS1002c.B.dialog-act.s9553330.8	Component , I think . Yeah . 	
+IS1002c.A.dialog-act.s9553330.23	Components design . 	
+IS1002c.B.dialog-act.s9553330.9	Yep that's it . 	
+IS1002c.C.dialog-act.s9553330.12	Presented by name . 	
+IS1002c.C.dialog-act.s9553330.13		
+IS1002c.B.dialog-act.s9553330.10	My name is . 	
+IS1002c.D.dialog-act.s9553330.11	Jose he man is . 	
+IS1002c.A.dialog-act.s9553330.25	Your name is name ? 	
+IS1002c.B.dialog-act.s9553330.11	My name is name . 	
+IS1002c.A.dialog-act.s9553330.26	Huh hi name . 	
+IS1002c.C.dialog-act.s9553330.15	My name is Inigo Montoya . 	
+IS1002c.A.dialog-act.s9553330.24		
+IS1002c.C.dialog-act.s9553330.16	You killed my father . 	
+IS1002c.B.dialog-act.s9553330.12	Sorry 	
+IS1002c.C.dialog-act.s9553330.17	Prepare to die . 	
+IS1002c.B.dialog-act.s9553330.13	I did this in a bit of a rush . 	
+IS1002c.D.dialog-act.s9553330.12	N name . 	
+IS1002c.B.dialog-act.s9553330.14	So so here's a look inside your really old-looking remote control . 	
+IS1002c.A.dialog-act.s9553330.27	Right . 	
+IS1002c.B.dialog-act.s9553330.15	Um you've got a printed a printed uh circuit board here , 	
+IS1002c.B.dialog-act.s9553330.16	and you've got all these buttons which kinda press down little rubber nubbies into these little holes that activate 	
+IS1002c.D.dialog-act.s9553330.10		
+IS1002c.A.dialog-act.s9553330.28	We've all broke a remote control ri um s yeah . 	
+IS1002c.D.dialog-act.s9553330.13	I've 	
+IS1002c.B.dialog-act.s9553330.17	Yeah we've all broken a remote control . 	
+IS1002c.C.dialog-act.s9553330.14		
+IS1002c.B.dialog-act.s9553330.18	So you've also got um you've got your chip here , your batteries here , and some sorta electronics . Um 	
+IS1002c.D.dialog-act.s9553330.14	I just love you tech guys , huh . 	
+IS1002c.C.dialog-act.s9553330.18	Yeah there's a thingy and a dingy and 	
+IS1002c.A.dialog-act.s9553330.29	You press this and it does th 	
+IS1002c.D.dialog-act.s9553330.15	Yeah y do jabber 	
+IS1002c.B.dialog-act.s9553330.19	Well 	
+IS1002c.C.dialog-act.s9553330.19		
+IS1002c.B.dialog-act.s9553330.20	so you've got here's here's a transistor , and this amplifies your signal , 	
+IS1002c.B.dialog-act.s9553330.21	um you've got the L_E_D_ here on the end of the uh uh on the end of the printed circuit board . 	
+IS1002c.B.dialog-act.s9553330.22	Um you've got a couple diodes here for I don't know who and whatnot . 	
+IS1002c.A.dialog-act.s9553330.30	I dunno who and whatnot . 	
+IS1002c.B.dialog-act.s9553330.23	So exactly . 	
+IS1002c.C.dialog-act.s9553330.20	Nah . 	
+IS1002c.B.dialog-act.s9553330.24	So um we've got a i in this in this uh drawing he uh in this example here , this is a eighteen pin um uh chip I dunno . 	
+IS1002c.D.dialog-act.s9553330.16	P 	
+IS1002c.D.dialog-act.s9553330.17	Yeah . 	
+IS1002c.C.dialog-act.s9553330.21		
+IS1002c.B.dialog-act.s9553330.25	Uh it's two double A_ batteries . 	
+IS1002c.B.dialog-act.s9553330.26	This is pretty standard remote . 	
+IS1002c.B.dialog-act.s9553330.27	So here are options for our power sources . 	
+IS1002c.B.dialog-act.s9553330.28	You can use a basic battery , which we've already discussed , 	
+IS1002c.B.dialog-act.s9553330.29	um th our tech department also said we have the option of doing some kind of hand dynamo where maybe you crank it or something like that . 	
+IS1002c.A.dialog-act.s9553330.31	'Kay . 	
+IS1002c.C.dialog-act.s9553330.25	I wanna change that . 	
+IS1002c.B.dialog-act.s9553330.30	I don't know if that's really 	
+IS1002c.D.dialog-act.s9553330.18	I I gotta I gotta flashlight , and uh 	
+IS1002c.B.dialog-act.s9553330.31	I don't know we got some qu crazy guys down there in that department so 	
+IS1002c.C.dialog-act.s9553330.22		
+IS1002c.A.dialog-act.s9553330.32	Okay . 	
+IS1002c.B.dialog-act.s9553330.32	You shake it . 	
+IS1002c.D.dialog-act.s9553330.19	yeah 	
+IS1002c.D.dialog-act.s9553330.21	but it's interesting 'cause you shake it like this . 	
+IS1002c.B.dialog-act.s9553330.33	Yeah . 	
+IS1002c.D.dialog-act.s9553330.22	Like this . 	
+IS1002c.C.dialog-act.s9553330.23		
+IS1002c.B.dialog-act.s9553330.34	So that's the next bullet is the um the kinetic provision of energy , 	
+IS1002c.D.dialog-act.s9553330.20	And that's on the camera . 	
+IS1002c.C.dialog-act.s9553330.24		
+IS1002c.B.dialog-act.s9553330.35	so it's like that flashlight where you have to shake it . 	
+IS1002c.D.dialog-act.s9553330.23	Yeah . 	
+IS1002c.A.dialog-act.s9553330.33	'Kay . 	
+IS1002c.B.dialog-act.s9553330.36	Uh we've got solar cells , 	
+IS1002c.B.dialog-act.s9553330.37	which I don't think is a very good idea because um you could not use your remote at night 	
+IS1002c.B.dialog-act.s9553330.38	which doesn't make a lot of sense . 	
+IS1002c.A.dialog-act.s9553330.34	Mm 'kay . 	
+IS1002c.B.dialog-act.s9553330.39	And finally we've got our cradle o our power cradle idea . 	
+IS1002c.A.dialog-act.s9553330.35	Okay so we basically have battery versus cradle here ? 	
+IS1002c.B.dialog-act.s9553330.40	M battery versus cradle I think is yeah . 	
+IS1002c.A.dialog-act.s9553330.36	Okay . 	
+IS1002c.C.dialog-act.s9553330.26	I like the kinetic . 	
+IS1002c.A.dialog-act.s9553330.37	So we have battery versus cradle 	
+IS1002c.D.dialog-act.s9553330.24	I g I I figured you would . Yes . Yeah . 	
+IS1002c.B.dialog-act.s9553330.41	It could be fun . 	
+IS1002c.A.dialog-act.s9553330.38	It's actually a novel thing 	
+IS1002c.A.dialog-act.s9553330.39	because you could sell it a as a novelty , 	
+IS1002c.A.dialog-act.s9553330.40	just to be actually serious for a minute here , 	
+IS1002c.B.dialog-act.s9553330.42	Yeah . 	
+IS1002c.A.dialog-act.s9553330.41	you could 	
+IS1002c.B.dialog-act.s9553330.43	Well it is it is more uh I mean it is more eco-friendly than the than the cradle 	
+IS1002c.B.dialog-act.s9553330.44	'cause you're still using power off the grid with the cradle . So um 	
+IS1002c.A.dialog-act.s9553330.42	Mm . 	
+IS1002c.A.dialog-act.s9553330.43	Hmm . 	
+IS1002c.B.dialog-act.s9553330.45	our case design . 	
+IS1002c.B.dialog-act.s9553330.46	We have uh choices in materials 	
+IS1002c.B.dialog-act.s9553330.47	and choices in the general shapes that we can do . 	
+IS1002c.B.dialog-act.s9553330.48	Our material choices are a plastic latex um ty or plastic , a rubber latex type thing , uh wood , or titanium . 	
+IS1002c.B.dialog-act.s9553330.49	If we go with titanium we're gonna be uh limited in the amount of shapes we can do 	
+IS1002c.B.dialog-act.s9553330.50	because it's tough to shape the titanium , and uh 	
+IS1002c.B.dialog-act.s9553330.51	Yeah pers 	
+IS1002c.A.dialog-act.s9553330.44	Wood wood would ge would give us a little bit of a marketing niche , wouldn't it . 	
+IS1002c.B.dialog-act.s9553330.52	I think wood i 	
+IS1002c.D.dialog-act.s9553330.25	It it it 	
+IS1002c.A.dialog-act.s9553330.46	Nah . 	
+IS1002c.B.dialog-act.s9553330.53	I I can't see anybody wanting to use a wooden remote , 	
+IS1002c.B.dialog-act.s9553330.54	it's just anti-technology really , you know . 	
+IS1002c.D.dialog-act.s9553330.26	Uh . 	
+IS1002c.A.dialog-act.s9553330.45	Okay . 	
+IS1002c.A.dialog-act.s9553330.47	Hmm . 	
+IS1002c.D.dialog-act.s9553330.27	Uh uh to me in a marketing sense it's not it's not relative . 	
+IS1002c.D.dialog-act.s9553330.28	We can we can o we can uh accentuate whatever 	
+IS1002c.D.dialog-act.s9553330.29	whatever product you put in there we can find a way to accentuate it . 	
+IS1002c.B.dialog-act.s9553330.55	Right . 	
+IS1002c.B.dialog-act.s9553330.56	And what we may be able to do , and I think this might be the best option is to combine some a couple of these . 	
+IS1002c.A.dialog-act.s9553330.48	Okay . 	
+IS1002c.B.dialog-act.s9553330.57	Um my recommendation personally would be to do some kind of a plastic inner shell with a like a rubber outer shell , 	
+IS1002c.B.dialog-act.s9553330.58	to make it um to mak uh like a thick plastic inner shell 	
+IS1002c.B.dialog-act.s9553330.59	and a t um kind of a to have that rubber outer shell to make it more durable , 	
+IS1002c.B.dialog-act.s9553330.60	and also maybe i I think it feels a little better than the plastic . 	
+IS1002c.A.dialog-act.s9553330.49	'Kay . Do you get a good grip on the rubber ? 	
+IS1002c.B.dialog-act.s9553330.61	Yeah um 	
+IS1002c.A.dialog-act.s9553330.50	Yeah okay . 	
+IS1002c.D.dialog-act.s9553330.30	And if you make it from that super rubber , when you drop it on the floor it can bounce right back up in your hand . 	
+IS1002c.B.dialog-act.s9553330.62	Yeah . 	
+IS1002c.D.dialog-act.s9553330.31	You don't even need to lean down to get it . 	
+IS1002c.C.dialog-act.s9553330.27		
+IS1002c.B.dialog-act.s9553330.63	The advantages of working with plastic and rubber is w we we'll have a lot more um options just in terms of shape 	
+IS1002c.D.dialog-act.s9553330.32		
+IS1002c.B.dialog-act.s9553330.64	because you can extrude plastic in basically any shape you want . 	
+IS1002c.B.dialog-act.s9553330.65	So um and then we can cover you know the breakable bits with rubber yeah so um 	
+IS1002c.A.dialog-act.s9553330.51	Okay . 	
+IS1002c.B.dialog-act.s9553330.66	But basically these are curved and double-curved 	
+IS1002c.B.dialog-act.s9553330.67	I I believe that the tech department , in their um in their message to me , that they were referring to the number of th curves in the bottom . 	
+IS1002c.B.dialog-act.s9553330.68	I have no idea exactly what they're talking about , 	
+IS1002c.B.dialog-act.s9553330.69	but that's what they told me , uncurved , flat , curved , or double-curved . 	
+IS1002c.A.dialog-act.s9553330.52	Okay . 	
+IS1002c.C.dialog-act.s9553330.28		
+IS1002c.B.dialog-act.s9553330.70	I would guess this like this pen would be kinda like a double-curved , 	
+IS1002c.B.dialog-act.s9553330.71	where it's curved on m m multiple axes , right ? 	
+IS1002c.B.dialog-act.s9553330.72	I think curved means just curved in one axis 	
+IS1002c.B.dialog-act.s9553330.73	and double-curved is curved in two axes 	
+IS1002c.A.dialog-act.s9553330.53	Okay . 	
+IS1002c.B.dialog-act.s9553330.74	or surfaces . I have no idea . 	
+IS1002c.A.dialog-act.s9553330.54	I think it might mean something like that sorta shape 	
+IS1002c.A.dialog-act.s9553330.55	because a double curve rather than a 	
+IS1002c.D.dialog-act.s9553330.33	Mm-hmm yeah that's yeah that's what I see . 	
+IS1002c.B.dialog-act.s9553330.75	Oh okay oh like a wave , okay . 	
+IS1002c.A.dialog-act.s9553330.56	yeah that's what . 	
+IS1002c.D.dialog-act.s9553330.34	Yeah that's what I see also . 	
+IS1002c.B.dialog-act.s9553330.76	Alright that makes sense okay . 	
+IS1002c.B.dialog-act.s9553330.77	Um okay , with the interface we have the following options , 	
+IS1002c.B.dialog-act.s9553330.78	we can u we can use push buttons , 	
+IS1002c.B.dialog-act.s9553330.79	we can use a scroll wheel with an integrated push button , 	
+IS1002c.B.dialog-act.s9553330.80	and L_C_D_ display , 	
+IS1002c.D.dialog-act.s9553330.35	Ooh . 	
+IS1002c.B.dialog-act.s9553330.81	or multiple scrolling wheels . 	
+IS1002c.B.dialog-act.s9553330.82	Um so these are all options that the user interface guy can uh has at his disposal to put together a user interface . 	
+IS1002c.A.dialog-act.s9553330.57	Okay . 	
+IS1002c.B.dialog-act.s9553330.83	For electronics , we have these very technical um descriptions here . 	
+IS1002c.B.dialog-act.s9553330.84	A simple chip , which is the least expensive , 	
+IS1002c.B.dialog-act.s9553330.85	but I have no numbers to give you , 	
+IS1002c.A.dialog-act.s9553330.58		
+IS1002c.B.dialog-act.s9553330.86	a regular chip , which is like the medium porridge the medium expense uh 	
+IS1002c.A.dialog-act.s9553330.59		
+IS1002c.A.dialog-act.s9553330.60	D do we have actually any concept of what the difference is between a simple chip and an advanced chip ? 	
+IS1002c.B.dialog-act.s9553330.87	Yes 	
+IS1002c.B.dialog-act.s9553330.88	the difference is , with a simple chip a simple chip will operate 	
+IS1002c.B.dialog-act.s9553330.89	oh why doesn't this scroll up ? 	
+IS1002c.B.dialog-act.s9553330.90	Previous previous , okay . 	
+IS1002c.B.dialog-act.s9553330.91	A simple chip is required to operate push buttons . 	
+IS1002c.B.dialog-act.s9553330.92	Um an advanced chip is required to to operate um the L_C_D_ display , 	
+IS1002c.A.dialog-act.s9553330.62	Okay . 	
+IS1002c.B.dialog-act.s9553330.93	and it didn't say specifically , but I I have a hunch that a regular chip is gonna be the scroll wheel and the multiple scroll wheels . 	
+IS1002c.A.dialog-act.s9553330.63	Okay . 	
+IS1002c.B.dialog-act.s9553330.97	So but yeah . 	
+IS1002c.A.dialog-act.s9553330.64	Yeah that makes sense . 	
+IS1002c.B.dialog-act.s9553330.98	That's the end of my presentation . 	
+IS1002c.A.dialog-act.s9553330.65	So presentation from I guess design would go best . Next . 	
+IS1002c.A.dialog-act.s9553330.66	Technical functions or interface concept ? 	
+IS1002c.B.dialog-act.s9553330.99	I think 	
+IS1002c.C.dialog-act.s9553330.29	Oh interface concept . 	
+IS1002c.C.dialog-act.s9553330.30	Very long presentation . 	
+IS1002c.A.dialog-act.s9553330.67	Yeah that's it . 	
+IS1002c.B.dialog-act.s9553330.94		
+IS1002c.A.dialog-act.s9553330.68	Yes , but it has your name on it . 	
+IS1002c.B.dialog-act.s9553330.95		
+IS1002c.A.dialog-act.s9553330.61		
+IS1002c.C.dialog-act.s9553330.31	Well that doesn't bo bode well for it for it tats as well . 	
+IS1002c.C.dialog-act.s9553330.32	Um so , 	
+IS1002c.C.dialog-act.s9553330.33	somehow that thing's too big , but um 	
+IS1002c.C.dialog-act.s9553330.34	okay um 	
+IS1002c.C.dialog-act.s9553330.35	our uh manufacturing division wanted the speech recognition . 	
+IS1002c.C.dialog-act.s9553330.36	They say they could put it to work 	
+IS1002c.C.dialog-act.s9553330.37	but um we don't think so . 	
+IS1002c.B.dialog-act.s9553330.100	No . 	
+IS1002c.C.dialog-act.s9553330.38	No . 	
+IS1002c.C.dialog-act.s9553330.39	It it it you'll be you know be affected by the by the other speech and 	
+IS1002c.B.dialog-act.s9553330.96		
+IS1002c.B.dialog-act.s9553330.101	If the T_V_ is working , 	
+IS1002c.B.dialog-act.s9553330.102	yeah . 	
+IS1002c.B.dialog-act.s9553330.103	That's just 	
+IS1002c.A.dialog-act.s9553330.69		
+IS1002c.B.dialog-act.s9553330.104	I mean it'll if somebody says up in the middle of a television show , it's gonna change the channel . 	
+IS1002c.C.dialog-act.s9553330.40	Yeah 	
+IS1002c.C.dialog-act.s9553330.41	and and fighting for the remote would not be fun anymore , 	
+IS1002c.B.dialog-act.s9553330.105	So 	
+IS1002c.C.dialog-act.s9553330.42	and I think that's one of the things we wanna keep . 	
+IS1002c.A.dialog-act.s9553330.71	But what if you actually had to press a button to make it recognize ? 	
+IS1002c.A.dialog-act.s9553330.72	So if you pressed it and went , up ? 	
+IS1002c.C.dialog-act.s9553330.43	That kinda would r d 	
+IS1002c.B.dialog-act.s9553330.106	Well then why don't you just press the up button ? 	
+IS1002c.C.dialog-act.s9553330.44	yeah . 	
+IS1002c.A.dialog-act.s9553330.73	Man yeah . 	
+IS1002c.C.dialog-act.s9553330.45	That would kind of lose it . 	
+IS1002c.A.dialog-act.s9553330.74	But if it's just one thing with a button that you can just go 	
+IS1002c.D.dialog-act.s9553330.37	That's right . 	
+IS1002c.B.dialog-act.s9553330.107	Even still there's gonna be interf th there's there still will be interference from the T_V_ . 	
+IS1002c.A.dialog-act.s9553330.76	Up . 	
+IS1002c.A.dialog-act.s9553330.70		
+IS1002c.B.dialog-act.s9553330.108	It might not be it might not be completely confusing , 	
+IS1002c.A.dialog-act.s9553330.75	Yeah , okay . 	
+IS1002c.B.dialog-act.s9553330.109	but I think you'll still y it's still 	
+IS1002c.D.dialog-act.s9553330.36		
+IS1002c.B.dialog-act.s9553330.110	I don't think it's practical at all . 	
+IS1002c.B.dialog-act.s9553330.111	I think it's a bad idea frankly . 	
+IS1002c.C.dialog-act.s9553330.46	Yeah so um taking that away , our uh the the the rubber but rubber buttons are the more reliable 	
+IS1002c.A.dialog-act.s9553330.77	Okay . 	
+IS1002c.A.dialog-act.s9553330.78	You guys know your stuff . 	
+IS1002c.C.dialog-act.s9553330.47	it's the the ones that would al would allow us to to market our product as being you know less prone to damage 	
+IS1002c.C.dialog-act.s9553330.48	and more resistant to things like spillage of liquids over it 	
+IS1002c.C.dialog-act.s9553330.49	or you know mistreat misuses as it happens to remote controls . 	
+IS1002c.C.dialog-act.s9553330.50	Um as for the point that we making about losing it . 	
+IS1002c.C.dialog-act.s9553330.51	Well , we wanna small r remote control one side 	
+IS1002c.C.dialog-act.s9553330.52	because uh we want it to be cool and uh designed , 	
+IS1002c.C.dialog-act.s9553330.53	but um apparently um market shows that bigger s bigger um remotes get less lost , 	
+IS1002c.B.dialog-act.s9553330.112	That I would believe . 	
+IS1002c.C.dialog-act.s9553330.54	about 	
+IS1002c.D.dialog-act.s9553330.38	Mm-hmm . 	
+IS1002c.A.dialog-act.s9553330.79	Mm . 	
+IS1002c.B.dialog-act.s9553330.113		
+IS1002c.C.dialog-act.s9553330.55	But um yeah I think we we need to compromise between those two and somehow we'll do that . Somehow . 	
+IS1002c.C.dialog-act.s9553330.56	Um so the the what I would propose is something more or less in the uh direction of what is to yo the right of that slide uh 	
+IS1002c.C.dialog-act.s9553330.57	but without with a l a less complicated um design , 	
+IS1002c.C.dialog-act.s9553330.58	so the numbers , the volume control , and channel control , and teletext access . 	
+IS1002c.C.dialog-act.s9553330.59	Uh the volume and channel control can just become those the the four button array as in if it was a round dial . 	
+IS1002c.B.dialog-act.s9553330.114	Mm-hmm . 	
+IS1002c.C.dialog-act.s9553330.60	And um if you just think about it as the one to the right but with the numbers and the four buttons plus maybe a centre one with teletext . 	
+IS1002c.A.dialog-act.s9553330.80	So we're suggesting doing a sorta scroll wheel thing for the volume ? 	
+IS1002c.C.dialog-act.s9553330.61	Ye no it's not 	
+IS1002c.B.dialog-act.s9553330.115	That's not a scroll wheel . 	
+IS1002c.C.dialog-act.s9553330.62	i i it's just four buttons that are on a cross , 	
+IS1002c.A.dialog-act.s9553330.82	Nah . 	
+IS1002c.A.dialog-act.s9553330.81	Oh okay okay . I see . 	
+IS1002c.C.dialog-act.s9553330.63	so that you ba basically can control all of the important tasks from that alone . 	
+IS1002c.B.dialog-act.s9553330.116	Right . 	
+IS1002c.B.dialog-act.s9553330.117	Instead of play , stop , rewind , and fast forward there , that's up , down , louder , and quieter . 	
+IS1002c.A.dialog-act.s9553330.83	Uh , okay . 	
+IS1002c.A.dialog-act.s9553330.84	Okay . 	
+IS1002c.C.dialog-act.s9553330.64	Yeah 	
+IS1002c.C.dialog-act.s9553330.65	um yeah so I think we w we go for something mid-sized , 	
+IS1002c.D.dialog-act.s9553330.39		
+IS1002c.C.dialog-act.s9553330.66	so something looks good 	
+IS1002c.C.dialog-act.s9553330.67	and uh is not too prone to get lost . 	
+IS1002c.C.dialog-act.s9553330.68	That be it . 	
+IS1002c.A.dialog-act.s9553330.85	'Kay . 	
+IS1002c.A.dialog-act.s9553330.86	So on to Y functional requirements or trend watching ? 	
+IS1002c.D.dialog-act.s9553330.40	I dunno . 	
+IS1002c.B.dialog-act.s9553330.118	Trend watching has a later date there . 	
+IS1002c.D.dialog-act.s9553330.41	Trend watching I guess . 	
+IS1002c.D.dialog-act.s9553330.42	Trend watching I believe . 	
+IS1002c.A.dialog-act.s9553330.87	forty six nineteen fifty seven . Yep . 	
+IS1002c.D.dialog-act.s9553330.43	See what it looks like . 	
+IS1002c.D.dialog-act.s9553330.44	It's been so long . 	
+IS1002c.A.dialog-act.s9553330.88		
+IS1002c.C.dialog-act.s9553330.69	. 	
+IS1002c.D.dialog-act.s9553330.45	Well I don't know what to say . 	
+IS1002c.D.dialog-act.s9553330.46	When I s when I see the when I see the product I I I I don't wanna buy it . 	
+IS1002c.D.dialog-act.s9553330.47	I see so many of 'em out there . 	
+IS1002c.D.dialog-act.s9553330.48	There's nothing about that product that makes me wanna choose that product over other products that are out there . 	
+IS1002c.B.dialog-act.s9553330.119	Are you talking about the picture ? 	
+IS1002c.D.dialog-act.s9553330.49	Yeah yeah . 	
+IS1002c.B.dialog-act.s9553330.120	That's not our that's not our b design , 	
+IS1002c.B.dialog-act.s9553330.121	that's just a that's just something he a a graphic he used to show you the layout of what the layout of the buttons might be like . 	
+IS1002c.D.dialog-act.s9553330.50	Okay . 	
+IS1002c.D.dialog-act.s9553330.51	Okay . 	
+IS1002c.D.dialog-act.s9553330.52	Okay 'cause 'cause right now I don't have too much to say about how to market this product 	
+IS1002c.D.dialog-act.s9553330.53	because we don't have a product to market yet . 	
+IS1002c.D.dialog-act.s9553330.54	And uh from from talking to Mike is that we have we have uh we can market a more expensive product now . 	
+IS1002c.A.dialog-act.s9553330.89	Mm . 	
+IS1002c.D.dialog-act.s9553330.55	That's what I understand so , 	
+IS1002c.A.dialog-act.s9553330.90	Upper management said yes . 	
+IS1002c.D.dialog-act.s9553330.56	hello . 	
+IS1002c.A.dialog-act.s9553330.91	Uh e excuse that , that's a bit of spam . 	
+IS1002c.D.dialog-act.s9553330.57	And and so yeah 	
+IS1002c.D.dialog-act.s9553330.58	I'm a I'm a little bit stuck right now in that what uh w what is it that I'm gonna market ? 	
+IS1002c.D.dialog-act.s9553330.59	Uh without special or increased marketable features I don't believe the product has a consumer demand . 	
+IS1002c.D.dialog-act.s9553330.60	Uh I like the idea of of the scroll 	
+IS1002c.D.dialog-act.s9553330.61	makin 	
+IS1002c.D.dialog-act.s9553330.62	there are so many people making these products at this price right now . 	
+IS1002c.D.dialog-act.s9553330.63	What are we gonna do to make this one special and unique ? 	
+IS1002c.B.dialog-act.s9553330.122	What's special and unique about a scroll ? 	
+IS1002c.D.dialog-act.s9553330.64	Uh well I don't 	
+IS1002c.A.dialog-act.s9553330.92	It's cool . 	
+IS1002c.D.dialog-act.s9553330.65	yeah it's I I just see it as different . 	
+IS1002c.D.dialog-act.s9553330.66	I don't say it's specially mm 	
+IS1002c.D.dialog-act.s9553330.67	I don't say it's special . 	
+IS1002c.D.dialog-act.s9553330.68	Uh I say that it's different I 	
+IS1002c.D.dialog-act.s9553330.69	what I'm looking for as marketing is m give me something different . 	
+IS1002c.D.dialog-act.s9553330.70	I give me a lower price , 	
+IS1002c.D.dialog-act.s9553330.71	give me a higher price , 	
+IS1002c.D.dialog-act.s9553330.72	give me some new technology , 	
+IS1002c.D.dialog-act.s9553330.73	don't give me the same thing that everybody else is putting out there on the shelf it's f at the same price . 	
+IS1002c.D.dialog-act.s9553330.74	I need something to market about this thing . 	
+IS1002c.D.dialog-act.s9553330.75	We're we're a new firm . 	
+IS1002c.A.dialog-act.s9553330.93	I'd I'd say though that we if we did make the decision to go with the cradle though , the then we have that as well , 	
+IS1002c.D.dialog-act.s9553330.76	What i if when when we have 	
+IS1002c.A.dialog-act.s9553330.94	but wi with a similar 	
+IS1002c.D.dialog-act.s9553330.77	yeah 	
+IS1002c.D.dialog-act.s9553330.78	when we when we have something like the cradle or or something give that's 	
+IS1002c.D.dialog-act.s9553330.79	as as a marketing standard I need something to market , to make this product unique . 	
+IS1002c.B.dialog-act.s9553330.123	Well right I think the two big th points that we have so far are the having the cradle 	
+IS1002c.B.dialog-act.s9553330.124	and also having uh the um the actual design of the uh case itself having like this like rubber shell maybe with a plastic interior , 	
+IS1002c.D.dialog-act.s9553330.80	Yep . 	
+IS1002c.B.dialog-act.s9553330.125	having it look really nice 	
+IS1002c.B.dialog-act.s9553330.126	um and also be really durable . 	
+IS1002c.D.dialog-act.s9553330.81	Mm 'kay . 	
+IS1002c.D.dialog-act.s9553330.82	Just remember when I made up this report I didn't have the information that we're discussing here . 	
+IS1002c.B.dialog-act.s9553330.127	Right yeah . Yeah . 	
+IS1002c.A.dialog-act.s9553330.95	Mm . Course . 	
+IS1002c.D.dialog-act.s9553330.83	And and so so uh yeah when we have a cradle , when we have some kind of design , 	
+IS1002c.D.dialog-act.s9553330.84	so what I'm saying is , from my perspective , I don't have a product to market right now . 	
+IS1002c.D.dialog-act.s9553330.85	Um uh my personal preference is that we make some adjustment in the cost , either lower 	
+IS1002c.D.dialog-act.s9553330.86	or develop an integrated new technol technology . 	
+IS1002c.D.dialog-act.s9553330.87	That's that is the next step , 	
+IS1002c.D.dialog-act.s9553330.88	there's technology and then there is technology , which we're moving into the next phase . 	
+IS1002c.A.dialog-act.s9553330.96	Yeah 'cause that's . 	
+IS1002c.C.dialog-act.s9553330.70		
+IS1002c.D.dialog-act.s9553330.89	And so uh we're gonna have some new technology to enhance the marketability . 	
+IS1002c.D.dialog-act.s9553330.90	Yeah uh again I'm not sold on the product 	
+IS1002c.D.dialog-act.s9553330.91	because we don't have a product in my opinion yet . 	
+IS1002c.A.dialog-act.s9553330.97	Mm . 	
+IS1002c.D.dialog-act.s9553330.92	So I need a product . 	
+IS1002c.A.dialog-act.s9553330.98	Mm 'kay . 	
+IS1002c.B.dialog-act.s9553330.128	Well let's get a product then . 	
+IS1002c.D.dialog-act.s9553330.93	I need a product to market . 	
+IS1002c.D.dialog-act.s9553330.94	And I just whatever product you guys put together , we'll find a way to market it . 	
+IS1002c.D.dialog-act.s9553330.95	Tha that I'm not concerned with . 	
+IS1002c.A.dialog-act.s9553330.99	So now 	
+IS1002c.D.dialog-act.s9553330.96	If you if you give me if you give me a cut-out of what everybody else has then I need to I need to find a lower cost . 	
+IS1002c.A.dialog-act.s9553330.100	So our big questions here really are cradle or not cradle ? 	
+IS1002c.A.dialog-act.s9553330.101	Do we go basic or do we go for features ? 	
+IS1002c.A.dialog-act.s9553330.102	Uh d does anyone really wanna do anything with the scroll wheel or should we ditch that off-hand first ? 	
+IS1002c.B.dialog-act.s9553330.129	Well my question is what would the scroll wheel do ? 	
+IS1002c.B.dialog-act.s9553330.130	Function-wise , what does that do that 	
+IS1002c.A.dialog-act.s9553330.103	Oh but that was in your presentation 	
+IS1002c.A.dialog-act.s9553330.104	so wh what would you imagine it doing ? 	
+IS1002c.D.dialog-act.s9553330.97	Yeah wh wh what's the wh 	
+IS1002c.B.dialog-act.s9553330.131	Yeah . Well it's it's just another way to do the exact same thing that the buttons do . 	
+IS1002c.A.dialog-act.s9553330.105		
+IS1002c.A.dialog-act.s9553330.106	Mm 'kay 	
+IS1002c.D.dialog-act.s9553330.98	Okay 	
+IS1002c.D.dialog-act.s9553330.99	now what I see with the scroll wheel is everybody has buttons . 	
+IS1002c.C.dialog-act.s9553330.71	But would we 	
+IS1002c.D.dialog-act.s9553330.100	So from a marketing standpoint I have I have another door to walk through when we have something that's unique . 	
+IS1002c.A.dialog-act.s9553330.107	Yeah . 	
+IS1002c.D.dialog-act.s9553330.101	If it creates something more complex or more expensive , then I don't know if that makes it uh a marketing necessity . 	
+IS1002c.D.dialog-act.s9553330.102	But again , from a marketing perspective I want as much new and different about this thing as possible 	
+IS1002c.D.dialog-act.s9553330.103	because we're we're co it's a very competitive market . 	
+IS1002c.A.dialog-act.s9553330.108	What I understand about scroll wheels is they're they're quite expensive to to make . 	
+IS1002c.B.dialog-act.s9553330.132	Yeah . 	
+IS1002c.B.dialog-act.s9553330.133	Th they are gonna be more expensive , 	
+IS1002c.A.dialog-act.s9553330.109	So I d 	
+IS1002c.B.dialog-act.s9553330.134	but on the other hand , I mean , it I mean it is an alternative if if you think that's gonna sell some some uh you know 	
+IS1002c.B.dialog-act.s9553330.135	if if we're gonna make up the extra cost by extra sales I think maybe it's worth it to do it , 	
+IS1002c.B.dialog-act.s9553330.136	but I mean I would just use if I was gonna do this I would just use the scroll wheel for s channels up and channels down . 	
+IS1002c.B.dialog-act.s9553330.137	I don't think volume 	
+IS1002c.B.dialog-act.s9553330.138	or do you think volume would be 	
+IS1002c.C.dialog-act.s9553330.72	I dunno . 	
+IS1002c.C.dialog-act.s9553330.73	I'll bet first in volume maybe . I dunno . 	
+IS1002c.B.dialog-act.s9553330.139	No we can we can do multiple scroll wheels but 	
+IS1002c.A.dialog-act.s9553330.110	Well I d I like the idea of basically focusing the 	
+IS1002c.A.dialog-act.s9553330.111	my personal preference is focusing the p the product on the idea of the uh the case the the uh dock to put it in to to charge it . 	
+IS1002c.A.dialog-act.s9553330.112	We can target like environmentally friendly ideas , that sorta things . 	
+IS1002c.D.dialog-act.s9553330.104	Mm-hmm . 	
+IS1002c.A.dialog-act.s9553330.113	It s i m makes it easy to market , 	
+IS1002c.D.dialog-act.s9553330.105	Yeah yeah . 	
+IS1002c.A.dialog-act.s9553330.114	it's easy to differentiate the product , yeah so . 	
+IS1002c.D.dialog-act.s9553330.106	I think it's 	
+IS1002c.D.dialog-act.s9553330.107	that's right . 	
+IS1002c.D.dialog-act.s9553330.108	I think so . 	
+IS1002c.A.dialog-act.s9553330.115	And if we we keep the rest in a format that is durable 	
+IS1002c.A.dialog-act.s9553330.116	because th th the whole product's gonna need to be more durable th thus 	
+IS1002c.B.dialog-act.s9553330.140	Mm-hmm . 	
+IS1002c.A.dialog-act.s9553330.117	because you're not going to be ditching it as often . 	
+IS1002c.A.dialog-act.s9553330.118	It's gonna need to be more expensive because of the cradle . 	
+IS1002c.D.dialog-act.s9553330.109	Mm . 	
+IS1002c.A.dialog-act.s9553330.119	So if we can market it in terms of that 	
+IS1002c.D.dialog-act.s9553330.110	Yep . 	
+IS1002c.A.dialog-act.s9553330.120	and yeah well 	
+IS1002c.D.dialog-act.s9553330.111	I think we got some exclusivity in that , 	
+IS1002c.D.dialog-act.s9553330.112	you know , we got something that nobody else has right now , 	
+IS1002c.B.dialog-act.s9553330.141	Yeah . 	
+IS1002c.D.dialog-act.s9553330.113	and and that means we can we can make some adjustments in the retail or wholesale price if we need to 	
+IS1002c.D.dialog-act.s9553330.114	and it also can create it's own demand from it's uniqueness . 	
+IS1002c.A.dialog-act.s9553330.122	So our big decision then is like how do we do um like 	
+IS1002c.A.dialog-act.s9553330.123	we have to decide on the details 	
+IS1002c.A.dialog-act.s9553330.124	and we have to decide on well n not exactly the details , 	
+IS1002c.A.dialog-act.s9553330.125	but d do we have uh 	
+IS1002c.A.dialog-act.s9553330.126	What type of casing ? 	
+IS1002c.A.dialog-act.s9553330.127	I personally like what you were saying about the plastic with the rubber . 	
+IS1002c.B.dialog-act.s9553330.142	Mm-hmm . 	
+IS1002c.B.dialog-act.s9553330.143	I'm thinking yeah something like kinda almost like these pens , you know , 	
+IS1002c.A.dialog-act.s9553330.121		
+IS1002c.B.dialog-act.s9553330.144	where there's you have plastic bits 	
+IS1002c.B.dialog-act.s9553330.145	and then it's not really rubber 	
+IS1002c.B.dialog-act.s9553330.146	but just kinda like a fused the plastic with rubber on the outside . 	
+IS1002c.A.dialog-act.s9553330.128	Okay . 	
+IS1002c.A.dialog-act.s9553330.130	Just a very thin sorta sheet for a a grip , sorta thing or for 	
+IS1002c.B.dialog-act.s9553330.147	Well no ma yeah 	
+IS1002c.B.dialog-act.s9553330.148	maybe a bit more then th is on here 	
+IS1002c.B.dialog-act.s9553330.149	but ju just as a kind of an inspiration , these pens I think are are kind of 	
+IS1002c.A.dialog-act.s9553330.129	Okay . 	
+IS1002c.A.dialog-act.s9553330.131	So then if we 	
+IS1002c.A.dialog-act.s9553330.132	d d do we want to do anything more basic with the uh more advanced with the user interface in terms of do we want to go for um buttons , 	
+IS1002c.A.dialog-act.s9553330.133	or do we want if we're ditching the scroll wheels do we want to go L_C_D_ ? 	
+IS1002c.A.dialog-act.s9553330.134	Do we want to give do we want to have anything else on it ? 	
+IS1002c.C.dialog-act.s9553330.74	It's only a T_V_ . 	
+IS1002c.B.dialog-act.s9553330.150	Or from from my perspective I think L_C_D_ is a mistake 	
+IS1002c.B.dialog-act.s9553330.151	because this is a universal remote 	
+IS1002c.B.dialog-act.s9553330.152	and all you're doing I mean it's you're not gonna get any information back from the television , 	
+IS1002c.B.dialog-act.s9553330.153	so the only information you can display on this remote is what channel you just sent it at last 	
+IS1002c.B.dialog-act.s9553330.154	and there's just not a lot of information , you know , there . 	
+IS1002c.C.dialog-act.s9553330.75	Hmm . 	
+IS1002c.B.dialog-act.s9553330.155	It receives no information . 	
+IS1002c.A.dialog-act.s9553330.135	Okay . 	
+IS1002c.B.dialog-act.s9553330.156	So I I don't see any reason for having an L_C_D_ 	
+IS1002c.B.dialog-act.s9553330.157	'cause it's an increased cost . 	
+IS1002c.B.dialog-act.s9553330.158	Unless you can think of something interesting to do with it . 	
+IS1002c.D.dialog-act.s9553330.115	Yeah . 	
+IS1002c.D.dialog-act.s9553330.116	Yeah right now there's right now there's nothing coming out of the T_V_ to receive , 	
+IS1002c.D.dialog-act.s9553330.117	so you know unless technology changes and information starts coming out of the a cable box or something there's no s I don't see the , 	
+IS1002c.B.dialog-act.s9553330.159	Right . 	
+IS1002c.D.dialog-act.s9553330.118	I don't see the necessity of an L_C_D_ either . 	
+IS1002c.D.dialog-act.s9553330.119	Don't see it . 	
+IS1002c.A.dialog-act.s9553330.136	Okay so 	
+IS1002c.A.dialog-act.s9553330.137	the question is now I guess we need t to decide on 	
+IS1002c.A.dialog-act.s9553330.138	well y you guys basically have to now go and figure out the details of this thing . 	
+IS1002c.D.dialog-act.s9553330.120		
+IS1002c.A.dialog-act.s9553330.139	So , what we need to know in terms of marketing and uh project management are are there any other questions that we need to answer now before you guys can go and build this ? 	
+IS1002c.D.dialog-act.s9553330.121		
+IS1002c.A.dialog-act.s9553330.140	What what overall things have we not decided on ? 	
+IS1002c.B.dialog-act.s9553330.160	Well we have to I think for me it's still not exactly clear exactly what the inter user interface is gonna be . 	
+IS1002c.B.dialog-act.s9553330.161	There's the scroll wheel , in or out ? 	
+IS1002c.B.dialog-act.s9553330.162	What do you guys like in the user interface ? 	
+IS1002c.A.dialog-act.s9553330.141	I think maybe in terms of marketing , is that gonna make enough of a difference to justify the cost ? 	
+IS1002c.D.dialog-act.s9553330.122	Again . Well I think it's it's the more uniqueness you can bring to the product , the easier it is , I believe , for me to market . 	
+IS1002c.D.dialog-act.s9553330.123	Uh again the push-buttons I I see are are everywhere . 	
+IS1002c.D.dialog-act.s9553330.124	And so we can go with the same thing , 	
+IS1002c.D.dialog-act.s9553330.125	but we're gonna be com competing in a in a broader market than if we go with something unique . 	
+IS1002c.D.dialog-act.s9553330.126	You know the other thing I thought about was you know , do we go to something like this ? 	
+IS1002c.D.dialog-act.s9553330.127	Make a remote that doesn't look like a remote . 	
+IS1002c.D.dialog-act.s9553330.128	It's just another it's just a an idea , 	
+IS1002c.D.dialog-act.s9553330.129	and I don't know 	
+IS1002c.B.dialog-act.s9553330.163	Well I dunno about like the flip-phone idea , 	
+IS1002c.B.dialog-act.s9553330.164	because I think , as far as durability th it's not a big 	
+IS1002c.B.dialog-act.s9553330.165	well maybe when it's closed . 	
+IS1002c.D.dialog-act.s9553330.130	I mean what I see one of the things one of the things you brought up in an earlier presentation is , when you got children , their their stuff gets inside the circuitry , they get dirty , they get messy with drinks and stuff . 	
+IS1002c.B.dialog-act.s9553330.166	Mm-hmm . 	
+IS1002c.D.dialog-act.s9553330.131	This 	
+IS1002c.B.dialog-act.s9553330.167	Mm-hmm . 	
+IS1002c.D.dialog-act.s9553330.132	And what I keep throwing out there I just keep throwing out ideas to try to make this thing look or act or in some way identify itself as unique or different . 	
+IS1002c.C.dialog-act.s9553330.76	Mm-hmm . 	
+IS1002c.D.dialog-act.s9553330.134	But you guys are the ones that have to c ultimately create the product within cost . 	
+IS1002c.A.dialog-act.s9553330.142	Yeah 	
+IS1002c.A.dialog-act.s9553330.143	and I guess th th the question th th that you're being asked right now is whether is the dock enough of a unique feature to be able to go out and sell that a a as a a very different product , 	
+IS1002c.A.dialog-act.s9553330.144	or do we really need the scroll wheel as well ? 	
+IS1002c.A.dialog-act.s9553330.145	Because the scroll wheel comes at quite a cost . 	
+IS1002c.D.dialog-act.s9553330.135	Oh okay 	
+IS1002c.D.dialog-act.s9553330.136	phew . 	
+IS1002c.B.dialog-act.s9553330.171	Yeah . 	
+IS1002c.D.dialog-act.s9553330.137	I think you gotta g get into cost effectiveness . 	
+IS1002c.D.dialog-act.s9553330.138	I think if you can have the base station with a with a locator , I think those are two very strong features , 	
+IS1002c.D.dialog-act.s9553330.139	if that's something that can be integrated without a bunch of extra cost . 	
+IS1002c.B.dialog-act.s9553330.168	Well 	
+IS1002c.B.dialog-act.s9553330.169	The 	
+IS1002c.B.dialog-act.s9553330.170	The locator's gonna require a radio transmitter , 	
+IS1002c.B.dialog-act.s9553330.172	which will 	
+IS1002c.D.dialog-act.s9553330.140	Mm-hmm . 	
+IS1002c.A.dialog-act.s9553330.146	That's gonna n is that gonna need a better chip as well ? 	
+IS1002c.B.dialog-act.s9553330.173	Um we're probably gonna have to go with a like a medium chip , s I would imagine . 	
+IS1002c.C.dialog-act.s9553330.77	No it's just different . 	
+IS1002c.B.dialog-act.s9553330.175	But we I we will need a receiver , an antenna . 	
+IS1002c.D.dialog-act.s9553330.142	Integrated , yeah . 	
+IS1002c.B.dialog-act.s9553330.176	Yeah . 	
+IS1002c.D.dialog-act.s9553330.143	So it's just uh I I think that's 	
+IS1002c.B.dialog-act.s9553330.174	It should be a really simple signal though so 	
+IS1002c.D.dialog-act.s9553330.144		
+IS1002c.D.dialog-act.s9553330.145	I know personally that would be a very attractive feature , is to have a uh have a button I can push to find my remote control . 	
+IS1002c.A.dialog-act.s9553330.147	And it's presumably gonna need a little speaker in it or something like that as well to beep . 	
+IS1002c.B.dialog-act.s9553330.177	That's true yeah . 	
+IS1002c.A.dialog-act.s9553330.148	But I guess a little tiny speaker is gonna be quite cheap , 	
+IS1002c.A.dialog-act.s9553330.149	it's not gonna need q quality , is it ? It's 	
+IS1002c.B.dialog-act.s9553330.178	Oh yeah yeah . It'll be really cheap . 	
+IS1002c.D.dialog-act.s9553330.146	Or maybe you can like have a a smell-o-rama , 	
+IS1002c.D.dialog-act.s9553330.147	you know you push a button and it s puts out a stink . 	
+IS1002c.A.dialog-act.s9553330.150		
+IS1002c.D.dialog-act.s9553330.148	You can 	
+IS1002c.C.dialog-act.s9553330.78	Maybe not 	
+IS1002c.D.dialog-act.s9553330.149		
+IS1002c.A.dialog-act.s9553330.151	Makes your living room more fresh as you watch . 	
+IS1002c.D.dialog-act.s9553330.150	Yeah yeah yeah yeah . 	
+IS1002c.A.dialog-act.s9553330.152	Okay we're doing well for time here . 	
+IS1002c.C.dialog-act.s9553330.79	S 	
+IS1002c.A.dialog-act.s9553330.153	Um we've got about another ten minutes . 	
+IS1002c.A.dialog-act.s9553330.154	I think that uh 	
+IS1002c.B.dialog-act.s9553330.179	So the scroll wheel , in or out ? 	
+IS1002c.A.dialog-act.s9553330.155	Mm pr my personal preference is out . 	
+IS1002c.A.dialog-act.s9553330.156	I don't think the cost is justified for a little bit more uniqueness when we already have that , 	
+IS1002c.A.dialog-act.s9553330.157	and I don't s think it's obvious and natural how it would be used . 	
+IS1002c.C.dialog-act.s9553330.80	Yeah . 	
+IS1002c.C.dialog-act.s9553330.81	Yeah 	
+IS1002c.C.dialog-act.s9553330.82	I think we have like and it's not very usable 	
+IS1002c.C.dialog-act.s9553330.83	and it will bring down the robustness of the whole thing , 	
+IS1002c.C.dialog-act.s9553330.84	'cause it's it it breaks down easier . 	
+IS1002c.A.dialog-act.s9553330.158	Mm . 	
+IS1002c.D.dialog-act.s9553330.151	Yeah . 	
+IS1002c.D.dialog-act.s9553330.152		
+IS1002c.B.dialog-act.s9553330.180	For me I think the scroll wheel actually might not be so bad . 	
+IS1002c.B.dialog-act.s9553330.181	I don't know exactly what the increased cost is gonna be , 	
+IS1002c.B.dialog-act.s9553330.182	but I think he does have a point , 	
+IS1002c.B.dialog-act.s9553330.183	i it might push somebody over the edge when they're looking at our at our remote versus something else , when they see this one has a scroll wheel to go up and down on the channels . 	
+IS1002c.B.dialog-act.s9553330.184	I think it might be kinda neat to be able to do it like that . 	
+IS1002c.A.dialog-act.s9553330.159	But then that that surely d depends a little on the T_V_ 	
+IS1002c.D.dialog-act.s9553330.153	W 	
+IS1002c.A.dialog-act.s9553330.160	because some T_V_s are quite slow at changing channels from like so 	
+IS1002c.B.dialog-act.s9553330.185	Sure . 	
+IS1002c.A.dialog-act.s9553330.161	if you've got a scroll wheel and you s you have to scroll scroll it really really slowly just so that you're actually keeping in pace with the T_V_'s ability to to change channels . 	
+IS1002c.A.dialog-act.s9553330.162	Or do you have to go through and you wait for it ? 	
+IS1002c.D.dialog-act.s9553330.154	Yeah . 	
+IS1002c.A.dialog-act.s9553330.163	You scroll it a bunch of times and you wait for it to 	
+IS1002c.B.dialog-act.s9553330.186	Well I think wh what it would be is like like the m like this , where it's maybe you know a digital wheel , right , where it's where it's quantized into you know certain 	
+IS1002c.A.dialog-act.s9553330.164	Mm . 	
+IS1002c.D.dialog-act.s9553330.155	Oh yeah . 	
+IS1002c.A.dialog-act.s9553330.165	Uh I see I see . 	
+IS1002c.A.dialog-act.s9553330.167	That's where you 	
+IS1002c.D.dialog-act.s9553330.156	Yeah . 	
+IS1002c.B.dialog-act.s9553330.187	That was that was my my intuition of what the scroll wheel would be . 	
+IS1002c.D.dialog-act.s9553330.157		
+IS1002c.A.dialog-act.s9553330.166	Ah I see I see what you're talking about now . Okay . 	
+IS1002c.B.dialog-act.s9553330.188	It's just it's basically it it's just a f look and feel thing . 	
+IS1002c.B.dialog-act.s9553330.189	It has the same exact functionality as two buttons . 	
+IS1002c.D.dialog-act.s9553330.158	I I think there's you know that uh there are so many people today that are that are surfing are television surfers , 	
+IS1002c.D.dialog-act.s9553330.159	and I see the scroll as a as a great mechanism for surfing . 	
+IS1002c.D.dialog-act.s9553330.160	Instead of going button-to-bu you just j you'd j j j j j j . 	
+IS1002c.A.dialog-act.s9553330.168	Yeah if you're just sitting there going 	
+IS1002c.B.dialog-act.s9553330.190	Yeah . 	
+IS1002c.D.dialog-act.s9553330.161	I really I really think that's a really cool thing for surfing . 	
+IS1002c.A.dialog-act.s9553330.169	That's kinda cool actually . 	
+IS1002c.A.dialog-act.s9553330.170	I like that . 	
+IS1002c.B.dialog-act.s9553330.191	Now just just so you know though uh you did bring up a point which is very valid , is a lot of T_V_s won't re the T_V_s won't respond exactly the same . 	
+IS1002c.B.dialog-act.s9553330.192	Some of them are gonna be kinda slow switching , 	
+IS1002c.B.dialog-act.s9553330.193	so you may like queue up like fifteen channel changes , and it'll be like flip , flip , flip . 	
+IS1002c.D.dialog-act.s9553330.162	Well there's ano 	
+IS1002c.B.dialog-act.s9553330.194	But 	
+IS1002c.A.dialog-act.s9553330.171	Well not n necessarily . 	
+IS1002c.A.dialog-act.s9553330.172	You could basically make it so that it'll I mean it's just gonna be sending a signal to the T_V_ yeah the T_V_'s ge so if you send about five flip channels , if you did that it's gonna flip once . 	
+IS1002c.B.dialog-act.s9553330.195	Right . 	
+IS1002c.D.dialog-act.s9553330.163	That's right . 	
+IS1002c.A.dialog-act.s9553330.173	If you do that . 	
+IS1002c.B.dialog-act.s9553330.196	Yeah 	
+IS1002c.B.dialog-act.s9553330.197	it just might be frustrating where you can't make it go as fast as you want , 	
+IS1002c.A.dialog-act.s9553330.174	Other than click click click . 	
+IS1002c.B.dialog-act.s9553330.198	but I think once people get used to it 	
+IS1002c.A.dialog-act.s9553330.175	Yeah . 	
+IS1002c.B.dialog-act.s9553330.199	I I do like the idea of the scroll wheel though . 	
+IS1002c.A.dialog-act.s9553330.176	And if we're marketing it as a high niche product , then we're gonna be selling it to people who are buying good T_V_s as well , yeah , presumably . 	
+IS1002c.C.dialog-act.s9553330.85	Mm-hmm . 	
+IS1002c.D.dialog-act.s9553330.164	Yeah I think so . I I think so . 	
+IS1002c.B.dialog-act.s9553330.200		
+IS1002c.A.dialog-act.s9553330.177	Primarily . 	
+IS1002c.C.dialog-act.s9553330.86	Yep . 	
+IS1002c.D.dialog-act.s9553330.165	Now the the only thing I I on the interface side of it , is that I I I see the dilemma . 	
+IS1002c.D.dialog-act.s9553330.166	But if we have the option of of scrolling at any particular speed , or the option of jumping direct , okay . 	
+IS1002c.A.dialog-act.s9553330.178	Mm-hmm . 	
+IS1002c.D.dialog-act.s9553330.167	So I can go uh presuming I have , on my television , something that tells me what channel I'm on , I can scroll direct from channel five to channel thirty two . 	
+IS1002c.D.dialog-act.s9553330.168	I know what because it's on the television . 	
+IS1002c.D.dialog-act.s9553330.169	The television tells me what channel it's on when I change it . 	
+IS1002c.D.dialog-act.s9553330.170	So I don't know that really that's that's gonna be a a d problem , 	
+IS1002c.D.dialog-act.s9553330.171	'cause the television can go automatically from channel five to channel thirty two with the push of a button . Okay ? 	
+IS1002c.A.dialog-act.s9553330.179	Mm-hmm . 	
+IS1002c.D.dialog-act.s9553330.172	So ca can we can we create that kind of interface within a scroll system ? 	
+IS1002c.D.dialog-act.s9553330.173	You understand what I'm saying ? 	
+IS1002c.B.dialog-act.s9553330.201	I think I know what you might be getting at , or or 	
+IS1002c.A.dialog-act.s9553330.180	Oh I see 	
+IS1002c.A.dialog-act.s9553330.181	so if maybe if we had an L_C_D_ up the top that just did a number on it , right ? 	
+IS1002c.D.dialog-act.s9553330.174	Oh no 	
+IS1002c.A.dialog-act.s9553330.182	And then it that basically 	
+IS1002c.D.dialog-act.s9553330.175	we could read it from the television . 	
+IS1002c.B.dialog-act.s9553330.202	Well , what about this what about if you can programme in your favourite channels into this scroll wheel and you can just like roll through your favourite channels , 	
+IS1002c.A.dialog-act.s9553330.183	Mm . 	
+IS1002c.A.dialog-act.s9553330.184	Well that's quite cool . 	
+IS1002c.B.dialog-act.s9553330.203	and it c it 	
+IS1002c.A.dialog-act.s9553330.185	You'd need a display on the th the thing . 	
+IS1002c.B.dialog-act.s9553330.204	Why ? 	
+IS1002c.B.dialog-act.s9553330.205	It'll tell you when you flip the channel on the T_V_ . 	
+IS1002c.D.dialog-act.s9553330.176	Yeah the the television can tell you . 	
+IS1002c.B.dialog-act.s9553330.206	Yeah . 	
+IS1002c.D.dialog-act.s9553330.177	Can . 	
+IS1002c.A.dialog-act.s9553330.186	Oh yeah yeah no I see what you're talking about . 	
+IS1002c.A.dialog-act.s9553330.187	Yeah that's kinda cool . 	
+IS1002c.A.dialog-act.s9553330.188	How would you program it though ? 	
+IS1002c.B.dialog-act.s9553330.209	Well you just it's one extra button . 	
+IS1002c.B.dialog-act.s9553330.210	You say programme start , and then type in 	
+IS1002c.D.dialog-act.s9553330.178	Put 	
+IS1002c.B.dialog-act.s9553330.211	'cause you still have the typing you know you'll still have the keypad where you can type 'em in manually . 	
+IS1002c.A.dialog-act.s9553330.189	Okay okay . 	
+IS1002c.B.dialog-act.s9553330.212	So programme start , zero , one , enter , zero , five , enter , thirty eight , enter , programme end . 	
+IS1002c.D.dialog-act.s9553330.179	And then . 	
+IS1002c.A.dialog-act.s9553330.190	Okay and yeah 	
+IS1002c.A.dialog-act.s9553330.191	and that just basically flips between it and it'll go it sends out zero , five , and then thirty six , and then zero , one again . 	
+IS1002c.B.dialog-act.s9553330.213	Mm-hmm . 	
+IS1002c.B.dialog-act.s9553330.214	Mm-hmm . 	
+IS1002c.A.dialog-act.s9553330.192	Yeah that's kinda cool . 	
+IS1002c.A.dialog-act.s9553330.193	I like that . 	
+IS1002c.D.dialog-act.s9553330.180	And again we have another another great marketing tool . 	
+IS1002c.D.dialog-act.s9553330.181	We have about three we have three or four things here . 	
+IS1002c.C.dialog-act.s9553330.87		
+IS1002c.A.dialog-act.s9553330.194	That's not gonna be too expensive 	
+IS1002c.A.dialog-act.s9553330.195	because that's gonna be you're gonna be able to nab that off of computer mouse manufacturers really . 	
+IS1002c.B.dialog-act.s9553330.215	Mm-hmm . 	
+IS1002c.A.dialog-act.s9553330.196	You could basically come up with a partnership to be able to produce that quite cheaply . 	
+IS1002c.D.dialog-act.s9553330.182	I dunno 	
+IS1002c.D.dialog-act.s9553330.183	and an maybe we maybe even have this as in-house technology . 	
+IS1002c.C.dialog-act.s9553330.88	Yeah . 	
+IS1002c.D.dialog-act.s9553330.184	This may be something that's available through our own uh through our own services . 	
+IS1002c.A.dialog-act.s9553330.197	Might be , 	
+IS1002c.A.dialog-act.s9553330.198	but tha that's not gonna be such a costly feature . 	
+IS1002c.A.dialog-act.s9553330.199	The problem we're gonna have is making it robust . 	
+IS1002c.B.dialog-act.s9553330.216	Oh well we also have to determine in some manner how to switch between modes , between going through your favourites list and just hitting up one , up two . 	
+IS1002c.A.dialog-act.s9553330.200	Making it last . 	
+IS1002c.D.dialog-act.s9553330.185	Or we go directional up we go we go this we go this we go this way for one , we go this way for the other . 	
+IS1002c.A.dialog-act.s9553330.201	So if there's a button for each type . 	
+IS1002c.B.dialog-act.s9553330.217	No 	
+IS1002c.B.dialog-act.s9553330.218	because you wanna be able to go up and down through the channels . 	
+IS1002c.A.dialog-act.s9553330.202	Yeah people are gonna have their favourite sorta , whether they do that or whether they 	
+IS1002c.D.dialog-act.s9553330.186	Ah-ha okay . 	
+IS1002c.D.dialog-act.s9553330.187	Okay , okay , 	
+IS1002c.D.dialog-act.s9553330.188	well then you just have , you have a diff you have a mode switch . 	
+IS1002c.B.dialog-act.s9553330.219	Right . 	
+IS1002c.B.dialog-act.s9553330.220	I think we'll need a we'll need a mode switch , 	
+IS1002c.A.dialog-act.s9553330.203	Yeah yeah the mode switch . 	
+IS1002c.B.dialog-act.s9553330.221	but then if we have a mode switch we're gonna need some kinda indicator 	
+IS1002c.A.dialog-act.s9553330.204	Just the lights behind the buttons . 	
+IS1002c.B.dialog-act.s9553330.222	to which , an L_E_ an L_E_D_ 	
+IS1002c.A.dialog-act.s9553330.205	You could have back-lit buttons maybe . 	
+IS1002c.B.dialog-act.s9553330.223	okay . 	
+IS1002c.C.dialog-act.s9553330.89	Yeah . 	
+IS1002c.A.dialog-act.s9553330.206	Would that work ? 	
+IS1002c.A.dialog-act.s9553330.207	Is that 	
+IS1002c.B.dialog-act.s9553330.224	Okay . 	
+IS1002c.A.dialog-act.s9553330.208	okay we have five minutes . 	
+IS1002c.D.dialog-act.s9553330.189		
+IS1002c.A.dialog-act.s9553330.209	So right details th that we've talked about here are that we want a scroll wheel . 	
+IS1002c.D.dialog-act.s9553330.190		
+IS1002c.A.dialog-act.s9553330.210	We want a mode indicator . 	
+IS1002c.A.dialog-act.s9553330.211	We want back-lit buttons . 	
+IS1002c.A.dialog-act.s9553330.212	And if we're making back-lit buttons period , do we want that just for the mode indicator or maybe to indicate what button you're pressing at the time , so that you know if it's actually pressed or not . 	
+IS1002c.A.dialog-act.s9553330.213	I've seen some remotes do that . 	
+IS1002c.B.dialog-act.s9553330.225	Okay . 	
+IS1002c.B.dialog-act.s9553330.226	Just so you know I think I mean it was my understanding that before we were gonna stay in the mid-market range . 	
+IS1002c.B.dialog-act.s9553330.227	It seems we're kind of approaching a higher-end range . 	
+IS1002c.D.dialog-act.s9553330.192	Yeah yeah . 	
+IS1002c.A.dialog-act.s9553330.214	I think we are yeah . 	
+IS1002c.B.dialog-act.s9553330.228	I wanna make sure everybody's okay with that . 	
+IS1002c.D.dialog-act.s9553330.191	Well you had acknowledged that we have more money for this . 	
+IS1002c.A.dialog-act.s9553330.215	Yeah 	
+IS1002c.D.dialog-act.s9553330.193	Didn't you say so ? 	
+IS1002c.A.dialog-act.s9553330.216	well we don't have it's not that we have more money , 	
+IS1002c.A.dialog-act.s9553330.217	we can push up the the price . 	
+IS1002c.D.dialog-act.s9553330.194	That's what I mean . 	
+IS1002c.D.dialog-act.s9553330.195	We can increase the cost . 	
+IS1002c.A.dialog-act.s9553330.218	Yeah . 	
+IS1002c.B.dialog-act.s9553330.229	Okay . 	
+IS1002c.D.dialog-act.s9553330.196	So I don't know I don't know whether having 	
+IS1002c.A.dialog-act.s9553330.219	'Kay . 	
+IS1002c.B.dialog-act.s9553330.230	I just wanna make sure everybody's on board with it . So 	
+IS1002c.A.dialog-act.s9553330.220	Yeah . 	
+IS1002c.A.dialog-act.s9553330.221	So we really need to be sure as to what we can push the cost up to , 	
+IS1002c.A.dialog-act.s9553330.222	though we haven't got to a stage where we're ready to pin down the price of components . 	
+IS1002c.A.dialog-act.s9553330.223	But I'd say what sorta price are we looking to be able to sell something like that , 	
+IS1002c.A.dialog-act.s9553330.224	and what sorta price can we make it for ? 	
+IS1002c.D.dialog-act.s9553330.197	Well I think th I think the design and technology has to come back and say , okay to create this product we see it's gonna cost us this much for this volume , 	
+IS1002c.D.dialog-act.s9553330.198	because we do have a volume target of of fifty million profit . 	
+IS1002c.A.dialog-act.s9553330.225	Yeah no 	
+IS1002c.A.dialog-act.s9553330.226	I I think that's where we really should be more flexible than anything else 	
+IS1002c.A.dialog-act.s9553330.227	because as we said in the last meeting , our management is really looking for us to push our brand . 	
+IS1002c.B.dialog-act.s9553330.231	Right . 	
+IS1002c.A.dialog-act.s9553330.228	We're entering a new market here , 	
+IS1002c.A.dialog-act.s9553330.229	so I think the the profit expectation for this one product is maybe not as important as being able to 	
+IS1002c.D.dialog-act.s9553330.199	Okay I'm I'm okay with that . 	
+IS1002c.D.dialog-act.s9553330.200	I guess what I just want to me the next step is for these guys to come come in with the design proposal w with the cost estimate attached , 	
+IS1002c.D.dialog-act.s9553330.201	and then we have to take this to the next level . 	
+IS1002c.A.dialog-act.s9553330.230	But th what's our ballpark as to what we'd be able to sell something like this for ? 	
+IS1002c.B.dialog-act.s9553330.232	Well y yeah . 	
+IS1002c.B.dialog-act.s9553330.233	Let's let's try and think now , how much would you pay for 	
+IS1002c.D.dialog-act.s9553330.202	We have to find cost . 	
+IS1002c.B.dialog-act.s9553330.234	with all these features how much would you pay 	
+IS1002c.B.dialog-act.s9553330.235	if you went to the store , and you were in the market f to replace your T_V_ remote , how much would you pay for that ? 	
+IS1002c.A.dialog-act.s9553330.231	But you've gotta think who our target market is 	
+IS1002c.A.dialog-act.s9553330.232	because I I'm not our target market . 	
+IS1002c.B.dialog-act.s9553330.236	I'm just asking you . 	
+IS1002c.A.dialog-act.s9553330.233	I'm a student , 	
+IS1002c.A.dialog-act.s9553330.234	but on the other hand I would think , mm with my Project Manager salary , I would think yeah I could probably afford this 	
+IS1002c.C.dialog-act.s9553330.90		
+IS1002c.B.dialog-act.s9553330.237	If 	
+IS1002c.B.dialog-act.s9553330.238	Then you could probably afford this . 	
+IS1002c.A.dialog-act.s9553330.235	uh would I buy it ? 	
+IS1002c.A.dialog-act.s9553330.236	Maybe . 	
+IS1002c.A.dialog-act.s9553330.237	If I had a cool new T_V_ and this was r looking really slick and it had the dock and it had the scroll wheel , which I think's a really cool idea , that would sell me on it a little . 	
+IS1002c.A.dialog-act.s9553330.238	Then maybe you know . I do I don't think I'd go over a hundred Euro certainly , 	
+IS1002c.B.dialog-act.s9553330.239	Oh no no . 	
+IS1002c.A.dialog-act.s9553330.239	that would be way too much , 	
+IS1002c.A.dialog-act.s9553330.240	but the I would be happy paying over forty for it , I guess , but not much 	
+IS1002c.B.dialog-act.s9553330.240	I would say thirty five to forty . 	
+IS1002c.D.dialog-act.s9553330.203	Yeah , I was gonna say thirty five to fifty . 	
+IS1002c.A.dialog-act.s9553330.241	'Kay . 	
+IS1002c.A.dialog-act.s9553330.242	Thirty five to fifty Euros is our sales bracket okay . 	
+IS1002c.B.dialog-act.s9553330.241	Okay . 	
+IS1002c.A.dialog-act.s9553330.243	So the question is what we ca we make it for . 	
+IS1002c.D.dialog-act.s9553330.204	Because one of th one of the things we're marketing about this product is that this is the last one you will ever need to buy for your television . 	
+IS1002c.B.dialog-act.s9553330.242	Right . 	
+IS1002c.A.dialog-act.s9553330.244	Mm . 	
+IS1002c.D.dialog-act.s9553330.205	It's one of the marketing features in this . 	
+IS1002c.A.dialog-act.s9553330.245	That's why the scroll needs to be really robust . 	
+IS1002c.C.dialog-act.s9553330.91	Okay so we'll come up with something between thirty five and fifty that is rug rubber , robust , with scroll wheel , with the new facilities of the scroll wheel like favourite stuff , favourite channels , and and with a cradle , and yeah and the locator . 	
+IS1002c.D.dialog-act.s9553330.206	Mm-hmm . 	
+IS1002c.B.dialog-act.s9553330.243	With a cradle , radio transmitters , and back-lit buttons . 	
+IS1002c.C.dialog-act.s9553330.92		
+IS1002c.B.dialog-act.s9553330.244	And it's gonna look sexy . 	
+IS1002c.C.dialog-act.s9553330.93	Or not . 	
+IS1002c.B.dialog-act.s9553330.245	Or not . 	
+IS1002c.B.dialog-act.s9553330.246	It might look like clay . 	
+IS1002c.C.dialog-act.s9553330.94	Okay so you can market pe depending on that ? 	
+IS1002c.D.dialog-act.s9553330.207	Yeah yeah . 	
+IS1002c.D.dialog-act.s9553330.208	Bas th that's that's easy . 	
+IS1002c.D.dialog-act.s9553330.209	That's that's not a , it's a . 	
+IS1002c.D.dialog-act.s9553330.210	'Cause we have about six , six , seven features in that alone . 	
+IS1002c.A.dialog-act.s9553330.246	Yep . 	
+IS1002c.D.dialog-act.s9553330.211	Under the title of uniquenesses . 	
+IS1002c.C.dialog-act.s9553330.95	Cool . 	
+IS1002c.C.dialog-act.s9553330.96	Hmm . 	
+IS1002c.A.dialog-act.s9553330.247	Okay . 	
+IS1002c.A.dialog-act.s9553330.248	The next meeting starts in thirty minutes , 	
+IS1002c.A.dialog-act.s9553330.249	although does it ? 	
+IS1002c.A.dialog-act.s9553330.250	It starts at three twenty one , the next meeting . 	
+IS1002c.A.dialog-act.s9553330.251	So we've got more than a thirty minutes . 	
+IS1002c.A.dialog-act.s9553330.252	Um we've got more like fifty . 	
+IS1002c.D.dialog-act.s9553330.212	Well I have 	
+IS1002c.D.dialog-act.s9553330.213	Is my 	
+IS1002c.D.dialog-act.s9553330.214	three twenty one is the next meeting ? 	
+IS1002c.A.dialog-act.s9553330.253	The the ne next meeting is three twenty one yeah . 	
+IS1002c.D.dialog-act.s9553330.215	That's that's almost uh fifty minutes . 	
+IS1002c.A.dialog-act.s9553330.254	Yeah that is . 	
+IS1002c.A.dialog-act.s9553330.255	Uh they've they've changed the times from the presentations . 	
+IS1002c.D.dialog-act.s9553330.216	You guys can You guys you guys can uh create a All kinds of things . 	
+IS1002c.B.dialog-act.s9553330.247	Probably . 	
+IS1002c.B.dialog-act.s9553330.248	We'll let you know when we're done , if we can go earlier . 	
+IS1002c.D.dialog-act.s9553330.217	Thanks , yeah . 	
+IS1002c.A.dialog-act.s9553330.256	Okay so you guys will be getting your modelling done now and uh 	
+IS1002c.B.dialog-act.s9553330.249	Yeah . 	
+IS1002c.A.dialog-act.s9553330.257	Okay are there any other questions with regards to what this thing's gonna do , look like , how it's gonna work that need to be addressed before we really look at this in a lot of detail ? 	
+IS1002c.B.dialog-act.s9553330.250	I don't think so . 	
+IS1002c.B.dialog-act.s9553330.251	If we have any questions we'll just email you I guess . 	
+IS1002c.C.dialog-act.s9553330.97		
+IS1002c.A.dialog-act.s9553330.258	Okay . 	
+IS1002c.C.dialog-act.s9553330.98	Yeah I think it pretty much everything's covered . 	
+IS1002c.A.dialog-act.s9553330.259	Okay . This one was quite easy . 	
+IS1002c.C.dialog-act.s9553330.99	Coulda been worse . 	
+IS1002c.D.dialog-act.s9553330.218	Still . 	
+IS1002c.A.dialog-act.s9553330.260	Always the optimist . 	
+IS1002c.C.dialog-act.s9553330.100	Yes I am . 	
+IS1002c.A.dialog-act.s9553330.261	'Kay thanks guys . 	
+IS1002c.D.dialog-act.s9553330.219	Thank you . 	
+IS1002c.D.dialog-act.s9553330.220	I don't have any emails . This means I can go home . 	
+IS1002c.D.dialog-act.s9553330.221	Oh , we all leave . 	
+

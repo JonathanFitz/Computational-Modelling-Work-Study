@@ -1,0 +1,908 @@
+Observation: ES2006b; Result size: 905; atts: 2
+$d@nite:id	$d	
+ES2006b.C.dialog-act.s9553330.1	All hooked up . 	
+ES2006b.C.dialog-act.s9553330.2	Okay , so 	
+ES2006b.C.dialog-act.s9553330.3	now we are here at the functional design meeting . 	
+ES2006b.C.dialog-act.s9553330.4	Um hopefully this meeting I'll be doing a little bit less talking than I did last time 	
+ES2006b.C.dialog-act.s9553330.5	'cause this is when you get to show us what you've been doing individually . 	
+ES2006b.C.dialog-act.s9553330.6	The agenda for the meeting , I put it in the sh shared documents folder . 	
+ES2006b.C.dialog-act.s9553330.7	I don't know if that meant that you could see it or not . 	
+ES2006b.D.dialog-act.s9553330.1		
+ES2006b.C.dialog-act.s9553330.8	Did anyone ? 	
+ES2006b.D.dialog-act.s9553330.2	No . 	
+ES2006b.A.dialog-act.s9553330.1	Mm . 	
+ES2006b.C.dialog-act.s9553330.9	No . 	
+ES2006b.C.dialog-act.s9553330.10	Oh well . 	
+ES2006b.C.dialog-act.s9553330.11	Um I'll try and do that for the next meeting as well 	
+ES2006b.C.dialog-act.s9553330.12	so if you check in there , there's a shared project documents folder . Um and it should be in there . 	
+ES2006b.D.dialog-act.s9553330.3	Mm . 	
+ES2006b.D.dialog-act.s9553330.4	Um um wi on on a what ? 	
+ES2006b.D.dialog-act.s9553330.5	Oh project project documents , yeah , yeah , yeah , okay . 	
+ES2006b.C.dialog-act.s9553330.13	Project documents , yeah . 	
+ES2006b.C.dialog-act.s9553330.14	So I'll put it in there . 	
+ES2006b.D.dialog-act.s9553330.6	Oh okay , yeah . 	
+ES2006b.C.dialog-act.s9553330.15	Is it best if I send you an email maybe , to let you know it's there ? 	
+ES2006b.D.dialog-act.s9553330.7	Yes , I think so . 	
+ES2006b.C.dialog-act.s9553330.16	Yep . 	
+ES2006b.C.dialog-act.s9553330.17	I'll do that next time . 	
+ES2006b.C.dialog-act.s9553330.18	Um I'll act as secretary for this meeting 	
+ES2006b.C.dialog-act.s9553330.19	and just take minutes as we go through , 	
+ES2006b.C.dialog-act.s9553330.20	and then I'll send them to you after the meeting . 	
+ES2006b.C.dialog-act.s9553330.21	The main the main focus of this meeting is your presentations that you've been preparing during the time , 	
+ES2006b.C.dialog-act.s9553330.22	so we'll go through each of you one by one . 	
+ES2006b.C.dialog-act.s9553330.23	Um then we need to briefly discuss the new project requirements that were sent to us . 	
+ES2006b.C.dialog-act.s9553330.24	I just sent 	
+ES2006b.D.dialog-act.s9553330.8	Yeah , 	
+ES2006b.D.dialog-act.s9553330.10	the last minute , yeah , 	
+ES2006b.C.dialog-act.s9553330.25	at the last minute , 	
+ES2006b.D.dialog-act.s9553330.11	yeah . 	
+ES2006b.C.dialog-act.s9553330.27	I'm sorry about that , 	
+ES2006b.C.dialog-act.s9553330.28	but we can see how that affects what you were you were doing . 	
+ES2006b.D.dialog-act.s9553330.12	Yeah . 	
+ES2006b.C.dialog-act.s9553330.29	Um and 	
+ES2006b.C.dialog-act.s9553330.30	then we need to , by the end of the meeting come to some kind of decision on who our target group's going to be 	
+ES2006b.C.dialog-act.s9553330.31	and what the functions of the remote control 	
+ES2006b.C.dialog-act.s9553330.32	that's the 	
+ES2006b.C.dialog-act.s9553330.33	the main goal is to come up with those two things , target group and functions of the remote control . 	
+ES2006b.C.dialog-act.s9553330.34	And we've got forty minutes to do that in . 	
+ES2006b.C.dialog-act.s9553330.35	So 	
+ES2006b.C.dialog-act.s9553330.36	I would say 	
+ES2006b.A.dialog-act.s9553330.2	You said uh targ target groups , 	
+ES2006b.C.dialog-act.s9553330.38	yeah ? 	
+ES2006b.A.dialog-act.s9553330.3	what does that mean ? 	
+ES2006b.D.dialog-act.s9553330.13	Um 	
+ES2006b.C.dialog-act.s9553330.39	As uh who it is that we're going to be trying to sell this thing to , 	
+ES2006b.A.dialog-act.s9553330.4	Uh okay , 'kay . 	
+ES2006b.C.dialog-act.s9553330.40	yeah . 	
+ES2006b.A.dialog-act.s9553330.5	So are 	
+ES2006b.C.dialog-act.s9553330.41	So we need to 	
+ES2006b.C.dialog-act.s9553330.43	yeah , we need to have a fairly defined group that that we want to focus on 	
+ES2006b.A.dialog-act.s9553330.6	Okay . 	
+ES2006b.C.dialog-act.s9553330.44	and then look at the functions um of the dem remote control itself . 	
+ES2006b.C.dialog-act.s9553330.45	So with that I think it's best if I hand over to you . 	
+ES2006b.C.dialog-act.s9553330.46	Does anyone have a preference for going first ? 	
+ES2006b.A.dialog-act.s9553330.7	Alright . 	
+ES2006b.A.dialog-act.s9553330.8	I can go first , 	
+ES2006b.C.dialog-act.s9553330.47	You wanna go first ? 	
+ES2006b.D.dialog-act.s9553330.14	Okay . Hmm . 	
+ES2006b.A.dialog-act.s9553330.9	yeah . 	
+ES2006b.C.dialog-act.s9553330.48	Okay , 	
+ES2006b.C.dialog-act.s9553330.49	so we need to unplug my laptop 	
+ES2006b.C.dialog-act.s9553330.50	and plug in yours . 	
+ES2006b.A.dialog-act.s9553330.10		
+ES2006b.C.dialog-act.s9553330.51	I assume we just pull it out ? 	
+ES2006b.D.dialog-act.s9553330.15	Mm . 	
+ES2006b.A.dialog-act.s9553330.11		
+ES2006b.A.dialog-act.s9553330.12	Right . Um 	
+ES2006b.A.dialog-act.s9553330.13	so f from the 	
+ES2006b.C.dialog-act.s9553330.52	Just before you start , to make it easier , would you three mind emailing me your presentations ? Once we 	
+ES2006b.C.dialog-act.s9553330.53	you don't have to do it now but when once you go back , 	
+ES2006b.D.dialog-act.s9553330.16	Okay , yeah , afterwards , yeah , okay . 	
+ES2006b.A.dialog-act.s9553330.14	Right sure . 	
+ES2006b.C.dialog-act.s9553330.54	just so that I don't have to scribble everything down . 	
+ES2006b.A.dialog-act.s9553330.15	Uh okay . 	
+ES2006b.A.dialog-act.s9553330.16	So n uh with uh with regard to the uh working design of this uh uh remote control uh I've identified um a few basic uh components of the remote 	
+ES2006b.A.dialog-act.s9553330.17	and uh se uh from the design , functional design perspective um w I c we can now uh know wha what exactly the components are 	
+ES2006b.A.dialog-act.s9553330.18	and how how they work together with each other . 	
+ES2006b.A.dialog-act.s9553330.19	So 	
+ES2006b.A.dialog-act.s9553330.20	this is the method that uh I'll mostly be following in my um in my uh role . 	
+ES2006b.A.dialog-act.s9553330.21	Um the identification of the components , 	
+ES2006b.A.dialog-act.s9553330.22	uh and uh since since I'm dealing only with the technical aspects , I would need feedback from the marketing person uh and uh from the user interface person . 	
+ES2006b.C.dialog-act.s9553330.55	Hmm . 	
+ES2006b.A.dialog-act.s9553330.23	Uh we'll then integrate this into the product design at a technical level 	
+ES2006b.A.dialog-act.s9553330.24	and uh basically update and come up with a new design , 	
+ES2006b.A.dialog-act.s9553330.25	so it's a cyclical process . 	
+ES2006b.A.dialog-act.s9553330.26	Okay , so 	
+ES2006b.A.dialog-act.s9553330.27	these were the basic findings from today . 	
+ES2006b.A.dialog-act.s9553330.28	The last three bullets have been integrated from uh the last minute uh email . 	
+ES2006b.A.dialog-act.s9553330.29	Uh I just quickly jotted them down . 	
+ES2006b.A.dialog-act.s9553330.30	Um so 	
+ES2006b.A.dialog-act.s9553330.31	basically uh the 	
+ES2006b.A.dialog-act.s9553330.32	as I told you the identification of how the remote control works and what are the various parts to it uh and what are the different processes um and how the parts uh communicate with each other . 	
+ES2006b.A.dialog-act.s9553330.33	Um okay , 	
+ES2006b.A.dialog-act.s9553330.34	so e the mee email said that teletext is now outdated , 	
+ES2006b.A.dialog-act.s9553330.35	so we need to do away with that functionality of the remote control . 	
+ES2006b.A.dialog-act.s9553330.36	Um 	
+ES2006b.A.dialog-act.s9553330.37	also uh the remote control should be used only for television , 	
+ES2006b.A.dialog-act.s9553330.38	because incorporating other features um makes it more comp complex . 	
+ES2006b.A.dialog-act.s9553330.39	And the reason why teletext is outdated because uh of internet and uh the availability of internet over television . 	
+ES2006b.A.dialog-act.s9553330.40	How however , our our remote control would only be dealing uh with the the use for television , in order to keep things simple . 	
+ES2006b.A.dialog-act.s9553330.41	Um 	
+ES2006b.A.dialog-act.s9553330.42	also the management wants that um our design should be unique 	
+ES2006b.A.dialog-act.s9553330.43	uh it 	
+ES2006b.A.dialog-act.s9553330.44	so it should incorporate um colour and the slogan uh that our company um has it as its standard . 	
+ES2006b.A.dialog-act.s9553330.45	Okay , so he he here is a functional overview of the remote control . 	
+ES2006b.A.dialog-act.s9553330.46	Um 	
+ES2006b.A.dialog-act.s9553330.47	there's basically an energy source at the heart uh which feeds into the chip and the user interface . 	
+ES2006b.A.dialog-act.s9553330.48	The user interf interface communicates with the chip , 	
+ES2006b.A.dialog-act.s9553330.49	so I'll basic go over to the 	
+ES2006b.A.dialog-act.s9553330.50	Okay . 	
+ES2006b.A.dialog-act.s9553330.51	So 	
+ES2006b.A.dialog-act.s9553330.52	if uh if this is our energy source and this is a cell , uh it communicates uh it feeds energy into the into the chip , which basically finds out h uh how how to do everything . 	
+ES2006b.A.dialog-act.s9553330.53	There is a user interface here . 	
+ES2006b.A.dialog-act.s9553330.54	So whe when the user presses a button , it feeds into the chip 	
+ES2006b.A.dialog-act.s9553330.55	and the chip then generates a response 	
+ES2006b.A.dialog-act.s9553330.56	and takes the response to an infrared terminal , 	
+ES2006b.A.dialog-act.s9553330.57	um which then 	
+ES2006b.A.dialog-act.s9553330.58	so the output of the chip is an infrared bit code , 	
+ES2006b.A.dialog-act.s9553330.59	which is then communicated to the remote site , 	
+ES2006b.A.dialog-act.s9553330.60	which h has an infrared receiver . 	
+ES2006b.A.dialog-act.s9553330.61	Um the there can be uh a bulb here or something to indicate whether the remote is on or communicating . 	
+ES2006b.A.dialog-act.s9553330.62	Um 	
+ES2006b.A.dialog-act.s9553330.63	so these are the essent 	
+ES2006b.A.dialog-act.s9553330.64	so a all the functionality of the remote control , 	
+ES2006b.A.dialog-act.s9553330.65	whatever new functions that we need to do , um make the chip more complicated uh and bigger , basically . 	
+ES2006b.C.dialog-act.s9553330.56	Mm-hmm . 	
+ES2006b.A.dialog-act.s9553330.66	Okay . 	
+ES2006b.A.dialog-act.s9553330.67	Um so 	
+ES2006b.A.dialog-act.s9553330.68	i in my personal preferences um I'm hoping that we can ke keep the design as simple and clear as possible . 	
+ES2006b.A.dialog-act.s9553330.69	This would uh help us uh to upgrade our technology at a future point of time . 	
+ES2006b.A.dialog-act.s9553330.70	And uh also if we can incorporate uh the latest features in our chip design , so that our um uh remote control does not become outdated soon and it's compatible with mot most uh televisions . 	
+ES2006b.A.dialog-act.s9553330.71	That's about it . 	
+ES2006b.D.dialog-act.s9553330.17	Thanks . 	
+ES2006b.A.dialog-act.s9553330.72	So anything that you would like to know or 	
+ES2006b.C.dialog-act.s9553330.57	Okay . 	
+ES2006b.C.dialog-act.s9553330.58	Do you have any um i idea about costs at this point ? 	
+ES2006b.A.dialog-act.s9553330.73	No , I don't have any idea about what each component costs . 	
+ES2006b.C.dialog-act.s9553330.59	Br 	
+ES2006b.A.dialog-act.s9553330.74	Um yeah . 	
+ES2006b.C.dialog-act.s9553330.60	Okay . 	
+ES2006b.C.dialog-act.s9553330.61	'Cause that's something to consider , I guess , 	
+ES2006b.C.dialog-act.s9553330.62	if we're if we're using more advanced technology , it might increase the price . 	
+ES2006b.A.dialog-act.s9553330.75	Yeah . 	
+ES2006b.A.dialog-act.s9553330.76	Certainly , yeah . 	
+ES2006b.A.dialog-act.s9553330.77	So so tha 	
+ES2006b.A.dialog-act.s9553330.78	yeah , 	
+ES2006b.A.dialog-act.s9553330.79	we definitely need to operate within our constraints , 	
+ES2006b.C.dialog-act.s9553330.63	Yeah . 	
+ES2006b.A.dialog-act.s9553330.80	but um unfortunately I I do not have any data , 	
+ES2006b.A.dialog-act.s9553330.81	so uh I just identified the functional components for that . 	
+ES2006b.C.dialog-act.s9553330.64	That's fine . 	
+ES2006b.C.dialog-act.s9553330.65	Are there any more questions , 	
+ES2006b.C.dialog-act.s9553330.66	or shall we just skip straight to the next one 	
+ES2006b.C.dialog-act.s9553330.67	and then we can discuss all of them together at the end ? 	
+ES2006b.D.dialog-act.s9553330.18	I think we need like some general discussion at the end probably . 	
+ES2006b.C.dialog-act.s9553330.68	Yeah , I think that will do . 	
+ES2006b.A.dialog-act.s9553330.82	Yeah , okay . 	
+ES2006b.D.dialog-act.s9553330.19	Yeah . 	
+ES2006b.C.dialog-act.s9553330.69	Okay , so do you want to 	
+ES2006b.D.dialog-act.s9553330.20	Yeah , 	
+ES2006b.D.dialog-act.s9553330.21	I think since since we were discussing some um design issues then I I I would like to continue 	
+ES2006b.C.dialog-act.s9553330.70	Yes , 	
+ES2006b.C.dialog-act.s9553330.71	shall shall we pull this up ? 	
+ES2006b.D.dialog-act.s9553330.22	okay , yeah . 	
+ES2006b.C.dialog-act.s9553330.72	I think that has to come out of there . 	
+ES2006b.A.dialog-act.s9553330.83	Yeah . 	
+ES2006b.A.dialog-act.s9553330.84	Mm 'kay . 	
+ES2006b.C.dialog-act.s9553330.73	Yeah . 	
+ES2006b.D.dialog-act.s9553330.23	Thanks . 	
+ES2006b.C.dialog-act.s9553330.74	Yeah , I thought those last minute things , they're gonna hit you the worst . 	
+ES2006b.D.dialog-act.s9553330.24	Oh i 	
+ES2006b.D.dialog-act.s9553330.25		
+ES2006b.D.dialog-act.s9553330.26	Okay , I hope 	
+ES2006b.D.dialog-act.s9553330.27	wait . 	
+ES2006b.D.dialog-act.s9553330.28	Should it just 	
+ES2006b.A.dialog-act.s9553330.85	I it'll take some time . 	
+ES2006b.C.dialog-act.s9553330.75	It ta takes a little 	
+ES2006b.D.dialog-act.s9553330.29	There's just nothing . 	
+ES2006b.C.dialog-act.s9553330.76	Oh , and have you 	
+ES2006b.C.dialog-act.s9553330.77	you need to then also press on yours , function F_ eight , 	
+ES2006b.D.dialog-act.s9553330.30	Oh right , right , right , um 	
+ES2006b.C.dialog-act.s9553330.78	so the blue function key at the bottom and F_ eight . 	
+ES2006b.D.dialog-act.s9553330.31	Okay . 	
+ES2006b.D.dialog-act.s9553330.32	Nothin 	
+ES2006b.D.dialog-act.s9553330.33	okay , something is coming up . 	
+ES2006b.A.dialog-act.s9553330.86	Oh , there it is , yeah . 	
+ES2006b.C.dialog-act.s9553330.79	Now it's coming , 	
+ES2006b.A.dialog-act.s9553330.87	It'll come up , 	
+ES2006b.A.dialog-act.s9553330.88	it 	
+ES2006b.C.dialog-act.s9553330.80	computer no signal . 	
+ES2006b.A.dialog-act.s9553330.89	um uh no signal . 	
+ES2006b.D.dialog-act.s9553330.34	No signal ? 	
+ES2006b.D.dialog-act.s9553330.35	Why ? 	
+ES2006b.C.dialog-act.s9553330.81	Maybe again ? 	
+ES2006b.A.dialog-act.s9553330.90	Yeah yeah , it says something now , 	
+ES2006b.D.dialog-act.s9553330.36	Oh . My my computer went blank now . 	
+ES2006b.A.dialog-act.s9553330.91	adjusting 	
+ES2006b.C.dialog-act.s9553330.82	Okay , adjusting . 	
+ES2006b.D.dialog-act.s9553330.37	Adjusting . 	
+ES2006b.D.dialog-act.s9553330.38	But I don't see anything 	
+ES2006b.C.dialog-act.s9553330.83	There we go , there we go . 	
+ES2006b.A.dialog-act.s9553330.92	Okay . 	
+ES2006b.D.dialog-act.s9553330.39	I don't see anything on my computer now . 	
+ES2006b.D.dialog-act.s9553330.40	This is the problem , but 	
+ES2006b.A.dialog-act.s9553330.93	Oh , that's strange . 	
+ES2006b.C.dialog-act.s9553330.84	Oh , if you press if you press function and that again 	
+ES2006b.C.dialog-act.s9553330.85	there's there's usually three modes , one where it's only here , one where it's only there , and one where it's both . 	
+ES2006b.A.dialog-act.s9553330.94	Okay . 	
+ES2006b.D.dialog-act.s9553330.41	Um . 	
+ES2006b.A.dialog-act.s9553330.95	And one more time . 	
+ES2006b.C.dialog-act.s9553330.86	Okay , so one more time . 	
+ES2006b.D.dialog-act.s9553330.42	Uh now it's 	
+ES2006b.D.dialog-act.s9553330.43	okay . 	
+ES2006b.D.dialog-act.s9553330.44	No ? No . 	
+ES2006b.C.dialog-act.s9553330.87	Should 	
+ES2006b.A.dialog-act.s9553330.96	Mm . 	
+ES2006b.C.dialog-act.s9553330.88	yeah just wait for a moment , 	
+ES2006b.C.dialog-act.s9553330.89	adjusting . 	
+ES2006b.D.dialog-act.s9553330.45	Oh okay . 	
+ES2006b.C.dialog-act.s9553330.90	Okay . 	
+ES2006b.D.dialog-act.s9553330.46	Okay , that's fine , that's good . 	
+ES2006b.D.dialog-act.s9553330.47	Okay , let's start from the beginning . 	
+ES2006b.D.dialog-act.s9553330.48	So I'm going to speak about technical functions design 	
+ES2006b.D.dialog-act.s9553330.49	uh just like some some first issues that came up . 	
+ES2006b.D.dialog-act.s9553330.50	Um 'kay , 	
+ES2006b.D.dialog-act.s9553330.51	so the method I was um adopting at this point , it's not um for the for the whole um period of the um all the project but it's just at th at this very moment . 	
+ES2006b.C.dialog-act.s9553330.91	Mm-hmm . 	
+ES2006b.D.dialog-act.s9553330.52	Um 	
+ES2006b.D.dialog-act.s9553330.53	uh my method was um to look at um other um remote controls , 	
+ES2006b.D.dialog-act.s9553330.54	uh so mostly just by searching on the web 	
+ES2006b.D.dialog-act.s9553330.55	and to see what um functionality they used . 	
+ES2006b.D.dialog-act.s9553330.56	And then um after having got this inspiration and having compared what I found on the web um just to think about what the de what the user really needs and what um what the user might desire as additional uh functionalities . 	
+ES2006b.D.dialog-act.s9553330.57	And yeah , and then just to um put the main function of the remote control in in words . 	
+ES2006b.C.dialog-act.s9553330.92	Mm-hmm . 	
+ES2006b.D.dialog-act.s9553330.58	Um so the findings uh were um that the main function of the remote control is is just sending messages to the television set , 	
+ES2006b.D.dialog-act.s9553330.59	so this quite straightforward . 	
+ES2006b.D.dialog-act.s9553330.60	And uh w some of the main functions would be switching on , switching off , 	
+ES2006b.D.dialog-act.s9553330.61	uh then the user would like to switch the channel 	
+ES2006b.D.dialog-act.s9553330.62	um for example just m changing to the next channel to to flip through all all of the possible channels , 	
+ES2006b.D.dialog-act.s9553330.63	or then mm uh the other possibility would be that um she might just want to choose one particular channel , 	
+ES2006b.D.dialog-act.s9553330.64	so we would need the numbers . 	
+ES2006b.D.dialog-act.s9553330.65	And and also the volume is very important . 	
+ES2006b.D.dialog-act.s9553330.66	Um 	
+ES2006b.D.dialog-act.s9553330.67	um I als 	
+ES2006b.A.dialog-act.s9553330.97	Sorry , 	
+ES2006b.A.dialog-act.s9553330.98	cou could you go back for a second ? 	
+ES2006b.D.dialog-act.s9553330.68	okay . 	
+ES2006b.A.dialog-act.s9553330.99	Uh switching on off channel , uh volume , 	
+ES2006b.A.dialog-act.s9553330.100	okay , that's great . 	
+ES2006b.D.dialog-act.s9553330.69	'Kay . 	
+ES2006b.D.dialog-act.s9553330.70	Um um among the findings I found that m m most of the curr mm presently available remote controls also include other mm functionalities um in their design , like operating a V_C_R_ , 	
+ES2006b.D.dialog-act.s9553330.71	but they don't seem to be able to deal with D_V_D_ players , 	
+ES2006b.D.dialog-act.s9553330.72	but then there are surely there are many other functionali functions that could possibly be added to them , 	
+ES2006b.D.dialog-act.s9553330.73	but according to the last minute update um actually um we do not want to have all this complicated functions added to our design . 	
+ES2006b.C.dialog-act.s9553330.93	Mm-hmm . 	
+ES2006b.A.dialog-act.s9553330.101		
+ES2006b.D.dialog-act.s9553330.74	So my personal preferences would be uh to keep the mm the whole remote control small um just like the physical size . 	
+ES2006b.D.dialog-act.s9553330.75	And then it must be easy to use , 	
+ES2006b.D.dialog-act.s9553330.76	so it must follow some conventions um like whereabouts you find the on off button 	
+ES2006b.D.dialog-act.s9553330.77	and maybe the colour tends to be red or something . 	
+ES2006b.D.dialog-act.s9553330.78	Um then 	
+ES2006b.D.dialog-act.s9553330.79	yeah , the must-have buttons would be on off and then the channel numbers 	
+ES2006b.D.dialog-act.s9553330.80	and then um the one that allows us to go to the next or the previous channel , 	
+ES2006b.D.dialog-act.s9553330.81	and then volume has to be there . 	
+ES2006b.D.dialog-act.s9553330.82	But then um other functionalities um could be just 	
+ES2006b.D.dialog-act.s9553330.83	uh there could be a menu button 	
+ES2006b.D.dialog-act.s9553330.84	and you could change things on the screen then , 	
+ES2006b.D.dialog-act.s9553330.85	um for example brightness and mm similar functions could be just um done through the menu . 	
+ES2006b.D.dialog-act.s9553330.86	And yeah , 	
+ES2006b.D.dialog-act.s9553330.87	the last question I had about whether we wanted to incorporate n uh more functionalities , 	
+ES2006b.D.dialog-act.s9553330.88	the answer was already no because of the last minute update . 	
+ES2006b.C.dialog-act.s9553330.94	Mm-hmm . 	
+ES2006b.D.dialog-act.s9553330.89	So at the for the time being that's uh that's all . 	
+ES2006b.D.dialog-act.s9553330.90	If you have questions 	
+ES2006b.C.dialog-act.s9553330.95	Yeah . 	
+ES2006b.C.dialog-act.s9553330.96	If 	
+ES2006b.C.dialog-act.s9553330.97	I mean that was the the directive that came through from management , 	
+ES2006b.C.dialog-act.s9553330.98	but if we had a a decent case for that we really think it's important to include video and D_V_D_ , I could get back to them and see . 	
+ES2006b.C.dialog-act.s9553330.100	It's w it's just whether it's worth arguing about . 	
+ES2006b.D.dialog-act.s9553330.91	Yeah , 	
+ES2006b.D.dialog-act.s9553330.92	and also it's it's um other question is uh because there are so many different And there are so many different things that could possibly be included 	
+ES2006b.B.dialog-act.s9553330.1		
+ES2006b.D.dialog-act.s9553330.93	because besides video and D_V_D_ there are the mm um video C_D_s and whatever , 	
+ES2006b.C.dialog-act.s9553330.101	Mm-hmm . 	
+ES2006b.D.dialog-act.s9553330.94	so it might be problematic to to choose between all these possible things . 	
+ES2006b.C.dialog-act.s9553330.102	Yeah . 	
+ES2006b.C.dialog-act.s9553330.103	Mm-hmm . 	
+ES2006b.C.dialog-act.s9553330.104	Okay . 	
+ES2006b.A.dialog-act.s9553330.103		
+ES2006b.C.dialog-act.s9553330.105	Are there any questions for clarification of Maarika before we go on to the next one ? 	
+ES2006b.A.dialog-act.s9553330.102	So in the u user interface requirements uh uh uh we we have been able to identify what are the basic buttons that we do want . 	
+ES2006b.A.dialog-act.s9553330.104	Um but um 	
+ES2006b.A.dialog-act.s9553330.105	so so at this stage , uh how we go about implementing those button we will not identify 	
+ES2006b.A.dialog-act.s9553330.106	or I mean in we can completely do away with buttons 	
+ES2006b.A.dialog-act.s9553330.107	and uh have some kind of a fancy user interface or something like that . 	
+ES2006b.A.dialog-act.s9553330.108	But uh is is there any uh uh any thoughts on that ? 	
+ES2006b.D.dialog-act.s9553330.95	Um well , I think the buttons are still mm kind of the most um easy for the user to use , 	
+ES2006b.D.dialog-act.s9553330.96	I mean um what other options would you have ? 	
+ES2006b.A.dialog-act.s9553330.109	Right . 	
+ES2006b.D.dialog-act.s9553330.97	A little screen or something , 	
+ES2006b.D.dialog-act.s9553330.98	but this would be really kind of I think a lot of learning for the user 	
+ES2006b.A.dialog-act.s9553330.110	Yeah , 	
+ES2006b.A.dialog-act.s9553330.112	and it'll make the costs 	
+ES2006b.A.dialog-act.s9553330.111	yeah . 	
+ES2006b.D.dialog-act.s9553330.99	and and I mean the user just wants to get um get a result um quickly , 	
+ES2006b.D.dialog-act.s9553330.100	not to spend time in like um giving several orders um I dunno . 	
+ES2006b.A.dialog-act.s9553330.113	Right . 	
+ES2006b.C.dialog-act.s9553330.106	Mm-hmm . 	
+ES2006b.D.dialog-act.s9553330.101	I think I th I would I would think the put the buttons , 	
+ES2006b.D.dialog-act.s9553330.102	but if if you have other mm proposals um . 	
+ES2006b.A.dialog-act.s9553330.114	Uh I think the co costs will also play a big role when we come to know about them . 	
+ES2006b.C.dialog-act.s9553330.108	Mm . 	
+ES2006b.A.dialog-act.s9553330.115	So well we can probably wait until t we have more knowledge on that . 	
+ES2006b.D.dialog-act.s9553330.103	Yeah . 	
+ES2006b.C.dialog-act.s9553330.109	Mm . 	
+ES2006b.D.dialog-act.s9553330.104	Yeah . 	
+ES2006b.A.dialog-act.s9553330.116	Uh i if the if the costs allow , we can have like an L_C_D_ display 	
+ES2006b.A.dialog-act.s9553330.117	and uh with um 	
+ES2006b.A.dialog-act.s9553330.118	because we do want something fancy and fashionable as well . 	
+ES2006b.D.dialog-act.s9553330.106	Mm-hmm . 	
+ES2006b.A.dialog-act.s9553330.119	So yeah ? Cool . 	
+ES2006b.C.dialog-act.s9553330.110	Mm-hmm . 	
+ES2006b.D.dialog-act.s9553330.105	Yep . 	
+ES2006b.C.dialog-act.s9553330.107	Sure , 	
+ES2006b.C.dialog-act.s9553330.111	we can discuss that maybe after the next one . 	
+ES2006b.B.dialog-act.s9553330.2	Cool . 	
+ES2006b.C.dialog-act.s9553330.112	Do you want to 	
+ES2006b.B.dialog-act.s9553330.3	Do you wanna give me the little cable thing ? 	
+ES2006b.C.dialog-act.s9553330.113	yeah . 	
+ES2006b.D.dialog-act.s9553330.107	Uh am I going in the right direction ? 	
+ES2006b.B.dialog-act.s9553330.4	Yeah . 	
+ES2006b.D.dialog-act.s9553330.108	No . 	
+ES2006b.D.dialog-act.s9553330.109	Wait . 	
+ES2006b.D.dialog-act.s9553330.110	Okay , here it comes . 	
+ES2006b.C.dialog-act.s9553330.114	Oh , I'm getting hungry . 	
+ES2006b.D.dialog-act.s9553330.111	Okay , here you are . 	
+ES2006b.B.dialog-act.s9553330.5	Cool . 	
+ES2006b.B.dialog-act.s9553330.6	Ah , 	
+ES2006b.B.dialog-act.s9553330.7	that's why it won't meet . 	
+ES2006b.B.dialog-act.s9553330.8	Okay , cool . 	
+ES2006b.C.dialog-act.s9553330.115	You set ? 	
+ES2006b.B.dialog-act.s9553330.9	Yep , cool . 	
+ES2006b.B.dialog-act.s9553330.10	Okay , 	
+ES2006b.B.dialog-act.s9553330.11	functional requirements . 	
+ES2006b.C.dialog-act.s9553330.116	Uh we need to do the function key thing so that it comes up on here . 	
+ES2006b.B.dialog-act.s9553330.12	Alright , yeah . 	
+ES2006b.C.dialog-act.s9553330.117	Hello . 	
+ES2006b.A.dialog-act.s9553330.120	try to press 	
+ES2006b.C.dialog-act.s9553330.118	Is it plugged in prop 	
+ES2006b.B.dialog-act.s9553330.13	It's working . 	
+ES2006b.A.dialog-act.s9553330.121	oh , okay , 	
+ES2006b.C.dialog-act.s9553330.119	it's working ? 	
+ES2006b.C.dialog-act.s9553330.120	Okay . 	
+ES2006b.A.dialog-act.s9553330.122	yep . 	
+ES2006b.C.dialog-act.s9553330.121	Excellent . 	
+ES2006b.B.dialog-act.s9553330.14	Cool , okay . 	
+ES2006b.B.dialog-act.s9553330.15	So what I have , wh where I've got my information from is a survey where the usability lab um observed remote control use with um a hundred subjects 	
+ES2006b.B.dialog-act.s9553330.16	and then they gave them a questionnaire . 	
+ES2006b.B.dialog-act.s9553330.17	Um so it was all about , you know , how people feel about the look and feel of the remote control , you know . 	
+ES2006b.B.dialog-act.s9553330.18	What's the most annoying things about remote controls 	
+ES2006b.B.dialog-act.s9553330.19	and um the possibility of speech recognition and L_C_D_ screens in remote control . 	
+ES2006b.B.dialog-act.s9553330.20	Not that they actually gave me any answers on the L_C_D_ screens , 	
+ES2006b.B.dialog-act.s9553330.21	so I should have taken that bit out , 	
+ES2006b.B.dialog-act.s9553330.22	but anyway . 	
+ES2006b.A.dialog-act.s9553330.123		
+ES2006b.B.dialog-act.s9553330.23	Um okay , so . 	
+ES2006b.B.dialog-act.s9553330.24	What they found is that people don't like how current remote controls are , 	
+ES2006b.B.dialog-act.s9553330.25	so you know , definitely you should be looking at something quite different . 	
+ES2006b.B.dialog-act.s9553330.26	Um seventy five percent of users find most remote controls ugly . 	
+ES2006b.B.dialog-act.s9553330.27	Uh the other twenty five percent have no fashion sense . 	
+ES2006b.C.dialog-act.s9553330.122		
+ES2006b.B.dialog-act.s9553330.28	Uh eighty percent of users would spend more to get um you know , a nice looking remote control . 	
+ES2006b.B.dialog-act.s9553330.29	Um current remote controls , they don't match the user behaviour well , 	
+ES2006b.B.dialog-act.s9553330.30	as you'll see on the next slide . 	
+ES2006b.B.dialog-act.s9553330.31	Um I dunno what zapping is , 	
+ES2006b.B.dialog-act.s9553330.32	but 	
+ES2006b.C.dialog-act.s9553330.123	It's um switching between channels , sort of randomly going through . 	
+ES2006b.B.dialog-act.s9553330.33	Oh , right . 	
+ES2006b.B.dialog-act.s9553330.34	But you have that little thing that comes up at the bottom and tells you what's on . 	
+ES2006b.B.dialog-act.s9553330.35	Um okay , fifty percent of users say they only use ten percent of the buttons , 	
+ES2006b.C.dialog-act.s9553330.124		
+ES2006b.A.dialog-act.s9553330.124	Mm . 	
+ES2006b.B.dialog-act.s9553330.36	so that's going back to what , you know , we were saying earlier about , you know , do you need all the buttons on the remote control , 	
+ES2006b.A.dialog-act.s9553330.125	Right . 	
+ES2006b.C.dialog-act.s9553330.125	Mm . 	
+ES2006b.B.dialog-act.s9553330.37	they just make it look ugly . 	
+ES2006b.B.dialog-act.s9553330.38	Okay ? Cool . 	
+ES2006b.B.dialog-act.s9553330.39	Um so this is my little graph thing . 	
+ES2006b.C.dialog-act.s9553330.126	Ooh , that's a bit difficult to see . 	
+ES2006b.B.dialog-act.s9553330.40	Mm k 	
+ES2006b.C.dialog-act.s9553330.127	If you explain it to us it'll be fine . 	
+ES2006b.B.dialog-act.s9553330.41	Okay , well , I can send it to all of you . 	
+ES2006b.C.dialog-act.s9553330.128	Yeah . 	
+ES2006b.B.dialog-act.s9553330.42	What it is is um it's cones , 	
+ES2006b.B.dialog-act.s9553330.43	'cause I thought they'd be more exciting . 	
+ES2006b.B.dialog-act.s9553330.44	Um but 	
+ES2006b.C.dialog-act.s9553330.129	I liked the , I liked the litt 	
+ES2006b.B.dialog-act.s9553330.45	ooh where's it go ? 	
+ES2006b.C.dialog-act.s9553330.130	ooh come back . 	
+ES2006b.B.dialog-act.s9553330.46	Back . 	
+ES2006b.B.dialog-act.s9553330.47	Oh . 	
+ES2006b.C.dialog-act.s9553330.131	No . 	
+ES2006b.B.dialog-act.s9553330.48	Oh yes , cool . 	
+ES2006b.B.dialog-act.s9553330.49	Okay , I'm gonna stop playing with the little pointy thing . 	
+ES2006b.C.dialog-act.s9553330.132		
+ES2006b.A.dialog-act.s9553330.126	Mm-hmm . 	
+ES2006b.B.dialog-act.s9553330.50	Um okay , so like 	
+ES2006b.B.dialog-act.s9553330.51	what it shows is how much things are used relatively 	
+ES2006b.B.dialog-act.s9553330.52	and what you can clearly see from that is the thing that's used most is the channel selection . 	
+ES2006b.C.dialog-act.s9553330.133	Okay . 	
+ES2006b.B.dialog-act.s9553330.53	What you can't see is volume selection , it's a little bit higher than all the others . 	
+ES2006b.C.dialog-act.s9553330.134	Mm-hmm , 	
+ES2006b.C.dialog-act.s9553330.135	that's the next one along , yeah ? 	
+ES2006b.B.dialog-act.s9553330.54	Yeah , 	
+ES2006b.B.dialog-act.s9553330.55	so what the graph shows is that , you know , power , channel selection and volume selection are important , 	
+ES2006b.B.dialog-act.s9553330.56	and the rest of them , you know , nobody really uses 	
+ES2006b.C.dialog-act.s9553330.136	Mm-hmm . 	
+ES2006b.B.dialog-act.s9553330.57	and so that's the the numbers along the top represent their like um their importance , you know , 	
+ES2006b.C.dialog-act.s9553330.137	Mm-hmm . 	
+ES2006b.B.dialog-act.s9553330.58	so on a scale of one to ten , how important is that 	
+ES2006b.B.dialog-act.s9553330.59	and , you know , channel selection and volume selection are absolutely essential , 	
+ES2006b.B.dialog-act.s9553330.60	and the power , well it's not quite so essential , apparently , 	
+ES2006b.B.dialog-act.s9553330.61	although I don't understand how it couldn't be , 	
+ES2006b.A.dialog-act.s9553330.127		
+ES2006b.B.dialog-act.s9553330.62	um and everything else , I think , you know , you can forget about having those buttons on the remote control , 	
+ES2006b.B.dialog-act.s9553330.63	'cause they're just not needed , 	
+ES2006b.B.dialog-act.s9553330.64	and they're not used . 	
+ES2006b.C.dialog-act.s9553330.138	Mm-hmm . 	
+ES2006b.B.dialog-act.s9553330.65	Okay . 	
+ES2006b.B.dialog-act.s9553330.66	This is the bit that the email messed up for me 	
+ES2006b.B.dialog-act.s9553330.67	and that's what I was fiddling about with at the beginning of the thing . 	
+ES2006b.B.dialog-act.s9553330.68	Okay , cool . 	
+ES2006b.B.dialog-act.s9553330.69	So um okay , 	
+ES2006b.B.dialog-act.s9553330.70	so this is what people find annoying about remote controls . 	
+ES2006b.B.dialog-act.s9553330.71	Uh that they get lost , 	
+ES2006b.B.dialog-act.s9553330.72	that the uh you know , they're not intuitive 	
+ES2006b.B.dialog-act.s9553330.73	and that they're bad for repetitive strain injury . 	
+ES2006b.C.dialog-act.s9553330.139	Mm-hmm . 	
+ES2006b.B.dialog-act.s9553330.74	I think if you're watching enough T_V_ to get repetitive strain injury from um you know , watching T_V_ , then that's the least of your problems , 	
+ES2006b.C.dialog-act.s9553330.140		
+ES2006b.C.dialog-act.s9553330.142	The remote control . 	
+ES2006b.C.dialog-act.s9553330.141		
+ES2006b.B.dialog-act.s9553330.75	but you know , it's up there . 	
+ES2006b.A.dialog-act.s9553330.128	Mm . 	
+ES2006b.B.dialog-act.s9553330.76	Um that yeah . 	
+ES2006b.B.dialog-act.s9553330.77	Okay , so um I mean the the R_S_I_ thing would be that , like when you have the computer keyboards and you keep your wrists up would be something that encourages 	
+ES2006b.A.dialog-act.s9553330.129	Right . 	
+ES2006b.B.dialog-act.s9553330.78	you want something with an ergonomic t design that encourages good use of the remote control 	
+ES2006b.B.dialog-act.s9553330.79	and you know , not straining your wrists watching T_V_ . 	
+ES2006b.C.dialog-act.s9553330.143	Mm-hmm . 	
+ES2006b.A.dialog-act.s9553330.130	Mm-hmm . 	
+ES2006b.C.dialog-act.s9553330.144		
+ES2006b.D.dialog-act.s9553330.112		
+ES2006b.B.dialog-act.s9553330.80	Yes . Okay , cool . Right , um 	
+ES2006b.A.dialog-act.s9553330.131	Hmm . 	
+ES2006b.B.dialog-act.s9553330.81	sorry 	
+ES2006b.B.dialog-act.s9553330.82	this is pink because I was copying and pasting the table , 	
+ES2006b.B.dialog-act.s9553330.83	and I didn't have time to white it out again . 	
+ES2006b.C.dialog-act.s9553330.145	That's alright . 	
+ES2006b.B.dialog-act.s9553330.84	Um okay , 	
+ES2006b.B.dialog-act.s9553330.85	but that shows how people whether they would pay more for voice recognition software . 	
+ES2006b.B.dialog-act.s9553330.87	So you can see from that that , you know , younger people to the age of thirty five are quite likely to pay quite a lot more f well quite are quite likely to pay more for voice recognition software , 	
+ES2006b.B.dialog-act.s9553330.88	whereas as people get older , they're a bit more sceptical about it 	
+ES2006b.B.dialog-act.s9553330.89	and they're less willing to to try it . 	
+ES2006b.B.dialog-act.s9553330.90	Um so clearly voice recognition is something to think about , 	
+ES2006b.B.dialog-act.s9553330.91	but um you know I d I do wonder how well that would work given that a T_V_ , you know , tends to be people talking 	
+ES2006b.C.dialog-act.s9553330.146	Mm . 	
+ES2006b.B.dialog-act.s9553330.92	and um , you know , how are you going to stop it from just flipping channels whilst watching T_V_ . 	
+ES2006b.A.dialog-act.s9553330.132	Right . 	
+ES2006b.B.dialog-act.s9553330.93	Um okay ? 	
+ES2006b.B.dialog-act.s9553330.94	Cool . Um okay , 	
+ES2006b.B.dialog-act.s9553330.95	so these are my personal preferences . 	
+ES2006b.B.dialog-act.s9553330.96	So you have sleek , stylish , sophisticated , you know , 	
+ES2006b.B.dialog-act.s9553330.97	so something that's , you know , a bit cool . 	
+ES2006b.B.dialog-act.s9553330.98	Um you know , functional , so it's useful , but minimalist . 	
+ES2006b.B.dialog-act.s9553330.99	Um there's a there's an important thing that , you know , people use when , you know , when you're filling up your home , you know , a lot of people fill up their home with bits of crap , basically , you know , 	
+ES2006b.B.dialog-act.s9553330.100	and you've got all this stuff , and you're just like , what the hell is that , who is ever gonna use it ? You know , 	
+ES2006b.B.dialog-act.s9553330.101	so things should either be functional or beautiful or preferably both , 	
+ES2006b.B.dialog-act.s9553330.102	so I think we need to aim for both . 	
+ES2006b.A.dialog-act.s9553330.133	Mm . Mm . 	
+ES2006b.B.dialog-act.s9553330.103	Um okay , then a long battery life , like you were talking about earlier 	
+ES2006b.B.dialog-act.s9553330.104	and um , you know , I was thinking that solar power would be quite cool 	
+ES2006b.B.dialog-act.s9553330.105	because , you know , your remote control just sits there , 	
+ES2006b.B.dialog-act.s9553330.106	and you could just sit it in the sunshine 	
+ES2006b.B.dialog-act.s9553330.107	and save the environment a bit . 	
+ES2006b.B.dialog-act.s9553330.108	Um and then like a locator , 	
+ES2006b.A.dialog-act.s9553330.134		
+ES2006b.B.dialog-act.s9553330.109	so you know , kind of like you have for a mobile phone or 	
+ES2006b.B.dialog-act.s9553330.110	not a mobile phone 	
+ES2006b.A.dialog-act.s9553330.135	Mm . 	
+ES2006b.A.dialog-act.s9553330.136	Some kind of a ring , 	
+ES2006b.C.dialog-act.s9553330.152	Keys and things like that , 	
+ES2006b.A.dialog-act.s9553330.137	some 	
+ES2006b.B.dialog-act.s9553330.111	Yeah , that's it , you know . 	
+ES2006b.C.dialog-act.s9553330.153	yeah . 	
+ES2006b.C.dialog-act.s9553330.154	Whistle and it screams at you , yeah . 	
+ES2006b.B.dialog-act.s9553330.112	I know , it's weird . 	
+ES2006b.B.dialog-act.s9553330.113	My flatmate and I were talking about this on the way into uni this morning 	
+ES2006b.B.dialog-act.s9553330.114	and I was like I need to get one for everything . 	
+ES2006b.C.dialog-act.s9553330.155		
+ES2006b.A.dialog-act.s9553330.138		
+ES2006b.B.dialog-act.s9553330.115	So yeah , so maybe something where you clap and then it beeps , 	
+ES2006b.B.dialog-act.s9553330.116	something 	
+ES2006b.B.dialog-act.s9553330.117	a kind of sound that you don't often hear on the T_V_ , you know , 	
+ES2006b.C.dialog-act.s9553330.156	Mm-hmm . 	
+ES2006b.A.dialog-act.s9553330.139	Right . 	
+ES2006b.B.dialog-act.s9553330.118	'cause you don't want your remote control beeping every five minutes , 	
+ES2006b.C.dialog-act.s9553330.157		
+ES2006b.B.dialog-act.s9553330.119	'cause you you'd then deliberately lose it by throwing it out the window or something . 	
+ES2006b.B.dialog-act.s9553330.120	So okay ? 	
+ES2006b.A.dialog-act.s9553330.140	Hmm . 	
+ES2006b.B.dialog-act.s9553330.121	Cool . 	
+ES2006b.B.dialog-act.s9553330.122	That's me . 	
+ES2006b.C.dialog-act.s9553330.158	That's you , excellent . 	
+ES2006b.A.dialog-act.s9553330.141	Okay , that's great , 	
+ES2006b.D.dialog-act.s9553330.113	Um that's very good , 	
+ES2006b.A.dialog-act.s9553330.142	thanks . 	
+ES2006b.D.dialog-act.s9553330.114	very interesting . 	
+ES2006b.C.dialog-act.s9553330.159	Um . 	
+ES2006b.C.dialog-act.s9553330.160	I'm just gonna tick yes . 	
+ES2006b.C.dialog-act.s9553330.161	So , we've got about ten , fifteen minutes to discuss 	
+ES2006b.A.dialog-act.s9553330.143	Mm . 	
+ES2006b.A.dialog-act.s9553330.144	I think one of the very interesting things that came up in um uh Ka Kate Cat Cat's uh presentation was um uh this this issue of uh uh like voice recognition being more popular with uh younger people . 	
+ES2006b.B.dialog-act.s9553330.123	Cat's . Ca . 	
+ES2006b.A.dialog-act.s9553330.145	So if we need to have a target group um then uh I think as far as the m motto of our company is concerned , if we want to have something sleek and uh you know , good looking uh we are better off targeting a younger audience then um you know , people who are comparatively elderly . 	
+ES2006b.A.dialog-act.s9553330.146	Um . 	
+ES2006b.C.dialog-act.s9553330.162	Mm-hmm . 	
+ES2006b.B.dialog-act.s9553330.124	Yeah , 	
+ES2006b.B.dialog-act.s9553330.125	I mean that's the thing is that it didn't say in the survey , you know , whether , you know , these are the people that will pay more for a more stylish remote control , 	
+ES2006b.A.dialog-act.s9553330.147	Right . 	
+ES2006b.B.dialog-act.s9553330.126	but I'm assuming , you know , yes . 	
+ES2006b.A.dialog-act.s9553330.148	Right . 	
+ES2006b.A.dialog-act.s9553330.149	Bu but but the survey did say that f things like voice recognition are more popular with them , 	
+ES2006b.C.dialog-act.s9553330.163	Yeah . 	
+ES2006b.D.dialog-act.s9553330.115	Mm-hmm . 	
+ES2006b.A.dialog-act.s9553330.150	so if you want to put in something stylish , then uh th it'll certainly be more popular with this i ye with the younger people as compared to older people , 	
+ES2006b.C.dialog-act.s9553330.165	Mm-hmm . 	
+ES2006b.C.dialog-act.s9553330.164	Yeah . 	
+ES2006b.A.dialog-act.s9553330.151	yeah . 	
+ES2006b.C.dialog-act.s9553330.166	Then again I guess the th where it was most popular was the fifteen to twenty five bracket 	
+ES2006b.A.dialog-act.s9553330.152	Right , 	
+ES2006b.C.dialog-act.s9553330.167	and the I don't know how often they're buying televisions . 	
+ES2006b.A.dialog-act.s9553330.153	and 	
+ES2006b.A.dialog-act.s9553330.154	Right . 	
+ES2006b.B.dialog-act.s9553330.127	Well , that's when you go to uni , isn't it ? 	
+ES2006b.A.dialog-act.s9553330.155	Mm . 	
+ES2006b.B.dialog-act.s9553330.128	So , you know 	
+ES2006b.C.dialog-act.s9553330.168	Yeah , 	
+ES2006b.C.dialog-act.s9553330.169	but you don't have much money , generally . 	
+ES2006b.D.dialog-act.s9553330.116	Yeah . Yeah , 	
+ES2006b.C.dialog-act.s9553330.170	I would've thought it's it's more that twenty five to thirty five , when people are really moving out and they've got their first job and they want their nice toys and 	
+ES2006b.D.dialog-act.s9553330.117	you share a television or something that yeah . 	
+ES2006b.A.dialog-act.s9553330.156	Right . 	
+ES2006b.B.dialog-act.s9553330.129	Yeah . 	
+ES2006b.A.dialog-act.s9553330.157	But uh still , if if you can go back to that slide 	
+ES2006b.A.dialog-act.s9553330.158	and uh , how popular was it ? 	
+ES2006b.C.dialog-act.s9553330.171	O oh it's on 	
+ES2006b.B.dialog-act.s9553330.130	Oh , I've unplugged it . 	
+ES2006b.C.dialog-act.s9553330.172	sorry , 	
+ES2006b.C.dialog-act.s9553330.173	we unplugged it . 	
+ES2006b.B.dialog-act.s9553330.131	Do you want me to 	
+ES2006b.A.dialog-act.s9553330.159	Oh , oh , okay . 	
+ES2006b.C.dialog-act.s9553330.174	Here , let me 	
+ES2006b.A.dialog-act.s9553330.160	That's alright , 	
+ES2006b.A.dialog-act.s9553330.161	if you can just look it up on your computer , 	
+ES2006b.C.dialog-act.s9553330.175	Yeah . 	
+ES2006b.B.dialog-act.s9553330.132	Yeah . 	
+ES2006b.A.dialog-act.s9553330.162	wh uh um people between twenty five to thirty five , uh how popular was 	
+ES2006b.B.dialog-act.s9553330.133	Seventy six point three percent . 	
+ES2006b.D.dialog-act.s9553330.118	It was seventy something , yeah , yeah . 	
+ES2006b.A.dialog-act.s9553330.163	so it was sti still still quite popular amongst them . 	
+ES2006b.B.dialog-act.s9553330.134	Yeah . 	
+ES2006b.C.dialog-act.s9553330.176	Mm-hmm . 	
+ES2006b.A.dialog-act.s9553330.164	So even they are seventy six percent , is that high amount ? 	
+ES2006b.B.dialog-act.s9553330.135	Yeah , I kn I mean I know what you're saying about the fifteen to twenty five year olds , 	
+ES2006b.C.dialog-act.s9553330.177	Yeah . 	
+ES2006b.B.dialog-act.s9553330.136	but I mean it has been proven that that people of that age group have a higher disposable income 	
+ES2006b.B.dialog-act.s9553330.137	because they don't have like I mean , you know , if you're at university , you're paying your rent , 	
+ES2006b.C.dialog-act.s9553330.178	Yeah , 	
+ES2006b.C.dialog-act.s9553330.179	they've got no commitments and 	
+ES2006b.B.dialog-act.s9553330.138	but you don't have a mortgage , 	
+ES2006b.B.dialog-act.s9553330.139	you don't have a life insurance policy , 	
+ES2006b.A.dialog-act.s9553330.165	Alright . 	
+ES2006b.C.dialog-act.s9553330.180	usually not a car and all of those things . 	
+ES2006b.B.dialog-act.s9553330.140	you don't normally have a car , 	
+ES2006b.B.dialog-act.s9553330.141	yeah , so . 	
+ES2006b.C.dialog-act.s9553330.181	Kids . Yeah . 	
+ES2006b.A.dialog-act.s9553330.166	Yeah . 	
+ES2006b.B.dialog-act.s9553330.142	You're still learning to drive actually , 	
+ES2006b.A.dialog-act.s9553330.167	So you're more likely to b 	
+ES2006b.B.dialog-act.s9553330.143	so that just costs more than a car , 	
+ES2006b.C.dialog-act.s9553330.182		
+ES2006b.A.dialog-act.s9553330.168	Yeah . 	
+ES2006b.B.dialog-act.s9553330.144	but yeah . Um so 	
+ES2006b.B.dialog-act.s9553330.145	I mean like it is an age group to target , really , I think . 	
+ES2006b.C.dialog-act.s9553330.183	Yeah , 	
+ES2006b.C.dialog-act.s9553330.184	and if we're if we're talking twenty five Euros as a price , that's not unaffordable , even for young people . 	
+ES2006b.B.dialog-act.s9553330.146	No , 	
+ES2006b.B.dialog-act.s9553330.147	I mean that's what , that's like fifteen Pounds ? 	
+ES2006b.C.dialog-act.s9553330.185	Yeah . 	
+ES2006b.B.dialog-act.s9553330.148	You know , I think 	
+ES2006b.D.dialog-act.s9553330.119	Yeah this this is not unaffordable , 	
+ES2006b.C.dialog-act.s9553330.186		
+ES2006b.D.dialog-act.s9553330.120	but the problem is whether people need it , whether they do have a T_V_ to use its full 	
+ES2006b.C.dialog-act.s9553330.187		
+ES2006b.C.dialog-act.s9553330.188	Yeah . 	
+ES2006b.B.dialog-act.s9553330.149	Yeah , 	
+ES2006b.A.dialog-act.s9553330.169	Yeah . 	
+ES2006b.B.dialog-act.s9553330.150	I d I don't know many people without a T_V_ . 	
+ES2006b.D.dialog-act.s9553330.121	Yeah . 	
+ES2006b.C.dialog-act.s9553330.189	But do they 	
+ES2006b.B.dialog-act.s9553330.151	We didn't have a T_V_ last year , 	
+ES2006b.B.dialog-act.s9553330.152	and everyone thought we were off our heads , you know . 	
+ES2006b.C.dialog-act.s9553330.190	But the T_V_s are often kind of someone's old T_V_ that's blah blah 	
+ES2006b.D.dialog-act.s9553330.122	Common , 	
+ES2006b.D.dialog-act.s9553330.123	the students 	
+ES2006b.D.dialog-act.s9553330.124	yeah , yeah . 	
+ES2006b.D.dialog-act.s9553330.125	The s the stu 	
+ES2006b.C.dialog-act.s9553330.191	and be a bit strange to have a fancy rome remote . 	
+ES2006b.D.dialog-act.s9553330.126	yeah , and the remote control might not 	
+ES2006b.D.dialog-act.s9553330.127	yeah , 	
+ES2006b.D.dialog-act.s9553330.128	it might not even function with the old T_V_ . 	
+ES2006b.A.dialog-act.s9553330.170	Mm 	
+ES2006b.B.dialog-act.s9553330.153		
+ES2006b.A.dialog-act.s9553330.171	Bu but even even in the case of twenty five to thirty five it's quite popular , right ? 	
+ES2006b.C.dialog-act.s9553330.192		
+ES2006b.B.dialog-act.s9553330.154	Yeah , I d well we've we've got quite a d decent T_V_ . 	
+ES2006b.C.dialog-act.s9553330.193	Mm . 	
+ES2006b.D.dialog-act.s9553330.129	Yeah , 	
+ES2006b.D.dialog-act.s9553330.130	we're still 	
+ES2006b.C.dialog-act.s9553330.194	Yeah . 	
+ES2006b.D.dialog-act.s9553330.131	yeah . 	
+ES2006b.A.dialog-act.s9553330.172	So mm uh are are are 	
+ES2006b.D.dialog-act.s9553330.132	Or w maybe we can just kind of uh uh 	
+ES2006b.B.dialog-act.s9553330.155	Yeah . 	
+ES2006b.B.dialog-act.s9553330.156	I think I think the fact that , you know , ninety one point two percent of fifteen to twenty five year olds are saying yes , I would pay more for a voice recognition remote control , does say quite a lot really . 	
+ES2006b.C.dialog-act.s9553330.195	Yeah . 	
+ES2006b.A.dialog-act.s9553330.173	Mm . 	
+ES2006b.B.dialog-act.s9553330.157	You know , so I mean that and the disposable income and I don't think it's something to ignore , you know . 	
+ES2006b.C.dialog-act.s9553330.196	Yeah . 	
+ES2006b.D.dialog-act.s9553330.133	Yeah , 	
+ES2006b.D.dialog-act.s9553330.134	but at the same time I think maybe we can we can just decide to to have both of these groups as our target , 	
+ES2006b.C.dialog-act.s9553330.197	Yeah . 	
+ES2006b.D.dialog-act.s9553330.135	because actually I mean they're all still re young people . 	
+ES2006b.B.dialog-act.s9553330.158	Is not a massive difference , you know . 	
+ES2006b.D.dialog-act.s9553330.136	Yeah . 	
+ES2006b.C.dialog-act.s9553330.198	Yeah , if we ta if we take fifteen to thirty five , 	
+ES2006b.B.dialog-act.s9553330.159	No , do totally . 	
+ES2006b.A.dialog-act.s9553330.174	Mm . 	
+ES2006b.C.dialog-act.s9553330.199	but that then does imply that we should try and incorporate voice recognition . 	
+ES2006b.D.dialog-act.s9553330.137	Yeah . 	
+ES2006b.C.dialog-act.s9553330.200	Is that gonna have a an implication for the technical specs ? 	
+ES2006b.A.dialog-act.s9553330.175	Um 	
+ES2006b.A.dialog-act.s9553330.176	I was having a a general outlook on um m most like sophisticated features , 	
+ES2006b.A.dialog-act.s9553330.177	but voice recognition itself I'm not very sure about , 	
+ES2006b.A.dialog-act.s9553330.178	because one of the p uh things that Cat pointed out was uh uh how do we go about implementing it ? 	
+ES2006b.C.dialog-act.s9553330.201	Mm-hmm . 	
+ES2006b.A.dialog-act.s9553330.179	Uh and uh 	
+ES2006b.B.dialog-act.s9553330.160	You do have it in your mobile phone though , don't you ? 	
+ES2006b.B.dialog-act.s9553330.161	Because you have like 	
+ES2006b.B.dialog-act.s9553330.162	I mean every mobile phone now has like call this person and it calls them . 	
+ES2006b.C.dialog-act.s9553330.202	Yeah . 	
+ES2006b.A.dialog-act.s9553330.180	Yeah . 	
+ES2006b.A.dialog-act.s9553330.181	But how frequently do we use it anyway 	
+ES2006b.D.dialog-act.s9553330.138	Yeah . 	
+ES2006b.A.dialog-act.s9553330.182	and um uh h ho how good is it , 	
+ES2006b.D.dialog-act.s9553330.139	Yeah . 	
+ES2006b.A.dialog-act.s9553330.183	you know uh voice recognition softwares are still quite uh 	
+ES2006b.B.dialog-act.s9553330.163	I don't know . 	
+ES2006b.C.dialog-act.s9553330.203	Yeah . 	
+ES2006b.C.dialog-act.s9553330.204	With um but with a T_V_ remote it's gonna be quite limited if we're t saying the main things people want to do is on off channel five , 	
+ES2006b.D.dialog-act.s9553330.140	An 	
+ES2006b.A.dialog-act.s9553330.184	Yeah . 	
+ES2006b.D.dialog-act.s9553330.141	Yeah . 	
+ES2006b.B.dialog-act.s9553330.164	Yeah . 	
+ES2006b.A.dialog-act.s9553330.185	Right . 	
+ES2006b.C.dialog-act.s9553330.205	louder , 	
+ES2006b.B.dialog-act.s9553330.165	S so 	
+ES2006b.C.dialog-act.s9553330.206	tha that should be relatively simple . 	
+ES2006b.A.dialog-act.s9553330.186	Right . Okay . 	
+ES2006b.B.dialog-act.s9553330.166	y you'd maybe need a code word . 	
+ES2006b.A.dialog-act.s9553330.187	O 	
+ES2006b.B.dialog-act.s9553330.167	Do you know what I mean ? 	
+ES2006b.A.dialog-act.s9553330.188	Right . 	
+ES2006b.C.dialog-act.s9553330.207	Mm . 	
+ES2006b.B.dialog-act.s9553330.168	So like when you say change , except that's being said quite a lot on T_V_ , 	
+ES2006b.B.dialog-act.s9553330.169	so maybe like , you know , remote . 	
+ES2006b.B.dialog-act.s9553330.170	I mean how often do people say remote on T_V_ ? 	
+ES2006b.C.dialog-act.s9553330.208	Yeah . 	
+ES2006b.A.dialog-act.s9553330.189	Mm . 	
+ES2006b.B.dialog-act.s9553330.171	Although I only watch Charmed , so really I wouldn't know 	
+ES2006b.C.dialog-act.s9553330.209		
+ES2006b.A.dialog-act.s9553330.190		
+ES2006b.B.dialog-act.s9553330.172	but like so you'd just say remote five , you know , remote ten , remote one two nine . 	
+ES2006b.A.dialog-act.s9553330.191	Right . 	
+ES2006b.A.dialog-act.s9553330.192	Yeah . 	
+ES2006b.C.dialog-act.s9553330.210	Mm-hmm . 	
+ES2006b.A.dialog-act.s9553330.193	Okay , 	
+ES2006b.A.dialog-act.s9553330.194	so it seems like a feasible thing to implement uh for for a limited 	
+ES2006b.D.dialog-act.s9553330.142	Yeah . 	
+ES2006b.C.dialog-act.s9553330.211	Yeah , 	
+ES2006b.C.dialog-act.s9553330.212	but maybe if you wanna look into that just to just to check . 	
+ES2006b.A.dialog-act.s9553330.195	yeah . 	
+ES2006b.C.dialog-act.s9553330.213	Um , so if we go for the the fifteen to thirty five age group 	
+ES2006b.D.dialog-act.s9553330.143	Yeah but uh um 	
+ES2006b.C.dialog-act.s9553330.214	and then of course we're going to get th anyone who's older than thirty five who wants to look young and hip and trendy and has the money , 	
+ES2006b.D.dialog-act.s9553330.144	Yeah , yeah sure , yeah , yeah . 	
+ES2006b.C.dialog-act.s9553330.215	then they'll they'll still go for the same advertising . 	
+ES2006b.D.dialog-act.s9553330.145	Yeah . 	
+ES2006b.B.dialog-act.s9553330.173	I don't think there's a lot of uh voice recognition remote controls . 	
+ES2006b.D.dialog-act.s9553330.146	Yeah , 	
+ES2006b.D.dialog-act.s9553330.147	w well now the v the voice recognition if if it works wonderfully w we could possibly do away with all buttons , 	
+ES2006b.D.dialog-act.s9553330.148	but I think this is not really the right moment yet , 	
+ES2006b.D.dialog-act.s9553330.149	because people are just so used to buttons 	
+ES2006b.D.dialog-act.s9553330.150	and um , yeah it's it's kind of safer , so we we need both , 	
+ES2006b.C.dialog-act.s9553330.216	Yeah , 	
+ES2006b.C.dialog-act.s9553330.217	I think we need both . 	
+ES2006b.A.dialog-act.s9553330.196	Mm . W 	
+ES2006b.A.dialog-act.s9553330.197	What uh 	
+ES2006b.D.dialog-act.s9553330.151	so the voice recognition would be just an extra , 	
+ES2006b.D.dialog-act.s9553330.152	it wouldn't really reduce the size of the remote . 	
+ES2006b.C.dialog-act.s9553330.218	Yeah . 	
+ES2006b.A.dialog-act.s9553330.198	Mm . 	
+ES2006b.C.dialog-act.s9553330.219	Mm . 	
+ES2006b.A.dialog-act.s9553330.199	What wh uh what I was thinking is that there is this uh separation between what the channels are on T_V_ and how they are numbered on the remote control . 	
+ES2006b.A.dialog-act.s9553330.200	If we can do with away with that , our product can be really popular 	
+ES2006b.A.dialog-act.s9553330.201	uh in the sense that uh a person can say , I want to watch uh I_T_V_ one instead of saying that I want to go onto channel number forty five . 	
+ES2006b.C.dialog-act.s9553330.220	Uh-huh . Uh-huh . 	
+ES2006b.B.dialog-act.s9553330.174	Yeah , 	
+ES2006b.A.dialog-act.s9553330.202	Yeah , so if uh if something like that can be incorporated , 	
+ES2006b.B.dialog-act.s9553330.175	that would be another way to do it . 	
+ES2006b.C.dialog-act.s9553330.221	So that if that was in the the voice recognition , that would be great . 	
+ES2006b.A.dialog-act.s9553330.203	some kind of 	
+ES2006b.B.dialog-act.s9553330.176	Yeah , but then the code word would be even more important , 	
+ES2006b.B.dialog-act.s9553330.177	because I mean Sky advertise on every channel , don't they , you know , 	
+ES2006b.C.dialog-act.s9553330.222	Yeah . 	
+ES2006b.C.dialog-act.s9553330.223	Yeah . 	
+ES2006b.A.dialog-act.s9553330.204	Mm-hmm . 	
+ES2006b.B.dialog-act.s9553330.178	so then it would be you'd be watching Charmed , and then the Sky advert would come on and it would change to Sky . 	
+ES2006b.C.dialog-act.s9553330.224		
+ES2006b.C.dialog-act.s9553330.225	Watch Sky 	
+ES2006b.C.dialog-act.s9553330.226	and yeah . 	
+ES2006b.B.dialog-act.s9553330.179	Yeah , yeah , 	
+ES2006b.A.dialog-act.s9553330.205	Alright . 	
+ES2006b.B.dialog-act.s9553330.180	and that would be really annoying . 	
+ES2006b.A.dialog-act.s9553330.207	Yeah , that's 	
+ES2006b.A.dialog-act.s9553330.208	Right . 	
+ES2006b.C.dialog-act.s9553330.227	Mm-hmm . 	
+ES2006b.C.dialog-act.s9553330.228	But that's definitely a possibility . 	
+ES2006b.D.dialog-act.s9553330.153	Yeah but m but on the other hand , remote control isn't as close to you you probably might just just uh speak into it 	
+ES2006b.A.dialog-act.s9553330.209	Mm . 	
+ES2006b.D.dialog-act.s9553330.154	and and the T_V_ would be already further away , so it might not pick up the other things coming from there . 	
+ES2006b.C.dialog-act.s9553330.229	Yeah . 	
+ES2006b.B.dialog-act.s9553330.181	Yeah . 	
+ES2006b.B.dialog-act.s9553330.182	Do you not think that defeats the object of having voice recognition on a remote control though ? 	
+ES2006b.C.dialog-act.s9553330.230	So that you can yell at it , 	
+ES2006b.A.dialog-act.s9553330.210		
+ES2006b.B.dialog-act.s9553330.183	Yeah , you know , so you have to have the remote control . 	
+ES2006b.C.dialog-act.s9553330.231	yeah . 	
+ES2006b.B.dialog-act.s9553330.184	It's more like if you lost it and it's down the sofa sometime , you can yell at it and it'll just change it , you can look for it later , yeah . 	
+ES2006b.C.dialog-act.s9553330.232		
+ES2006b.A.dialog-act.s9553330.211		
+ES2006b.A.dialog-act.s9553330.212		
+ES2006b.C.dialog-act.s9553330.233		
+ES2006b.C.dialog-act.s9553330.234	Yeah . Alright . 	
+ES2006b.D.dialog-act.s9553330.155	Yeah , but then the remote control I think I mean 	
+ES2006b.D.dialog-act.s9553330.156	um the idea is kind of it's it's not that it's sitting there on on top of the television , 	
+ES2006b.D.dialog-act.s9553330.157	because then you could already yell at the television 	
+ES2006b.D.dialog-act.s9553330.158	and you wouldn't you you wouldn't need the remote control , 	
+ES2006b.D.dialog-act.s9553330.159	so the remote control is still something you keep n near yourself . 	
+ES2006b.B.dialog-act.s9553330.185	Yeah , yeah , 	
+ES2006b.B.dialog-act.s9553330.186	I suppose nearer to you 	
+ES2006b.B.dialog-act.s9553330.187	but a b like if you have surround sound then 	
+ES2006b.A.dialog-act.s9553330.213	Mm 	
+ES2006b.C.dialog-act.s9553330.235	Mm . 	
+ES2006b.A.dialog-act.s9553330.214	yeah and it might become very difficult from a distance for the television to understand what you're saying because of the noise factor for the remote control 	
+ES2006b.D.dialog-act.s9553330.160	Yeah , yeah , yeah . 	
+ES2006b.C.dialog-act.s9553330.236	Yeah . 	
+ES2006b.A.dialog-act.s9553330.215	being cl I mean it'll it'll mm . 	
+ES2006b.D.dialog-act.s9553330.161	No , but I I I was just defending the the fact why why we want to keep the remote control close to us , a and uh not to yell at it from the distance . 	
+ES2006b.C.dialog-act.s9553330.237	Yeah . 	
+ES2006b.A.dialog-act.s9553330.216	Yeah . 	
+ES2006b.C.dialog-act.s9553330.238	Yeah . 	
+ES2006b.A.dialog-act.s9553330.217	Mm . 	
+ES2006b.C.dialog-act.s9553330.239	Yeah . 	
+ES2006b.A.dialog-act.s9553330.218	So uh wh another thing uh that can be used is that uh there can be a beeper button on the T_V_ , 	
+ES2006b.A.dialog-act.s9553330.219	so you can go and press that button and um and the remote control , wherever it is , it'll beep , 	
+ES2006b.C.dialog-act.s9553330.240	Mm-hmm . 	
+ES2006b.A.dialog-act.s9553330.220	so we we can probably come to know where it is . 	
+ES2006b.C.dialog-act.s9553330.241	That's 	
+ES2006b.D.dialog-act.s9553330.162	Okay . 	
+ES2006b.C.dialog-act.s9553330.242	but then if you're buying the remote separately , 	
+ES2006b.B.dialog-act.s9553330.188	Yeah . 	
+ES2006b.C.dialog-act.s9553330.243	but y you could have something , but i if it was something that you could like stick onto the T_V_ or something , 	
+ES2006b.D.dialog-act.s9553330.163	Oh yeah , yeah . 	
+ES2006b.A.dialog-act.s9553330.221	Right , yeah , yeah , yeah . 	
+ES2006b.D.dialog-act.s9553330.164	Okay , yeah , mm-hmm . 	
+ES2006b.C.dialog-act.s9553330.244	some like a two p if you bought it in a two part pack , so one part attaches to the T_V_ . 	
+ES2006b.B.dialog-act.s9553330.189	Yeah , 'cause it's it's quite important that you don't lose the the bit to locate the remote control . 	
+ES2006b.C.dialog-act.s9553330.245	The l 	
+ES2006b.C.dialog-act.s9553330.246	Well that's right , 	
+ES2006b.A.dialog-act.s9553330.222	Alright , yeah . 	
+ES2006b.C.dialog-act.s9553330.247	but it solves the problem of having different noises . 	
+ES2006b.B.dialog-act.s9553330.190	Yeah , definitely , yeah . 	
+ES2006b.C.dialog-act.s9553330.248	Yeah . Okay , 	
+ES2006b.C.dialog-act.s9553330.249	I think we're gonna have to wrap this up um . 	
+ES2006b.C.dialog-act.s9553330.251	But if we go away with that that kind of general um specification in mind that we're looking at fifteen to thirty five year olds , we want it to look simple , but still have the buttons so it's easy to use , but only those key buttons , the major buttons and then one sort of menu one , and then voice recognition included as an option 	
+ES2006b.D.dialog-act.s9553330.165	The major ones , yeah . 	
+ES2006b.D.dialog-act.s9553330.166	Mm-hmm . 	
+ES2006b.A.dialog-act.s9553330.224	Right . 	
+ES2006b.C.dialog-act.s9553330.250	um but that obviously needs a little bit more working out as to whether it's really feasible and some of those problems we were mentioning um . 	
+ES2006b.A.dialog-act.s9553330.223	Okay . 	
+ES2006b.C.dialog-act.s9553330.252	What we have to do now is to go back to our little places , 	
+ES2006b.C.dialog-act.s9553330.253	complete our questionnaire 	
+ES2006b.C.dialog-act.s9553330.254	and some sort of summarisation , 	
+ES2006b.C.dialog-act.s9553330.255	which y you'll get immediately by email . 	
+ES2006b.C.dialog-act.s9553330.256	Send me your presentations so that I can use them to make the minutes , 	
+ES2006b.C.dialog-act.s9553330.257	and then we've got a lunch break 	
+ES2006b.A.dialog-act.s9553330.225		
+ES2006b.D.dialog-act.s9553330.167	Mm-hmm . 	
+ES2006b.C.dialog-act.s9553330.258	and after lunch we go back to our own little stations and have thirty minutes more work . 	
+ES2006b.C.dialog-act.s9553330.259	Um I'll put the minutes in that project documents folder , 	
+ES2006b.C.dialog-act.s9553330.260	but I'll send you an email when I do it , so that you know . 	
+ES2006b.A.dialog-act.s9553330.226	So where exactly is this i 	
+ES2006b.C.dialog-act.s9553330.261	It should be on your desktop , 	
+ES2006b.C.dialog-act.s9553330.262	so on the 	
+ES2006b.A.dialog-act.s9553330.227	Ah , okay . 	
+ES2006b.C.dialog-act.s9553330.263	yeah . 	
+ES2006b.A.dialog-act.s9553330.228	Yeah . 	
+ES2006b.D.dialog-act.s9553330.168	Yeah . 	
+ES2006b.C.dialog-act.s9553330.264	So I'll put it I'll put them there as soon as I've written them . 	
+ES2006b.D.dialog-act.s9553330.169	Did you find it ? 	
+ES2006b.D.dialog-act.s9553330.170	It's just 	
+ES2006b.A.dialog-act.s9553330.229	Yeah , yeah in that one , 	
+ES2006b.D.dialog-act.s9553330.171	yeah , yeah . 	
+ES2006b.A.dialog-act.s9553330.230	right yeah . 	
+ES2006b.C.dialog-act.s9553330.265	Yeah , and email them round . 	
+ES2006b.B.dialog-act.s9553330.191	Oh , so y you want our um PowerPoint presentations in there , hey ? 	
+ES2006b.C.dialog-act.s9553330.266	Yeah , 	
+ES2006b.C.dialog-act.s9553330.267	that would be great . 	
+ES2006b.B.dialog-act.s9553330.192	Okay . 	
+ES2006b.D.dialog-act.s9553330.172	Oh so so we'll just put them i there , 	
+ES2006b.C.dialog-act.s9553330.268	Oh yeah , put them in there . Yeah , 	
+ES2006b.D.dialog-act.s9553330.173	we we yeah , w we won't even okay . 	
+ES2006b.B.dialog-act.s9553330.194	There you go . 	
+ES2006b.C.dialog-act.s9553330.271	then you don't have to email them . 	
+ES2006b.B.dialog-act.s9553330.193	But is everyone's called functional requirements ? 	
+ES2006b.C.dialog-act.s9553330.270	No , 	
+ES2006b.A.dialog-act.s9553330.231	No . 	
+ES2006b.C.dialog-act.s9553330.272	they're all called something slightly different . 	
+ES2006b.C.dialog-act.s9553330.273	Technical requirements and something something , yeah . 	
+ES2006b.B.dialog-act.s9553330.195	Okay , so that's good . 	
+ES2006b.D.dialog-act.s9553330.174	Yeah . 	
+ES2006b.B.dialog-act.s9553330.196	That's me done . 	
+ES2006b.C.dialog-act.s9553330.274	So , if you put them in there , we'll all be able to see them and refer to them if we need to . 	
+ES2006b.B.dialog-act.s9553330.197	Okay , cool . 	
+ES2006b.C.dialog-act.s9553330.275	Um 	
+ES2006b.C.dialog-act.s9553330.276	as to where we're going from here , you're going to look at the components concept . 	
+ES2006b.A.dialog-act.s9553330.232	Right . 	
+ES2006b.C.dialog-act.s9553330.277	Yeah ? 	
+ES2006b.C.dialog-act.s9553330.278	Whatever that means . 	
+ES2006b.D.dialog-act.s9553330.176	Yeah . 	
+ES2006b.C.dialog-act.s9553330.279	Yeah . 	
+ES2006b.A.dialog-act.s9553330.233	I guess I'll find out . 	
+ES2006b.D.dialog-act.s9553330.177		
+ES2006b.C.dialog-act.s9553330.280	You'll be looking you'll be looking at the user interface concept , 	
+ES2006b.B.dialog-act.s9553330.198		
+ES2006b.D.dialog-act.s9553330.178	Uh something conceptual , yeah . 	
+ES2006b.C.dialog-act.s9553330.281	on something conceptual 	
+ES2006b.C.dialog-act.s9553330.282	and you're watching trends to see how we go 	
+ES2006b.C.dialog-act.s9553330.283	and surely voice recognition'll fall off the map or something that 	
+ES2006b.B.dialog-act.s9553330.199		
+ES2006b.C.dialog-act.s9553330.284	um we'll keep keep our options op hmm ? 	
+ES2006b.A.dialog-act.s9553330.234	Wha what was it again that I was supposed to look into ? 	
+ES2006b.A.dialog-act.s9553330.235	Con components , oh . 	
+ES2006b.C.dialog-act.s9553330.285	Components , 	
+ES2006b.D.dialog-act.s9553330.179	Hmm . 	
+ES2006b.D.dialog-act.s9553330.180	Sorry , 	
+ES2006b.D.dialog-act.s9553330.181	but um the next meeting um are we going to have it um right after lunch 	
+ES2006b.C.dialog-act.s9553330.286	yeah . 	
+ES2006b.D.dialog-act.s9553330.182	or shall we prepare our 	
+ES2006b.C.dialog-act.s9553330.287	No , 	
+ES2006b.C.dialog-act.s9553330.288	we have we have 	
+ES2006b.C.dialog-act.s9553330.289	after lunch we have thirty minutes to ourselves to prepare , 	
+ES2006b.D.dialog-act.s9553330.183	To prepare , 	
+ES2006b.D.dialog-act.s9553330.184	okay , yeah , that's good . 	
+ES2006b.C.dialog-act.s9553330.290	so that's fine , 	
+ES2006b.C.dialog-act.s9553330.291	w before lunch we just have to complete the questionnaire and some sort of summary . 	
+ES2006b.D.dialog-act.s9553330.185	Okay . 	
+ES2006b.C.dialog-act.s9553330.292	Okay ? 	
+ES2006b.C.dialog-act.s9553330.293	Right on time . 	
+ES2006b.D.dialog-act.s9553330.186	Cool . 	
+ES2006b.D.dialog-act.s9553330.187		
+ES2006b.C.dialog-act.s9553330.294	Okay , 	
+ES2006b.C.dialog-act.s9553330.295	so you can 	
+ES2006b.C.dialog-act.s9553330.296	I guess we'll see you for lunch in a sec ? 	
+ES2006b.B.dialog-act.s9553330.200		
+ES2006b.D.dialog-act.s9553330.188	Okay , see you . 	
+
